@@ -7,8 +7,9 @@
         <prepDate>2003/05/22 CH</prepDate>
         <prepDate>2003/10/14 NS</prepDate>
         <prepDate>2014-07-02 CH clean tags</prepDate>
+        <prepDate>2015-02-18 EK index and check tags</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-03-26">26 March 1911</docDate>
+        <docDate value="1911-03-26">26 Mar. 1911</docDate>
         <docTitle>
             <titlePart>To Mothers--Our Duty</titlePart>
         </docTitle>
@@ -23,12 +24,16 @@
         </respStmt>
     </mepHeader>
     <headNote>
+        <index level1="motherhood" level2="MS on"/>
         <index level1="mortality rates" level2="infant"/>
         <index level1="child labor"/>
-        <index level1="mother's pensions"/>
-        <index level1="women" level2="maternal feelings"/>
-        <index level1="working classes" level2="women and girls"/>
+        <index level1="socialism and socialists" level2="MS on"/>
+        <index level1="women and girls" level2="maternal feelings"/>
+        <index level1="women and girls" level2="and gender roles"/>
+        <index level1="women and girls" level2="rights of"/>
         <index level1="working classes" level2="children"/>
+        <index level1="working classes" level2="and family size"/>
+        <index level1="working classes" level2="women and girls"/>
     </headNote>
     <docBody>
         <head>TO MOTHERS ---- OUR DUTY</head>
@@ -39,12 +44,12 @@
             element about "Woman's Duty."</p>
         <p>This question of duty seems to be a stickler, and seems to confine itself to woman
             only.</p>
-        <p>This "duty," so called, means that women should remain at home, not necessarily to drudge
-            -- not at all -- for among those women referred to above, the servant question forms a
-            large part of their conversation; but all "duty" means the care of the home, of the
-            children -- the problem of feeding them carefully (even scientifically), of making their
+        <p>This "duty," so called, means that women should remain at home, not necessarily to
+            drudge-- not at all--for among those women referred to above, the servant question forms
+            a large part of their conversation; but all "duty" means the care of the home, of the
+            children--the problem of feeding them carefully (even scientifically), of making their
             little bodies strong and robust, in fact, of giving them a good foundation mentally and
-            physically -- for life.</p>
+            physically--for life.</p>
         <p>Most men think a woman's duty is done when she attends to these needs of her children,
             but to me she has but begun to do her duty.</p>
         <p>Let us take a young woman in the most ideal conditions of this life; she has given much
@@ -70,14 +75,14 @@
         <p>Here we find the little mothers at 8, 9 and 10 years of age; here we see them already at
             work carrying responsibilities of the home, factory or mill; education is a thing apart
             from this child, childhood yearnings are crushed, childish joys are barred here, there
-            is time for but one thing -- work. Work through childhood, through girlhood and
+            is time for but one thing--work. Work through childhood, through girlhood and
             womanhood.</p>
         <p>We follow this child-mother up to the marriage day and find she has given her childhood,
             girlhood, womanhood, her strength, her very life to the factory or mill for an
             existence, an existence which the owner of the factory would not allow his horse or dog.
-            Her face is pale and pinched with that hunting look of poverty; it never changes -- she
-            is born, lives and dies with that look. She is married at night after the day's work,
-            that she lose not one day's time.</p>
+            Her face is pale and pinched with that hunting look of poverty; it never changes--she is
+            born, lives and dies with that look. She is married at night after the day's work, that
+            she lose not one day's time.</p>
         <p>On, on in the same monotonous way; on, on, waiting for the end.</p>
         <p>There's no time for her to think of the little one's coming; she must work only the
             harder because of its coming.</p>
@@ -103,8 +108,8 @@
             their homes, back to their little ones, back to that which belongs to every mother --
             the care and love of her offspring.</p>
         <p>By the way, do we ever hear the male element, who so strongly advocate "home duty" for
-            the\ "bridge" mother, advocate home duty for these women? It is only the "bridge"
-            women's children who need the care and attention of the mother, evidently.</p>
+            the "bridge" mother, advocate home duty for these women? It is only the "bridge" women's
+            children who need the care and attention of the mother, evidently.</p>
         <p>Let us turn to the mother we have just beheld with her new-born infant. What is to be
             done with this subnormal piece of humanity? Does it not need even more care and
             attention than a normal child? But what does it get? Dire poverty drives this mother
@@ -117,7 +122,7 @@
         <p>The little one is placed here among the filth and debris of the workshop. It grows
             through babyhood and childhood motherless, fatherless and moralless.</p>
         <p>Of course, there are other alternatives, such as the charity kindergartens <add
-                resp="NYCE">{so limited in number as to be negligible. --Ed.}</add>, but always the
+                resp="NYCE">{so limited in number as to be negligible.--Ed.}</add>, but always the
             mother on the industrial field is cheated of love and care of her offspring.</p>
         <p>In this age of Christianity, in this advanced twentieth century, when science has
             discovered the methods of breeding the finest horses and dogs, when science has turned
@@ -132,17 +137,19 @@
                 lives</q>."</p>
         <p>Look at the health report for the past three years and see the loss of children in <place
                 reg="New York, NY">New York City</place> alone: <list>
-                <item>Under Under Under<lb/>one two five<lb/>Year. year. years. years.<lb/></item>
-                <item>1908 16,231 20,462 24,141<lb/></item>
-                <item>1909 15,976 20,716 24,519<lb/></item>
-                <item>1910 16,213 20,560 24,266</item>
-                <lb/>
-            </list> Or 48,420 little infants under one year of age and 72,926 children under five,
-            all in three years. What a shameful slaughter! What a cowardly and selfish people to
-            allow these modern <person>Herod</person>s, Poverty and Ignorance, deliberately and
-            silently to do away with this army of innocent and helpless babies!</p>
+                <item>1908----Under one year--16,231, Under two years---20,462 Under three
+                    years--24,141</item>
+                <item>1909----Under one year--15,976, Under two years--20,716, Under three
+                    years--24,519</item>
+                <item>1910----Under one year--16,213, Under two years--20,560, under three
+                    years--24,266</item>
+            </list></p>
+        <p>Or 48,420 little infants under one year of age and 72,926 children under five, all in
+            three years. What a shameful slaughter! What a cowardly and selfish people to allow
+            these modern <person reg="King Herod Antipater">Herod's</person>, Poverty and Ignorance,
+            deliberately and silently to do away with this army of innocent and helpless babies!</p>
         <p> Why should these countless fathers and mothers, almost one million times greater in
-            number, surrender to these few monster exploiters -- to this Capitalistic System which
+            number, surrender to these few monster exploiters--to this Capitalistic System which
             bases its existence on the fiendish exploitation, and ultimate murder of these
             children?</p>
         <p>We do not wonder such a small percentage of these children attain the age of puberty. Yet
@@ -157,12 +164,12 @@
             have no need of suffering the awful pangs, of seeing them go out of the world, so soon,
             pangs which are so much keener than those which bring them here. All these and a
             thousand other sufferings and evils could be stamped out if man would do his duty.</p>
-        <p>There are two steps toward progress in this universe -- organization and specialization.
+        <p>There are two steps toward progress in this universe--organization and specialization.
             Mothers, let us not consider we are progressing. Let us not consider we have done our
             duty, until we have first organized. Then let us specialize in attacking and stamping
             out this social system.</p>
-        <p>We must organize -- all women who have one vestige of love in our hearts, for children;
-            all women who have interest in the progress of humanity; all should organize, but not
+        <p>We must organize--all women who have one vestige of love in our hearts, for children; all
+            women who have interest in the progress of humanity; all should organize, but not
             alone.</p>
         <p>We should organize under a banner which advocates our cause. We should join the party
             (there is but one, the <org>Socialist party</org>) which solves the problems of each and

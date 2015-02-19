@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Add">
+	<mepHeader>
+		<prepDate>2014-12-19 LF transcribe and encode</prepDate>
+		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
+		<prepDate>2015-02-18 EK correct proof and index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1920-11-12"> 12 Nov. <supplied resp="MSPP">1920</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">League of Women Voters Speech
+				Notes</supplied></titlePart>
+		</docTitle>
+		<idno>msp236124</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College </bibl>
+			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:853</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control" level2="class-based"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="working classes and"/>
+		<index level1="family size" level2="class-based"/>
+	</headNote>
+	<docBody>
+		<head>
+			<org>
+				<emph rend="underline">League of Woman Voters</emph>
+			</org>
+		</head>
+		<dateline>
+			<date value="1920-11-12">Nov 12</date>
+		</dateline>
+		<p>Subject of b.c. raised from the personal, individual aspect to the racial and
+			international,</p>
+		<p>In <place reg="United States">U.S.A</place>. the personal--in <place>Europe</place>
+			racial conflict. Conflict between that which is true biologically <emph rend="underline"
+				>or</emph> economically &amp; that which appeals to us from the religious or Social
+			point of view. Let all of these aspects be discussed. So that we shall know &amp; be
+			able to give a reason for the faith that is in us.</p>
+		<p>Two classes of Society--} large &amp; small families.</p>
+		<p>One class limited members for past 1/2 century thereby raising the lever &amp; allowing
+			the other class to enter--had this not been done--working class would have been down to
+			paupers &amp; deplorable conditions infant mortality. Today large <supplied resp="MSPP"
+				>family</supplied> &rcub; poverty, overcrowding. </p>
+	</docBody>
+</doc>
