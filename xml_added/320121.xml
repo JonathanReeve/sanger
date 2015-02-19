@@ -8,14 +8,17 @@
         <prepDate>2003/11/25 CH cleaned up tags, added page number and xref</prepDate>
         <prepDate>2007/05/07 CH added DOC type, checked tags</prepDate>
         <prepDate>2014-03-04 CH corrected regs</prepDate>
+        <prepDate>2015-02-18 EKcorrect index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-09-03">03 Sep 1911</docDate>
+        <docDate value="1911-09-03">03 Sept. 1911</docDate>
         <docTitle>
             <titlePart>Impressions of the East Side</titlePart>
         </docTitle>
         <idno>msp320121</idno>
         <sourceDesc>
-            <bibl><title type="journal">New York Call</title>, Sept. 3, 1911, 15</bibl>
+            <bibl><title type="article">Impressions of the East Side</title><title type="journal"
+                    >New York Call</title>, Sept. 3, 1911, 15</bibl>
+            <bibl><title type="microfilm">Margaret Sanger Papers, Library of Congress,</title> LCM 135:172</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -23,11 +26,16 @@
         </respStmt>
     </mepHeader>
     <headNote>
-        <p>For Part II of this article see <xref from="320122.xml">Impressions of the East
-                Side</xref>, Sept. 10, 1911.</p>
+        <p>For Part II of this article see <xref from="320122.xml">"Impressions of the East
+                Side"</xref>, Sept. 10, 1911.</p>
         <index level1="child labor"/>
-        <index level1="working classes" level2="children"/>
+        <index level1="family size" level2="and poverty"/>
         <index level1="milk stations"/>
+        <index level1="poverty"/>
+        <index level1="quacks and quackery"/>
+        <index level1="working classes" level2="and family size"/>
+        <index level1="working classes" level2="children"/>
+        <index level1="working classes" level2="living conditions"/>
         <index level1="working classes" level2="women and girls"/>
     </headNote>
     <docBody>

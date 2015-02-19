@@ -3,6 +3,7 @@
 <doc type="Autograph draft speech">
     <mepHeader>
         <prepDate>2014-08-19 KH</prepDate>
+        <prepDate>2015-02-18 EK correct proof and index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1920-12-03">3 Dec 1920</docDate>
         <docTitle>
@@ -11,73 +12,60 @@
         <idno>msp236377</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-            <bibl><title>Margaret Sanger Microfilm Sophia Smith Collection</title> S70:0854</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Sophia Smith Collection,</title> S70:0854</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name/>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>Sanger used these notes for a speech to the <org>Berks County Birth
-                Control Association</org> at the Berkshire Hotel in <place>Reading, PA</place> on
-            Dec 3, 1920. For a typed draft see</p><index level1="birth control" level2="access to"/>
-        <index level1="birth control" level2="access to" level3="in remote places"/>
-        <index level1="birth control" level2="access to" level3="international"/>
-        <index level1="birth control" level2="American opinion on"/>
-        <index level1="birth control" level2="civilization and"/>
-        <index level1="birth control" level2="class-based"/>
-        <index level1="birth control" level2="definitions of"/>
-        <index level1="birth control" level2="population and"/><index level1="birth rate"/>
-        <index level1="birth rate" level2="consequences on"/>
-        <index level1="birth rate" level2="decline in"/>
-        <index level1="birth rate" level2="increase in"/>
-        <index level1="birth rate" level2="efforts to increase"/>
-        <index level1="birth rate" level2="efforts to reduce"/>
-        <index level1="birth rate" level2="population growth and"/><index level1="England"
-            level2="birth control in"/>
-        <index level1="England" level2="birth rate in"/><index level1="immigration" level2="MS on"/>
-        <index level1="immigration" level2="birth control and"/>
-        <index level1="immigration" level2="U.S. policy"/>
-        <index level1="England" level2="MS on"/>
-        <index level1="England" level2="population policies of"/>
-        <index level1="Starr, David Jones"/>
-        <index level1="Wells, HG"/>
-        <index level1="working classes" level2="birth control and"/>
-        <index level1="working classes" level2="fertility of"/>
-        <index level1="working classes" level2="living conditions of"/>
-        <index level1="working classes" level2="MS on"/>
-        <index level1="women" level2="health of"/>
-        <index level1="women" level2="reproductive choices and decisions"/></headNote>
+    <headNote resp="MSPP"><p>Sanger used these notes for a speech given at the Berkshire Hotel in
+                <place>Reading, PA</place> on Dec 3, 1920. For a typed draft see <xref from="236378"
+                    >S70:856</xref>. Note handwritten by sanger at top of first page reads:"<lb></lb>1919--deaths 302 under 1 year--
+    <lb></lb><supplied resp="MSPP">"1919--deaths</supplied> 154 still born.</p>
+        <index level1="birth control" level2="and public health"/>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="birth control clinics and leagues" level2="need for"/>
+        <index level1="birth control laws and legislation" level2="MS on"/>
+        <index level1="family size" level2="and poverty"/>
+        <index level1="family size" level2="MS on"/>
+        <index level1="mortality rate" level2="infant"/>
+        <index level1="law breaking and direct action" level2="MS on"/>
+        <index level1="women and girls" level2="enslavement of"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+    </headNote>
     <docBody>
-        <dateline><date value="1920-12-03"/>and <place>Reading, Pa</place></dateline>
-        <p>1914-deaths 302, under 1 year- 154 still born 154 38 2503 women 154</p>
+        <dateline><place reg="Reading, PA">Reading, Pa.</place> <date>Dec. 3--1920</date></dateline>
+        <p>1919--deaths 302, under 1 year-- <lb></lb><supplied>1919--deaths</supplied>154 still born.</p>
         <p>Woman must be protected from incessant child bearing before she can actively participate
-            in social life. She must triumph over natures laws which have kept her in bondage.</p>
-        <p>She must triumph over these as man has in electricity ship building etc. She must
+            in social life.</p> <p>She must triumph over natures laws which have kept her in bondage.</p>
+        <p>She must triumph over these as man has in electricity ship building--etc. She must
             challenge these laws which have made her a child bearing machine. Only then can she
             develop her personality &amp; individuality &amp; prepare with man for that greatest of
-            all goals, the emanciaption of the human race.</p>
-        <p>Reading, Pa <del><person reg="Steveson, Robert Louis">Robert Louis
+            all goals--the emancipation of the human race.</p>
+        <p><del><person reg="Steveson, Robert Louis">Robert Louis
                 Stevenson</person></del>
             <del>Condemnation is misunderstanding</del></p>
-        <p><person reg="Wells, H.G.">H.G.</person> intelligence slow to develop</p>
-        <p>Definition of birth Control</p>
-        <p>Nature</p>
-        <p>Two kinds of people Large &amp; small families&rcub; Poverty disease misery overcrowding
-            unemployment child labor infant mortality</p>
-        <p>Two <del>kinds of</del> women start alike&rcub;prudery on sex subject&rcub; inventions
-            discoveries vegetable &amp; animal kingdom </p>
-        <p>Legislative palliatives &amp; &lcub;charities not fundamental 8 hour day-for
-            mothers&rcub; 7 million child laborers 300,000 children under 1 year die 23,000 mothers
-            die a year 25,0000 illegal abortions feeble minded &amp; prostitution</p>
-        <p>T.B. 7-4-heart disease-kidney disease </p>
-        <p>Insane &amp; <emph rend="underline">T.B</emph> syphilitic women care </p>
-        <p>Abortions--my last case--quacks</p>
-        <p><place>England</place>-<place reg="Netherlands"
-                >Holland</place>-<place>Germany</place>-<place>Russia</place> (new movement) clinics
-            young people marry</p>
-        <p><place reg="United States">U.S.A.</place> laws-none in <place reg="Pennslyvania"
-                >Pa</place>-Peace Treaty</p>
-        <p>Clinics-keynote of woman social awakening</p>
+        <p><person reg="Wells, H.G.">H.G.</person> intelligence slow to develop--</p>
+        <p>Definition of birth control--</p>
+        <p>Nature--</p>
+        <p>Two kinds of people Large &amp; small families}
+            <list><item>Poverty</item> <item>disease</item> <item>misery</item> <item>overcrowding</item><item>unemployment</item>               
+                <item>unemployment</item> <item>child labor</item> <item>infant mortality</item></list></p>
+        <p>Two <del>kinds of</del> women start alike}</p><list><item>prudery on sex subjects</item> <item>inventions</item>
+            <item>discoveries</item> <item>vegetable</item> <item>&amp; animal kingdom</item> </list>
+        <p>Legislative palliatives} 8 hour day-for
+            mothers</p>
+        <p>&amp; charities not fundamental}</p>
+        <list><item>7 million child laborers</item> <item>300,000 babies under 1 year die</item> <item>23,000 mothers
+            die a year</item> <item>25,0000 illegal abortions</item> <item>feeble minded &amp; prostitutes</item></list>
+         <p>T.B. 7--4--heart disease-kidney disease</p>
+        <p>{Insane &amp; <emph rend="underline">T.B.</emph> syphilitic woman case</p>
+        <p><emph rend="underline">Abortions</emph>--my last case--quacks</p>
+        <p><place>England</place>--<place reg="Netherlands, the"
+                >Holland</place>--<place>Germany</place>--new movement) clinics--young people marry. <place>Russia</place>.</p>
+        <p><place reg="United States">U.S.A.</place> laws--none in <place reg="Pennslyvania"
+            >Pa.</place>--<emph rend="underline">Peace Treaty</emph></p>
+        <p>Clinics--keynote of new social awakening.</p>
     </docBody>
 </doc>
