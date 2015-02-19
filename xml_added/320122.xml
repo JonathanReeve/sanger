@@ -7,14 +7,15 @@
         <prepDate>2003/11/25 CH cleaned up tags</prepDate>
         <prepDate>2007/05/30 CH Oxygen update</prepDate>
         <prepDate>2014-03-05 CH clean regs</prepDate>
+        <prepDate>2015-02-19 EK correct index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-09-10">10 Sept 1911</docDate>
+        <docDate value="1911-09-10">10 Sept. 1911</docDate>
         <docTitle>
             <titlePart>Impressions of the East Side</titlePart>
         </docTitle>
         <idno>msp320122</idno>
         <sourceDesc>
-            <bibl><title type="journal">New York Call</title>, Sept. 10, 1911, 15</bibl>
+            <bibl><title type="journal">New York Call</title>, Sept. 10, 1911, p. 15</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -24,11 +25,13 @@
     <headNote>
         <p>For Part I see "<xref from="320121.xml">Impressions of the East Side</xref>, Sept. 3,
             1911.</p>
-        <index level1="socialism"/>
-        <index level1="working classes" level2="children"/>
         <index level1="capitalism"/>
+        <index level1="parenthood"/>
         <index level1="poverty"/>
-        <index level1="physicians" level2="MS on"/>
+        <index level1="physicians" level2="MS on"/><index level1="socialism and socialists"
+            level2="MS on"/>
+        <index level1="working classes" level2="living conditions"/>
+        <index level1="working classes" level2="MS on"/>
     </headNote>
     <docBody>
         <head>Impressions of the East Side</head>
@@ -41,7 +44,7 @@
             life is to move up town, to cleaner quarters, but even when they are able to, the fear
             that "luck" will leave them, keeps them down town. A physician of some repute, living
             down town, when asked why he lives down there when his practice is mostly up town, said,
-                "<q who="UNK"> "Luck" came to him there and he will stay with it.</q>" Almost
+                "<q who="UNK">'Luck' came to him there and he will stay with it.</q>" Almost
             everything depends on "luck," to them it seems almost a part of their religion, and is
             difficult to overcome. </p>
         <p>Their great desire is to get "rich" and employ men and women. The capitalistic instinct
@@ -76,8 +79,8 @@
             terrible hunger which has taken possession of you. The people are always eating, for
             they are always hungry. </p>
         <p>The parents' love of the little ones is almost animal like in its emotions, especially to
-            those under four, after that--well--it's just like waiting for the years to pass
-            till they can bring in some return for their earthly existence.</p>
+            those under four, after that--well--it's just like waiting for the years to pass till
+            they can bring in some return for their earthly existence.</p>
         <p>The shouting, screaming and swearing at the children and even at the infants, is
             impossible to conceive of, having had no childhood themselves it is difficult for them
             to realize the evolution or state of the child mind, and a child of four or five is
