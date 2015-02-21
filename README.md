@@ -1,5 +1,5 @@
 #About this Project
-This is a project to rennovate the Margaret Sanger Papers Project Electronic Edition search engine, fixing bugs and adding features where necessary. Visit the project at http://sangerpapers.org/sanger/app/documents
+This is a project to rennovate the Margaret Sanger Papers Project Electronic Edition search engine, fixing bugs and adding features where necessary. Visit the project at http://sangerpapers.org/sanger/app/documents/search.php
 
 #New Features
 New features of this edition include: 
