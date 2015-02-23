@@ -10,8 +10,9 @@
         <prepDate>2011/03/10 CH Entered corrections suggested by Andy Carloff.</prepDate>
         <prepDate>2014/01/09 CH Added last part and reference to WEMSK</prepDate>
         <prepDate>2014-11-10 CH clean regs</prepDate>
+        <prepDate>2015-02-19 EK update index and check tags</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-10-29">29 Oct 1911</docDate>
+        <docDate value="1911-10-29">29 Oct. 1911</docDate>
         <docTitle>
             <titlePart>How Six Little Children Were Taught the Truth</titlePart>
         </docTitle>
@@ -29,11 +30,13 @@
             for Part 7, see <xref from="320088.xml">Dec. 17, 1911.</xref></p>
         <p>This series was compiled and published as <title type="book">What Every Mother Should
                 Know</title>, (New York, 1912).</p>
+        <index level1="reproduction"/>
         <index level1="sex education"/>
+        <index level1="sex and sexuality" level2="MS on"/>
     </headNote>
     <docBody>
         <head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>
-        <byline>Copyright 1911. By <person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
+        <byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
         <head type="sub">Part I--Introduction.</head>
         <p>There is scarcely any subject which is of greater importance or of greater interest to
             parents than this subject of teaching children the truth about life and birth.</p>
@@ -60,29 +63,28 @@
             buildings, all tend to show childrens' thoughts. And in these actions the teacher sees
             the danger signal. She realizes this in the first awful step, and not knowing how to
             cope with these conditions, she calls for help.</p>
-        <p>The time comes to every mother when she first hears her child say, "When I get big and
-                have a little girl I'll, etc."--showing that the natural average child takes
-            it as a matter of course that at some future time he or she will have children, too.
+        <p>The time comes to every mother when she first hears her child say, "<q>When I get big and
+                have a little girl I'll, etc.</q>"--showing that the natural average child takes it
+            as a matter of course that at some future time he or she will have children, too.
             Shortly after this, questions are likely to begin, as when the parents speak of things
             they did, or places they went to either before marriage or early after, and the child
             asks:</p>
-        <p>"What did I do, father?" "Was I there, too, mother?"</p>
+        <p>"<q>What did I do, father?</q>" "<q>Was I there, too, mother?</q>"</p>
         <p>Then begins the mystery. And the lies told by the parents in answer to these simple
             questions are shameful to hear. Father and mother smile slyly at each other and
             reply:</p>
-        <p>"Oh, no, dearie, you were not there."</p>
-        <p>"Where was I, then?" the child insists.</p>
+        <p>"<q>Oh, no, dearie, you were not there.</q>"</p>
+        <p>"<q>Where was I, then?</q>" the child insists.</p>
         <p>Another sly look passes between the parents and the lies begin.</p>
-        <p>"You were in heaven," or "among the flowers, etc."</p>
-        <p>"How did I get HERE, then?" continues the small questioner, who is in quest of
-            information concerning THE most important subject in the child world, the
-                "I."</p>
+        <p>"<q>You were in heaven,</q>" or "<q>among the flowers, etc.</q>"</p>
+        <p>"<q>How did I get HERE, then?</q>" continues the small questioner, who is in quest of
+            information concerning THE most important subject in the child world, the "I."</p>
         <p>Then of course, the reply comes that the stork or the angels, or oftimes the doctor
             brought him. However, any answer will do which will delude the child's mind and keep
             him, as the parents say, "innocent."</p>
         <p>Now let us see what happens. This little child is beginning to think. He has received
-            brand new information, something fully as wonderful and mysterious as <person>Santa
-                Claus</person>, and he loves to think about it and talk about it, too.</p>
+            brand new information, something fully as wonderful and mysterious as <name type="deity"
+                >Santa Claus</name>, and he loves to think about it and talk about it, too.</p>
         <p>He goes again to mother (father is not always around) and besieges her with questions,
             and she all in ignorance of the harm she is doing him, becomes so entangled in this mesh
             of lies that she becomes cross, or impatient, and stops his eager questions by sending
@@ -94,13 +96,13 @@
             begins to realize that there is some secrecy, which no one will explain, and he becomes
             determined to find out the meaning of it all.</p>
         <p>By the time this little fellow is one year in school he knows all about who brought him
-            from "heaven" and how the stork came, etc. He may have been most
-            carefully reared in the little things which help to make him thoughtful and considerate
-            of others; he may have been trained in every way to make him upright, honest and
-            truthful, but the vile words with which this information thus received by him is
-            clothed, the base and foul idea of love and marriage, the distorted view of the creative
-            power which he received, cannot help but stunt and deform his mind and leave his
-            conception of the beauty of birth, love and marriage forever scarred.</p>
+            from "heaven" and how the stork came, etc. He may have been most carefully reared in the
+            little things which help to make him thoughtful and considerate of others; he may have
+            been trained in every way to make him upright, honest and truthful, but the vile words
+            with which this information thus received by him is clothed, the base and foul idea of
+            love and marriage, the distorted view of the creative power which he received, cannot
+            help but stunt and deform his mind and leave his conception of the beauty of birth, love
+            and marriage forever scarred.</p>
         <p>If, on the other hand, the child had been told the truth by his parents and had the
             reasons explained to him for not talking to other children on this subject; if he had
             had impressed on him what a trust was his and how beautiful a gift to take care of, he
@@ -111,9 +113,9 @@
             birth.</p>
         <p>This attitude of mind comes from several reasons. One is that there are parents, good,
             faithful and loving, who do not know the dangers and results of street instruction, who
-            think they are keeping the child "pure and innocent" and prefer to
-            give the child the impression of "spiritual" birth, as implied in
-            the answer "<q>The angels brought you from heaven.</q>"</p>
+            think they are keeping the child "pure and innocent" and prefer to give the child the
+            impression of "spiritual" birth, as implied in the answer "<q>The angels brought you
+                from heaven.</q>"</p>
         <p>Again, there are parents who know the value of home instruction, but know not how to tell
             the children or just what to tell them, and it is for these mothers that the following
             articles are written.</p>
@@ -134,7 +136,7 @@
             confidence THROUGH THE TRUTH.</p>
         <p>My object is to help all mothers who wish to give their children the right conception of
             the beautiful truths of reproduction, and we shall begin next week our first lesson:
-                "<title type="article">The Flowers -- Mr. and Mrs. Buttercup, their home and their family</title>."
-        </p>
+                "<title type="article">The Flowers -- Mr. and Mrs. Buttercup, their home and their
+                family</title>." </p>
     </docBody>
 </doc>
