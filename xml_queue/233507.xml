@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="AutographStatement">
+<doc type="Autograph Statement">
 	<mepHeader>
 		<prepDate>2011-07-29 NC</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
@@ -16,7 +16,8 @@
 		<idno>msp233507</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S72:0613</bibl>
+			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>
+				S72:0613</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="MACDO">MacArthur, Douglas</name>
