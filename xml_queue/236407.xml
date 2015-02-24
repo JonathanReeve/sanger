@@ -6,9 +6,11 @@
 		<prepDate>2014-12-19 CH proof tags</prepDate>
 		<prepDate>2015-01-22 CH enter tag corrections</prepDate>
 		<docAuthor>
-			<person><person reg="Sanger, Margaret">Margaret Sanger</person></person>
+			<person>
+				<person reg="Sanger, Margaret">Margaret Sanger</person>
+			</person>
 		</docAuthor>
-		<docDate value="1924/01/10">10 Jan 1924</docDate>
+		<docDate value="1924-01-10">10 Jan 1924</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Speech to the Second Meeting of the American Birth Control
@@ -35,7 +37,7 @@
 				reg="Kennedy, Anne">Anne Kennedy</person>, and <person reg="Porritt, Annie Goodrich"
 				>Annie Goodrich Porritt</person></p>
 		<index level1="American Birth Control League"/>
-		<index level1="birth control movement" level2="history of"/> 
+		<index level1="birth control movement" level2="history of"/>
 	</headNote>
 	<docBody>
 

@@ -6,8 +6,10 @@
 		<prepDate>2014/12/05 EK clean regs</prepDate>
 		<prepDate>2014/12/16 EK Correct proofs</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1924/12/02">2 Dec 1924</docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1924-12-02">2 Dec 1924</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">The Need for Birth Control in America speech notes</supplied>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Typed article">
+<doc type="Typed Article">
 	<mepHeader>
 		<prepDate>2014/04/09 VS initial tagging</prepDate>
 		<prepDate>2015-02-19 CH proof tags and enter</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="(1934-07-10) ">10 July, 1934</docDate>
+		<docDate value="1934-07-10">10 Jul 1934</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the <foreign lang="SWE">Dagens
-						Nyheter</foreign></supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the <foreign lang="SWE">Dagens
+						Nyheter</foreign></supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421078</idno>
 		<sourceDesc>
@@ -27,9 +29,10 @@
 			<name id="SWE">Swedish</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This translation of an Swedish article in the <title type="journal"
-					><foreign lang="SWE">Dagens Nyheter</foreign> was translated by Sanger's staff
-				in 1934. The original article was not found.</title>.</p>
+	<headNote resp="MSPP">
+		<p>This translation of an Swedish article in the <title type="journal"><foreign lang="SWE"
+					>Dagens Nyheter</foreign> was translated by Sanger's staff in 1934. The original
+				article was not found.</title>.</p>
 		<index level1="birth control" level2="access to" level3="international"/>
 		<index level1="birth control" level2="war and"/>
 		<index level1="conferences"
@@ -40,8 +43,11 @@
 	<docBody>
 		<head>FEWER CHILDREN ARE BEST FRONT AGAINST WAR</head>
 		<head type="sub"> U.S.A. HAS THE GREATED PERCENTAGE OF DEATHS IN CHILDBIRTH</head>
-		<dateline><place>Stockholm</place><lb/><date value="1934-07-10">July 10
-			1934</date></dateline>
+		<dateline>
+			<place>Stockholm</place>
+			<lb/>
+			<date value="1934-07-10">July 10 1934</date>
+		</dateline>
 		<div type="section">
 			<p> “For five minutes my proposal concerning a change in <place reg="United States"
 					>U.S.A.</place>’s sixty-year old Birth Control Law was actually elevated to

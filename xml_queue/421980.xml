@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published pamphlet">
+<doc type="Published Article">
 	<mepHeader>
 		<prepDate>2014/06/24 MM</prepDate>
 		<prepDate>2014-12-18 CH correct and enter tags</prepDate>
@@ -22,11 +22,14 @@
 			<name id="FRE">French</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This was Chapter 14 of <title type="book">Woman and the New
-				Race</title>, pp. 186-197, reprinted in pamphlet form.</p>
+	<headNote resp="MSPP">
+		<p>This was Chapter 14 of <title type="book">Woman and the New Race</title>, pp. 186-197,
+			reprinted in pamphlet form.</p>
 		<index level1="Comstock, Anthony"/>
 		<index level1="Comstock Laws"/>
-		<index level1="obscenity"/><index level1="poverty" level2="family size and"/></headNote>
+		<index level1="obscenity"/>
+		<index level1="poverty" level2="family size and"/>
+	</headNote>
 	<docBody>
 		<head>LEGISLATING WOMEN'S MORALS</head>
 		<head type="sub">"Woman and the New Race"</head>

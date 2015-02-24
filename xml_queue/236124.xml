@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Add">
+<doc type="Autograph Draft Speech">
 	<mepHeader>
 		<prepDate>2014-12-19 LF transcribe and encode</prepDate>
 		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
@@ -11,11 +11,13 @@
 			<supplied resp="MSPP">12 Nov 1920</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">League of Women Voters Speech Notes</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">League of Women Voters Speech Notes</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236124</idno>
 		<sourceDesc>
-			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College </bibl>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection </bibl>
 			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:853</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -42,7 +44,7 @@
 			<date value="1920-11-12">Nov 12</date>
 		</dateline>
 		<p>Subject of b.c. raised from the personal individual aspect to the social and
-			internatoinal,</p>
+			international,</p>
 		<p>In <place reg="United States">U.S.A</place>. the personal--in <place>Europe</place>
 			social</p>
 		<p>Conflict between that which is true biologically or Economically &amp; that which appeals
@@ -53,7 +55,6 @@
 		<p>Are class limited members from fact 1/2 country</p>
 		<p>Thereby raising the level &amp; allowing the other class to enter--had there not been
 			done--working class would have been down to paupers &amp; deplorable conditions. Today
-			large family&rcub; poverty, infant mortality, overcrowding.
-		</p>
+			large family&rcub; poverty, infant mortality, overcrowding. </p>
 	</docBody>
 </doc>

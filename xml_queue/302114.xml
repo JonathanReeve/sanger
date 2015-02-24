@@ -10,10 +10,7 @@
 		<docDate value="1928-07-00">Jul 1928</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied>
-					<title type="article">Book Review of <title type="book">THE AGE OF
-							REASON</title></title>
-				</supplied>
+				<supplied resp="MSPP"> Book Review of THE AGE OF REASON </supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp302114</idno>
