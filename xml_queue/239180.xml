@@ -6,7 +6,8 @@
 		<prepDate>2010/03/18 CH proof</prepDate>
 		<prepDate>2013-11-19 CH add reference to similar version.</prepDate>
 		<prepDate>2014-04-13 EK clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-02-26 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1935-03-14">14 Mar 1935</docDate>
 		<docTitle>
 			<titlePart>
@@ -15,11 +16,10 @@
 		</docTitle>
 		<idno>msp239180</idno>
 		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
 			<bibl>
-				<title>Margaret Sanger Papers Microfilm Edition, Smith Collection
-					Collections</title>
-			</bibl>
-			<bibl>S71:0723</bibl>
+				<title type="mf">Margaret Sanger Microfilm, Smith College Collections </title>,
+				S71:0723</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,11 +28,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p><person reg="Sanger, Margaret">Margaret Sanger</person> delivered this radio speech on
-			March 14, 1935 on <place reg="Boston, MA">Boston</place> radios station <org>WEEI</org>.
-			For a very similar version broadcast on <place reg="Indianapolis, IN"
-				>Indianapolis</place> radio, on March 4, 1935, see <emph rend="italics">MSM</emph>
-			S71:733.</p>
+		<p>Margaret Sanger broadcast this speech on <place reg="Boston, MA">Boston</place> radios
+			station <org>WEEI</org>. For similar broadcast from <place reg="Indianapolis, IN"
+				>Indianapolis</place>, on March 4, 1935, see MSM S71:733. The handwritten addition
+			was by Margaret Sanger.</p>
 		<index level1="family size" level2="MS on"/>
 		<index level1="family planning"/>
 		<index level1="family size" level2="men and"/>
@@ -59,19 +58,19 @@
 			to <emph rend="underlined">prevent</emph> , <emph rend="underlined">not to
 				destroy</emph>. It does not mean to interfere with life after it has begun. This is
 			not necessary.</p>
-		<p> “<q who="UNK">Prevention is better than cure</q>” is an old adage rightly applied in
-			family planning. Every mother should have knowledge to help her do this. The father
-			should have a right to say <emph rend="underlined">how many</emph> he can support and
-			the mother should say when they should be born. But first, every mother has a right to
-			consider <emph rend="underlined">her own health</emph> and the <emph rend="underlined"
-				>health of her children</emph> in arranging for the number of children she plans to
-			have. Again, they must be made in consideration of the husband’s earning powers and of
-			the standards of living that the parents wish to maintain. If the father’s wages remain
-			the same and babies continue to arrive year after year, the father soon gets
-			discouraged, what with bills for nurses, hospitals, x-rays, specialists, for adenoid and
-			tonsil operations, dentists and numerous other bills for the mother and the children,
-			the father soon feels the burden which falls too heavily upon his already bent
-			shoulders, even when he is fortunate enough to have an average paying job.</p>
+		<p> “Prevention is better than cure” is an old adage rightly applied in family planning.
+			Every mother should have knowledge to help her do this. The father should have a right
+			to say <emph rend="underlined">how many</emph> he can support and the mother should say
+			when they should be born. But first, every mother has a right to consider <emph
+				rend="underlined">her own health</emph> and the <emph rend="underlined">health of
+				her children</emph> in arranging for the number of children she plans to have.
+			Again, they must be made in consideration of the husband’s earning powers and of the
+			standards of living that the parents wish to maintain. If the father’s wages remain the
+			same and babies continue to arrive year after year, the father soon gets discouraged,
+			what with bills for nurses, hospitals, x-rays, specialists, for adenoid and tonsil
+			operations, dentists and numerous other bills for the mother and the children, the
+			father soon feels the burden which falls too heavily upon his already bent shoulders,
+			even when he is fortunate enough to have an average paying job.</p>
 		<p> There are also other conditions both physical and economic where parents should postpone
 			the arrival of the baby until these conditions are changed. <emph rend="underlined"
 				>1st</emph> and <emph rend="underlined">most important</emph> is; wherever there is
@@ -126,14 +125,13 @@
 			Our population has increased 22,000,000 since 1920 and we continue to increase over 1
 			and 1/2 millions a year.</p>
 		<p> If you are in sympathy with the work I am doing, help me change our laws of
-			Massachusetts, write to me in care of <org reg="radio station">Station WEEI</org>. We
-			have petitions that we wish to present to the <personRef
-				reg="Roosevelt, Franklin Delano">President of the United States</personRef>. We are
-			asking him to help the mothers of the nation to free themselves from the hardships of
-			enslaved maternity. Help the mothers of this nation to help themselves through the
-			knowledge of birth control. </p>
+			Massachusetts, write to me in care of Station WEEI. We have petitions that we wish to
+			present to the <person reg="Roosevelt, Franklin Delano">President of the United
+				States</person>. We are asking him to help the mothers of the nation to free
+			themselves from the hardships of enslaved maternity. Help the mothers of this nation to
+			help themselves through the knowledge of birth control. </p>
 		<p>
-			<add rend="handwritten">Delivered over Station WEEI Thurs. March 14th 1935</add>
+			<add>Delivered over Station WEEI Thurs. March 14th 1935</add>
 		</p>
 	</docBody>
 </doc>
