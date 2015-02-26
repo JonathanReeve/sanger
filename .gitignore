@@ -2,5 +2,8 @@
 *.swp
 *.swo
 
+#Ignore .bak files
+*.bak
+
 #Also don't track private stuff 
 private.php
