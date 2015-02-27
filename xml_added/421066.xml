@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published Article">
+<doc type="Published Statement">
 	<mepHeader>
 		<prepDate>2014/11/04 YG</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-08-20">20 Aug 1935</docDate>
 		<docTitle>
-			<titlePart>Statement on Archbishop John Gregory Murray's Dictate</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Archbishop John Gregory Murray's
+					Dictate</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421066</idno>
 		<sourceDesc>
 			<bibl>
-				<title>New York Herald Tribune</title>
-			</bibl>
-			
+				<title type="article">Mrs. Sanger Corrects Birth Control Critic</title>, <title
+					type="journal">New York Herald Tribune</title>, Aug. 20, 1935 </bibl>
+
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,25 +28,21 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<xref from="421928.xml">For a related statement, see "Statement on Archbishop John Gregory
-			Murray," Aug. 19, 1935</xref>
+		<p> For related statements, see Statement on Archbishop John
+			Gregory Murray, <xref from="421928.xml">Aug. 19, 1935</xref> and <xref from="421067.xml">Oct. 1935</xref>.</p>
 		<index level1="Catholic Church"/>
 		<index level1="Catholic Church" level2="birth control and"/>
 		<index level1="Catholic Church" level2="freedom of speech and"/>
 		<index level1="Catholic Church" level2="MS on"/>
 	</headNote>
 	<docBody>
-		<head><person reg="Sanger, Margaret">Mrs. Sanger</person>Corrects Birth Control
-			Critic</head>
-		<head type="sub">Term Has Nothing to Do With Abortion, She Says in Reply to <person
-				reg="Murray, John Gregory">Archbishop</person></head>
-		<head type="sub">Defends Contraception</head>
-		<head type="sub">Remarks One Cannot Kill What Does Not Exist</head>
+		<head>Mrs. Sanger Corrects Birth Control Critic</head>
+
 		<p>
 			<q who="NYHT">Mrs. Margaret Sanger, birth control leader, drew a sharp distinction
-				between abortion an[d] contraception in replying today to the edict of
-					<person>Archbishop John Gregory Murray</person> of <place
-					reg="Minnesota, St. Paul">St. Paul</place>directing Roman Catholics under his
+				between abortion an[d] contraception in replying today to the edict of Archbishop
+					<person reg="Murray, John Gregory">John Gregory Murray</person> of <place
+					reg="St. Paul, MN">St. Paul</place> directing Roman Catholics under his
 				jurisdiction to hold aloof from all organizations advocating birth control. The
 				archbishop likened birth control advocates to the “<person
 					reg="Dillinger, John Herbert">Dillinger</person>mob,” saying that both were
