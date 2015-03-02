@@ -4,8 +4,9 @@
 	<mepHeader>
 		<prepDate>2014/06/10 AS Encoded</prepDate>
 		<prepDate>2014/12/16 EK correct proof</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1912-08-19">19 Aug. 1913</docDate>
+		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1912-08-19">19 Aug 1913</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">The Soul-less Maid</supplied>
@@ -21,7 +22,7 @@
 		<index level1="love" level2="MS on"/>
 	</headNote>
 	<docBody>
-		<p>(Aug 19--1913.)</p>
+		<dateline>(<date value="1913-08-19">Aug 19--1913</date>.)</dateline>
 		<p>She entered the florist shop <del>and</del>, looked searchingly about <del>for</del>as if
 			to find <del>out the</del> something which she did not expect to find. Then her search
 			rested on a vase of large blood red peonies, which she purchased &amp; departed.</p>
@@ -70,7 +71,7 @@
 			leave him all his resolve--for nought--but now that kiss--and what was that--an
 			odor--peonies-- He opened his eyes, sat straight upward, &amp; caught her madly in his
 			arms--</p>
-		<p><name type="Deity">God</name>--how beautiful she was! <del>The peony first covered</del>
+		<p><name type="deity">God</name>--how beautiful she was! <del>The peony first covered</del>
 			Both arms were now about his neck, he was mad, with joy passion-- Her eyes opened
 				<del>their</del> &amp; he looked into her being into the depths of her being
 				<del>for</del> to find the traces of a soul-- She closed them &amp; he knew it was
