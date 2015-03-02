@@ -6,11 +6,14 @@
 		<prepDate>2014/03/19 CH proof tags</prepDate>
 		<prepDate>2014/03/26 VS</prepDate>
 		<prepDate>2015-02-26 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-03-03">03 Mar 1935</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Speech before the Indianapolis Jewish
-					Association</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control: A World-Wide Need</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421068</idno>
 		<sourceDesc>
@@ -22,10 +25,11 @@
 			<name id="IS">The Indianapolis Star</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No complete version of Sanger's talk was found. Draft notes for the
-			speech can be found on Margaret Sanger Microfilm S71:799. For her comments to the press
-			before this speech, see <xref from="421929.xml">Indianapolis Statement on Relief
-				Agencies</xref>, Mar. 2, 1935.</p>
+	<headNote resp="MSPP">
+		<p>No complete version of Sanger's talk was found. Draft notes for the speech can be found
+			on Margaret Sanger Microfilm S71:799. For her comments to the press before this speech,
+			see <xref from="421929.xml">Indianapolis Statement on Relief Agencies</xref>, Mar. 2,
+			1935.</p>
 		<index level1="birth control" level2="and war"/>
 		<index level1="birth control" level2="as a term"/>
 		<index level1="birth control" level2="distribution of information about"/>
