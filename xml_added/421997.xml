@@ -5,12 +5,14 @@
 		<prepDate>2014/06/17 AS</prepDate>
 		<prepDate>2015-02-13 EK proof index</prepDate>
 		<prepDate>2015-02-23 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1916-02-20">20 Feb 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Address on Dismissal of <title type="journal">Woman
-						Rebel</title> Case</supplied>
+				<supplied resp="MSPP">Address on Dismissal of Woman Rebel Case</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421997</idno>
@@ -27,9 +29,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p><person reg="Sanger, Margaret">Margaret Sanger</person>'s remarks at this meeting to
-			celebrate the dismissal of charges for publishing the <title type="journal">Woman
-				Rebel</title> were not found; the press account has been used instead.</p>
+		<p>Margaret Sanger's remarks at this meeting to celebrate the dismissal of charges for
+			publishing the <title type="journal">Woman Rebel</title> were not found; the press
+			account has been used instead.</p>
 		<index level1="birth control clinics and leagues" level2="need for"/>
 		<index level1="birth control movement"/>
 		<index level1="mortality rates" level2="infant" level3="England"/>
@@ -113,7 +115,7 @@
 				language was too much for the <place>United States</place> mails."</p>
 			<p>
 				<q who="NYTR">The birth control movement has the hearty sanction of at least one New
-					York physician. Dr. <person reg="Goldwater, Abraham L.">A.L. Goldwater</person>,
+					York physician. Dr. <person reg="Goldwater, Abraham L.">A. L. Goldwater</person>,
 					brother of the former <person reg="Emerson, Haven">Health Commissioner,</person>
 					assailed brother members of his profession.</q>
 			</p>

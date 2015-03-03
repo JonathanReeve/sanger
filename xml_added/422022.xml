@@ -2,10 +2,13 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published interview">
 	<mepHeader>
-		<prepDate>2014/05/21 CH inital transcription</prepDate>
+		<prepDate>2014/05/21 CH initial transcription</prepDate>
 		<prepDate>2014-05-21 MM encode</prepDate>
 		<prepDate>2014-12-18 CH proof and enter tags</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1916-10-22">22 Oct 1916</docDate>
 		<docTitle>
 			<titlePart>
@@ -16,7 +19,6 @@
 		<sourceDesc>
 			<bibl><title type="article">Spread Birth Control</title>, <title type="journal"
 					>Washington Post</title>, Oct. 22, 1916</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -44,19 +46,18 @@
 				well forget their moss-grown statutes and accept birth control as an established
 				fact. My new national plan makes it as inevitable as night and day."</p>
 			<p>
-				<q who="WP">Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>, short and
-					smiling, with a tinge of red in her hair and more than that in her eye, sat in
-					her little two-by-four hotel bedroom and said that here today. Within the last
-					48 hours she has established semisecretly in this city the first out-and-out
-					birth control clinic in the <place>United States</place>, the law, a Federal
-					indictment and numerous arrests all over the country to the contrary
-					notwithstanding.</q>
+				<q who="WP">Mrs. Margaret Sanger, short and smiling, with a tinge of red in her hair
+					and more than that in her eye, sat in her little two-by-four hotel bedroom and
+					said that here today. Within the last 48 hours she has established semi-secretly
+					in this city the first out-and-out birth control clinic in the <place>United
+						States</place>, the law, a Federal indictment and numerous arrests all over
+					the country to the contrary notwithstanding.</q>
 			</p>
 		</div>
 
 		<div>
 			<head type="sub">Simply Oral Clinic.</head>
-			<p>"The police are hunting my clinic today," she went on. "They can't find it. If they
+			<p>"The police are hunting my clinic today," <q who="WP">she went on.</q> "They can't find it. If they
 				should, they can't hurt it. It is an oral clinic, and the law says nothing about not
 				spreading birth control information orally. If they do try to interfere I am legally
 				prepared to carry a hard and bitter fight to the highest tribunal in the land with
@@ -120,8 +121,8 @@
 			</p>
 			<p>
 				<q who="WP">So long as they do not circulate printed matter, the officer said, they
-					will be within the law. And they are condicting a fight for the repeal of the
-					"laws which put this country about a century behind the time."</q>
+					will be within the law. And they are conducting a fight for the repeal of the</q>
+					"laws which put this country about a century behind the time."
 			</p>
 		</div>
 	</docBody>

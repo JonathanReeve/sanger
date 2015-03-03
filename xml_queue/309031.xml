@@ -3,20 +3,23 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2014-06-25 CH proofed </prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1916-04-00">Apr 1916</docDate>
 		<docTitle>
-			<titlePart>Letter to Mother Earth</titlePart>
+			<titlePart><supplied resp="MSPP">Letter to Mother Earth</supplied></titlePart>
 		</docTitle>
 		<idno>msp309031</idno>
 		<sourceDesc>
-			<bibl><title type="article">A Letter from
-				Margaret Sanger</title>, <title type="journal">Mother Earth</title>, Apr. 1916, pp. 492-93</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C1:132</bibl>
+			<bibl><title type="article">A Letter from Margaret Sanger</title>, <title type="journal"
+					>Mother Earth</title>, Apr. 1916, pp. 492-93</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C1:132</bibl>
 		</sourceDesc>
 		<respStmt>
-			<resp/>
-
+			<resp><name id="UNK">Unknown</name></resp>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -28,14 +31,15 @@
 		<index level1="law breaking and direct action"/>
 	</headNote>
 	<docBody>
-		<head>A LETTER FROM <person reg="Sanger, Margaret">MARGARET SANGER</person></head>
+		<head>A LETTER FROM MARGARET SANGER</head>
 		<p>THERE seems to be general dissatisfaction among the readers of <title type="journal"
 				>MOTHER EARTH</title> over the result of my trial.</p>
 		<p>Many of them have written me that the law remains unchanged. That any man or woman may
 			still be rushed into prison, whose case may not be "dismissed."</p>
-		<p>True-all too true.</p>
-		<p>The Socialists have been telling us this for years. They have been telling us that
-			"direct action" does not accomplish anything until the laws are changed.</p>
+		<p>True--all too true.</p>
+		<p>The Socialists have been telling us this for years. They have been telling us that "<q
+				who="UNK">direct action" does not accomplish anything until the laws are
+			changed</q>."</p>
 		<p>You have taken an interest in my trial. You have written letters to <person
 				reg="Dayton, A.G.">Judge Dayton,</person>
 			<person reg="Content, Harold A.">U.S. Dist. Attorney</person> and other officials
@@ -58,7 +62,7 @@
 			right. Will <person reg="Goldman, Emma">Emma Goldman</person>'s trial change the law, or
 			will it serve as William Sanger's and my case has served-as precedents only? Opinions
 			expressed by several prominent members of the legal profession have been to the effect
-			that the "dismissal" of my case by the <org reg="United States, Government of"
+			that the "dismissal" of my case by the <org reg="United States Government"
 				>Government</org> is of far greater value as a precedent than an acquittal by a
 			jury.</p>
 		<p>Comrades-let's on with our work and stop quibbling.</p>
