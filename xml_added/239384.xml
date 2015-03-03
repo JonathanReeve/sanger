@@ -5,17 +5,22 @@
 		<prepDate>2014-5-22 MM</prepDate>
 		<prepDate>2015-01-06 CH proof tags and enter</prepDate>
 		<prepDate>2015-01-21 EK Correct proof</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1915-04-00">Apr. 1915</docDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1915-04-00">Apr 1915</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">To the Editor of <title type="journal">Mother
-						Earth</title></supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">To the Editor of Mother
+					Earth</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp239384</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Mother Earth</title>, Apr. 1915, pp. 75-78</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College
-				Collections</title>S1:420</bibl>
+				Collections</title> S1:420</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -87,7 +92,7 @@
 				cleanest and most direct from the revolutionary standpoint.</p>
 			<p>Again, some of the comrades have sighed and criticized me for mixing the issues, as
 				they say--declaring that had I not published the article on the defence of
-				assasination by <person reg="Thorpe, Herbert A.">Herbert H Thorpe</person>, that all
+				assasination by <person reg="Thorpe, Herbert A.">Herbert A Thorpe</person>, that all
 				the rest would have been easy. I take this opportunity to state that I have no
 				apology to make for publishing that article. There would have been no objection to
 				an article against assassination, and if free speech and free press mean anything in
@@ -138,7 +143,9 @@
 			<p>"<q>"We understand our comrade and assure her that <title type="Journal">MOTHER
 						EARTH</title> and those connected with her never have and never will
 					hestitate to stand by our brave friend, Margaret H. Sanger.</q>"</p>
-			<signed><person reg="Goldman, Emma">EMMA GOLDMAN</person></signed>
+			<signed>
+				<person reg="Goldman, Emma">EMMA GOLDMAN</person>
+			</signed>
 		</div>
 	</docBody>
 </doc>

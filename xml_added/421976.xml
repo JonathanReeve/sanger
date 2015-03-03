@@ -8,15 +8,15 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1916-04-25">25 Apr. 1916</docDate>
+		<docDate value="1916-04-25">25 Apr 1916</docDate>
 		<docTitle>
-			<titlePart>Interview with the <title type="journal">Chicago Daily
-				News</title></titlePart>
+			<titlePart>Interview with the Chicago Daily
+				News</titlePart>
 		</docTitle>
 		<idno>msp421976</idno>
 		<sourceDesc>
-			<bibl>"<title type="article">Mrs. Sanger Defies Critics; Tells Aims</title>," <title
-					type="journal">Chicago Daily News</title> April 25, 1916, p. 3. </bibl>
+			<bibl>"<title type="article">Mrs. Sanger Defies Critics; Tells Aims</title>, <title
+					type="journal">Chicago Daily News</title>, Apr. 25, 1916, p. 3</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,26 +27,27 @@
 		<p>Sanger gave this interview at The <org>Congress Hotel</org> in <place reg="Chicago, IL"
 				>Chicago</place> after her speech to the <org>Chicago Women's Club</org> was
 			cancelled. For a draft of one of her speeches in Chicago see <xref from="232132.xml"
-					>"<title>Chicago Address to Women</title>," Apr-May, 1916</xref></p>
+					>Chicago Address to Women, Apr-May, 1916</xref></p>
 		<index level1="birth control clinics and leagues"/>
 		<index level1="free speech and free press"/>
 		<index level1="Post Office (U.S.)"/>
 	</headNote>
 	<docBody>
 		<head>MRS. SANGER DEFIES CRITICS; TELLS AIMS</head>
-		<head type="sub">Pioneer in "Birth Control" Move. Derides Postal Department's Censorship.</head>
+		<head type="sub">Pioneer in "Birth Control" Move. Derides Postal Department's
+			Censorship.</head>
 		<div type="section">
 			<p><q who="CDN">Mrs. Margaret Sanger, pioneer of the "birth control" movement in <place
-				reg="United States">America</place>, is in <place reg="Chicago, IL">Chicago</place> today. Smiling and
-				unperturbed she sat in her room at the <org>Congress hotel</org> and told a reporter for
-						<title type="journal">The Daily News</title> the story of the last three
-					years of her life, during which, she asserted, she had been "</q>persecuted<q
-					who="CDN">" by the <org reg="United States Government">United States
-						government</org> and hounded by spies and agents. seeking to obtain
-					information concerning her social and personal activities. Mrs. Sanger says she
-					was denied permission to speak before the <org>Chicago Women's Club</org>, but that she
-					will proceed with her plans to address Chicago audiences at two meetings
-					elsewhere.</q></p>
+						reg="United States">America</place>, is in <place reg="Chicago, IL"
+						>Chicago</place> today. Smiling and unperturbed she sat in her room at the
+						Congress hotel and told a reporter for <title type="journal">The
+						Daily News</title> the story of the last three years of her life, during
+					which, she asserted, she had been "</q>persecuted<q who="CDN">" by the <org
+						reg="United States Government">United States government</org> and hounded by
+					spies and agents. seeking to obtain information concerning her social and
+					personal activities. Mrs. Sanger says she was denied permission to speak before
+					the <org>Chicago Women's Club</org>, but that she will proceed with her plans to
+					address Chicago audiences at two meetings elsewhere.</q></p>
 		</div>
 		<div type="section">
 			<head type="sub">Admits Postal Law Violation.</head>
@@ -79,9 +80,10 @@
 					reg="Murray, Gilbert">Gilbert Murray</person>. They think it is splendid that
 				the two most important forward movements of recent years--birth control and twilight
 				sleep--have had such a welcome in America. Our work is international. We are allied
-				with Leagues in England, <place reg="Netherlands, the">Holland</place> and
+				with Leagues in England, <place reg="Netherlands">Holland</place> and
 					<place>France</place>."</p>
-			<p>Mrs. Sanger will speak  tonight at the <org>West Side auditorium</org>, Taylor street and  Racine avenue, and next sunday evening at the <org>Little theater</org>.</p>
+			<p>Mrs. Sanger will speak tonight at the <org>West Side auditorium</org>, Taylor street
+				and Racine avenue, and next Sunday evening at the <org>Little theater</org>.</p>
 			<p/>
 		</div>
 	</docBody>

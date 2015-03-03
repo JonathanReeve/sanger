@@ -4,14 +4,17 @@
 	<mepHeader>
 		<prepDate>2014/06/11 MM encode</prepDate>
 		<prepDate>2014-12-19 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1916-08-00">Aug 1916</docDate>
 		<docTitle>
 			<titlePart>Where the Blame Rests</titlePart>
 		</docTitle>
 		<idno>msp130265</idno>
 		<sourceDesc>
-			<bibl><title>Birth Control News</title>, Aug. 1916</bibl>
+			<bibl><title type="journal">Birth Control News</title>, Aug. 1916</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -20,10 +23,9 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This short statement by Sanger was published in the <org>Ohio Birth Control
-			League</org>'s short-lived <title type="newspaper">Birth Control News</title>. It is
-			likely taken from one of her appearences there. For another statement published in the
-			same journal see "Is Sex Discussion Obscene?" <xref from="130264"> Aug.
-			1916</xref>.</p>
+			League</org>'s short-lived <title type="journal">Birth Control News</title>. It is
+			likely taken from one of her appearances there. For another statement published in the
+			same journal see <xref from="130264.xml">Is Sex Discussion Obscene?</xref>, Aug. 1916.</p>
 		<index level1="abortion" level2="laws and legislation"/>
 		<index level1="abortion" level2="health risks of"/>
 		<index level1="birth control" level2="lack of knowledge of"
@@ -36,6 +38,6 @@
 			and for the illness, suffering and death resulting from them at the door of a government
 			which in its puritanical blindness insists upon suffering and death from ignorance
 			rather than life and happiness through knowledge and prevention."</p>
-		<byline> --<person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
+		<byline> --Margaret H. Sanger.</byline>
 	</docBody>
 </doc>
