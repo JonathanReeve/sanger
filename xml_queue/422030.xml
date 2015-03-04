@@ -3,8 +3,9 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2014-08-13 CH proof tags</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
 		<docAuthor>
-			<person>Margaret Sanger</person>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1918-11-00">Nov 1918</docDate>
 		<docTitle>
@@ -14,7 +15,6 @@
 		<sourceDesc>
 			<bibl><title type="article">Judges With Small Families Jail Kitty Marion</title>, <title
 					type="journal">Birth Control Review</title>, Nov. 1918, p. 5</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>

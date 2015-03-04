@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014/07/16 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1918-06-00">Jun 1918</docDate>
 		<docTitle>
 			<titlePart>Editorial Comment</titlePart>
@@ -46,8 +49,8 @@
 			cannot be had by the layman. The birth control movement now wants accurate knowledge of
 			all these things made readily available for their use in a campaign of education. It is
 			a hopeful note. It shows the workers in the movement feel victory coming soon. We wish
-			to add a word of gratittude and appreciation to the splendid work of <person
-				reg="Dennett, Mary Ware">Mrs. Mary Ware Dennett</person> who organized the
+			to add a word of gratitude and appreciation to the splendid work of Mrs.  <person
+				reg="Dennett, Mary Ware">Mary Ware Dennett</person> who organized the
 			Conference and also to the devoted spirit of <person reg="Pinchot, Gertrude Minturn"
 				>Mrs. Amos Pinchot</person> who though constantly active in various war activities,
 			has rightly proclaimed that standing by the birth control movement today is a great

@@ -5,7 +5,10 @@
 		<prepDate>2014/06/19 MM encode and transcribe</prepDate>
 		<prepDate>2014-12-19 CH proof tags</prepDate>
 		<prepDate>2015-01-07 CH enter corrections</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1918-11-00"> Nov 1918</docDate>
 		<docTitle>
 			<titlePart>Birth Control--The Cure for War</titlePart>
@@ -21,8 +24,9 @@
 			<name id="MARHE">Marcuse, Herbert</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Much of this article is made of quotes from a
-				<org>Malthusian League</org> report. </p>
+	<headNote resp="MSPP">
+		<p>Much of this article is made of quotes from a <org>Malthusian
+				League</org> report. </p>
 		<index level1="Malthusian League"/>
 		<index level1="World War I" level2="population"/>
 		<index level1="Germany" level2="birth rate in"/>
@@ -71,46 +75,48 @@
 				that peace between us might continue a few years longer and
 				become permanent.</q>
 		</p>
-		<q who="ML">
-			<p>"In 1908 its birth rate had fallen below thirty per thousand per
-				annum, and we hoped that Germany would soon enter into a
-				peaceful alliance with <place>France</place>, <place
+
+		<p><q who="ML">"In 1908 its birth rate had fallen below thirty per
+				thousand per annum, and we hoped that Germany would soon enter
+				into a peaceful alliance with <place>France</place>, <place
 					reg="Great Britain">Britain</place> and America. Now we know
 				that the preparations for war which Germany had made in its high
 				birth rate years, had gone too far for this. But the fall of its
 				birth rate since 1914 has been tremendous, and has aroused great
-				indignation and alarm among its militarists.</p>
-			<p>"The January issue of <title type="journal">Maternity and Child
-					Welfare</title>, in an editorial article in favor of birth
-				control, quote as follows from <person reg="Marcuse, Herbert"
-					>Dr. Marcuse</person> who had discussed the subject with
-				hundreds of sick German soldiers: <q who="MARHE">The large
-					proportion of them do not wish to ever have children again.
-					They said in effect that factory-food and cannon-food, all
-					that kind of thing, has got to go, and only after our women
-					have proclaimed a general birth strike will things be
-					better.</q>
-			</p>
-			<q who="MARHE"><p>"It seems certain that Germany, though its
-					birth-rate like ours will probably rise for a year or two
-					after the war, will soon become a very low birth rate
-					country. Unfortunately, <place reg="Soviet Union"
-						>Russia</place> and the <place>Balkan States</place>
-					will continue for some years to have high birth rates
-					causing a high pressure of population which will still
-					endanger the peace of <place>Europe</place>."</p></q>
-		</q>
+				indignation and alarm among its militarists.</q></p>
+		<p><q who="ML">"The January issue of <title type="journal">Maternity and
+					Child Welfare</title>, in an editorial article in favor of
+				birth control, quote as follows from <person
+					reg="Marcuse, Herbert">Dr. Marcuse</person> who had
+				discussed the subject with hundreds of sick German soldiers:
+				</q><q who="MARHE">The large proportion of them do not wish to
+				ever have children again. They said in effect that factory-food
+				and cannon-food, all that kind of thing, has got to go, and only
+				after our women have proclaimed a general birth strike will
+				things be better.</q>
+		</p>
+
+		<p><q who="MARHE">"It seems certain that Germany, though its birth-rate
+				like ours will probably rise for a year or two after the war,
+				will soon become a very low birth rate country. Unfortunately,
+					<place reg="Soviet Union">Russia</place> and the
+					<place>Balkan States</place> will continue for some years to
+				have high birth rates causing a high pressure of population
+				which will still endanger the peace of
+				<place>Europe</place>."</q></p>
+
+
 		<p>Still other "war problems" bring home the necessity of birth control.
 				<q who="ML">"Many doctors and social workers"</q> says the
 			report just quoted from, <q who="ML"> "expect a serious increase in
 				prostitution and venereal disease after the war.</q></p>
-		<q who="ML">
-			<p>"<emph rend="italics">Our remedy for prostitution is to encourage
-					early marriage by spreading the knowledge that couples can
-					avoid having any more children than they are able to do
-					justice to.</emph></p>
-			<p>"There may be a period of terrible poverty and suffering after
-				the war, and the fewer children born for a year or so, the
+
+		<p><q who="ML">"<emph rend="italics">Our remedy for prostitution is to
+					encourage early marriage by spreading the knowledge that
+					couples can avoid having any more children than they are
+					able to do justice to.</emph></q></p>
+		<p><q who="ML">"There may be a period of terrible poverty and suffering
+				after the war, and the fewer children born for a year or so, the
 				shorter that period will be. The population of America,
 					<place>Canada</place>, <place>Australia</place>and
 					<place>New Zealand</place> continues, and will continue, to
@@ -119,40 +125,42 @@
 				case, the only way we can do something towards compensating for
 				our losses in the war is to bring about a better distribution of
 				children by upholding the Malthusian principle that people
-				should not have more children than they can provide for."</p>
-		</q>
+				should not have more children than they can provide
+			for."</q></p>
+
 		<p>THERE YET REMAINS the threat of an increase in the birth rate after
 			the war and the intensification of the evils of poverty. Says the
 			report:</p>
-		<q who="ML">
-			<p>"In the year or so after the war the birth rate will probably
-				rise, alas, to about its 1914 figure of 23.6 per thousand. As
-				there was still a large amount of poverty with this birth rate
-				before the war, it would seem certain that there will be a
-				greater amount with such a birth rate after the war.</p>
-			<p>"Moreover, if there is such emigration of young workers to the
-				Colonies it will increase the amount of poverty. So the birth
-				rate will soon begin to fall again, and it will go on falling
-				until poverty (i.e., insufficiency of the necessaries for good
-				health) has disappeared. Those who look upon the falling birth
-				rate as an evil and oppose it, only succeed in retarding the
-				movement slightly; but hinder its spreading where it is most
-				needed, namely, amongst the poor and the unfit. </p>
-			<p>"We consider the falling birth rate to be a good thing, so to us
-				the only question is--should the inevitable further decline of
-				the birth rate be among the richer or among the poorer classes?
-				We say that it should be among the poor and that advice on
-				contraception, which they are generally so eager to get, should
-				be freely given them. Birth control clinics, like those in
-					<place reg="Netherlands">Holland</place>, should be
+
+		<p><q who="ML">"In the year or so after the war the birth rate will
+				probably rise, alas, to about its 1914 figure of 23.6 per
+				thousand. As there was still a large amount of poverty with this
+				birth rate before the war, it would seem certain that there will
+				be a greater amount with such a birth rate after the
+			war.</q></p>
+		<p><q who="ML">"Moreover, if there is such emigration of young workers
+				to the Colonies it will increase the amount of poverty. So the
+				birth rate will soon begin to fall again, and it will go on
+				falling until poverty (i.e., insufficiency of the necessaries
+				for good health) has disappeared. Those who look upon the
+				falling birth rate as an evil and oppose it, only succeed in
+				retarding the movement slightly; but hinder its spreading where
+				it is most needed, namely, amongst the poor and the unfit.</q>
+		</p>
+		<p><q who="ML">"We consider the falling birth rate to be a good thing,
+				so to us the only question is--should the inevitable further
+				decline of the birth rate be among the richer or among the
+				poorer classes? We say that it should be among the poor and that
+				advice on contraception, which they are generally so eager to
+				get, should be freely given them. Birth control clinics, like
+				those in <place reg="Netherlands">Holland</place>, should be
 				established in every town, and doctors and nurses should also be
 				called upon to give the information when needed. The <org
 					reg="Dutch Nieuw Malthusiaansche Bond">Dutch Neo-Malthusian
 					League</org>, which is officially recognized as a Society of
 				Public Utility, enables poor people to get the information
 				easily, and the improvement in the condition and physique of the
-				nation has been extraordinary."</p>
-		</q>
+				nation has been extraordinary."</q></p>
 
 	</docBody>
 </doc>
