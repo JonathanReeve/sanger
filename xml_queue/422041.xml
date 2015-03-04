@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014/07/16 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1917-12-00">Dec 1917</docDate>
 		<docTitle>
 			<titlePart>Editorial Comment</titlePart>
@@ -31,16 +34,14 @@
 		<p>THE APPEAL in the case of <person reg="Mindell, Fania">Fania Mindell</person> has been
 			won. Miss Mindell was arrested in the <org reg="Brownsville Clinic">Brownsville birth
 				control clinic</org> for selling <title type="book">"What Every Girl Should
-				Know,"</title>
-			<person reg="Sanger, Margaret">Margaret Sanger's</person> book on sex hygiene. By a 2 to
-			1 vote, the <org reg="New York City Court of Special Sessions">Court of Special
-				Sessions</org> declared this book to be "indecent," Judges <person
-				reg="Hermann, Moses">Herman</person> and <person reg="O'Keefe, George J."
-				>O'Keefe</person> voting for conviction and <person reg="Freschi, John J.">Judge
-				Freschi</person> for acquittal. The forces of reaction were bolstered up by <person
-				reg="Cropsey, James C.">Judge James C. Cropsey,</person> of the <org
-				reg="New York State Supreme Court">Supreme Court,</org> who went out of his way to
-			declare that the information in the book was what "<q who="CROJA">no girl should
+				Know,"</title> Margaret Sanger's book on sex hygiene. By a 2 to 1 vote, the <org
+				reg="New York City Court of Special Sessions">Court of Special Sessions</org>
+			declared this book to be "indecent," Judges <person reg="Hermann, Moses">Herman</person>
+			and <person reg="O'Keefe, George J.">O'Keefe</person> voting for conviction and <person
+				reg="Freschi, John J.">Judge Freschi</person> for acquittal. The forces of reaction
+			were bolstered up by <person reg="Cropsey, James C.">Judge James C. Cropsey,</person> of
+			the <org reg="New York State Supreme Court">Supreme Court,</org> who went out of his way
+			to declare that the information in the book was what "<q who="CROJA">no girl should
 				know</q>." Yet the reversal of judgment accorded by the <org
 				reg="New York State Court, Appellate Division">Appellate Division</org> was by an
 			unanimous vote. This victory was of great importance, because several other persons who
@@ -98,8 +99,8 @@
 			writing opinions which would serve to explain their frequently obscure acts to the
 			public that pays them. For instance, when the Appellate Division, First Department,
 			decided to uphold the Commissioner of Licenses as against <person reg="Bijur, Nathan"
-				>Judge Bijur,</person> in connection with the <rs type="film" reg="Birth Control"
-				>birth control photoplay</rs>, they made absolutely no comment. The scholarly
+				>Judge Bijur,</person> in connection with the <name type="film" reg="Birth Control"
+				>birth control photoplay</name>, they made absolutely no comment. The scholarly
 			document in which Judge Bijur demonstrated that the film was not immoral was thrown out
 			of court with the rubber-stamp comment, "Decision reversed." Again, when "<title
 				type="book">What Every Girl Should Know</title>" won the right to be circulated, the

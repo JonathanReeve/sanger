@@ -7,7 +7,10 @@
 		<prepDate>2014-04-18 EK correct proof</prepDate>
 		<prepDate>2014-04-21 CH Making it validate</prepDate>
 		<prepDate>2014-12-18 CH proof and enter tags</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1917-01-27">27 Jan 1917</docDate>
 		<docTitle>
 			<titlePart>
@@ -25,8 +28,9 @@
 			<name id="WBTL">Wilkes Barre Times-Leader</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger's statement, distributed by the United Press, was also published
-			in the <title type="journal">San Jose Evening News</title>, Jan. 27, 1917.</p>
+	<headNote resp="MSPP">
+		<p>Sanger's statement, distributed by the United Press, was also published in the <title
+				type="journal">San Jose Evening News</title>, Jan. 27, 1917.</p>
 		<index level1="Brownsville Clinic" level2="imprisonment"/>
 		<index level1="Byrne, Ethel Higgins"/>
 		<index level1="birth control" level2="laws and legislation" level3="New York"/>

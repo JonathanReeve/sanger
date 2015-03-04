@@ -7,16 +7,20 @@
 		<prepDate>2007/06/27 CH Oxygen update</prepDate>
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2011-11-30 CH typos</prepDate>
-		<prepDate>2014-04-01 CH clean regs</prepDate><prepDate>2014-12-18 CH Proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1917-12-00"> Dec 1917</docDate>
+		<prepDate>2014-04-01 CH clean regs</prepDate>
+		<prepDate>2014-12-18 CH Proof tags and enter</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1917-12-00">Dec 1917</docDate>
 		<docTitle>
 			<titlePart>Birth Control and Women's Health</titlePart>
 		</docTitle>
 		<idno>msp223597</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Dec. 1917, pp. 7-8</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:791</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:791</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -38,7 +42,7 @@
 	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL AND WOMAN'S HEALTH</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>By Margaret Sanger</byline>
 		<div>
 			<p>One of the first questions asked by women desirous of contraceptive information, is:
 				"Will the knowledge of birth control, when put into practice, injure the health of
