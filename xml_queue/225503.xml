@@ -8,16 +8,18 @@
         <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
         <prepDate>2014/03/12 EK clean regs</prepDate>
         <prepDate>2014/03/25 EK entered proof corrections</prepDate>
-
-        <docAuthor>Margaret Sanger</docAuthor>
+    	<prepDate>2015-03-06 CH recheck tags</prepDate>
+    	<docAuthor>
+    		<person reg="Sanger, Margaret">Margaret Sanger</person>
+    	</docAuthor>
         <docDate value="1919-01-00">Jan 1919</docDate>
         <docTitle>
             <titlePart>Are Birth Control Methods Injurious?</titlePart>
         </docTitle>
         <idno>msp225503</idno>
         <sourceDesc>
-            <bibl><title>Birth Control Review</title>, Jan. 1919, 3-4</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:811</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Jan. 1919, pp. 3-4</bibl>
+            <bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:811</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -37,7 +39,7 @@
     <docBody>
         <head>Are Birth Control Methods Injurious?</head>
         <byline>By Margaret Sanger</byline>
-        <p>ADVOCATES OF SCIENTIFIC Birth Control are sometimes met with the absurd statement that
+        <p>Advocates of scientific Birth Control are sometimes met with the absurd statement that
             such methods are injurious to the health of the woman. It is even asserted that they
             cause cancer and other disease and that they bring about sterility.</p>
         <p>As applied to scientific Birth Control, these statements are both false and silly. In the
@@ -57,11 +59,11 @@
             confuse abortives with the means of preventing conception. Anyone who knows anything
             about either Birth Control or abortion knows that scientific Birth Control methods would
             do away with abortions which occur in appalling numbers in America every year.</p>
-        <p>ONE COMMONLY PRACTICED method of preventing conception is not only uncertain but beyond
+        <p>One commonly practiced method of preventing conception is not only uncertain but beyond
             all doubt injurious to the woman's health. This is the one which, because of the
             withholding of scientific information upon the subject is most commonly used. It was
             perhaps the earliest method known and was condemned by the wise men among the ancient
-            Jews, being anathematized in the <title>Bible</title> in a very specific fashion. Modern
+            Jews, being anathematized in the <title type="book">Bible</title> in a very specific fashion. Modern
             science sometimes calls it Onanism from the name of the Biblical character who, we are
             told, was signally punished for practising it.</p>
         <p>Until recent years it was supposed that this method was injurious to the man alone, but
@@ -72,7 +74,7 @@
             that it may lead to neurasthenic disorders. <person reg="Eulenberg, Albert"
                 >Eulenberg</person> is of much the same opinion. <person reg="Valenta, ?"
                 >Valenta</person> declares that it is one of the chief causes of chronic netritis.
-                <person reg="Kleinwächter, Ludwig">Kleinwachter</person> says that its harm to the
+                <person reg="Kleinw&auml;chter, Ludwig">Kleinwachter</person> says that its harm to the
             system of the woman is by no means trivial. Still other great authorities who have
             pointed out the dangerous effects of the practice are <person reg="Forel, Auguste"
                 >Forel</person>, <person reg="von Krafft-Ebing, Richard">Von Krafft-Ebing</person>,
@@ -129,7 +131,7 @@
             contention. <place>Ireland</place> has had an increasing cancer rate for twenty years
             with a constant birth rate. Birth Control certainly is not responsible there. For five
             years of diminishing birth rate due to the application of scientific Birth Control,
-                <place reg="Netherlands, the">Holland</place> has shown also a <emph rend="ital"
+                <place reg="Netherlands">Holland</place> has shown also a <emph rend="ital"
                 >decrease in the cancer rate</emph>. <place>France</place>, where Birth Control
             methods are in wide use, has a cancer mortality of only .76 per thousand as against .95
             in <place>England</place> and <place>Wales</place>, where the birth rate was .28 per
@@ -153,7 +155,7 @@
             often a direct benefit to the health. Unscientific contraceptives are as likely to harm
             their users as any other unscientific thing applied to or used in connection with any
             part of the body. The plain conclusion is that with the health of the womanhood of
-                <place reg="United States of America">America</place> at stake, the medieval laws
+                <place reg="United States">America</place> at stake, the medieval laws
             and customs which prevent full and free dissemination of information concerning
             scientific Birth Control should be sent to the scrap heap along with rack, the thumb
             screws and other outworn instruments of torture.</p>
