@@ -5,8 +5,11 @@
 		<prepDate>2003/11/07 amc</prepDate>
 		<prepDate>2014-03-21 CH clean regs</prepDate>
 		<prepDate>2015-01-08 CH proof tags and correct</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1920-12-12"> 12 Dec 1920</docDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1920-12-12">12 Dec 1920</docDate>
 		<docTitle>
 			<titlePart>Debate on Birth Control: Second Speech</titlePart>
 		</docTitle>
@@ -14,7 +17,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">Fine Arts Guild, New York</title>, Sept. 19, 1921, pp.
 				27-31</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S76:923</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S76:923</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,7 +29,7 @@
 				>New York</place> lawyer John Winter Russell, held at the <org>Parkview Palace</org>
 			under the auspices of the <org>Fine Arts Guild</org> on the topic: "Resolved" That the
 			Spreading of birth control knowledge is injurious to the welfare of humanity." For
-			Sanger's initial speech, see "<xref from="236701.xml">First Speech."</xref></p>
+			Sanger's initial speech, see "<xref from="236701.xml">First Speech</xref>."</p>
 		<index level1="birth control" level2="economic benefits and risks of"/>
 		<index level1="birth control methods" level2="continence"/>
 		<index level1="poverty" level2="family size and"/>

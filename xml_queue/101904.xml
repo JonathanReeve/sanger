@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Typed draft Article">
+<doc type="Typed Draft Article">
 	<mepHeader>
 		<prepDate>2003/07/08 KSM</prepDate>
 		<prepDate>2004/04/22 CH correcting after research</prepDate>
 		<prepDate>2004/07/27 CH</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1920-00-00">
 			<supplied resp="MSPP">1920</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart>
-				Problems of Population and Parenthood: A Review by Margaret Sanger
+			<titlePart> Problems of Population and Parenthood: A Review by Margaret Sanger
 			</titlePart>
 		</docTitle>
 		<idno>msp101904</idno>
 		<sourceDesc>
 			<bibl> Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>LCM 128:0637</bibl>
+			<bibl>Library of Congress Microfilm 128:0637</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="UNK">Unknown</name>
 			<name type="ID-STOMA" id="STOMA">Marie Stopes</name>
-			<name id="BNBC">British National Birth-rate Commission</name>
+			<name id="UKNBC">United Kingdom National Birth-rate Commission</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Corrections made by hand by <person reg="Sanger, Margaret">Margaret Sanger</person>.
-			Sanger may have submitted this review to the <title>New York Tribune</title>; Published
-			version not found. For an earlier draft of the review see LCM 128:634.</p>
+		<p>Corrections made by hand by Margaret Sanger. Sanger may have submitted this review to the
+				<title type="journal">New York Tribune</title>; published version not found. For an
+			earlier draft of the review see Library of Congress Microfilm 128:634.</p>
 		<index level1="birth control" level2="opposition to"/>
 		<index level1="Cox, Harold"/>
 		<index level1="England" level2="fertility rates"/>
@@ -43,7 +45,7 @@
 	<docBody>
 		<head>Problems of Population and Parenthood: A Review by Margaret Sanger</head>
 		<p>The "<title type="book">Problems of Population and Parenthood</title>" is the second
-			report of the <org rend="underline">British National Birth-rate Commission</org>,
+			report of the <org rend="underline" reg="United Kingdom National Birth-Rate Commission">British National Birth-rate Commission</org>,
 			1918-1920. It is an exhaustive tome consisting of many hundreds of pages and is divided
 			into two parts: the evidence taken for and against the control of Parenthood; and the
 			findings of the Commission. To the cursory reader this is a splendid-looking effort
@@ -72,14 +74,14 @@
 			host we find <person reg="Webb, Sidney">Sidney Webb</person>, <add>Judge <person
 					reg="Neil, Henry">Neil</person> and</add>, Judge <person
 				reg="Lindsey, Benjamin Barr">Lindsey</person>
-			<add>of <place reg="United States">U.S.A</place></add> Sir <person
+			<add>of U.S.A</add> Sir <person
 				reg="Doyle, Arthur Conan">Arthur Conan Doyle</person>, Sir <person
-				reg="Osler, William">William Osler</person>, Dr. <person reg="Stopes, Marie">Marie
+				reg="Osler, William">William Osler</person>, Dr. <person reg="Stopes, Marie C.">Marie
 				Stopes</person>, Sir <person reg="Haggard, H. Rider">Rider Haggard</person>, Mr.
 				<person reg="Cox, Harold">Harold Cox</person> the editor of the <title
 				type="journal">Edinburgh Review</title>, <add>Mrs. <person reg="Booth, Evangeline"
 					>Booth</person>
-				<org>Salvation Army</org></add>, <person reg="Lloyd-George, William">W.L.
+				<org>Salvation Army</org></add>, <person reg="Lloyd-George, William">W. L.
 				George</person>, and many, many others.<del>What a hodge-podge of individuals. The
 				list of witnesses almost reads as though the Commission had put alot of names in a
 				hat and chosen them blindfolded, not and again luckily finding a significant
@@ -123,7 +125,7 @@
 			unfit, etc. One witness carried on the idea, or maybe more, that the Empire should have
 			a greater volume of population in order to hold its preeminent position in the sun. In
 			other words, as someone recently said: <add>The Commission asked the women of England
-				to</add> enter into a "<q who="BNBC">cradle competition to save the Empire</q>."</p>
+				to</add> enter into a "<q who="UKNBC">cradle competition to save the Empire</q>."</p>
 		<p>Need it be said that the conclusions of this Commission are worthless? They merely
 				<del>carry on</del><add>sanction</add> what is in existence to-day and put the seal
 			of approval on the unscientic control of birth and population. The interested reader
@@ -149,8 +151,8 @@
 			weaknesses and ill-devised work of this self-appointed body of <del>enthusiasts</del>
 			<add>non-experts</add>.</p>
 		<p>One sentence in the report seems to me to give the key to the Commission's entire state
-			of mind: "<q who="BNBC">It is for the women of the Empire to save the Empire by securing
-				its continuance for the fulfilment of its beneficient mission in the world</q>."
+			of mind: "<q who="UKNBC">It is for the women of the Empire to save the Empire by securing
+				its continuance for the fulfilment of its beneficent mission in the world</q>."
 		</p>
 	</docBody>
 </doc>

@@ -6,15 +6,18 @@
 		<prepDate>2012/06/07 AW</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-01-07 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1920-09-00">Sept 1920</docDate>
 		<docTitle>
 			<titlePart>London Birth Control Meetings</titlePart>
 		</docTitle>
 		<idno>msp306621</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, Sept. 1920, pp. 7-8.</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>
+			<bibl><title type="journal">Birth Control Review</title>, Sept. 1920, pp. 7-8</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:144</bibl>
 		</sourceDesc>
 		<respStmt>

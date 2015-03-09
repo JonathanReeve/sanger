@@ -6,7 +6,10 @@
 		<prepDate>2007/09/05 CH correct docdate and index</prepDate>
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2015-01-08 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1920-12-00">Dec 1920</docDate>
 		<docTitle>
 			<titlePart>International Aspects of Birth Control</titlePart>
@@ -14,7 +17,7 @@
 		<idno>msp128193</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl><title type="mf">Library of Congress Microfilm</title> 129:743.</bibl>
+			<bibl>Library of Congress Microfilm 129:743</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -43,12 +46,12 @@
 		<p>In the present attitude of <del>continental</del>
 			<place>Europe</place> toward the problem of birth control there are a number of
 			illuminating contrasts. The change in the attitude of <place>France</place>
-			<add>in regard to repopulation</add> is especially indicative of the corroding ironies
+			<add>in regard to re-population</add> is especially indicative of the corroding ironies
 			of "victory". It is decidedly worth while, for instance, to compare the present official
 			policy with the opinion and general practice before August, 1914. Then <add>we</add>
-			discover that the present policy and propaganda of the <org reg="France, Government of"
+			discover that the present policy and propaganda of the <org reg="France Government"
 				>French government</org> is practically identical with that of the <org
-				reg="Germany, Government of">Imperial German government</org> before its downfall.
+				reg="Germany Government">Imperial German government</org> before its downfall.
 			But even more illuminating is to discover the differences between the new militaristic,
 			imperialistic, <del>reactionary</del>
 			<add>and "victorious"</add>
@@ -110,8 +113,8 @@
 				<place>Germany</place>. There, in a country "saturated" with an over-dense
 			population, with a highbirth rate and ever increasing population, birth control was <gap
 				extent="one word" reason="illegible"/>
-			<add>discouraged</add> by the imperial government. The dire consequences are
-illeg			painfully evident today. Yet evidently the politicians who are today directing the
+			<add>discouraged</add> by the imperial government. The dire consequences are illeg
+			painfully evident today. Yet evidently the politicians who are today directing the
 			destinies of France are blind to any possible connection between overpopulation and war,
 			and with war, starvation. Otherwise, how could they now urge their own people to
 			increase and multiply and thus <del>increase</del> complicate <add>the</add> economic
@@ -145,12 +148,13 @@ illeg			painfully evident today. Yet evidently the politicians who are today dir
 			those who are attempting to administer to their needs. For me, the most significant
 			point is that the mothers of Germany and Austria are finally and gradually awakening to
 			a consciousness of the crime of bringing children into a world that is so woefully
-			unprepared to receive them. <del>It is</del> When you stop to think <del><unclear resp="MSPP">that you need too</unclear></del> that the <add>little</add> victims of cedema,
-				rachitis and tuberculosis who manage to survive these
-			disastrous days <del>must</del>
+			unprepared to receive them. <del>It is</del> When you stop to think <del><unclear
+					resp="MSPP">that you need too</unclear></del> that the <add>little</add> victims
+			of cedema, rachitis and tuberculosis who manage to survive these disastrous days
+				<del>must</del>
 			<add>will</add> tomorrow become fathers and mothers, if their race is to continue,
 				<del>And <gap extent="one word" reason="illegible"/> one</del>
-			<add>You</add> realize <add>that</add> if some malevolent <del>God</del> 
+			<add>You</add> realize <add>that</add> if some malevolent <del>God</del>
 			<add>Being</add> had deliberately decided upon the dwarfing and stunting of the human
 			race for generations to come, no better method could have been devised for its
 			accomplishment. Perhaps it is the painful realization of this that has crystallized into
@@ -167,8 +171,8 @@ illeg			painfully evident today. Yet evidently the politicians who are today dir
 				method of birth control, I came upon some interesting facts.</del></p>
 		<p>Before the war there had sprung up, both in Germany and Austria, a lively birth control
 			or Neo-Malthusian agitation, carried on in Germany by Dr. <person reg="Marcuse, Julian"
-				>Julian Marcuse</person>, Dr. <person reg="Bernstein, Eduard">Bernstein</person>, and a
-			number of laymen of the "extreme left". They were bitterly opposed by the entire
+				>Julian Marcuse</person>, Dr. <person reg="Bernstein, Eduard">Bernstein</person>,
+			and a number of laymen of the "extreme left". They were bitterly opposed by the entire
 			Social-Democratic movement. They were attacked by such outstanding personalities as
 				<person reg="Kautsky, Karl">Karl Kautsky</person>, <person reg="Luxemburg, Rosa"
 				>Rosa Luxemburg</person>, <person reg="Zetkin, Clara">Clara Zetkin</person>, and
@@ -204,7 +208,7 @@ illeg			painfully evident today. Yet evidently the politicians who are today dir
 				for Germany to reduce illegible her population,</del>
 			<add>the reduction of her population is now for Germany an absolute necessity</add>
 			according to the Syndicalists, whose propaganda is in a large part, devoted to spreading
-			the idea of birth control. If the new militarism is to be combatted, they claim Birth
+			the idea of birth control. If the new militarism is to be combated, they claim Birth
 			Control is the first important step. They aim deliberately at the substitution of
 			quality for quantity, as the complete avoidance of any possible taint of militarism, and
 			in developing gradually a country devoted to philosophy, music, arts and science.<del>

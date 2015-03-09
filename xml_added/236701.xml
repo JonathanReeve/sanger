@@ -7,7 +7,10 @@
 		<prepDate>2003/08/14 CH</prepDate>
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1920-12-12">12 Dec 1920</docDate>
 		<docTitle>
 			<titlePart>Debate On Birth Control: First Speech</titlePart>
@@ -15,8 +18,9 @@
 		<idno>msp236701</idno>
 		<sourceDesc>
 			<bibl><title type="book">Debate Between Margaret Sanger, Negative and Winter Russell,
-					Affirmative</title> (New York, Sept. 19, 1921), 9-18</bibl>
-			<bibl><title>Margaret Sanger Microfilm</title> S76:0923</bibl>
+					Affirmative</title> (New York, Sept. 19, 1921), pp. 9-18</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S76:0923</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -24,9 +28,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>Sanger debated New York lawyer <person reg="Russell, John Winter">John Winter
-				Russell</person> under the auspices of the <org>Fine Arts Guild</org> at the
-				<org>Parkview Palace</org> in <place reg="New York, NY">New York City</place>. The
+		<p>Sanger debated <place reg="New York, NY">New York</place> lawyer <person
+				reg="Russell, John Winter">John Winter Russell</person> under the auspices of the
+				<org>Fine Arts Guild</org> at the <org>Parkview Palace</org> in New York City. The
 			debate, chaired by Dr. <person reg="Knopf, S. Adolphus">S. Adolphus Knopf</person>, had
 			as its subject: "<title type="article">Resolved: That the spreading of birth control
 				knowledge is injurious to the welfare of humanity</title>." Knopf's introduction and
@@ -94,9 +98,9 @@
 			large families. It is just as moral.</p>
 		<p>If we let, as we are supposed to do, Nature take her course, we will say that we know
 			that any woman from the age of puberty until the age of the period of the menopause,
-			that that woman could have anywhere from 15 to 20 children in her lifetime, and it will
-			only take one relationship between a man and a woman to give her one a year to give her
-			that large family. Let us not forget that.</p>
+			that woman could have anywhere from 15 to 20 children in her lifetime, and it will only
+			take one relationship between a man and a woman to give her one a year to give her that
+			large family. Let us not forget that.</p>
 		<p>Are we today, as women who wish to develop, who wish to advance in life, are we willing
 			to spend all of our time through those years of development in bringing forth children
 			that the world does not appreciate? Certainly, anyone who looks out to that will find
@@ -149,8 +153,8 @@
 			children that come to this mother against her will and against her desires, when they
 			come into the world, that we have an appalling number of 300,000 babies each year in
 			this country who die each year before they reach one year of age--300,000 if you please,
-			and it is safe to say and anyone who has gone among these mothers of these children --
-			it is safe to say that the great percentage of these children that are born have been
+			and it is safe to say and anyone who has gone among these mothers of these children--it
+			is safe to say that the great percentage of these children that are born have been
 			unwanted. The mother knows that that child should not come to birth, when the five or
 			six or seven that she has have not enough to eat. That takes common sense and every
 			working woman has that common sense.</p>
@@ -203,7 +207,7 @@
 		<p>We know that the mothers and fathers of today produce the race of tomorrow, and we know
 			that unless we have a clean child and a clean stream of blood pouring through that
 			child, that the race of tomorrow is a doomed, foregone conclusion. We know, too, that
-			out of this terrible scurge of venereal disease that we have 90% of the insanity in this
+			out of this terrible scourge of venereal disease that we have 90% of the insanity in this
 			country, due to syphilis. Anyone who is dealing with fundamentals would know that these
 			people should use means to protect themselves against having children. They should
 			absolutely in due regard to themselves, to their children and to the race, not allow a
@@ -211,16 +215,16 @@
 			terrible consequence which is insanity.</p>
 		<p>We have 50% of the still births of this country, in other words, dead babies, that are
 			dead when they are born--50% are due to this disease. You may think that these things
-			are taken care of, but if I told you that they are not--syphiletic women today are
+			are taken care of, but if I told you that they are not--syphilitic women today are
 			allowed to bring forth progeny even in the face of all officialdom, and all the kind and
 			humane things and other kind of things that are doled out to women today--that women are
-			bringing forth children when they themselves are syphiletic.</p>
-		<p>Not long ago we took a syphiletic woman to 43 hospitals in the city and everyone of them
+			bringing forth children when they themselves are syphilitic.</p>
+		<p>Not long ago we took a syphilitic woman to 43 hospitals in the city and everyone of them
 			said, "We will cure her disease. Leave her here. We will do the best we can for her, but
 			don't ask us to give her the information to control birth. That is not our office. That
-			is not for us," and so that little syphiletic woman went back again to her home and will
+			is not for us," and so that little syphilitic woman went back again to her home and will
 			become pregnant only to abort again, which was a great kindness.</p>
-		<p>Nature sometimes brings the syphiletic to birth before their full time, or brings them to
+		<p>Nature sometimes brings the syphilitic to birth before their full time, or brings them to
 			birth dead. In other states of syphilis, that is not so, and we have feeble-minded as
 			well as insane. We have here 400,000 feeble-minded people in the United States, that any
 			authority on this subject would say to you, "Not one of them should have been born."
@@ -274,9 +278,9 @@
 			is an idiot, who is insane, and who is a pauper. They see to it that anyone who enters
 			is not an idiot, is not insane, and is not a pauper. They make those rigid laws and
 			rules for those who shall come in, but after you are once on the inside, you can produce
-			and reproduce and repopulate the earth with syphiletic and diseased and insane people as
+			and reproduce and repopulate the earth with syphilitic and diseased and insane people as
 			far as the government is concerned. This is the short-sighted side of our whole life. We
-			are very generous and sympathetic, but we are oversentimental, and the time has come to
+			are very generous and sympathetic, but we are over-sentimental, and the time has come to
 			use our minds and to apply our intelligence to life and to the conditions of life as we
 			find them today.</p>
 		<p>Now, Mr. Russell has said some things that are very interesting to me. He tells us that

@@ -4,9 +4,9 @@
 	<mepHeader>
 		<prepDate>2014-06-25 CH proofed </prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
-		<supplied>
-			<docDate value="1920-00-00">1920</docDate>
-		</supplied>
+		
+		<docDate value="1920-00-00"><supplied>1920</supplied></docDate>
+		
 		<docTitle>
 			<titlePart>Abortion</titlePart>
 		</docTitle>

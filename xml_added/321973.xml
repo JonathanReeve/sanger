@@ -3,16 +3,17 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2013/12/18 JK</prepDate>
-		<prepDate>2014-11-10 CH clean regs</prepDate><prepDate>2014-12-18 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2014-11-10 CH clean regs</prepDate>
+		<prepDate>2014-12-18 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1920-02-00">Feb 1920</docDate>
 		<docTitle>
 			<titlePart>Light for Mexico and South America</titlePart>
 		</docTitle>
 		<idno>msp321973</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Birth Control Review</title>, Feb. 1920, p. 15. </bibl>
-
+			<bibl><title type="journal">The Birth Control Review</title>, Feb. 1920, p. 15</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,7 +28,6 @@
 	</headNote>
 	<docBody>
 		<head>Light for Mexico and <place>South America</place></head>
-
 		<p>ONE OF THE recent important developments in the Birth Control movement is that which is
 			manifesting itself vigorously in <place>Latin America</place>. Every mail brings us,
 			from some country to the south of us, letters of encouragement. These letters give
@@ -42,7 +42,7 @@
 				If you could look at the statistics in this country you would see that the mortality
 				of children under three years old is awfully high. I saw a report stating that the
 				births in one week had been 128 and the infant mortality 122 among the poor people.
-				This is terrible, <person reg="Sanger, Margaret">Mrs. Sanger</person>, and I wish I
+				This is terrible, Mrs. Sanger, and I wish I
 				could use all my power, money and knowledge to help those poor women of this beloved
 				but unhappy country of mine.</q>"</p>
 		<p>A birth control group in Colombia is also planning to translate <title type="journal">THE
@@ -59,7 +59,7 @@
 			the worshipper and to divide their gains with the church itself. To offset this misery,
 			the Birth Control group have translated the literature of the movement into the native
 			language and have distributed it widely. Although the church is opposed to this activity
-			and spares no pains to prohibit it, the present <org reg="Mexico, Government of"
+			and spares no pains to prohibit it, the present <org reg="Mexico Government"
 				>government of <place>Mexico</place></org> has been liberal enough to refuse to
 			prosecute these workers for humanity. The women of Mexico are moving on toward their
 			freedom. One of the important recent events in the City of Mexico was a feminist

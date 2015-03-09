@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-12-19 LF transcribe and encode</prepDate>
 		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,7 +19,7 @@
 		<idno>msp236124</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection </bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:853</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:853</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>

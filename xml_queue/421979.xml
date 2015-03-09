@@ -3,10 +3,11 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014-06-25 CH proofed </prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		
-		<docDate value="1920-00-00"><supplied>1920</supplied></docDate>
-		
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1920-00-00">
+			<supplied resp="MSPP">1920</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>Abortion</titlePart>
 		</docTitle>
@@ -23,7 +24,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is a pamphlet reprint of "Chapter 10 - <title type="article">Contraceptives or
+		<p>This is a pamphlet reprint of "Chapter 10--<title type="article">Contraceptives or
 				Abortion?"</title> from <title type="book">Woman and the New Race,</title> pp.
 			118-29.</p>
 		<index level1="abortion" level2="birth control vs."/>
@@ -40,7 +41,7 @@
 	<docBody>
 		<head>ABORTION "Woman and the New Race"</head>
 		<head type="sub">"Woman and the New Race"</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger.</person></byline>
+		<byline>By Margaret Sanger.</byline>
 		<p>SOCIETY has not yet learned the significance of the age-long effort of the feminine
 			spirit to free itself of the burden of excessive childbearing. It has been singularly
 			blind to the real forces underlying the cause of infanticide, child abandonment and
