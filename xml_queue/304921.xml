@@ -9,8 +9,9 @@
 		<prepDate>2013-04-30 CH fix links</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-03-09 EK Update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1912-12-15">15 Dec 1912</docDate>
+		<docDate value="1912-12-15">15 Dec. 1912</docDate>
 		<docTitle>
 			<titlePart>What Every Girl Should Know: Puberty -- Part II</titlePart>
 		</docTitle>
@@ -38,10 +39,12 @@
 			Consequences of Ignorance and Silence--Part II" see <xref from="304927.xml">Feb. 2,
 				1913</xref>, and for "Some Consequences of Ignorance and Silence--Part III" see
 				<xref from="304928.xml">Mar. 2, 1913.</xref></p>
-		<index level1="sex education" level2="need for"/>
+		<index level1="menstruation"/>
+		<index level1="reproduction"/>
 		<index level1="sex education"/>
 		<index level1="adolescence"/>
-		<index level1="sexuality" level2="women's"/>
+		<index level1="women and girls" level2="sexuality of"/>
+		<index level1="working classes" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<head>WHAT EVERY GIRL SHOULD KNOW</head>

@@ -7,11 +7,9 @@
 		<prepDate>2004/07/02 CH</prepDate>
 		<prepDate>2004/08/13 CH</prepDate>
 		<prepDate>2007-05-30 CH Oxygen update</prepDate>
-		<prepDate>2014-03-05 CH clean regs</prepDate>
-		<prepDate>2015-01-07 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-03 EK update index</prepDate>
+		<prepDate>2014-03-05 CH clean regs</prepDate><prepDate>2015-01-07 CH proof tags and enter</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1912-06-11">11 June 1912</docDate>
+		<docDate value="1912-06-11">11 Jun 1912</docDate>
 		<docTitle>
 			<titlePart>Lawrence Defense Conference Active</titlePart>
 		</docTitle>
@@ -28,7 +26,7 @@
 		<index level1="labor movement" level2="Lawrence, MA Strike, 1912"/>
 		<index level1="Socialist Party"/>
 		<index level1="Industrial Workers of the World"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<head>LAWRENCE DEFENSE CONFERENCE ACTIVE</head>
 		<head type="sub">To Start Big Open Air Campaign.<lb/>Will Distribute 20,000 Leaflets on

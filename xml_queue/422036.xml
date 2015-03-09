@@ -5,10 +5,11 @@
 		<prepDate>2014/07/15 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and enter</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-06 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1916-06-14">14 Jun 1916</docDate>
+		<docDate value="1916-06-14">14 June 1916</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Speech to the California Civic League</supplied>
@@ -18,42 +19,135 @@
 		<sourceDesc>
 			<bibl><title type="article">Birth Control Lectures End</title>, <title type="journal"
 					>San Francisco Examiner</title>, June 14, 1916, p. 7</bibl>
-
+			<bibl><title type="article">Eager hundred 'Hitch Chairs to Hear Message,'</title>
+				<title type="journal">Oakland Tribune,</title> June 15, 1916.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
+			<name id="OT">Oakland Tribune</name>
+			<name id="CARMR">Carter, Mrs. A.C.</name>
 			<name id="SFE">San Francisco Examiner</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For a draft of the speech Sanger likely gave, see “<xref from="128002.xml">Woman and
-				Birth Control</xref>," Apr-July 1916. She likely altered it given the fact that
-			California women had the vote in 1916.</p>
-		<index level1="California" level2="birth control movement in"/>
-		<index level1="birth control" level2="distribution of information about"/>
+		<p>Portions of this were prorobably drawn from <person reg="Sanger, Margaret">Margaret
+				Sanger's</person> 1916 stump speech, "Women and Birth Control," but likely altered
+			it after <place>California</place> women won the vote in 1916. For a draft of the , see
+				“<xref from="128002.xml">Woman and Birth Control</xref>," Apr-July 1916. </p>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
 		<index level1="birth control laws and legislation" level2="MS on"/>
-	</headNote>
+		<index level1="California" level2="birth control in"/>
+		<index level1="Goldman, Emma"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
+		<index level1="Roosevelt, Theodore" level2="MS on"/>
+		<index level1="Sanger, Margaret" level2="descriptions of"/>
+		<index level1="Sanger, Margaret" level2="tours” level3=”1916 (U.S.)"/>
+		<index level1="Spain" level2="education in"/>
+		<index level1="woman suffrage"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="United States Post Office"/>
+		</headNote>
 	<docBody>
-		<head>BIRTH CONTROL LECTURES END</head>
-
-		<p><q who="SFE">Margaret Sanger says she looks to the women of <place>California</place> to
-				take the first steps that will place this country on the same basis with European
-				countries in the matter of birth control.</q></p>
-		<p><q who="SFE">She declared yesterday in her talk before the <place reg="Oakland, CA"
-					>Oakland</place> center of the <org>California Civic League</org> in <org>Hotel
-					Oakland</org> that the women of California, with the power of suffrage, could
-				bring about the repeal of the laws against the dissemination of information about
-				birth control, and by so doing could set the pace for the whole country along this
-				line.</q></p>
-
-		<p>"This is my last appearance here," <q who="SFE">said Mrs. Sanger.</q> "I leave to-morrow for <place
-				reg="Portland, OR">Portland</place>, on my way to the East again. I shall return in
-			October and I hope that by that time you women will have made decided progress toward
-			getting the laws repealed that now forbid your physician to tell you the vital facts of
-			life.</p>
-		<p>"When I return to California and find that California women have accomplished this I
-			shall immediately begin the installation of scientifically conducted clinics, where this
-			information can be given to the working women-in other words, to those who need it most
-			and who find it hardest to obtain."</p>
+		<div>
+			<head>EAGER HUNDREDS 'HITCH CHARIS TO HEAR MESSAGE</head>
+			<byline><person reg="Baker, Gene">GENE BAKER</person></byline>
+			<p><supplied resp="MSPP">Descriptions of the audience have been omitted by the MSPP
+				editors.</supplied></p>	
+			<p><q who="OT">Whatever might be found amusing about the audience's first arrival and
+					its first attitude, there was nothing absurd about Mrs. Sanger. Her audience was
+					entirely for her and with her. The president of the <org>Oakland Center</org>, <person
+						reg="Carter, Mrs. A. C.">Mrs. A. C. Carter</person>, expressed the Center's
+						"<q who="CARMR">sympathy, and admiration and support of her."</q>
+					<person reg="Goldman, Emma">Emma Goldman</person>, it would seem, is the only
+					one of the brilliant birth control advocates who hasn't become popular!</q></p>
+			<p><q who="OT">But Mrs. Sanger is not like Emma Goldman. She is slight and feminine to
+					look at. Though she spoke with intensity of the injustices of undesired
+					motherhood and the misery of unfortunate working women with dozens of children,
+					she gives no impression of personal warmth. Her attitude is scientific--cold.
+					She is a nurse and a teacher who knows how to reach crowds with her high ringing
+					voice, her earnestness, her knowledge of conditions.</q>
+			</p>
+			<p><q who="OT">She spoke of the success of clinics in <place reg="Netherlands, the"
+						>Holland</place> where family limitation is taught, of how the Hollander's
+					height had increased, the health of women had increased, and how infant
+					mortality had dropped to the lowest in the world, and she drew
+				contrasts.</q></p>
+			<p><q who="OT">She spoke of the heavy infant mortality, of children born to families
+					that could not care for them, of child labor and of the social evil. And she
+					blamed it all upon ignorance of the measure she advocates.</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">THE OBJECTION.</head>
+			<p>"The principle objection in the minds of most people against such knowledge," <q
+					who="OT">she commented rather acidly,</q> "Is the idea that women's morals might
+				suffer. Solicitude over women's morals has always been a cloak to cover the age-long
+				consipiracy to keep her in bondage. In <place>Spain</place>, where I visited last
+				year, the greater portion of the 11,000,000 illiterates are women. Why? Because if
+				they learned to read, they might learn something."</p>
+			<p>"One travels on donkeys over bridle paths in Spain--because roads and railroads would
+				make communication easy. They would bring women and girls into the city where they
+				would become immoral."</p>
+			<p>"Do we think our railroads have made our women more immoral than the Spanish women?"</p>
+			<div type="section">
+				<head type="sub">TO CONQUER LAWS.</head>
+				<p><q who="OT">Later in her speech Mrs. Sanger in her soft blue gown, leaned forward to
+					tell women that the only way they might develop their individualities was to
+					"learn to conquer nature's laws that have kept her in bondage," just as man has
+					learned to conquer the sea with ships and the land with trains and such
+					things.</q></p>
+				<p><q who="OT">In order to accomplish a general conquest, however, they were urged to
+					bring about a repeal of the law still existing in this country alone--making her
+					sort of instruction a crime punishable by imprisonment.</q></p>
+			</div>
+			<div type="section">
+				<head type="sub">ARRAIGNS CENSORSHIP.</head>
+				<p><q who="OT">Throughout the speech she was continuously applauded, and especially when
+					she arrainged the censorship of the post office and <person
+						reg="Roosevelt, Theodore">Roosevelt</person>'s ideas of morality.</q></p>
+				<p>"It was never intended that the post office should pass political, religious and
+					moral judgement. It was supposed to be a mechanical and not an ethical institution,"
+					<q who="OT">she added. This was in explaining why she had defied the law and how
+						she had been arrested as a result. Also how thousands of telegrams--including
+						many from English celebrities such as <person reg="Wells, H. G.">H. G.
+							Wells</person>, <person reg="Schreiner, Olive">Olive Schreiner</person> and
+						other free thinkers had helped.</q>	</p>
+				<p><q who="OT">For she is not unconscious of her courage. Mrs. Sanger let them know she
+					had started knowing the consequences, perhaps of her mission. As in San
+					Francisco she compared herself with Roosevelt, asking who was more moral--she,
+					who urged small families, or he who wished upon the working men and woman many
+					children.</q></p>
+				<p><q who="OT">So much applause followed that it was evident that the Rooseveltian
+					theory would never win him many of the women's votes.</q></p>
+				<p><q who="OT">Moreover, when all the evil effects of large, undesired families had been
+					related--from poverty to prostitution, and all the excellent results of "better
+					and fewer" children--the meeting ended with one onslaught toward the back of the
+					room where various pamphlets written by Mrs. Sanger were piled high between the
+					ivory pillars.</q></p>
+				<p><q who="OT">It was a long time before the sale of the pamphlets ended. They were
+					sold, by the way, by men.</q></p>
+			</div>	
+		</div>
+		<div>
+			<head>BIRTH CONTROL LECTURES END</head>
+			<p><q who="SFE">Margaret Sanger says she looks to the women of <place>California</place>
+					to take the first steps that will place this country on the same basis with
+					European countries in the matter of birth control.</q></p>
+			<p><q who="SFE">She declared yesterday in her talk before the <place reg="Oakland, CA"
+						>Oakland</place> center of the <org>California Civic League</org> in
+						<org>Hotel Oakland</org> that the women of California, with the power of
+					suffrage, could bring about the repeal of the laws against the dissemination of
+					information about birth control, and by so doing could set the pace for the
+					whole country along this line.</q></p>
+			<p>"This is my last appearance here," <q who="SFE">said Mrs. Sanger.</q> "I leave
+				tomorrow for <place reg="Portland, OR">Portland</place>, on my way to the East
+				again. I shall return in October and I hope that by that time you women will have
+				made decided progress toward getting the laws repealed that now forbid your
+				physician to tell you the vital facts of life."</p>
+			<p>"When I return to California and find that California women have accomplished this I
+				shall immediately begin the installation of scientifically conducted clinics, where
+				this information can be given to the working women-in other words, to those who need
+				it most and who find it hardest to obtain."</p>
+		</div>
 	</docBody>
 </doc>
