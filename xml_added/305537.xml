@@ -6,16 +6,18 @@
 		<prepDate>2003/07/28 SR</prepDate>
 		<prepDate>2003/08/05 CH</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-04-00">Apr 1923</docDate>
 		<docTitle>
-			<titlePart>A Review by Margaret Sanger: <title type="book">Little Essays of Love and
-					Virtue</title></titlePart>
+			<titlePart>A Review by Margaret Sanger: Little Essays of Love and Virtue</titlePart>
 		</docTitle>
 		<idno>msp305537</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Apr. 1923, p. 95</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>,
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
 				C16:200</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -28,8 +30,7 @@
 		<index level1="love" level2="concept of"/>
 	</headNote>
 	<docBody>
-		<head>A Review by <person reg="Sanger, Margaret">Margaret Sanger</person>: <title
-				type="book">Little Essays of Love and Virtue</title></head>
+		<head>A Review by Margaret Sanger: Little Essays of Love and Virtue</head>
 		<p>It is with characteristic modesty that <person reg="Ellis, Havelock">Havelock
 				Ellis</person> gives to the present volume the title of "<title type="book">Little
 				Essays</title>." They deserve to be named "Great Essays"; and every husband and
@@ -56,7 +57,7 @@
 			an inoculation against the poisons of life, and an adequate equipment in knowledge and
 			skill for meeting the chances of life. Beyond that, and no doubt in the largest part, it
 			is a natural growth and takes place of itself. How refreshing these words in a day when
-			unbased theories and illusions are almost universally prevalent!</p>
+			unbiased theories and illusions are almost universally prevalent!</p>
 		<p>How courageous--the quiet calm courage of one who is speaking eternal truth--are these
 			lines from the essay on "<title type="article">The Meaning of Purity:</title>" "<q
 				who="ELLHA">When Love is suppressed, Hate takes its place. The least regulated

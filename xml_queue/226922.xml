@@ -4,15 +4,19 @@
 	<mepHeader>
 		<prepDate>2003/07/02 SB</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-07-00">Jul 1923</docDate>
 		<docTitle>
 			<titlePart>The Responsibility of an Idea</titlePart>
 		</docTitle>
 		<idno>msp226922</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Birth Control Review</title>, Jul. 1923, p. 171</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:1007</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, Jul. 1923, p. 171</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:1007</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<docBody>

@@ -4,28 +4,32 @@
 	<mepHeader>
 		<prepDate>2003/07/23 SR</prepDate>
 		<prepDate>2014-03-07 CH reg cleanup</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-10-00"> Oct 1932</docDate>
 		<docTitle>
-			<titlePart>The Vision of George Drysdale</titlePart>
+			<titlePart><supplied resp="MSPP">The Vision of George Drysdale, Part IV</supplied></titlePart>
 		</docTitle>
 		<idno>msp211144</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Oct. 1923, pp. 258-261</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S70:1019</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="DRYGE"> George Drysdale</name>
+			<name id="DRYGE">Drysdale, George</name>
 			<name id="FRE"> French</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This is the final article in a four-part series of the same name. For
-			preceding articles, see <xref from="225187.xml">July 1923</xref>, <xref
-				from="219250.xml">Aug. 1923</xref>, and <xref from="239148.xml">Sept.
-			1923</xref>.</p>
-		<index level1="xxxx"/></headNote>
+	<headNote resp="MSPP">
+		<p>This is the final article in a four-part series of the same name. For preceding articles,
+			see <xref from="225187.xml">July 1923</xref>, <xref from="219250.xml">Aug. 1923</xref>,
+			and <xref from="239148.xml">Sept. 1923</xref>.</p>
+		<index level1="xxxx"/>
+	</headNote>
 	<docBody>
 		<head>The Vision of George Drysdale</head>
 		<byline>By Margaret Sanger</byline>
@@ -196,7 +200,7 @@
 					who="DRYGE">we may form wild dreams of socialism, industrial brotherhood, red
 					republics or inexplicable revolutions. We may struggle and murder each other; we
 					may persecute and despise those whose sexual necessities force them to break
-					through our unnatural moral codes... we may break our own and our neighbors'
+					through our unnatural moral codes. . . we may break our own and our neighbors'
 					hearts against the adamantine laws that warn us, but not one step, not one,
 					shall we advance till we acknowledge these laws, and adopt the only possible
 					mode in which they can be obeyed.</q>"</p>

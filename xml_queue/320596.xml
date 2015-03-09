@@ -3,7 +3,11 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2003/07/21, 2003/07/28 SR</prepDate>
-		<docAuthor>Margaret Sanger an Thomas Webster Edgar</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docAuthor><person reg="Edgar, Thomas Webster">Thomas Webster Edgar</person></docAuthor>
 		<docDate value="1923-03-00">Mar 1923</docDate>
 		<docTitle>
 			<titlePart>The Physician and Birth Control</titlePart>
@@ -11,6 +15,8 @@
 		<idno>msp320596</idno>
 		<sourceDesc>
 			<bibl><title type="journal">The Medical Times</title>, Mar. 1923, pp. 73-74, 77</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:189</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,8 +28,8 @@
 			<name id="DRYGE">George Drysdale</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">For a reprint of this article, see <title>MSM</title> C16:189. <index
-			level1="birth control" level2="history of"/>
+	<headNote resp="MSPP">
+		<index level1="birth control" level2="history of"/>
 		<index level1="birth control" level2="international"/>
 		<index level1="physicians" level2="birth control and"/>
 		<index level1="war" level2="overpopulation and"/>
@@ -34,10 +40,8 @@
 		<head type="sub">Foreword.</head>
 		<epigraph>
 			<p><q>Due to my great interest in birth control, legitimately sponsored and properly
-					advocated, I have collaborated with <person reg="Sanger, Margaret">Margaret
-						Sanger</person> in presenting this article. My interest in the subject is
-					purely humanitarian.</q> -- <person reg="Edgar, Thomas W.">Thomas W.
-					Edgar</person>. </p>
+					advocated, I have collaborated with Margaret Sanger in presenting this article.
+					My interest in the subject is purely humanitarian.</q> -- Thomas W. Edgar. </p>
 		</epigraph>
 		<p>Although it is only in the last few years that the doctrine of Birth Control has assumed
 			the proportions of a definitely crystallized world movement, its history is ancient.
@@ -104,9 +108,9 @@
 			individual case to the underlying significance. In <place>England</place> those valiant
 			pioneer Doctors <person reg="Drysdale, George">George</person> and <person>Charles R.
 				Drysdale</person> fought for years against the momentum of Victorian opinion. In
-				<place reg="the Netherlands">Holland</place>, where the First Birth Control Clinic
-			in the world was opened in <place reg="Amsterdam, the Netherlands">Amsterdam </place>in
-			1881, it has been mainly due to the efforts of two physicians, Dr. <person
+				<place reg="Netherlands">Holland</place>, where the First Birth Control Clinic in
+			the world was opened in <place reg="Amsterdam, Netherlands">Amsterdam </place>in 1881,
+			it has been mainly due to the efforts of two physicians, Dr. <person
 				reg="Jacobs, Aletta">Aletta Jacobs</person> and Dr. <person reg="Rutgers, Johannes"
 				>J. Rutgers</person> that we have that splendid example of what the practice of
 			Birth Control and the establishment of clinics under the direction of trained
@@ -124,13 +128,14 @@
 			growing adherence of British physicians to the movement. It was attended by no less than
 			164 medical men and women, including Lord Dawson and Sir <person
 				reg="Lane, William Arbuthnot">Arbuthnot Lane</person>, who, with the exception of
-			only three dissentients, passed this resolution:</p>
-		<p>"<q who="INMBC5">That this meeting of the medical members of the <title>Fifth
-					International Neo-Malthusian and Birth control Conference</title> wishes to
-				point out that Birth control by hygienic contraceptive devices is absolutely
-				distinct from abortion in its physiological, legal and moral aspects. It further
-				records its opinion that there is no evidence that the best contraceptive methods
-				are injurious to health or conducive to sterility.</q>"</p>
+			only three dissenters, passed this resolution:</p>
+		<p>"<q who="INMBC5">That this meeting of the medical members of the <org
+					reg="International Neo-Malthusian and Birth Control Conference, 5th">Fifth
+					International Neo-Malthusian and Birth control Conference</org> wishes to point
+				out that Birth control by hygienic contraceptive devices is absolutely distinct from
+				abortion in its physiological, legal and moral aspects. It further records its
+				opinion that there is no evidence that the best contraceptive methods are injurious
+				to health or conducive to sterility.</q>"</p>
 		<p>Similarly, the Medical Section, held under the presidency of Dr. <person
 				reg="Millard, C. Killick">C. Killick Millard</person>, unanimously passed the
 			following resolution: </p>
@@ -175,29 +180,28 @@
 			Unfortunately the physician too often confines his remarks to his colleagues, and the
 			significant truths of his experiences are seldom conveyed to the general public. Thus,
 			Dr. <person reg="Yawger, N. S.">N. S. Yawger</person> read a compelling paper before the
-				<org>Philadelphia Neurological Society</org> (Foot note: January 27, 1922,
-					<title><reg> ew York Medical Journal</reg>N. Y. Med. Jour.</title>, Vol. CXVI,
-			No. 6, p. 334), dealing with an epileptic and her sixteen children, a study "<q
-				who="YAWNS"> of a family that was rendered distressingly poor through the
-				circumstances of a blind father, and of an epileptic mother who scouted race suicide
-				by living up to sixteen pregnancies, who clung to all these maternal burdens save
-				one--the tenth conception miscarried--but who still ran true to a total of sixteen,
-				by reason of her first effort having brought forth twins.</q> Despite the fact that
-			there was no evidence of syphilis that the diseases and defects of the unfortunate
-			children do not appear especially to have developed upon a leutic basis--only three of
-			the children appeared to have escaped the hereditary blight. Dr. Yawger concludes that
-				"<q who="YAWNS"> a small volume could be written upon the disorders which will
-				develop among the early descendants of this ill-fated family.</q>" Such studies are
-			of the greatest value not merely to the medical profession, but to all who have the
-			health of the nation and the race at heart--and where else, we may ask, is true
-			patriotism to be found? In the matter of breeding out disease and breeding in health,
-			prophylaxis, as a distinguished authority asserts, is ninety per cent. of the cure.
-			Until the medical profession, not merely at home but in all countries in the world, and
-			the laity under the leadership of medical science, realize these fundamental and
-			unchanging truths, we cannot hope to make any progress toward the eradication of those
-			monstrous biological diseases, the full terror of whose blight we can only realize when
-			we study them through a succession of generations, when we study them genetically
-			instead of in the individual patient.</p>
+				<org>Philadelphia Neurological Society</org> (Foot note: January 27, 1922, <title
+				type="journal">N. Y. Med. Jour.</title>, Vol. CXVI, No. 6, p. 334), dealing with an
+			epileptic and her sixteen children, a study "<q who="YAWNS"> of a family that was
+				rendered distressingly poor through the circumstances of a blind father, and of an
+				epileptic mother who scouted race suicide by living up to sixteen pregnancies, who
+				clung to all these maternal burdens save one--the tenth conception miscarried--but
+				who still ran true to a total of sixteen, by reason of her first effort having
+				brought forth twins.</q> Despite the fact that there was no evidence of syphilis
+			that the diseases and defects of the unfortunate children do not appear especially to
+			have developed upon a leutic basis--only three of the children appeared to have escaped
+			the hereditary blight. Dr. Yawger concludes that "<q who="YAWNS"> a small volume could
+				be written upon the disorders which will develop among the early descendants of this
+				ill-fated family.</q>" Such studies are of the greatest value not merely to the
+			medical profession, but to all who have the health of the nation and the race at
+			heart--and where else, we may ask, is true patriotism to be found? In the matter of
+			breeding out disease and breeding in health, prophylaxis, as a distinguished authority
+			asserts, is ninety per cent. of the cure. Until the medical profession, not merely at
+			home but in all countries in the world, and the laity under the leadership of medical
+			science, realize these fundamental and unchanging truths, we cannot hope to make any
+			progress toward the eradication of those monstrous biological diseases, the full terror
+			of whose blight we can only realize when we study them through a succession of
+			generations, when we study them genetically instead of in the individual patient.</p>
 		<p>The profession of medicine stands upon the threshold of a new era in the social organism.
 			The physician today is in possession of truths of the most vital importance to the
 			community; and it is his duty, as a member of one of the noblest, if not the noblest of

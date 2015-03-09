@@ -5,15 +5,18 @@
 		<prepDate>2003/07/22 SR</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2014-11-18 CH clean more</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-09-00"> Sep 1923</docDate>
 		<docTitle>
-			<titlePart>The Vision of George Drysdale</titlePart>
+			<titlePart><supplied resp="MSPP">The Vision of George Drysdale, Part III</supplied></titlePart>
 		</docTitle>
 		<idno>msp239148</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Sept. 1923, pp. 225-227</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S70:1016</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -25,7 +28,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This article is the third in a four-part series of the same title. For the preceding
-			articles, see <xref from="225187">July 1923</xref>, <xref from="219520">August
+			articles, see <xref from="225187">July 1923</xref> and <xref from="219520">August
 				1923</xref>; for final article see <xref from="2111447">October 1923</xref>.</p>
 		<index level1="Drysdale, George"/>
 		<index level1="sex education"/>
@@ -33,7 +36,7 @@
 	</headNote>
 	<docBody>
 		<head>The Vision of George Drysdale</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>By Margaret Sanger</byline>
 		<p>The revelation in modern psychology, for which we are mostly indebted to <person
 				reg="Freud, Sigmund">Sigmund Freud</person>, is marked by the shifting emphasis and
 			interest from the intellectual to the instinctive, from the descriptive to the
@@ -81,7 +84,7 @@
 					heart.</emph></q>" On the other hand, the psychology of that artificial era was
 			as barren and unfruitful, as we could well expect it to be. It limited itself, as any
 			reader of the old textbooks remembers, to descriptive analysis of intellectual and
-			mental processess, with no reference to the unconscious physical or instinctive behavior
+			mental processes, with no reference to the unconscious physical or instinctive behavior
 			of the individual.</p>
 		<p>Drysdale was one of the first to see that these two things, to be of any real benefit to
 			humanity, must be united and synthesized into a new science. The modern analyst has to

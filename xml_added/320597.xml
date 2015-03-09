@@ -5,14 +5,17 @@
 		<prepDate>2003/07/29 SR</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-04-15"> 15 Apr 1923</docDate>
 		<docTitle>
 			<titlePart>Highlights in the History of Birth Control</titlePart>
 		</docTitle>
 		<idno>msp320597</idno>
 		<sourceDesc>
-			<bibl><title type="journal">New York Tribune</title>, Apr. 15, 1923, p. 6.</bibl>
+			<bibl><title type="journal">New York Tribune</title>, Apr. 15, 1923, p. 6</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,35 +25,35 @@
 			<name id="NOYJO"> Noyes, John Humphrey</name>
 			<name id="INGRO"> Ingersoll, Robert G. </name>
 			<name id="ARNMA"> Arnold, Matthew</name>
+			<name id="ABCL">American Birth Control Leaague</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This article was reprinted in an <org>American Birth Control League</org> flyer, long
+		<p>This article was reprinted in an <org>American Birth Control League</org> flyer, along
 			with other articles as "<title type="article">Real Facts about Birth Control</title>,"
 			Apr. 1923 (LCM 129:579). This article included a photo of <person reg="Besant, Annie"
-				>Annie Besant</person> and the caption "Annie Besant was to England in 1877 what
-				<person reg="Sanger, Margaret">Margaret Sanger</person> is now to America."</p>
+				>Annie Besant</person> with the caption: "<q who="ABCL">Annie Besant was to England in 1877 what
+				<person reg="Sanger, Margaret">Margaret Sanger</person> is now to America.</q>"</p>
 		<index level1="England" level2="birth control in"/>
-		<index level1="birth control movement" level2="history of"/> 
+		<index level1="birth control movement" level2="history of"/>
 		<index level1="United States" level2="birth control in"/>
 		<index level1="United States" level2="overpopulation in"/>
 	</headNote>
 	<docBody>
 		<head>Highlights in the History of Birth Control</head>
-		<byline>By <person reg="Sanger, Margaret">MARGARET SANGER</person></byline>
+		<byline>By MARGARET SANGER</byline>
 		<p>The history of Birth control propaganda in this country, as in <place>England</place>, is
 			full of excitement, certain phases of it being more like a novel of adventure than a
 			record of fact. Ten years ago the very words "Birth Control" were considered daring.
 			Today the expression is taken for granted and has, indeed, circled the globe. Birth
 			Control is discussed in <place reg="Shanghai, China">Shanghai</place>, <place
-				reg="Tokyo, Japan">Tokio</place>, <place reg="Calcutta, India">Calcutta</place>,
+				reg="Tokyo, Japan">Tokyo</place>, <place reg="Calcutta, India">Calcutta</place>,
 				<place reg="Cairo, Egypt">Cairo</place>, <place reg="Columbo, Sri Lanka"
 				>Colombo</place>, no less than in <place reg="London, England">London</place>,
 				<place reg="New York, NY">New York</place>, <place reg="Chicago, IL">Chicago</place>
 			and <place reg="Albany, NY">Albany</place>. Most of those who hold up their hands in
 			holy horror at this doctrine, who condemn it as illegal and un-American, do so in
 			ignorance of its history.</p>
-
 		<p>The theory of birth Control was first formulated by the Rev. <person
 				reg="Malthus, Thomas Robert">Robert Malthus</person>, an obscure clergyman in the
 				<org>Church of England</org>. Malthus advocated "<q who="MALTH">prudential
@@ -60,7 +63,7 @@
 			and <person reg="Madison, James">James Madison</person>--were ardent champions of
 			Malthus.</p>
 
-		<p><person reg="Owen, Robert Dale">Robert Dale Owen</person>, a <place>United States</place>
+		<p><person reg="Owen, Robert Dale">Robert Dale Owen</person>, a United States
 			Senator and later Ambassador to <place>France</place>, wrote a book entitled, "<title
 				type="book">Moral Physiology</title>," which gave Birth Control information and led
 			to the arrest and conviction of a London bookseller. Owen's book was published in 1830.
@@ -77,7 +80,7 @@
 			England. They were arrested there for distributing "indecent literature." But the birth
 			rate of England began to drop and it has never ceased decreasing.</p>
 
-		<p>In 1841 the <org>Oneida Community</org> was founded by <person reg="Noyes,John Humphreys"
+		<p>In 1841 the <org>Oneida Community</org> was founded by <person reg="Noyes, John Humphreys"
 				>John Humphreys Noyes</person> at <place reg="Putney, VT">Putney, Vt.</place> Later
 			this colony moved to <place reg="Oneida, NY">Oneida, N. Y</place>. In his first annual
 			report Noyes wrote: "<q who="NOYJO">We are opposed to excessive and, of course,
@@ -93,7 +96,7 @@
 			was enacted through the efforts of the late <person reg="Comstock, Anthony">Anthony
 				Comstock</person> in 1873. In 1906 <person reg="Harman, Moses">Moses
 			Harman</person>, a man seventy-five, was sentenced to hard labor, breaking stone, in
-				<org reg="Leavenworth Penitentiary"><place reg="Leavenworth, KS">Leavenworth</place>
+				<org reg="United States Penitentiary, Leavenworth"><place reg="Leavenworth, KS">Leavenworth</place>
 				prison</org>, because he published a serious discussion of marital relations. In
 			1912 Dr. <person reg="Jacobs, Abraham">Abraham Jacobi</person>, is his presidential
 			address before the <org>American Medical Association</org>, indorsed Birth Control as a

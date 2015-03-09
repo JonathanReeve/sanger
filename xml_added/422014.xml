@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-06-24 MM transcribe and encode </prepDate>
 		<prepDate>2015-01-08 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -16,8 +17,8 @@
 		<idno>msp422014</idno>
 		<sourceDesc>
 			<bibl><title type="article">Mrs. Sanger Makes Plea For Birth Control Before A Large
-					Audience Here </title>, <title>Morning Herald (Hagerstown)</title>, Jan. 27,
-				1923</bibl>
+					Audience Here </title>, <title type="journal">Morning Herald
+					(Hagerstown)</title>, Jan. 27, 1923</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,12 +26,13 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger spoke to the Woman's Club in <place reg="Hagerstown, MD">Hagerstown,
-				Maryland</place> at the <org>Stouffer's Dance Academy</org> after the
-				<org>YWCA</org> refused her. Over one thousand attended the event, Sanger was
-			introduced by <person reg="Morningstar, Mary E.">Mary E. Morningstar</person>. For a
-			quote likely given at the meeting see <xref from="422013.xml">"Statement on
-				Flappers</xref>," Jan. 27, 1923.</p>
+		<p>Sanger spoke to the <org reg="Hagerstown Woman's Club">Woman's Club</org> in <place
+				reg="Hagerstown, MD">Hagerstown, Maryland</place> at the <org>Stouffer's Dance
+				Academy</org> after the <org reg="Young Women's Christian Association">YWCA</org>
+			refused her. Over one thousand attended the event, Sanger was introduced by <person
+				reg="Morningstar, Mary E.">Mary E. Morningstar</person>. For a quote likely given at
+			the meeting see <xref from="422013.xml">"Statement on Flappers</xref>," Jan. 27,
+			1923.</p>
 		<index level1="birth rate"/>
 		<index level1="family size" level2="class-based"/>
 		<index level1="birth control" level2="religion and"/>
@@ -44,11 +46,11 @@
 		<p>"Countries having highest birth rates are those which have not increased in population
 			while those having low birth rates--such as <place>Australia</place>--have increased in
 			population. Control of the birth rate is an aid to increased population because higher
-			death rates always acompany large birth rates, the speaker explained. Prejudice and
+			death rates always accompany large birth rates, the speaker explained. Prejudice and
 			ignorance are the two factors fighting the movement to allow control of the birth rate,
 			and eventually will lead back to a degenerate civilization.</p>
 		<p>"The world is divided into two groups--not the rich and the poor--but the small family
-			group and the the large family group. In small families is found self-reliance,
+			group and the large family group. In small families is found self-reliance,
 			self-respect, happiness, leisure, comfort: the children in small families attend school
 			and college and usually fill the highest positions in church and state.</p>
 		<p>"On the other hand is the large family group where is found misery, ignorance, poverty,
@@ -76,16 +78,19 @@
 			nature.</p>
 		<p> "But, if self-preservation is the first law of nature, then birth control is within
 			nature's laws, for self-preservation depends on birth control."</p>
-		<p><q who="HMH">Answering the argument that birth control would increase immorality, Mrs.
+		<p>
+			<q who="HMH">Answering the argument that birth control would increase immorality, Mrs.
 				Sanger said that of all the thousands of woman who have come to her for advice,
-				there has never been an unmarried girl ask for information.</q></p>
+				there has never been an unmarried girl ask for information.</q>
+		</p>
 		<p>"It is an insult to women, and an insult to Christianity to say that, if women are not
 			capable of standing on their own inner strength of character, the generations of
 			Christian teachings have failed. It is a weak morality that is moral because of fear of
 			the consequences. People have to be taught the proper use of knowledge. They can be
 			safeguarded only by the firmness, the intelligence, the strength within them.</p>
 		<p>"Are people interested in the subject" <q who="HMH">Mrs. Sanger was asked.</q></p>
-		<p><q who="HMH">In reply, she told of letters received by her from women all over the
+		<p>
+			<q who="HMH">In reply, she told of letters received by her from women all over the
 				country, averaging more than 1000 a day.</q>
 		</p>
 		<p>"These letters, coming for the most part from poor mothers of the tenements, the

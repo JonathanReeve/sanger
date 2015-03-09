@@ -5,7 +5,10 @@
 		<prepDate>2003/07/22</prepDate>
 		<prepDate>2003/07/28 SR</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-05-00">May 1923</docDate>
 		<docTitle>
 			<titlePart>Intelligence Tests for Legislators</titlePart>
@@ -13,7 +16,7 @@
 		<idno>msp238645</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, May 1923, pp. 107-108</bibl>
-			<bibl><title>Margaret Sanger Microfilm</title> S70:1001</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:1001</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -80,7 +83,7 @@
 			problem which is daily coming to be recognized not merely as <emph rend="italics"
 				>one</emph> of the greatest problems confronting contemporary civilization, but
 			which, to quote the distinguished French savant, <person reg="Richet, Charles Robert"
-				>Richet</person>, is basically the <emph rend="italics">only</emph> problem -- this
+				>Richet</person>, is basically the <emph rend="italics">only</emph> problem--this
 			question not only failed to penetrate into the consciousness of these legislators, but
 			it was dismissed with a gesture that lacked even the redeeming merit of dignity. It is
 			our duty to record this fact: that in this year 1923 our chosen representatives in the

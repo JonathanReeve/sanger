@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published article ">
+<doc type="Published article">
 	<mepHeader>
 		<prepDate>2003/07/02 SB</prepDate>
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2015-01-14 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,7 +15,7 @@
 		</docTitle>
 		<idno>msp201479</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Birth Control Review</title> Apr. 1923, p. 84</bibl>
+			<bibl><title type="journal">Birth Control Review</title> Apr. 1923, p. 84</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm Edition, Smith College
 					Collections</title> S70:998</bibl>
 		</sourceDesc>

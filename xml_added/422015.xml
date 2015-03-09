@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-06-26 MM </prepDate>
 		<prepDate>2015-01-15 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,7 +18,7 @@
 		<idno>msp422015</idno>
 		<sourceDesc>
 			<bibl><title type="article">Margaret Sanger Pleads for Bill Before Committee</title>,
-					<title>Bridgeport Telegram</title>, Feb. 14, 1923, p. 1.</bibl>
+					<title type="journal">Bridgeport Telegram</title>, Feb. 14, 1923, p. 1</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -38,13 +39,12 @@
 	</headNote>
 	<docBody>
 		<head>MARGARET SANGER PLEADS FOR BILL BEFORE COMMITTEE</head>
-		<head type="sub">Crowd of 300 Attend Hearing on Proposed Legalizing of Birth Control in
-			Connecticut</head>
+		
 		<div type="section">
 			<dateline><place reg="Hartford, CT">Hartford</place>,<date value="1923-02-13"/>Feb.
 				13.</dateline>
-			<q who="BT">
-				<p>The question as to whether or not <place>Connecticut</place> shall legalize the
+			
+			<p><q who="BT">The question as to whether or not <place>Connecticut</place> shall legalize the
 					practice of birth control provoked, at a hearing before the <org
 						reg="Connecicut State Assembly, Judiciary Committee">Judiciary committee of
 						the general assembly</org> this afternoon, the keenest and most absorbing
@@ -53,12 +53,12 @@
 					brought to the old <org reg="Connecticut State Senate">Senate</org> chamber,
 					where the Judiciary committee holds its sessions, a crowd estimated at 300
 					persons, which packed the seats on the floors, the galleries, and the interior
-					window spaces. Most of those present were women.</p>
-			</q>
+					window spaces. Most of those present were women.</q></p>
+			
 			<p>
 				<q who="BT">A discussion by Mrs. Margaret Sanger, introduced as "the champion for
 					birth control in the <place>United States</place>," on the one hand, and Bishop
-						<person reg="Murray, John G. (Bishop)">John G. Murray</person>, chancellor
+						<person reg="Murray, John G.">John G. Murray</person>, chancellor
 					of the <org reg="Catholic Diocese of Connecticut">Catholic diocese of
 						Connecticut</org>, sometimes referred to among scholars as "the pride of
 						<org reg="Universit&eacute; Catholique de Louvain">Louvian
@@ -78,7 +78,7 @@
 		<div type="section">
 			<head type="subhead">Considered too Drastic.</head>
 			<p>
-				<q who="BT">An informal pool of the Judiciary committee at the clsoe of the hearing
+				<q who="BT">An informal pool of the Judiciary committee at the close of the hearing
 					indicated it was learned by the <org reg="Bridgeport Telegram">Telegram</org>
 					correspondent a probable majority of the committee in favor of some revision of
 					the existing statutes, by which birth control information is forbidden, although
@@ -158,9 +158,10 @@
 		</div>
 		<div type="section">
 			<head type="subhead">Women Favor it</head>
-			<p><q who="BT">A poll of those attending the hearing who were in favor of the bill was
-					asked by the committee, and about 40 persons, all women, raised their
-				hands.</q></p>
+			<p>
+				<q who="BT">A poll of those attending the hearing who were in favor of the bill was
+					asked by the committee, and about 40 persons, all women, raised their hands.</q>
+			</p>
 			<p><q who="BT">Bishop Murray, opposing the bill, said </q>"<q who="MURJO">We would have
 					to convert the whole state of <place> Connecticut</place> into an enormous
 					insane asylum if there are to be found people in the state who are foolish
@@ -174,7 +175,7 @@
 					instrument, and preventing the spread of any 'information intending to prevent
 					conception,' was adopted by this state in 1821, and was the result of the wisdom
 					and experience of those who established this state," the bishop said. "To do
-					otherwise is to prevert a <name type="deity">God</name>-given function. This
+					otherwise is to pervert a <name type="deity">God</name>-given function. This
 					bill which these people now propose is contrary to the recognition of natural
 					laws which have been on the statute books for over 100 years, and recognition of
 					the laws has made this commonwealth, in my judgement, the most ideal in the
@@ -199,16 +200,18 @@
 			<p><q who="BT">Mrs. Sanger challenged Bishop Murray's statement concerning the violating
 					of natural laws in practicing birth control. </q>"Is there not anything today
 				which is not a violation of natural laws?" <q who="BT">she asked. </q>"There are men
-				in this room, and the gentlement is one of them, who are clean-shaven. That is
+				in this room, and the gentlemen is one of them, who are clean-shaven. That is
 				against a law of nature. We are wearing clothes. We are walking upright instead of
 				on all fours. We are benefiting by medicine and surgery. All those are violations of
 				natural laws. It's absurd, sayign that this would be contrary to nature. It's the
 				control of nature that we want to accomplish." </p>
-			<p><q who="BT">At the close of her remarks, Mrs. Sanger said she was one of eleven
+			<p>
+				<q who="BT">At the close of her remarks, Mrs. Sanger said she was one of eleven
 					children and the mother of three, and had been a trained nurse, practicing in
 						<place reg="New York, NY">New York city</place> for fourteen years. She said
 					she spoke in the interest of thousands who were inarticulate, but who earnestly
-					besought the right that the bill proposes to give.</q></p>
+					besought the right that the bill proposes to give.</q>
+			</p>
 		</div>
 	</docBody>
 </doc>

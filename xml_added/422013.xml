@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014-06-24 MM transcribe and encode</prepDate>
 		<prepDate>2015-01-08 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret"/>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-01-27">27 Jan 1923</docDate>
 		<docTitle>
 			<titlePart>
@@ -13,8 +16,8 @@
 		</docTitle>
 		<idno>msp422013</idno>
 		<sourceDesc>
-			<bibl><title type="article">Says Flappers Just Part of Evolution</title>, <title>Morning
-					Herald (Hagerstown)</title> Jan. 27, 1923</bibl>
+			<bibl><title type="article">Says Flappers Just Part of Evolution</title>, <title
+					type="journal">Morning Herald (Hagerstown)</title> Jan. 27, 1923</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,14 +25,16 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger likely gave this statement in answer to a question during her <xref
-				from="422014.xml"> "Speech to the Hagerstown Woman's Club"</xref> on Jan. 26, 1923
-			in <place reg="Hagerstown, MD">Hagerstown, Maryland</place>.</p>
+		<p>Sanger likely gave this statement in answer to a question during her "<xref
+				from="422014.xml">Speech to the Hagerstown Woman's Club</xref>," on Jan. 26, 1923 in
+				<place reg="Hagerstown, MD">Hagerstown, Maryland</place>.</p>
 		<index level1="women" level2="freedom and rights of"/>
 	</headNote>
 	<docBody>
 		<head>Says Flappers Just Part of Evolution</head>
-		<p><q who="HMH">Flapperism isn't a frivolity, says Mrs. Margaret Sanger. </q></p>
+		<p>
+			<q who="HMH">Flapperism isn't a frivolity, says Mrs. Margaret Sanger. </q>
+		</p>
 		<p>"It is a natural step in the evolution and development of women. It is a swing of the
 			pendulum from the Puritanism of the two most puritanical of nations, the <place>United
 				States</place> and <place>England</place>.</p>
@@ -39,8 +44,10 @@
 		<p>"When men see that women have developed superior intellects, they will rise above their
 			standards, and the result will be a higher type than ever before of both men and
 			women."</p>
-		<p><q who="HMH">So, Flappers, don't be so carefree! You've got a serious mission to perform
-				of raising womanhood!</q></p>
+		<p>
+			<q who="HMH">So, Flappers, don't be so carefree! You've got a serious mission to perform
+				of raising womanhood!</q>
+		</p>
 	</docBody>
 
 </doc>

@@ -6,7 +6,10 @@
 		<prepDate>2014/02/11 CH correcting.</prepDate>
 		<prepDate>2014-05-05 CH cleaning confusing issues</prepDate>
 		<prepDate>2015-01-15 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-03-05">
 			<supplied resp="MSPP">5 Mar 1923</supplied>
 		</docDate>
@@ -18,7 +21,7 @@
 		<idno>msp224706</idno>
 		<sourceDesc>
 			<bibl>Florence Rose Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S70:0758</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -27,15 +30,15 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is a partial draft of a speech <person reg="Sanger, Margaret">Margaret
-				Sanger</person> likely gave in <place>Connecticut</place>, possibly for the
-				<org>Bridgeport Council of Jewish Women</org>, a the <org>Liberty Building</org>'s
-			Business and Professional Women's Club Assembly Room. She was introduced by <person
-				reg="Capitman, Frances N.">Frances N. Capitman</person>, president of the Council.
-			For a related document see "<xref from="101790.xml">The ABC's of Birth Control</xref>,"
-			1923. For coverage of this speech see "<title type="article">Women Jam Hall to Hear
-				Address on Birth Control</title>," <title type="journal">Bridgeport Courier</title>,
-			Mar. 6, 1923, p. 1 </p>
+		<p>This is a partial draft of a speech Margaret Sanger likely gave in
+				<place>Connecticut</place>, possibly for the <org>Bridgeport Council of Jewish
+				Women</org>, at the <org>Liberty Building</org>'s Business and Professional Women's
+			Club Assembly Room. She was introduced by <person reg="Capitman, Frances N.">Frances N.
+				Capitman</person>, president of the Council. For a related document see "<xref
+				from="101790.xml">The ABC's of Birth Control</xref>," 1923. For coverage of this
+			speech see "<title type="article">Women Jam Hall to Hear Address on Birth
+				Control</title>," <title type="journal">Bridgeport Courier</title>, Mar. 6, 1923, p.
+			1.</p>
 		<index level1="abortion" level2="MS on"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
 		<index level1="birth control" level2="health benefits and risks"/>
@@ -68,7 +71,7 @@
 			diseases can be inherited, it is known that a tendency to disease can be handed down
 			from parent to child. The increase in tuberculosis cases is attributed to the fact that
 			the doctors keep alive to propagate their kind many men and women who formerly would
-			have died before parenthood. They do not bequeathe tuberculosis to their children
+			have died before parenthood. They do not bequeath tuberculosis to their children
 			directly, but the children probably inherit a greater liability to the disease than the
 			children of normal parents.</p>
 		<p>Syphilis can be inherited--“<q who="BIB">unto the third and fourth generation</q>”. There

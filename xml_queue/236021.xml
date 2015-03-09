@@ -6,10 +6,13 @@
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2012-05-03 AW</prepDate>
 		<prepDate>2014-05-06 CH corrected title and others</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-02-11">11 Feb 1923</docDate>
 		<docTitle>
-			<titlePart>The Meaning of Birth Control</titlePart>
+			<titlePart>The Need for Birth Control In America</titlePart>
 		</docTitle>
 		<idno>msp236021</idno>
 		<sourceDesc>
@@ -24,11 +27,11 @@
 	<headNote resp="MSPP">
 		<p>This speech was given in <place reg="Hartford, CT">Hartford, Connecticut</place> at a
 			mass meeting organized by the <org>Connecticut Birth Control League</org>, at the
-				<org>Parsons' Theatre</org>. For a draft version without Sanger's handwritten
-			corrections, see Library of Congress Microfilm 130:436. The speech was also published as
-				"<title type="article">The Need for Birth Control In America</title>" in <person
-				reg="Meyer, Adolf">Adolf Meyer</person>, <title type="book">Birth Control Facts and
-				Responsibilities</title>, (Baltimore, 1925), 11-49.</p>
+				<org>Parsons' Theatre</org>. The meeting was chaired by Annie Goodrich Porritt. For
+			a draft version without Sanger's handwritten corrections, see Library of Congress
+			Microfilm 130:436. The speech was also published in <person reg="Meyer, Adolf">Adolf
+				Meyer</person>, <title type="book">Birth Control Facts and Responsibilities</title>,
+			(Baltimore, 1925), pp. 11-49.</p>
 		<index level1="abortion"/>
 		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control" level2="clinics and leagues"/>
@@ -77,7 +80,7 @@
 		<index level1="women" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
-		<head>The Need of Birth Control in <place reg="United States">America</place></head>
+		<head>The Need of Birth Control in America</head>
 		<byline>Margaret Sanger President, <org>American Birth Control League</org>, Inc.</byline>
 		<p><person reg="Porritt, Annie Goodrich">Madam Chairman</person> and Ladies and
 			Gentlemen:</p>
@@ -264,8 +267,8 @@
 			go home <del>temporarily sane</del>, <del>and yet would only be home perhaps</del>
 			<add>while within</add> a few weeks, sometimes a few days, <del>and</del> have returned
 			raving maniacs, leaving behind them a pregnant wife. We have in most of our states --
-				<del>and I suppose the <person reg="Kallikak family">Kalecks</person></del>
-			<add>increasing problems from these conditions</add> and <person reg="Jukes family"
+				<del>and I suppose the <person reg="Kallikak Family">Kalecks</person></del>
+			<add>increasing problems from these conditions</add> and <person reg="Jukes Family"
 				>Jukes</person> family is familiar to all of you -- but it never hurts to bring to
 			mind what is going on in practically every community of the United States today, as long
 			as we allow the Feeble minded to reproduce. Here for instance, is the story of <person
@@ -281,8 +284,7 @@
 			this one family, including cost of prostitutes, and care of others in institutions
 			amounted to $1,300,000. in this 75 years. That would be nothing compared to what they
 			would cost today.</p>
-		<p><del>Now</del> we know that in every state we have the <add><person reg="Kallikak family"
-					>Kalliack</person></add> family and the Jukes family, but we are reluctant to
+		<p><del>Now</del> we know that in every state we have the <add>Kalliack</add> family and the Jukes family, but we are reluctant to
 			face fundamentals and to get at the bottom, <add>of</add>
 			<del>in fact, I <unclear resp="MSPP">always say</unclear> that</del>. <del>And</del> I
 			found in my own nursing work that we were very much today--and all social workers and
@@ -504,7 +506,7 @@
 			nature has allowed it, the population has remained practically stationary for some
 			hundred years. On the other hand, the low birth-rate countries, with the exception of
 				<place>France</place>, which I will take up later, the low birth-rate countries,
-			like <place>England</place> and <place>Germany</place>, <place reg="the Netherlands"
+			like <place>England</place> and <place>Germany</place>, <place reg="Netherlands"
 				>Holland</place>, <place>New Zealand</place>, and <place>Australia</place>, these
 			countries, while the birth-rate has been lower and has continued to be lower, the infant
 			mortality and the general death-rate have also been lower; consequently the population
@@ -542,10 +544,10 @@
 				got to</del> be <add>the inference is that a woman must</add> be kept ignorant to
 				<del>be kept living</del>
 			<add>live</add> a clean life. I don't believe that is true.</p>
-		<p>Again, we might say that everything can be mis-used. All knowledge can be mis-used; we
-			know that. Everything today has some mis-use of it. But we don't stop the progress of
-			humanity because of the few who mis-use things. Automobiles can be mis-used; certainly
-			razors can be mis-used, and as a matter of fact, when razors were first put on the
+		<p>Again, we might say that everything can be misused. All knowledge can be misused; we
+			know that. Everything today has some misuse of it. But we don't stop the progress of
+			humanity because of the few who misuse things. Automobiles can be misused; certainly
+			razors can be misused, and as a matter of fact, when razors were first put on the
 			market there was just the same objection. In the old days <add>a</add> man <add>could
 				not shave himself</add>
 			<add>only</add> a doctor had <del>to shave a man secretly</del>
@@ -720,25 +722,26 @@
 		<p>Again we find churches are very timid in coming out and taking a stand for it, but we
 			have had a few illuminating examples, such as <add>Lord <person
 					reg="Dawson, Bertram Edward">Dawson</person></add> physician who came to the
-				<org reg="Lambeth Conference of Anglican Bishops">conference at Lambeth</org> last year, and took his stand firmly for Birth Control
-			and told the people that unless they listened to them, they might just as well close
-			their doors. Then there is Dean <add><person reg="Inge, William Ralph"
-				>Inge</person></add> of St. Paul's Cathedral. You have men like <person
-				reg="Wells, H. G.">H. G. Wells</person>, <person reg="Murray, Gilbert">Gilbert
-				Murray</person> of Oxford, <person reg="Russell, Betrand">Bertrand Russell</person>,
-				<person reg="Cox, Harold">Harold Cox</person>. You have some of the finest thinking
-			men in England; and <person reg="Keynes, John Maynard">John Maynard</person> is also
-			standing for Birth Control. He told me in <place reg="London, England">London </place>
-			that this subject of Birth Control was a most important subject on the political horizon
-			and he said unless we are going to recognize the population question, we may as well
-			throw all our peace treaties and our agreements between nations in the waste paper
-			basket; they can never come to anything until the population question is recognized.
-			This is not only an individual problem, it is not only a national problem, it is a race,
-			it is a world problem. I agree with H. G. Wells, who says in his last book that the
-			whole world is crammed with meaningless lives, hordes of people who are born, who live,
-			who die, and have done nothing to move the race forward one iota. There have been
-			repetitions, all that has been said has been said before; all that they have done better
-			before. They come and use up the energies and the resources of the earth.</p>
+				<org reg="Lambeth Conference of Anglican Bishops">conference at Lambeth</org> last
+			year, and took his stand firmly for Birth Control and told the people that unless they
+			listened to them, they might just as well close their doors. Then there is Dean
+					<add><person reg="Inge, William Ralph">Inge</person></add> of St. Paul's
+			Cathedral. You have men like <person reg="Wells, H. G.">H. G. Wells</person>, <person
+				reg="Murray, Gilbert">Gilbert Murray</person> of Oxford, <person
+				reg="Russell, Betrand">Bertrand Russell</person>, <person reg="Cox, Harold">Harold
+				Cox</person>. You have some of the finest thinking men in England; and <person
+				reg="Keynes, John Maynard">John Maynard</person> is also standing for Birth Control.
+			He told me in <place reg="London, England">London </place> that this subject of Birth
+			Control was a most important subject on the political horizon and he said unless we are
+			going to recognize the population question, we may as well throw all our peace treaties
+			and our agreements between nations in the waste paper basket; they can never come to
+			anything until the population question is recognized. This is not only an individual
+			problem, it is not only a national problem, it is a race, it is a world problem. I agree
+			with H. G. Wells, who says in his last book that the whole world is crammed with
+			meaningless lives, hordes of people who are born, who live, who die, and have done
+			nothing to move the race forward one iota. There have been repetitions, all that has
+			been said has been said before; all that they have done better before. They come and use
+			up the energies and the resources of the earth.</p>
 		<p>Now on the other hand, what we are trying to do is to make for a better world, and we
 			maintain that the greatness of a country cannot be measured by the size of its
 			population. You have got to ask yourself, "<q who="UNK">Is your country breeding great

@@ -5,6 +5,7 @@
 		<prepDate>2014-06-20 CH initial tag,</prepDate>
 		<prepDate>2015-01-09 CH proof tags, enter</prepDate>
 		<prepDate>2014-06-20 KH transcription, indexing, tagging</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,7 +20,7 @@
 			<bibl>
 				<title type="article">Birth Control Advocate Says Faith and Striving for Ideal Keeps
 					One Young and Beautiful</title>, <title type="journal">Denver Post</title>, Aug.
-				6, 1923, p. 16 </bibl>
+				6, 1923, p. 16</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -40,37 +41,36 @@
 	<docBody>
 		<head>BIRTH CONTROL ADVOCATER SAYS FAITH AND STRIVING FOR IDEAL KEEPS ONE YOUNG AND
 			BEAUTIFUL</head>
-		<q who="DP">
-			<p>To keep young and to remain beautiful, one should acquire a great purpose in life,
-				and establish in the heart a great faith.</p>
-			<p>This recipe sprang into mind Monday when, after seven years’ absence, Mrs. <person
-					reg="Sanger, Margaret">Margaret Sanger</person>, leader of the <org
-					reg="American Birth Control League">National League for Birth Control</org>,
-				came into view younger and lovelier than on her first visit to <place
-					reg="Denver, CO">Denver</place>.</p>
-			<p>Since her last visit in 1916, Mrs. Sanger has suffered imprisonment many times to
-				prove the faith she holds. She has thru sincerity and persistence drawn a velvet
-				glove on the iron hand of the law in many states; she has, in spite of the refusal
-				of the <org reg="United States, Government of">United States government</org> to
-				vise her passport and over the protest of the <org reg="Japan, Government of"
-					>Japanese government</org>, entered <place>Japan</place> as an honored guest of
-				its younger statesmen, its thoughtful women and the masses of the people, and women
-				them to her standard.</p>
-			<p>And now, via <place>Alaska</place>, she has come to <place>Colorado</place> for a
-				real vacation and rest. </p>
-			<p>Before mentioning the cause near her heart, Mrs. Sanger said she did not wonder that
-					<person reg="Harding, Warren G.">President Harding</person> succumbed to illness
-				on his western tour.</p>
-		</q>
+
+		<p><q who="DP">To keep young and to remain beautiful, one should acquire a great purpose in
+				life, and establish in the heart a great faith.</q></p>
+		<p><q who="DP">This recipe sprang into mind Monday when, after seven years’ absence, Mrs.
+				Margaret Sanger, leader of the <org reg="American Birth Control League">National
+					League for Birth Control</org>, came into view younger and lovelier than on her
+				first visit to <place reg="Denver, CO">Denver</place>.</q></p>
+		<p><q who="DP">Since her last visit in 1916, Mrs. Sanger has suffered imprisonment many
+				times to prove the faith she holds. She has thru sincerity and persistence drawn a
+				velvet glove on the iron hand of the law in many states; she has, in spite of the
+				refusal of the <org reg="United States Government">United States government</org> to
+				vise her passport and over the protest of the <org reg="Japan Government">Japanese
+					government</org>, entered <place>Japan</place> as an honored guest of its
+				younger statesmen, its thoughtful women and the masses of the people, and women them
+				to her standard.</q></p>
+		<p><q who="DP">And now, via <place>Alaska</place>, she has come to <place>Colorado</place>
+				for a real vacation and rest.</q></p>
+		<p><q who="DP">Before mentioning the cause near her heart, Mrs. Sanger said she did not
+				wonder that <person reg="Harding, Warren G.">President Harding</person> succumbed to
+				illness on his western tour.</q></p>
 		<p>“The president was doubtless very weary when he set out from <place reg="Washington, DC"
-				>Washington</place>,” she said. “He had hoped for rest in Alaska. It is a wonderful
-			country, but no place to go for a rest, for there at this time of the year is perpetual
-			daylight. It is daylight, and that gets behind the eyes into the brain and plays havoc
-			with one’s nerves, making sleep impossible to the stranger.”</p>
-		<q who="DP">
-			<p>Mrs. Sanger insists she sees daylight ahead of her cause. The sort of daylight that
-				does not play havoc with the brain, but sets it to work of the good of humanity.</p>
-		</q>
+				>Washington</place>,” <q who="DP">she said.</q> “He had hoped for rest in Alaska. It
+			is a wonderful country, but no place to go for a rest, for there at this time of the
+			year is perpetual daylight. It is daylight, and that gets behind the eyes into the brain
+			and plays havoc with one’s nerves, making sleep impossible to the stranger.”</p>
+
+		<p><q who="DP">Mrs. Sanger insists she sees daylight ahead of her cause. The sort of
+				daylight that does not play havoc with the brain, but sets it to work of the good of
+				humanity.</q></p>
+
 		<p>“When I went to Japan,” <q who="DP">she said,</q> “I chose the <name type="ship"
 				reg="Taiyo Maru">boat</name> on which the Japanese delegates to the <org
 				reg="Washington Naval Congress">armament congress</org> were returning. I had been
@@ -87,30 +87,30 @@
 		<p>“The thoughtful people of Japan realize that it is as foolish to glut the market with a
 			human output as to glut it was an over supply of other produce. Hence their interest in
 			and enthusiasm for the message I carried.”</p>
-		<q who="DP">
-			<p>The same cordial reception was granted Mrs. Sanger in <place>China</place> and
-					<place>Korea</place>.</p>
-			<p>No apostle of any cause has paid more dearly for her loyalty than has this
-				gentlewoman with the buoyant voice, lovely eyes and stubborn chin.</p>
-			<p>As a nurse serving the poor in the tenement districts of <place reg="New York, NY"
-					>New York</place>, a location she selected when she left <org
+
+		<p><q who="DP">The same cordial reception was granted Mrs. Sanger in <place>China</place>
+				and <place>Korea</place>.</q></p>
+		<p><q who="DP">No apostle of any cause has paid more dearly for her loyalty than has this
+				gentlewoman with the buoyant voice, lovely eyes and stubborn chin.</q></p>
+		<p><q who="DP">As a nurse serving the poor in the tenement districts of <place
+					reg="New York, NY">New York</place>, a location she selected when she left <org
 					reg="Claverack College and Hudson River Institute">college</org>, she came to
 				know the miseries resulting from large families in poverty-stricken home. And
 				following the death of a <person reg="Higgins, Anna Purcell">mother</person> who had
 				borne twelve children for whom she had nothing, Mrs. Sanger vowed herself to
-				educating the world as to the injustice of such a state of affairs.</p>
-			<p>Nine times Mrs. Sanger has heard prison doors swing shut behind her and for thirty
-				days, on one occasion, she remained in jail to prove the constitutionality of the
-				law on which her sentence rested.</p>
-			<p>Days have changed since she drew that tattered covering over the dead face of the
-				victim to child-bearing in the squalid tenement, and Mrs. Sanger declares her
+				educating the world as to the injustice of such a state of affairs.</q></p>
+		<p><q who="DP">Nine times Mrs. Sanger has heard prison doors swing shut behind her and for
+				thirty days, on one occasion, she remained in jail to prove the constitutionality of
+				the law on which her sentence rested.</q></p>
+		<p><q who="DP">Days have changed since she drew that tattered covering over the dead face of
+				the victim to child-bearing in the squalid tenement, and Mrs. Sanger declares her
 				doctrine that a child has at least the right to be well-born is sweeping the
-				earth.</p>
-			<p>At noon Monday Mrs. Sanger was guest at the <org reg="Denver Woman's Club">Woman’s
-					club</org> luncheon. She lectured later. She also will be a guest of honor at
-				the luncheon to be given Saturday to Miss <person reg="Paul, Alice">Alice
+				earth.</q></p>
+		<p><q who="DP">At noon Monday Mrs. Sanger was guest at the <org reg="Denver Woman's Club"
+					>Woman’s club</org> luncheon. She lectured later. She also will be a guest of
+				honor at the luncheon to be given Saturday to Miss <person reg="Paul, Alice">Alice
 					Paul</person>, vice president of the <org reg="National Woman's Party">National
-					Woman’s party</org>.</p>
-		</q>
+					Woman’s party</org>.</q></p>
+
 	</docBody>
 </doc>
