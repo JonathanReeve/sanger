@@ -6,9 +6,11 @@
 		<prepDate>2002-08-20 KH</prepDate>
 		<prepDate>2003/11/25 CH cleaned up tags</prepDate>
 		<prepDate>2007-05-30 CH Oxygen/clean tags</prepDate>
-		<prepDate>2014-03-05 CH clean regs</prepDate><prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2014-03-05 CH clean regs</prepDate>
+		<prepDate>2015 EK update index</prepDate>
+		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1911-11-22">22 Nov 1911</docDate>
+		<docDate value="1911-11-22">22 Nov. 1911</docDate>
 		<docTitle>
 			<titlePart>Branch 5 Women to Organize</titlePart>
 		</docTitle>
@@ -19,7 +21,8 @@
 	</mepHeader>
 	<headNote>
 		<index level1="woman suffrage"/>
-		<index level1="socialism"/>
+		<index level1="Socialist Party"/>
+		<index level1="socialism and socialists"/>
 	</headNote>
 	<docBody>
 		<head>Branch 5 Women to Organize.</head>

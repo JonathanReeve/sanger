@@ -7,19 +7,22 @@
 		<prepDate>2003/11/25 CH cleaned up tags</prepDate>
 		<prepDate>2007-05-30 CH Oxygen/cleanup</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate><prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-02-26 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1911-11-24">24 Nov 1911</docDate>
+		<docDate value="1911-11-24">24 Nov. 1911</docDate>
 		<docTitle>
 			<titlePart>Naturalization for Women</titlePart>
 		</docTitle>
 		<idno>msp320098</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Nov. 24, 1911</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C19:0006</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C19:0006</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
-		<index level1="women" level2="freedom and rights of"/>
+		<index level1="immigration and immigrants" level2="and naturalization"/>
+		<index level1="woman suffrage"/>
+		<index level1="Socialist Party"/>
 	</headNote>
 	<docBody>
 		<head rend="bold">Naturalization for Women.</head>

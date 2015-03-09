@@ -6,11 +6,11 @@
         <prepDate>2002-08-20 KH</prepDate>
         <prepDate>2007-05-30 CH Oxygen/clean up</prepDate>
         <prepDate>2014-11-10 CH cleanup</prepDate>
-        <prepDate>2015-02-26 EK update index</prepDate>
+        <prepDate>2015-03-03  EK update index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1911-11-12">12 Nov. 1911</docDate>
         <docTitle>
-            <titlePart>How Six Little Children Were Taught the Truth, PartIII</titlePart>
+            <titlePart>How Six Little Children Were Taught the Truth, Part III</titlePart>
         </docTitle>
         <idno>msp320083</idno>
         <sourceDesc>
@@ -21,13 +21,15 @@
         <p>This is Part III of an eight-part series of the same title. For Part I, see <xref
                 from="320081.xml">Oct. 29, 1911</xref>, for Part II, see <xref from="320082.xml">Nov.
                 5, 1911</xref>, for Part IV see <xref from="320084.xml">Nov. 19, 1911</xref>, for
-            Part V-a and-b see <xref from="320085.xml">Nov. 26, 1911</xref> and <xref from="320086.xml">Dec.
+            Part V-a and -b see <xref from="320085.xml">Nov. 26, 1911</xref> and <xref from="320086.xml">Dec.
                 3, 1911</xref>, for Part VI see <xref from="320087.xml">Dec. 10, 1911.</xref>, and
-            for Part VII7, see <xref from="320088.xml">Dec. 17, 1911.</xref></p><p>This series was
+            for Part VII, see <xref from="320088.xml">Dec. 17, 1911.</xref> This series was
             compiled and published as <title type="book">What Every Mother Should Know</title>, (New
             York, 1912).</p>
-        <index level1="sex education"/>
+        <index level1="evolution"/>
+        <index level1="reproduction"/>
         <index level1="Sanger, Margaret" level2="fictional writing"/>
+        <index level1="sex education"/>
     </headNote>
     <docBody>
         <head>How Six Little Children Were Taught the Truth</head>

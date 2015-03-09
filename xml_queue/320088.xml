@@ -8,7 +8,7 @@
 		<prepDate>2015-02-20 EK correct index</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1911-12-17">17 Dec 1911</docDate>
+		<docDate value="1911-12-17">17 Dec. 1911</docDate>
 		<docTitle>
 			<titlePart>How Six Little Children Were Taught the Truth--Conclusion, Part
 				VIII</titlePart>
@@ -36,8 +36,9 @@
 			book publication, see "<xref from="321900.xml">Conclusion</xref>."</p>
 		<index level1="evolution"/>
 		<index level1="marriage" level2="MS on"/>
-		<index level1="sex education"/>
 		<index level1="reproduction"/>
+		<index level1="Sanger, Margaret” level2=”fictional writing”/>
+		<index level1="sex education"/>
 		<index level1="women and girl" level2="enslavement of"/>
 	</headNote>
 	<docBody>
