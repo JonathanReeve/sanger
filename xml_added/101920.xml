@@ -9,11 +9,10 @@
 		<prepDate>2011/08/05 EK </prepDate>
 		<prepDate>2011-11-30 CH correct typo</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-01-23 EK cprrect proof</prepDate>
+		<prepDate>2015-01-23 EK correct proof</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
+		<prepDate>2015-03-09 CH tag table</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1915-03-00 ">Mar/Apr 1915</docDate>
 		<docTitle>
 			<titlePart>Introduction to <title type="pamphlet">Dutch Methods of Birth
@@ -28,7 +27,8 @@
 			<resp>
 				<name id="MALTTH">Malthus, Thomas</name>
 				<name id="RUTJO">Rutgers, Johannes </name>
-				<name id="VANHSA">Van Houten, Samuel</name><name id="DUT">Dutch</name>
+				<name id="VANHSA">Van Houten, Samuel</name>
+				<name id="DUT">Dutch</name>
 			</resp>
 		</respStmt>
 	</mepHeader>
@@ -88,20 +88,20 @@
 					>London</place>.</p>
 			<p>Interest in the subject did not confine itself to <place>England</place>, however,
 				for the following year at an <org>International Medical Congress</org> in <place
-					reg="Amsterdam, Netherlands">Amsterdam</place> the subject was discussed
-				with great enthusiasm. A paper prepared and read by Mr. <person
-					reg="Van Houten, Samuel">S. Van Houten</person> (later Prime Minister) caused a
-				wider interest in the subject, and a year later the Neo-Malthusian League of Holland
-				was organized. <person reg="Drysdale, Charles R.">Charles R. Drysdale</person>, then
-				President of the English League, attended the Conference. </p>
+					reg="Amsterdam, Netherlands">Amsterdam</place> the subject was discussed with
+				great enthusiasm. A paper prepared and read by Mr. <person reg="Van Houten, Samuel"
+					>S. Van Houten</person> (later Prime Minister) caused a wider interest in the
+				subject, and a year later the Neo-Malthusian League of Holland was organized.
+					<person reg="Drysdale, Charles R.">Charles R. Drysdale</person>, then President
+				of the English League, attended the Conference. </p>
 			<p>As is usual in such causes, many of the better educated and intelligent classes
 				adopted the practice at once, as did the better educated workers; but the movement
 				had as yet no interest among the poorest and most ignorant. The League set to work
 				at once to double its efforts in these quarters. Dr. <person reg="Jacobs, Aletta"
-					>Aletta Jacobs</person>, the first woman physician in <place
-					reg="Netherlands">Holland</place>, became a member of the League, and
-				established a clinic where she gave information on the means of prevention of
-				conception free to all poor women who applied for it. </p>
+					>Aletta Jacobs</person>, the first woman physician in <place reg="Netherlands"
+					>Holland</place>, became a member of the League, and established a clinic where
+				she gave information on the means of prevention of conception free to all poor women
+				who applied for it. </p>
 			<p>Naturally, this action on the part of a member of the medical profession aroused the
 				animosity of many of its members against her; but Dr. Jacobs stood firm in her
 				principles, and continued to spread the necessary information among the peasant
@@ -207,65 +207,175 @@
 			<head type="sub">VITAL STATISTICS OF CHIEF DUTCH TOWNS.</head>
 			<p>Taken from Annual Summary of Marriages, Births, and Deaths in England and
 					<place>Wales</place>, etc., for 1912.<lb/></p>
-			<p>
-				<emph rend="blockquote">AMSTERDAM (Malthusian League started 1881; Dr. Aletta Jacobs
-					gave advice to poor women, 1885).</emph>
-			</p>
-			<p>----------1881-85. 1906-10.1912.<lb/></p>
-			<p>Birth Rate 37.1 24.7 23.3 per 1000 of population.<lb/></p>
-			<p>Death Rate 25.1 13.1 11.2* per 1,000 of population.<lb/></p>
-			<p>Infantile Mortality (deaths in first year) 203 90 64* per 1000 living
-				births.<lb/></p>
+
+			<p><table rows="4" cols="4">
+					<head>AMSTERDAM (Malthusian League started 1881; Dr. Aletta Jacobs gave advice
+						to poor women, 1885).</head>
+					<row role="label">
+						<cell>----------</cell>
+						<cell>1881-85.</cell>
+						<cell>1906-10.</cell>
+						<cell>1912.</cell>
+					</row>
+					<lb/>
+					<row>
+						<cell>Birth Rate</cell>
+						<cell>37.1</cell>
+						<cell>24.7</cell>
+						<cell>23.3 per 1000 of population</cell>
+					</row>
+					<row>
+						<cell>Death Rate</cell>
+						<cell>25.1</cell>
+						<cell>13.1</cell>
+						<cell>11.2* per 1,000 of population.</cell>
+					</row>
+					<row>
+						<cell>Infantile Mortality (deaths in first year)</cell>
+						<cell>203</cell>
+						<cell>90</cell>
+						<cell>64* per 1000 living births.</cell>
+					</row>
+				</table></p>
 		</div>
 		<div type="section">
-			<p>
-				<emph rend="blockquote">The HAGUE (now the headquarters of the Neo-Malthusian
-					League.</emph>
-			</p>
-			<p>----------1881-85. 1906-10. 1912.<lb/></p>
-			<p>Birth Rate 38.7 27.5 23.6 per 1,000 of population.<lb/></p>
-			<p>Death Rate 23.3 13.2 10.9* per 1,000 of population.<lb/></p>
-			<p>Infantile Mortality deaths in first year) 214 99 66* per 1,000 living
-				births.<lb/></p>
+			<p><table rows="4" cols="4">
+					<head>The HAGUE (now the headquarters of the Neo-Malthusian League.</head>
+
+					<row role="label">
+						<cell>----------</cell>
+						<cell>1881-85.</cell>
+						<cell>1906-10.</cell>
+						<cell>1912.</cell>
+					</row>
+					<row>
+						<cell>Birth Rate</cell>
+						<cell>38.7</cell>
+						<cell>27.5</cell>
+						<cell>23.6 per 1,000 of population.</cell>
+						<lb/>
+					</row>
+					<row>
+						<cell>Death Rate</cell>
+						<cell>23.3</cell>
+						<cell>13.2</cell>
+						<cell>10.9* per 1,000 of population.</cell>
+						<lb/>
+					</row>
+					<row>
+						<cell>Infantile Mortality deaths in first year)</cell>
+						<cell>214</cell>
+						<cell>99</cell>
+						<cell>66* per 1,000 living births.</cell>
+					</row>
+				</table></p>
 		</div>
 		<div type="section">
-			<p>
-				<emph rend="blockquote"><place reg="Rotterdam, Netherlands, the"
-					>ROTTERDAM</place>.</emph>
-			</p>
-			<p>-----------1881-85. 1906-10. 1912.<lb/></p>
-			<p>Birth Rate 37.4 32.0 29.0 per 1,000 of population.<lb/></p>
-			<p>Death Rate 24.2 13.4 11.3* per 1,000 of population.<lb/></p>
-			<p>Infantile Mortality 209 105 79 per 1,000 living births.<lb/></p>
+			<p><table rows="4" cols="4">
+					<head><place reg="Rotterdam, Netherlands, the">ROTTERDAM</place>.</head>
+
+					<row role="label">
+						<cell>-----------</cell>
+						<cell>1881-85.</cell>
+						<cell>1906-10.</cell>
+						<cell>1912.</cell>
+						<lb/>
+					</row>
+					<row>
+						<cell>Birth Rate</cell>
+						<cell>37.4</cell>
+						<cell>32.0</cell>
+						<cell>29.0 per 1,000 of population.</cell>
+					</row>
+					<row>
+						<cell>Death Rate</cell>
+						<cell>24.2</cell>
+						<cell>13.4</cell>
+						<cell>11.3* per 1,000 of population.</cell>
+					</row>
+					<row>
+						<cell>Infantile Mortality</cell>
+						<cell>209</cell>
+						<cell>105</cell>
+						<cell>79 per 1,000 living births.</cell>
+					</row>
+				</table></p>
 		</div>
 		<div type="section">
 			<head type="sub">FERTILITY AND ILLEGITIMACY RATES.</head>
-			<p>-----------------------1880-2. 1890-2. 1900-2.<lb/></p>
-			<p>Legitimate Fertility----306.4 296.5 252.7--Legitimate Births per 1,000 Married Women
-				aged 15 to 45.<lb/></p>
-			<p>Illegitimate Fertility--- 16.1 16.3 11.3-----Illegitimate Births per 1,000 Unmarried
-				Women aged 15 to 45<lb/></p>
+			<p><table rows="3" cols="4">
+					<row role="label">
+						<cell>-----------------------</cell>
+						<cell>1880-2.</cell>
+						<cell>1890-2.</cell>
+						<cell>1900-2.</cell>
+					</row>
+					<row>
+						<cell>Legitimate Fertility----</cell>
+						<cell>306.4</cell>
+						<cell>296.5</cell>
+						<cell>252.7--Legitimate Births per 1,000 Married Women aged 15 to 45.</cell>
+					</row>
+					<row>
+						<cell>Illegitimate Fertility---</cell>
+						<cell>16.1</cell>
+						<cell>16.3</cell>
+						<cell>11.3-----Illegitimate Births per 1,000 Unmarried Women aged 15 to
+							45</cell>
+					</row>
+				</table></p>
 			<p>
-				<emph rend="blockquote">THE HAGUE.</emph>
-			</p>
+				<table rows="3" cols="4">
+					<head>THE HAGUE.</head>
 
-			<p>--------------------- 1880-2. 1890-2. 1900-2.</p>
-			<p>Legitimate Fertility---346.5 303.9 254.0<lb/></p>
-			<p>Illegitimate Fertility--13.4 13.6 7.7*<lb/></p>
-			<p>(*Lowest figure for the Continent.)<lb/></p>
+					<row role="label">
+						<cell>---------------------</cell>
+						<cell>1880-2.</cell>
+						<cell>1890-2.</cell>
+						<cell>1900-2.</cell>
+					</row>
+					<row>
+						<cell>Legitimate Fertility---</cell>
+						<cell>346.5</cell>
+						<cell>303.9</cell>
+						<cell>254.0</cell>
+					</row>
+					<row>
+						<cell>Illegitimate Fertility--</cell>
+						<cell>13.4</cell>
+						<cell>13.6</cell>
+						<cell>7.7* (*Lowest figure for the Continent.)</cell>
+					</row>
+				</table></p>
 		</div>
 		<div type="section">
-			<p>
-				<emph rend="blockquote">ROTTERDAM.</emph>
-			</p>
-			<p>---------------------1880-82. 1890-2. 1900-02.</p>
-			<p>Legitimate Fertility 331.4 312.0 299.0<lb/></p>
-			<p>Illegitimate Fertility 17.4 16.5 13.1<lb/></p>
-			<p>
-				<emph rend="blockquote">(*These figures are the lowest in the whole list of death
+			<p><table rows="3" cols="4">
+					<head>ROTTERDAM.</head>
+
+					<row role="label">
+						<cell>---------------------</cell>
+						<cell>1880-82.</cell>
+						<cell>1890-2.</cell>
+						<cell>1900-02.</cell>
+					</row>
+					<row>
+						<cell>Legitimate Fertility</cell>
+						<cell>331.4</cell>
+						<cell>312.0</cell>
+						<cell>299.0</cell>
+					</row>
+					<row>
+						<cell>Illegitimate Fertility</cell>
+						<cell>17.4</cell>
+						<cell>16.5</cell>
+						<cell>13.1</cell>
+					</row>
+				</table></p>
+
+			<p><emph rend="blockquote">(*These figures are the lowest in the whole list of death
 					rates and infantile mortalities in the summary of births and deaths in cities in
-					this Report.</emph>
-			</p>
+					this Report.</emph></p>
+
 		</div>
 		<div type="section">
 			<p>The Neo-Malthusian propaganda in Holland is founded on feministic and economic
