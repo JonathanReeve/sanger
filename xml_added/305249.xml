@@ -6,15 +6,18 @@
 		<prepDate>2002-07-28 CH</prepDate>
 		<prepDate>2014-03-04 CH check regs</prepDate>
 		<prepDate>2014-11-13 CH check regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1921-06-00">Jun 1921</docDate>
 		<docTitle>
 			<titlePart>Birth Control--Past, Present and Future</titlePart>
 		</docTitle>
 		<idno>msp305249</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Birth Control Review</title>, June 1921</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>,
+			<bibl><title type="journal">Birth Control Review</title>, June 1921, pp. 5-6</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
 				C16:153</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -26,7 +29,7 @@
 	<headNote resp="MSPP">
 		<p>This article is the first in a three-part series of the same title. For following
 			articles, see <title type="journal">Birth Control Review</title>, <xref from="307665"
-				>July 1921</xref> and <xref from="305538">August 1921.</xref></p>
+				>July 1921</xref> and <xref from="305538">August 1921</xref>.</p>
 		<index level1="birth control" level2="history of"/>
 	</headNote>
 	<index level1="birth control" level2="neo-Malthusian arguments for"/>
@@ -42,7 +45,7 @@
 	<index level1="birth control movement" level2="history of"/>
 	<docBody>
 		<head>Birth Control--Past, Present and Future</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>By Margaret Sanger</byline>
 		<p>The most revolutionary discovery of the nineteenth century, declares <person
 				reg="Shaw, George Bernard">Bernard Shaw</person>, is that of the deliberate
 			limitation of families. Although this discovery is now scarcely one hundred years old,
@@ -81,8 +84,8 @@
 				<place>India</place>, <place>China</place> and <place>Japan</place>, and led Malthus
 			to the conclusion that "<q who="MALTH">population, when unchecked, goes on doubling
 				itself every 25 years, or increases in a <emph rend="italics">geometrical</emph>
-				proportion...But the food to support the increase from the greater number will by no
-				means be obtained with the same facility...It may fairly be pronounced, that
+				proportion. . . But the food to support the increase from the greater number will by no
+				means be obtained with the same facility. . . It may fairly be pronounced, that
 				considering the present average state of the earth, the means of subsistence, under
 				circumstances the most favorable to human industry, cannot possibly be made to
 				increase faster than in an <emph rend="italics">arithmetical</emph> ratio.</q>"</p>
@@ -100,19 +103,19 @@
 			understanding of human nature, advocated early marriage and limited parenthood, by the
 			means of the deliberate and scientific prevention of conception. The principles of this
 			society, which has international affiliations in all of the countries of Europe and the
-				<place>United States of America</place>, are an admirable summary of the Malthusian
+				United States of America, are an admirable summary of the Malthusian
 			and Neo-Malthusian doctrines. They are:</p>
 		<list>
 			<item>1. That population (unless consciously and sufficiently controlled) has a constant
 				tendency to increase beyond the means of subsistence.</item>
-			<item>2. That the checks which counteraact this tendency are resolvable into positive or
+			<item>2. That the checks which counteract this tendency are resolvable into positive or
 				life-destroying, and prudential or birth-restricting.</item>
 			<item>3. That the positive or life-destroying checks comprehend the premature death of
 				children and adults by disease, starvation, war, and infanticide.</item>
 			<item>4. That the prudential or birth-restricting checks consists in the limitation of
 				offspring (1) by abstention from or postponement of marriage, or (2) by prudence
-				after mariage.</item>
-			<item>5. That prolonged postponement of mariage is not only productive of much
+				after marriage.</item>
+			<item>5. That prolonged postponement of marriage is not only productive of much
 				happiness, but is also a potent cause of sexual vice and disease. Early marriage, on
 				the contrary, tends to ensure sexual purity, domestic comfort, social happiness and
 				individual health; but it is a grave social offence for men and women to bring into
@@ -161,7 +164,7 @@
 			especially a lower infant mortality rate. Fewer children were born, but more of them
 			survived. The whole influence was toward placing a greater and greater value upon
 			children and child-life. So true has this been that the preventive checks upon
-			population, notably in <place reg="the Netherlands">Holland</place>, have had the
+			population, notably in <place reg="Netherlands">Holland</place>, have had the
 			opposite effect to that intended in the doctrine of Malthus: the adoption of family
 			limitation had actually led to an <emph rend="italics">increased</emph> more healthy
 			population.</p>
@@ -215,7 +218,7 @@
 				>The Dutch have gained no less than four inches in fifty years.</emph></p>
 		<p>The proportion of young men drawn for the army taller than 5 feet 7 inches in height has
 			increased from 24.50 per cent. to 47.50 since 1865, while the proportion of men less
-			than 5 feet 2 ½ inches in height has fallen from 25 per cent. to less than 8 per cent.
+			than 5 feet 2 &frac12; inches in height has fallen from 25 per cent. to less than 8 per cent.
 			When the Dutch Army was mobilized, the highest army standards showed that the men of the
 			proper age for the service were 95 per cent. efficient, according to the highest
 			standards. Contrast this with the example of the United States of America, where we were
@@ -232,7 +235,7 @@
 			From 1900 to 1909 it was 51. These figures are equalled only by those from the <place
 				reg="Scandinavia">Scandinavian countries</place>, where Birth Control was advocated
 			and practiced even before it reached the Netherlands. It is also significant to point
-			out that none of the dread consequences feared by its opponents, the ckericalists, the
+			out that none of the dread consequences feared by its opponents, the clericals, the
 			moralists and the militarists have occurred. In spite of a low birth rate, the
 			population of Holland is increasing. Undoubtedly this is because medical cooperation
 			enables the Dutch people to practice the most scientific and hygienic methods of Birth
@@ -241,7 +244,7 @@
 			not so much reduced, in comparison with those of other European countries.</p>
 		<p><place>Germany</place> on the other hand, is one of the few continental countries that
 			discouraged and prohibited the practice of family limitation. It was opposed both by the
-			government and the <org reg="Social Democratic Party of Germany">Social Democrats</org>.
+			government and the <org reg="Mehrheitssozialdemokratische Partei Deutschlands">Social Democrats</org>.
 			It was the boast of Imperial Germany that the children who were brought into the world
 			at the behest of the State were well cared for and well educated; that they were sent
 			out into the world as highly efficient and valuable citizens. But the great difficulty

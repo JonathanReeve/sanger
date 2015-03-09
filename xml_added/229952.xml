@@ -5,8 +5,12 @@
 		<prepDate>2002-01-07 CH</prepDate>
 		<prepDate>2002-08-15 KH</prepDate>
 		<prepDate>2004/08/09 CH</prepDate>
-		<prepDate>2014-03-10 CH clean regs</prepDate><prepDate>2014-12-15 CH correct and enter tags</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2014-03-10 CH clean regs</prepDate>
+		<prepDate>2014-12-15 CH correct and enter tags</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1921-11-11">11 Nov 1921</docDate>
 		<docTitle>
 			<titlePart>The Use of The Pessary</titlePart>
@@ -14,26 +18,31 @@
 		<idno>msp229952</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S67:754-757</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S67:754</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="DEVLY">DeVilbiss, Lydia </name>
 			<name id="UNK">Unknown</name>
+			<name id="LAT">Latin</name>
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p><person reg="Sanger, Margaret">Sanger</person> gave this talk at a doctors-only session
-			in contraceptives at the <org reg="American Birth Control Conference, 1st">First American Birth Control Conference</org> in <place
-				reg="New York, NY">New York City</place>. This session was not included in the
-			published proceedings.</p>
+		<p>Sanger gave this talk at a doctors-only session in contraceptives at the <org
+				reg="American Birth Control Conference, 1st">First American Birth Control
+				Conference</org> in <place reg="New York, NY">New York City</place>. This session
+			was not included in the published proceedings. For Sanger's other statements at this
+			conference see "<xref from="229953.xml">Opening Remarks</xref>," Nov. 11, 1921 and
+				"<xref from="231277.xml">Closing Remarks</xref>," Nov. 18, 1921. For a transcript of
+			the entire session see Margaret Sanger Microfilm, Smith College Collections S67:881.</p>
 		<index level1="birth control" level2="methods and devices" level3="pessaries (diaphragm)"/>
 	</headNote>
 	<docBody>
 		<p>Madam <person reg="DeVilbiss, Lydia Allen">chairman</person>, and friends. In <place
 				reg="Netherlands">Holland</place> the particular method that is recommended there is
-			the <supplied resp="MSPP">occlusive</supplied> pessary. More than thirty five years ago at the
-			medical congress of <place reg="Amsterdam, Netherlands">Amsterdam</place>, the
+			the <supplied resp="MSPP">occlusive</supplied> pessary. More than thirty five years ago
+			at the medical congress of <place reg="Amsterdam, Netherlands">Amsterdam</place>, the
 			physicians decided that this subject of birth control was one that must be
 				<unclear>taught</unclear> to their people if they would remain within their borders.
 			At once the medical profession began to test out the use of a pessary. They have from
@@ -73,8 +82,9 @@
 			of it by a douche; next on record is the suppository, 181 families have used
 			suppositories, and 108 have followed it by a douche. The other methods that are here, an
 			antiseptic douche, only 264 people. Most of us know that an antiseptic douche is not a
-			preventative, but is a hygienic measure. Coitus <supplied resp="MSPP">interruptus</supplied>, 175
-			families have used that method, 61 have followed by a douche.</p>
+			preventative, but is a hygienic measure. <foreign lang="LAT">Coitus <supplied
+					resp="MSPP">interruptus</supplied></foreign>, 175 families have used that
+			method, 61 have followed by a douche.</p>
 		<p>This is recent information we have had of people in the United States who have used those
 			methods and have been willing to give us the information.</p>
 		<p>As far as pessaries are concerned, I think that the kind used in Holland is the best. The
@@ -90,11 +100,10 @@
 			years, and the charges were something like a gilder or a gilder and a half, which meant
 			about sixty cents. Altogether the pessary is considered in Holland and in France the
 			most successful method of birth control. (applause)</p>
-		<p>THE CHAIRMAN: <q who="DEVLY">I have asked Mrs. <person reg="Sanger, Margaret"
-					>Sanger</person> if this type of pessary was available in America. And she told
-				me not this kind. In as much as this is the kind we are able to get in America, I
-				would like to ask her if they use an ointment or something like it in connection
-				with this.</q></p>
+		<p>THE CHAIRMAN: <q who="DEVLY">I have asked Mrs. Sanger if this type of pessary was
+				available in America. And she told me not this kind. In as much as this is the kind
+				we are able to get in America, I would like to ask her if they use an ointment or
+				something like it in connection with this.</q></p>
 		<p>MRS. SANGER: The idea is this. A little powder, any antiseptic dry powder in the cup
 			before it is put on doubly secures against pregnancy, particularly if it is well fitted.
 			That is always one reason why I have stood so definitely for the principle of birth

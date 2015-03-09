@@ -7,16 +7,20 @@
 		<prepDate>2003/07/14 CH</prepDate>
 		<prepDate>2014-03-04 CH checking regs; added index terms</prepDate>
 		<prepDate>2014-11-13 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
 		<prepDate>2014-03-04 CH checking regs</prepDate>
-		<docDate value="1921-05-00"> May 1921</docDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-05-00">May 1921</docDate>
 		<docTitle>
 			<titlePart>Politicians vs. Birth Control</titlePart>
 		</docTitle>
 		<idno>msp238944</idno>
 		<sourceDesc>
-			<bibl><title>The Birth Control Review</title>, May 1921, pp. 3-4</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:0901.</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, May 1921, pp. 3-4</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:0901.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>

@@ -10,7 +10,9 @@
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1919-10-04">4 Oct 1919</docDate>
 		<docTitle>
 			<titlePart>Prudence or Prudery in Sex Matters</titlePart>
@@ -26,12 +28,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is the third article by Sanger in this
-			series. For the first article see "<title type="article">Prudence and Purity in Sex
-				Matters</title>," <xref from="302881.xml">Aug. 23, 1919</xref> and its conclusion
-				"<xref from="302878.xml"><title type="article">Birth Control Yes or
-				No?</title></xref>," Sept. 20, 1919. Remaining articles in this series were written
-			by other authors</p>
+		<p>This is the third article by Sanger in this series. For the first article see "<xref
+				from="302881.xml">Prudence and Purity in Sex Matters</xref>," Aug. 23, 1919 and its
+			conclusion "<xref from="302878.xml">Birth Control Yes or No?</xref>," Sept. 20, 1919.
+			The other articles in the series were written by different authors.</p>
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="eugenics" level2="birth control and"/>
 		<index level1="eugenics" level2="MS on"/>

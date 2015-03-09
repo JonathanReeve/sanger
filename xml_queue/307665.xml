@@ -8,15 +8,18 @@
 		<prepDate>2003-07-28 CH</prepDate>
 		<prepDate>2014-03-05 CH correcting regs</prepDate>
 		<prepDate>2014-11-18 CH more cleaning</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1921-07-00">Jul 1921</docDate>
 		<docTitle>
 			<titlePart>Birth Control--Past, Present, and Future</titlePart>
 		</docTitle>
 		<idno>msp307665</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, July 1921, 5-6, 15.</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>
+			<bibl><title type="journal">Birth Control Review</title>, July 1921, pp. 5-6, 15.</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:158</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -30,10 +33,8 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This article is part two of a three-part series of the same title. For previous article,
-			see <title type="journal">Birth Control Review</title>, <xref from="305249">June
-				1921.</xref> For following article see <title type="jouranl">Birth Control
-				Review,</title>
-			<xref from="305538">August 1921</xref>.</p>
+			see "Birth Control--Past, Present and Future," <xref from="305249">June 1921</xref>; for
+			the final article see <xref from="305538">August 1921</xref>.</p>
 		<index level1="abortion" level2="health risks of"/>
 		<index level1="birth control" level2="neo-Malthusian arguments for"/>
 		<index level1="birth control methods, general"/>
@@ -43,8 +44,7 @@
 	</headNote>
 	<docBody>
 		<head>Birth Control--Past, Present, and Future</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person> (continued from June
-			Issue)</byline>
+		<byline>By Margaret Sanger (continued from June Issue)</byline>
 		<p>We have pointed out that <person reg="Malthus, Thomas Robert"> Malthus,</person>
 			discoverer of the theory of population and the precursor of the Darwinian theory of
 			evolution, advocated as preventive checks upon overpopulation, "<q who="MALTH">moral
@@ -65,14 +65,14 @@
 			enough in interposing difficulties between the desire to marry and actual marriage; but
 			when a man and woman were once married, he did not presume to counsel sexual restraint.
 			But from other quarters the theory was soon carried to its logical and serviceable
-			conclusion. In the supplement to the <title type="book">Encyclopedia Brittanica</title>
+			conclusion. In the supplement to the <title type="book">Encyclopedia Britannica</title>
 			published in 1818, <person reg="Mill, James">James Mill</person> wrote that it was time
 			to "<q who="MILJA">discard the superstitions of the nursery</q>" and in his "<title
 				type="book">Elements of Political Economy</title>" (1821) he concluded "<q
-				who="MILJA">The grand practical problem is...to find means of limiting the number of
+				who="MILJA">The grand practical problem is . . . to find means of limiting the number of
 				births</q>."</p>
 		<p>Answers to this question were almost immediately forthcoming. In 1823 was published the
-			so-called "diabolical handbill" addressed "<title type="article">To the Married of Both
+			so-called "diabolical handbill" addressed "<title type="Article">To the Married of Both
 				Sexes,</title>" and setting forth the economic disadvantages of excessively large
 			families. From this time to the present, advocates of Birth Control have published,
 			throughout <place>Europe</place> and <place reg="United States"> America</place>,
@@ -107,7 +107,7 @@
 			pregnancy. </p>
 		<p>Our Occidental world has come to see that <q who="FRABE"> "an ounce of prevention is
 				worth a pound of cure</q>." The great weapons of prevention, in the battle against
-			infectious and contagious diseases, are hygieve and sanitation. Contagious and
+			infectious and contagious diseases, are hygiene and sanitation. Contagious and
 			infectious diseases breed and propagate their disastrous deaths in the soul of filth and
 			overcrowding. A stifled, weakened, undernourished, dirty group of humans is the very
 			breeding ground of the great racial scourges, such as tuberculosis, typhus, typhoid,
@@ -117,7 +117,7 @@
 			of the world, that these great scourges are enabled to propagate and perpetuate their
 			curse. </p>
 		<p>The only means of preventing, of uprooting, is by sanitation and personal hygiene, <emph
-				rend="italics">and by reducing the birth rate among the carriers of transmissable
+				rend="italics">and by reducing the birth rate among the carriers of transmissible
 				and heritable diseased</emph>. A great Dutch authority, Dr. <person
 				reg="Rutgers, Johannes">Rutgers</person>, has pointed out that personal hygiene, so
 			essential to the well-being of the individual and the community, is practically

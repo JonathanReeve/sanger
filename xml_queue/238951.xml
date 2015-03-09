@@ -7,15 +7,18 @@
 		<prepDate>2003-07-28 CH</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2014-11-13 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1921-01-00">Jan 1921</docDate>
 		<docTitle>
 			<titlePart>Women in Germany</titlePart>
 		</docTitle>
 		<idno>msp238951</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Birth Control Review</title>, Jan. 1921, pp. 8-10</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>,
+			<bibl><title type="journal">Birth Control Review</title>, Jan. 1921, pp. 8-10</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> 
 				S70:850</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -24,8 +27,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For an earlier article of the same title, see Birth Control Review, <xref from="238950"
-				>Dec. 1920.</xref></p>
+		<p>For an earlier article of the same title, see <xref from="238950"
+				>Women in Germany</xref>, Dec. 1920.</p>
 		<index level1="Germany" level2="social and economic conditions in"/>
 		<index level1="feminism and feminists" level2="in Germany"/>
 		<index level1="Germany" level2="population policies of"/>
@@ -58,7 +61,7 @@
 				care and better choice of words then most well educated Americans. Marie Stritt was
 				a Pacifist in the war. Thousands of Pacifists were shot. She has been the pioneer in
 				the Birth Control Movement in Germany, and organized the <org
-					reg="International Neo-Malthusian Conference,1912 (4th)">International Congress
+					reg="International Neo-Malthusian Conference, 1912 (4th)">International Congress
 					of the Malthusians</org> in Dresden in 1912. She is the editor of the foremost
 				official paper for woman's suffrage here. She thinks it is not necessary to
 				propagate the idea of Birth Control in Germany now; she says that the birth rate has
@@ -66,19 +69,19 @@
 				knowledge, or encouraging the idea. The organized movement is almost out of
 				existence, but the knowledge is spreading everywhere.</p>
 			<p>One of the most interesting achievements of Germany is Dr. <person
-					reg="Hirschfeld, Magnus">Magnus Herschfield's</person>
+					reg="Hirschfeld, Magnus">Magnus Hirschfield's</person>
 				<org>Institute of Sexual Science</org>. It is the only one of its kind in the world.
 				Here is a beautiful dwelling, with palatial and spacious rooms, which at one time
 				belonged to a member of the royal family. Since the Revolution it has been turned
-				over to Dr. Herschfield, who has converted it into a College where one may study all
+				over to Dr. Hirschfield, who has converted it into a College where one may study all
 				subjects relative to, or treating of the science of sex. These are various
 				departments, each with specialists in charge, each department equipped with
 				laboratories and X-rays.</p>
-			<p>I am delighted to find Dr. Herschfield so well informed on the subject of Birth
+			<p>I am delighted to find Dr. Hirschfield so well informed on the subject of Birth
 				Control. He is a personal friend of Dr. <person reg="Rutgers, Johannes"
 					>Rutgers</person> of <place reg="Netherlands">Holland</place>, through whom he
 				has been kept in touch with the work. There is also the possibility of the subject
-				of Birth Control taking its place as a department in this Institute. Dr. Herschfield
+				of Birth Control taking its place as a department in this Institute. Dr. Hirschfield
 				was most cordial and hospitable, and kindly extended to me an invitation to address
 				an audience if I would consent to speak in the Institute. As I was leaving Berlin in
 				a few days, it was impossible to do so, and I greatly regret missing this splendid
@@ -129,7 +132,7 @@
 				Five of these children had been born since the war began!!!</p>
 			<p>Many other families were in similar positions. They were all clean, but poverty and
 				starvation stamped their faces horribly.</p>
-			<p>The <org reg="Religious Society of Friends (Quakers)">Quakers</org>' food
+			<p>The <org reg="Society of Friends (Quakers)">Quakers</org>' food
 				stations--which by the way the children call "America"--are crowded to their fullest
 				capacity. Only children who are ill enough, can come for food. Only mothers pregnant
 				over seven months or who are nursing babies under four months, are allowed food. The
@@ -166,7 +169,7 @@
 				That gentle soul so believed in the good of man, that he talked and pleaded with the
 				soldiers to be brothers, and urged them not to take life. They answered him in
 				Prussian methods as they answered <person reg="Liebnecht, Karl">Karl
-					Liebnecht</person> and <person reg="Luxemburg"> Rosa Luxemburg</person>. Then,
+					Liebnecht</person> and <person reg="Luxemburg, Rosa"> Rosa Luxemburg</person>. Then,
 				having finished with Landau they went to find Erich and Mrs. Mushem. Machine guns
 				were used to wreck their apartment; not satisfied that they did not come out to
 				escape, the <org reg="German Army">White Guard</org> stormed the place, breaking
@@ -188,7 +191,7 @@
 					Bavaria</place> are determined to stop having babies. He has given practical
 				information to thousands, and would have established clinics all over Bavaria, had
 				the Soviet Republic remained in power.</p>
-			<p>I forgot to say, that in Berlin the <org reg="Free Worker's Union of Germany"
+			<p>I forgot to say, that in Berlin the <org reg="Freie Arbeiter Union Deutschland"
 					>Syndicaliste</org> has physicians who give lectures on the practical side of
 				birth control to the women of that organization.</p>
 			<p>It was only when physicians were allied with such radical organizations as the
@@ -229,13 +232,13 @@
 				bringing into the world those children whose backs were so weak that they could not
 				sit up straight, with bones too soft to hold the weight of the body, etc. His answer
 				was "<q who="UNK"> they are doing their best to cope with conditions as they find
-					them. It is not <emph rend="italica">their</emph> work to change
+					them. It is not <emph rend="italics">their</emph> work to change
 				conditions</q>."</p>
 			<p>Fortunately there is a very large number of women all over Germany whom Nature has
 				protected from pregnancy. The lack of fats and other foods necessary to the system,
 				caused the suppression of the menses. These facts were forcibly brought forth by
 				Prof. <person reg="Kraus, H. J.">H. J. Kraus</person>, Director of the <org
-					reg="Charité-–Universitätsmedizin Berlin">Medical Clinique of Charities</org> in
+					reg="Charité-–Universit&auml;tsmedizin Berlin">Medical Clinique of Charities</org> in
 				Berlin, in his address before the <org>Congress of the United Medical
 					Societies</org>, December 18, 1918. Some of these women have become normal
 				again, but thousands of them have been made sterile.</p>

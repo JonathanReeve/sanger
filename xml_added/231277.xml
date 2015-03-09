@@ -5,7 +5,10 @@
 		<prepDate>2002/10/23 CH</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-01-08 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1921-11-18">18 Nov 1921</docDate>
 		<docTitle>
 			<titlePart>
@@ -17,9 +20,9 @@
 		<sourceDesc>
 			<bibl><title type="book">Proceedings of the First American Birth Control
 					Conference</title>, Margaret Sanger Papers, Sophia Smith Collection, Smith
-				College. </bibl>
+				College</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Sophia Smith Collection</title>
-				S67:916-18.</bibl>
+				S67:916</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,15 +30,15 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>After a police raid broke up the November 13 closing session of the <org>First American
-				Birth Control Conference</org>, <person reg="Sanger, Margaret">Sanger</person>
+		<p>After a police raid broke up the November 13 closing session of the <org reg="American Birth Control Conference, 1st">First American
+				Birth Control Conference</org>, Sanger
 			rescheduled the meeting at <place reg="New York, NY">New York</place>'s <org>Park
 				Theater</org> a few days later. After the keynote speech by <person
 				reg="Cox, Harold">Harold Cox</person>, a discussion followed. Sanger closed the
-			discussion and meeting with the following. For Sanger's other statements at this
+			discussion and meeting with the following speech. For Sanger's other statements at this
 			conference see "<xref from="229953.xml">Opening Remarks</xref>," and "<xref
 				from="229952.xml">The Use of the Pessary</xref>," both on Nov. 11, 1921. For a
-			transcript of the entire session see MSM S67:881.</p>
+			transcript of the entire session see Margaret Sanger Microfilm, Smith College Collections S67:881.</p>
 		<index level1="birth control" level2="methods and devices" level3="continence"/>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="birth control" level2="opposition to"/>

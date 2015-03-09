@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published Article ">
+<doc type="Published Article">
 	<mepHeader>
 		<prepDate>2003/07/02 SB</prepDate>
 		<prepDate>2007-09-05 CH corrected docdate</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2014-12-18 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1921-08-00"> Aug. 1921</docDate>
 		<docTitle>
 			<titlePart>Woman's Error and Her Debt</titlePart>
 		</docTitle>
 		<idno>msp210145</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Birth Control Review</title> Aug. 1921, pp. 7-8</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collection</title> S70:911</bibl>
+			<bibl><title type="journal">Birth Control Review</title> Aug. 1921, pp. 7-8</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collection</title> S70:911</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -29,7 +32,7 @@
 	</headNote>
 	<docBody>
 		<head>Woman's Error and Her Debt</head>
-		<byline rend="italics">By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline rend="italics">By Margaret Sanger</byline>
 		<p>THE MOST far-reaching social development of modern times is the revolt of woman against
 			sex servitude. The most important force in the remaking of the world is a free
 			motherhood. Beside this force, the elaborate international programmes of modern
@@ -54,8 +57,8 @@
 			She had chained herself to her place in society and the family through the maternal
 			functions of her nature, and only chains thus strong could have bound her to her lot as
 			a brood animal for the masculine civilizations of the world. In accepting her role as
-			the "weaker and gentler half," she accepted that function. In turn, the
-			acceptance of that function fixed the more firmly her rank as an inferior.</p>
+			the "weaker and gentler half," she accepted that function. In turn, the acceptance of
+			that function fixed the more firmly her rank as an inferior.</p>
 		<p>Caught in this "vicious circle," woman has, through her reproductive ability, founded and
 			perpetuated the tyrannies of the Earth. Whether it was the tyranny of a monarchy, an
 			oligarchy or a republic, the one indispensable factor of its existence was, as it is
@@ -68,8 +71,9 @@
 			its natural resources.</p>
 		<p>No period of low wages or of idleness with their want among the workers, no peonage or
 			sweatshop, no child-labor factory, ever came into being, save from the same source. Nor
-			have famine and plague been as much "acts of <name type="deity">God</name>" as acts of too prolific
-			mothers. They, also, as all students know, have their basic causes in over-population. </p>
+			have famine and plague been as much "acts of <name type="deity">God</name>" as acts of
+			too prolific mothers. They, also, as all students know, have their basic causes in
+			over-population. </p>
 		<p>THE CREATORS of over-population are the women, who, while wringing their hands over each
 			fresh horror, submit anew to their task of producing the multitudes who will bring about
 			the <emph rend="italics">next</emph> tragedy of civilization.</p>

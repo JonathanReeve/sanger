@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2003/07/09, 2003/07/14, 2003/07/28 SR</prepDate>
 		<prepDate>2014-03-07 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1921-09-00"><supplied resp="MSPP">Sep</supplied> 1921</docDate>
 		<docTitle>
 			<titlePart>The Limitations of Eugenics</titlePart>
@@ -29,13 +32,13 @@
 			<name id="BLAWI">Blake, William</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">This paper was most likely prepared for the <org>Second International
-			Congress on Eugenics</org>, held on September 23, 1921. A notation by <person
-			reg="Sanger, Margaret">Sanger</person> on the top of the first page remarks that it was
-		"refused." For a nearly identical version, see <title type="book">Pivot of
-			Civilization</title>, Chapter VIII: <title type="article">Dangers of Cradle
+	<headNote resp="MSPP">This paper was most likely prepared for the <org
+			reg="International Congress on Eugenics, 2nd">Second International Congress on
+			Eugenics</org>, held on September 23, 1921. A notation by Sanger on the top of the first
+		page remarks that it was "refused." For a nearly identical version, see <title type="book"
+			>Pivot of Civilization</title>, Chapter VIII: <title type="article">Dangers of Cradle
 			Competition</title>. For related document see "<xref from="238946"><title type="article"
-				>The Eugenic Value of Birth Control Propaganda</title></xref>," October 1921. <index
+				>The Eugenic Value of Birth Control Propaganda</title></xref>," October 1921.<index
 			level1="eugenics" level2="MS on"/>
 		<index level1="eugenics" level2="criticisms of"/>
 		<index level1="eugenics" level2="negative"/>
@@ -76,15 +79,15 @@
 				heredity</emph>. But Galton, in spite of the immense value of this approach and his
 			great stimulation of criticism, was completely unable to formulate a definite and
 			practical working program. He hoped at length to introduce Eugenics "<q who="GALFR">
-				into the national conscience like a new religion..... I see no impossibility in
+				into the national conscience like a new religion. . . . I see no impossibility in
 				Eugenics becoming a religious dogma among mankind, but its details must be worked
 				out sedulously in the study. Over-zeal leading to hasty action would do harm, by
 				holding out expectations of a new golden age, which will certainly be falsified and
 				cause the science to be discredited. The first and main point is to secure the
 				general intellectual acceptance of Eugenics as a hopeful and most important study.
 				Then let its principles work into the heart of the nation, who will gradually give
-				practical effect to them in ways that we may not wholly foresee.</q>"Galton. Essays
-			in Eugenics: p.43.</p>
+				practical effect to them in ways that we may not wholly foresee.</q> "Galton. <title
+				type="book">Essays in Eugenics</title>: p.43.</p>
 		<p>Galton formulated a general law of inheritance which declared that an individual receives
 			one-half of his inheritance from his two parents, one-fourth from his four grandparents,
 			one-eighth from his great-grandparents, one-sixteenth from his sixteen
@@ -103,13 +106,14 @@
 		<p>But the problem of human heredity is now seen to be infinitely more complex than imagined
 			by Galton and his followers, and the optimistic hope of elevating Eugenics to the level
 			of a religion is a futile one. Most of the Eugenists, including Professor <person
-				reg="Pearson, Karl">Karl Pearson</person> and his colleagues of the <org>Eugenics
-				Laboratory of the University of London</org> and of the biometric laboratory in
-				<org>University College</org>, have retained the age-old point of view of "nature
-			vs. Nurture," and have attempted to show the predominating influence of Heredity <emph
-				rend="underline">as opposed to</emph> Environment. This may be true; but
-			demonstrated and repeated in investigation after investigation, it nevertheless remains
-			fruitless and unprofitable from the practical point of view.</p>
+				reg="Pearson, Karl">Karl Pearson</person> and his colleagues of the <org
+				reg="University of London, Eugenics Laboratory">Eugenics Laboratory of the
+				University of London</org> and of the biometric laboratory in <org>University
+				College</org>, have retained the age-old point of view of "nature vs. Nurture," and
+			have attempted to show the predominating influence of Heredity <emph rend="underline">as
+				opposed to</emph> Environment. This may be true; but demonstrated and repeated in
+			investigation after investigation, it nevertheless remains fruitless and unprofitable
+			from the practical point of view.</p>
 		<p>Nevertheless, we should not minimize the great outstanding service of Eugenics for
 			critical and diagnostic investigations. It demonstrates, not in terms of glittering
 			generalization, but in statistical studies, of investigations reduced to measurement and
@@ -146,7 +150,7 @@
 				mental and moral fibre......which are only too common at the present day.</q>" Such
 			populations, this distinguished authority might have added, <emph rend="underline">form
 				the veritable</emph> "cultures"not only for contagious physical diseases but of
-			mental instability and irresponsibility also. They are suspectible, exploitable,
+			mental instability and irresponsibility also. They are susceptible, exploitable,
 			hysterical, non-resistant to external suggestion. Devoid of stamina, such fold become
 			mere units in a mob. "<q>The habit of crowd-making is daily becoming a more serious
 				menace to civilization...</q>" writes <person reg="Martin, Everett Dean">Everett
@@ -159,7 +163,7 @@
 			when we recall that in a democracy like that the United States every man and woman is
 			permitted a vote in the government, and that it is the representatives of this grade of
 			intelligence who may destroy our liberties and who may thus be the most far-reaching
-			danger to the future of civilization. "<q>It is a pathogical worship of mere
+			danger to the future of civilization. "<q who="IREAL">It is a pathogical worship of mere
 				numbers,</q>" writes <person reg="Ireland, Alleyne">Alleyne Ireland</person>, "<q
 				who="IREAL"> which has inspired all the efforts–the primary, the direct election of
 				Senators, the initiate, the recall and the referendum–to cure the evils of mob rule
@@ -303,8 +307,8 @@
 			predicted by the poet when "<q who="BLAWI">Priests in black gowns will be walking their
 				rounds And binding with briars our joys and desires</q>."</p>
 		<p>Eugenics is chiefly valuable in its negative aspects. It has been "negative Eugenics"
-			that has studies the histories of such families as the <person reg="Jukes family"
-				>Jukes</person> and the <person reg="Kallikak family">Kallikaks</person>, that has
+			that has studies the histories of such families as the <person reg="Jukes Family"
+				>Jukes</person> and the <person reg="Kallikak Family">Kallikaks</person>, that has
 			pointed out the network of imbecility and feeble-mindedness that has been sedulously
 			cultivated through all strata of society. On its so-called positive or "constructive" it
 			fails to arouse any permanent interest. "Constructive" Eugenics aims to arouse the
@@ -351,7 +355,7 @@
 			health. Among these are Dean <person reg="Inge, William Ralph"> W. R. Inge</person>,
 			Professor <person reg="Thomson, J. Arthur">J. Arthur Thomson</person>, Mr. Havelock
 			Ellis, Professor William Bateson, Dr. <person reg="Millard, Killick">Killick Millard
-			</person>and ......</p>
+			</person>and . . . . . .</p>
 		<p>We are now, I hope, in a position to understand the constructive and creative aspects of
 			the philosophy and practice of Birth Control. It has been condemned as dysgenic,
 			destructive of civilization, as the weapon of selfish unthinking pleasure-seeking,

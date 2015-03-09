@@ -6,7 +6,10 @@
 		<prepDate>2003-07-28 CH</prepDate>
 		<prepDate>2012-05-31 AW</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1921-03-00">Mar 1921</docDate>
 		<docTitle>
 			<titlePart>No Healthy Race Without Birth Control</titlePart>
@@ -14,7 +17,8 @@
 		<idno>msp302517</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Physical Culture</title> Mar. 1921, p. 41</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:147</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:147</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -37,7 +41,7 @@
 	</headNote>
 	<docBody>
 		<head>No Healthy Race Without Birth Control</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>By Margaret Sanger</byline>
 		<p>Our girls must be brought up to realize that Motherhood is the most sacred profession in
 			the world, and that it is a profession that requires more preparation than any other
 			open to women. This preparation must be begun in infancy; but unlike much of the dull
@@ -50,7 +54,7 @@
 			entering into sports that build up strong bodies- swimming, diving, skating, tennis, and
 			many others- and that the old ideals and old fashions of the all-too-ladylike are
 			disappearing. The old-time fashion of fainting or swooning we read about in the novels
-			of the nineteenth century is dead. The "<q>wasp</q>" waist is gone; and if the corset
+			of the nineteenth century is dead. The "wasp" waist is gone; and if the corset
 			has not completely gone, it is going rapidly, with the long skirts that hampered the
 			limbs, and the high heels that make walking a caricature. Once freed of these silly
 			impediments women can never again give up their freedom. And if these styles are fatal
@@ -135,7 +139,7 @@
 			is the good fortune of any child to receive now.</p>
 		<p>Every mother and mother-to-be should protect the fundamental rights of her babies, and in
 			fact of all babies. "Baby's rights" have been well formulated by my friend <person
-				reg="Stophes, Marie Carmichael">Marie Carmichael Stopes</person>: They are:<list>
+				reg="Stophes, Marie C.">Marie Carmichael Stopes</person>: They are:<list>
 				<item>"<q who="STOMA">To be wanted</q>.</item>
 				<item>"<q who="STOMA">To be loved before birth as well as after birth.</q></item>
 				<item>"<q who="STOMA">To be given a body untainted by a heritable disease,
