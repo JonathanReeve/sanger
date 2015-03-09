@@ -5,7 +5,10 @@
 		<prepDate>2009/03/30 CH Initial tag/transcribe</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-01-18 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1922-07-13">13 July 1922</docDate>
 		<docTitle>
 			<titlePart>
@@ -19,8 +22,8 @@
 					>Report of the <org
 						reg="International Neo-Malthusian and Birth Control Conference, 5th">Fifth
 						International Neo-Malthusian and Birth Control Conference</org>,
-						<org>Kingsway Hall</org>, <place reg="London, England">London</place>, July
-					11 to 14, 1922.</title> (<org>W. Heinemen</org>, London: 1922), 198-206.</bibl>
+						<org>Kingsway Hall</org>, London, July 11 to 14, 1922.</title> (London:
+				1922), pp. 198-206.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -35,7 +38,9 @@
 				reg="Drysdale, Bessie Ingham">Bessie Ingham Drysdale</person>, <person
 				reg="Millard, C. Killick">C. Killick Millard</person>, <person
 				reg="Swanwick, Helena Marie">Helena Marie Swanwick</person>, and Rev. <person
-				reg="Lang, Gordon">Gordon Lang</person>.</p>
+				reg="Lang, Gordon">Gordon Lang</person>. For another speech given at this meeting,
+			see <xref from="213557.xml">Individual and Family Aspects of Birth Control</xref>, July
+			11, 1922.</p>
 		<index level1="Asia" level2="birth control in"/>
 		<index level1="Japan" level2="political situation"/>
 		<index level1="Japan" level2="population policies"/>
@@ -53,7 +58,7 @@
 		<index level1="China" level2="birth control in"/>
 	</headNote>
 	<docBody>
-		<p>Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person> (President, <org>American
+		<p>Mrs. Margaret Sanger (President, <org>American
 				Birth Control League</org>): Mr. Chairman, Ladies and Gentlemen, all of us, in
 			advocating the national and international practice of Birth Control, have met arguments
 			from our opponents, and even from our friends, that Birth Control would never be
@@ -69,7 +74,7 @@
 			Control knowledge, that they may reduce the numbers of their families, and that they may
 			also give the women health and freedom, I am quite convinced. </p>
 		<p>Before I go into the experiences I met with in Japan and China, I would like to tell you
-			a little something of the problem that confronts Japan to-day. Japan has a population of
+			a little something of the problem that confronts Japan today. Japan has a population of
 			about 57 millions. She has an area of about 150,000 square miles. Now if all of this
 			land were tillable perhaps there would be less excuse for Japan's attitude than there is
 			today. When we look through that little country we find that five-sixths of Japan proper
@@ -89,7 +94,7 @@
 			world: "What is to become of us and all our increasing numbers in twenty or twenty-five
 			years?" </p>
 		<p>In some ways today Japan is in much the same condition as <place>Germany</place> was in
-			1910. I will not go ino detail to show you how much alike they are in their industrial,
+			1910. I will not go into detail to show you how much alike they are in their industrial,
 			commercial, and even moral and spiritual development. More than 90 per cent, of the
 			Japanese people are considered literate. They can read and write. There is a strong
 			development along industrial lines, and, in fact, Japan to-day is experiencing with her
@@ -127,10 +132,10 @@
 			believe, although he does not know it, Mr. <person reg="Wells, H. G.">Wells</person> is
 			to be invited to complete the series.</p>
 		<p>Plans had already been made for me to go to Japan, and I had purchased or rather engaged
-			my passage when, to my surprise, on arriving at <place reg="San Francisco, California"
+			my passage when, to my surprise, on arriving at <place reg="San Francisco, CA"
 				>San Francisco</place>, when I applied for the visa at the Japanese Consulate, I was
-			told that the <org reg="Japan, Government of">Government of Japan</org>--the Home
-			Office--had sent a cable to the Consul-General that if I applied for a visa it was to be
+			told that the <org reg="Japan, Home Office">Government of Japan--the Home
+				Office</org>--had sent a cable to the Consul-General that if I applied for a visa it was to be
 			refused, as they did not want the subject of Birth Control to be discussed in Japan.
 			That was rather surprising to me, inasmuch as the plans had been made for my work there.
 			However, I felt that it was very necessary for me to meet some of the Japanese,
@@ -162,7 +167,7 @@
 			practically every position that you take up. This, of course, gave us a great deal of
 			publicity, for the whole country was aroused to the discussion, and the scientific
 			discussion, of the subject. </p>
-		<p>There were meetings with the members of the <org reg="New Woman Association">new women's
+		<p>There were meetings with the members of the <org reg="Shin Fujin Ky&omacr;kai">new women's
 				organisation</org>, and it was quite remarkable how all those women came to express
 			sympathy and interest in the subject of Birth Control, and to express to me their desire
 			for knowledge whereby they could be emancipated from maternal slavery. Representatives
@@ -190,8 +195,8 @@
 			Control." On that we all agreed. I had no intention of giving the methods of Birth
 			Control to a promiscuous audience; I simply wanted to speak on the theory of the
 			subject, and the practical side would have been given in private.</p>
-		<p>So, after my arrival, I wanted to ascertain from the <org reg="Japan, Home Office">Home
-				Office</org> why I was barred from Japan. It is very important for a propagandist to
+		<p>So, after my arrival, I wanted to ascertain from the Home
+				Office why I was barred from Japan. It is very important for a propagandist to
 			see to it that she is never barred out from any place. It is a very bad precedent for
 			your work. So I went to call on the <person reg="Oka, Kischichiro">Chief of
 				Police</person>, who seemed to have been the instigator of the difficulty. They
@@ -205,8 +210,8 @@
 			The photographers were there ahead of us, and in every way we were received with great
 			courtesy, and given great attention. The Chief of Police himself was not there, but his
 			Assistant was, and he explained to me that one of the reasons why I was not allowed to
-			speak was that my subject would come under a Bill then pending, which was called "<name
-				type="law">The Dangerous Thought Bill</name>." When I asked if they would explain
+			speak was that my subject would come under a Bill then pending, which was called "The <name
+				type="law">Dangerous Thought Bill</name>." When I asked if they would explain
 			what that meant, they said there was a Bill pending in the House forbidding any
 			foreigner to come to Japan and bring a "dangerous thought." I am glad to say that Bill
 			was "tabled" a few weeks later, again because of the young and rising Liberal Group in
@@ -231,7 +236,7 @@
 			physicians of the Women's Organisation, and they did this very efficiently and to my
 			satisfaction, because I prefer speaking to small audiences when it comes to the
 			practical side rather than to large promiscuous audiences. </p>
-		<p>Finally, a League was formed--the first <org reg="Japan Birth Control League">Birth
+		<p>Finally, a League was formed--the first <org reg="Nihon Sanji Ch&ocirc;setsu Renmei">Birth
 				Control League in Japan</org>. Since then I find that this little League has brought
 			out a <title type="journal">Birth Control Review</title>, a monthly magazine in the
 			Japanese language. They published, and have been publishing, the pamphlet "<title
@@ -274,7 +279,7 @@
 			Chinese, and it was on the press next morning ready for printing. Five thousand of these
 			pamphlets were distributed later on in a few days, so that China took practically at
 			once to the subject, and especially to the practical side of it. They were, when I left
-				<place reg="Beijing, China">Pekin</place>, looking for a physician to open a clinic,
+				<place reg="Peking, China">Pekin</place>, looking for a physician to open a clinic,
 			especially in their poor sections, for the women. The <org>Rockefeller Institute</org>,
 			especially the nurses, were very keen on knowing something of the practical methods, and
 			they got up a meeting which I had the pleasure of addressing, and we were able to

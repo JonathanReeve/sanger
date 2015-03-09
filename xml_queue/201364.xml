@@ -8,14 +8,17 @@
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2014-12-11 CH proof tags</prepDate>
 		<prepDate>2014-12-11 CH enter corrections</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1922-04-00">Apr 1922</docDate>
 		<docTitle>
 			<titlePart>Woman's Power &amp; Birth Control</titlePart>
 		</docTitle>
 		<idno>msp201364</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Kaizo</title> Apr. 1922, pp. 147-157.</bibl>
+			<bibl><title type="journal">The Kaizo</title> Apr. 1922, pp. 147-157</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -58,7 +61,7 @@
 	</headNote>
 	<docBody>
 		<head>Woman's Power and Birth Control.</head>
-		<byline>By Mrs. <person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
+		<byline>By Mrs. Margaret H. Sanger.</byline>
 		<p>It is not asserting too much to say that the gravest question the world faces at the
 			present moment is the numbers and quality of its inhabitants. There are nations in which
 			over-population is already chronic, and in which the surplus numbers are swept away from

@@ -5,7 +5,10 @@
 		<prepDate>2014-05-21 MM</prepDate>
 		<prepDate>2014-12-11 CH proof tags</prepDate>
 		<prepDate>2014-12-11 CH enter corrections</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1922-01-30">30 Jan 1922</docDate>
 		<docTitle>
 			<titlePart>
@@ -16,7 +19,8 @@
 		<idno>msp236702</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Sophia Smith Collections</title> S70:923</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Sophia Smith Collections</title>
+				S70:923</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -29,8 +33,7 @@
 					<place>Pennsylvania</place> birth control conference</org>. She also gave
 			another speech that day titled "<title type="article">Birth Control: Is it
 				moral?</title>," which may have been a version of "<xref from="301394.xml">Morality
-				of Birth Control</xref>," Nov. 18, 1921, or "<xref from="213391.xml">Morality and
-				Birth Control</xref>," 1918. After this event she left on her trip to
+				of Birth Control</xref>," Nov. 18, 1921. After this event she left on her trip to
 				<place>Japan</place> and <place>China</place>. </p>
 		<index level1="birth control" level2="conferences on"/>
 		<index level1="Japan" level2="overpopulation and"/>
@@ -44,7 +47,7 @@
 		</dateline>
 		<p>Japanese officials 25--21 reported B.C. movement</p>
 		<p>Two groups--old--young</p>
-		<p>Western Civilization invaded Japan</p>
+		<p>Western Civilization invaded <place>Japan</place></p>
 		<p>sanitation, hygiene, surgery, inventions--</p>
 		<p>doubles population 50 year--</p>
 		<p>problems more complex</p>
@@ -90,19 +93,19 @@
 		<p>bringing our life saving clinics, sanitation, hygiene, surgery, charities, &amp;
 			philanthropy</p>
 		<p>rescuing sick, feeble and diseased making their problems more complex</p>
-		<p>She can no longer resort to nature -- cruel methods of reducing these populations by
+		<p>She can no longer resort to nature--cruel methods of reducing these populations by
 			disease &amp; famine</p>
-		<p>She has gone beyond that, as have we of the Western Countries -- we must reach out to
+		<p>She has gone beyond that, as have we of the Western Countries--we must reach out to
 			science to help us. That science is Birth Control.</p>
 		<p>Japan has a population of 56 million people </p>
-		<p>Within an area no larger than California</p>
+		<p>Within an area no larger than <place>California</place></p>
 		<p>Half the population of the whole of USA</p>
 		<p>She has a survival rate of an increasing number of inhabitants to the number of 700,000
 			to 1 million a year</p>
 		<p>This far exceeds that of any other country</p>
 		<p>The militarists want 100,000 million for Japan to become a world power</p>
-		<p>For Japan to win more territory she must have the natural right--which is an
-			expanding right, for her growing population</p>
+		<p>For Japan to win more territory she must have the natural right--which is an expanding
+			right, for her growing population</p>
 		<p>During the past 65 years Japans population has doubled--so have her problems</p>
 		<p>The density of population of 320 to a sq mile</p>
 		<p>Relief by emigration -- like <place>Germany</place>--experts education no return to
@@ -114,12 +117,12 @@
 		<p>We are drawn into international affairs--</p>
 		<p>Whole world like child--</p>
 		<p>We can not go far forward alone--</p>
-		<p>International B.C. <place>France</place> -- Germany</p>
+		<p>International B.C. <place>France</place>--Germany</p>
 		<p>USA 200 years 2,000 million</p>
 		<p>Intelligence viz reproduction</p>
 		<p>Western Civilization invading Japan</p>
 		<p>70,000,000 with 700,000 each year</p>
-		<p>large as California--</p>
+		<p>large as <place>California</place>--</p>
 		<p>depended upon nature, floods, <unclear>famine</unclear> infant mortality--</p>
 		<p>Now hygiene &amp; sanitation resources rescues inhabitants &amp; makes problems of
 			existence more complex</p>

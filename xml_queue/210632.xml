@@ -4,15 +4,19 @@
 	<mepHeader>
 		<prepDate>2003/07/08 KSM</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1922-07-00">Jul 1922</docDate>
 		<docTitle>
 			<titlePart>Margaret Sanger in China</titlePart>
 		</docTitle>
 		<idno>msp210632</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Birth Control Review</title>,July 1922, pp.123-5</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:940</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, July 1922, pp.123-5</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:940</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -32,7 +36,7 @@
 			while China exists in its present condition. Here one sees millions of people, with
 			scarcely clothing enough to cover their naked bodies, eking out a mere existence for
 			which they have to work twelve to twenty hours a day.</p>
-		<p>On the way from <place reg="Shenwang, China">Mukden</place> to <place reg="Bejing, China"
+		<p>On the way from <place reg="Shenwang, China">Mukden</place> to <place reg="Peking, China"
 				>Peking</place>, every inch of ground is utilized for food. While on our trip from
 			Peking to <place reg="Hankow, China">Hankow</place> and then down the Yangtze River to
 				<place reg="Nanjing, China">Nanking </place>on our way to <place
@@ -62,7 +66,7 @@
 			walk beside us. We see mothers, professional beggars, who bear their children openly in
 			the streets. Their children in turn become beggars and so it goes from generation to
 			generation. The street is their home, eating sleeping, and begging there. They do not
-			like to be photographed as if they are very superstituous and believe the camera brings
+			like to be photographed as if they are very superstitious and believe the camera brings
 			evil to them.</p>
 		<p>The thing I cannot accustom myself to in China, is being pulled in a rickshaw by a human
 			being, or being carried in a sedan chair by three or four of them. I can't endure the
@@ -85,7 +89,7 @@
 			know this, and dismisses a servant, it means practical starvation for that man.</p>
 		<p>Besides the rickshaw men, the lives of coolies and sing-song girls make me shudder. While
 			in the Northern cities the coolies are men and boys, in <place reg="Hong Kong, China"
-				>Hongkong</place> the women do this beast of burden work. As I sit writing this I
+				>Hong kong</place> the women do this beast of burden work. As I sit writing this I
 			look out of my window upon a newly built structure where hundreds of women are carrying
 			bricks in baskets to the men who are laying them.</p>
 		<p>I can not give here all my experiences, but I can never again boast of our civilization
@@ -120,13 +124,14 @@
 			to the population and Birth Control subject. On Sunday April 30th I was invited to
 			address a meeting at the <org>Labour Museum</org> on behalf of three organizations,
 				<org>Kiangsu Educational Association</org>, the <org>National Association of
-				Vocational Education of China</org> and the <org>Association of Family Reformation
-				of China</org>. I was asked to address this public meeting, to consist of working
-			men and women. It was interesting that the occasion of this meeting was the third
-			anniversary of the Family Reformation Association of China. The three essential rules
-			that one must abide by in joining this association are not to drink, not to smoke, and
-			not to gamble. I suggested a fourth rule of limiting the family, to cope with the
-			mothers' health and the fathers' income, and the suggestion was readily applauded.</p>
+				Vocational Education of China</org> and the <org reg="Jiating Rixin Hui">Association
+				of Family Reformation of China</org>. I was asked to address this public meeting, to
+			consist of working men and women. It was interesting that the occasion of this meeting
+			was the third anniversary of the Family Reformation Association of China. The three
+			essential rules that one must abide by in joining this association are not to drink, not
+			to smoke, and not to gamble. I suggested a fourth rule of limiting the family, to cope
+			with the mothers' health and the fathers' income, and the suggestion was readily
+			applauded.</p>
 		<p>While my tour through China has not had the same national interest as my meetings in
 				<place>Japan</place>, yet I feel that considering the lack of time and preparation
 			for my coming to China the results have been splendid. With the possibility of a League

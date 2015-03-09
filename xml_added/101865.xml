@@ -11,16 +11,18 @@
 		<prepDate>2004/08/09 CH</prepDate>
 		<prepDate>2004/08/13 CH</prepDate>
 		<prepDate>2014/03/05 EK Cleanup</prepDate>
-
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1922-10-31">31 Oct 1922</docDate>
 		<docTitle>
-			<titlePart>Birth Control in China and Japan</titlePart>
+			<titlePart><supplied resp="MSPP">Birth Control in China and Japan</supplied></titlePart>
 		</docTitle>
 		<idno>msp101865</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>LCM 128:491</bibl>
+			<bibl>Library of Congress Microfilm 128:491</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -30,13 +32,14 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>Sanger gave this address at a Welcome Home Mass Meeting, held at Carnegie Hall in <place
-				reg="New York, NY">New York</place> on the occasion of her return from a World Tour.
-			Other speakers included <person reg="Broun, Heywood">Heywood Broun</person>, Rabbi
+		<p>Sanger gave this address at a Welcome Home Mass Meeting, held at <org>Carnegie Hall</org>
+			in <place reg="New York, NY">New York</place> on the occasion of her return from a World
+			Tour. Other speakers included <person reg="Broun, Heywood">Heywood Broun</person>, Rabbi
 				<person reg="Goldstein, Sidney E.">Sidney Goldstein</person>, <person
 				reg="Bennett, Josephine">Josephine Bennet</person>, and <person
 				reg="DeVilbiss, Lydia Allen">Lydia Allen DeVilbiss</person>. Handwritten corrections
-			were made to the typed draft by Margaret Sanger. </p>
+			were made to the typed draft by Margaret Sanger. For earlier version, see Library of
+			Congress Microfilm 128:0481</p>
 		<index level1="Japan" level2="birth control clinics and leagues"/>
 		<index level1="China" level2="birth control clinics and leagues"/>
 		<index level1="population" level2="control of"/>
@@ -51,7 +54,6 @@
 		<index level1="Japan" level2="modernization of"/>
 		<index level1="censorship"/>
 	</headNote>
-	<sourceNote>For earlier version, see LCM 128:0481.</sourceNote>
 	<docBody>
 		<head>
 			<add>Address at Carnegie Hall</add>
@@ -81,8 +83,9 @@
 			invited to follow Mr. Russell. You see, they put me in good company.</p>
 		<p>I agreed to visit Japan to deliver five addresses, under the auspices of the Kaizo group.
 			With great joy I set forth last February to carry the message of birth control into the
-			Orient. I booked passage on the <ship>Taiyo Maru</ship>, and, escorted by my thirteen
-			year old son <person reg="Grant Sanger">Grant</person>, crossed the continent to <place
+			Orient. I booked passage on the <name type="ship"><foreign lang="JAP">Taiyo
+					Maru</foreign></name>, and, escorted by my thirteen year old son <person
+				reg="Grant Sanger">Grant</person>, crossed the continent to <place
 				reg="San Francisco, CA">San Francisco</place>. Two days before my sailing, the
 			Japanese Consul refused to visa my passport. With many apologies and great regret he
 			informed me that the Imperial Government had cabled directions that, if she applied for
@@ -105,32 +108,31 @@
 			tolerate me, perhaps <place>China</place> would. There was no trouble in obtaining a
 			Chinese visa. I returned to the office of the steamship company, secured passage for
 				<place reg="Shanghai, China">Shanghai</place>, obtained the same stateroom on the
-				<ship>Taiyo Maru</ship> I had previously booked, and sailed from San Francisco on
-			the day I had originally planned.</p>
+			Taiyo Maru I had previously booked, and sailed from San Francisco on the day I had
+			originally planned.</p>
 		<p>Aboard the Taiyo, I discovered as fellow passengers more than one hundred and fifty
 			Japanese returning from the <name reg="Washington Naval Conference">Washington Peace
 				Conference</name>, including the two delegates Admiral Baron <person
 				reg="Tomosaburo Kato">Katonow</person> Prime Minister of Japan, and Mr. <person
-				reg="Masanao Hanihara">Hanihara</person>, who at that time was vice-minister of
-			Foreign Affairs. Besides these distinguished Japanese, there was another party of
-			delegates, under the leadership of Mr. <person>John Mott</person>, on their way to
-				<place reg="Beijing, China">Peking</place> to attend the conference of the World
-			Christian Student Federation. A meeting had been arranged for me in <place
+				reg="Masanao Hanihara">Hanihara</person>, who at that time was vice-minister of <org
+				reg="Japan Ministry of Foreign Affairs">Foreign Affairs</org>. Besides these
+			distinguished Japanese, there was another party of delegates, under the leadership of
+			Mr. <person reg="Mott, John">John Mott</person>, on their way to <place
+				reg="Peking, China">Peking</place> to attend the conference of the <org>World
+				Christian Student Federation</org>. A meeting had been arranged for me in <place
 				reg="Honolulu, HI">Honolulu</place>, and although our boat arrived at one in the
 			afternoon and sailed at five, I was able to speak to an audience which filled the hall
 			to its capacity. I was received with no less enthusiasm by the Japanese than by the
 			American residents there. The Japanese press had even arranged a dinner for that
-			evening, in the event the <ship>Taiyo Maru</ship> remained. I could not accept
-			therefore, but during my few hours stay, the nucleus of a Hawaiian Birth Control League
-			was organized.</p>
-		<p>This demonstration in Honolulu reacted upon my fellow passengers aboard the <ship>Taiyo
-				Maru</ship>. During the next two weeks every one aboard seemed to be discussing the
-			pros and cons of Birth Control. They began to crowd into my cabin to ask questions.
-			Finally I was invited to address the Japanese delegation from the Peace Conference.
-			Admiral Kato and Mr. Hanihara attended. The feelings of my own countrymen were hurt
-			because they were not invited. So finally I had to speak to the missionaries as well.
-			Then the passengers of the second cabin besieged me with requests, and I spoke to them
-			also.</p>
+			evening, in the event the Taiyo Maru remained. I could not accept therefore, but during
+			my few hours stay, the nucleus of a Hawaiian Birth Control League was organized.</p>
+		<p>This demonstration in Honolulu reacted upon my fellow passengers aboard the Taiyo Maru.
+			During the next two weeks every one aboard seemed to be discussing the pros and cons of
+			Birth Control. They began to crowd into my cabin to ask questions. Finally I was invited
+			to address the Japanese delegation from the Peace Conference. Admiral Kato and Mr.
+			Hanihara attended. The feelings of my own countrymen were hurt because they were not
+			invited. So finally I had to speak to the missionaries as well. Then the passengers of
+			the second cabin besieged me with requests, and I spoke to them also.</p>
 		<p>After I had addressed the Japanese delegates, the radio messages began to fly between our
 			ship and Japan. In particular Mr. Hanihara was especially <emph rend="underline"
 				>kind</emph>. He sent a radio message to his government, stating that, in his
@@ -148,17 +150,17 @@
 					reg="Yokohama, Japan">Yokahoma</place>, Welcome discourse.</q>" The next day:
 				"<q who="UNK">Possible land Yokahama Impossible discourse.</q>" Radio messages from
 			all sorts of organizations asking me to lecture; a radio message from the medical
-			association of <place reg="Kyoto, Japan">Kyoto</place>; a radio message from the
-				"<org reg="Kobe Cultural Socierty">Cultural Society of <place reg="Kobe, Japan">Kobe</place></org>"; a radio
-			message from the New Women's Organization <del>of Nagoya</del> a message from a
-			commercial group in <place reg="Tokyo, Japan">Tokyo</place>; another from an industrial
-			group of Yokohama; a greeting from the doctors of <place reg="Nagoya, Japan"
-				>Nagoya</place>; one, even, from the <org>Young Men's Christian Association of
-				Tokyo</org>. And still I did not know whether I would be permitted to land. But it
-			was some satisfaction, at any rate, to know that the opposition of the government had
-			aroused the Japanese press and public to a discussion of Birth Control. For once people
-			begin <emph rend="underline">seriously</emph> to discuss Birth Control, our battle is
-			more than half won.</p>
+			association of <place reg="Kyoto, Japan">Kyoto</place>; a radio message from the "<org
+				reg="Kobe Cultural Socierty">Cultural Society of <place reg="Kobe, Japan"
+					>Kobe</place></org>"; a radio message from the New Women's Organization <del>of
+				Nagoya</del> a message from a commercial group in <place reg="Tokyo, Japan"
+				>Tokyo</place>; another from an industrial group of Yokohama; a greeting from the
+			doctors of <place reg="Nagoya, Japan">Nagoya</place>; one, even, from the <org>Young
+				Men's Christian Association of Tokyo</org>. And still I did not know whether I would
+			be permitted to land. But it was some satisfaction, at any rate, to know that the
+			opposition of the government had aroused the Japanese press and public to a discussion
+			of Birth Control. For once people begin <emph rend="underline">seriously</emph> to
+			discuss Birth Control, our battle is more than half won.</p>
 		<p>Such was the situation when we arrived at Yokohama harbor on the tenth of March. As the
 			Taiyo Maru entered the bay, she was surrounded by a fleet of small craft. Government
 			officials, health officials, representatives of the police department, and a mob of
@@ -256,12 +258,13 @@
 			popular interest in Birth Control in Japan. Therefore I resolved to find out why the
 			Imperial Japanese Government was so afraid of my message. By questioning my Japanese
 			friends I found out that the news of my coming had divided opinions into two main
-			currents. A bill had been introduced in Parliament called the "<title>Dangerous Thought
-				Bill.</title>" This had been introduced by a group of reactionaries, called by the
-			Japanese "<soCalled>Thought Controllers</soCalled>." They aimed to exclude from the
-			country all thoughts and ideas which they considered menacing to ancient Japanese
-			traditions. They wanted ideas to be one hundred percent Japanese. I am glad to say that
-			during my stay in Japan, this ridiculous bill was defeated.</p>
+			currents. A bill had been introduced in Parliament called the "<name type="law"
+				reg="Dangerous Thoughts Bill">Dangerous Thought Bill.</name>" This had been
+			introduced by a group of reactionaries, called by the Japanese "Thought Controllers."
+			They aimed to exclude from the country all thoughts and ideas which they considered
+			menacing to ancient Japanese traditions. They wanted ideas to be one hundred percent
+			Japanese. I am glad to say that during my stay in Japan, this ridiculous bill was
+			defeated.</p>
 		<p>Then I found out that a rumor had spread throughout the country, before I arrived, that I
 			was a secret agent of the American government, sent to deplete the population of Japan
 			by my own special magic and miraculous method. They said that I was the advance agent of
@@ -274,13 +277,12 @@
 			was but ten in the morning, tea was served and current topics--with the exception of
 			birth control, was politely discussed. Then, through an interpreter, I was told that my
 			name had created confusion and amusement, owing to the similarity between Sanger and
-				"<foreign lang="JAP">Sangai San</foreign>" which means "<soCalled>destructive to
-				production.</soCalled>" The chief of police and assistants had read my books. They
-			had been translated and published without my permission, and were already making convert
-			even in the police department. The outcome of this interview was that I was permitted to
-			speak in public--not on Birth Control, but on population, to private groups and before
-			clubs and such organizations, on the subject of birth control, without police
-			interference.</p>
+				"<foreign lang="JAP">Sangai San</foreign>" which means "destructive to production."
+			The chief of police and assistants had read my books. They had been translated and
+			published without my permission, and were already making convert even in the police
+			department. The outcome of this interview was that I was permitted to speak in
+			public--not on Birth Control, but on population, to private groups and before clubs and
+			such organizations, on the subject of birth control, without police interference.</p>
 		<p>As a result, I was able, during my brief stay, to make thirteen addresses in the various
 			cities of Japan. The extent of the interest that had been aroused in the subject was
 			indicated by the fact that out of 101 monthly magazines published in Japan, no less than
@@ -316,20 +318,20 @@
 			business men. There was a great opportunity for one to settle down in Korea, for the
 			Koreans are alert, ambitious and are anxious to partake in the new thought of the
 			western world.</p>
-		<p>From Korea I went to Peking and there was able to address 2500 students in the
-				<org>Government University of Peking</org>. I also spoke at the <org>Rockefeller
-				Institute</org> as well as at a gathering of bankers, who gave a luncheon in my
-			honor.</p>
+		<p>From Korea I went to Peking and there was able to address 2500 students in the <org
+				reg="Peking University">Government University of Peking</org>. I also spoke at the
+				<org>Rockefeller Institute</org> as well as at a gathering of bankers, who gave a
+			luncheon in my honor.</p>
 		<p>I was particularly interested in the method of the Chinese in their grasp of the subject,
 			and in their method of quick action when once they have a subject in hand. The
 			chancellor of the university invited me to dinner after the afternoon meeting. There
 			were present a number of the professors and some others who were considered the
-				"<soCalled>intelligentsia</soCalled>" of Peking. There were some splendid
-			suggestions made that afternoon for carrying on the work, and the formation of a league
-			was formed that night; but the immediate need was for practical methods, and they took
-			the pamphlet "<title>Family Limitation</title>", translated it into Chinese, and the
-			next morning that material was on the press, and five thousand pamphlets were printed
-			and ready for distribution the next day.</p>
+			"intelligentsia" of Peking. There were some splendid suggestions made that afternoon for
+			carrying on the work, and the formation of a league was formed that night; but the
+			immediate need was for practical methods, and they took the pamphlet "<title type="book"
+				>Family Limitation</title>", translated it into Chinese, and the next morning that
+			material was on the press, and five thousand pamphlets were printed and ready for
+			distribution the next day.</p>
 		<p>If anyone wishes to refute the Malthusian theory, it is worth while before wasting his
 			time, to take a trip to China, for there the population question with all the horrors
 			that Malthus depicted, is vindicated.</p>
@@ -339,9 +341,9 @@
 			cannot go on undisturbed by our interference. We cannot go into China with our
 			sympathies and our moral codes saving the babies from infanticide, without increasing
 			her problems. We find that after we have gone and rescued infants from the river one
-			year, only to find an increase of "<soCalled>sing song</soCalled>" girls eking out their
-			existence in prostitution the following year. We simply rob Peter to pay Paul in all of
-			these methods, because we are not dealing with fundamentals.</p>
+			year, only to find an increase of "sing song" girls eking out their existence in
+			prostitution the following year. We simply rob Peter to pay Paul in all of these
+			methods, because we are not dealing with fundamentals.</p>
 		<p>While the Chinese woman gives birth to infants year after year, the great percentage of
 			these infants dies, which keeps her population practically at a standstill.</p>
 		<p>If we will let China alone, she may work out in a few more thousand years very brilliant
@@ -360,17 +362,17 @@
 		<p>The situation in Japan today is almost identical with that of the German Empire in 1910.
 			With a limited territory the high birth rate in <place>Germany</place> increased the
 			density of population so that there arose a cry for expansion, for new colonies, for new
-			territories, for "<soCalled>a place in the sun.</soCalled>" And national expansion,
-			based on potential overpopulation, breeds militarism and the machinery of war. Today we
-			know how Germany fared in its great effort to <del>dominate Europe</del><add>spread
-				out</add>. We know how the high birth rate or overpopulated countries fared in the
-			war. The dangers of a militaristic policy for Japan should be apparent to all impartial
-			observers. We ought to know more about a high birth rate as one of the causes of war.
-			But even if Japan seeks a solution to her domestic problem by peaceful, commercial and
-			industrial expansion, by sending out of her country its surplus millions, this is no
-			adequate remedy. The disease must break out in some other part of the world. To export
-			low grade labor, hordes of coolies to upset the stability of the labor markets, is to
-			destroy all possibilities of peace in the political and industrial spheres.</p>
+			territories, for "a place in the sun." And national expansion, based on potential
+			overpopulation, breeds militarism and the machinery of war. Today we know how Germany
+			fared in its great effort to <del>dominate Europe</del><add>spread out</add>. We know
+			how the high birth rate or overpopulated countries fared in the war. The dangers of a
+			militaristic policy for Japan should be apparent to all impartial observers. We ought to
+			know more about a high birth rate as one of the causes of war. But even if Japan seeks a
+			solution to her domestic problem by peaceful, commercial and industrial expansion, by
+			sending out of her country its surplus millions, this is no adequate remedy. The disease
+			must break out in some other part of the world. To export low grade labor, hordes of
+			coolies to upset the stability of the labor markets, is to destroy all possibilities of
+			peace in the political and industrial spheres.</p>
 		<p>In China we witness the last act in the national tragedy of over-population. Here is a
 			great Empire prostrate in the dust. China, the mysterious fountainhead of art,
 			philosophy and the deepest wisdom of the world, has been brought down by the breeding
@@ -449,8 +451,8 @@
 			masses, the sinister evil demagogues of the church and nation fatten. We cannot shirk
 			the inevitable duty of descending, like <person>Socrates</person>, into the market place
 			and to the utmost of our ability to undo the work of these blind leaders of the blind
-			who are urging <add>the</add> unfit "<soCalled>full speed</soCalled>" ahead in these mad
-			spawning and swarming.</p>
+			who are urging <add>the</add> unfit "full speed" ahead in these mad spawning and
+			swarming.</p>
 		<p>The world is overpopulated in more ways than one. There are too many people for our
 			limited intelligence. There are too many people for the social systems evolved. There
 			are too many people for our present equipment, transportation, housing,
@@ -462,13 +464,13 @@
 			to Birth Control. But as a whole, the masses themselves are looking to it as to a
 			deliverance. Birth Control is not merely a problem of the individual women; it is not
 			merely a national question. It is <del>not</del> a world problem. As <person>John
-				Maynard Keynes</person> stated, at the time of our <name
-				reg="Fifth International Neo-Malthusian Conference">London Conference</name>, the
-			problem of population is going to become in the near future the greatest of all
-			political questions. Already the very mention of Birth Control arouses some of the
-			deepest instincts and emotions. Feelings are running, as Mr. Keynes suggested, as
-			passionately as in the earlier struggles between religions. We stand today at one of the
-			great transition points in human history. If civilization is to survive, men and women
-			must grasp control away from the blind instinct of Nature </p>
+				Maynard Keynes</person> stated, at the time of our <org
+				reg="International Neo-Malthusian and Birth Control Conference, 5th">London
+				Conference</org>, the problem of population is going to become in the near future
+			the greatest of all political questions. Already the very mention of Birth Control
+			arouses some of the deepest instincts and emotions. Feelings are running, as Mr. Keynes
+			suggested, as passionately as in the earlier struggles between religions. We stand today
+			at one of the great transition points in human history. If civilization is to survive,
+			men and women must grasp control away from the blind instinct of Nature </p>
 	</docBody>
 </doc>
