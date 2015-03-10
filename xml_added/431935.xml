@@ -3,6 +3,7 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2015-01-20 CH transcribe and encode</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -12,9 +13,8 @@
 		</docTitle>
 		<idno>msp421032</idno>
 		<sourceDesc>
-			<bibl><title type="article">Mrs. Sanger Says Women Are Slave; Knowledge Barred</title>,
-					<title type="journal">Waterloo (IA) Evening Courier</title>, Jan. 28,
-				1925</bibl>
+			<bibl><title type="article">Mrs. Sanger Says Women Are Slaves; Knowledge Barred</title>,
+					<title type="journal">Waterloo Evening Courier</title>, Jan. 28, 1925</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,9 +22,11 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger gave this speech before the General Federation of Women's Clubs in Des Moines. The
-			speech was not found. For notes from another speech she gave during this trip, see <xref
-				from="236564.xml">Des Moines Address Notes</xref>, Jan. 26, 1925.</p>
+		<p>Sanger gave this speech before the <org
+				reg="Des Moines General Federation of Women's Clubs">General Federation of Women's
+				Clubs in Des Moines</org>. The speech was not found. For notes from another speech
+			she gave during this trip, see <xref from="236564.xml">Des Moines Address Notes</xref>,
+			Jan. 26, 1925.</p>
 		<index level1="unfit to reproduce" level2="social burden of"/>
 		<index level1="women" level2="enslavement of"/>
 	</headNote>
@@ -33,7 +35,7 @@
 		<dateline><place reg="Des Moines, IA">Des Moines</place>, <date value="1925-01-28">Jan.
 				28</date>--</dateline>
 		<p>"We who advocate the dissemination of such knowledge do not say there should be no
-			children, nor do we desiter to regulate the number any family should have. But we do say
+			children, nor do we desire to regulate the number any family should have. But we do say
 			that parents should give to their children a sound heritage, a sound body, and a sound
 			mind. We do say that the epileptic, the insane, the feeble minded, should have no
 			offspring. We do say no to the temporarily or permanently diseased. And, too, we do say
@@ -47,10 +49,10 @@
 			over them."</p>
 		<p>
 			<q who="WEC">That was the declaration of Mrs. Margaret Sanger, noted birth control
-				advocate, in an address before the <org>Des Moines Federation of Women's Clubs</org>
+				advocate, in an address before the Des Moines Federation of Women's Clubs
 				at Hoyt Sherman place auditorium yesterday afternoon. The largest audience which has
-				attended a meeting of the federation heard Mrs. Sanger's plea for "Regulation of the
-				Fit Children of the World."</q>
+				attended a meeting of the federation heard Mrs. Sanger's plea for</q> "Regulation of the
+				Fit Children of the World."
 		</p>
 		<p>"This continued refusal to allow the distribution of contraceptive knowledge is the
 			greatest waste of physical and economic vitality the nation permits. It fills our

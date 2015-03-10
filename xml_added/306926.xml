@@ -5,15 +5,18 @@
 		<prepDate>2003/10/13 NS</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-02-00"> Feb 1925</docDate>
 		<docTitle>
 			<titlePart>Book Review: Impressions and Comments</titlePart>
 		</docTitle>
 		<idno>msp306920</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, Feb 1925, 48-49 </bibl>
-			<bibl><title>Margaret Sanger Microfilm</title> C16:239</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, Feb. 1925, pp. 48-49 </bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm</title> C16:239</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -29,7 +32,7 @@
 	</headNote>
 	<docBody>
 		<head>Book Reviews</head>
-		<head type="sub" rend="italics"><person reg="Sanger, Margaret">MARGARET SANGER</person> on
+		<head type="sub" rend="italics">MARGARET SANGER on
 				<title type="book">IMPRESSIONS AND COMMENTS</title></head>
 		<div type="section">
 			<p><title type="book">IMPRESSIONS AND COMMENTS: Third (and Final) Series,
@@ -92,7 +95,7 @@
 					civilization, any sound society, is ultimately to arise</q>."</p>
 		</div>
 		<div type="section">
-			<p>Humanity and the War</p>
+			<head type="sub">Humanity and the War</head>
 			<p>This, practically, is all that is specifically said on Birth Control. Yet more truth,
 				more courage, more conviction, it seems to me, are concentrated in these brief
 				passages than are to be found in whole volumes by less daring thinkers. There are

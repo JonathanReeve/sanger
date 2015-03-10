@@ -6,7 +6,10 @@
 		<prepDate>5/09/12 AW</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-01-00">Jan 1925</docDate>
 		<docTitle>
 			<titlePart>Book Review, Contraception: A Medical Review of the Situation</titlePart>
@@ -14,7 +17,7 @@
 		<idno>msp237978</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Jan. 1925, pp. 20-21</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S71:15</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:15</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,13 +25,15 @@
 			<name id="FRE">French</name>
 		</respStmt>
 	</mepHeader>
-	<headNote><index level1="American Birth Control League"/>
+	<headNote>
+		<index level1="American Birth Control League"/>
 		<index level1="Book Review"/>
 		<index level1="Committee on Maternal Health"/>
-		<index level1="Netherlands" level2="birth control clinics in"/></headNote>
+		<index level1="Netherlands" level2="birth control clinics in"/>
+	</headNote>
 	<docBody>
 		<head>CONTRACEPTION: A MEDICAL REVIEW OF THE SITUATION</head>
-		<byline>Reviewed by <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>Reviewed by Margaret Sanger</byline>
 		<div>
 			<p>The <org>Committee on Maternal Health</org> of <place reg="New York, NY">New
 					York</place> is to be congratulated upon the appearance of Dr. <person
@@ -88,7 +93,7 @@
 						Bocker</person> next to the office of Margaret Sanger's Birth Control
 					League.</q>" Surely it cannot be devotion to scientific precision that has led
 				Dr. Dickinson to this combination of misstatements. Such lack of precision is hardly
-				in accordance with the spirt of scientific impartiality which is, in the opinion of
+				in accordance with the spirit of scientific impartiality which is, in the opinion of
 				the present authority, the great present need in investigation of clinical data. In
 				the first place, the organization to which Dr. Dickinson refers, is not "Margaret
 				Sanger's;" it is the American Birth Control League, legally incorporated under the

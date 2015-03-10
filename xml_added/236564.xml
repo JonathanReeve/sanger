@@ -5,6 +5,7 @@
 		<prepDate>2003/10/10 NS</prepDate>
 		<prepDate>2014-04-10 ch Clean regs</prepDate>
 		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,7 +18,8 @@
 		<idno>msp236564</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:952</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:952</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,10 +27,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger gave two speeches in <place reg="Des Moines, IA">Des Moines</place>, these notes
-			were likely for the <org>Des Moines Birth Control Committee</org>. For coverage of her
-			speech to the <org reg="Des Moines Federation of Women's Clubs">City Federation of
-				Women's Clubs</org>, see <xref from="431935.xml">Regulation of Fit Children of the
+		<p>Sanger gave two speeches in Des Moines, these notes were likely for the one to the
+				<org>Des Moines Birth Control Committee</org>. For coverage of her speech to the
+				<org reg="Des Moines Federation of Women's Clubs">City Federation of Women's
+				Clubs</org>, see <xref from="431935.xml">Regulation of Fit Children of the
 				World</xref>, Jan. 27, 1925. No final version of this speech was found.</p>
 		<index level1="birth rate" level2="efforts to reduce"/>
 		<index level1="child labor"/>
@@ -37,7 +39,8 @@
 		<index level1="working classes"/>
 	</headNote>
 	<docBody>
-		<dateline><date value="1925-01-26">Jan. 21-25</date> Des moines</dateline>
+		<dateline><date value="1925-01-26">Jan. 21-25</date>
+			<place reg="Des Moines, IA">Des moines</place></dateline>
 		<p>Mans progress seems to have begun backward-- We have paid special attention to his
 			environment, while little attention has been given to his heritable traits.</p>
 		<p>In the early part of the 18th Century we began to take cognizance of mans environmental
@@ -66,7 +69,7 @@
 		<p>Could any thing be more cruel than to be born of disease, ignorance misery. If we are to
 			make this world safe for childhood, safe for future generation, safe for Civilization we
 			have got to check the endless stream of unwanted death doomed babies. This stream can
-			not be swept back with the broom of pallative legislation--nor with the feather duster
+			not be swept back with the broom of palliative legislation--nor with the feather duster
 			of Organized Charity. It must be checked at the Source by Birth Control.</p>
 	</docBody>
 </doc>

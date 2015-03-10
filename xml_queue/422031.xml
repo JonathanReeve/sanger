@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014/07/15 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-01-00">Jan 1925</docDate>
 		<docTitle>
 			<titlePart>Editorial</titlePart>
@@ -13,12 +16,11 @@
 		<sourceDesc>
 			<bibl><title type="article">Editorial</title>, <title type="journal">The Birth Control
 					Review</title>, Jan. 1925, pp. 3-4</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="BCR">Birth Control Review</name>
-			<name id="DAW">Dawson, Bertrand (Lord)</name>
+			<name id="DAW">Dawson, Bertrand</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -33,12 +35,12 @@
 	</headNote>
 	<docBody>
 		<head>EDITORIAL</head>
-		<p><person reg="Dawson, Bertrand (Lord)">LORD DAWSON of Penn,</person> physician to the
+		<p><person reg="Dawson, Bertrand">Lord Dawson of Penn,</person> physician to the
 				<person reg="George VII (England)">King of <place>England</place>,</person> has with
 			incisive courage again come forward as one of the most authoritative champions of Birth
 			Control. In his recent evidence given before the national <org
-				reg="British National Birth-rate Commission">Birth Rate Commission</org> set up by
-			the <org reg="British National Council of Public Morals">English National Council of
+				reg="United Nations National Birth-rate Commission">Birth Rate Commission</org> set up by
+			the <org reg="United Kingdom National Council of Public Morals">English National Council of
 				Public Morals,</org> Lord Dawson roundly denounced the current hypocrisy of the
 			churches and made a strong plea for sex love as essential to a happy normal life. Sex
 			love, asserted Lord Dawson of Penn, is and should be the physical expression of a
@@ -54,7 +56,7 @@
 			courageously stated. But there is something supremely fine and noble in a man who dares
 			to state such simple wholesome truths in an unfaltering voice to his nation and to the
 			world, as Lord Dawson has so courageously done.</p>
-		<p>FURTHERMORE, Lord Dawson has the insight to recognize that there can be no substantial
+		<p>Furthermore, Lord Dawson has the insight to recognize that there can be no substantial
 			happiness in marriage without the recognition and acceptance of the ethics of Birth
 			Control. By Birth Control he means what we all mean that the conception of children
 			should be a matter of choice, not chance. The regulation of childbirths is being brought
@@ -93,8 +95,8 @@
 			that the great broad principles of the doctrine, which touch at every point the
 			fundamental problems of humanity, must be openly and frankly and seriously
 			discussed.</p>
-		<p>PLANS for the <org reg="International Neo-Malthusian and Birth Control Conference, Sixth"
-				>SIXTH INTERNATIONAL BIRTH CONTROL CONFERENCE</org> are under way. Supporters of
+		<p>Plans for the <org reg="International Neo-Malthusian and Birth Control Conference, 6th"
+				>Sixth International Birth Control Cconference</org> are under way. Supporters of
 			Birth Control in many countries are expressing their desire to attend. But the poverty
 			of <place>Europe</place>, which affects both individuals and organizations makes it very
 			doubtful whether some of these delegates can get here unless the American Birth Control
@@ -105,7 +107,7 @@
 			delegates over. We ask our readers to contribute to this fund and to urge their friends
 			to contribute. A coupon for this purpose is to be found on the news section of the
 				<title type="journal">REVIEW.</title></p>
-		<p>WITH profound regret we announce the resignation of Mrs. <person reg="Porritt, Anne G.">
+		<p>WITH profound regret we announce the resignation of Mrs. <person reg="Porritt, Anne Goodrich">
 				Anne G. Porritt</person> as managing editor of <title type="journal">THE BIRTH
 				CONTROL REVIEW</title>. For the past two years Mrs. Porritt has fulfilled this
 			difficult post with untiring energy, devotion and keen intelligence. Under her editorial

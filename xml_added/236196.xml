@@ -5,7 +5,10 @@
 		<prepDate>2012-05-31 AW Initial Tag</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-03-15">
 			<supplied resp="MSPP">15 Mar 1925</supplied>
 		</docDate>
@@ -15,7 +18,7 @@
 		<idno>msp236196</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S73:0036</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -23,7 +26,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>No final version has been found. For an earlier draft version see MSM S71:19.</p>
+		<p>No final version has been found. For an earlier draft version see Margaret Sanger Microfilm S71:19.</p>
 		<index level1="Catholic Church" level2="birth control and"/>
 		<index level1="Catholic Church" level2="MS on"/>
 	</headNote>

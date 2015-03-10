@@ -9,7 +9,10 @@
 		<prepDate>2011/11/28 CH correct typos</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-03-30">30 Mar 1925</docDate>
 		<docTitle>
 			<titlePart>The Children's Era</titlePart>
@@ -19,7 +22,7 @@
 			<bibl><person reg="Sanger, Margaret">Margaret Sanger</person>, ed. <title type="book"
 					>Proceedings of the Sixth International Neo-Malthusian and Birth Control
 					Conference, Volume IV</title> New York, 1925, 53-58. </bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:283</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -33,10 +36,11 @@
 				reg="International Neo-Malthusian and Birth Control
             Conference, 6th"
 				>Sixth International Neo-Malthusian and Birth Control Conference</org>. Other
-			speakers appearing at the event were Norman Thomas, <person
-				reg="Drysdale, Charles Vickery">Charles Vickery Drysdale</person>, <person
-				reg="Jensen, Thit">Thit Jensen</person>, <person reg="Cooper, James F.">James F.
-				Cooper</person>, and <person reg="Hale, Ruth">Ruth Hale</person>. </p>
+			speakers appearing at the event were <person reg="Thomas, Norman">Norman
+			Thomas</person>, <person reg="Drysdale, Charles Vickery">Charles Vickery
+				Drysdale</person>, <person reg="Jensen, Thit">Thit Jensen</person>, <person
+				reg="Cooper, James F.">James F. Cooper</person>, and <person reg="Hale, Ruth">Ruth
+				Hale</person>. </p>
 		<index level1="International Neo-Malthusian and Birth Control Conference, Sixth "/>
 		<index level1="eugenics"/>
 		<index level1="child welfare" level2="and birth control"/>
@@ -46,7 +50,7 @@
 	<docBody>
 		<head>The Children's Era</head>
 		<byline>By Margaret Sanger</byline>
-		<p><person reg="Thomas, Norman">Mr. Chairman</person>, Ladies and Gentlemen:</p>
+		<p>Mr. Chairman, Ladies and Gentlemen:</p>
 		<p>My subject is "The Children's Era." "The Children's Era!" This makes me think of <person
 				reg="Key, Ellen">Ellen Key</person>'s book--<title type="book">The Century of the
 				Child</title>. Ellen Key hoped that this twentieth century was to be the century of
@@ -144,8 +148,8 @@
 			about its father--and its mother. Just think for a moment of this bureau where
 			prospective parents might apply for a baby. Think of the questions they would be asked
 			by the agent of the unborn or by the baby itself. </p>
-		<p>First: "<q who="BABY">Mr. Father, a baby is an expensive luxury. Can you really afford
-				one?</q>"</p>
+		<p>First: "Mr. Father, a baby is an expensive luxury. Can you really afford
+				one?"</p>
 		<p>"Have you paid for your last baby yet?"</p>
 		<p>"How many children have you already? Six? You must have your hands full. Can you take
 			care of so many?"</p>

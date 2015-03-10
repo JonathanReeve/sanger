@@ -6,7 +6,10 @@
 		<prepDate>05/09/2011 AW</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-01-00">Jan 1925</docDate>
 		<docTitle>
 			<titlePart>An Urgent Appeal in the Tresca Case</titlePart>
@@ -14,15 +17,16 @@
 		<idno>msp230111</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Jan. 1925, p. 4</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S71:14</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:14</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="ACLU">American Civil Liberties Union</name>
+			<name id="ACLU">American Civil Liberties Union</name><name id="ITA">Italian</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>The author of the petition that Sanger circulated in this article was
-			the <org>American Civil Liberties Union</org>.</p>
+	<headNote resp="MSPP">
+		<p>The author of the petition that Sanger circulated in this article was the <org>American
+				Civil Liberties Union</org>.</p>
 		<index level1="birth control" level2="propaganda and publicity"/>
 		<index level1="birth control" level2="suppression of"/>
 		<index level1="censorship"/>
@@ -30,7 +34,7 @@
 	<docBody>
 		<head>An Urgent Appeal in the Tresca Case</head>
 		<p>On November 23, 1923, <person reg="Tresca, Carlo">Carlo Tresca</person>, editor of <title
-				type="journal">Il Martello,</title> an Italian anti-Fascisti weekly, was convicted
+				type="journal"><foreign lang="ITA">Il Martello</foreign></title>, an Italian anti-Fascisti weekly, was convicted
 			of the crime of publishing in his paper a two-line advertisement of a book on Birth
 			Control. On November 10, 1924, the <org><place>United States</place> Circuit Court of
 				Appeals</org> affirmed his sentence of a year and a day in <org
@@ -73,7 +77,7 @@
 		<p>We earnestly appeal to all our readers to join in this protest to President Coolidge
 			against the punishment of an innocent man.</p>
 		<byline>
-			<person reg="Sanger, Margaret">MARGARET SANGER</person>
+			MARGARET SANGER
 		</byline>
 	</docBody>
 </doc>

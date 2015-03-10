@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-14 CH proof and edit</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-11-00">Nov 1925</docDate>
 		<docTitle>
 			<titlePart>Editorials</titlePart>
@@ -12,7 +15,7 @@
 		<idno>msp422033</idno>
 		<sourceDesc>
 			<bibl><title type="journal">The Birth Control Review</title>, Nov. 1925, pp.
-				307-08.</bibl>
+				307-08</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -21,8 +24,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This unsigned editorial was written during Sanger's tenure as editor of the <title
-				type="journal">Birth Control Review</title>, but it is not certain that she is the
-			author.</p>
+				type="journal">Birth Control Review</title>, and may have been written by her. </p>
 		<index level1="Marion, Kitty"/>
 		<index level1="Birth Control Review, The"/>
 		<index level1="birth control" level2="religion and"/>
@@ -34,7 +36,7 @@
 	</headNote>
 	<docBody>
 		<head>EDITORIALS</head>
-		<p>THE daily papers this month have given widespread publicity to the report of a committee
+		<p>The daily papers this month have given widespread publicity to the report of a committee
 			of the <org>Protestant Episcopal Church</org>, convening in <place reg="New Orleans, LA"
 				>New Orleans</place> which condemns the theory and practice of Birth Control as "<q
 				who="ECHB">hostile to the family</q>." The committee presenting this report was
@@ -57,18 +59,18 @@
 			participate in our battle for individual and racial regeneration. It is not necessary to
 			reiterate here the courageous words of <person reg="Inge, William Ralph">William Ralph
 				Inge,</person> the Very Reverend Dean of <org>St. Paul's Cathedral,</org>
-			<place reg="London, England">London.</place> Nor is it necessary to recall that
+			<place reg="London, England">London</place>. Nor is it necessary to recall that
 			ever-growing list of enlightened and brave members of the Episcopal clergy who have come
 			out without subterfuge or equivocation in defence of contraception.</p>
 		<p>Birth Control, as anyone who has taken the trouble to probe beneath the surface of the
 			marriage problem knows, is not inimical to the best interests of marital or family
-			relations. On the contrary Birth Control, as <person reg="Dawson, Bertram (Lord)">Lord
+			relations. On the contrary Birth Control, as <person reg="Dawson, Bertrand">Lord
 				Dawson of Penn</person> so vigorously pointed out to the Bishops of England in an
 			assemblage not unlike the recent convention at New Orleans, is one of the first
 			requisites to happy marriage. The consummation of marriage effected without fear and the
 			establishment of a creative, life-giving, joyful relationship between the husband and
 			wife-such are the foundations upon which permanent monogamy is established. Only thus
-			can the divorce "evil" be combatted and cured in any constructive fashion. And likewise
+			can the divorce "evil" be combated and cured in any constructive fashion. And likewise
 			only by Birth Control-the instrument which empowers parents to determine when and where
 			and under what conditions they shall bring children into this world-can permanent,
 			happy, healthy, wholesome family relations be established. These facts are so
@@ -77,7 +79,7 @@
 			of racial hygiene which have been overlooked by the high dignitaries of the Protestant
 			Episcopal Church, who are crying aloud against the marriage of mental defectives and for
 			stricter divorce laws.</p>
-		<p>THE position against Birth Control evidenced in the committee's report is obstructive. It
+		<p>The position against Birth Control evidenced in the committee's report is obstructive. It
 			stands in the path of progress--the progress of the splendid awakening within the ranks
 			of the Protestant clergy which may be observed on all sides. The younger men are coming
 			to see that in this great twentieth century task of human liberation and racial rebirth,
@@ -88,15 +90,15 @@
 			first of all, and last of all, it must learn to understand human nature. In
 			understanding, the Protestant Episcopal Church will no longer condemn it, but lead it
 			onward toward the City of <name type="deity">God</name>.</p>
-		<p>EDUCATION in contraceptive hygiene will, we believe, be gradually disseminated. It will
+		<p>Education in contraceptive hygiene will, we believe, be gradually disseminated. It will
 			spread so gradually, so quietly and withal so steadily that even those of us most
 			profoundly interested may never know the full extent of our influence. To aid in this
 			dissemination one of our main tasks must be to remove the most outstanding obstacles in
-			the path of this beneficient stream. For the first time we are extending our work this
+			the path of this beneficent stream. For the first time we are extending our work this
 			year to campaign for an amendment to the notoriously obstructive <name type="law"
 				reg="United States Criminal Code, Section 211">Section 211 of the Federal Penal
 				Code</name>. This is the ignominious law passed in 1878 under the influence of
-				<person reg="Comstock, Anthony">Anthony Comstock.</person> It has never been
+				<person reg="Comstock, Anthony">Anthony Comstock</person>. It has never been
 			amended. The most lamentable effect of Section 211 is that it hinders the free
 			circulation among reputable physicians and scientists of data and technical information
 			concerning the progress of contraceptive science abroad and at home. In
@@ -108,13 +110,13 @@
 			and improvements in the instrument of Birth Control are refused transmission by the
 			United States mails. Thus an obsolete law, enacted under the sinister regime of the
 			prurient Comstock, stands in the path of scientific and humane progress.</p>
-		<p>FRIENDS of Birth Control may extend real help toward the removal of thsi shameful Section
+		<p>Friends of Birth Control may extend real help toward the removal of thsi shameful Section
 			211 by writing vigorous protests against its injustice and recommending no less
 			vigorously the support of the proposed amendment to their Senators and Congressmen.
 			November is the month in which these letters should be written. Let us find out exactly
 			how those who have been elected to represent the men and women of the <place>United
 				States</place> stand in this matter.</p>
-		<p>COURAGE expresses itself in many ways. There is the exceptional spectacular act of
+		<p>Courage expresses itself in many ways. There is the exceptional spectacular act of
 			heroism which stands out like a bright light on a dark night against the background of
 			undistinguished conduct, or even, sometimes, of cowardice or pettiness. Such acts of
 			heroism shine by contrast. They bring publicity, praise and medals for valor. The
@@ -125,16 +127,16 @@
 			newspapers or appeals by its underlying melodrama to the writers of fiction is a type of
 			courage that seems to us peculiarly feminine in quality. Feminine, I mean, in its
 			modesty, its steadfastness, the day-in and day-out type of courage that seeks neither
-			publcity nor the cheap reward of gold medals or public recognition. This is a heroism
+			publicity nor the cheap reward of gold medals or public recognition. This is a heroism
 			totally devoid of hysterical enthusiasm, a heroism steady-footed and never marred by any
 			sign of depression or ignoble collapse.</p>
-		<p>THERE are thousands of women whose lives are the expression of this silent, inartciulate
+		<p>There are thousands of women whose lives are the expression of this silent, inartciulate
 			bravery, women who would not know what you were talking about if you praised their
 			indomitable courage. This type of courage, indomitable, invincible, elemental, is
-			incarnate in our own <person reg="Marion, Kitty">Kitty Marion.</person> For years, in
+			incarnate in our own <person reg="Marion, Kitty">Kitty Marion</person>. For years, in
 			point of fact ever since we have been publishing this <title type="journal"
 				>REVIEW</title>, she has sold it on the streets of <place reg="New York, NY">New
-				York.</place> Firmly planted and holding aloft our printed challenge of the
+				York</place>. Firmly planted and holding aloft our printed challenge of the
 			proximate liberation of suffering womankind.</p>
 		<p>Standing there immutable, untiring and sure of herself and her conviction in the endless
 			changing eddies and currents of human traffic in over-crowded thoroughfares, the object
@@ -145,7 +147,7 @@
 			subjected them.</p>
 		<p>Her absence has made us appreciate more sharply than ever before the significant and
 			finely poised heroism of Kitty Marion. For three summer months she has been away, her
-			vacation taking her to England wehre, in the militant suffrage movement she had served
+			vacation taking her to England where, in the militant suffrage movement she had served
 			so valuable an apprenticeship. But now the mothers passing in the hurried eddying tides
 			of Broadway traffic are again seeking her out. They are telling their neighbors and
 			friends of the reappearance of the brave indomitable torchbearer again at her various

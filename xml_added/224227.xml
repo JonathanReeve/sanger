@@ -5,15 +5,18 @@
 		<prepDate>2003/10/13 NS</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-02-00">Feb 1925</docDate>
 		<docTitle>
-			<titlePart> Radiant </titlePart>
+			<titlePart>Radiant</titlePart>
 		</docTitle>
 		<idno>msp224227</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Feb. 1925, pp. 35-36</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S71:17</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:17</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>

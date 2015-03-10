@@ -6,7 +6,10 @@
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2014-11-13 CH clean regs</prepDate>
 		<prepDate>2015-01-20 CH proofread tags and entered</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1925-04-00">
 			<supplied>Apr 1925</supplied>
 		</docDate>
@@ -16,7 +19,7 @@
 		<idno>msp300258</idno>
 		<sourceDesc>
 			<bibl>
-				<title>
+				<title type="journal">
 					<supplied resp="MSPP">Unidentified newspaper</supplied>
 				</title>
 			</bibl>
@@ -25,7 +28,8 @@
 		</sourceDesc>
 		<respStmt>
 			<resp>
-				<name reg="UNK">Unknown</name><name id="MALTH">Malthus, Thomas Robert</name>
+				<name reg="UNK">Unknown</name>
+				<name id="MALTH">Malthus, Thomas Robert</name>
 			</resp>
 		</respStmt>
 	</mepHeader>
@@ -37,18 +41,20 @@
 		<index level1="Malthusian League"/>
 	</headNote>
 	<docBody>
-		<head>The Sixth International Birth Control Conference</head>
-		<byline>by <person reg="Sanger, Margaret">Margaret Sanger</person>, <supplied resp="mspp"
-				>President</supplied>
+		<head>The <org reg="International Neo-Malthusian and Birth Control Conference, 6th">Sixth
+				International Birth Control Conference</org></head>
+		<byline>by Margaret Sanger, <supplied resp="mspp">President</supplied>
 			<org>American Birth Control <supplied resp="mspp">League</supplied></org>; first
 			President <org
 				reg="International Federation of Neo-Malthusian and Birth Control Leagues"
 				>International Birth Control League</org></byline>
 		<div type="section">
-			<q who="UNK"><p>Editorial Note--Throughout the world wherever birth control is advocated
-					or considered, Mrs. Sanger is known as the outstanding leader of the Birth
-					Control movement in America and as an indefatigable and fearless advocate in her
-					writings and lectures of conscious and willing motherhood.</p></q>
+			
+			<p><q who="UNK">Editorial Note--Throughout the world wherever birth control is advocated or
+					considered, Mrs. Sanger is known as the outstanding leader of the Birth Control
+					movement in America and as an indefatigable and fearless advocate in her
+					writings and lectures of conscious and willing motherhood.</q></p>
+			
 		</div>
 		<div type="section">
 			<p>No less than twelve nations of the Orient and Occident were represented at the
