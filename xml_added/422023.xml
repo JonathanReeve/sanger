@@ -4,7 +4,8 @@
 	<mepHeader>
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1926-06-00">June 1926</docDate>
 		<docTitle>
 			<titlePart>Editorial</titlePart>
@@ -15,7 +16,7 @@
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="DAVRA">Davidson, Randall, (Arch.)</name>
+			<name id="DAVRA">Davidson, Randall</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -30,7 +31,7 @@
 	</headNote>
 	<docBody>
 		<head>EDITORIAL</head>
-		<p>OUR co-workers in <place>England</place> in the cause of Birth Control are indeed to be
+		<p>Our co-workers in <place>England</place> in the cause of Birth Control are indeed to be
 			congratulated that on April 28th, the <org reg="United Kingdom House of Lords">House of
 				Lords</org> passed <person reg="Buckmaster, Stanley">Lord Buckmaster's</person>
 			motion, and voted for liberty for public health officers and clinic doctors to give
@@ -67,8 +68,8 @@
 			child or not, <person reg="Balfour, Arthur">Earl Balfour of Burleigh,</person>
 			<person reg="Sackville, Herbrand">Earl de la Warr</person> and <person
 				reg="Norton, Cecil">Lord Rathcreedan.</person></p>
-		<p>THE world is the poorer for the loss of <person reg="Key, Ellen">Ellen Key,</person> who
-			died on April 25th, at her home in <place>Sweden.</place> She was born in 1849, and the
+		<p>The world is the poorer for the loss of <person reg="Key, Ellen">Ellen Key,</person> who
+			died on April 25th, at her home in <place>Sweden</place>. She was born in 1849, and the
 			three quarters of a century, over which her life extended, saw greater changes in the
 			position, and especially in the outlook of women than any similar period since the world
 			began. And in this changed outlook Ellen Key had her part. Perhaps it would be a
@@ -85,14 +86,14 @@
 			that when all these lesser rights have been secured, women will find that the greatest
 			right of all is the right to their own special function-the right to responsible,
 			freely-chosen maternity.</p>
-		<p>THE great service rendered by Ellen Key was that she sounded a clarion cry-a cry that was
+		<p>The great service rendered by Ellen Key was that she sounded a clarion cry-a cry that was
 			harsh and discordant in the ears of many who heard it first, but a cry that woke up the
 			womanhood of the world and forced women everywhere to think and to revalue their
 			accepted ideas and traditions. When "<title type="book">The Century of the
 			Child</title>" appeared in 1909, it marked the beginning of a new era, an era which is
-			slow in being fully realized, for it required an unpheaval of the thoughts of men which
+			slow in being fully realized, for it required an upheaval of the thoughts of men which
 			cannot be accomplished in less than a generation. Towards its accomplishment there is no
-			movememnt which is doing more effectual work than ours for Birth Control. Ellen Key
+			movement which is doing more effectual work than ours for Birth Control. Ellen Key
 			herself never seemed fully conscious of the importance of Birth Control for the
 			accomplishment of her aim of true motherhood, but Birth Control is the necessary
 			corollary to her insistence on the right of every woman to choose motherhood. The
@@ -104,7 +105,7 @@
 			world, from the point of view of the child, was a failure. It remained for the women to
 			recreate it, and they must do this through the development of their own unique qualities
 			as mothers-through freely chosen, responsible motherhood.</p>
-		<p>A REMARKABLE object lesson in the relation of over-population to lower standards of
+		<p>A remarkable object lesson in the relation of over-population to lower standards of
 			civilization was presented to the world early in May when the great general strike broke
 			out in England. It will be recalled that the cause of the strike was the effort of the
 			mine-owners to reduce the wages and increase the hours of the miners. The miners
@@ -121,7 +122,7 @@
 			wisest statesman to find a way out of the difficulty which will not cause wide
 			suffering, and probably a very general lowering of the level of living for hundreds of
 			thousands of English men, women and children.</p>
-		<p>WHAT is clearly discernible on a large scale for nations and industries is also equally
+		<p>What is clearly discernible on a large scale for nations and industries is also equally
 			true for families. <person reg="Sauer, Carl O.">Dr. C. O. Sauer,</person> head of the
 			Geography Department of the <org>University of California,</org> recently declared that
 			a lower standard of living would help to solve the problem of finding food and shelter

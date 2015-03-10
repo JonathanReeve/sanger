@@ -4,7 +4,8 @@
 	<mepHeader>
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1926-11-00">Nov 1926</docDate>
 		<docTitle>
 			<titlePart>Spreading Birth Control: A Woman's Activity</titlePart>
@@ -31,7 +32,7 @@
 	<docBody>
 		<head>Spreading Birth Control: A Woman's Activity</head>
 		<div type="section">
-			<p>FOR the third time the <org>American Birth Control League</org> has had its booth at
+			<p>For the third time the <org>American Birth Control League</org> has had its booth at
 				the <org reg="Women's Arts and Industries Exposition">Woman's Activities
 					Exhibit</org> in <place reg="New York, NY">New York,</place> which was held this
 				year in the ballroom of the <org>Hotel Astor</org> September 27th-October 1st.
@@ -45,10 +46,10 @@
 			<p>Of those who stopped, some were critics, others friends and still others people who
 				wanted to know what Birth Control was or who wanted to have their doubts laid to
 				rest by learning what it was not. With the latter <person reg="Cartere, Mrs.">Mrs.
-					Cartere</person> and <person reg="Vandever, Martha R.">Mrs. Vandever,</person>
+					Cartere</person> and <person reg="Vandever, Martha R.">Mrs. Vandever</person>,
 				who, with a changing group of helpers, had charge of the booth throughout the
 				exhibit, were especially successful. After a talk with them it was a common thing to
-				hear a vistor say <q who="UNK">"I did not know that was what Birth Control meant.
+				hear a visitor say <q who="UNK">"I did not know that was what Birth Control meant.
 					That is very different. I certainly am for it."</q> Visitors who came to enquire
 				were of all classes.</p>
 			<p>Among those who were most eager to learn all there was to know about Birth Control
@@ -57,12 +58,12 @@
 				health or pocketbook could properly support. A special effort was made to reach
 				these and the effort was amply repaid by the close attention with which they
 				listened and the look of relief and hope with which they accepted a card to the <org
-					reg="Birth Control Clinical Research Bureau">Clinical Research
+					reg="Clinical Research Bureau">Clinical Research
 				Department.</org></p>
 			<p>The <org>Continuation School</org> girls who came through in groups-girls forced
 				through poverty to work so young that they must carry a certain amount of school
 				work while employed-were also fertile soil.</p>
-			<p>AMONG our critics were some Roman Catholics, but Roman Catholics were among our
+			<p>Among our critics were some Roman Catholics, but Roman Catholics were among our
 				friends and supporters also. This was even more noticeable than at last year's
 				exhibit, women stated they belonged to this <org reg="Roman Catholic Church"
 					>church</org> came up, some in groups and some singly, to express appreciation
