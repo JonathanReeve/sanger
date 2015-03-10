@@ -2,7 +2,9 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 	<mepHeader>
-		<prepDate>2015-01-08 CH transcribe and encode</prepDate><prepDate>2015-01-21 CH proof tags and enter</prepDate>
+		<prepDate>2015-01-08 CH transcribe and encode</prepDate>
+		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -33,13 +35,13 @@
 	<docBody>
 		<head>Margaret Sanger's Own Corner</head>
 		<div type="section">
-			<p rend="italics"><q who="BCR"/>Under this heading, month by month, Margaret Sanger will
+			<p rend="italics"><q who="BCR">Under this heading, month by month, Margaret Sanger will
 				reply to some of the hundreds of questions that come to her. Sometimes one reply
 				will answer many people, for the problems presented are often the same, though sent
 				from far distant States and cities. Sometimes one person may voice a question that
 				is in the minds of hundreds of other people, who perhaps have found no way of
 				uttering it. If you have such a question in mind address it to 'Margaret Sanger's
-				Own Corner' Birth Control Review.</p>
+				Own Corner' Birth Control Review.</q></p>
 		</div>
 		<div type="section">
 			<p>STRANGER AND WIFE-- Your letter received. I sympathize with you in your difficult
@@ -53,9 +55,9 @@
 				babies.</p>
 		</div>
 		<div type="section">
-			<p><place reg="Chicago, IL">CHICAGO</place> CLINIC-- The operation of clinics is a matter of State law, and is not
-				affected by the fact that the Federal law prohibits the sending of Birth Control
-				information through the mails.</p>
+			<p><place reg="Chicago, IL">CHICAGO</place> CLINIC-- The operation of clinics is a
+				matter of State law, and is not affected by the fact that the Federal law prohibits
+				the sending of Birth Control information through the mails.</p>
 		</div>
 	</docBody>
 </doc>

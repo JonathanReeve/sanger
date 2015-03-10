@@ -5,10 +5,9 @@
 		<prepDate>2014/12/05 SC encode</prepDate>
 		<prepDate>2014-12-19 CH proof tags</prepDate>
 		<prepDate>2015-01-22 CH enter tag corrections</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<docAuthor>
-			<person>
-				<person reg="Sanger, Margaret">Margaret Sanger</person>
-			</person>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1924-01-10">10 Jan 1924</docDate>
 		<docTitle>
@@ -21,8 +20,8 @@
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
 			<bibl>
-				<title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
-				S70:1060 </bibl>
+				<title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> 
+				S70:1060</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -43,7 +42,7 @@
 
 		<p>I wonder how many of you here tonight realize just how much <unclear resp="MSPP"
 				>significant</unclear> this gathering is <del>means</del>. How many of you realize
-			that this meetingof intelligent representative citize4ns brought together by an interest
+			that this meeting of intelligent representative citize4ns brought together by an interest
 			in birth <del>means</del>
 			<add>control</add> represent the year of struggle and effort. Ten years! </p>
 		<p> Ten years of battling against ignorance and prejudice. A ten year fight for the right to
@@ -59,7 +58,7 @@
 		<p>Many of us realize that birth control is the key to their birth.</p>
 		<p>Mark Twain said: "<q who="TWAMA">everybody talks about the weather but no one ever seems
 				to do anything about it</q>"-</p>
-		<p>Well- The american B.C League is doing something about these problems.</p>
+		<p>Well- The <org reg="American Birth Control League">American B.C League</org> is doing something about these problems.</p>
 		<p>We believe that words, theories, sentiment, sympathy are all very well in but we have got
 			to have intelligent thinking put into intelligent action.</p>
 		<p>If the programs for birth control is to grow, to expand, if it is even to hold the ground
@@ -71,8 +70,8 @@
 				Inge</person>, <person reg="Shaw, Bernard">Bernard Shaw</person>, <person
 				reg="Keynes, John Maynard">John Maynard Keynes</person>, <person
 				reg="Dawson, Bertand">Lord Dawson</person> the Kings physician, leave a private
-			conviction publically expressed. </p>
-		<p>These men have the courage to express their private convictions, publically.</p>
+			conviction publicly expressed. </p>
+		<p>These men have the courage to express their private convictions, publicly.</p>
 		<p>Nor have they lost in the estimation of the British public by doing so-</p>
 		<p>The ABCL is calling for the cooperation of the medical <supplied resp="MSPP"
 				>professionals</supplied> for scientific research, for investigative and unbiased

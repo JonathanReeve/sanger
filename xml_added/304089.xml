@@ -5,19 +5,23 @@
 		<prepDate>2003/08/04 SR</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1924-00-00">1924</docDate>
 		<docTitle>
 			<titlePart>Autobiographical Sketch</titlePart>
 		</docTitle>
 		<idno>msp304089</idno>
 		<sourceDesc>
-			<bibl><title type="book">Public Opinion on Women</title>, 1924, 150-153.</bibl>
+			<bibl><title type="book">Public Opinion on Women</title> (1924), pp. 150-153</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:233</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
+			<name id="HIGMI">Higgins, Michael Hennessey</name>
 			<name id="UNK">Unknown</name>
 		</respStmt>
 	</mepHeader>
@@ -27,7 +31,7 @@
 	</headNote>
 	<docBody>
 		<head>AUTOBIOGRAPHICAL SKETCH</head>
-		<byline>Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>Mrs. Margaret Sanger</byline>
 		<div>
 			<head type="sub">I.</head>
 			<p>I had for my <person reg="Higgins, Michael">father</person> not only a great man, but
@@ -43,13 +47,13 @@
 				children that what they must first attain was a dream or a vision and then make
 				their life work a struggle to make that dream come true. He also taught me in
 				earliest childhood days that no one can achieve happiness alone, that my happiness
-				depended upon my food, my clothing, my shelter, and therfore I was dependent for
+				depended upon my food, my clothing, my shelter, and therefore I was dependent for
 				happiness upon those who provided these necessities for me. I was in duty bound to
 				consider what I in turn could do to alleviate and assist those millions of men and
 				women who were providing for my comforts and physical necessities and to bring
 				happiness to their lives. This philosophy was my earliest teaching and some one who
-				knew my family in those days said that we were "<q who="UNK">rocked in the cradle of
-					liberty and nursed at the breast of the goddess of wisdom</q>."</p>
+				knew my family in those days said that we were "<q who="HIGMI">rocked in the cradle
+					of liberty and nursed at the breast of the goddess of wisdom</q>."</p>
 		</div>
 		<div>
 			<head type="sub">II.</head>

@@ -5,6 +5,7 @@
 		<prepDate>2015-02-13 JC encoding</prepDate>
 		<prepDate>2015-02-12 CH proof tags</prepDate>
 		<prepDate>2012-02-23 JC corrections made</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,7 +16,6 @@
 		<idno>msp421010</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Jun 1924, p. 181</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -35,8 +35,6 @@
 	</headNote>
 	<docBody>
 		<head>MARGARET SANGER'S OWN CORNER</head>
-
-
 		<p>
 			<q who="BCR"><emph rend="italics">A Correspondent writes</emph> "Do you think it is
 				wrong to bring myself around when I am not yet three months overtime?</q>

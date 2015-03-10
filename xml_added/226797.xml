@@ -6,15 +6,18 @@
 		<prepDate>8/06/2003 CH Proofed Tags</prepDate>
 		<prepDate>05/09/2012 AW Corrected Tags</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1924-12-00">Dec 1924</docDate>
 		<docTitle>
 			<titlePart>Editorial</titlePart>
 		</docTitle>
 		<idno>msp226797</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, Dec. 1924, 339-40.</bibl>
-			<bibl><title>Margaret Sanger Microfilm</title> S70:1056</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, Dec. 1924, pp. 339-40</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:1056</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,7 +29,6 @@
 		<index level1="England" level2="birth control in"/>
 		<index level1="England" level2="clinics in"/>
 		<index level1="birth control" level2="support for"/>
-		
 	</headNote>
 	<docBody>
 		<head>Editorial</head>
@@ -86,7 +88,7 @@
 			the home of Mr. and Mrs. <person reg="Robbins, Amy Catherine">
 				<person reg="Wells, H. G.">H. G. Wells</person></person> in Whitehall Court. Among
 			the guests were <person reg="Shaw, George Bernard">George Bernard Shaw</person> and Mrs.
-				<person reg="Payne-Townshend, Charlotte">Shaw</person>, the eminent Lord <person
+				<person reg="Shaw, Charlotte Payne-Townsend">Shaw</person>, the eminent Lord <person
 				reg="Buckmaster, Stanley Owen">Buckmaster</person>, one of the most brilliant
 			jurists of Great Britain; Sir <person reg="Arbuthnot-Lane, William">Arbuthnot
 				Lane</person> and Lady <person reg="Briscoe, Charlotte Jane">Lane</person>; the
@@ -95,8 +97,8 @@
 				MacBride</person>; the eminent novelist, <person reg="Bennett, Arnold">Arnold
 				Bennett</person>; the dramatist and critic, St. <person reg="Ervine, John">John
 				Ervine</person> and Mrs. <person reg="Ervine, Leonora Mary (Davis)">Ervine</person>;
-			that rising figure of contemporary Irish literature, Mr. <person reg="Donavan, Robert"
-				>Robert Donavan</person> and Mrs. <person>Donavan</person>, and Mr. <person
+			that rising figure of contemporary Irish literature, Mr. <person reg="Donovan, Robert"
+				>Robert Donavan</person> and Mrs. <person reg="Donovan, Mrs.">Donavan</person>, and Mr. <person
 				reg="Salter, W. R.">W. R. Salter</person> of the <org>League of Nations</org>.</p>
 		<p>To know that the fundamental importance of Birth Control as an instrument of human and
 			social emancipation is recognized by such brilliant minds, as well as by the
@@ -106,7 +108,7 @@
 			their slumber and are ready to go into battle with real problems of American
 			society.</p>
 		<byline>
-			<person reg="Sanger, Margaret">MARGARET SANGER</person>
+			MARGARET SANGER
 		</byline>
 	</docBody>
 </doc>

@@ -6,15 +6,18 @@
 		<prepDate>05/09/2012 AW</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1924-10-00">Oct 1924</docDate>
 		<docTitle>
 			<titlePart>The Passing of a Hero</titlePart>
 		</docTitle>
 		<idno>msp238685</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, Oct. 1924, pp. 288-89.</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>,
+			<bibl><title type="journal">Birth Control Review</title>, Oct. 1924, pp. 288-89</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>,
 				S70:1052</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -31,7 +34,7 @@
 	</headNote>
 	<docBody>
 		<head>The Passing of a Hero</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>By Margaret Sanger</byline>
 		<p>From its stormy beginning, now something more than one hundred years ago, that struggle
 			for human freedom and the battle to liberate woman from the cruel slavery of enforced
 			motherhood which today is known as the Birth Control movement, has produced a long list
@@ -79,7 +82,7 @@
 			mothers, it was Dr. Rutgers' great achievement to organize the clinics, to educate
 			nurses and midwives in this delicate work and to effect the establishment of clinics in
 			the lesser cities and towns of the Netherlands.</p>
-		<p>In the face of unforseen and almost insurmountable obstacles Dr. Rutgers carried on this
+		<p>In the face of unforeseen and almost insurmountable obstacles Dr. Rutgers carried on this
 			great work to the point when the benefits of the clinics could be scientifically
 			computed and practically demonstrated, to the point, in short, when the work, organized
 			by the pioneer in this field, was officially recognized by the Dutch government as a
@@ -97,7 +100,7 @@
 			unflinching idealism of Dr. Rutgers, it is too early to say. His is an influence the
 			benefits of which cannot be determined in a single generation nor in two. When we point
 			to Holland as an outstanding example of what can be accomplished and what has been
-			attained in the quality of breeding as opposed to the blind and inidiscriminate
+			attained in the quality of breeding as opposed to the blind and indiscriminate
 			reproduction of mere numbers, we should not forget that this practical national
 			demonstration of our conviction is the outcome of the tireless patience and
 			indefatigable idealism of a single man-–Dr. J. Rutgers.</p>

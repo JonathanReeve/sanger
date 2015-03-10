@@ -5,8 +5,11 @@
 		<prepDate>2003/07/30 SR</prepDate>
 		<prepDate>2014-04-17 EK clean regs</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1924-04-00">Apr 1924</docDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1924-02-29">Apr 1924</docDate>
 		<docTitle>
 			<titlePart type="article">The Meaning of Radio Birth Control</titlePart>
 		</docTitle>
@@ -37,7 +40,7 @@
 	</headNote>
 	<docBody>
 		<head>The Meaning of Radio Birth Control</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>By Margaret Sanger</byline>
 		<p>Every step forward in our history, from those remote days when our prehistoric ancestors
 			first discovered fire, tilled the soil, and domesticated the animals, has been gained
 			through control over some force of NATURE. One by one these great wild powers, each one

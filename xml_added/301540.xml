@@ -4,14 +4,18 @@
 	<mepHeader>
 		<prepDate>2003/07/30 SR</prepDate>
 		<prepDate>21014-04-16 EK clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1924-02-23">23 Feb 1924</docDate>
 		<docTitle>
 			<titlePart type="article">The Case for Birth Control</titlePart>
 		</docTitle>
 		<idno>msp301540</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Citizen</title>, Feb. 23, 1924, 17, 28.</bibl>
+			<bibl><title type="journal">The Woman Citizen</title>, Feb. 23, 1924, pp. 17 and
+				28</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents</title>
 				C16:212</bibl>
 		</sourceDesc>
@@ -21,8 +25,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This article was reprinted by the <org>American Birth Control League</org> in 1925 <title
-				type="book">Margaret Sanger Microfilm: Collected Documents</title>, C16:273.)</p>
+		<p>For a reprint of this article made by the American Birth Control League in
+			1925, see <title type="book">Margaret Sanger Microfilm: Collected Documents</title>,
+			C16:273.</p>
 		<index level1="abortion"/>
 		<index level1="American Birth Control League"/>
 		<index level1="birth control" level2="and marriage"/>
@@ -41,7 +46,7 @@
 	</headNote>
 	<docBody>
 		<head>The Case for Birth Control</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>By Margaret Sanger</byline>
 		<p>Everywhere we look, we see poverty and large families going hand in hand. We see hordes
 			of children whose parents cannot feed, clothe or educate even one-half of the number
 			born to them. We see sick, harassed, broken mothers whose health and nerves cannot bear
