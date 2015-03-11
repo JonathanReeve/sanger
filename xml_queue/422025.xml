@@ -4,8 +4,9 @@
 	<mepHeader>
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1928-02-00"> Feb. 1928</docDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1928-02-00">Feb 1928</docDate>
 		<docTitle>
 			<titlePart>Editorial</titlePart>
 		</docTitle>
@@ -30,8 +31,8 @@
 	</headNote>
 	<docBody>
 		<head>EDITORIAL</head>
-		<p>NEWSPAPERS and periodicals have been full of reviews of the various happenings of 1927.
-			But no review of the past year is completel which does not take note of the tremendous
+		<p>Newspapers and periodicals have been full of reviews of the various happenings of 1927.
+			But no review of the past year is complete which does not take note of the tremendous
 			growth of the movement towards Birth Control. After a long struggle, at the beginning of
 			which the advocates of Birth Control were voices crying in the wilderness and finding
 			few to listen, Birth Control seems now to be taking the place in the minds of men to
@@ -40,12 +41,12 @@
 			is that writers on social questions questions now do not seem to think it necessary to
 			argue the question. They simply take Birth Control for granted, as part of the basis on
 			which any better social structure must be built. Such is the attitude of <person
-				reg="Smith, Thomas Vernor">Thomas Vernor Smith,</person> in <title type="book">"The
-				Democratic Way of Life"</title> and of <person reg="Huntington, Ellsworth"
+				reg="Smith, Thomas Vernor">Thomas Vernor Smith,</person> in "<title type="book">The
+				Democratic Way of Life</title>" and of <person reg="Huntington, Ellsworth"
 				>Huntington</person> and <person reg="Whitney, Leon Fradley">Whitney</person> in
-				<title type="book">"The Builders of America."</title>
+				"<title type="book">The Builders of America</title>."
 			<person reg="Ross, Edward Alsworth">Professor E. A. Ross</person> makes a more definite
-			appeal for Birth Control in <title type="book">"Standing Room Only",</title> but one
+			appeal for Birth Control in "<title type="book">Standing Room Only</title>," but one
 			could cite book after book, among those recently published, where Birth Control is
 			accepted as essential, rather than advocated as a reform. Many magazines and periodicals
 			have opened their pages to articles and letters giving the pros and cons on Birth
@@ -53,7 +54,7 @@
 			must be recorded the great English debate held by the <org reg="Cambridge Union Society"
 				>Cambridge Union</org> when Birth Control, after a magnificent forensic display, was
 			approved by a vote of 512 to 315.</p>
-		<p>MORE significant than lay opinion, is it that in 1927 there was a distinct awakening in
+		<p>More significant than lay opinion, is it that in 1927 there was a distinct awakening in
 			the medical profession to the importance of Birth Control. The profession is being urged
 			by some of the more far-sighted of its own members to "<q who="UNK">stop driving the
 				subject of Birth Control to propaganda organizations, and try ourselves to regulate
@@ -68,7 +69,7 @@
 				reasons, or because of excessive child-bearing poverty."</q> It also recommended the
 			giving of such information by medical practitioners and at hospitals. The time seems to
 			be speedily coming when the medical profession, forgetting its long reluctance, will
-			unhesitatingly claim contraception as a ncessary part of medical practice. They will not
+			unhesitatingly claim contraception as a necessary part of medical practice. They will not
 			be allowed the whole field without protests from the Economists, who were out in favor
 			of Birth Control while the doctors, in general, were still hesitant. It is worth noting
 			in this review of progress in 1927 that Birth Control and its Relation to the Food
@@ -78,7 +79,7 @@
 				reg="Chicago, IL">Chicago,</place> and supervised by the Committee of which <person
 				reg="Laughlin, James Lawrence">J. Lawrence Laughlin</person> of the <org>University
 				of Chicago</org> is chairman.</p>
-		<p>THE recent <org reg="National Conference on Race Betterment, 3rd">Race Betterment
+		<p>The recent <org reg="National Conference on Race Betterment, 3rd">Race Betterment
 				Conference,</org> held at <place reg="Battle Creek, MI">Battle Creek,
 				Michigan,</place> January 2-6, is an example of the universal acceptance of Birth
 			Control. We have no story of the Conference to publish in the <title type="journal"
@@ -95,7 +96,7 @@
 			learned by heart.<q who="AES">"Every second,"</q> said the lights, "<q who="AES">crime
 				costs America $100,000, every 15 seconds $100,000 go for the care of persons with
 				bad heredity, such as insane, feeble-minded, and other defectives. Every 16 seconds
-				a person is born in the <place>United States,</place> every 7 1/2 minutes a
+				a person is born in the <place>United States</place>, every 7 1/2 minutes a
 				high-grade person is born in the United States who will have ability to do creative
 				work and be fit for leadership. About 4 percent of all American citizens come within
 				this class. Every 48 seconds a person is born who will never grow up mentally beyond

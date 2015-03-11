@@ -8,8 +8,9 @@
 		<prepDate>2012/03/03 CH clean up</prepDate>
 		<prepDate>2014-04-02 CH clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1927-00-00 ">
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1927-00-00">
 			<supplied resp="MSPP">1927</supplied>
 		</docDate>
 		<docTitle>
@@ -18,14 +19,14 @@
 					Fragment</supplied>
 			</titlePart>
 		</docTitle>
-		<idno>msp 236506</idno>
+		<idno>msp236506</idno>
 		<sourceDesc>
-			<bibl> Margaret Sanger Papers, Sophia Smth Collection. </bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections </title>
+			<bibl> Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S71:137</bibl>
 		</sourceDesc>
 	</mepHeader>
-	<headNote resp="MSPP">
+	<headNote resp="MSPP"><p>No additional information on this speech found.</p>
 		<index level1="women" level2="freedom and rights of"/>
 	</headNote>
 	<docBody>
@@ -33,16 +34,18 @@
 		<p> The 19th century saw the beginning of a vast change in conditions of <add>family</add>
 			life. There are four causes which stand out preeminently as basic factors in this vital
 			change.</p>
-		<p>1st The Industrial Revolution which destroyed the old fashioned rough but simple life of
-			rural industry under the domestic roof. </p>
-		<p> 2nd Womens entry into commercial &amp; Industrial life caused a tremendous upheaval in
-			the <add>our</add> social structure. The effects of which we are still feeling
-			today.</p>
-		<p>3rd This naturally led to Womans independence &amp; higher Education life with its many
-			&amp; various ramifacations.</p>
-		<p>3 Womans higher education &amp; independence.</p>
-		<p>4 lastly but not less important is the <del>growing</del><add>increasing</add> knowledge
-			of birth control around which so much controversy is waged.</p>
+		<list>
+			<item>1st The Industrial Revolution which destroyed the old fashioned rough but simple
+				life of rural industry under the domestic roof. </item>
+			<item> 2nd Women's entry into commercial &amp; Industrial life caused a tremendous
+				upheaval in the <add>our</add> social structure. The effects of which we are still
+				feeling today.</item>
+			<item>3rd This naturally led to Woman's independence &amp; higher Education life with
+				its many &amp; various ramifications.</item>
+			<item> Woman's higher education &amp; independence.</item>
+			<item>4 lastly but not less important is the <del>growing</del><add>increasing</add>
+				knowledge of birth control around which so much controversy is waged.</item>
+		</list>
 		<p>There is perhaps no subject which has so large a practical significance, which at the
 			same time cuts so deeply into the foundations of Social evolution as bc.</p>
 		<p>No other subject left so long in social obscurity &amp; now which can show so unequaled a
@@ -51,7 +54,7 @@
 		<p>4. Lastly but of no less significance is the increasing knowledge of birth control around
 			which so much controversy is waged the future, progress development of the family
 				<unclear resp="MSPP"><del>savings</del></unclear> evolve.</p>
-		<p>THere is perhaps no subject which has so <gap extent="rest of document" reason="missing"
+		<p>There is perhaps no subject which has so <gap extent="rest of document" reason="missing"
 			/></p>
 	</docBody>
 </doc>

@@ -7,17 +7,18 @@
 		<prepDate>2011/06/21 CE Corrections</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1928-07-00">Jul 1928</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied> Book Review of HAVELOCK ELLIS: PHILOSOPHER OF LOVE. </supplied>
+				<supplied resp="MSPP">Book Review of HAVELOCK ELLIS: PHILOSOPHER OF LOVE</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp238642</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, July 1928, pp. 210-11</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>,
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S71:0142</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -34,9 +35,7 @@
 	<docBody>
 		<head>Havelock Ellis.</head>
 		<byline>
-			<ital>By</ital>
-			<person reg="Sanger, Margaret">MARGARET SANGER</person>
-		</byline>
+			<ital>By</ital> MARGARET SANGER </byline>
 		<div type="section">
 			<p>In that “open letter to biographers” which he dashed off upon the completion of his
 					<title type="book">Study of British Genius</title>, <person
@@ -56,7 +55,7 @@
 				and early manhood of his subject are far more important to our fuller understanding
 				of this life-giving spirit than, say, the final five chapters, which, in our humble
 				opinion, seem to rely too completely upon quotations from the works of Ellis
-				himself- quotations significant in themselves, but revealing nothing new to any of
+				himself--quotations significant in themselves, but revealing nothing new to any of
 				us who have drunk deep at the spring of wisdom which Havelock Ellis has liberated to
 				irrigate the arid wastes of our Anglo-Saxon world.</p>
 			<p>But before proffering even these tentative criticisms of Mr. Peterson’s significant
@@ -64,7 +63,7 @@
 				he has documented himself, and for the keen incisive scholarship which has gone into
 				the creation of this book. Instead of carping on its limitations, let us rejoice in
 				the painstaking preparation, the indefatigable research, and the skilful
-				reconstruction fo a life, fascinating and unique in every phase, which this volume
+				reconstruction of a life, fascinating and unique in every phase, which this volume
 				reveals to us.</p>
 			<p>The heredity, the birth, the development of the boy and his early blossoming into a
 				grave maturity, are all recounted with a distinct narrative gift, and practically
@@ -103,10 +102,10 @@
 				Ellis as one of the outstanding heroes of western civilization. Having done this,
 				and having thanked Mr. Peterson for his generous recognition fo ourselves and the
 					<title type="journal">BIRTH CONTROL REVIEW</title> as a source of certain
-				materials, we may turn to a consideration fo certain phases of this biography which
+				materials, we may turn to a consideration of certain phases of this biography which
 				please us less than the specific chapters we have noted.</p>
 			<p>Our criticism is not directed specifically toward this book; it is to all biographers
-				which seek to portray a living man. Evidently in the preparation fo such an
+				which seek to portray a living man. Evidently in the preparation of such an
 				interpretation as the present, the biographer finds himself brought into much closer
 				personal contact with his subject than when, in the first flush of enthusiasm, his
 				decision to undertake a biography comes upon him. As he prepares his literary

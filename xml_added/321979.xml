@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published article">
+<doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/04/11 VS initial tagging</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1928-09-14">14 Sept 1928</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on Maternal Mortality</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Maternal Mortality</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp321979</idno>
 		<sourceDesc>
 			<bibl><title type="article">New York Woman Hopes to Curb Mortality Among
 				Mothers</title>, <title type="journal">Portsmouth Herald</title>, Sept. 14, 1928, p.
-				9 </bibl>
+				9</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,24 +31,25 @@
 	</headNote>
 	<docBody>
 		<head>NEW YORK WOMAN HOPES TO CURB MORTALITY AMONG MOTHERS</head>
-		<q who="PH">
-			<p><dateline><place reg="New York, NY">New York</place>.--</dateline> An intensive study
-				of methods of reducing the morality among mothers as a result of childbirth will be
-				undertaken by Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>, founder
-				and president of the <org>American Birth Control League</org> and one of the
-				foremost advocates of scientifically applied birth control in the world. Maternal
-				mortality is greater in <place reg="United States">this country</place>, Mrs. Sanger
-				said, than any other country in the civilized world, except <place>Chile</place>.
-			</p>
-		</q>
+
+		<dateline><place reg="New York, NY">New York</place>.--</dateline>
+		<p><q who="PH">An intensive study of methods of reducing the morality among mothers as a
+				result of childbirth will be undertaken by Mrs. Margaret Sanger, founder and
+				president of the <org>American Birth Control League</org> and one of the foremost
+				advocates of scientifically applied birth control in the world. Maternal mortality
+				is greater in <place reg="United States">this country</place>, Mrs. Sanger said,
+				than any other country in the civilized world, except <place>Chile</place>.</q></p>
+
 		<p> “Statistics on the subject of maternal mortality are of doubtful values,” <q who="PH"
 				>Mrs. Sanger declared in a statement given out last night,</q> “but the record shows
 			that in 1925, 647 mothers died of every 100,000 live births.” </p>
-		<q who="PH">
-			<p> She charged that work to lower the death rate of mothers in childbirth had been
-				ineffective in the last ten years and advocated proper birth control as the solution
-				of the problem. </p>
-		</q>
+
+		<p>
+			<q who="PH">She charged that work to lower the death rate of mothers in childbirth had
+				been ineffective in the last ten years and advocated proper birth control as the
+				solution of the problem.</q>
+		</p>
+
 		<p> “In 1926,” <q who="PH">said Mrs. Sanger,</q> “656 mothers in every 100,000 gave their
 			lives. Since there has been no decline in these figures, which include only about 76
 			percent of the total population of the United States. </p>

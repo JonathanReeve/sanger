@@ -5,7 +5,8 @@
 		<prepDate>2011/05/23 CE</prepDate>
 		<prepDate>2011/06/21 CE Corrections</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1928-09-28">28 Sept 1928</docDate>
 		<docTitle>
 			<titlePart>Minute Interviews with Noted Women</titlePart>
@@ -13,14 +14,16 @@
 		<idno>msp140848</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Unknown newspaper</title>, Sept. 28, 1928</bibl>
-			<bibl>Library of Congress Microfilm, 57:189A.</bibl>
+			<bibl>Library of Congress Microfilm 57:189A.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>The clipping was found in a scrapbook with no newspaper identified. It may have been published in San Francisco.</p>
+	<headNote resp="MSPP">
+		<p>This clipping was found in a scrapbook with no newspaper identified. It may have been
+			published in <place reg="San Francisco, CA">San Francisco</place>.</p>
 		<index level1="birth control"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
@@ -41,8 +44,7 @@
 			<ital>By <org reg="Newspaper Enterprise Associates">NEA</org> Service</ital>
 		</byline>
 		<p>Healthier mothers, better-cared-for children, and happier marriages are benefits that
-			would accrue from a universal knowledge of birth control, according to Dr. <person
-				reg="Sanger, Margaret">Margaret Sanger</person>.</p>
+			would accrue from a universal knowledge of birth control, according to Dr. Margaret Sanger.</p>
 		<p>“The idea of birth control coming to the poverty-stricken mother is the most important
 			factor in her overworked life. When her babies come too close together in the years of
 			her young motherhood, she is not able to get her full strength.</p>

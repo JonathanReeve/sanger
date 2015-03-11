@@ -5,19 +5,16 @@
 		<prepDate>2011/05/06 CH Initials</prepDate>
 		<prepDate>2014-03-18 clean regs and errors</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1927-05-02">2 May 1927</docDate>
 		<docTitle>
-			<titlePart>
-				Foreword to Sex Problems in
-					India
-			</titlePart>
+			<titlePart>Foreword to Sex Problems in India</titlePart>
 		</docTitle>
 		<idno>msp321952</idno>
 		<sourceDesc>
 			<bibl>N. S. Phadke, <title type="book">Sex Problems in India</title> (<place
 					reg="Bombay, India">Bombay</place>, 1929), v-vii</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -49,31 +46,30 @@
 		<p>In the western countries where the effort to solve such problems by legislative methods
 			has practically failed, we have had to resort to a large expenditure to keep alive those
 			very types whose multiplication causes dysgenic conditions. Our hospitals, as well as
-			institutiions for the feeble-minded and insane, are overcrowded. The cost of maintaining
+			institutions for the feeble-minded and insane, are overcrowded. The cost of maintaining
 			these institutions casts a tremendous burden upon the normal person. This lessens the
-			ability of the healthy normal classes to rear larger families, with the conseqence that
+			ability of the healthy normal classes to rear larger families, with the consequence that
 			the birth rate is of so differential a character it constitutes a problem and in some
 			countries it has become an alarming factor. The future of western civilization is
 			threatened by this stupendous error.</p>
 		<p>This is only one angle of the social side of birth control. There is another which is
 			also treated by the author in a masterly fashion: that of the individual woman. He asks
-			that marriage shall be based on love and affection. That it shall be consumated only
+			that marriage shall be based on love and affection. That it shall be consummated only
 			after maturity. That children shall be born to parents only when there is that
 			development of the body and mind which modern students of psychology claim is necessary
 			for the parents as well as essential to the well-being of the child born.</p>
 		<p>A country cannot keep pace in the world today when its population is bowed down by large
 			families, misery and poverty.</p>
 		<p>A nation ignoring the researches advanced by modern science, relentlessly holding to
-			customs outworn and proven inadequare, cannot claim equal recognition with those
+			customs outworn and proven inadequate, cannot claim equal recognition with those
 			countries which have left behind them outworn dogma and mediaeval superstitions.</p>
 		<p>The <title type="book">Sex Problems in India</title> are doubtless much the same
-			fundamentally as the problems of other countries. But in the occident an effort is being
-			made to solve such problems fearlessly and honestly.</p>
+			fundamentally as the problems of other countries. But in the <place>occident</place> an
+			effort is being made to solve such problems fearlessly and honestly.</p>
 		<p>Prof. Phadke has undertaken this task for <place>India</place>. I heartily recommend his
 			book to those who are seeking guidance along these lines.</p>
 		<closer><dateline><place reg="Geneva, Switzerland">GENEVA</place>, <date value="1927-05-02"
-					>2nd May, 1927</date>.</dateline>
-			<person reg="Sanger, Margaret">MARGARET SANGER</person>.</closer>
+					>2nd May, 1927</date>.</dateline> MARGARET SANGER.</closer>
 
 	</docBody>
 </doc>

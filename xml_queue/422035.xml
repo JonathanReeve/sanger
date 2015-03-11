@@ -4,26 +4,29 @@
 	<mepHeader>
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1923-04-08">08 Apr. 1923</docDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1923-04-08">08 Apr 1923</docDate>
 		<docTitle>
-			<titlePart>Interview with the New York World</titlePart>
+			<titlePart><supplied resp="MSPP">Interview with the New York
+				World</supplied></titlePart>
 		</docTitle>
 		<idno>msp422035</idno>
 		<sourceDesc>
 			<bibl><title type="article">Mrs. Sanger's Birth Control War Carried Around the
-					Globe</title>, <title type="journal">New York World</title>, Apr. 8,
-				1923.</bibl>
+					Globe</title>, <title type="journal">New York World</title>, Apr. 8, 1923</bibl>
 			<bibl>
-				<title>Margaret Sanger Microfilm, Collected Documents</title> C16:196</bibl>
+				<title type="mf">Margaret Sanger Microfilm, Collected Documents</title>
+				C16:196</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="NYW">New York World</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger gave this interview in the office of the American Birth Control
-		League in New York City. <index level1="birth control clinics and leagues" level2="in US"/>
+	<headNote resp="MSPP"><p>Sanger gave this interview in the office of the American Birth Control
+			League in New York City.</p>
+		<index level1="birth control clinics and leagues" level2="in US"/>
 		<index level1="Brownsville Clinic"/>
 		<index level1="children" level2="rights of"/>
 		<index level1="birth control" level2="distribution of information about"/>
@@ -93,13 +96,13 @@
 			<p>"I found out that I could not reach the poor women who were crying to me for Birth
 				Control information, until the whole current of public opinion had been
 				changed."</p>
-			<q who="NYW">
-				<p>Since then, says Margaret Sanger, all her efforts have been to awaken public
-					opinion, not only at home but in <place>Europe</place> and in the <place
+
+			<p><q who="NYW">Since then, says Margaret Sanger, all her efforts have been to awaken
+					public opinion, not only at home but in <place>Europe</place> and in the <place
 						reg="Asia">Orient</place> as well, to the benefits and the morality of Birth
 					Control. The first step in this gigantic task has been to educate the educators,
-					to mobilize the moulders of public opinion.</p>
-			</q>
+					to mobilize the moulders of public opinion.</q></p>
+
 			<p>"We have discovered that there were four steps to our goal: agitation, education,
 				organization and legislation. In view of the enormity of the work confronting us, a
 				small band of earnest and disinterested women, our progress has been rapid. Whatever
@@ -108,24 +111,24 @@
 			<p>"Great and discouraging as the obstacles have been, we have succeeded in enlisting
 				the whole-hearted support of the finest intellects of the English-speaking world.
 				With such eminent English thinkers as <person reg="Wells, H. G.">H. G.
-					Wells,</person> and <person reg="Ellis, Havelock">Havelock Ellis,</person>
+					Wells,</person> and <person reg="Ellis, Havelock">Havelock Ellis, </person>
 				<person reg="Inge, William Ralph">Dean Inge</person> of <org>St. Paul's
 					Cathedral,</org> London, <person reg="Dawson, Bertrand">Lord Dawson,</person>
 				the <person reg="George V (England)">King</person>'s physician; <person
 					reg="Keynes, John Maynard">John Maynard Keynes,</person> the distinguished
-				economist, and <person reg="Russell, Bertrand">Bertrand Russell,</person> throwing
+				economist, and <person reg="Russell, Bertrand">Bertrand Russell</person>, throwing
 				the weight of their authority into our cause, enlightened public opinion in
 					<place>Great Britain</place> is with us. England leads the world in hospitality
 				and fairness to new ideas. I say this despite the fact that an early pamphlet of
-				mine has been ordered burnt by a London Police Magistrate.</p>
+				mine has been ordered burnt by a <org>London Police</org> Magistrate.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Suppression a Boomerang.</head>
 			<p>"Such efforts at suppression are, however, boomerangs; they are invaluable to our
 				cause as propaganda. Instead of suppressing, they arouse widespread interest and
 				support."</p>
-			<q who="NYW">
-				<p>It was a study of the Birth Control clinics of <place reg="Netherlands"
+
+			<p><q who="NYW">It was a study of the Birth Control clinics of <place reg="Netherlands"
 						>Holland,</place> which have been functioning for many years, that convinced
 					Margaret Sanger that personal, hygienic instruction should be given by
 					physicians to women applying for Birth Control information instead of attempting
@@ -133,10 +136,10 @@
 					the State laws concerning contraceptives. Mrs. Sanger discovered that even duly
 					registered physicians were forbidden by law to offer contraceptive advice, even
 					parents with inheritable diseases were refused such advice in hospitals and
-					public dispensaries.</p>
-				<p>Asked if it was her intention to open clinics if the law were changed, Mrs.
-					Sanger replied in the affirmative.</p>
-			</q>
+					public dispensaries.</q></p>
+			<p><q who="NYW">Asked if it was her intention to open clinics if the law were changed,
+					Mrs. Sanger replied in the affirmative.</q></p>
+
 			<p>"It may be wrong to speak of these as clinics. We would like to establish free and
 				friendly bureaus where the overburdened mothers of the poorer classes might come for
 				advice and sympathy. Licensed physicians alone would be permitted to take charge of
@@ -154,15 +157,15 @@
 				fine race on this great Continent of ours unless we look into the future. We must
 				think not only of our own children but the children and the grandchildren of our
 				boys and girls.</p>
-			<p>"As long as we willfully, as a Nation, waste the most precious resources we have-our
-				child life-let us hold our tongues about the dangers of Birth Control. The advocates
-				of Birth Control place a higher value on the life of a child than do its opponents.
-				We want every child born in this country to bring with it the heritage of health and
-				a fine vitality. There is the true wealth of our country.</p>
+			<p>"As long as we willfully, as a Nation, waste the most precious resources we have--our
+				child life--let us hold our tongues about the dangers of Birth Control. The
+				advocates of Birth Control place a higher value on the life of a child than do its
+				opponents. We want every child born in this country to bring with it the heritage of
+				health and a fine vitality. There is the true wealth of our country.</p>
 		</div>
 		<div type="section">
 			<head type="sub">For Thoroughbreds.</head>
-			<p>"Let us breed a race of thorough-breds! You cannot measure the greatness of a country
+			<p>"Let us breed a race of thoroughbreds! You cannot measure the greatness of a country
 				by its industrial resources, in dollars and cents, or financial power. You can
 				measure it only in the fine types of manhood and womanhood you produce, in the
 				beauty and happiness of your children, in the talent and genius of poets,
@@ -170,11 +173,11 @@
 			<p>"Let us Americans give up that lamentable habit of counting our greatness only by the
 				dollar sign, only in the number of billions of dollars, or millions of inhabitants
 				we have."</p>
-			<q who="NYW">
-				<p>The objection was made by the interviewer that perhaps the classes most in need
-					of Birth Control could not be taught to exercise it, due to mental defect,
-					irresponsibility or recklessness.</p>
-			</q>
+
+			<p><q who="NYW">The objection was made by the interviewer that perhaps the classes most
+					in need of Birth Control could not be taught to exercise it, due to mental
+					defect, irresponsibility or recklessness.</q></p>
+
 			<p>"Until we have responded to the piteous appeals of thousands upon thousands of
 				normal, intelligent wives who already realize their responsibility and their duty
 				toward their children born and unborn," replied Margaret Sanger, "such an objection

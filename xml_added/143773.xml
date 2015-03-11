@@ -5,7 +5,8 @@
 		<prepDate>2007-07-16 CH-research questions pending</prepDate>
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1927-00-00">1927</docDate>
 		<docTitle>
 			<titlePart>
@@ -16,7 +17,7 @@
 		<idno>msp143773</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger, ed. <title type="book">Proceedings of the World Population
-					Conference</title> (London, 1927).</bibl>
+					Conference</title> (London, 1927)</bibl>
 			<bibl>Library of Congress Microfilm 130:725A</bibl>
 		</sourceDesc>
 	</mepHeader>
@@ -25,15 +26,16 @@
 	</headNote>
 	<docBody>
 		<head>PREFACE.</head>
-		<byline>by MRS. <person reg="Sanger, Margaret">MARGARET SANGER</person></byline>
+		<byline>by MRS. MARGARET SANGER</byline>
 		<p>The problems of population have been looming upon the horizon of international thought
 			for the past ten years, and with the advance of scientific application to social
 			problems it was only natural that some of us should turn to the scientists with the
 			possible hope that from them might be gleaned the solution.</p>
-		<p>It was with this idea in mind that the <org>World Population Conference</org> was
-			initiated and organized. It was the first time that biologists had been invited to
-			participate with sociologists in the solution of economic problems and, as has been
-			seen, the biological principle played a very large part in the discussions.</p>
+		<p>It was with this idea in mind that the <org reg="World Population Conference, 1927">World
+				Population Conference</org> was initiated and organized. It was the first time that
+			biologists had been invited to participate with sociologists in the solution of economic
+			problems and, as has been seen, the biological principle played a very large part in the
+			discussions.</p>
 		<p>The result of this gathering was the recognition of the need and desire for further
 			study, and a permanent <org
 				reg="International Union for the Scientific Study of Population Problems">Union for
@@ -56,7 +58,7 @@
 		<p>I wish to make special mention of Professor <person reg="Huxley, Julian">Julian
 				Huxley</person>, whose cooperation and active participation from the outset has been
 			one of the determining factors in the success of the Conference. He, together with
-			Professor <person reg="Carr-Saunders, Alexander">Carr-Saunders</person> and Dr. <person
+			Professor <person reg="Carr-Saunders, Alexander M.">Carr-Saunders</person> and Dr. <person
 				reg="Crew, Francis Albert Eley">Crew</person>, has given valuable assistance and
 			advice in the editing and completion of these Proceedings.</p>
 		<p>My warmest thanks are given also to Mrs. <person reg="Hodson, Cora">Cora Hodson</person>,

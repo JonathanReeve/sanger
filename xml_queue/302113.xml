@@ -6,48 +6,98 @@
 		<prepDate>2009/07/30 LL</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<prepDate>2015-01-23 CH combine this with two other
+		<prepDate>2015-01-28 CH combine this with two other
 			draft/excerpts.</prepDate>
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret
+			Sanger</person></docAuthor>
 		<docDate value="1928-03-15">15 Mar 1928</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Address on Return from Europe </supplied>
+				<supplied resp="MSPP">Address on Return from Europe
+					(Compiled)</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp302113</idno>
 		<sourceDesc>
 			<bibl><title type="article">Support for Birth Control</title>,
-					<title type="journal">Birth Control Review</title> Apr.
-				1928, p. 107-8; <title>Margaret Sanger Microfilm, Collected
-					Documents Series</title> or C16:288;</bibl>
-			<bibl>Engineer's Auditorium Speech, Library of Congress Microfilm
-				130:725B; and </bibl>
-			<bibl>Engineer's Auditorium Speech Opening notes, <title type="mf"
-					>Margaret Sanger Microfilm, Smith College
-					Collections</title> S71:122.</bibl>
+					<title type="journal">Birth Control Review</title>, Apr.
+				1928, pp. 107-8</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected
+					Documents Series</title> C16:288;</bibl>
+			<bibl><title type="article">Engineer's Auditorium Speech Opening
+					notes</title>, <title type="mf">Margaret Sanger Microfilm,
+					Smith College Collections</title> S71:122.</bibl>
+			<bibl><title type="article">Engineer's Auditorium Speech</title>,
+				Library of Congress Microfilm 130:725B</bibl>
 		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BCR">Birth Control Review</name>
+		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>On returning from an extended trip in <place>Europe</place>, Sanger
-			spoke at a joint meeting of women's groups in New York's
-				<org>Engineer's Auditorium</org> to protest the failure of a
-			state birth control bill to be reported out of Committee. No
-			complete version of the speech exists, this text has been compiled
-			from an excerpt from a summary of the event, partial speech notes,
-			and draft notes for opening.</p>
+			spoke at a mass meeting organized by the American Birth Control
+				League at <place reg="New York, NY">New York</place>'s
+				<org>Engineer's Auditorium</org>. The League joined with the
+				<org>Junior League</org>, <org>New York League of Women
+				Voters</org>, <org>Woman's City Club</org>, <org>Society for
+				Political Study</org>, the <org>Hopewell Society of
+				Brooklyn</org>, and the <org>Grand Street Settlement</org> to
+			protest the failure of the New York Birth Control Bill to be
+			reported out of Committee. The other speakers at the meeting
+			included Eleanor Dwight Jones, Dr. <person reg="Wile, Ira S.">Ira S.
+				Wile</person>, and Rev. <person reg="Reiland, Karl">Karl
+				Reiland</person>. No complete version of Sanger's speech exists;
+			the text below was compiled from three sources: an excerpt from a
+			summary of the event published in the <title type="journal">Birth
+				Control Review</title>, partial typed speech notes, and
+			handwritten draft notes.</p>
 		<index level1="population" level2="birth control and"/>
 		<index level1="eugenics" level2="birth control and"/>
+		<index level1="immigration" level2="U.S. policy"/>
+		<index level1="population growth" level2="regulation of"/>
+		<index level1="American Birth Control League"/>
+		<index level1="Europe" level2="overpopulation and"/>
+		<index level1="Europe" level2="travel in"/>
+		<index level1="overpopulation"/>
 	</headNote>
 	<docBody>
+		<head>
+			<supplied resp="MSPP">Excerpt from "<title type="article">Support
+					for Birth Control"</title></supplied>
+		</head>
 		<div type="section">
-			<head>
-				<supplied resp="MSPP">From opening draft</supplied>
-			</head>
-<head type="sub">A Warm Welcome</head>
-			<p>Mrs. Sanger, the last speaker, whose appearance after her long absence was </p>
+			<p><q who="BCR">Mrs. Sanger, the last speaker, whose appearance
+					after her long absence was greeted with great enthusiasm by
+					the audience which filled every seat in the large hall, took
+					occasion to thank the Board of Directors of the
+						<org>American Birth Control League</org>, and especially
+					the acting president, <person reg="Jones, Eleanor Dwight"
+						>Mrs. F. Robertson Jones</person>, for their faithful
+					work and practical accomplishments both in finances and
+					increase of membership during her absence. In her address
+					she summarized the progress of Birth Control in
+						<place>England</place> and <place>Germany</place> and
+					sketched the international situation in its bearings on
+					America and the other countries now throwing up barriers
+					against immigration. She asked </q>"if certain classes are
+				undesirable as immigrants from the outside why is not the same
+				logic used by the <place>United States</place> to prevent them
+				from being added to the population on the inside?"</p>
+			<p>"This morning's press" <q who="BCR"> she continued,</q> "gave an
+				estimate that the population of this country is now 120
+				millions. In the glory of increasing population, we must
+				recognize that numbers are not the only thing to consider.
+				Individuals are not mere statistical units who are born, marry
+				and die, and, while these functions cannot be entirely ignored,
+				there is a value depending on the quality of the material with
+				which they are endowed through inheritance. This is of
+				infinitely greater importance to society and to the progress of
+				the race than mere numbers.</p>
+		</div>
+		<div type="section">
 			<head type="sub">Mrs. Sanger on Population</head>
 			<p>Science is now bordering on the infinite and the most powerful
 				brain seems feeble in the face of tasks which are glimpsed. If
@@ -92,78 +142,80 @@
 				be peacefully restored.</p>
 		</div>
 		<div type="section">
-			<p>
-				<supplied>Notes for the Introduction</supplied>
-			</p>
+			<head type="sub">
+				<supplied resp="MSPP">From Engineer's Auditorium Speech Opening notes</supplied>
+			</head>
 			<p>To receive so warm a welcome on one's return, makes me glad to go
 				away, so as to want the pleasure of coming back.</p>
 			<p>The ABCL. during the past two years has faced a test
-					<add>of</add> which any organization can be proud -- to
-				exist, to function, to carry on in the prolonged absence of its
-				Pres. The League, I am happy to say, has met this Emergency
-				bravely, cheerfully, and to its credit &amp; my delight has
-				averted the usual annual financial crisis</p>
+					<add>of</add> which any organization can be proud--to exist,
+				to function, to carry on in the prolonged absence of its Pres.
+				The League, I am happy to say, has met this Emergency bravely,
+				cheerfully, and to its credit &amp; my delight has averted the
+				usual annual financial crisis</p>
 			<p>I find the various departments strengthened through effort. New
 				ties have been formed; New friendships gained; <unclear
 					resp="MSPP">bring</unclear>
 				<del>and</del>a new vitality &amp; sturdiness which ensures a
 					<add>almost</add>certain victorious future.</p>
 			<p>For this we are indebted to the loyalty &amp; devotion of our
-				Board of Directors and also to the hard work &amp;capables
+				Board of Directors and also to the hard work &amp; capable
 				direction &amp; management of our Presiding officer Miss R.J
 				--</p>
 			<p>To Europe to get <unclear resp="MSPP">rust</unclear> out of
 				brain</p>
-			<p>Internationalist -- Feminist <add>humanist</add>
+			<p>Internationalist--Feminist <add>humanist</add>
 			</p>
 			<p>Ailments of Europe laid at the door of USA</p>
-			<p>Women have the vote but -- not equality --</p>
-			<p>Like to see emblazened in letters of gold over the doors of every
-				legislature in this country -- She notes words of <person
+			<p>Women have the vote but--not equality --</p>
+			<p>Like to see emblazoned in letters of gold over the doors of every
+				legislature in this country-- She notes words of <person
 					reg="Mill, John Stuart">J.S. Mill</person>. The triumph of
 				Science, once the forces of nature, can never become the means
-				of improving and Elevating Mankind until -- in addition to just
+				of improving and Elevating Mankind until--in addition to just
 				institutions, the increase of Population shall be judiciously
 				controlled"</p>
-			<p><place reg="England, UK"> England</place>s acheivement -- home of
-				BC last ten years</p>
+			<p> Englands achievement--home of BC last ten years</p>
 			<p>
-				<person reg="Besant, Annie">Besant</person> + <person
+				<person reg="Besant, Annie">Besant</person> &amp; <person
 					reg="Bradlaugh, Charles">B.</person> trial 1878 theories
-				advanced small groups idealists to educate -- not the masses --
-				educated -- </p>
-			<p>Successful-- differential birth rate -- upper classes --
-				aritisans but birth rate down to 16 per 1000 death rate
-					<supplied resp="MSPP">correspondingly</supplied> Mal League
-				closed its doors in victory 50 years agitation. quality-- now
-				the watchword </p>
-			<p>22 B.C. Clinics -- private companies</p>
-			<p>Infant-- maternity welfare centers govt support over 1000 </p>
+				advanced small groups idealists to educate--not the
+				masses--educated-- </p>
+			<p>Successful--differential birth rate--upper classes--aritisans but
+				birth rate down to 16 per 1000 death rate <supplied resp="MSPP"
+					>correspondingly</supplied>
+				<org reg="Malthusian League">Mal League</org> closed its doors
+				in victory 50 years agitation. quality--now the watchword </p>
+			<p>22 B.C. Clinics--private companies</p>
+			<p>Infant--maternity welfare centers govt support over 1000 </p>
 			<p>Here reach B.C. population health &amp; Economic needs</p>
-			<p>Govt approval --</p>
+			<p>Govt approval--</p>
 			<p><person reg="Buckmaster, Stanley">Lord Buckmaster</person>
 				resolution House of Lords--</p>
-			<p>Commons turned it down -- try again. <place>Australia</place>,
+			<p>Commons turned it down--try again. <place>Australia</place>,
 					<place>Canada</place>, first govt in world to endorse
 				BC--</p>
 			<p><place>France</place> looks to the past instead of future. 2
-				million 50 yrs. Germany 28, Italy 16, -- birth rate higher than
-				England. survivial lower -- ignored hygeine &amp; prophylaxis --
-				driving up births <unclear resp="MSPP">enormously</unclear>--
-				less attention to deaths. <place>Poland </place>-- 70,000 in one
-				year 1926 -- Russians -- Greeks --</p>
-			<p><place>Germany</place> -- no laws -- Drs problems -- devil &amp;
-				deep sea</p>
-			<p>Marriage advice Bureaus, 98% govt support -- <unclear resp="MSPP"
+				million 50 yrs. Germany 28, <place>Italy</place> 16,--birth rate
+				higher than England. survivial lower--ignored hygiene &amp;
+				prophylaxis--driving up births <unclear resp="MSPP"
+					>enormously</unclear>-- less attention to deaths.
+					<place>Poland </place>--70,000 in one year
+				1926--Russians--Greeks --</p>
+			<p><place>Germany</place>--no laws--Drs problems--devil &amp; deep
+				sea</p>
+			<p>Marriage advice Bureaus, 98% govt support--<unclear resp="MSPP"
 					>panic</unclear> extinction</p>
-			<p>Dr. Rieses solution Ins. Co. kissed her hands -- tears</p>
-			<p>Dr Grotjans claim -- I've had my three, now to <unclear
-					resp="MSPP">buy them up</unclear></p>
+			<p><person reg="Riese, Hertha">Dr. Rieses</person> solution Ins. Co.
+				kissed her hands -- tears</p>
+			<p><person reg="Grotjahn, Alfred">Dr Grotjans</person> claim--I've
+				had my three, now to <unclear resp="MSPP">buy them
+				up</unclear></p>
 		</div>
 		<div type="section">
-			<p>
-				<supplied resp="MSPP"/>
-			</p>
+			<head>
+				<supplied resp="MSPP">From Partial Typed Speech</supplied>
+			</head>
 			<p> It has long been hoped by some of us that a sound international
 				population program might be advanced. We have seen that manuala
 				broader bird’s eye view of the problem was necessary if it was
@@ -179,12 +231,11 @@
 				line--was bound to propose measures according to the limits of
 				his inquiries; consequently, formidable errors were bound to
 				arise when it came to practical issues.</p>
-			<p>It was with this in mind that I went to <place>Europe</place> for
-				the objects of bringing together scientists from various
-				countries of different departments to correlate their views,
-				experiments and programs, and to establish, if possible, a
-				permanent organization for further studies and research along
-				population lies.</p>
+			<p>It was with this in mind that I went to Europe for the objects of
+				bringing together scientists from various countries of different
+				departments to correlate their views, experiments and programs,
+				and to establish, if possible, a permanent organization for
+				further studies and research along population lies.</p>
 			<p>This <org
 					reg="International Union for the Scientific Study of Population Problems"
 					>Population Union</org> has now been launched and it is
@@ -199,17 +250,15 @@
 				country that governments are at a loss to know how to deal with
 				the problems arising therefrom; that Europe is today faced with
 				a problem of having more men than bread, and this problem has
-				become acute, because of the attitude of the <place
-					reg="United States">United States</place>,
-					<place>Australia</place> and <place>Canada</place> in their
-				recent immigration legislation.</p>
+				become acute, because of the attitude of the United States,
+				Australia and Canada in their recent immigration
+				legislation.</p>
 			<p>It is now recognized that each country needs its own available
 				food supply. Each country is guarding its own labor market,
 				fearing unrest, unemployment and revolution. Soon every nation
 				will reserve its potential resources for its own people, and
 				already most of the European countries have overdrawn on their
-				margin of self-sufficiency. <place>Germany</place>,
-					<place>Italy</place>, <place>Poland</place> and all the
+				margin of self-sufficiency. Germany, Italy, Poland and all the
 				central European countries should be encouraged to limit their
 				population to their natural resources, but they are all dreaming
 				of colonization, for colonization over seas was the solution of
@@ -283,4 +332,9 @@
 				their family continues to grow--nevertheless do nothing to
 				prevent it. She now has had to adopt a negative, selective quota
 				where she might have in the past adopted a positive, selective
-				quota, and this country would today have been in a pos
+				quota, and this country would today have been in a position to
+				deal intelligently with some of the intricate problems that she
+				is today unable to face. </p>
+		</div>
+	</docBody>
+</doc>

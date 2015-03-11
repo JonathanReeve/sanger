@@ -5,15 +5,18 @@
 		<prepDate>2009/08/03 LL</prepDate>
 		<prepDate>2014-03-10 CH cleaning regs</prepDate>
 		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1928-00-00"><supplied resp="MSPP">1928</supplied></docDate>
+		<docDate value="1928-00-00">
+			<supplied resp="MSPP">1928</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart>Politics Makes Strange Bedfellows</titlePart>
+			<titlePart><supplied resp="MSPP">Politics Makes Strange Bedfellows</supplied></titlePart>
 		</docTitle>
 		<idno>msp143775</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl><title type="mf">Library of Congress Microfilm</title>, 130:0729B</bibl>
+			<bibl>Library of Congress Microfilm 130:0729B</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="BIB">Bible</name>
