@@ -9,9 +9,7 @@
         <prepDate>2014-11-10 CH cleanup regs</prepDate>
         <prepDate>2015-02-26 EK update index</prepDate>
         <prepDate>2015-03-11 EK correct index</prepDate>
-        <prep
-        <prepDate
-            <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</docAuthor>
+  <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
         <docDate value="1911-11-05">05 Nov 1911</docDate>
         <docTitle>
             <titlePart>How Six Little Children Were Taught the Truth, Part II</titlePart>
