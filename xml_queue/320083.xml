@@ -8,14 +8,14 @@
         <prepDate>2014-11-10 CH cleanup</prepDate>
         <prepDate>2015-03-03 EK update index</prepDate>
         <prepDate>2015-03-11 EK correct indexes</prepDate>
-        <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+         <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
         <docDate value="1911-11-12">12 Nov 1911</docDate>
         <docTitle>
             <titlePart>How Six Little Children Were Taught the Truth, Part III</titlePart>
         </docTitle>
         <idno>msp320083</idno>
         <sourceDesc>
-            <bibl><title type="journal">New York Call</title>, November 12, 1911</bibl>
+            <bibl><title type="journal">New York Call</title>, Nov. 12, 1911</bibl>
         </sourceDesc>
     </mepHeader>
     <headNote>
