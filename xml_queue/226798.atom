@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed article">
+	<mepHeader>
+		<prepDate>2002-08-05 KH</prepDate>
+		<prepDate>2002-08-5 KH</prepDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1929-03">Mar 1929</docDate>
+		<docTitle>
+			<titlePart>Genius: Will Birth Control Diminish It?</titlePart>
+		</docTitle>
+		<idno>msp226798</idno>
+		<sourceDesc>
+			<bibl><title type="journal">Eugenics</title>, Mar. 1929</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:156</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<sourceNote/>
+	<headNote><index level1="eugenics"/><index level1="mentally disabled"/></headNote>
+	<docBody>
+		<head>Will Birth control Diminish It?</head>
+		<byline>MARGARET SANGER</byline>
+		<p>To say that birth control runs the risk of excluding from life geniuses as well as
+			defectives is to imply that chance is a better guide than intelligence. The total number
+			of geniuses in the whole of human history is much less than one thousand. The total
+			number of defectives could never be computed. The damage they have done to civilization
+			cannot be counterbalanced by the benefits we have derived from genius. The garden of
+			humanity has been choked by the destructive forces of uncontrolled and misdirected
+			procreation. Small wonder that the potentialities hidden in the human species have so
+			seldom flowered in genius. Father <person reg="McClorey, John A.">McClorey</person> may
+			think it better to abandon the garden to the weeds, naively confident that geniuses will
+			make their appearances regardless of heredity and environment. But no student of
+			genetics, no one who has even superficially observed the achievements of scientific
+			horticulture and animal breeding, can consider seriously that the road to human
+			perfection can ever be attained by abandoning scientific control and reverting to a
+			childish reliance upon the blind fores of uncontrolled procreative instincts.</p>
+		<p>Little as we still know about genius, or about men and women of exceptional talents, we
+			do know that they do not come into this world with hereditary backgrounds of imbecility,
+			or feeble-mindedness.</p>
+		<p>The seed of genius is hidden deep in the race. It is the most sacred duty of every parent
+			and parent-to-be to recognize that he is the guardian of this seed, that
+			he is, so to speak, the ancestor of a future genius.</p>
+	</docBody>
+</doc>

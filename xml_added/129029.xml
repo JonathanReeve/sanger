@@ -6,24 +6,28 @@
 		<prepDate>2011/10/18 EK </prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-01-23 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1929-00-00">
 			<supplied resp="MSPP">1929</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart>Motherhood Enslaved in Italy</titlePart>
+			<titlePart><supplied resp="MSPP">Motherhood Enslaved in Italy</supplied></titlePart>
 		</docTitle>
 		<idno>msp129029</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 130:0166.</bibl>
+			<bibl>Library of Congress Microfilm 130:166</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="FRE">French</name>
 			<name id="CARMA">Carli, Mario</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No published version was found.</p>
+	<headNote resp="MSPP">
+		<p>No published version was found.</p>
 		<index level1="Mussolini, Benito" level2="policy of"/>
 		<index level1="women" level2="enslavement of"/>
 		<index level1="motherhood" level2="conscripted"/>
@@ -35,10 +39,10 @@
 	</headNote>
 	<docBody>
 		<byline>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
+			Margaret Sanger
 		</byline>
-		<p><add>Either title may be used</add> Motherhood Enslaved in Italy or "Mussolini's Insult
-			to Womankind"</p>
+		<head><add>Either title may be used</add> Motherhood Enslaved in Italy or "Mussolini's Insult
+			to Womankind"</head>
 		<p>The conscription of motherhood appears to be the inevitable next step in the Fascist
 			policy of <person reg="Mussolini, Benito">Mussolini</person>. Benito’s Napoleonic
 			complex and <emph rend="underline"><foreign lang="FRE">folie de grandeur</foreign>
@@ -54,11 +58,11 @@
 				Fascist principles. Flight in the face of maternity-–that divine maternity which
 				together with some brief physical suffering, gives the loftiest and deepest joys of
 				life (sic!)-–is as culpable as the desertion of soldiers in the face of the enemy,
-				as the attempt of the taxpayer to escape the payment of taxes.....</q>” Furthermore:
+				as the attempt of the taxpayer to escape the payment of taxes. . . . </q>” Furthermore:
 				“<q who="CARMA">Voluntary barrenness and reducing cures to rid her miserable body of
 				superfluous fat are the greatest crimes a woman can commit under the Fascist
 				regime.</q>”</p>
-		<p>This tyrannical threat is scracely veiled. It indicates the extent to which the impudent
+		<p>This tyrannical threat is scarcely veiled. It indicates the extent to which the impudent
 			dictatorship of Mussolini has gone in <place>Italy</place>. Indifferent or easy-going
 			people in this country may retort that this idea is not to be taken seriously. We wish
 			that such were the case. But history of the world demonstrates that conscription of
@@ -89,7 +93,7 @@
 		<p>Seemingly remote as we may be from the scene of Benito Mussolini’s strutting theatricals,
 			all of us are thus involved in this last insult cast in the face of Occidental
 			civilization. While the material prosperity of Italy continues-–a prosperity dependent
-			to no slight extent upon the millions of dollars annualy expended in Italy by American
+			to no slight extent upon the millions of dollars annually expended in Italy by American
 			travellers and visitors-–the Fascist regime will continue to take credit for the
 			country’s good fortune.</p>
 		<p>The insult to Italian womanhood uttered by Mario Carli is an insult to all womankind.
