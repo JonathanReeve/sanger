@@ -4,7 +4,6 @@
 	<mepHeader>
 		<prepDate>2014-04-02 JK initial tag</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-03-11 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -16,8 +15,8 @@
 		<idno>msp421933</idno>
 		<sourceDesc>
 			<bibl><title type="article">"Birth Control Advocate is on Way to
-					Chicago: Will Explain Doctrine,"</title> <title
-					type="journal">The Day Book</title>, Apr. 1, 1916, p.
+					Chicago: Will Explain Doctrine"</title>, <title
+					type="journal">The Day Book</title> Apr. 1, 1916, p.
 				8</bibl>
 
 		</sourceDesc>
@@ -26,19 +25,23 @@
 			<name id="TDB">The Day Book</name>
 		</respStmt>
 	</mepHeader>
-	<headNote>
-		<index level1="Sanger, Margaret" level2="tours” level3=”1919 (U.S.)"/>
-		<index level1="Woman Rebel The" level2="legal case"/>
-		<index level1="birth control clinics and leagues" level2="establishment of"/>
-		<index level1="birth control laws and legislation" level2="state"/>
-		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
-		<index level1="birth control" level2="propaganda and publicity"/>
-		</headNote>
+	<headNote resp="MSPP"><p>Sanger gave this statement in <place
+				reg="New York, NY">New York</place>, before traveling to <place
+				reg="Chicago, IL">Chicago</place>.</p>
+		<index level1="birth control" level2="in Chicago"/>
+		<index level1="birth control" level2="access to"/>
+		<index level1="birth control movement" level2="international"/>
+		<index level1="birth control movement"/>
+		<index level1="birth control laws and legislation" level2="New York "/>
+		<index level1="birth control clinics and leagues"/></headNote>
 	<docBody>
-		<head>BIRTH CONTROL ADVOCATE IS ON WAY TO CHICAGO--WILL EXPLAIN
+		<head>BIRTH CONTROL ADVOCATE IS ON WAY TO CHICAGO-WILL EXPLAIN
 			DOCTRINE</head>
-		<dateline><date value="1916-04-01"/>April 1, New York</dateline>
-		<p><q who="TDB">Freed of the charge, in Uncle Sam’s federal indictment,
+
+		<dateline>
+			<date value="1916-04-01"/>April 1, New York</dateline>
+		<p>
+			<q who="TDB">Freed of the charge, in Uncle Sam’s federal indictment,
 				that she sent vile and obscene matter through the mails in her
 				birth control propaganda magazine, “<title type="journal">The
 					Woman Rebel</title>,” Mrs. Sanger left here today to visit
@@ -68,28 +71,29 @@
 		<p>
 			<q who="TDB"> Mrs. Sanger said before she departed today that no
 				legislative power in the world can keep the women of America
-				from learning and practicing birth control.</q>
+				from learning and practicing birth control. </q>
 		</p>
 		<p>“Because,” <q who="TDB">she added,</q> “it is the logical and
-			sensible and humane thing to do, law or no law."</p>
+			sensible and humane thing to do, law or no law.</p>
 		<p> “No woman should be compelled to bring a baby into the world unless
 			she is physically fitted to properly endow the child with a good
 			brain and body; and unless she is blessed with the resources to rear
 			and educate the child and give it a fair chance to make its way in
-			the world."</p>
+			the world.</p>
 		<p> “That is what birth control knowledge is for; to show women under
-			what conditions it is best for them to bear children."</p>
+			what conditions it is best for them to bear children.</p>
 		<p> “Birth control does not necessarily make for either larger or
 			smaller families; it simply insures, through the mother’s knowledge,
-			a square deal and a fair chance for whatever children are born."</p>
+			a square deal and a fair chance for whatever children are born.</p>
 		<p> “In <place>Europe</place>, birth control is sanctioned by the
-			governments."</p>
+			governments. </p>
 		<p>“In the United States it is blindly condemned by law; laws that are
 			lauded by certain influential and prominent citizens who secretly
 			practice birth control while publicly denouncing it.”</p>
-		<p>	<q who="TDB"> Mrs. Sanger was indicted in the United States court
+		<p>
+			<q who="TDB"> Mrs. Sanger was indicted in her United States court
 				here in January for alleged indecent birth control propaganda
-				statements in her <title type="journal">Woman Rebel, The</title>magazine. <place reg="New York, NY">New York</place> society women, led by such
+				statements in her magazine. New York society women, led by such
 				well known individuals as Miss <person reg="LaFollette, Lola"
 					>Lola LaFollette</person> and others, accompanied Mrs.
 				Sanger to court when she went to plead to the indictment; then

@@ -5,7 +5,6 @@
 		<prepDate>2014-12-18 CH transcribe and encode</prepDate>
 		<prepDate>2015-01-7 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-06 CH recheck tags</prepDate>
-		<prepDate>2015-03-11 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -24,13 +23,11 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This statement was published as a full-page letter with two donation forms, one for a
-			$10.00 share in <title type="journal">Birth Control Review, The</title> stock, another for
+			$10.00 share in <title type="journal">Birth Control Review</title> stock, another for
 			$1.50 for a one year subscription.</p>
-		<index level1="Birth Control Review, The"/>
-		<index level1="World War I" level2="and birth control"/>
-		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="World War I" level2="women and"/>
+		<index level1="women" level2="freedom and rights of"/>
 		<index level1="birth control" level2="access to"/>
-		<index level1="birth control" level2="lack of knowledge of"/>
 	</headNote>
 	<docBody>
 		<head>A Letter to the Women of America</head>
@@ -39,7 +36,7 @@
 			new duties. You were unable, while the conflict lasted, to give thought, time or money
 			to any movement, no matter how worthy, no matter how pregnant with good to women or to
 			society as a whole. </p>
-		<p>But the war is over, you are back in your homes, with time to rest and reflect. You have
+		<p>Bit the war is over, you are back in your homes, with time to rest and reflect. You have
 			given two years of energy and devotion to the cause of "the boys over there." Now will
 			you not give the same measure of time, energy, money and devotion to "the woment over
 			here"?</p>
@@ -55,12 +52,12 @@
 			gone from place to place, "doing your bit," no matter how much you desired to do so.</p>
 		<p>You owe your freedom directly or indirectly to the Birth Control movement and the
 			knowledge which is spreads.</p>
-		<p>No amount of money could have freed you from the worries, trials and sickness, of
+		<p>No amount of money could have freed you from the worries, trials and sickness, or
 			children and of yourselves, which a knowledge of Birth Control has spared you. You were
-			indeed fortunate, for you are free from these chains.</p>
+			indeed fortunate, for you are free from these chains</p>
 		<p>By nature, and according to the laws of the state and the nation, you should have borne
-			at least one child for every two years of your married life. Count up and see how many
-			children you would have had, had not the idea and the knowledge of Birth Control been available to
+			at least one child for every two years of you married life. Count up and see how many
+			children you would have had, had not the idea of Birth Control been available to
 			you.</p>
 		<p>Reflect upon the fact that there a millions of overburdened mothers in <place
 				reg="United States">America</place> to whom this knowledge is a sealed book--to whom

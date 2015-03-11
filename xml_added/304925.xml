@@ -9,12 +9,10 @@
 		<prepDate>2013-04-30 CH fix links</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<prepDate>2015-03-11 EK update index</prepDate>
-		<prepDate></prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1913-01-19">19 Jan 1913</docDate>
 		<docTitle>
-			<titlePart>What Every Girl Should Know, Part IX, Reproduction 2</titlePart>
+			<titlePart>What Every Girl Should Know: Part II--Reproduction</titlePart>
 		</docTitle>
 		<idno>msp304925</idno>
 		<sourceDesc>
@@ -27,19 +25,19 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>This is the ninth article in an 12-part series. 
-			For "Part I Introduction" see <xref from="304533.xml">Nov. 17, 1912</xref>,
-			for "Part II Girlhood, 1" see <xref from="300177.xml">Nov. 24, 1912</xref>,
-			for "Part III Girlhood, 2" see <xref from="303438.xml">Dec. 1, 1912</xref>,
-			for "Part IV Puberty, 1" see <xref from="304920.xml"> Dec. 8, 1912</xref>, 
-			for "Part V Puberty, 2" see <xref from="304921.xml"> Dec. 15, 1912</xref>,
-			for "Part VI Sexual Impulse, 1" see <xref from="304922.xml">Dec. 22, 1912,</xref>,
-			for "Part VII Sexual Impulse, 2" see <xref from="304923.xml">Dec. 29, 1912</xref>, 
-			for "Part VIII Reproduction, 1" see <xref from="304924.xml">Jan. 2, 1913</xref>,
-			for "Part X Some Consequences of Ignorance and Silence, 1" see <xref from="304926.xml">Jan. 26, 1913</xref>,
-			for Part XI Some Consequences of Ignorance and Silence, 2 <xref from="304927.xml">Feb. 2, 1913</xref>,
-			and for "Part XII Some Consequences of Ignorance and Silence, 3" see <xref from="304928.xml">Mar. 2, 1913.</xref></p>
-		<index level1="Sanger, Margaret" level2="books" level3="What Every Girl Should Know"/>
+		<p>This is the ninth article in an 12-part series. For "Introduction," see <xref
+				from="304533.xml">Nov. 17, 1912</xref>, for "Girlhood-Part I" see <xref
+				from="300177.xml">Nov. 24, 1912</xref>, for "Girlhood-Part II" see <xref
+				from="303438.xml">Dec. 1, 1912</xref>, for "Puberty-Part I" see<xref
+				from="304920.xml"> Dec. 8, 1912</xref>, for "Puberty-Part II" see<xref
+				from="304921.xml"> Dec. 15, 1912</xref>, for "Sexual Impulse--Part I" see <xref
+				from="304922.xml">Dec. 22, 1912,</xref> for "Sexual Impulse-Part II" see<xref
+				from="304923.xml"> Dec. 29, 1912</xref>, for "Reproduction--Part I" see <xref
+				from="304924.xml">Jan. 2, 1913</xref>, for "Some Consequences of Ignorance and
+			Silence--Part I" see <xref from="304926.xml">Jan. 26, 1913</xref>, for "Some
+			Consequences of Ignorance and Silence--Part II" see <xref from="304927.xml">Feb. 2,
+				1913</xref>, and for "Some Consequences of Ignorance and Silence--Part III" see
+				<xref from="304928.xml">Mar. 2, 1913.</xref></p>
 		<index level1="sex education" level2="need for"/>
 		<index level1="sex education"/>
 		<index level1="sexuality" level2="women's"/>

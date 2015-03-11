@@ -8,7 +8,7 @@
         <prepDate>2014-11-10 CH cleanup</prepDate>
         <prepDate>2015-03-03 EK update index</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1911-11-12">12 Nov 1911</docDate>
+        <docDate value="1911-11-12">12 Nov. 1911</docDate>
         <docTitle>
             <titlePart>How Six Little Children Were Taught the Truth, Part III</titlePart>
         </docTitle>
@@ -29,7 +29,6 @@
         <index level1="evolution"/>
         <index level1="reproduction"/>
         <index level1="Sanger, Margaret" level2="fictional writing"/>
-        <index level1="Sanger, Margaret" level2="books" level3="What Every Mother Should Know"/>
         <index level1="sex education"/>
     </headNote>
     <docBody>
