@@ -12,6 +12,7 @@
 		<prepDate>2014-11-10 CH clean regs</prepDate>
 		<prepDate>2015-02-19 EK update index and check tags</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-03-11 EK correct index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1911-10-29">29 Oct 1911</docDate>
 		<docTitle>
@@ -35,7 +36,7 @@
 		<index level1="sex education"/>
 		<index level1="sex and sexuality" level2="MS on"/>
 		<index level1="Sanger, Margaret" level2="books" level3="What Every Mother Should Know"/>
-			<index level1="Sanger, Margaret" level2="fictional writing"/>
+	<index level1="Sanger, Margaret" level2="fictional writing"/>
 	</headNote>
 	<docBody>
 		<head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>
