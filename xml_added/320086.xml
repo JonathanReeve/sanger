@@ -6,8 +6,9 @@
 		<prepDate>2002-08-20 KH</prepDate>
 		<prepDate>2003/11/25 CH cleaned up tags and xref</prepDate>
 		<prepDate>2007-05-30 CH Oxygen/cleanup</prepDate>
-		<prepDate>2014-11-10 CH reg cleanup</prepDate><prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret>Margaret Sanger</person></docAuthor>
+		<prepDate>2014-11-10 CH reg cleanup</prepDate>
+		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1911-12-03">03 Dec 1911</docDate>
 		<docTitle>
 			<titlePart><supplied resp="MSPP">How Six Little Children Were Taught The Truth, Part VI, cont'd</supplied></titlePart>
@@ -129,6 +130,6 @@
 			protect and care for his offspring after their creation.</p>
 		<p>It was not until all the familiar birds had gone that their thoughts of higher stage, the
 			mammals.</p>
-		<p>And these you shall hear in the next lesson.</p>
+		<p>And these you shall hear in the next lesson.</p><p>test</p>
 	</docBody>
 </doc>

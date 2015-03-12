@@ -7,8 +7,10 @@
 		<prepDate>2014-11-10 CH clean regs</prepDate>
 		<prepDate>2015-02-20 EK correct indezx</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1911-12-17">17 Dec. 1911</docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1911-12-17">17 Dec 1911</docDate>
 		<docTitle>
 			<titlePart>How Six Little Children Were Taught the Truth--Conclusion, Part
 				VIII</titlePart>
@@ -23,7 +25,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is the conclusion of a seven-part series. For Part I, see <xref from="302081.xml"
+		<p>This is the conclusion of a seven part series. For Part I, see <xref from="302081.xml"
 				>Oct. 29, 1911</xref>, for Part II, see <xref from="320082.xml">Nov. 5, 1911</xref>,
 			for Part III see <xref from="320083.xml">Nov. 12, 1911</xref>, for Part IV see <xref
 				from="320084.xml">Nov. 19, 1911</xref>, for Part V-a see <xref from="320085.xml"
@@ -160,6 +162,6 @@
 			right attitude toward it. She can elaborate on this plan or outline as much as she
 			wishes, but she must get down to the child’s world in order to make her teachings
 			impressive and successful. The one unpardonable sin on the part of a mother is to let
-			her children learn the truth elsewhere than from her own lips.</p>
+			her children learn the truth elsewhere than from her own lips.</p><p>test</p>
 	</docBody>
 </doc>
