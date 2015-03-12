@@ -12,8 +12,10 @@
 		<prepDate>2014-11-10 CH clean regs</prepDate>
 		<prepDate>2015-02-19 EK update index and check tags</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1911-10-29">29 Oct. 1911</docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1911-10-29">29 Oct 1911</docDate>
 		<docTitle>
 			<titlePart>How Six Little Children Were Taught the Truth, Part I</titlePart>
 		</docTitle>
@@ -138,6 +140,6 @@
 		<p>My object is to help all mothers who wish to give their children the right conception of
 			the beautiful truths of reproduction, and we shall begin next week our first lesson:
 				"<title type="article">The Flowers--Mr. and Mrs. Buttercup, their home and their
-				family</title>." </p>
+				family</title>." </p><p>test</p>
 	</docBody>
 </doc>
