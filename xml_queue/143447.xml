@@ -3,33 +3,38 @@
 <doc type="Typed document">
     <mepHeader>
         <prepDate>2014-05-22 MM</prepDate>
-        <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-        <docDate value="1912-00-00"><supplied resp="MSPP">ca. 1912</supplied></docDate>
+        <docAuthor>
+            <person reg="Sanger, Margaret">Margaret Sanger</person>
+        </docAuthor>
+        <docDate value="1912-00-00">
+            <supplied resp="MSPP">ca. 1912</supplied>
+        </docDate>
         <docTitle>
             <titlePart>The Unrecorded Battle</titlePart>
         </docTitle>
         <idno>msp143447</idno>
         <sourceDesc>
             <bibl><title/> Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl><title type="mf"/> Library of Congress Microfilm, L131:0087</bibl>
+            <bibl><title type="mf"/>Library of Congress Microfilm, L131:0087</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>This short story was drafted by Margaret Sanger around 1912, but never
-            published. No additional pages were found.</p>
+    <headNote resp="MSPP">
+        <p>This short story was drafted by Margaret Sanger around 1912, but never published. No
+            additional pages were found.</p>
         <index level1="labor movement"/>
         <index level1="nurses and nursing"/>
-        <index level1="Sanger, Margaret" level2="books and pamphlets"
-            level3="What Every Girl Should Know"/>
         <index level1="Sanger, Margaret" level2="fictional writing"/>
         <index level1="women and girls" level2="employment of"/>
         <index level1="women and girls" level2="freedom and rights of"/>
         <index level1="prostitution"/>
     </headNote>
     <docBody>
-        <head><add>The Unrecorded Battle</add></head>
+        <head>
+            <add>The Unrecorded Battle</add>
+        </head>
         <p>"A case a case--My kingdom for a case" were the words which rang through the room, where
             several nurses were gathered one afternoon in June. The words were uttered by a small,
             fair and healthy specimen of the female sex, and tilting her nose a trifle more, if
@@ -241,55 +246,61 @@
             "Forgive me, can't you? You're here, you have all to gain by staying here, why make a
             mess of this." He kept coming closer as he spoke, and she felt in another second--it
             would be too late. "Stop!" she cried, as she raised her arm and pointed at him, her eyes
-            blazed, her face was pale and drawn "-Stop, I say, not one step nearer; you have had
-            your say, now I'll have mine; I'm not afraid of you. Your tyranny and boasted power are
+            blazed, her face was pale and drawn "Stop, I say, not one step nearer; you have had your
+            say, now I'll have mine; I'm not afraid of you. Your tyranny and boasted power are
             nothing to me."</p>
         <p>"Of one thing I am certain," she said calmly, "I leave this room as pure as I entered it
             or I leave it not at all."</p>
         <p>"Your lies about your influece with scoundrels of this City does not frighten me, for I
-            too am protected by men who are men--on high, I have back of me the vast army of
-            Medical men in <place>United States</place>, two of whom know I came here to day, knowing this I defy
-            you to touch me." Her turn had come now, and all fear had gone."</p>
+            too am protected by men who are men--on high, I have back of me the vast army of Medical
+            men in <place>United States</place>, two of whom know I came here to day, knowing this I
+            defy you to touch me." Her turn had come now, and all fear had gone."</p>
         <p>At these words and the reliant look of this slip of a girl the coward cringed, he knew
             she spoke the truth; he realized she was not the ordinary girl, and not to be bullied;
             he knew he must give her up, but not until his cruelty had some relief, he folded his
             arms, put his head cunningly on one side and said; "You are not trying to make me
-            believe you are pure are you?" She looked him fully in the eyes and answered, "I am."
-            He changed his position slightly, by shifting the other foot forward, bent forward and
+            believe you are pure are you?" She looked him fully in the eyes and answered, "I am." He
+            changed his position slightly, by shifting the other foot forward, bent forward and
             continued; "Do you mean to tell me you are a virgin?" For one second, she gasped at this
             cruelty, but looked at him and said, "I do."</p>
-        <p>"Swear it," he thundred,--his right arm raised high, his whole being aroused to anger.</p>
-        <p>"I swear," she said, with her head erect, and eyes dancing fire, she saw she had won. He stepped to the door unlocked it,
-            threw it open wide, and shouted "go." She went. Then the air was rent with peal after
-            peal of the most diabolical laughter, for a second, her blood seemed to freeze in her
-            veins, she put her hands to her ears to shut out that terrible laugh, but the sight of
-            her suitcase tumbling down the stairs brought her to her senses, and soon she was safe
-            outside that den of torture. On, on she plodded, she knew not where, she cared not
-            where, she was safe, safe, safe. That was enough for the present.</p>
-        <p>She had won the battle for her soul. <add>God!</add> was ever such a battle fought! Sometime in
-            the afternoon, we see her at the Grand Central Station, buying a ticket for her home
-            town. Later we see her walking along the dusty road nearing the farm. At a distance we
-            can see a figure bending over a green patch, with sunbonnet pushed far back on her head,
-            and we feel it is her mother. Peggy sees her, and a lump comes into her throat as she
-            thinks of the disappointments in store for them all.</p>
+        <p>"Swear it," he thundred,--his right arm raised high, his whole being aroused to
+            anger.</p>
+        <p>"I swear," she said, with her head erect, and eyes dancing fire, she saw she had won. He
+            stepped to the door unlocked it, threw it open wide, and shouted "go." She went. Then
+            the air was rent with peal after peal of the most diabolical laughter, for a second, her
+            blood seemed to freeze in her veins, she put her hands to her ears to shut out that
+            terrible laugh, but the sight of her suitcase tumbling down the stairs brought her to
+            her senses, and soon she was safe outside that den of torture. On, on she plodded, she
+            knew not where, she cared not where, she was safe, safe, safe. That was enough for the
+            present.</p>
+        <p>She had won the battle for her soul. <add>God!</add> was ever such a battle fought!
+            Sometime in the afternoon, we see her at the Grand Central Station, buying a ticket for
+            her home town. Later we see her walking along the dusty road nearing the farm. At a
+            distance we can see a figure bending over a green patch, with sunbonnet pushed far back
+            on her head, and we feel it is her mother. Peggy sees her, and a lump comes into her
+            throat as she thinks of the disappointments in store for them all.</p>
         <p>She is soon enfolded in the strong arms of that dear mother, and as they sit together
             under the elm tree, she relates her agonizing experience, to that loyal heart.</p>
         <p>A glance at that New England mother will at once tell us better than words where the
             daughter got her courage and spirit, in time of danger. Proud, brave and tearless, she
             took her daughter's face in her hands and said; "Peggy," you are a wonderful girl. I'm
-            prouder of you today, than I <emph rend="underline">ever</emph> was of your great grandfather, who fought and died so
-            valiently at the battle of Bunker Hill. This unrecorded battle!" she shook her head,
-            "and you my Peggy the Victor!" They sat thus for some time. "I'll not go back again
-            Mother, I'm so tired, of it all, and Dick has waited so patiently, yes I've quite decided
-            to stay."</p>
+            prouder of you today, than I <emph rend="underline">ever</emph> was of your great
+            grandfather, who fought and died so valiently at the battle of Bunker Hill. This
+            unrecorded battle!" she shook her head, "and you my Peggy the Victor!" They sat thus for
+            some time. "I'll not go back again Mother, I'm so tired, of it all, and Dick has waited
+            so patiently, yes I've quite decided to stay."</p>
         <p>After the house was quiet that night, the father and mother walked up and down, the
             kitchen floor, up and down, hour after hour, arm in arm. For miles around this honest
             and sturdy farmer was called Uncle Sam, so vividly did he remind us of our "Uncle
             Sam."</p>
         <p>On, on he walked, up and down far into the dawn, head bent, eyes fixed on the floor,
             fists clenched, thinking, thinking. At last he stopped, went to a shelf, took down a
-            rifle he kept there, blew off the dust, wiped it carefully with his sleeve, looked at it fondly, even tenderly, aimed at something on the wall, and wiped it again. "For goodness sake what are you going to do with that gun Tom Taylor"" said the little mother for once greatly agitated.</p>
-        <p>He gave the gun snother wipe with his sleeve and said, "I'm going to New York wife to take that man's blood."</p>
+            rifle he kept there, blew off the dust, wiped it carefully with his sleeve, looked at it
+            fondly, even tenderly, aimed at something on the wall, and wiped it again. "For goodness
+            sake what are you going to do with that gun Tom Taylor"" said the little mother for once
+            greatly agitated.</p>
+        <p>He gave the gun snother wipe with his sleeve and said, "I'm going to New York wife to
+            take that man's blood."</p>
         <signed>Margaret H. Sanger</signed>
     </docBody>
 </doc>
