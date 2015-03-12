@@ -10,15 +10,18 @@
 		<prepDate>2013-04-30 CH fix links</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1912-03-02">2 Mar 1913</docDate>
 		<docTitle>
-			<titlePart>What Every Girl Should Know</titlePart>
+			<titlePart>What Every Girl Should Know, Part XII</titlePart>
 		</docTitle>
 		<idno>msp304928</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Mar. 2, 1913, p. 15</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:60</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:60</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,22 +31,26 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>This is the last article in an 12-part series. For "Introduction," see <xref
-				from="304533.xml">Nov. 17, 1912</xref>, for "Girlhood-Part I" see <xref
-				from="300177.xml">Nov. 24, 1912</xref>, for "Girlhood-Part II" see <xref
-				from="303438.xml">Dec. 1, 1912</xref>, for "Puberty-Part I" see<xref
-				from="304920.xml"> Dec. 8, 1912</xref>, for "Puberty-Part II" see<xref
-				from="304921.xml"> Dec. 15, 1912</xref>, for "Sexual Impulse--Part I" see <xref
-				from="304922.xml">Dec. 22, 1912,</xref> for "Sexual Impulse-Part II" see<xref
-				from="304923.xml"> Dec. 29, 1912</xref>, for "Reproduction--Part I" see <xref
-				from="304924.xml">Jan. 2, 1913</xref>, for "Reproduction--Part II" see <xref
-				from="304925.xml">Jan. 19, 1913</xref>, for "Some Consequences of Ignorance and
-			Silence--Part I" see <xref from="304926.xml">Jan. 26, 1913</xref>, and for "Some
-			Consequences of Ignorance and Silence--Part II" see <xref from="304927.xml">Feb. 2,
-				1913</xref>.</p>
-		<index level1="sex education" level2="need for"/>
+		<p>This is the last article in an 12-part series. It was censored in Feb. 2 issue and in its
+			place the <title type="journal">New York Call</title> ran a blank page with the heading:
+			"What Every Girl Should Know; NOTHING By Order of the <org reg="United States Post Office">Post Office Department</org>. It was
+			instead published in the Mar. 2, 1913 issue. 
+			For Part I, "Introduction" see <xref from="304533.xml">Nov. 17, 1912</xref>, for Part II, "Girlhood, 1," see <xref
+				from="300177.xml">Nov. 24, 1912</xref>, for Part III, "Girlhood, 2" see <xref
+				from="303438.xml">Dec. 1, 1912</xref>, for Part IV, "Puberty, 1" see <xref
+				from="304920.xml">Dec. 8, 1912</xref>, for Part V,"Puberty 2" see <xref
+				from="304921.xml">Dec. 15, 1912</xref>, for Part VI, "Sexual Impulse, 1" see <xref
+				from="304922.xml">Dec. 22, 1912,</xref>, for Part VII, "Sexual Impulse, 2" see <xref
+				from="304923.xml">Dec. 29, 1912</xref>, for Part VIII, "Reproduction, 1," see <xref
+				from="304924.xml">Jan. 2, 1913</xref>, for Part IX, "Reproduction, 2" see <xref
+				from="304925.xml">Jan. 19, 1913</xref>, for Part X, "Some Consequences of Ignorance
+			and Silence, 1," see <xref from="304926.xml">Jan. 26, 1913</xref>, for Part XI, "Some
+			Consequences of Ignorance and Silence, 2" see <xref from="304927.xml">Feb. 2,
+				1913</xref>, </p>
+		
 		<index level1="sex education"/>
-		<index level1="venereal disease" level2="syphilis"/>
+		<index level1="venereal disease"/>
+		<index level1="censorship"/>
 	</headNote>
 	<docBody>
 		<head>WHAT EVERY GIRL SHOULD KNOW</head>
