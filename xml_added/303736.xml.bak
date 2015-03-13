@@ -2,26 +2,30 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published testimony">
 	<mepHeader>
-		<prepDate>2014/04/02 VS initial tagging</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1931-02-13">13 February, 1931t</docDate>
+		<prepDate>2014-04-02 VS initial tagging</prepDate>
+		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1931-02-13">13 Feb 1931</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Testimony of Margaret Sanger For S.4582</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Testimony Before the United States Senate on S.4582</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp303736</idno>
 		<sourceDesc>
-			<bibl><title>Birth Control Hearings</title>pp. 2-5, 76-84</bibl>
-			<bibl><title>MSM</title> LCM C15:736</bibl>
+			<bibl><title type="book">Birth Control Hearings</title> (Washington, DC, 1931), pp. 2-5, 76-84</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C15:736</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="MSPP">Margaret Sanger Papers project</name>
+			
 			<name id="GILFR">Gillett, Frederick Huntington</name>
 			<name id="AMA">American Medical Association</name>
 			<name id="BURHI">Burton, Hiram Ralph</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger testifies before U.S. Senate concerning S. 4582 on 13th-14th
+	<headNote resp="MSPP">Sanger testified before the Senate Committee on the JudicU.S. Senate concerning S. 4582 on 13th-14th
 		February, 1931. <index level1="birth control" level2="Bible and"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="health benefits and risks"/>
