@@ -3,7 +3,10 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014/04/04 VS initial tagging</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1929-10-00">Oct 1929</docDate>
 		<docTitle>
 			<titlePart>The Next Step</titlePart>
@@ -17,10 +20,7 @@
 			<name id="KEIAR">Keith, Arthur</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Margaret Sanger speaks frankly of the United States Penal Codes, urging
-		Americans to use co-ordination and co-operation to succeed in this endeavor. Printed in the
-		Birth Control Review, October 1929, pages 278-289. <index level1="birth control"
-			level2="distribution of information about"/>
+	<headNote resp="MSPP"><index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="opposition to"/>
 		<index level1="Birth Control Clinical Research Bureau"/>
 		<index level1="Birth Control Review, The"/>
@@ -29,12 +29,12 @@
 	</headNote>
 	<docBody>
 		<head>The Next Step</head>
-		<byline>The <name reg="United States Penal Code">Penal Laws</name> of the <place>United
-				States</place>, which obstruct and prohibit Birth Control, must be amended by the
-			united effort of intelligent Americans.</byline>
+		<byline>The <name reg="United States Criminal Code, Section 211">Penal Laws</name> of the
+				<place>United States</place>, which obstruct and prohibit Birth Control, must be
+			amended by the united effort of intelligent Americans.</byline>
 		<div>
 			<p> “<q who="KEIAR">The greatest experiment in race building the world has ever
-				seen</q>” – this is the great human drama now unfolding in these United States,
+				seen</q>”-–this is the great human drama now unfolding in these United States,
 				according to Sir <person reg="Keith, Arthur">Arthur Keith</person>,
 					<place>England</place>’s leading anthropologist. Are we going to play a leading
 				role in this great racial drama? Are we going to push through to victory? Or are we
@@ -46,14 +46,14 @@
 				words: co-ordination and co-operation. Let me explain why.</p>
 			<p> Birth Control does not mean mere contraception. It has two aspects: positive and
 				negative. It aims to place in the hands of every potential mother in America the
-				power to say yes or no – to decide for herself if and when and how, she shall
+				power to say yes or no-–to decide for herself if and when and how, she shall
 				fulfill the function of motherhood. Birth Control will enable a woman to act as a
 				free, self-directed, autonomous personality. It will liberate motherhood. For,
 				remember, without free mothers we can never produce free and strong children.</p>
 		</div>
 		<div>
 			<head type="sub"> Co-ordination and Co-operation Needed</head>
-			<p> But this <title>Magna Carta</title> for womankind cannot become operative without
+			<p> But this <name type="law">Magna Carta</name> for womankind cannot become operative without
 				co-ordination and co-operation. Last May we scored a great victory in <place
 					reg="New York, NY">New York City</place> in vindicating the right of the
 					<org>Birth Control Clinical Research Bureau</org> to function without the
@@ -77,10 +77,10 @@
 					<place>Europe</place> of articles or books or appliances most necessary to
 				advance the scientific work of the clinics, and of contraceptive research in the
 				United States.</p>
-			<p> The Federal laws (Sections <name reg="Section 334 of the United States Penal Code"
-					>334</name>, <name reg="Section 396 of the United States Penal Code">396</name>,
-					<name reg="Section 511 of the United States Penal Code">511</name>, <name
-					reg="Section 512 of the United States Penal Code">512</name>) must be amended,
+			<p> The Federal laws (Sections <name reg="the United States Criminal Code, Section 334"
+					>334</name>, <name reg="United States Criminal Code, Section 396">396</name>,
+					<name reg="United States Criminal Code, Section 511">511</name>, <name
+					reg="United States Criminal Code, Section 512">512</name>) must be amended,
 				to allow medical and scientific books, records and articles to be sent through the
 				mails to and from the physicians, and to include the necessary provisions for the
 				patients, as well as for druggists, importers and manufacturers.</p>

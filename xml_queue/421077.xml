@@ -2,17 +2,20 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 	<mepHeader>
-		<prepDate>2014-04-09 VS initial tagging</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2014/04/09 VS initial tagging</prepDate>
+		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1929-12-14">14 Dec 1929</docDate>
 		<docTitle>
-			<titlePart>Lecture to Cleveland City Club</titlePart>
+			<titlePart><supplied resp="MSPP">Lecture to Cleveland City Club</supplied></titlePart>
 		</docTitle>
 		<idno>msp421077</idno>
 		<sourceDesc>
 			<bibl>
-				<title type="journal">Cleveland Plain-Dealer</title>
-			</bibl>
+				<title type="article">City Club Stirred By Mrs. Sanger</title>, <title
+					type="journal">Cleveland Plain-Dealer</title>, Dec. 14, 1929</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,8 +25,8 @@
 			<name id="THOJO">Thomas, John J.</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">No draft version found. <index level1="birth control"
-			level2="distribution of information about"/>
+	<headNote resp="MSPP"><p>Sanger's speech was not found.</p>
+		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
 		<index level1="birth control" level2="physical justifications for"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
@@ -34,17 +37,18 @@
 	</headNote>
 	<docBody>
 		<head>City Club Stirred By Mrs. Sanger</head>
-		<byline>Questions Fly Fast: Vote of Confidence Urged, but Fails.</byline>
 		<div>
-			<q who="CPD">
-				<p> Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>’s lecture on birth
-					control at the <org reg="City Club of Cleveland">City Club</org> yesterday so
-					moved an Episcopal minister, Rev. <person reg="Hauck, Franklin E.">Franklin E.
-						Hauck</person> of <place reg="Bellevue, OH">Bellevue, O.</place>, a club
-					member, that he submitted a motion that the club indorse Mrs. Sanger’s program
-					for revision of the federal statutes to make legal the distribution of
-					information on birth control. </p>
-			</q>
+
+			<p>
+				<q who="CPD">Mrs. Margaret Sanger’s lecture on birth control at the <org
+						reg="Cleveland City Club">City Club</org> yesterday so moved an Episcopal
+					minister, Rev. <person reg="Hauck, Franklin E.">Franklin E. Hauck</person> of
+						<place reg="Bellevue, OH">Bellevue, O.</place>, a club member, that he
+					submitted a motion that the club endorse Mrs. Sanger’s program for revision of
+					the federal statutes to make legal the distribution of information on birth
+					control.</q>
+			</p>
+
 			<p>
 				<q who="CPD">Dr. <person reg="Thomas, John J.">J. J. Thomas</person>, president of
 					the club, said the motion would not come to a vote and went on with the question
@@ -57,30 +61,30 @@
 		</div>
 		<div>
 			<head type="sub"> 85,000,000 Child Minds</head>
-			<q who="CPD">
-				<p> Mrs. Sanger, in opening her lecture, said that, according to available
+
+			<p><q who="CPD"> Mrs. Sanger, in opening her lecture, said that, according to available
 					statistics, 85,000,000 of the 105,000,000 people in the <place>United
 						States</place> have the mentality of a fifteen-year-old child. There are
 					45,000,000 feeble-minded persons in the country, she said, and the upper group
 					capable of raising and properly caring for intelligent children numbers only
-					30,000,000. </p>
-			</q>
-			<q who="CPD">
-				<p> She argued that the feeble minded and those who compose the lower group should
-					be compelled to practice birth control, and that in some cases an operation to
-					prevent conception should be resorted to. </p>
-			</q>
+					30,000,000. </q></p>
+
+			<p>
+				<q who="CPD">She argued that the feeble minded and those who compose the lower group
+					should be compelled to practice birth control, and that in some cases an
+					operation to prevent conception should be resorted to. </q></p>
+
 			<p> “<q who="UNK">Do you think that we have progressed far enough in the science of
 					psychology so that the official body which would pass on who should have
 					children and who should not, according to your theories, knows enough to say who
 					is feeble minded and who is not?</q>”<q who="CPD"> a questioner asked</q>. </p>
 			<p> “<q who="WITPE">How do you know that there are 45,000,000 feeble minded?</q>” <q
-					who="CPD">Peter Witt shouted</q>. “<q who="WITPE">Is that the vote <person
-						reg="Hoover, Herbert">Hoover</person> got in <place>North
-					Carolina</place>?</q>”</p>
+					who="CPD"><person reg="Witt, Peter">Peter Witt</person> shouted</q>. “<q
+					who="WITPE">Is that the vote <person reg="Hoover, Herbert">Hoover</person> got
+					in <place>North Carolina</place>?</q>”</p>
 			<p> “I’m not sure there are 45,000,000 people in North Carolina,” <q who="CPD">Mrs.
 					Sanger replied</q>,” However, all my figures are contained in a report made by
-				Prof. <person reg="Myers, William Starr">William Starr Meyer</person> of
+				Prof. <person reg="Myers, William Starr">William Starr Myers</person> of
 					<org>Princeton University</org>. I think they’re correct, but if you have any
 				fault to find with them, consult the professor.” </p>
 			<p> “<q who="UNK">Do you think that the 85,000,000 you spoke of should submit to an
@@ -108,25 +112,25 @@
 				have slums, ignorance, disease and child labor. We spend billions yearly to care for
 				the poor families in the lower group. Why not get at the heart of things and spend a
 				good deal less money wisely? </p>
-			<p> “<name reg="United States Penal Code">Federal law</name>, passed 53 years ago,
-				prohibits use of the mails to disseminate information on birth control, but federal
-				law does not interfere with the practices of animal breeding in which only the
-				wholesome stock is permitted to increase. </p>
+			<p> “<name type="law" reg="United States Criminal Code, Section 211">Federal law</name>,
+				passed 53 years ago, prohibits use of the mails to disseminate information on birth
+				control, but federal law does not interfere with the practices of animal breeding in
+				which only the wholesome stock is permitted to increase. </p>
 			<p> “On the other hand, federal law limits the number of aliens into the country. They
 				must be physically and morally sound and must have a certain amount of capital so
 				that they will not become public charges. </p>
 			<p> “Why shouldn’t the same principles apply in the rearing of families?</p>
 			<p> “We are working to disseminate knowledge to prevent families having children where
-				they don’t want them-- where the children might be mentally deficient or sub-normal
+				they don’t want them--where the children might be mentally deficient or sub-normal
 				or where there is no support for them. </p>
 			<p> “We believe that children should not come except at spaces of two to three years and
 				that the young wife between 18 and 22 should not have children until she has passed
 				the adolescent stage. Also a young couple should have at least two years to adjust
 				themselves to each other and establish a harmonious home.”</p>
-			<q who="CPD">
-				<p> Dissemination of knowledge, she said, would have no effect on morals. A man
-					chooses his course of action no more wisely when he is in ignorance. </p>
-			</q>
+			
+			<p> <q who="CPD">Dissemination of knowledge, she said, would have no effect on morals. A man
+					chooses his course of action no more wisely when he is in ignorance. </q></p>
+			
 			<p>
 				<q who="CPD">In reference to determining the feeble minded in a community, Dr.
 					Thomas asked if Mrs. Sanger meant the <org reg="Cleveland City Council">City
@@ -136,7 +140,7 @@
 					not result in “geniuses not being born” since statistics indicate that the sixth
 					or eight child in many cases is a genius. </p>
 			</q>
-			<p> “<person reg="Caruso, Enrico">Caruso</person> was a genius-- he had a freak throat,
+			<p> “<person reg="Caruso, Enrico">Caruso</person> was a genius--he had a freak throat,
 				a really abnormal throat,” <q who="CPD">Mrs. Sanger replied.</q> “Anyway, are we
 				going to develop geniuses in that way? How do we know how many geniuses we have in
 				any community today who have never been developed because they haven’t the economic

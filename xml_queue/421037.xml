@@ -3,16 +3,23 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014/04/11 Initial tagging</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1929-04-30">30 Apr 1929</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Illinois Birth Control League Talk</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Illinois Birth Control League Talk</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421037</idno>
 		<sourceDesc>
 			<bibl>
-				<title>Waterloo Evening Courier; Billings Gazette</title>
-			</bibl>
+				<title type="article">Plans New Drive for Birth Control</title>, <title
+					type="journal">Waterloo Evening Courier</title>, Apr. 30, 1929</bibl>
+			<bibl><title type="article">Mrs. Sanger Says Forces Are Gaining</title>, <title
+					type="journal">Billings Gazette</title>, Apr. 30, 1929</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -20,8 +27,10 @@
 			<name id="WEC">Waterloo Evening Courier</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Speech before the Illinois Birth Control League of the Chicago Women's
-		Club - 04/30/1929. <index level1="birth control" level2="in Chicago"/>
+	<headNote resp="MSPP"><p>Sanger's speech before the Illinois Birth Control League at the
+				<org>Chicago Women's Club</org> was not found, newspaper coverage has been
+			provided.</p>
+		<index level1="birth control" level2="in Chicago"/>
 		<index level1="birth control clinics and leagues"/>
 		<index level1="mortality rates" level2="maternal"/>
 	</headNote>
@@ -29,54 +38,64 @@
 		<head>Plans New Drive for Birth Control</head>
 		<dateline>April 30 <date value="1929-04-30 "/> Chicago<place/></dateline>
 		<div>
-			<q who="WEC">
-				<p> Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person> in a talk today
-					before the <org>Illinois Birth Control league</org> of the <org>Chicago Woman’s
-						club</org> here, will open a campaign for extension of birth control clinics
-					and a more lenient attitude toward dissemination of information. </p>
-				<p> Before leaving <place reg="Chicago, IL">the city</place>, she said, she will
-					devote time to active organization work, and plans to carry her campaign to the
-					Pacific coast. </p>
-				<p> Her activities came as an aftermath of the police raid and arrests are her <org
-						reg="Birth Control Clinical Research Bureau">New York clinic</org>. </p>
-			</q>
+
+			<p><q who="WEC"> Mrs. Margaret Sanger in a talk today before the <org>Illinois Birth
+						Control league</org> of the Chicago Woman’s club here, will open a campaign
+					for extension of birth control clinics and a more lenient attitude toward
+					dissemination of information. </q></p>
+			<p><q who="WEC"> Before leaving <place reg="Chicago, IL">the city</place>, she said, she
+					will devote time to active organization work, and plans to carry her campaign to
+					the Pacific coast. </q></p>
+			<p>
+				<q who="WEC">Her activities came as an aftermath of the police raid and arrests are
+					her <org reg="Birth Control Clinical Research Bureau"><place reg="New York, NY"
+							>New York</place> clinic</org>.</q>
+			</p>
+
 		</div>
 		<div>
 			<head>Mrs. Sanger Says Forces Are Gaining</head>
-			<byline>Three-Year Interval Between Children Is Among Recommendations of Body</byline>
-			<q who="BG">
-				<p> Crime, overpopulation, and disease would be checked by scientific birth control,
-					Mrs. Margaret Sanger noted birth control advocate, said here Tuesday. </p>
-			</q>
-			<q who="BG">
-				<p> Mrs. Sanger opened her midwestern campaign for amendment of the <name
-						reg="United States Penal Code">federal laws</name> prohibiting the spread of
-					contraceptive information with a speech before the Illinois Birth Control league
-					and representatives of the <org>Brush Foundation for the Study of Birth
-						Control</org> at <place reg="Cleveland, OH">Cleveland</place>. </p>
-			</q>
-			<p> “In the five years we have been conducting clinics in <place>New York</place>,” <q
-					who="BG">she said,</q> “we have cared for 13,000 women and we know we have saved
-				90 percent of them from death.”</p>
+
+			<p><q who="BG">Crime, overpopulation, and disease would be checked by scientific birth
+					control, Mrs. Margaret Sanger noted birth control advocate, said here
+					Tuesday.</q>
+			</p>
+
+			<p>
+				<q who="BG">Mrs. Sanger opened her midwestern campaign for amendment of the <name
+						reg="United States Criminal Code, Section 211">federal laws</name>
+					prohibiting the spread of contraceptive information with a speech before the
+					Illinois Birth Control league and representatives of the <org
+						reg="Brush Foundation">Brush Foundation for the Study of Birth Control</org>
+					at <place reg="Cleveland, OH">Cleveland</place>.</q>
+			</p>
+
+			<p> “In the five years we have been conducting clinics in New York,” <q who="BG">she
+					said,</q> “we have cared for 13,000 women and we know we have saved 90 percent
+				of them from death.”</p>
 		</div>
 		<div>
 			<head type="sub">Cites Alleged Good</head>
 			<p> “We have reduced maternal and infant mortality by insisting on a three-year interval
 				between children, and thus relieved the crowding of homes.” </p>
-			<q who="BG">
-				<p> Mrs. Sanger denounced the prosecution of Mrs. <person reg="Dennett, Mary Ware"
-						>Mary Ware Dennett</person>, grandmother-author of a sex book, who was fined
-					$300 by a New York judge. </p>
-			</q>
+
+			<p><q who="BG"> Mrs. Sanger denounced the prosecution of Mrs. <person
+						reg="Dennett, Mary Ware">Mary Ware Dennett</person>, grandmother-author of a
+					sex book, who was fined $300 by a <person reg="Burrows, Warren B.">New York
+						judge</person>. </q></p>
+
 			<p> “All New York is indignant about Mrs. Dennett’s trial,” <q who="BG">she
 					declared.</q> “Her pamphlet has been used by religious organizations for 10
-				years. <org>The Union Theological seminary</org>, the <org>Young Woman’s Christian
-					association</org> and the <org>Young Men’s Christian association</org> have been
-				using it as textbook.”</p>
-			<q who="BG">
-				<p> Mrs. Sanger plans to organize a committee of 1,000 here to work for amendment of
-					the federal penal code provisions in regard to birth control. </p>
-			</q>
+				years. The <org reg="Union Theological Seminary">Union Theological seminary</org>,
+				the <org reg="Young Women's Christian Association">Young Woman’s Christian
+					association</org> and the <org reg="Young Men's Christian Association">Young
+					Men’s Christian association</org> have been using it as textbook.”</p>
+
+			<p><q who="BG"> Mrs. Sanger plans to organize a <org
+						reg="National Committee on Federal Legislation for Birth Control">committee
+						of 1,000</org> here to work for amendment of the federal penal code
+					provisions in regard to birth control. </q></p>
+
 		</div>
 		<div>
 			<head type="sub">Sees Progress</head>

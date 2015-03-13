@@ -3,10 +3,15 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014/04/11 VS initial tagging</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1929-11-15">15 November, 1929</docDate>
+		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1929-11-15">15 Nov 1929</docDate>
 		<docTitle>
-			<titlePart>Buffalo Clinic Talk Suggests Plans for Clinic in Buffalo</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Buffalo Speech on Establishing a Clinic</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421036</idno>
 		<sourceDesc>
@@ -19,8 +24,8 @@
 			<name id="BCE">Buffalo Courier-Express</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger was in Buffalo, NY on November 14, 1929 and had a meeting at Susan
-		Fiske Rumsey's House. <index level1="birth control" level2="access to"/>
+	<headNote resp="MSPP"><p>Sanger was in Buffalo, NY on November 14, 1929 and had a meeting at
+			Susan Fiske Rumsey's House. </p><index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="civilization and"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
@@ -39,31 +44,34 @@
 		<byline>Interest shown; Mrs. Margaret Sanger tells of work of <org
 				reg="National Committee on Federal Legislation for Birth Control">legislation
 				committee</org></byline>
-		<q who="BCE">
-			<p>
+
+		<p><q who="BCE">
 				<place reg="Buffalo, NY">Buffalo</place> will probably have a birth control clinic
 				modeled after that in <place reg="New York, NY">New York City</place>, of which Mrs.
-					<person reg="Sanger, Margaret">Margaret Sanger</person> is the director. Great
-				interest in the project was evinced yesterday afternoon following the talk given by
-				Mrs. Sanger at the home of Mrs. <person reg="Rumsey, Margaret R.">Dexter P.
-					Rumsey</person> in <place>Delaware</place> avenue on the work of the committee
-				for federal legislation on birth control, and Mrs. Sanger gave suggestions for the
-				formation of such a clinic. She advised first the formation of a medical committee
-				with a lay committee to sanction the work, and she estimated that $5,000 a year
-				would cover the expense of the clinic. </p>
-		</q>
+				Margaret Sanger is the director. Great interest in the project was evinced yesterday
+				afternoon following the talk given by Mrs. Sanger at the home of Mrs. <person
+					reg="Rumsey, Susan Fiske.">Dexter P. Rumsey</person> in <place>Delaware</place>
+				avenue on the work of the committee for federal legislation on birth control, and
+				Mrs. Sanger gave suggestions for the formation of such a clinic. She advised first
+				the formation of a medical committee with a lay committee to sanction the work, and
+				she estimated that $5,000 a year would cover the expense of the clinic.</q>
+		</p>
+
 		<p>
 			<q who="BCE">Mrs. Sanger, who has been called</q> “the stormy petrel of the birth
 			control movement,” <q who="BCE">and who is famous for her conviction that the growth of
 				the population should be legally controlled fairly covered the case for the birth
 				control movement in this country.</q>
 		</p>
-		<q who="BCE">
-			<p> At present she is working for a change in <name reg="United States Penal Code">a
-					law</name> passed by <org reg="United States Congress">Congress</org> 56 years
-				ago by which birth control information is classed with “obscene writings,” and can
-				not be sent through the mails. </p>
-		</q>
+
+		<p>
+			<q who="BCE">At present she is working for a change in <name
+					reg="United States Penal Code">a law</name> passed by <org
+					reg="United States Congress">Congress</org> 56 years ago by which birth control
+				information is classed with “obscene writings,” and can not be sent through the
+				mails.</q>
+		</p>
+
 		<p> “That well-meaning man, <person reg="Comstock, Anthony">Anthony Comstock</person>,
 			backed the bill when it was passed, and I believe that if Comstock himself saw the sum
 			total of misery and horror that law has caused he would wish to have it changed,”<q
@@ -94,64 +102,73 @@
 		<p> “The better class of people will never be able to have larger families, and keep up
 			their standards of living until you take the support of the other crowd off their
 			backs.”</p>
-		<q who="BCE">
-			<p> Mrs. Sanger said that, while birth control clinics are legal under the state law,
-				and may give instruction for the cure or prevention of disease, it is, under the
-				federal law, illegal to send the address of the clinic through the mails. </p>
-		</q>
-		<q who="BCE">
-			<p> Among those who attended the lecture where Mrs. <person reg="Gurney, Evelyn">Charles
-					Gurney</person>, Mrs. <person reg="Hill, Dorothy">Ernest Hill</person>, Mrs.
-					<person reg="Warren, Clara S.">William C. Warren</person>, Mrs. <person
-					reg="Schoellkopf, Virginia P.">Alfred Schoellkopf</person>, Mrs. <person
-					reg="Irwin, Jennie">Dudley Irwin</person>, Mrs. <person reg="Burgard, Jane"
-					>Henry P. Burgard</person>, Mrs. McGee Wyckoff, Mrs. <person
-					reg="Bass, Grace H.">Lyman Bass</person>, Mrs. <person
-					reg="Satterfield, Rachel P.">John Satterfield</person>, Mrs. <person
-					reg="White, Anna L. D.">Seymour White</person>, Mrs. <person reg="Smith, Mary"
-					>Carlton Smith</person>, Miss <person reg="Love, Maria">Maria Love</person>,
-				Mrs. <person reg="Visqer't Hooft, Frans">Franz Vissert Hooft</person>. </p>
-		</q>
-		<q who="BCE">
-			<p> On the committee were: </p>
-		</q>
-		<q who="BCE">
-			<p> Mrs. <person reg="Burgard, Dorothy">Henry O. Burgard</person>, 3d, Mrs. <person
-					reg="Clement, Constance">Harold T. Clement</person>, Mrs. <person
-					reg="Cooke, Frances Wilcex">Thomas F. Cooke</person>, Mrs. <person
-					reg="Dann, Clara L.">Jesse C. Dann</person>, Jr., Mrs. Emile F. Dupant, Mrs.
-					<person reg="Dunbar, Anna G.">Davis T. Dunbar</person>, Mrs. <person
-					reg="Deans, Harriet V. B.">J. Sterling Deans</person>, Mrs. <person
-					reg="Evans, Margaret">James C. Evans</person>, Mrs. <person reg="Evans, Jane"
-					>John G. Evans</person>, Miss <person reg="Fisher, Opal">Opal Fisher</person>,
-				Mrs. <person reg="Franchot, Harriet M.">Edward E. Franchot</person>, Mrs. <person
-					reg="Galt, Malrose G.">Alexander Galt</person>, Miss <person
-					reg="Gane, Marguerite">Marguerite Gane</person>, Mrs. <person
-					reg="Gardner, Sarah">Lawrence H. Gardner</person>, Mrs. <person
-					reg="Goodyear, Dorothy K.">Frank H. Goodyear</person>, Mrs. <person
-					reg="Gaylord, Kathering">Bradley J. Gaylord</person>, Mrs. Nelson M. Grayes,
-				Mrs. <person reg="Gratwick, Dotha Dart">Frederick C. Gratwick</person>, Dr. Frances
-				Hollingshead, Mrs. <person reg="Hedstrom, Katherine W.">Arthur E. Hedstrom</person>,
-				Mrs. <person reg="Hill, Elizabeth H.">Ernest M. Hill</person>, Mrs. <person
-					reg="Hoyt, Esther">William B. Hoyt</person>, Mrs. <person
-					reg="Ingham, Florence L.">James R. Ingham</person>, Mrs. <person
-					reg="Knox, Esther B.">Seymour H. Knox, Jr.</person>, Mrs. <person
-					reg="McKenna, Katherine B.">Edmund B. McKenna</person>, Mrs. <person
-					reg="Noye, Florence">Richard K. Noye</person>, Mrs. <person
-					reg="Plimpton, Mary Wilcox">George F. Plimpton</person>, Mrs. H. Ten Eyck Perry,
-				Mrs. <person reg="Rumsey, Margaret">Dexter P. Rumsey</person>, Mrs. <person
-					reg="Robins, Louisa W.">Thomas Robins</person>, Jr., Mrs. <person
-					reg="Schoeltkopf, Emily">Alfred H. Schoellkopf</person>, Mrs. <person
-					reg="Sawyer, Esther Hoyt">Ansley W. Sawyer</person>, Mrs. <person
-					reg="Spaulding, Marion P.">S. V. R. Spaulding</person>, Mrs. <person
-					reg="Schoallkopf, Emily R.">William Schoellkopf</person>, Mrs. <person
-					reg="Streeter, Gertrude">Daniel W. Streeter</person>, Mrs. <person
-					reg="Sidway, Amelia R.">Frank St. John Sidway</person>, Mrs. <person
-					reg="Taylor, Cecilia">Reginald B. Taylor</person>, Mrs. <person
-					reg="Vanderwall, Wilma">Wilma Vanderwall</person>, Mrs. <person
-					reg="Wickwire, Ruth">Ward W. Wickwire</person>, Miss <person
-					reg="Wiener, Cecil B.">Cecil B. Wiener</person>, Mrs. <person
-					reg="Warren, Clara S.">William C. Warren</person>. </p>
-		</q>
+
+		<p>
+			<q who="BCE"> Mrs. Sanger said that, while birth control clinics are legal under the
+				state law, and may give instruction for the cure or prevention of disease, it is,
+				under the federal law, illegal to send the address of the clinic through the
+				mails.</q>
+		</p>
+
+		<p>
+			<q who="BCE">Among those who attended the lecture where <person reg="Gurney, Evelyn"
+					>Mrs. Charles Gurney</person>, <person reg="Hill, Dorothy">Mrs. Ernest
+					Hill</person>, <person reg="Warren, Clara S.">Mrs. William C. Warren</person>,
+					<person reg="Schoellkopf, Virginia P.">Mrs. Alfred Schoellkopf</person>, <person
+					reg="Irwin, Jennie">Mrs. Dudley Irwin</person>, <person reg="Burgard, Jane">Mrs.
+					Henry P. Burgard</person>, <person reg="Wyckoff, Mrs. McGee">Mrs. McGee
+					Wyckoff</person>, <person reg="Bass, Grace H.">Mrs. Lyman Bass</person>, <person
+					reg="Satterfield, Rachel P.">Mrs. John Satterfield</person>, <person
+					reg="White, Anna L. D.">Mrs. Seymour White</person>, <person reg="Smith, Mary"
+					>Mrs. Carlton Smith</person>, Miss <person reg="Love, Maria">Maria
+				Love</person>, <person reg="Visqer't Hooft, Frans">Mrs. Franz Vissert
+				Hooft</person>.</q></p>
+
+		<p>
+			<q who="BCE">On the committee were: </q></p>
+
+		<p>
+			<q who="BCE">
+				<person reg="Burgard, Dorothy">Mrs. Henry O. Burgard</person>, 3d, <person
+					reg="Clement, Constance">Mrs. Harold T. Clement</person>, <person
+					reg="Cooke, Frances Wilcex">Mrs. Thomas F. Cooke</person>, <person
+					reg="Dann, Clara L.">Mrs. Jesse C. Dann, Jr.</person>, <person
+					reg="Dupant, Mrs. Emile">Mrs. Emile F. Dupant</person>, <person
+					reg="Dunbar, Anna G.">Mrs. Davis T. Dunbar</person>, <person
+					reg="Deans, Harriet V. B.">Mrs. J. Sterling Deans</person>,<person
+					reg="Evans, Margaret">Mrs. James C. Evans</person>, <person reg="Evans, Jane"
+					>Mrs. John G. Evans</person>, Miss <person reg="Fisher, Opal">Opal
+					Fisher</person>, <person reg="Franchot, Harriet M.">Mrs. Edward E.
+					Franchot</person>, <person reg="Galt, Malrose G.">Mrs. Alexander Galt</person>,
+				Miss <person reg="Gane, Marguerite">Marguerite Gane</person>, <person
+					reg="Gardner, Sarah">Mrs. Lawrence H. Gardner</person>, <person
+					reg="Goodyear, Dorothy K.">Mrs. Frank H. Goodyear</person>, <person
+					reg="Gaylord, Kathering">Mrs. Bradley J. Gaylord</person>, <person
+					reg="Graves, Mary B.">Mrs. Nelson M. Graves</person>, <person
+					reg="Gratwick, Dotha Dart">Mrs. Frederick C. Gratwick</person>, Dr. <person
+					reg="Hollingshead, Frances">Frances Hollingshead</person>, <person
+					reg="Hedstrom, Katherine W.">Mrs. Arthur E. Hedstrom</person>, <person
+					reg="Hill, Elizabeth H.">Mrs. Ernest M. Hill</person>, <person
+					reg="Hoyt, Esther">Mrs. William B. Hoyt</person>, <person
+					reg="Ingham, Florence L.">Mrs. James R. Ingham</person>, <person
+					reg="Knox, Esther B.">Mrs. Seymour H. Knox, Jr.</person>, <person
+					reg="McKenna, Katherine B.">Mrs. Edmund B. McKenna</person>, <person
+					reg="Noye, Florence">Mrs. Richard K. Noye</person>, <person
+					reg="Plimpton, Mary Wilcox">Mrs. George F. Plimpton</person>, <person
+					reg="Perry, Elizabeth">Mrs. H. Ten Eyck Perry</person>, Mrs. Dexter P. Rumsey,
+				Mrs. <person reg="Robins, Louisa W.">Mrs. Thomas Robins, Jr.</person>, <person
+					reg="Schoeltkopf, Emily">Mrs. Alfred H. Schoellkopf</person>, <person
+					reg="Sawyer, Esther Hoyt">Mrs. Ansley W. Sawyer</person>, <person
+					reg="Spaulding, Marion P.">Mrs. S. V. R. Spaulding</person>, <person
+					reg="Schoallkopf, Emily R.">Mrs. William Schoellkopf</person>, <person
+					reg="Streeter, Gertrude">Mrs. Daniel W. Streeter</person>, <person
+					reg="Sidway, Amelia R.">Mrs. Frank St. John Sidway</person>, <person
+					reg="Taylor, Cecilia">Mrs. Reginald B. Taylor</person>, <person
+					reg="Vanderwall, Wilma">Mrs. Wilma Vanderwall</person>, <person
+					reg="Wickwire, Ruth">Mrs. Ward W. Wickwire</person>, Miss <person
+					reg="Wiener, Cecil B.">Cecil B. Wiener</person>, <person reg="Warren, Clara S."
+					>Mrs. William C. Warren</person>.</q>
+		</p>
+
 	</docBody>
 </doc>
