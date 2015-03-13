@@ -4,15 +4,18 @@
 	<mepHeader>
 		<prepDate>2013/11/13 JK encoded</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1930-02-20">20 Feb 1930</docDate>
 		<docTitle>
-			<titlePart>The Next Step in Birth Control</titlePart>
+			<titlePart>The Next Step</titlePart>
 		</docTitle>
 		<idno>msp235609</idno>
 		<sourceDesc>
-			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College </bibl>
-			<bibl>Margaret Sanger Papers Microfilm, Smith College Collections S71:178</bibl>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers Microfilm, Smith College Collections</title> S71:178</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -21,9 +24,9 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Sanger gave this speech at the opening dinner of the <org>Western State Conference on
-				Birth Control and Population</org> at <org>Baltimore Hotel</org> in <place>Los
+				Birth Control and Population</org> held at the <org>Baltimore Hotel</org> in <place>Los
 				Angeles</place>. For notes on her other speech at this conference, see <xref
-				from="240447.xml"> "Legal Obstacles to Racial Progress,"</xref> Feb. 23, 1930. </p>
+				from="240447.xml">Legal Obstacles to Racial Progress</xref>, Feb. 23, 1930.</p>
 		<index level1="birth control" level2="laws and legislation" level3="Federal"/>
 		<index level1="Western State Conference on Birth Control and Population"/>
 		<index level1="National Committee on Federal Legislation for Birth Control"/>
@@ -37,7 +40,7 @@
 			taken in 1914 when <name type="law" reg="United States Criminal Code, Section 211"
 				>Section 211 of the Penal Code</name> was challenged by me. In this section of the
 			Federal law contraceptive and instruction is classed with abortions, lewdness,
-				<unclear>pornography</unclear> and obscenity. I felt this classification to be not
+				<unclear resp="MSPP">pornography</unclear> and obscenity. I felt this classification to be not
 			only dangerous to the well being of the race, but an insult to the intelligent womanhood
 			of the present generation, whose ideals and standards of family life were held in high
 			esteem because of the practice of birth control. </p>
@@ -49,7 +52,7 @@
 			was more technical than that implied in a free speech campaign. I saw in the clinics of
 			Holland the important of the knowledge of physiology and anatomy on the part of the
 			instructor if good results were to be obtained. Consequently we must depend upon the
-			medical profession to instruct and inform the women who were to be benefitted by the
+			medical profession to instruct and inform the women who were to be benefited by the
 			laws we desired to amend.</p>
 		<p>When the Federal indictments against me were dismissed I turned my attention to the State
 			laws and found various restrictions in over twenty three of the 48 states. In 25 states
@@ -70,7 +73,9 @@
 			scientific facts regarding the studies already made on the technique and methods of
 			contraception. It prohibits the entrance from <place>Europe</place> of articles, or
 			books or appliances most necessary to advance the scientific work of our clinics.</p>
-		<p>The Federal laws Section 211, 245, 305 must be amended to allow medical and scientific
+		<p>The Federal laws Section 211, <name type="law" reg="United States Criminal Code, Section 245"
+			>245</name>, <name type="law" reg="United States Criminal Code, Section 305"
+				>305</name> must be amended to allow medical and scientific
 			books, records and articles to be sent through the mails to and from the physicians and
 			include necessary provisions for the patients as well as that of druggist importers and
 			manufacturer. </p>

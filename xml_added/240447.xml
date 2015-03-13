@@ -5,7 +5,10 @@
 		<prepDate>2011/11/18 PS</prepDate>
 		<prepDate>2011/11/21 PS</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1930-02-23">
 			<supplied resp="MSPP">20 Feb 1930</supplied>
 		</docDate>
@@ -17,19 +20,18 @@
 		<idno>msp008951</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl><title>Margaret Sanger Papers Microfilm, Smith College Collections</title>
-				S71:208</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers Microfilm, Smith College
+					Collections</title> S71:208</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p><person reg="Sanger, Margaret">Margaret Sanger</person> gave this speech at a public
-			"mass meeting" to end the <title type="conference">Western States Conference on Birth
-				Control and Population Problems</title>, organized by the <org>National Committee on
-				Federal Legislation for Birth Control</org> and held at the <org>Biltmore
-				Hotel</org> in <place reg="Los Angeles, CA">Los Angeles</place>, on February 23,
-			1930. No final version of the speech was found. For another speech given at the same
-			meeting, see "<xref from="235609.xml">The Next Step in Birth Control</xref>," February
-			20, 1930.</p>
+			"mass meeting" to end the <org>Western States Conference on Birth Control and Population
+				Problems</org>, organized by the <org>National Committee on Federal Legislation for
+				Birth Control</org> and held at the <org>Biltmore Hotel</org> in <place
+				reg="Los Angeles, CA">Los Angeles</place>, on February 23, 1930. No final version of
+			the speech was found. For another speech given at the same meeting, see "<xref
+				from="235609.xml">The Next Step</xref>," Feb. 20, 1930.</p>
 		<index level1="birth control" level2="laws and legislation" level3="Comstock Act"/>
 		<index level1="birth control" level2="movement" level3="goals and strategies"/>
 		<index level1="birth control" level2="laws and legislation" level3="Federal"/>
@@ -45,11 +47,10 @@
 			<del>I want to add my words of thanks &amp; appreciation to those of <person
 					reg="Millikan, Helen">Mrs. Millikan</person>s</del>
 		</p>
-		<p>I too want to take this opportunity to express my appreciation &amp; thanks to the <org
-				reg="Western States Conference on Birth Control and Population Problems, Conference Committee"
-				>Conference Committee</org> for its co-operation in making possible this Conference.
-			Especially do I appreciate the devotion given by those men &amp; women of the Committee
-			who <add>took time from their</add> professional duties to attend meetings &amp; to
+		<p>I too want to take this opportunity to express my appreciation &amp; thanks to the
+			Conference Committee for its co-operation in making possible this Conference. Especially
+			do I appreciate the devotion given by those men &amp; women of the Committee who
+				<add>took time from their</add> professional duties to attend meetings &amp; to
 			carry out the plans of the conference. Those who do the most, get the most done.</p>
 		<p>The object of this conference is to call together those persons in these twelve Western
 			States who <add>in the past</add> have shown an interest in the birth control or
@@ -62,7 +63,7 @@
 				>Mid Western <add>States</add></org>
 			<add> &amp; 11</add>
 			<org
-				reg="National Committee on Federal Legislation for Birth Control, Easten States Region"
+				reg="National Committee on Federal Legislation for Birth Control, Eastern States Region"
 				>Eastern Regional States</org> on a National programme for Federal legislation.</p>
 		<p>
 			<del>Already the 11 Eastern &amp; 14 Mid Western States are organizing working
