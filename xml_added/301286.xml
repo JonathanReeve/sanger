@@ -4,17 +4,19 @@
 	<mepHeader>
 		<prepDate>2009/07/21 LL</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1931-04-00">April 1931</docDate>
+		<prepDate>2015-03-17 CH recheck tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1931-04-00">Apr 1931</docDate>
 		<docTitle>
 			<titlePart>Committee on Federal Legislation for Birth Control</titlePart>
 		</docTitle>
 		<idno>msp301286</idno>
 		<sourceDesc>
 			<bibl><title type="article">The Pro and Con Feature: Proposed Federal Legislation on
-					Birth Control,</title>
-				<title type="journal">Congressional Digest</title>, April 1931, 104-108.</bibl>
-			<bibl><title>Margaret Sanger Microfilm</title>, C16:316</bibl>
+					Birth Control</title>, <title type="journal">Congressional Digest</title>, Apr.
+				1931, pp. 104-108</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:316</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="AGS">American Gynecological Society</name>
@@ -23,8 +25,8 @@
 				Surgery Section</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">
-		<p>For the rest of the testimony see <title>MSM</title> C15:752.</p>
+	<headNote resp="MSPP"><p>For additional information, see <xref from="303736.xml">Sanger's
+				testimony on S. 4582</xref>, Feb. 13, 1931.</p>
 		<index level1="birth control" level2="laws and legislation" level3="doctors-only bills"/>
 		<index level1="birth control" level2="laws and legislation"
 			level3="Postal Code and Regulations"/>
@@ -38,9 +40,7 @@
 	</headNote>
 	<docBody>
 		<head>Committee on Federal Legislation for Birth Control</head>
-		<byline>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</byline>
+		<byline> Margaret Sanger </byline>
 		<p>The essential object of the <org
 				reg="National Committee on Federal Legislation for Birth Control">Committee on
 				Federal Legislation for Birth Control</org> in supporting this bill is to amend the
@@ -53,13 +53,12 @@
 			welfare of each child.</p>
 		<p>This is the first time that this particular kind of a bill has been introduced in the
 				<org reg="United States Senate">Senate</org>. The reason it has been referred to as
-				<name type="law" reg="Senate Bill 4582">the doctor’s bill</name> is to distinguish
-			it from other pieces of legislation on the same general subject, especially one bill
-			that was introduced in <org reg="United States Congress">Congress</org> in 1925, and
-			known as the “<name type="law" reg="Cummins-Vaile Bill">open bill</name>.” That bill
-			aimed to take the whole subject of the prevention of conception out of the law, while
-			this bill only asks that exceptions shall be made in these laws for physicians and for
-			the regular practice of the medical profession.</p>
+			the doctor’s bill is to distinguish it from other pieces of legislation on the same
+			general subject, especially one bill that was introduced in <org
+				reg="United States Congress">Congress</org> in 1925, and known as the “open bill.”
+			That bill aimed to take the whole subject of the prevention of conception out of the
+			law, while this bill only asks that exceptions shall be made in these laws for
+			physicians and for the regular practice of the medical profession.</p>
 		<p>We not only want motherhood to be a conscious and controlled function but we want
 			parenthood to be something other than the consequences of a reckless, careless
 			shiftlessness. We want parenthood to be regarded as a fine instrument, a noble trust, a
@@ -177,11 +176,12 @@
 			Government, and indeed I feel highly complimented if we have been able to bring sane,
 			safe, and constructive ideas about the control of population to the Soviet
 			Government.</p>
-		<p>Not only governments like Russia, but the <org reg="United Kingdom Goverment">British
+		<p>Not only governments like Russia, but the <org reg="United Kingdom Government">British
 				Government</org> has also gone on record through certain of its departments as
-			approving of the practice of birth control. Just within the last year the <org reg="Lambeth Conference of Anglican Bishops">Lambeth
-				Conference</org> in <place>England</place> sanctioned the right of individuals to
-			practice birth control according to their conscience.</p>
+			approving of the practice of birth control. Just within the last year the <org
+				reg="Lambeth Conference of Anglican Bishops">Lambeth Conference</org> in
+				<place>England</place> sanctioned the right of individuals to practice birth control
+			according to their conscience.</p>
 		<p>The <org>British Medical Association</org> has also gone on record in favor and the <org
 				reg="United Kingdom Ministry of Health">Ministry of Health</org> in England has
 			approved the practice of allowing the patients who come to the maternal and infant
