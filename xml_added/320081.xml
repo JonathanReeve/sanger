@@ -12,6 +12,7 @@
 		<prepDate>2014-11-10 CH clean regs</prepDate>
 		<prepDate>2015-02-19 EK update index and check tags</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-03-17 EK correct index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -33,9 +34,11 @@
 			for Part 7, see <xref from="320088.xml">Dec. 17, 1911.</xref></p>
 		<p>This series was compiled and published as <title type="book">What Every Mother Should
 				Know</title>, (New York, 1912).</p>
+		<index level1="Sanger, Margaret" level2="books" level3="What Every Girl Should Know"/>
 		<index level1="reproduction"/>
 		<index level1="sex education"/>
 		<index level1="sex and sexuality" level2="MS on"/>
+		
 	</headNote>
 	<docBody>
 		<head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>
