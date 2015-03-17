@@ -10,11 +10,10 @@
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2014/04/30 VS corrected transcriptions with more complete copy</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-03-17 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1920-12-30">30 Dec 1920</docDate>
+		<docDate value="1920-12-30">30 December, 1920</docDate>
 		<docTitle>
 			<titlePart>Birth Control--The Fundamental Freedom</titlePart>
 		</docTitle>
@@ -22,7 +21,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">Oklahoma State Register</title>, Dec. 30, 1920</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:0146</bibl>
+				C16:146</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -31,13 +30,14 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>The article was originally published in "the <title type="journal">National
-				Suffragist</title>.</p>
+				Suffragist</title>." For an incomplete version, see Margaret Sanger Microfilm,
+			Collected Documents Series, C16:146.</p>
 		<index level1="abortion" level2="laws and legislation"/>
 		<index level1="England" level2="birth control in"/>
 		<index level1="Germany" level2="abortion in"/>
 		<index level1="Germany" level2="birth control in"/>
 		<index level1="Germany" level2="population policies of"/>
-		<index level1="Gemany" level2="socio-economic conditions"/>
+		<index level1="Gemany" level2="socioeconomic conditions"/>
 		<index level1="Germany" level2="working classes in"/>
 		<index level1="Malthusian theory" level2="opposition to"/>
 		<index level1="Netherlands" level2="birth control in"/>
