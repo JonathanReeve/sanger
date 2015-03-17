@@ -5,6 +5,7 @@
 		<prepDate>2014/07/16 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
 		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-03-17 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -23,11 +24,13 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="Birth Control Review, The"/>
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="Sanger, Margaret" level2="books" level3="What Every Girl Should Know"/>
 		<index level1="Mindell, Fania"/>
-		<index level1="birth control" level2="rights associated with"/>
-		<index level1="birth control" level2="opposition to"/>
-		<index level1="birth control" level2="war and"/>
-		<index level1="birth control" level2="distribution of information about"/>
+		<index level1="birth control" level2="distribution of information"/>
+		<index level1="New York" level2="birth control laws"/>
+		<index level1="woman suffrage"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
 		<head>EDITORIAL COMMENT</head>

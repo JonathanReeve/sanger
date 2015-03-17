@@ -5,13 +5,13 @@
 		<prepDate>2014/07/16 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
 		<prepDate>2015-03-04 CH recheck tags</prepDate>
-		<prepDate>2015-03-09 EK correct proof and udate index</prepDate>
+		<prepDate>2015-03-17 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1917-12-00">Dec. 1917</docDate>
+		<docDate value="1917-12-00">Dec 1917</docDate>
 		<docTitle>
-			<titlePart>Editorial New York State Birth Control Laws</titlePart>
+			<titlePart>Editorial Comment</titlePart>
 		</docTitle>
 		<idno>msp422041</idno>
 		<sourceDesc>
@@ -23,22 +23,18 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This unsigned editorial was likely written by <person reg="Sanger, Margaret">Margaret Sanger</person>.</p>
 		<index level1="Birth Control Review, The"/>
 		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
-		<index level1="censorship"/>
+		<index level1="Sanger, Margaret" level2="books" level3="What Every Girl Should Know"/>
 		<index level1="Mindell, Fania"/>
+		<index level1="birth control" level2="distribution of information"/>
 		<index level1="New York" level2="birth control laws"/>
-		<index level1="Sanger, Margaret" level2="books and pamphlets" level3="What Every Girl Should Know"/>
-		<index level1="Sanger, Margaret" level2="films" level3="Birth Control"/>
 		<index level1="woman suffrage"/>
 		<index level1="women and girls" level2="reproductive choices and decisions"/>
-		<index level1="working classes" level2="and birth control"/>
-		<index level1="working classes" level2="and family size"/>	
 	</headNote>
 	<docBody>
 		<head>EDITORIAL COMMENT</head>
-		<p>The appeal in the case of <person reg="Mindell, Fania">Fania Mindell</person> has been
+		<p>THE APPEAL in the case of <person reg="Mindell, Fania">Fania Mindell</person> has been
 			won. Miss Mindell was arrested in the <org reg="Brownsville Clinic">Brownsville birth
 				control clinic</org> for selling <title type="book">"What Every Girl Should
 				Know,"</title> Margaret Sanger's book on sex hygiene. By a 2 to 1 vote, the <org
@@ -61,7 +57,7 @@
 			$50, which Fania Mindell was, by its own admission, wrongly fined. Once again it has
 			been proved that it takes money to obtain "justice," and that the workers cannot
 			possibly afford to appeal cases.</p>
-		<p><place reg="New York">New York</place> has just enfranchised more than 3,000,000 women.
+		<p><place reg="New York">NEW YORK</place> has just enfranchised more than 3,000,000 women.
 			The ardent, self-sacrificing workers who devoted years of their lives to bringing this
 			result about deserve the highest praise and the gratitude of their sex. After their long
 			fight, they can now enjoy the fruits of victory. But only too large a proportion of
@@ -71,9 +67,9 @@
 			cast their vote, much less to take an intelligent interest in the problems of society.
 			Surely the next step is to set these women free. Birth control is the fundamental
 			liberty which they must have. We appeal to the new women citizens of New York State to
-			assist us in waging the battle which now takes pre-eminence--that for the repeal of laws
+			assist us in waging the battle which now takes pre-eminence-that for the repeal of laws
 			preventing the dissemination of birth control knowledge.</p>
-		<p>The war has taken the best energies of most radical and forward movements. Persons who
+		<p>THE WAR has taken the best energies of most radical and forward movements. Persons who
 			formerly were willing to work for the advancement of humanity are now devoting all their
 			strength to the world tragedy. But there are still some of us who believe birth control
 			to be a fundamental solution to the problems of poverty, prostitution, child labor and
@@ -91,7 +87,7 @@
 		<list>
 			<item>5,000 women living in prostitution,</item>
 			<item>5,000 women toiling in factories,</item>
-			<item>5,000 children toiling in mills,</item>
+			<item>5,000 women toiling in mills,</item>
 			<item>5,000 inmates of prisons,</item>
 			<item>5,000 derelicts of poorhouses,</item>
 		</list>
@@ -101,7 +97,7 @@
 			wiped off the statute books. The editors of this magazine would be glad to hear from
 			readers in all parts of the country willing to help either by contributing to an
 			investigation fund or by volunteering their time and services for research work.</p>
-		<p>The justices of the Supreme Court of New York State receive $17,500 a year. On this
+		<p>THE JUSTICES of the Supreme Court of New York state receive $17,500 a year. On this
 			pitiable salary, it is, of course, unreasonable to expect them to put in much time on
 			writing opinions which would serve to explain their frequently obscure acts to the
 			public that pays them. For instance, when the Appellate Division, First Department,
