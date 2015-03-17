@@ -10,6 +10,7 @@
 		<prepDate>2013-04-30 CH fix links</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-03-17 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -21,7 +22,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Mar. 2, 1913, p. 15</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:60</bibl>
+				C16:0060</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -47,7 +48,7 @@
 			and Silence, 1," see <xref from="304926.xml">Jan. 26, 1913</xref>, for Part XI, "Some
 			Consequences of Ignorance and Silence, 2" see <xref from="304927.xml">Feb. 2,
 				1913</xref>, </p>
-		
+		<index level1="Sanger, Margaret" level2="books" level3="What Every Girl Should Know"/>
 		<index level1="sex education"/>
 		<index level1="venereal disease"/>
 		<index level1="censorship"/>
