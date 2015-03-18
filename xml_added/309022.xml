@@ -5,6 +5,7 @@
 		<prepDate>2014/06/11 MM</prepDate>
 		<prepDate>2014/11/21 EK clean regs and correct proof</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-18 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -23,11 +24,11 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger likely drafted this short story outline in 1911. <index
-			level1="motherhood" level2="MS on"/>
+	<headNote resp="MSPP">Sanger likely drafted this short story outline in 1911. 
+		<index level1="Sanger, Margaret" level2="fictional writing"/>
+		<index 	level1="motherhood" level2="MS on"/>
 		<index level1="marriage" level2="MS on"/>
-		<index level1="racial/>ethnic references" level2="to Italians"/>
-		<index level1="sexuality" level2="MS on"/>
+		<index level1="sex and sexuality" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<head>

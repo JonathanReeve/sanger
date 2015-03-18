@@ -12,7 +12,7 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1914-07-00">Jul 1914</docDate>
+		<docDate value="1914-07-00">July 1914</docDate>
 		<docTitle>
 			<titlePart>An Important Book</titlePart>
 		</docTitle>
@@ -20,7 +20,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p.
 				35</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:549</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0549</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -30,8 +30,7 @@
 	<headNote>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="motherhood"/>
-		<index level1="birth control" level2="psychological benefits of"/>
-	</headNote>
+		</headNote>
 	<docBody>
 		<head>AN IMPORTANT BOOK</head>
 		<p>The latest champion of the idea of birth-control is Signor <person reg="Michel, Robert"

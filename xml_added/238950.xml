@@ -9,6 +9,7 @@
 		<prepDate>2014-03-04 CH fixing regs</prepDate>
 		<prepDate>2014-11-13 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -20,7 +21,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">The Birth Control Review</title> Dec. 1920, p. 89</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
-				S70:846</bibl>
+				S70:0846</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -30,22 +31,18 @@
 		<p>For typed draft of this article see LCM 131:427. A second article of the same name
 			appeared in the <xref from="238951.xml">Jan. 1921</xref>
 			<title type="journal">Birth Control Review</title>.</p>
-		<index level1="abortion" level2="in Germany"/>
+		<index level1="Germany" level2="abortion in"/>
+		<index level1="Germany" level2="birth control clinics in"/>
+		<index level1="Germany" level2="birth control in"/>
+		<index level1="Germany" level2="socio-economic conditions in"/>
 		<index level1="abortion" level2="laws and legislation"/>
 		<index level1="abortion" level2="MS on"/>
-		<index level1="Catholic Church" level2="birth control and abortion and"/>
-		<index level1="Germany" level2="children in"/>
-		<index level1="Germany" level2="post World War I"/>
-		<index level1="Germany" level2="socioeconomic conditions"/>
-		<index level1="Germany" level2="women in"/>
-		<index level1="Germany" level2="working classes" level3="descriptions of"/>
-		<index level1="labor movement" level2="birth control and"/>
-		<index level1="Malthusian theory" level2="opposition to"/>
-		<index level1="Sanger, Margaret Louise Higgins" level2="speaking tours"
-			level3="1920 (Germany)"/>
+		<index level1="Germany" level2="women"/>
+		<index level1="Germany" level2="working classes"/>
 		<index level1="syndicalism"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="Catholic Church" level2="and abortion"/>
+		<index level1="labor movement" level2="and birth control"/>
+		<index level1="Sanger, Margaret Louise Higgins" level2="tours" level3="1920 (Germany)"/>
 	</headNote>
 	<docBody>
 		<head>Women in Germany.</head>
