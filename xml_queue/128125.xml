@@ -4,15 +4,18 @@
 	<mepHeader>
 		<prepDate>2009/08/03 LL</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1932-28-03">28 March 1932</docDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1932-28-03">28 Mar 1932</docDate>
 		<docTitle>
 			<titlePart>The Foundation of World Peace</titlePart>
 		</docTitle>
 		<idno>msp128125</idno>
 		<sourceDesc>
-			<bibl><title>Margaret Sanger Papers</title>, Library of Congress</bibl>
-			<bibl>129:0490</bibl>
+			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
+			<bibl>Library of Congress Microfilm 129:0490</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -29,7 +32,7 @@
 	</headNote>
 	<docBody>
 		<head>THE FOUNDATION OF WORLD PEACE</head>
-		<byline>by <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>by Margaret Sanger</byline>
 		<p> In the past there have been many and diverse causes of War, but the economic factors and
 			the pressure of population on the resources of a country are pre-eminently at the root
 			of our modern wars.</p>
@@ -81,8 +84,8 @@
 			over-population. She has a population of approximately 60,000,000 according to the
 			census of 1928. She has about 150,000 square miles of territory. Only one-sixth of this
 			area is cultivable which brings her density of population up to 993 persons a square
-			mile-- the highest in the world. She has an enormously high birth rate of 34.8 and a
-			death rate of 19.2-- the second highest natural increase of any country today. Besides
+			mile--the highest in the world. She has an enormously high birth rate of 34.8 and a
+			death rate of 19.2--the second highest natural increase of any country today. Besides
 			this she has an increase of 800,000 to 900,000 infants a year.</p>
 		<p>Japan has not the resources to feed this growing population. She has not been allowed
 			free access to other lands as other European aliens. The world has closed its doors
@@ -104,14 +107,14 @@
 				reg="Manchuria, China">Manchuria</place> just as naturally as a chick pops out of
 			its shell. She had little or no choice <emph rend="underline">after</emph> she allowed
 			conditions to drift until 1932. A farseeing government would have attempted to prevent
-			the now inevitable catastrophy by encouraging a check on the birth rate back in 1910
+			the now inevitable catastrophe by encouraging a check on the birth rate back in 1910
 			when the <name type="law" reg="United States Exclusion Act">U.S.A. Exclusion Act</name>
 			spread to <place>Australia</place> and other countries.</p>
 		<p><place>Italy</place> is preparing herself to go the way of Japan. Already she has a
 			population which she cannot feed from her own soil. The population in 1927 was
 			40,548,683, her birth rate 26.4, which had decreased as other countries in
 				<place>Europe</place> had since 1914. Her death rate of 15.5 had also decreased,
-			giving her a material increase of 10.9 per thousand-- far too high for the peace of
+			giving her a material increase of 10.9 per thousand--far too high for the peace of
 			Europe. She has not over 120,000 square miles of territory, less than that of Japan
 			proper. As Italian emigrants are now practically barred from the <place
 				reg="United States">U.S.A.</place>, it means that she must provide for the surplus
@@ -130,7 +133,5 @@
 			of Public Health Agencies. The birth rate must likewise be regarded as fully important
 			and given due consideration and responsibility if we would lay the foundation for World
 			Peace. </p>
-
-
 	</docBody>
 </doc>
