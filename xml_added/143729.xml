@@ -5,6 +5,7 @@
 		<prepDate>2014/06/10 AS Encoded</prepDate>
 		<prepDate>2014/12/16 EK correct proof</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1912-08-19">19 Aug 1913</docDate>
 		<docTitle>
@@ -14,13 +15,14 @@
 		</docTitle>
 		<idno>msp143729</idno>
 		<sourceDesc>
-			<bibl>Margaret Sanger Papers Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm, L130:575</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers, Library of Congress,</title> L130:0575</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="love" level2="MS on"/>
-	</headNote>
+		<index level1="Sanger, Margaret" level2="fictional writing"/>
+		<index level1="sex and sexuality" level2="and love"/>
+		</headNote>
 	<docBody>
 		<dateline>(<date value="1913-08-19">Aug 19--1913</date>.)</dateline>
 		<p>She entered the florist shop <del>and</del>, looked searchingly about <del>for</del>as if

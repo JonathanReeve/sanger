@@ -9,6 +9,8 @@
 		<prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 EK update index</prepDate>
+		<prepDate>2015-03-0</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1913-04-13">13 Apr 1913</docDate>
 		<docTitle>
@@ -17,7 +19,7 @@
 		<idno>msp304929</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Apr. 20, 1913</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Document Series</title> C16:65</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Document Series</title> C16:0065</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,9 +27,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="Sanger, Margaret" level2="arrests and imprisonment"/>
-		<index level1="labor movement" level2="Hazleton,PA Strike, 1913"/>
-		<index level1="working classes" level2="women and girls"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+		<index level1="labor movement" level2="strikes" level3="Hazleton, PA Strike, 1913"/>
+		<index level1="women and girls" level2="rights of"/>
+		
 	</headNote>
 	<docBody>
 		<head>WITH THE GIRLS IN HAZLETON JAIL</head>
@@ -67,7 +70,7 @@
 		<div type="section">
 			<p>The spirit of the girl was beyond everything ever known in that town before for
 				cheerfulness and defiance. Heretofore, it has been a terrible disgrace to go to the
-				"lock up ." But all this has changed in these few weeks, and the girl who serves her
+				"lock up." But all this has changed in these few weeks, and the girl who serves her
 				time on bread and water is considered a full-fledged fellow worker.</p>
 			<p>All night long, the boys and girls pounded upon the iron walls of their cells and
 				sang revolutionary songs for the benefit of the Mayor, police and political bosses,
