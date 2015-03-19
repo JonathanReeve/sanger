@@ -4,10 +4,13 @@
 	<mepHeader>
 		<prepDate>1934/12/07 YG</prepDate>
 		<prepDate>2015-02-25 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1934-12-07">07 Dec 1934</docDate>
 		<docTitle>
-			<titlePart>Family Security</titlePart>
+			<titlePart><supplied resp="MSPP">Family Security</supplied></titlePart>
 		</docTitle>
 		<idno>msp421061</idno>
 		<sourceDesc>
@@ -25,7 +28,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>The text of Sanger's speech was not found.</p>
+		<p>The text of Sanger's speech was not found, coverage from two newspapers is provided
+			instead.</p>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="American opinion on"/>
 		<index level1="birth control" level2="distribution of information about"/>
@@ -86,19 +90,19 @@
 			<p>
 				<q who="EPHP">She also blames <person reg="Sumners, Hatton W.">Rep. Hatton
 						Sumners</person>, chairman of the <org
-						reg="United States House of Representatives Judiciary Committee">House
+						reg="United States House of Representatives, Committee on the Judiciary">House
 						Judiciary committee</org>, for keeping the Birth Control Bill in the
 					committee last year.</q>
 			</p>
 			<p>“<person reg="Ashurst, Henry Fountain">Senator Ashurst</person> of <place
 					reg="Phoenix, AZ">Phoenix</place>, chairman of <org
-					reg="United States Senate Judiciary Committee">Judiciary of the Senate</org>,
+					reg="United States Senate, Committee on the Judiciary">Judiciary of the Senate</org>,
 				allowed the bill to reach the <org reg="United States Senate">senate</org>,” <q
 					who="EPHP">she said.</q></p>
 			<p>
 				<q who="EPHP">Mrs. Sanger expects a fight against establishing a birth control
 					clinic in <place reg="Dallas, TX">Dallas</place>, Representative Sumner’s home.
-					She will go to <place reg="Ft. Worth, TX">Ft. Worth</place>and Dallas after
+					She will go to <place reg="Fort Worth, TX">Ft. Worth</place>and Dallas after
 					leaving here.</q>
 			</p>
 			<p>“But I believe the people in Dallas will put up a good fight for the clinic,”<q

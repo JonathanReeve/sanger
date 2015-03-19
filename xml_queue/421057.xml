@@ -4,11 +4,17 @@
 	<mepHeader>
 		<prepDate>2014/05/02 YG</prepDate>
 		<prepDate>2015-02-19 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1934-11-10"><supplied resp="MSPP">10 Nov 1934</supplied></docDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1934-11-10">
+			<supplied resp="MSPP">10 Nov 1934</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the Arizona Daily
-				Star</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the Arizona Daily Star</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421057</idno>
 		<sourceDesc>
@@ -25,16 +31,17 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>At the top of her copy of this article, Sanger wrote "a very bad
-			interpretation of my words." No other versions were found. Sanger may have given a
-			similar talk to the <org reg="Tucson Technology Group">Technocracy Group</org> in Tucson
-			on Nov. 16, 1934.</p>
+	<headNote resp="MSPP">
+		<p>At the top of her copy of this article, Sanger wrote "a very bad interpretation of my
+			words." No other versions were found. Sanger may have given a similar talk to the <org
+				reg="Tucson Technology Group">Technocracy Group</org> in Tucson on Nov. 16,
+			1934.</p>
 		<index level1="Soviet Union"/>
 		<index level1="Soviet Union" level2="birth control in"/>
 	</headNote>
 	<docBody>
-		<head type="sub">Country of Contradictions, <person reg="Sanger, Margaret">Mrs.
-				Sanger</person>Brands <place reg="Soviet Union"> Russia</place></head>
+		<head type="sub">Country of Contradictions, Mrs.
+				Sanger Brands <place reg="Soviet Union">Russia</place></head>
 		<p>
 			<q who="ADS">Russia hoping to make greater scientific strides than any nation, yet with
 				fly paper hanging over operating tables. Brutal annihilation of intelligentsia and
@@ -58,7 +65,7 @@
 				becomes less an enigma as one listens to this internationally known woman, whose
 				pioneer work in birth and population control have brought her fame. She told of
 				Russia’s contradictions and ideals yesterday in the first interview she has given in
-				the United States since her U.S.S.R. visit. Mrs. Sanger Is spending the winter in
+				the <place>United States</place> since her U.S.S.R. visit. Mrs. Sanger Is spending the winter in
 					<place reg="Tucson, AZ">Tucson</place>, having brought her son, <person
 					reg="Sanger, Stuart">Grant</person>, here for sunshine and recovery of health.
 			</q>
@@ -114,7 +121,7 @@
 				the pivot of the short week." </p>
 			<p>"Forty per cent of the machines in factories are operated by women. There is no type
 				of work they do not do, for they share their equality, bitter and sweet, with men.
-				It was <person reg="Lenin, Vladimir">Lenin</person>who declared, ‘<q who="LENVL"
+				It was <person reg="Lenin, Vladimir Illyich">Lenin</person>who declared, ‘<q who="LENVL"
 					>women have been the most exploited of all creatures, especially by the family,
 					in the home and by the church. They have been exploited more than man by
 					industry. The first thing Russia will do is take the chains of women. She will
@@ -140,7 +147,7 @@
 				of marriage. I talked with a woman in Moscow about marriages and asked her what
 				happened when men lived with young girls. There was puzzlement on her face. She
 				asked again and again, through the interpreter, what I meant by ‘living together,’
-				‘being promiscuous.’ She counciled with some nurses. They could not understand me.
+				‘being promiscuous.’ She counseled with some nurses. They could not understand me.
 				If I meant cohabitation, then there was no ‘living together,’ but it was marriage.
 				Prostitution, which was most prevalent under the old regime, there having been some
 				40,000 prostitutes in Moscow alone, is stamped out under the new system and I was
@@ -189,7 +196,7 @@
 
 		<div>
 			<head type="sub">Explains Divorce</head>
-			<p>"I may pause here,"<q who="type">Mrs. Sanger said</q>, "to tell what grounds may be
+			<p>"I may pause here,"<q who="ADS">Mrs. Sanger said</q>, "to tell what grounds may be
 				considered justifiable for divorce. One man sued because of his wife’s hysteria.
 				This was on the basis that the constant tempers, pushing, slapping, shoving and
 				reprimanding of child was bad environmentally, and she was not a fit mother. The
@@ -200,7 +207,7 @@
 					reg="Lebidova, Dr.">Dr. Lebidova</person>, who is in charge of the great
 				institute and is now taking over Russia’s sanitary problems, assured me environment
 				for children is more important than the morals, on our basis, of the parents.</p>
-			<p>The second show place is the aboritorium. To this thousands of women go, and the
+			<p>The second show place is the abortorium. To this thousands of women go, and the
 				surgeons have become expert in this type of surgery. If a woman desires not to go on
 				with her pregnancy, the situation is remedied. True, the officials try to dissuade
 				first mothers from abortions, but if she insists, her wish is granted. The man and
@@ -271,7 +278,7 @@
 					passing a group of children, who pointed at the party and remarked: “<q
 						who="UNK">Ah, there go some of the dying race.</q>” They referred, Mrs.
 					Sanger said, to the dying race of capitalism. It is to America that the Russians
-					look because of ourconstant travel, our richness, our commerce, our leadership
+					look because of our constant travel, our richness, our commerce, our leadership
 					in the world and our learning.</q></p>
 			<p>She spoke of the tremendous building-home program going on now, saying that Russia
 				had gone through her great industrial period and is now emerging into consideration

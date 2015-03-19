@@ -3,65 +3,67 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2014/04/04 YG</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1934-07-10">10 July 1934</docDate>
 		<docTitle>
-			<titlePart>Statement on Birth Control and Law in the <place>United
-					States</place></titlePart>
+			<titlePart>Statement on Birth Control and Law in the United
+				States</titlePart>
 		</docTitle>
 		<idno>msp421079</idno>
 		<sourceDesc>
 			<bibl>
-				<title>Svenska Dagbladet</title>
-			</bibl>
-			<bibl>
-				<title>MSM</title>
+				<title><foreign lang="SWE">Svenska Dagbladet</foreign></title>
 			</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="SD">Svenska Dagbladet</name>
+			<name id="SWE">Swedish</name>
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger gave a press conference in <place
-			reg="Stockholm, Sweden">Stockholm</place>on July 10, 1934. The
-		comments were published in Svenska Dagbladet, a conservative newspaper.
-		Text comes from a contemporary translation in the Margaret Sanger
-		Papers. <index level1="birth control laws and legislation"
-			level2="MS on"/>
+	<headNote resp="MSPP"><p>Sanger gave a press conference in <place
+				reg="Stockholm, Sweden">Stockholm</place>on July 10, 1934. The
+			comments were published in <title type="journal"><foreign lang="SWE"
+					>Svenska Dagbladet</foreign></title>, a conservative
+			newspaper. Text comes from a translation made by Margaret Sanger's
+			staff.</p>
+		<index level1="birth control laws and legislation" level2="MS on"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
 	</headNote>
 	<docBody>
 		<head>The Irish Woman Who Helped the American Woman</head>
 		<head type="sub">Birth Control Lawful in the <place reg="United States"
-				>U.S.A.</place> - For Five Minutes</head>
+				>U.S.A.</place>--For Five Minutes</head>
 		<div>
 			<p>
-				<q who="SD">Mrs. <person reg="Sanger, Margaret">Margaret
-						Sanger</person>from <place reg="United States"
+				<q who="SD">Mrs. Margaret Sanger from <place reg="United States"
 						>America</place>, one of Birth Control’s most zealous
 					champions, the pioneer for improving the condition of
 					American mothers and wives, is at present visiting in
-						<place>Stockholm</place> before she continues a few days
-					hence her study trip to <place reg="U.S.S.R."
-					>Russia</place>. About a decade ago Mrs. Sanger opened the
-					first Birth Control Clinic in America. This was then
-					possible by the revised law in this respect in <place>New
-						York</place>State. One desired objective for the entire
-					United States for which Mrs. Sanger is working is the
-					passage of the so-called Birth Control Bill. </q>
+					Stockholm before she continues a few days hence her study
+					trip to <place reg="Soviet Union">Russia</place>. About a
+					decade ago Mrs. Sanger opened the first <org
+						reg="Brownsville Clinic">Birth Control Clinic</org> in
+					America. This was then possible by the revised law in this
+					respect in <place>New York</place>State. One desired
+					objective for the entire United States for which Mrs. Sanger
+					is working is the passage of the so-called Birth Control
+					Bill. </q>
 			</p>
 			<p>
 				<q who="SD">This proposed law, which permits the dissemination
 					of knowledge concerning birth control and methods of
 					prevention through doctors, pharmacists and controlled
-					clinics, lately came before the Senate. It went through -
-					but only for five minutes. After this period one of the
-					voters woke up - parenthesis, a representative of the
-						<org>Catholic Church</org> - and protested. Thus, Birth
-					Control fell through that time. But Mrs. Sanger does not
-					despair.</q>
+					clinics, lately came before the Senate. It went through--but
+					only for five minutes. After this period one of the voters
+					woke up--parenthesis, a representative of the <org
+						reg="Roman Catholic Church">Catholic Church</org>--and
+					protested. Thus, Birth Control fell through that time. But
+					Mrs. Sanger does not despair.</q>
 			</p>
 			<p>“Next year the law will pass,” <q who="SD">said Mrs. Sanger
 					optimistically, when late Monday evening after an excursion
@@ -69,7 +71,9 @@
 					herself at our disposal for an interview. </q>“We have
 				worked for twenty years with faith and loyalty and some time our
 				effort must bear fruit.”</p>
-			<p>“The present law was introduced sixty years ago and nothing in it
+			<p>“The <name type="law"
+					reg="United States Criminal Code, Section 211">present
+					law</name> was introduced sixty years ago and nothing in it
 				has been changed since that time. We are no striving to change
 				it for the sake of the poor and burdened mother. If we have
 				effective birth control,” <q who="SD">Mrs. Sanger continued
@@ -77,9 +81,8 @@
 				wish to give mothers is a breathing space, so to speak, to give
 				them at least a couple of years between each child. That can
 				scarcely be too much to ask.” <q who="SD">In this connection
-					Mrs. Sanger asserted tha tthe highest mortality figures
-					among mothers occurs in the <place reg="United States"
-						>U.S.</place></q></p>
+					Mrs. Sanger asserted that the highest mortality figures
+					among mothers occurs in the U.S.</q></p>
 			<p>“A couple of weeks ago,” <q who="SD">Mrs. Sanger stated
 					further,</q> “a law was introduced in
 				<place>England</place>according to which doctors and clinics not
@@ -120,19 +123,22 @@
 					suffering sisters and the wish to lessen their burden which
 					later dictated her actions. She contrived by and by, after a
 					various number of reverses, among other a sojourn in prison,
-					to bring about a <org>Birth Control Congress</org>in
-					America, and a few years later she was present as a source
-					of inspiration at the World Population Conference in <place
-						reg="Geneva, Switzerland">Geneva</place>. Assiduous
-					studies of European conditions had, on her part, preceded
-					this conference. At the present time Mrs. Sanger is the
-					director of a Birth Control Clinic in New York. It was the
-					first of its kind but since then, hundreds have been
-					established in imitation of it.</q>
+					to bring about a <org
+						reg="International Neo-Malthusian and Birth Control Conference, 6th"
+						>Birth Control Congress</org>in America, and a few years
+					later she was present as a source of inspiration at the <org
+						reg="World Population Conference, 1927">World Population
+						Conference</org> in <place reg="Geneva, Switzerland"
+						>Geneva</place>. Assiduous studies of European
+					conditions had, on her part, preceded this conference. At
+					the present time Mrs. Sanger is the director of a <org
+						reg="Birth Control Clinical Research Bureau">Birth
+						Control Clinic</org> in New York. It was the first of
+					its kind but since then, hundreds have been established in
+					imitation of it.</q>
 			</p>
 			<p>
-				<q who="SD"><org>The Women's Club</org> in <place
-						reg="Stockholm, Sweden">Stockholm</place>has planned a
+				<q who="SD"><org reg="Stockholm Women's Club">The Women's Club</org> in Stockholm has planned a
 					luncheon at <place reg="Moseback, Sweden">Moseback</place>
 					on Wednesday for the American visitor. </q>
 			</p>

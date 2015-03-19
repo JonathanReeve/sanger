@@ -6,8 +6,11 @@
 		<prepDate>2007/09/04 CH Corrections</prepDate>
 		<prepDate>2014/03/05 EK cleanup</prepDate>
 		<prepDate>2015-02-19 CH proof tags and correct</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1934-09-07 ">7 Sept 1934</docDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1934-09-07">7 Sept 1934</docDate>
 		<docTitle>
 			<titlePart>Birth Control</titlePart>
 		</docTitle>
@@ -28,7 +31,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p> For draft version see LCM 42:111.</p>
+		<p> For draft version see Library of Congress Microfilm 42:111.</p>
 		<index level1="birth control" level2="laws and legislation" level3="Comstock act"/>
 		<index level1="birth control" level2="laws and legislation" level3="State"/>
 		<index level1="birth control" level2="laws and legislation"
@@ -134,20 +137,27 @@
 			<head type="sub">
 				<emph rend="bold">Inflexible rules</emph>
 			</head>
-			<p>1. Section 211 of the United States Penal Code--Prohibits sending by, or receiving
-				from, the United States Mails information or supplies pertaining to the prevention
-				of conception. <emph rend="italics">There are no exemptions</emph>.</p>
-			<p>2. <name type="law" reg="United States Criminal Code, Section 245">Section 245 of the
-					United States Penal Code</name>--Also prohibits sending by, or receiving from,
-				an express company or other common carrier information or supplies pertaining to the
-				prevention of conception. <emph rend="italics">There are no exemptions</emph>.</p>
-			<p>3. Sections 311 and 312 affect the territories and districts of the United States and
-				are even more rigid in their prohibition, as the forbid even the <emph
-					rend="italics">possession</emph> of any article intended for the prevention of
-				conception. <emph rend="italics">There are no exemptions</emph>.</p>
-			<p>4. <name type="law" reg="United States Tarriff Code, Section 305">Section 305 of the
-					Tariff Act</name> prohibits the importation of articles pertaining to the
-				prevention of conception. <emph rend="italics">No exemptions</emph>.</p>
+			<list>
+				<item>1. Section 211 of the United States Penal Code--Prohibits sending by, or
+					receiving from, the United States Mails information or supplies pertaining to
+					the prevention of conception. <emph rend="italics">There are no
+						exemptions</emph>.</item>
+				<item>2. <name type="law" reg="United States Criminal Code, Section 245">Section 245
+						of the United States Penal Code</name>--Also prohibits sending by, or
+					receiving from, an express company or other common carrier information or
+					supplies pertaining to the prevention of conception. <emph rend="italics">There
+						are no exemptions</emph>.</item>
+				<item>3. <name type="law" reg="United States Criminal Code, Section 311">Sections
+						311</name> and <name type="law"
+						reg="United States Criminal Code, Section 312">312</name> affect the
+					territories and districts of the United States and are even more rigid in their
+					prohibition, as the forbid even the <emph rend="italics">possession</emph> of
+					any article intended for the prevention of conception. <emph rend="italics"
+						>There are no exemptions</emph>.</item>
+				<item>4. <name type="law" reg="United States Tariff Code, Section 305">Section 305
+						of the Tariff Act</name> prohibits the importation of articles pertaining to
+					the prevention of conception. <emph rend="italics">No exemptions</emph>.</item>
+			</list>
 			<p> The penalties for violation of these laws are of two kinds: a fine of $2,000 to
 				$5,000; or imprisonment for five years. Either or both may be imposed.</p>
 			<p>It should be noted that these federal laws make no exemption in their prohibitions
@@ -183,10 +193,10 @@
 				countries. Such materials and data would be of great assistance to the medical
 				profession of this country in the proper functioning of their profession. Despite
 				the enlightening decision of Judge <person reg="Woolsey, John Munro">Woolsey
-				</person>in the case of <person reg="Stopes, Marie">Marie Stopes</person>’ book
+				</person>in the case of <person reg="Stopes, Marie C.">Marie Stopes</person>’ book
 					“<title>Contraception</title>” in 1932, that there is nothing in Section 305 to
 				prevent contraceptive information from coming into this country, the <org
-					reg="United States Customs">Customs Authorities</org> continue to prevent the
+					reg="United States Customs Department">Customs Authorities</org> continue to prevent the
 				importation of contraceptive materials. We are in constant receipt of communications
 				from physicians frustrated in their attempts to secure materials from abroad, and at
 				the present time a case is pending which deals with a shipment from Japan that has
@@ -225,30 +235,41 @@
 				5978" were introduced by Senator <person reg="Hastings, Daniel O.">Daniel O.
 					Hastings</person> of <place>Delaware</place> and Congressman <person
 					reg="Pierce, Walter M.">Walter M. Pierce</person> of <place>Oregon</place> to
-				amend Sections 211, 245, and <name type="law"
-					reg="United States Criminal Code, Section 312">312 of the Criminal Code</name>,
+				amend Sections 211, 245, and 312 of the Criminal Code,
 				above quoted, by adding the following paragraph to each section:</p>
 		</div>
 		<div type="section">
 			<head type="sub">
 				<emph rend="bold">Amendment</emph>
 			</head>
-			<p><list>
-					<item><q who="USCON">"The provisions of this section shall not be construed to
+			<p>
+				<list>
+					<item>
+						<q who="USCON">"The provisions of this section shall not be construed to
 							apply to any book or information relating to the prevention of
 							conception, or article, instrument, substance, drug, medicine, or thing
 							designed, adapted, or intended for the prevention of conception, for
-							use</q></item>
-					<item><q who="USCON">(1) by any physician legally licensed to practise medicine
-							in any state, territory, or the <place reg="Washington, D.C.">District
-								of Columbia</place>, or by his direction or prescription;</q></item>
-					<item><q who="USCON">(2) by any medical college legally chartered under the laws
-							of any state, territory, or the District of Columbia;</q></item>
-					<item><q who="USCON">(3) by any druggist in his legitimate prescription
-							business; or</q></item>
-					<item><q who="USCON">(4) by any hospital or clinic licensed in any state
-							territory, or the District of Columbia."</q></item>
-				</list></p>
+							use</q>
+					</item>
+					<item>
+						<q who="USCON">(1) by any physician legally licensed to practise medicine in
+							any state, territory, or the <place reg="Washington, DC">District of
+								Columbia</place>, or by his direction or prescription;</q>
+					</item>
+					<item>
+						<q who="USCON">(2) by any medical college legally chartered under the laws
+							of any state, territory, or the District of Columbia;</q>
+					</item>
+					<item>
+						<q who="USCON">(3) by any druggist in his legitimate prescription business;
+							or</q>
+					</item>
+					<item>
+						<q who="USCON">(4) by any hospital or clinic licensed in any state
+							territory, or the District of Columbia."</q>
+					</item>
+				</list>
+			</p>
 			<p>The passage of this legislation would automatically raise the ban which now prevents
 				thousands of hospitals and public health agencies from giving this service in
 				conjunction with their post-natal and pre-natal maternal care. It would enable
@@ -259,9 +280,10 @@
 				classes, inasmuch as the present laws are not enforced against physicians. Few
 				assumptions are more erroneous. In effect, today we have class legislation on the
 				subject of birth control. Those financially able to consult a private physician may
-				obtain contraceptive advice--the value of which is dependent upon the thoroughness with which the doctor
-				has been able to inform himself on the subject. Until recently, practically no
-				medical college included the subject of contraception in its curriculum.</p>
+				obtain contraceptive advice--the value of which is dependent upon the thoroughness
+				with which the doctor has been able to inform himself on the subject. Until
+				recently, practically no medical college included the subject of contraception in
+				its curriculum.</p>
 		</div>
 		<div type="section">
 			<head type="sub">
@@ -283,14 +305,13 @@
 				unchanged. All progress has been through judicial decisions or interpretations. In
 				1918, Judge <person reg="Crane, Frederick E.">Crane</person> opened the first
 				loophole in the legal wall surrounding the subject of contraception by ruling that
-				in <place>New York State</place>, under Section 1145 of the Penal
-					Code, physicians might legally give such advice for “<q who="CRAFR">the
-					cure or prevention of disease</q>.” As a result of this decision the Birth
-					Control Clinical Research Bureau was established in 1923 in <place
-					reg="New York, NY">New York City</place>. The case histories of over 40,000
-				women are on record there, forming a remarkable analysis of the physical, economic,
-				and emotional lives of these women. Every stratum of society and every religion is
-				proportionally represented.</p>
+				in <place>New York State</place>, under Section 1145 of the Penal Code, physicians
+				might legally give such advice for “<q who="CRAFR">the cure or prevention of
+					disease</q>.” As a result of this decision the Birth Control Clinical Research
+				Bureau was established in 1923 in <place reg="New York, NY">New York City</place>.
+				The case histories of over 40,000 women are on record there, forming a remarkable
+				analysis of the physical, economic, and emotional lives of these women. Every
+				stratum of society and every religion is proportionally represented.</p>
 			<p>Another notable decision was handed down by Federal Judge <person reg="Swan, Thomas "
 					>Swan</person> in 1930 when he indicated that the word “illegal” may be read
 				into the federal statute preceding the word “contraceptive.” Thus to prove a case
@@ -315,7 +336,7 @@
 				definitely and finally to be dissociated from an atmosphere of furtiveness and
 				obscenity, and openly handled as a legitimate medical problem.</p>
 			<p>Unquestionably today there is an overwhelming sentiment in the country for birth
-				control. Many persons are in total accord with Dean <person reg="Inge, William R."
+				control. Many persons are in total accord with Dean <person reg="Inge, William Ralph"
 					>Inge</person>’s opinion that “<q who="INGWI">the Comstock legislation in
 					America has done unmixed harm. It is worse than useless to put down by law a
 					practice which a very large number of people believe to be harmless, and which

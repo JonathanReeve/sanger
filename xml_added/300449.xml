@@ -5,18 +5,22 @@
 		<prepDate>2014/01/24 VS initial encoding</prepDate>
 		<prepDate>2014/1/30 CH proofread encoding</prepDate>
 		<prepDate>2014-11-11 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1934-01-18">18 Jan 1934</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Testimony Before the U.S. Senate on S. 1842</supplied>
+				<supplied resp="MSPP">Testimony Before the United States Senate on S.
+					1842</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp300449</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control: Hearings before a Subcommittee of the
-					Committee on the Judiciary United States Senate Seventy-Third Congress Second
-					Session on S. 1842</title> (Washington, 1934), p. 14-21, and 149-163.</bibl>
+			<bibl><title type="book">Birth Control: Hearings before a Subcommittee of the Committee
+					on the Judiciary United States Senate</title> Seventy-Third Congress Second
+				Session on S. 1842 (Washington, 1934), pp. 14-21, and 149-163</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="HASDA">Hastings, Daniel</name>
@@ -35,9 +39,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>The following excerpt from the hearings, includes Margaret Sanger's testimony and the
-			questions she was asked. For the complete proceedings, see "Birth Control Hearings"
-			above. The chairman of the meeting was Senator Marvel Mills Logan. </p>
+		<p>The following excerpt from the hearings, includes only Margaret Sanger's testimony and
+			the questions she answered. The chairman of the meeting was Senator Marvel Mills Logan. </p>
 		<index level1="abortion" level2="laws and legislation"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="distribution of information about"/>
@@ -54,16 +57,15 @@
 		<head>STATEMENT OF MRS. <person reg="Sanger, Margaret">MARGARET SANGER</person>, PRESIDENT
 				<org reg="National Committee on Federal Legislation for Birth Control">NATIONAL
 				COMMITTEE ON FEDERAL LEGISLATION FOR BIRTH CONTROL INC.</org>; DIRECTOR, <org
-				reg="Birth Control Clinicsl Research Bureau">BIRTH CONTROL CLINIC RESEARCH
+				reg="Birth Control Clinical Research Bureau">BIRTH CONTROL CLINIC RESEARCH
 				BUREAU</org>, <place reg="New York, NY">NEW YORK CITY</place></head>
 		<div>
-			<p>Mrs. SANGER. <person reg="Logan, Marvel Mills">Mr. Chairman</person>, this bill,
-					<title type="law">S. 1842</title>, concerns, in my estimation, the 32,612,792
-				women of child-bearing age in this <place reg="United States">country</place>. I
-				believe that it concerns that number of women, because every woman, when she becomes
-				of adult age, naturally looks forward to the time when she may be married and become
-				a mother. There are 20,441,719 married women of child-bearing age in this
-				country.</p>
+			<p>Mrs. SANGER. <person reg="Logan, Marvel Mills">Mr. Chairman</person>, this bill, S.
+				1842, concerns, in my estimation, the 32,612,792 women of child-bearing age in this
+					<place reg="United States">country</place>. I believe that it concerns that
+				number of women, because every woman, when she becomes of adult age, naturally looks
+				forward to the time when she may be married and become a mother. There are
+				20,441,719 married women of child-bearing age in this country.</p>
 			<p>I have had the privilege of coining the term by which this bill is likely to be know,
 				“birth control” legislation. I would like to say that birth control means the
 				control of the birth rate, by means that prevent conception. It does not mean that
@@ -82,16 +84,17 @@
 			<p>Some years ago as a trained nurse, I found that I could not discuss this question
 				with mothers; that I was unable to get information to assist them, even after they
 				had been told by the doctors that another baby would cost them their lives. We found
-				that the main thing in the way of doing that was <title type="law"><rs
-						reg="section 211 of U.S. Penal Code">sections 211</rs> and <rs
-						reg="section 245 of U.S. Penal Code">245</rs> of the Penal code</title>,
-				passed by the <org reg="United States Congress">Congress</org> 61 years ago.</p>
+				that the main thing in the way of doing that was <name type="law"
+					reg="United States Criminal Code, Section 211">sections 211</name> and <name
+					type="law" reg="United States Criminal Code, Section 245">245</name> of the
+				Penal code, passed by the <org reg="United States Congress">Congress</org> 61 years
+				ago.</p>
 			<p>Mr. Chairman, in looking over the record and the history of that law and the way it
 				was placed upon the statute books, I contend and believe that Congress at that time
 				never intended that persons should be deprived of knowledge by which they could
 				reasonably rear and care for their children. The whole law and all the discussion
 				around it at that time, as we find it in the record, has relation to obscene
-				literature coming to this country that was being curculated among young people. The
+				literature coming to this country that was being circulated among young people. The
 				intention of the law was to stop the circulation of indecent literature, and the
 				prohibition of information to prevent conception never was intended in the sense of
 				its rightful use. I cannot believe that any Congress then or today would want to
@@ -102,7 +105,7 @@
 				carriers. It makes no exemption for scientific or medical literature, to permit such
 				to go through the mails or by common carriers. We fell that the <org
 					reg="United States Postal Service">United States mails</org> should be opened
-				for information on this subject to those qualified to make propers use of it for the
+				for information on this subject to those qualified to make proper use of it for the
 				good of the country</p>
 			<p>I have here, Mr. Chairman, the laws to which this bill pertains and a small leaflet
 				that we brought forth on Federal interference with the administration of State laws,
@@ -121,7 +124,7 @@
 				<p>(The statement of the present law and summary of the State law referred to was
 					marked “Exhibit B”; and the pamphlet entitled “<title type="journal">Federal
 						Interference with the Administration of State Laws</title>”, was marked
-					“Exhibit C”; both of which appear at the close of the sxtatement of this
+					“Exhibit C”; both of which appear at the close of the statement of this
 					witness.)</p>
 			</q>
 			<p>Mrs. SANGER. Because of these state laws and under the authority and the right of the
@@ -132,7 +135,7 @@
 					reg="Chicago, IL">Chicago</place>, where the large manufacturing concerns are
 				located. That is the situation today, and it is a situation that, to my mind, is
 				very reprehensible and that we hope to change through this bill, S. 1842, by
-				allowing the physicians, licenced clinics, and hospitals the right to use the States
+				allowing the physicians, licensed clinics, and hospitals the right to use the States
 				mails and common carriers for that legitimate and rightful purpose Section 211 also
 				makes it a crime for anyone to tell anyone else where such information may be
 				obtained. In other words, these clinics that are legally established in various
@@ -230,10 +233,10 @@
 				have a statement here of the number of those clinics and the location, but I do no
 				know whether I can put that in the record or not. There may be some question of a
 				violation of section 211.</p>
-			<q who="LOGMA">
-				<p>Senator LOGAN. That may be filed with the committee, and we will treat it as a
-					privileged communication.</p>
-			</q>
+
+			<p><q who="LOGMA">Senator LOGAN. That may be filed with the committee, and we will treat
+					it as a privileged communication.</q></p>
+
 			<p>(The document referred to was marked “Exhibit F”, and is filed with the
 				committee.)</p>
 			<p>Mrs. SANGER. I want to talk a little about the waste of life, a fact which brought me
@@ -282,11 +285,10 @@
 			<p>We believe that a child’s first right is to be wanted. We believe that hunger and
 				fear cannot create a wholesome home for a baby. We believe that during this crisis
 				the community cannot now keep in health and decency the children who are here.</p>
-			<p>I also have some interesting statistics submitted by <person
-					reg="Spengler, Joseph J.">Prof. Joseph J. Spengler</person>, <org>University of
-						<place>Arizona</place></org>, in relation to conditions in
-					<place>Colorado</place>, to which I should like to call attention to very
-				briefly.</p>
+			<p>I also have some interesting statistics submitted by Prof. <person
+					reg="Spengler, Joseph J.">Joseph J. Spengler</person>, <org>University of
+					Arizona</org>, in relation to conditions in <place>Colorado</place>, to which I
+				should like to call attention to very briefly.</p>
 			<p>In Weld County, <place reg="Greeley, CO">Greeley, Colorado</place>, the county
 				commissioners pay for birth-control supplies. The cost of supplying the patient with
 				birth-control supplies is approximately $1.50. The cost of the indigent woman either
@@ -303,19 +305,22 @@
 				through the mails.</p>
 			<p>I have just two or three letters here that I would like to call you attention to. The
 				first is from <place>Corydon, KY</place>., and reads as follows:</p>
-			<q who="UNK">
-				<p>I read your address in the <title type="journal">Evansville Press</title>, and I
-					wonder if you could help me any. I have two children. My mother has 10. I am
-					only 20 years old, I live in fear all the time for I never know when I will get
-					that way again. My oldest child is hairlipped and we want it fixed; part of it
-					has been fixed but haven’t the money to do any more. My husband only makes $10 a
-					week so you see it is all we can do to live. I will never forget it if you will
-					tell me how to keep from having children. I will tell my mother; her youngest
-					child is younger than mine. It is terrible; if you will only tell me I will do
-					anything in the world for you I can.</p>
-				<p>Please.</p>
-				<p>Yours truly.</p>
-			</q>
+
+			<p>
+				<q who="UNK">I read your address in the <title type="journal">Evansville
+						Press</title>, and I wonder if you could help me any. I have two children.
+					My mother has 10. I am only 20 years old, I live in fear all the time for I
+					never know when I will get that way again. My oldest child is hairlipped and we
+					want it fixed; part of it has been fixed but haven’t the money to do any more.
+					My husband only makes $10 a week so you see it is all we can do to live. I will
+					never forget it if you will tell me how to keep from having children. I will
+					tell my mother; her youngest child is younger than mine. It is terrible; if you
+					will only tell me I will do anything in the world for you I can.</q></p>
+			<p>
+				<q who="UNK">Please.</q></p>
+			<p>
+				<q who="UNK">Yours truly.</q></p>
+
 			<p>This woman could have been sent to <place reg="Louisville, KY">Louisville</place>
 				where there is a birth-control clinic. We could have had a social worker take her
 				there. It would pay the people of <place>Kentucky</place> to pay her carfare to that
@@ -324,19 +329,21 @@
 				decent information to protect herself.</p>
 			<p>Here is another letter from <place reg="Memphis, TN">Memphis</place> along the same
 				lines, which I should like to read:</p>
-			<q who="UNK">
-				<p>In regard to Birth-control bill S. 1842, how I wish all those people, priest and
-					all that are so bitter against birth control, had to have babies every 9 months
-					and know what it is to see little children hungry and cold, not to say anything
-					about the slave life the poor mother is living and the suffering she goes
-					through. I will do all I can for the cause. I haven’t any money - we are sure
-					having a struggle these days to make ends meet. Only hope the bill goes through
-					for we poor women need help if anything or anybody does.</p>
-				<p>I worry so much. I have such a hard time. Oh, I don’t want any more babies - am
-					half crazy - am half tempted to leave my husband, but then how would I get
-					along, and there are the children, and we all love one another, and he doesn’t
-					want any more babies either, so write my, dear unseen friend.</p>
-			</q>
+
+			<p>
+				<q who="UNK">In regard to Birth-control bill S. 1842, how I wish all those people,
+					priest and all that are so bitter against birth control, had to have babies
+					every 9 months and know what it is to see little children hungry and cold, not
+					to say anything about the slave life the poor mother is living and the suffering
+					she goes through. I will do all I can for the cause. I haven’t any money--we are
+					sure having a struggle these days to make ends meet. Only hope the bill goes
+					through for we poor women need help if anything or anybody does.</q></p>
+			<p>
+				<q who="UNK">I worry so much. I have such a hard time. Oh, I don’t want any more
+					babies--am half crazy - am half tempted to leave my husband, but then how would
+					I get along, and there are the children, and we all love one another, and he
+					doesn’t want any more babies either, so write my, dear unseen friend.</q></p>
+
 			<p>Here is one from <place reg="Maxwell, IA">Maxwell, Iowa</place>. I should also like
 				to read this into the record: <q who="UNK">I have been married 10 years and during
 					that time have given birth to 5 children: 3 girls and 2 boys. After the third
@@ -355,15 +362,15 @@
 					my husband and I both would consider it a godsend. e cannot take proper care of
 					the ones we have, let alone any more. My baby is 2 months old and I want to find
 					out something to do before I have the chance to get pregnant again.</q></p>
-			<q who="UNK">
-				<p>Miss Sanger, if you know of anything to help me stop all this, please inform me,
-					for I am getting desperate. I have been tempted to commit suicide many a time.
-					If I had good health, it would not be so bad but I wish you could see me. I
-					married when I was 16. I will be 27 my next birthday and I look older than my
-					husband and he is 35. And I feel older than I look. Everybody speaks about how
-					tired I look and I am tired. So tired, nervous, and worn out I feel like I could
-					drop in the floor and die without a single shudder.</p>
-			</q>
+
+			<p><q who="UNK">Miss Sanger, if you know of anything to help me stop all this, please
+					inform me, for I am getting desperate. I have been tempted to commit suicide
+					many a time. If I had good health, it would not be so bad but I wish you could
+					see me. I married when I was 16. I will be 27 my next birthday and I look older
+					than my husband and he is 35. And I feel older than I look. Everybody speaks
+					about how tired I look and I am tired. So tired, nervous, and worn out I feel
+					like I could drop in the floor and die without a single shudder.</q></p>
+
 			<p>What would this law do? In the first place, it would place the proper responsibility
 				for the giving of information upon the medical profession and hospitals where women
 				go to have their babies, and to these maternal wards in the hospitals. It would give
@@ -396,7 +403,7 @@
 				<q who="LOGMA">Senator LOGAN. Thank you, Mrs. Sanger.</q>
 			</p>
 		</div>
-		<div>
+		<div type="section">
 			<head>FURTHER STATEMENT OF MRS. MARGARET SANGER, CHAIRMAN, NATIONAL COMMITTEE ON
 				LEGISLATION FOR BIRTH CONTROL, <place>WASHINGTON D.C.</place></head>
 			<p>Mrs SANGER. Mr. Chairman, I would like to cover just one point of rebuttal and, if
@@ -408,8 +415,8 @@
 				that is exactly the situation here, that it is misunderstanding. In the first place,
 				the amendment that we are proposing and that is under discussion is not the law. The
 				laws are already on the statute books in sections 211, 245, and <rs
-					reg="Section 312 of the U.S. Penal Code">312 of the Criminal Code</rs>. They
-				were enacted by Congress over 60 years ago.</p>
+					reg="United States Criminal Code, Section 312">312 of the Criminal Code</rs>.
+				They were enacted by Congress over 60 years ago.</p>
 			<p>All the conditions our opponents claim would happen in case this bill or this
 				amendment passes are taking place with the law as it is now and as it has been for
 				over 60 years. All that we ask is that this amendment exempt the medical profession,
@@ -421,7 +428,7 @@
 				between the State and Federal laws. Forty-seven States allow the physician to give
 				the contraceptive instruction for the “<q who="CRAFR">cure or prevention of
 					disease</q>;” other States do not mention the physician at all or do not mention
-				or limit the giving of information to the physicians ; and other States allow the
+				or limit the giving of information to the physicians; and other States allow the
 				medical colleges to instruct.</p>
 			<p>And so it varies in all of the States. In 24 States they have no restriction
 				whatsoever. We claim that the licensed physicians, hospitals, and clinics are proper
@@ -429,7 +436,7 @@
 				accordingly.</p>
 			<p>All that we are trying to do, I repeat, is to pass this amendment, which affects only
 				the United States mails and common carriers in regard to physicians, hospital and
-				clinics all licenced by their respective State laws. It does not affect these
+				clinics all licensed by their respective State laws. It does not affect these
 				circulars and these things that are already in existence and that have already been
 				forwarded through the mails. We all are opposed to these objectionable things. But
 				one of the reasons they are circulated is because there is no control over this
@@ -477,23 +484,23 @@
 				contraceptives in his medical profession. They simply do not allow the promiscuous
 				use of articles and advice and information to be hawked on the street corners and in
 				the shops.</p>
-			<p>The same may be said about England. Very recently there was a bill before the
-					<org>House of Lords</org>, proposed by <person reg="Dawson, Bertrand">Lord
-					Dawson</person>, who is the <person reg="George V">King</person>’s physician. In
-				England there has never been any restriction on contraceptive advice or information
-				since 1876. Now Lord Dawson has asked the House of Lords to pass a bill which will
-				not allow the sale of contraceptives on the street corners, or hawked on the
-				streets. The Lords passed the bill 46 to 6; with only 6 of the members against it,
-				because they wanted no restriction whatsoever. There was no question of restricting
-				the physician or medical practice, but those six Lords wanted no restriction
-				whatever because they felt that was not the way to go after abuses, but that
-				necessary reforms had to go further down into the moral conscience of the
-				individual.</p>
-			<q who="HASDA">
-				<p><person reg="Hastings, Daniel">Senator HASTINGS</person>. I suppose it is you
-					contention, Mrs. Sanger, that freedom in England has not destroyed the morality
-					of the youth of the nation?</p>
-			</q>
+			<p>The same may be said about England. Very recently there was a bill before the <org
+					reg="United Kingdom House of Lords">House of Lords</org>, proposed by <person
+					reg="Dawson, Bertrand">Lord Dawson</person>, who is the <person
+					reg="George V (England)">King</person>’s physician. In England there has never
+				been any restriction on contraceptive advice or information since 1876. Now Lord
+				Dawson has asked the House of Lords to pass a bill which will not allow the sale of
+				contraceptives on the street corners, or hawked on the streets. The Lords passed the
+				bill 46 to 6; with only 6 of the members against it, because they wanted no
+				restriction whatsoever. There was no question of restricting the physician or
+				medical practice, but those six Lords wanted no restriction whatever because they
+				felt that was not the way to go after abuses, but that necessary reforms had to go
+				further down into the moral conscience of the individual.</p>
+
+			<p><q who="HASDA"><person reg="Hastings, Daniel">Senator HASTINGS</person>. I suppose it
+					is you contention, Mrs. Sanger, that freedom in England has not destroyed the
+					morality of the youth of the nation?</q></p>
+
 			<p>Mrs. SANGER. That is my contention. It is the same with <place reg="Netherlands"
 					>Holland</place> and the other countries. In Holland, for instance, birth
 				control has been better organized than any other country in the world. Over 60 years
@@ -508,23 +515,24 @@
 				In other words, Holland has protected its women, has protected all of its women and
 				children, and has done away with, you might say useless, needless deaths of its
 				mothers; and they have more of a population increase proportionately. I think that
-				is a very interesting point in answer to <person reg="Ryan, John Agustus">Dr.
+				is a very interesting point in answer to <person reg="Ryan, John Augustine">Dr.
 					Ryan</person>’s point made here as to the question of decreasing population
 				which I will refer to later.</p>
 			<p>There are one or two points which I would like to include, among which are the
 				following:</p>
 			<p>Here is a book that has been brought out entitled <title type="book">Sex
 					Rhythm</title> published with “ecclesiastical approbation” by the <org>Latz
-					Foundation of Chicago</org>, and under the heading of <quote>“Consequences of
-					contraception”</quote> there is this question:</p>
-			<q who="LATLE">
-				<p>Question. Are all Catholic doctors in agreement as to the serious physical
-					consequence of contraception?</p>
-				<p>Answer. Very few have had the occasion to express themselves on this subject in
-					print. Probably the majority of Catholic practicing physicians would subscribe
-					to <person reg="Walshe, F. M.">Dr. F. M. Walshe</person>’s statement in the
-						<title type="journal">Catholic Medical Guardian</title> of July 1927 -</p>
-			</q>
+					Foundation of Chicago</org>, and under the heading of <q who="LATLE"
+					>“Consequences of contraception”</q> there is this question:</p>
+
+			<p><q who="LATLE">Question. Are all Catholic doctors in agreement as to the serious
+					physical consequence of contraception?</q></p>
+			<p><q who="LATLE">Answer. Very few have had the occasion to express themselves on this
+					subject in print. Probably the majority of Catholic practicing physicians would
+					subscribe to Dr. <person reg="Walshe, F. M.">F. M. Walshe</person>’s statement
+					in the <title type="journal">Catholic Medical Guardian</title> of July
+					1927--</q></p>
+
 			<p>And so on. I would like to include that, if I may. It says:</p>
 			<p>
 				<q who="WALFM">Hence, however great our forebodings as to the physical evils which
@@ -533,48 +541,50 @@
 					much greater evil obtains.</q>
 			</p>
 			<p>Then, under the heading of procreation in the same book it says:</p>
-			<q who="LATLE">
-				<p>Question. Are married people obliged to bring into the world all the children
-					they can?</p>
-				<p>Answer. Far from being of obligation, such a course may be utterly indefensible.
-					Broadly speaking, married couples have not the right to bring into the world
-					children whom they are unable to support, for they would thereby inflict a
-					grievous damage upon society.</p>
-			</q>
+
+			<p><q who="LATLE">Question. Are married people obliged to bring into the world all the
+					children they can?</q></p>
+			<p><q who="LATLE">Answer. Far from being of obligation, such a course may be utterly
+					indefensible. Broadly speaking, married couples have not the right to bring into
+					the world children whom they are unable to support, for they would thereby
+					inflict a grievous damage upon society.</q></p>
+
 			<p>I would also like to include that.</p>
-			<p>I would also like to present a statement by <person reg="Wolman, Leo">Dr. Leo
+			<p>I would also like to present a statement by Dr. <person reg="Wolman, Leo">Leo
 					Wolman</person>, chairman of the <org
-					reg="National Recovery Administration, Labor Advisory Board">Labor Advisory
-					Board of the N.R.A.</org> and a member of the <org>National Labor Board</org> of
-					<place>Washington D.C.</place>, as an economist and a man of vision and
-				experience.</p>
-			<q who="NEEMA">
-				<p>Senator NEELY. You may do that; you may put them all in.</p>
-			</q>
-			<p>[Statement by Leo Wolman was excluded and not transcribed.]</p>
-			<q who="NEEMA">
-				<p>Senator NEELY. Your time is getting short; 15 minutes has gone.</p>
-			</q>
+					reg="United States National Recovery Administration">Labor Advisory Board of the
+					N.R.A.</org> and a member of the <org reg="United States National Labor Board"
+					>National Labor Board</org> of <place reg="Washington, DC">Washington
+					D.C.</place>, as an economist and a man of vision and experience.</p>
+
+			<p><q who="NEEMA">Senator NEELY. You may do that; you may put them all in.</q></p>
+
+			<p><supplied resp="MSPP">The statement by Leo Wolman was omitted by the MSPP editors.
+				</supplied></p>
+
+			<p><q who="NEEMA">Senator NEELY. Your time is getting short; 15 minutes has
+				gone.</q></p>
+
 			<p>Mrs. SANGER. I have 20 minutes?</p>
-			<q who="NEEMA">
-				<p>Senator NEELY. Yes; but you have used 16 minutes now.</p>
-			</q>
+
+			<p><q who="NEEMA">Senator NEELY. Yes; but you have used 16 minutes now.</q></p>
+
 			<p>Mrs SANGER. I only have a little more.</p>
 			<p>Here is a ruling from the Post Office Department for a booklet called <title
-					type="journal">Contractptive Practices</title> addressed to <person
+					type="journal">Contraceptive Practices</title> addressed to <person
 					reg="Moore, Mrs. H. G.">Mrs. H.G. Moore</person>, stating that the use of mails
 				was prohibited.</p>
-			<p>[Letter to Mrs. H. G. Moore from the Post Office Department was excluded and not
-				transcribed]</p>
-			<q who="NEEMA">
-				<p>Senator NEELY. All of these documents may be printed in the record, without
-					taking your time to discuss them; but if you wish to discuss them, you may
-					proceed.</p>
-			</q>
+			<p><supplied resp="MSPP">The letter from the Post Office Department was omitted by the
+					MSPP editors. </supplied></p>
+
+			<p><q who="NEEMA">Senator NEELY. All of these documents may be printed in the record,
+					without taking your time to discuss them; but if you wish to discuss them, you
+					may proceed.</q></p>
+
 			<p>Mrs. SANGER. Thank you very much. Those are some of the various statements [handing
 				papers to Senator Neely].</p>
-			<p>[Statements produced by Margaret Sanger to Senator Neely were excluded and not
-				transcribed]</p>
+			<p><supplied resp="MSPP">The statements produced by Margaret Sanger were omitted by the
+					MSPP editors. </supplied>]</p>
 			<p>Mrs. SANGER. I would like Mr. Chairman, before Dr. Wilson speaks, to read one letter
 				written to me, because it is about a woman who came here from <place>West
 					Virginia</place>.</p>
@@ -589,32 +599,35 @@
 					miscarriages.</q>
 			</p>
 			<p>I find it goes on to tell the condition of this woman, and the doctor says:</p>
-			<q who="UNK">
-				<p>I have seldom seen such a deplorable pelvic condition in any woman.
-					Unquestionably it is due to her too-frequent bearing of children.</p>
-				<p>Mrs. Guthrie must be, without delay, subjected to extensive pelvic surgery. Above
-					all things her precancerous condition must be remedied at once. In addition to
-					her rectocele should be repaired, her uterine support reestablished, and a
-					surgical sterilization should be performed in order that the bearing of more
-					children may not undo this extensive work of surgical repair.</p>
-			</q>
+
+			<p>
+				<q who="UNK">I have seldom seen such a deplorable pelvic condition in any woman.
+					Unquestionably it is due to her too-frequent bearing of children.</q></p>
+			<p>
+				<q who="UNK">Mrs. Guthrie must be, without delay, subjected to extensive pelvic
+					surgery. Above all things her precancerous condition must be remedied at once.
+					In addition to her rectocele should be repaired, her uterine support
+					reestablished, and a surgical sterilization should be performed in order that
+					the bearing of more children may not undo this extensive work of surgical
+					repair.</q></p>
+
 			<p>Here is a woman who came here to testify on behalf of the other miners’ wives, and
 				she was found to be in such a deplorable state of condition. We have a letter from
 				this woman today, who pleads for the support of this bill, and concludes her letter
 				as follows:</p>
-			<q who="GUTLR">
-				<p>As the mother of 12 children I will have to close and get ready to go to the
-					hospital, asking the prayers of every religious person. As I believe in <name
-						type="diety">God</name> I also believe in birth control for humanity’s
-					sake.</p>
-				<p>Mrs. L. R. GUTHRIE</p>
-			</q>
+
+			<p><q who="GUTLR">As the mother of 12 children I will have to close and get ready to go
+					to the hospital, asking the prayers of every religious person. As I believe in
+						<name type="deity">God</name> I also believe in birth control for humanity’s
+					sake.</q></p>
+			<p><q who="GUTLR">Mrs. L. R. GUTHRIE</q></p>
+
 			<p>Father Ryan stated:</p>
-			<q who="RYAJO">
-				<p>I call attention to the obvious fact that unemployment and depression could not
-					be attained to any appreciable extent through birth-control practices for 15 or
-					20 years.</p>
-			</q>
+
+			<p><q who="RYAJO">I call attention to the obvious fact that unemployment and depression
+					could not be attained to any appreciable extent through birth-control practices
+					for 15 or 20 years.</q></p>
+
 			<p>He overlooks the factors of human distress and mental anguish of millions of mothers
 				living in constant fear of pregnancy, which could be immediately removed by the
 				passage of this bill. Furthermore, families who are at present on the relief rolls
@@ -623,7 +636,7 @@
 				family, could secure immediate relief, if able to go to public-health care clinics
 				and secure information to limit the size of the family during this period of
 				depression and unemployment.</p>
-			<p>To quote further from the book Rhythm, by <person reg="Latz, Leo">Dr. Leo
+			<p>To quote further from the book <title type="book">Rhythm</title>, by <person reg="Latz, Leo">Dr. Leo
 					Latz</person>, published with "Ecclesiastical approbation":</p>
 			<p>
 				<q who="LATLE">Burdens that test human endurance to the utmost limit and to which
@@ -640,7 +653,7 @@
 					of birth control by any class of the population. Prof. <person
 						reg="Thompson, Warren">Warren Thompson</person> admits this fact in the
 					statement put into the record of the hearings before the <org
-						reg="U.S. House of Representatives, Juciciary Committee">House of Judiciary
+						reg="United States House of Representatives, Committee on the Judiciary">House of Judiciary
 						Committee</org>, the 18th of last January.</q>
 			</p>
 			<p>I quote the passage referred to:</p>
@@ -664,7 +677,7 @@
 				stimulate the birth rate in the educated classes. We reply, it has been shown in the
 				cities of northern and western Europe that the democratic practice of birth control
 				has stimulated the birth rate of the educated classes, and they are now having more
-				children per family than the poorer classes (<person reg="Edin, Karl Arvin"
+				children per family than the poorer classes (<person reg="Edin, Karl"
 					>Edin</person> and <person reg="Bergdorfer, Fritz">Bergdorfer</person>).</p>
 			<p>Father Ryan criticized our criticism of <person reg="Coughlin, Charles E.">Father
 					Coughlin</person> who said it was a biblical injunction to <q who="BIB">be
@@ -676,7 +689,7 @@
 				potential mothers of 800,000 children, providing they did not interfere with the
 				Divine command to <q who="BIB">increase and multiply.</q> Father Ryan states that
 				the contention of the proponents of this bill is that <q who="RYAJO">the duty of
-					providing for the poor rests upon themselves rather than the State - by
+					providing for the poor rests upon themselves rather than the State--by
 					foregoing normal family life or by having no children or very few
 				children.</q></p>
 			<p>Yes, we do contend that self-respecting people “poor” or “near poor” prefer to help
@@ -718,23 +731,23 @@
 				to less fortunate women to receive the same advice. Her case proves to be one of our
 				contentions that pregnancy may jeopardize the life of women.</p>
 			<p><person reg="Burton, Ralph">Mr. Burton</person> introduced <person
-					reg="Chase, William Sheaf">Reverend Chase</person> as representing the
+					reg="Chase, William Sheafe">Reverend Chase</person> as representing the
 					<org>International Reform Federation</org>. This is incorrect. We have already
 				filed a statement from <person reg="Wilson, Clarence True">Rev. Clarence True
 					Wilson</person>, vice president of this organization, which states that the
 				International Reform Federation has taken no action on the legislation. The
 				statement of Reverend Chase is merely his personal opinion.</p>
-			<p>Canon Chase infers the <org reg="Lambeth Conference of Anglican Bishops">Lambeth Conference of Bishops</org> went on record as
-				opposed to birth control, which is untrue. We take exception to this statement and
-				quote herewith a paragraph from this statement of Lambeth Conference which reads as
-				follows:</p>
+			<p>Canon Chase infers the <org reg="Lambeth Conference of Anglican Bishops">Lambeth
+					Conference of Bishops</org> went on record as opposed to birth control, which is
+				untrue. We take exception to this statement and quote herewith a paragraph from this
+				statement of Lambeth Conference which reads as follows:</p>
 			<p>
 				<q who="LC">If there is a good moral reason why the way of abstinence should not be
 					followed, we cannot condemn the use of scientific methods to prevent conception
 					* * *</q>
 			</p>
 		</div>
-		<div>
+		<div type="section">
 			<head>WHAT THIS CHANGE IN THE LAW WILL DO</head>
 			<p>First, it will give the doctors, hospitals, clinics, dispensaries, public, State, and
 				county health agencies the right to order and receive, through the mails and common
@@ -759,12 +772,12 @@
 				have they had representatives of any non-Catholic organizations, except Mr. Ralph
 				Burton, their chairman.</p>
 			<p>While non-Catholic individuals have opposed this bill, they each and every one have
-				proclaimed they represented no organization. Mrs. Rufus Gibbs; <person
-					reg="Morgan, Gerry">Dr. Gerry Morgan</person>, dean of medical school of
-					<org>Georgetown University</org>, a Catholic university; <person
-					reg="Boorde, Thomas">Rev. Thomas Boorde</person>, Canon Sheafe Chase; <person
-					reg="Cattell, W. Henry">Dr. W. Henry Cattell</person>; <person reg="UNK">Mr.
-					Soloman</person> - all others represent Catholic organizations and thus attempt
+				proclaimed they represented no organization. Mrs. Rufus Gibbs; Dr. <person
+					reg="Morgan, Gerry">Gerry Morgan</person>, dean of medical school of
+				<org>Georgetown University</org>, a Catholic university; Rev. <person
+					reg="Boorde, Thomas">Thomas Boorde</person>, Canon Sheafe Chase; Dr. <person
+					reg="Cattell, W. Henry">W. Henry Cattell</person>; <person reg="UNK">Mr.
+					Soloman</person>--all others represent Catholic organizations and thus attempt
 				to impose their “beliefs” upon the American people.</p>
 			<p>We could respect and understand, though profoundly disagree with, our opponents, if
 				they came here and said:</p>
@@ -772,7 +785,7 @@
 				wrong. We cannot concede to any interference with the laws of Nature and we prefer
 				slums, overcrowding, disease, filth, maternal, and infant mortality, child labor,
 				prostitution, illiteracy, unemployment, crime, imbecility, national decadence, and
-				wars to any change in these laws --</p>
+				wars to any change in these laws--</p>
 			<p>But we cannot respect the attitude, the loose thinking, and the hypocrisy of those
 				who oppose birth-control practices and offer no practice alternative to take its
 				place.</p>

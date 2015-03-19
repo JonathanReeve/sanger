@@ -599,32 +599,35 @@
 					miscarriages.</q>
 			</p>
 			<p>I find it goes on to tell the condition of this woman, and the doctor says:</p>
-			<q who="UNK">
-				<p>I have seldom seen such a deplorable pelvic condition in any woman.
-					Unquestionably it is due to her too-frequent bearing of children.</p>
-				<p>Mrs. Guthrie must be, without delay, subjected to extensive pelvic surgery. Above
-					all things her precancerous condition must be remedied at once. In addition to
-					her rectocele should be repaired, her uterine support reestablished, and a
-					surgical sterilization should be performed in order that the bearing of more
-					children may not undo this extensive work of surgical repair.</p>
-			</q>
+
+			<p>
+				<q who="UNK">I have seldom seen such a deplorable pelvic condition in any woman.
+					Unquestionably it is due to her too-frequent bearing of children.</q></p>
+			<p>
+				<q who="UNK">Mrs. Guthrie must be, without delay, subjected to extensive pelvic
+					surgery. Above all things her precancerous condition must be remedied at once.
+					In addition to her rectocele should be repaired, her uterine support
+					reestablished, and a surgical sterilization should be performed in order that
+					the bearing of more children may not undo this extensive work of surgical
+					repair.</q></p>
+
 			<p>Here is a woman who came here to testify on behalf of the other miners’ wives, and
 				she was found to be in such a deplorable state of condition. We have a letter from
 				this woman today, who pleads for the support of this bill, and concludes her letter
 				as follows:</p>
-			<q who="GUTLR">
-				<p>As the mother of 12 children I will have to close and get ready to go to the
-					hospital, asking the prayers of every religious person. As I believe in <name
-						type="diety">God</name> I also believe in birth control for humanity’s
-					sake.</p>
-				<p>Mrs. L. R. GUTHRIE</p>
-			</q>
+
+			<p><q who="GUTLR">As the mother of 12 children I will have to close and get ready to go
+					to the hospital, asking the prayers of every religious person. As I believe in
+						<name type="deity">God</name> I also believe in birth control for humanity’s
+					sake.</q></p>
+			<p><q who="GUTLR">Mrs. L. R. GUTHRIE</q></p>
+
 			<p>Father Ryan stated:</p>
-			<q who="RYAJO">
-				<p>I call attention to the obvious fact that unemployment and depression could not
-					be attained to any appreciable extent through birth-control practices for 15 or
-					20 years.</p>
-			</q>
+
+			<p><q who="RYAJO">I call attention to the obvious fact that unemployment and depression
+					could not be attained to any appreciable extent through birth-control practices
+					for 15 or 20 years.</q></p>
+
 			<p>He overlooks the factors of human distress and mental anguish of millions of mothers
 				living in constant fear of pregnancy, which could be immediately removed by the
 				passage of this bill. Furthermore, families who are at present on the relief rolls
@@ -633,7 +636,7 @@
 				family, could secure immediate relief, if able to go to public-health care clinics
 				and secure information to limit the size of the family during this period of
 				depression and unemployment.</p>
-			<p>To quote further from the book Rhythm, by <person reg="Latz, Leo">Dr. Leo
+			<p>To quote further from the book <title type="book">Rhythm</title>, by <person reg="Latz, Leo">Dr. Leo
 					Latz</person>, published with "Ecclesiastical approbation":</p>
 			<p>
 				<q who="LATLE">Burdens that test human endurance to the utmost limit and to which
@@ -650,7 +653,7 @@
 					of birth control by any class of the population. Prof. <person
 						reg="Thompson, Warren">Warren Thompson</person> admits this fact in the
 					statement put into the record of the hearings before the <org
-						reg="U.S. House of Representatives, Juciciary Committee">House of Judiciary
+						reg="United States House of Representatives, Committee on the Judiciary">House of Judiciary
 						Committee</org>, the 18th of last January.</q>
 			</p>
 			<p>I quote the passage referred to:</p>
@@ -674,7 +677,7 @@
 				stimulate the birth rate in the educated classes. We reply, it has been shown in the
 				cities of northern and western Europe that the democratic practice of birth control
 				has stimulated the birth rate of the educated classes, and they are now having more
-				children per family than the poorer classes (<person reg="Edin, Karl Arvin"
+				children per family than the poorer classes (<person reg="Edin, Karl"
 					>Edin</person> and <person reg="Bergdorfer, Fritz">Bergdorfer</person>).</p>
 			<p>Father Ryan criticized our criticism of <person reg="Coughlin, Charles E.">Father
 					Coughlin</person> who said it was a biblical injunction to <q who="BIB">be
@@ -686,7 +689,7 @@
 				potential mothers of 800,000 children, providing they did not interfere with the
 				Divine command to <q who="BIB">increase and multiply.</q> Father Ryan states that
 				the contention of the proponents of this bill is that <q who="RYAJO">the duty of
-					providing for the poor rests upon themselves rather than the State - by
+					providing for the poor rests upon themselves rather than the State--by
 					foregoing normal family life or by having no children or very few
 				children.</q></p>
 			<p>Yes, we do contend that self-respecting people “poor” or “near poor” prefer to help
@@ -728,7 +731,7 @@
 				to less fortunate women to receive the same advice. Her case proves to be one of our
 				contentions that pregnancy may jeopardize the life of women.</p>
 			<p><person reg="Burton, Ralph">Mr. Burton</person> introduced <person
-					reg="Chase, William Sheaf">Reverend Chase</person> as representing the
+					reg="Chase, William Sheafe">Reverend Chase</person> as representing the
 					<org>International Reform Federation</org>. This is incorrect. We have already
 				filed a statement from <person reg="Wilson, Clarence True">Rev. Clarence True
 					Wilson</person>, vice president of this organization, which states that the
@@ -744,7 +747,7 @@
 					* * *</q>
 			</p>
 		</div>
-		<div>
+		<div type="section">
 			<head>WHAT THIS CHANGE IN THE LAW WILL DO</head>
 			<p>First, it will give the doctors, hospitals, clinics, dispensaries, public, State, and
 				county health agencies the right to order and receive, through the mails and common
@@ -769,12 +772,12 @@
 				have they had representatives of any non-Catholic organizations, except Mr. Ralph
 				Burton, their chairman.</p>
 			<p>While non-Catholic individuals have opposed this bill, they each and every one have
-				proclaimed they represented no organization. Mrs. Rufus Gibbs; <person
-					reg="Morgan, Gerry">Dr. Gerry Morgan</person>, dean of medical school of
-					<org>Georgetown University</org>, a Catholic university; <person
-					reg="Boorde, Thomas">Rev. Thomas Boorde</person>, Canon Sheafe Chase; <person
-					reg="Cattell, W. Henry">Dr. W. Henry Cattell</person>; <person reg="UNK">Mr.
-					Soloman</person> - all others represent Catholic organizations and thus attempt
+				proclaimed they represented no organization. Mrs. Rufus Gibbs; Dr. <person
+					reg="Morgan, Gerry">Gerry Morgan</person>, dean of medical school of
+				<org>Georgetown University</org>, a Catholic university; Rev. <person
+					reg="Boorde, Thomas">Thomas Boorde</person>, Canon Sheafe Chase; Dr. <person
+					reg="Cattell, W. Henry">W. Henry Cattell</person>; <person reg="UNK">Mr.
+					Soloman</person>--all others represent Catholic organizations and thus attempt
 				to impose their “beliefs” upon the American people.</p>
 			<p>We could respect and understand, though profoundly disagree with, our opponents, if
 				they came here and said:</p>
@@ -782,7 +785,7 @@
 				wrong. We cannot concede to any interference with the laws of Nature and we prefer
 				slums, overcrowding, disease, filth, maternal, and infant mortality, child labor,
 				prostitution, illiteracy, unemployment, crime, imbecility, national decadence, and
-				wars to any change in these laws --</p>
+				wars to any change in these laws--</p>
 			<p>But we cannot respect the attitude, the loose thinking, and the hypocrisy of those
 				who oppose birth-control practices and offer no practice alternative to take its
 				place.</p>

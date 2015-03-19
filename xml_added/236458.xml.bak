@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published Draft">
+<doc type="Published Speech">
 	<mepHeader>
 		<prepDate>2014/04/09 VS initial tagging</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1934-12-03">3 Dec 1934</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Casa Grande Speech Notes</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Casa Grande Speech Notes</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236458</idno>
 		<sourceDesc>
@@ -17,13 +21,14 @@
 			<resp/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke to two hundred at a gathering of woman's clubs in
-				<place>Casa Grande, AZ</place>, including the <org>Eloy Woman's Club</org>,
-				<org>Entre Nous</org>, the <org>Florence Women's Club</org>, the <org>Desert Woman's
-				Club</org>, the <org>Coolidge Junior Club</org>, the <org>Casa Grande Junior
-				Club</org>, and the <org>Matinee Musicale Club</org>. The program included poems,
-			music and a social at which Sanger was presented with a "famous rattlesnake string of
-			beads." No final version of the speech was found.</p>
+	<headNote resp="MSPP">
+		<p>Sanger spoke to two hundred at a gathering of woman's clubs in <place>Casa Grande,
+				AZ</place>, including the <org>Eloy Woman's Club</org>, <org>Entre Nous</org>, the
+				<org>Florence Women's Club</org>, the <org>Desert Woman's Club</org>, the
+				<org>Coolidge Junior Club</org>, the <org>Casa Grande Junior Club</org>, and the
+				<org>Matinee Musicale Club</org>. The program included poems, music and a social at
+			which Sanger was presented with a "famous rattlesnake string of beads." No final version
+			of the speech was found.</p>
 		<index level1="birth control" level2="civilization and"/>
 		<index level1="birth control clinics and leagues" level2="in US"/>
 		<index level1="birth rate" level2="population growth and"/>
@@ -32,8 +37,11 @@
 	</headNote>
 	<docBody>
 		<head>Casa Grande Speech Notes</head>
-		<dateline><place reg="Tucson, AZ">Tucson</place><lb/><date value="1934-12-00"
-			>Dec/34</date></dateline>
+		<dateline>
+			<place reg="Tucson, AZ">Tucson</place>
+			<lb/>
+			<date value="1934-12-00">Dec/34</date>
+		</dateline>
 		<p> There is no subject that has so large a practical significance </p>
 		<p> cuts so deeply into foundations</p>
 		<p> There is no other subject of equal importance left so long in equal obscurity.</p>
@@ -52,7 +60,8 @@
 			<org reg="United Kingdom House of Lords">House of Lords</org>
 		</p>
 		<p>
-			<org reg="Federal Council of Churches of Christ in America">Federal Council of Churches</org>
+			<org reg="Federal Council of Churches of Christ in America">Federal Council of
+				Churches</org>
 		</p>
 		<p>
 			<org>National Rabbis Association</org>
@@ -60,9 +69,7 @@
 		<p>
 			<org reg="New York Academy of Medicine">Academy of Medicine New York City</org>
 		</p>
-		<p>
-			Obstetrical and Abdominal Division
-		</p>
+		<p> Obstetrical and Abdominal Division </p>
 		<p> and nearly 200 County Medical Societies</p>
 		<p> 150 Birth Control Clinics established</p>
 		<p> Birth Control indicates is keynote new social and moral awakening </p>

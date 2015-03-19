@@ -3,6 +3,7 @@
 <doc type="Published Speech">
 	<mepHeader>
 		<prepDate>2014/04/09 VS initial tagging</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,7 +16,8 @@
 		<idno>msp236458</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S71:667</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S71:667</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -88,7 +90,8 @@
 				>improvements</supplied></p>
 		<p>
 			<person reg="Myers, William Starr">William Starr Myers</person>. 85 20 (105)</p>
-		<p> Professor <person reg="Ross, Edward A.">Ross</person> 150,000 babies born every day</p>
+		<p> Professor <person reg="Ross, Edward Alsworth">Ross</person> 150,000 babies born every
+			day</p>
 		<p> 100,000 babies die every day</p>
 		<p> 50,000</p>
 		<p>
@@ -100,7 +103,8 @@
 		<p> Clinics</p>
 		<p> Sir <person reg="Keith, Arthur">Arthur Keith</person> anthropologist enfolding in <place
 				reg="United States">America</place> greatest experiment in race building the world
-			has ever seen. Birth Control foundati <gap extent="one word" reason="illegible"/>
+			has ever seen. Birth Control <supplied resp="MSPP">foundation</supplied>
+			<gap extent="one word" reason="illegible"/>
 		</p>
 	</docBody>
 </doc>

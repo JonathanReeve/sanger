@@ -4,11 +4,16 @@
 	<mepHeader>
 		<prepDate>2014/04/04 VS initial tagging</prepDate>
 		<prepDate>2015-02-23 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1934-12-04">4 Dec 1934</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the <title type="journal">El Paso Herald
-						Post</title></supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the El Paso Herald
+						Post</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421060</idno>
 		<sourceDesc>
@@ -22,9 +27,10 @@
 			<name id="EPH">El Paso Herald</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave an interview at the <org>Hotel Hussman</org> in <place
-				reg="El Paso, TX">El Paso</place>, she also spoke at a luncheon there to forty
-			doctors; that speech was not found.</p>
+	<headNote resp="MSPP">
+		<p>Sanger gave an interview at the <org>Hotel Hussman</org> in <place reg="El Paso, TX">El
+				Paso</place>, she also spoke at a luncheon there to forty doctors; that speech was
+			not found.</p>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="lack of knowledge of"
 			level3="negative consequences of"/>
@@ -43,10 +49,12 @@
 					intelligently for birth control. She is a guest at the Hotel Hussman today en
 					route to Tucson with her <person reg="Sanger, Stuart">son</person>.</q>
 			</p>
-			<p><q who="EPH">A feminine, attractive woman with wavy reddish blonde hair combed back
+			<p>
+				<q who="EPH">A feminine, attractive woman with wavy reddish blonde hair combed back
 					from her face, she sat over her breakfast coffee in a pink negligee, looking the
 					antithesis of the militant person who she says people invariably expect her to
-					be.</q></p>
+					be.</q>
+			</p>
 			<p> “I think <place>California</place> has the best law on sterilization and one that
 				has been working over a period of five years,” <q who="EPH">she said.</q> “It is one
 				that can be followed with the greatest security for anyone who has fears of being
@@ -79,11 +87,13 @@
 				the operation is a minor one with the man and though a larger one with the woman
 				does not in any way affect the vital functions,” <q who="EPH">she said.</q>
 			</p>
-			<p><q who="EPH">Mrs. Sanger is not writing anything at present but she will delve into a
-					phase at some future time which is occupying the minds of many thinking
+			<p>
+				<q who="EPH">Mrs. Sanger is not writing anything at present but she will delve into
+					a phase at some future time which is occupying the minds of many thinking
 					people--the question: Do the boys ang girls of high school age today know more
 					about birth control than their mothers and fathers know now, or knew when they
-					were of high school age?</q></p>
+					were of high school age?</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub"> Promiscuity </head>

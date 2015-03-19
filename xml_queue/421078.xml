@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014/04/09 VS initial tagging</prepDate>
 		<prepDate>2015-02-19 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1934-07-10">10 Jul 1934</docDate>
 		<docTitle>
 			<titlePart>
@@ -15,9 +18,7 @@
 		<idno>msp421078</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>
-				<title>Library of Congress Microfilm 20:169</title>
-			</bibl>
+			<bibl> Library of Congress Microfilm 20:169 </bibl>
 			<bibl>
 				<title type="article">Fewer Children the Best Front Against War</title>, <title
 					type="journal"><foreign lang="SWE">Dagens Nyheter</foreign></title>
@@ -42,31 +43,30 @@
 	</headNote>
 	<docBody>
 		<head>FEWER CHILDREN ARE BEST FRONT AGAINST WAR</head>
-		<head type="sub"> U.S.A. HAS THE GREATED PERCENTAGE OF DEATHS IN CHILDBIRTH</head>
+		<head type="sub">U.S.A. HAS THE GREATED PERCENTAGE OF DEATHS IN CHILDBIRTH</head>
 		<dateline>
-			<place>Stockholm</place>
+			<place reg="Stockholm, Sweden">Stockholm</place>
 			<lb/>
 			<date value="1934-07-10">July 10 1934</date>
 		</dateline>
 		<div type="section">
 			<p> “For five minutes my proposal concerning a change in <place reg="United States"
 					>U.S.A.</place>’s sixty-year old Birth Control Law was actually elevated to
-				law,” <q who="DAGEN">related Mrs. <person reg="Sanger, Margaret">Margaret
-						Sanger</person>, known over the whole world as the foremost pioneer for
-					Birth Control, and now on a visit to <place reg="Stockholm, Sweden"
-						>Stockholm</place>.</q> “But afterwards an <person reg="McCarran, Patrick"
-					>elderly gentleman</person> in the <org reg="United States Senate">Senate</org>
-				woke up and protested, and so the work of many years for a change in this vital
-				problem was stopped for the time being. But next year it will go through.”</p>
-			<q who="DAGEN">
-				<p> Mrs. Sanger, who is traveling in <place>Europe</place> with the intention of
-					starting an international movement for organized Birth Control, and has now
-					arrived in Stockholm, is a lady with a gallant and tumultuous past. And that she
-					did little on her own part to avoid the storms one can see immediately in her
-					red Irish hair and clear blue American eyes. She has been called America’s most
-					slandered woman, and that is quite correct. To begin a campaign for legalized
-					birth control twenty-five years ago in America must have been a task with many
-					risks. Between 1921, when she called together the first <org
+				law,” <q who="DAGEN">related Mrs. Margaret Sanger, known over the whole world as the
+					foremost pioneer for Birth Control, and now on a visit to Stockholm.</q> “But
+				afterwards an <person reg="McCarran, Patrick">elderly gentleman</person> in the <org
+					reg="United States Senate">Senate</org> woke up and protested, and so the work
+				of many years for a change in this vital problem was stopped for the time being. But
+				next year it will go through.”</p>
+
+			<p><q who="DAGEN"> Mrs. Sanger, who is traveling in <place>Europe</place> with the
+					intention of starting an international movement for organized Birth Control, and
+					has now arrived in Stockholm, is a lady with a gallant and tumultuous past. And
+					that she did little on her own part to avoid the storms one can see immediately
+					in her red Irish hair and clear blue American eyes. She has been called
+					America’s most slandered woman, and that is quite correct. To begin a campaign
+					for legalized birth control twenty-five years ago in America must have been a
+					task with many risks. Between 1921, when she called together the first <org
 						reg="American Birth Control Conference, 1st">Birth Control Conference</org>
 					in America, and now, when her proposition became law, if only for five minutes,
 					lie many defeats and many personal persecutions, but also many glorious
@@ -77,8 +77,9 @@
 					when, a year later she returned to the United States, such a strong European
 					opinion stood back of her that the authorities found it advisable to forget the
 					little incident of by-gone days. Nevertheless, since then she has served a
-					month’s imprisonment. </p>
-			</q>
+					month’s imprisonment.</q>
+			</p>
+
 		</div>
 
 		<div type="section">
@@ -105,10 +106,11 @@
 				doctors and other medical scientists to render positive enlightenment regarding
 				Birth Control comes up, I believe it will be difficult to count the minutes of its
 				duration.”</p>
-			<q who="DAGEN">
-				<p> Wednesday, at one o’clock at Moseback there will be a meeting between Mrs.
-					Sanger and Swedish doctors and others who are interested.</p>
-			</q>
+
+			<p>
+				<q who="DAGEN">Wednesday, at one o’clock at Moseback there will be a meeting between
+					Mrs. Sanger and Swedish doctors and others who are interested.</q></p>
+
 		</div>
 	</docBody>
 </doc>
