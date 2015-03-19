@@ -5,11 +5,12 @@
 		<prepDate>2010/02/24 AC</prepDate>
 		<prepDate>2014/03/14 EK clean regs</prepDate>
 		<prepDate>2015-02-25 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1932-00-00">
-			<supplied resp="MSPP"> 1932 </supplied>
+			<supplied resp="MSPP">1932</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>
@@ -38,7 +39,7 @@
 		<index level1="pregnancy" level2="fears of"/>
 	</headNote>
 	<docBody>
-		<div>
+		<div type="section">
 			<p>Forgotten Man-- Today we witness the stirring among the masses toward male solidarity
 				emancipation as this country has not seen since its discovery.</p>
 			<p> But is it not time some voice should be raised in behalf of the FORGOTTEN
@@ -49,11 +50,11 @@
 				Mother whose life is shadowed by the constant fears of pregnancy but whose appeal
 				for knowledge is denied.</p>
 		</div>
-		<div>
+		<div type="section">
 			<p>Prostitution can not be fought by laws or espionage. Without birth control
 				prostitution can not be fought with success.</p>
 		</div>
-		<div>
+		<div type="section">
 			<p>Hordes of human beings hurled into existence through self-indulgence, accident, or
 				casual ignorance. This power of parenthood--with divine potentialities--has been
 				diverted from its course into cruel and ruthless exploitation.</p>
@@ -184,7 +185,7 @@
 				control for themselves have been most punctilious in keeping their news and opinions
 				on this subject cloistered with those which their ecclesiastical fathers handed down
 				to them. They left the work of refuting certain claims about sex and sin, and shame
-				to <emph rend="underlined">men</emph>. It was such writers as <person
+				to <emph rend="underline">men</emph>. It was such writers as <person
 					reg="Carpenter, Edward">Edward Carpenter</person>, Havelock Ellis, <person
 					reg="Forel, August">August Forel</person> and others equally courageous, who
 				dared to awaken and arouse public interest in the beauty, power and magnitude of the

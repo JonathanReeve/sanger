@@ -4,9 +4,13 @@
 	<mepHeader>
 		<prepDate>2010/24/02 Initials</prepDate>
 		<prepDate>2014/03/10 EK clean regs</prepDate>
-		<prepDate>2014-03-11 CH clean regs</prepDate><prepDate>2015-02-18 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1933-09-28">28 Sep 1933</docDate>
+		<prepDate>2014-03-11 CH clean regs</prepDate>
+		<prepDate>2015-02-18 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1933-09-28">28 Sept 1933</docDate>
 		<docTitle>
 			<titlePart>Women's Arts and Industries Exposition Address</titlePart>
 		</docTitle>
@@ -20,7 +24,8 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave this speech in <place reg="New York, NY">New York City</place>.</p>
+	<headNote resp="MSPP">
+		<p>Sanger gave this speech in <place reg="New York, NY">New York City</place>.</p>
 		<index level1="birth control" level2="laws and legislation" level3="Federal"/>
 	</headNote>
 	<docBody>

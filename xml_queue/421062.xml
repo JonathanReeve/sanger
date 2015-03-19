@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published Speech">
+<doc type="Published Interview">
 	<mepHeader>
 		<prepDate>2014-02-26 JK</prepDate>
 		<prepDate>2014-02-28 CH proof tags</prepDate>
 		<prepDate>2014-11-13 CH clean regs</prepDate>
 		<prepDate>2015-02-17 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1933-05-17">17 May 1933</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with <title type="journal"
-						>Richmond News Leader</title></supplied>
+				<supplied resp="MSPP">Interview with Richmond News
+					Leader</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421062</idno>
 		<sourceDesc>
-			<bibl><title type="article"> Predicts Clinics on Birth Control Soon
+			<bibl><title type="article">Predicts Clinics on Birth Control Soon
 					in Virginia </title>, <title type="journal">The Richmond
 					News Leader</title>, May 17, 1933, pp. 1 and 22</bibl>
 
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="RNL">The Richmond News Leader</name>
+			<name id="RNL">Richmond News Leader</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is a summary of an interview <person reg="Sanger, Margaret"
-				>Sanger</person> gave before speaking at the Egyptian Building
-			at the <org>Medical College of Virginia</org> in <place
-				reg="Richmond, VA">Richmond </place></p>
+		<p>This is a summary of an interview Sanger gave before speaking at the
+			Egyptian Building at the <org>Medical College of Virginia</org> in
+				<place reg="Richmond, VA">Richmond</place>.</p>
 		<index level1="birth control movement" level2="MS on"/>
 		<index level1="Catholic Church" level2="birth control and"/>
 		<index level1="sex education" level2="birth control and"/>
@@ -43,7 +45,6 @@
 			<place>Virginia</place></head>
 		<head type="sub">Mrs. Margaret Sanger Gives Views on Subject as She
 			Arrives for Lecture.</head>
-
 		<p>
 			<q who="RNL">Present economic conditions and unemployment coupled
 				with the fact that the loss of private fortunes will throw the
@@ -63,7 +64,7 @@
 		<p>“Virginia, which is one of the most progressive states in the <place
 				reg="United States">Union</place> in her wonderful eugenic laws,
 			and which has accomplished a remarkable achievement in increasing
-			her birthrate while decreasing the death rate, will undoubtably I
+			her birthrate while decreasing the death rate, will undoubtedly I
 			believe shortly establish birth control clinics in her borders.” </p>
 		<p><q who="RNL">Only one state in the Union, <place reg="MS"
 					>Mississippi</place>, will not legally allow a physician to
@@ -90,7 +91,7 @@
 				the death rate, particularly as regards infant mortality, has
 				been cut, and general conditions have been bettered.” </p>
 			<p>“The Catholics block our plans wherever they can,” <q who="RNL"
-					>she said.</q> “However in placed where public sentiment is
+					>she said.</q> “However in places where public sentiment is
 				firmly established they can do little. Moreover sentiment among
 				Catholic women I find is changing in favor of birth control, and
 				many individuals in the church are seeking information on the

@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2010-02-24 AC</prepDate>
 		<prepDate>2014-03-11 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1933-00-00">
 			<supplied resp="MSPP">1933</supplied>
 		</docDate>
@@ -13,9 +16,9 @@
 		</docTitle>
 		<idno>msp224705</idno>
 		<sourceDesc>
-			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collection</title>,
-				S71:0630</bibl>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> 
+				S71:630</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -32,13 +35,13 @@
 		<p>Women’s place in the creation of the structure of the future has never been more
 			important than it is today.</p>
 		<p> We witness the bankruptcy and the collapse of man’s attempt to conquer the universe and
-			dominate it in his man-made -- one-sided womanless battle for supremacy.</p>
+			dominate it in his man-made--one-sided womanless battle for supremacy.</p>
 		<p> He has flung railroads and airlines across continents, conquered the sir, harnesses the
 			endless torrents of water power. Through the lenses of his telescope he has explored
 			distant universes; through the lenses of his microscope he has waged war against germ
 			and microbe; girdled the globe in a fraction of a second with his radio broadcast.
 			Everything has been done and accomplished in the effort and desire to <emph
-				rend="underlined">Unite</emph> peoples and nations and to bring them closer
+				rend="underline">Unite</emph> peoples and nations and to bring them closer
 			together. Yet, we fond him goaded to a frenzy of power in exploitation and war.</p>
 		<p> In all his ventures and accomplishments woman has been allowed to march beside him--to
 			serve his physical needs, competing with animals as pack horses or nurse maids for his
@@ -70,7 +73,7 @@
 		<p> It is through this consciousness of birth, the recognition of the importance of the
 			quality of life itself, that women shall extricate humanity from the man-made muddle in
 			which it finds itself grounded today. Instead of a world torn asunder in jealousies and
-			bitterness created by irresponsible hordes in antagonism and despair--Woman consciously
+			bitterness created by irresponsible hordes in antagonism and despair-- Woman consciously
 			free could guide us into a future created by the all embracing love of peace on Earth--
 			Good will toward Men over the entire face of the globe. </p>
 	</docBody>
