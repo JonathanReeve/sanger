@@ -5,10 +5,11 @@
 		<prepDate>2014/06/17 AS</prepDate>
 		<prepDate>2015-02-03 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 EK cprrect proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1916-06-02">02 Jun 1916</docDate>
+		<docDate value="1916-06-02"><supplied resp="MSPP">02 Jun 1916</supplied></docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Speech to the Friday Morning Club</supplied>
@@ -17,7 +18,7 @@
 		<idno>msp422000</idno>
 		<sourceDesc>
 			<bibl><title type="article">Start Talk on Taboo Topic</title>, <title type="journal">Los
-					Angeles Times</title>, June 13, 1916, p. 112</bibl>
+					Angeles Times</title>, June 3, 1916, p. 112</bibl>
 
 		</sourceDesc>
 		<respStmt>
@@ -26,36 +27,32 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger addressed the Friday Morning Club in <place reg="Los Angeles, CA">Los
-				Angeles</place>. Portions of the article not pertaining to the speech were omitted
+		<p>The last three paragraphs, which do not pertain to Sanger's speech, were omitted
 			by the editors.</p>
-		<index level1="birth control" level2="distribution of information about"/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="family size"/>
-		<index level1="birth control" level2="American opinion on"/>
-		<index level1="abortion" level2="birth control vs."/>
 		<index level1="birth control" level2="access to"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="birth control laws and legislation" level2="MS on"/>
+		<index level1="working classes" level2="and family size"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="birth control" level2="propaganda and publicity"/>
-		<index level1="birth control" level2="morality of"/>
-		<index level1="birth control" level2="medical community and"/>
-	</headNote>
+		<index level1="mentally diseased or disabled" level2="as social burdens"/>
+		<index level1="unfit to reproduce" level2="as social burdens"/>
+		</headNote>
 	<docBody>
 		<head>START TALK ON TABOO TOPIC.</head>
 		<div type="section">
-			<p>
-				<q who="LAT">Mrs. Margaret Sanger, the luncheon guest at the <org>Friday Morning
+			<p>	<q who="LAT">Mrs. Margaret Sanger, the luncheon guest at the <org>Friday Morning
 						Club</org> yesterday, spoke frankly and clearly on the once-taboo subject of
 					birth control. It was for her activities in this connection that she has been
 					indicted by the Federal authorities.</q>
 			</p>
-			<p>
-				<q who="LAT">Mrs. Sanger said that the knowledge essential to birth control should
-					be spread broadcast among the poorer population and that the laws restricting
+			<p><q who="LAT">Mrs. Sanger said that the knowledge essential to birth control should
+					be spread--broadcast among the poorer population and that the laws restricting
 					the dissemination of such knowledge should be repealed as unfair and inimical to
 					the best interests of the <place reg="United States">nation</place>. Her
 					contention was that through lack of knowledge the women of the poorer classes
-					are hearing cruel and unwarranted burdens and bringing large broods of
+					are bearing cruel and unwarranted burdens and bringing large broods of
 					feeble-minded and otherwise seriously-handicapped children into the world, whom
 					they are unable to support and eventually become a burden on the taxpayers.</q>
 			</p>
@@ -65,10 +62,9 @@
 					immorality is less rife and children better cared for, in that people can then
 					afford to marry younger and avoid the production of a family until they are in a
 					position to take care of them. She has had, she said, endorsements of her
-					propaganda from such men as <person reg="Wells, H.G.">H.G. Wells</person> and
+					propaganda from such men as <person reg="Wells, H.G.">H. G. Wells</person> and
 						<person reg="Bennett, Arnold">Arnold Bennett.</person></q></p>
 		</div>
-
 		<div type="section">
 			<head type="sub">CALLS IT UNFAIR.</head>
 
@@ -84,8 +80,7 @@
 					under so many conditions, in availing themselves of such facts. She had nothing
 					but condemnation for what she insists is a policy of reckless and careless
 					breeding. To this door she laid the responsibility for what she said to be the
-					fact that, in proportion to the population in the United States
-					breeds a few great men. This her hearers considered a weak point in her
+					fact that, in proportion to the population, the United States breeds few great men. This her hearers considered a weak point in her
 					argument, for, they pointed out, European countries cannot be said to encourage
 					birth-control, but rather to frown upon it even more emphatically than
 					ourselves. They also questioned the accuracy of the comparison.</q></p>
