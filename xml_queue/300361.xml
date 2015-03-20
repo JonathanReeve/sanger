@@ -7,7 +7,10 @@
 		<prepDate>2011-11-28 CH correct typo</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH Proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-11-30">30 Nov 1935</docDate>
 		<docTitle>
 			<titlePart>What Birth Control Can Do For India</titlePart>
@@ -38,7 +41,7 @@
 	</headNote>
 	<docBody>
 		<head>WHAT BIRTH CONTROL CAN DO FOR INDIA</head>
-		<byline>A Radio Talk by <person reg="Sanger, Margaret">Margaret Sanger</person>.</byline>
+		<byline>A Radio Talk by Margaret Sanger.</byline>
 		<dateline><place reg="Bombay, India">Bombay</place>, <date value="1935-11-30">November 30,
 				1935</date>.</dateline>
 		<p>I want to talk to the mothers of <place>India</place> this evening about birth control

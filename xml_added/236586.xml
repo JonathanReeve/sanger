@@ -5,18 +5,23 @@
 		<prepDate>2010/03/31 AC</prepDate>
 		<prepDate>2010/04/06</prepDate>
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
-		<prepDate>2014-03-24 CH clean regs</prepDate><prepDate>2015-03-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1935-11-00"><supplied resp="MSPP">Nov. </supplied>1935</docDate>
+		<prepDate>2014-03-24 CH clean regs</prepDate>
+		<prepDate>2015-03-02 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1935-11-00"><supplied resp="MSPP">Nov 1935</supplied></docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Women of India Notes</supplied>
+				<supplied resp="MSPP">Women of India Speech Notes</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236586</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collection</title> S71:0817.</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S71:0817</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -24,22 +29,22 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Margaret Sanger wrote these notes on the letterhead of the <org> Peninsular and Orient Steam
-				Navigation Company</org> (P.O.S.N. Co.), likely while on board the <name type="ship"
-				>S.S. Viceroy of India</name> in early November 1935.</p>
+		<p>Margaret Sanger wrote these notes on the letterhead of the <org>Peninsular and Orient
+				Steam Navigation Company</org> (P.O.S.N. Co.), likely while on board the <name
+				type="ship">S.S. Viceroy of India</name> in early November 1935.</p>
 		<index level1="India" level2="MS on"/>
 		<index level1="men" level2="marriage age"/>
 		<index level1="women" level2="marriage age"/>
 		<index level1="women" level2="health of"/>
 	</headNote>
 	<docBody>
-		<p>The first need in womans forward advance is to desire Freedom. That desire must come from
+		<p>The first need in woman's forward advance is to desire Freedom. That desire must come from
 			within.</p>
 		<p>I refuse to ask her to be satisfied with her environment unless that environment is
 			conducive to health for herself &amp; her children.</p>
 		<p> I would not ask her to make peace with poverty, ignorance illiteracy, or Slavery no
 			matter <del>what</del>
-			<add>the</add> discipline such an attitude may impell.</p>
+			<add>the</add> discipline such an attitude may impel.</p>
 		<p> Women of <place>India</place> like the women of the world will not be content with
 			privileges for their sex. They will insist nay in truth demand <del>Eq</del> Rights of
 			Equality not only Equal rights with their own countrymen but equal rights in that

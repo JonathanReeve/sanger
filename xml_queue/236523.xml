@@ -7,16 +7,21 @@
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-02-26 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-04-08">8 Apr 1935</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Providence Speech Notes</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Providence Speech Notes</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236523</idno>
 		<sourceDesc>
 			<bibl>Margret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
 			<bibl><title type="mf">Margaret Sanger Papers Microfilm, Smith College
-					Collections</title>, S71:0744</bibl>
+					Collections</title> S71:0744</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,7 +30,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Sanger's speech was not found. For newspaper coverage including quotes, see <xref
-				from="420081.xml">Providence Plantations Club Speech</xref>,Apr. 8, 1934.</p>
+				from="420081.xml">Providence Plantations Club Speech</xref>, Apr. 8, 1934.</p>
 		<p>These suggestions were written for Sanger by <person reg="Hanau, Stella Bloch">Stella
 				Bloch Hanau</person>.</p>
 		<index level1="birth control" level2="laws and legislation" level3="Comstock act"/>
@@ -50,7 +55,7 @@
 				<person reg="Malthus, Thomas Robert">Malthus</person> fore-told that it might and
 			could, but population is certainly pressing upon our relief funds. Eleven million people
 			are unemployed, and the official <org
-				reg="United States Federal Emergency Relief Administration"> FERA </org> figures for
+				reg="United States Federal Emergency Relief Administration">FERA</org> figures for
 			February, 1935, show 4,485,000 families on general relief. It is in these four million
 			families that the birth rate is the highest, that from 45 to 60% more babies are born
 			than in families which are fortunate enough still to be independent or employed.</p>

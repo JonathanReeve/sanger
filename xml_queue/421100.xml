@@ -4,16 +4,21 @@
 	<mepHeader>
 		<prepDate>2014/04/09 VS initial tagging</prepDate>
 		<prepDate>2015-03-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-11-26">26 Nov 1935</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control in India</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control in India</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421100</idno>
 		<sourceDesc>
 			<bibl>
 				<title type="article">Birth Control Part of Civilization</title>, <title
-					type="journal">The Times of India</title>, Nov. 27, 1935, p. 12 </bibl>
+					type="journal">The Times of India</title>, Nov. 27, 1935, p. 12</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -21,11 +26,12 @@
 			<name id="MISJE">Mistri, Jerbanoo E.</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke to the Society for the Study and Promotion of Family
-			Hygiene at the Sir Cowasji Jehangir Hall in Bombay on Nov. 26, 1936. This summary was
-			published as "Birth Control Part of Civilization," <title type="journal">Times of
-				India</title>, Nov. 27, 1936; for rough hand written notes, see Margaret Sanger
-			Microfilm S71:760.</p>
+	<headNote resp="MSPP">
+		<p>Sanger spoke to the Society for the Study and Promotion of Family Hygiene at the Sir
+			Cowasji Jehangir Hall in Bombay on Nov. 26, 1936. This summary was published as "Birth
+			Control Part of Civilization," <title type="journal">Times of India</title>, Nov. 27,
+			1936; for rough hand written notes, see Margaret Sanger Microfilm, Smith College
+			Collection S71:760.</p>
 		<index level1="birth control" level2="access to" level3="international"/>
 		<index level1="birth control" level2="civilization and"/>
 		<index level1="birth control" level2="international conferences on"/>
@@ -38,19 +44,18 @@
 	</headNote>
 	<docBody>
 		<head>Birth Control Part of Civilization</head>
-		<head type="sub">MODERN PROBLE</head>
+		<head type="sub">MODERN PROBLEM</head>
 		<div>
-
 			<q who="ToI">
-				<p> A large audience, in which women were well represented, heard Mrs. <person
-						reg="Sanger, Margaret">Margaret Sanger</person>, the American birth control
-					expert, at the <org>Sir Cowasji Jehangir Hall</org>, <place reg="Bombay, India"
-						>Bombay</place>, on Tuesday night. She explained convincingly the need for
-					the propagation of knowledge of birth control in <place>India</place>. </p>
+				<p> A large audience, in which women were well represented, heard Mrs. Margaret
+					Sanger, the American birth control expert, at the <org>Sir Cowasji Jehangir
+						Hall</org>, <place reg="Bombay, India">Bombay</place>, on Tuesday night. She
+					explained convincingly the need for the propagation of knowledge of birth
+					control in <place>India</place>. </p>
 			</q>
 			<q who="ToI">
 				<p> The meeting was organised by the <org>Society for the Study and Promotion of
-						Family Hygiene</org>, and was preisded over by Lt.-Col. <person
+						Family Hygiene</org>, and was presided over by Lt.-Col. <person
 						reg="Sokhey, Sahib Singh">S.S. Sokhey</person> in the unavoidable absence of
 					the <person reg="Nariman, Khurshed Framji">Mayor</person>. Those present
 					included Sir <person reg="Dehlavi, Ali Muhammad Khan">A.M.K. Dehlavi</person>,
@@ -59,13 +64,13 @@
 						reg="Mehta, Tapibai">Mehta</person>, Sir <person reg="Choksey, Nusserwanji"
 						>Nusserwanji Choksey</person>, Lt.-Col. <person reg="Shah, Jelal M.">Jelal
 						Shah</person>, Mrs. <person reg="How-Martyn, Edith">Edith
-						How-Martyn</person>, Mrs. <person>Kania</person>, Mr. And Mrs. <person
-						reg="Mehta, I. N.">I.N. Mehta</person>, Mrs. <person
-						reg="Talyarkhan, Frene S.">F.S. Talyarkhan</person>, Mrs.
-						<person>Judah</person>, Mr. <person reg="Sen, K. C.">K.C. Sen</person>, Dr.
-						<person reg="Mehta, Jivraj Narayan">Jivraj Mehta</person>, Dr. Mrs. <person
-						reg="Sukhtankar, Malini B.">Malini Sukhtankar</person> and <person
-						reg="Bole, Rao Bahadur S. K.">Rao Bahadur S.K. Bole</person>.</p>
+						How-Martyn</person>, Mrs. <person reg="Kania, Kusum Mehta">Kania</person>,
+					Mr. And Mrs. <person reg="Mehta, I. N.">I.N. Mehta</person>, Mrs. <person
+						reg="Talyarkhan, Frene S.">F.S. Talyarkhan</person>, <person
+						reg="Judha, Mrs. S.">Mrs. Judah</person>, Mr. <person reg="Sen, K. C.">K.C.
+						Sen</person>, Dr. <person reg="Mehta, Jivraj Narayan">Jivraj Mehta</person>,
+					Dr. Mrs. <person reg="Sukhtankar, Malini B.">Malini Sukhtankar</person> and
+						<person reg="Bole, Rao Bahadur S. K.">Rao Bahadur S.K. Bole</person>.</p>
 			</q>
 			<q who="ToI">
 				<p> Mrs. Sanger said that the hour for birth control had struck not only in the west
@@ -94,20 +99,24 @@
 					with Nature’s process of elimination of the undesirable and unfit types of
 					people, who were being maintained at the expense of society. The existence of
 					such a class of people was a danger to civilisation, as they were using up the
-					energy and resources of the world, without in any way adding to them.</q></p>
+					energy and resources of the world, without in any way adding to them.</q>
+			</p>
 
 
 			<p>
 				<q who="ToI">She said the two greatest problems of present day civilisation were
 					pressure of population upon its means of subsistence, and the reconciliation of
-					humanitarian ideals with projects to improve the race.</q></p>
+					humanitarian ideals with projects to improve the race.</q>
+			</p>
 
 
-			<p><q who="ToI">Mrs. Sanger declared that each child, before it was born, had a right to
-					be assured of a decent standard of existence. It was the duty of parents to
+			<p>
+				<q who="ToI">Mrs. Sanger declared that each child, before it was born, had a right
+					to be assured of a decent standard of existence. It was the duty of parents to
 					ascertain whether they could give a fair condition of existence to the child.
 					Even nations subjected the entry of other peoples into the territories to severe
-					tests. </q></p>
+					tests. </q>
+			</p>
 
 		</div>
 		<div>
@@ -118,15 +127,18 @@
 					that much of the misery noticed in large family groups could be avoided if
 					people had a proper knowledge of the means of controlling a family’s numbers.
 					The greatest handicaps in the way of carrying knowledge to the people were their
-					prejudice, ignorance and financial inability to acquire such knowledge.</q></p>
+					prejudice, ignorance and financial inability to acquire such knowledge.</q>
+			</p>
 
 
-			<p><q who="ToI"> The lecturer said a period of two to four years should be allowed
+			<p>
+				<q who="ToI"> The lecturer said a period of two to four years should be allowed
 					between each childbirth. No man or woman should undertake the duty of parenthood
 					before they had passed the period of adolescence. No more children should be
 					brought into the world than parents were economically able to take care of.
 					There must be a period of adjustment after marriage during which the man might
-					know the woman as a woman and not as a child-bearing machine.</q></p>
+					know the woman as a woman and not as a child-bearing machine.</q>
+			</p>
 
 			<p>
 				<q who="ToI">Discussing modern methods of birth control, Mrs. Sanger said the first,
@@ -134,12 +146,14 @@
 					however, was possible only to a few and could not be forced on others. The
 					second method was sterilisation of the unfit. A third method was the chemical
 					process. That had to be employed according to the special needs of
-					individuals.</q></p>
+					individuals.</q>
+			</p>
 
 			<p>
 				<q who="ToI">Mrs. Sanger advocated the opening of clinics where men and women could
 					get proper knowledge and materials for birth control. She urged the women of
-						<place>India</place> to take a special interest in that respect.</q></p>
+						<place>India</place> to take a special interest in that respect.</q>
+			</p>
 
 		</div>
 		<div>
@@ -149,13 +163,17 @@
 				experiment, a new race. We believe that birth control and eugenic ideas are the
 				corner-stones of this new structure.”</p>
 
-			<p><q who="ToI"> Sir Nusserwanji Choksey, proposing a vote of thanks to the speaker,
-					asserted that birth control was a matter of vital importance to India.</q></p>
+			<p>
+				<q who="ToI"> Sir Nusserwanji Choksey, proposing a vote of thanks to the speaker,
+					asserted that birth control was a matter of vital importance to India.</q>
+			</p>
 
-			<p><q who="ToI"> Dr. <person reg="Erulkar, Abraham Solomon">A.S. Erulkar</person>, while
-					thanking Mrs. Sanger, said that he did not agree with her that continence was a
-					method of birth control. As a doctor it was his view that continence in a normal
-					person was not only impossible but positively undesirable.</q></p>
+			<p>
+				<q who="ToI"> Dr. <person reg="Erulkar, Abraham Solomon">A. S. Erulkar</person>,
+					while thanking Mrs. Sanger, said that he did not agree with her that continence
+					was a method of birth control. As a doctor it was his view that continence in a
+					normal person was not only impossible but positively undesirable.</q>
+			</p>
 
 			<p>
 				<q who="ToI">Dr. Miss <person reg="Mistri, Jerbanoo E.">Jerbanoo E. Mistri</person>

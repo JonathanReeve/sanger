@@ -38,8 +38,9 @@
 			<name id="HR5978">H.R. 5978</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>The following is an excerpt from the hearings, including only Margaret
-			Sanger's testimony and the questions she responded to.</p>
+	<headNote resp="MSPP">
+		<p>The following is an excerpt from the hearings, including only Margaret Sanger's testimony
+			and the questions she responded to.</p>
 		<index level1="abortion" level2="birth control vs."/>
 		<index level1="American Medical Association"/>
 		<index level1="birth control" level2="access to"/>
@@ -216,12 +217,14 @@
 			<q who="HEPKA">
 				<p> Mrs. <person reg="Hepburn, Katharine Houghton">Hepburn</person>. All of this
 					applause, as the chairman said, is taken out of our time.</p>
-				<p> The next speaker is Dr. <person reg="Bossard, James Herbert">Bossard</person>,
+				<p> The next speaker is Dr. <person reg="Bossard, James H. S.">Bossard</person>,
 					of the <org>University of Pennsylvania, Department of Sociology</org>.</p>
 			</q>
 
-			<p><supplied resp="MSPP">The statement by Dr. Bossard and the Resolution from the
-					American Medical Association were omitted by the MSPP editors.</supplied></p>
+			<p>
+				<supplied resp="MSPP">The statement by Dr. Bossard and the Resolution from the
+					American Medical Association were omitted by the MSPP editors.</supplied>
+			</p>
 
 		</div>
 		<div type="section">
@@ -246,8 +249,7 @@
 				welfare centers, so that today in England all maternity and infant welfare centers
 				are allowed to give this information.</p>
 			<p> Then the <org>League of Nations</org> has officially recognized contraception and
-				abortions as problems of public health. Under date of October 15, 1931, the <org
-					reg="League of Nations Health Organization">health organization</org> of the
+				abortions as problems of public health. Under date of October 15, 1931, the health organization of the
 				League issued a report on maternal welfare and the hygiene of infants of free-school
 				age; and on February 1, 1933, the <org reg="League of Nations Council">Council of
 					the League of Nations</org> adopted the report in its amended form. I would like
@@ -267,11 +269,14 @@
 			<p>
 				<q who="HEAAR">Mr. <person reg="Healey, Arthur Daniel">Healey</person>. May I ask
 					when you consulted with the representative of the National Catholic Welfare
-					Association?</q></p>
+					Association?</q>
+			</p>
 
 			<p> Mrs. Sanger. A year ago.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. Who was that; do you recall his name?</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. Who was that; do you recall his name?</q>
+			</p>
 
 			<p> Mrs. Sanger. Colonel <person reg="Toy, James Joseph">Toy</person>, who represented
 				our organization, went to see both of these gentlemen who are present here, and also
@@ -279,17 +284,22 @@
 				see Dr. <person reg="Mundell, Joseph J.">Mundell</person>, who appeared here this
 				morning.</p>
 
-			<p><q who="BURRA"> Mr. <person reg="Burton, H. Ralph">Burton</person>. You were not
-					recommended by me to do that?</q></p>
+			<p>
+				<q who="BURRA"> Mr. <person reg="Burton, H. Ralph">Burton</person>. You were not
+					recommended by me to do that?</q>
+			</p>
 
 			<p> Mrs. Sanger. We went to him on that recommendation.</p>
 
 			<p>
-				<q who="HEAAR">Mr. Healey. What did you do?</q></p>
+				<q who="HEAAR">Mr. Healey. What did you do?</q>
+			</p>
 
 			<p> Mrs. Sanger. We went to see him and found him very sensible.</p>
 
-			<p><q who="SUMHA"> The Chairman. You may proceed.</q></p>
+			<p>
+				<q who="SUMHA"> The Chairman. You may proceed.</q>
+			</p>
 
 			<p> Mrs. Sanger. The particular thing in this bill that seems to be objected by Father
 					<person reg="Coughlin, Charles E.">Coughlin</person> is the phrase, “<q
@@ -454,18 +464,23 @@
 				<q who="KURJA">Mr. <person reg="Kurtz, Jacob Banks">Kurtz</person>. Pardon me, I
 					would like to ask this question. Is there any reason why you or the physician in
 					the case referred to should not have given to that lady the necessary
-					information for her protection?</q></p>
+					information for her protection?</q>
+			</p>
 
 			<p> Mrs. Sanger. Today she would get it if her doctor happened to know it.</p>
 
-			<p><q who="KURJA"> Mr. Kurtz. Why didn’t she get it then?</q></p>
+			<p>
+				<q who="KURJA"> Mr. Kurtz. Why didn’t she get it then?</q>
+			</p>
 
 			<p> Mrs. Sanger. Because in the first place I knew practically nothing about it. I was a
 				mother myself, but I knew nothing about getting the information, and the doctor
 				assumed there was a law against it.</p>
 
-			<p><q who="KURJA"> Mr. Kurtz. The New York statute did not prevent him from giving
-					it.</q></p>
+			<p>
+				<q who="KURJA"> Mr. Kurtz. The New York statute did not prevent him from giving
+					it.</q>
+			</p>
 
 			<p> Mrs. Sanger. Quite right, but they didn’t know it. The New York State statute was
 				never constructed, and in fact, some of us went to jail to get a decision on it. It
@@ -480,27 +495,35 @@
 				going through the mails, not by right, but by privilege, and it gives illegal
 				information just as any other book I might write on preventing conception.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. Can you differentiate somewhat between that? One is an
-					interference with life itself, isn’t it?</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. Can you differentiate somewhat between that? One is an
+					interference with life itself, isn’t it?</q>
+			</p>
 
 			<p> Mrs. Sanger. I beg your pardon, not any more than information in this book is.</p>
 
 			<p>
-				<q who="HEAAR">Mr. Healey. The method you advocate is an interference with
-				life?</q></p>
+				<q who="HEAAR">Mr. Healey. The method you advocate is an interference with life?</q>
+			</p>
 
 			<p> Mrs. Sanger. It prevents conception, it is not an interference with life.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. It does interfere with it.</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. It does interfere with it.</q>
+			</p>
 
 			<p> Mrs. Sanger. So does anyone remaining single; so does continence.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. You are not opposed to continence?</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. You are not opposed to continence?</q>
+			</p>
 
 			<p> Mrs. Sanger. No; I am not.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. That does not in any way oppose the policy you advocate
-					here.</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. That does not in any way oppose the policy you advocate
+					here.</q>
+			</p>
 
 			<p> Mrs. Sanger. No; I am not opposed to that, and I am not opposed to this book, if we
 				can find a safe method. We are coming down now, not to a question of principle, but
@@ -512,9 +535,11 @@
 				found there was a safe period, it would have to be the physician who advices the
 				patient as to her safe period.</p>
 
-			<p><q who="CELEM"> Mr. <person reg="Celler, Emanuel">Celler</person>. You have read that
-					book; doesn’t it say that study would indicate there is a safe period, or does
-					it give a full guarantee there is a safe method?</q></p>
+			<p>
+				<q who="CELEM"> Mr. <person reg="Celler, Emanuel">Celler</person>. You have read
+					that book; doesn’t it say that study would indicate there is a safe period, or
+					does it give a full guarantee there is a safe method?</q>
+			</p>
 
 			<p> Mrs. Sanger. It gives a calendar which shows the date exactly of the variations of
 				the menstrual cycle. Here is one of the little ones with those dates and the concept
@@ -523,35 +548,42 @@
 			<p>
 				<q who="CELEM">Mr. Celler. Is the language all through the book indicative of
 					absolute assurance to the reader, or are there no qualifications whatsoever in
-					the book?</q></p>
+					the book?</q>
+			</p>
 
 			<p> Mrs. Sanger. No more than we give with our contraceptive. It depends on the
 				individual, I would say, and the doctor to advise her, but if I picked up that book
 				and read it and believed as a Catholic, and saw an ecclesiastical approval, I would
 				follow it to the letter.</p>
 
-			<p><q who="CELEM"> Mr. Celler. Insofar as the ecclesiastical feature is concerned, I
+			<p>
+				<q who="CELEM"> Mr. Celler. Insofar as the ecclesiastical feature is concerned, I
 					don’t know whether the people who read it pay any attention to the ecclesiastics
-					in the book; that has nothing to do with the scientific fact.</q></p>
+					in the book; that has nothing to do with the scientific fact.</q>
+			</p>
 
 			<p> Mrs. Sanger. No; I am not intimating that.</p>
 
 			<p>
 				<q who="CELEM">Mr. Celler. What I am trying to get from you is whether or not the
 					author of that book has made the absolute declaration that there is a period in
-					which there can be no conception.</q></p>
+					which there can be no conception.</q>
+			</p>
 
 			<p> Mrs. Sanger. Yes.</p>
 
 			<p>
-				<q who="CELEM">Mr Celler. Without any qualification?</q></p>
+				<q who="CELEM">Mr Celler. Without any qualification?</q>
+			</p>
 
 			<p> Mrs. Sanger. Without qualifications, it gives the definite statement. They tell you
 				exactly when you period of sterility starts and when to depend on the period of
 				fertility.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. There is not anything in the book, no method prescribed,
-					that would interfere with the natural laws.</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. There is not anything in the book, no method prescribed,
+					that would interfere with the natural laws.</q>
+			</p>
 
 			<p> Mrs. Sanger. If we are going to argue natural law, it is something different. I will
 				say if there is a period of sexual sterility and a day when nature makes a woman
@@ -559,44 +591,54 @@
 				relationship, and so far as any natural law is concerned, I think that is the period
 				to stay away.</p>
 
-			<p><q who="CELEM"> Mr. Celler. That is your viewpoint, or medical opinion.</q></p>
+			<p>
+				<q who="CELEM"> Mr. Celler. That is your viewpoint, or medical opinion.</q>
+			</p>
 
 			<p> Mrs. Sanger. It is my opinion.</p>
 
-			<p><q who="CELEM"> Mr. Celler. You have no medical opinion to back it?</q></p>
+			<p>
+				<q who="CELEM"> Mr. Celler. You have no medical opinion to back it?</q>
+			</p>
 
 			<p> Mrs Sanger. Yes; I have some of the world authorities that claim that is true.</p>
 
 			<p>
 				<q who="CELEM">Mr. Celler. That say that period of sterility would be the time when
-					there would be a repulse on the part of the woman?</q></p>
+					there would be a repulse on the part of the woman?</q>
+			</p>
 
 			<p> Mrs. Sanger. Yes; when nature sort of closes the door toward this attraction.</p>
 
-			<p><q who="SUMHA"> The Chairman. I want to get clear the thing under consideration and
+			<p>
+				<q who="SUMHA"> The Chairman. I want to get clear the thing under consideration and
 					discussion. It is you contention that the difference between your position and
-					the position of the opponents is to be found only in the method to be
-				used?</q></p>
+					the position of the opponents is to be found only in the method to be used?</q>
+			</p>
 
 			<p> Mrs. Sanger. Yes; we both have the same principle.</p>
 
-			<p><q who="SUMHA"> The Chairman. In your case, the purpose would be to have the
-					relationship without the possibility of conception. Is that your
-				contention?</q></p>
+			<p>
+				<q who="SUMHA"> The Chairman. In your case, the purpose would be to have the
+					relationship without the possibility of conception. Is that your contention?</q>
+			</p>
 
 			<p> Mrs. Sanger. Yes, that is my contention. We are both together on the principles, and
 				we separate the question of methods.</p>
 
-			<p><q who="CELEM"> Mr. Celler. Don’t you separate right here, in the case of that book,
+			<p>
+				<q who="CELEM"> Mr. Celler. Don’t you separate right here, in the case of that book,
 					there is nothing done to interfere with the natural results of sexual functions,
 					but you advocate the introduction of foreign substances by your chemicals or
-					instruments seeking to prevent the natural result of the sexual
-				function?</q></p>
+					instruments seeking to prevent the natural result of the sexual function?</q>
+			</p>
 
 			<p> Mrs. Sanger. Not of the sexual function, but of reproduction.</p>
 
-			<p><q who="CELEM"> Mr. Celler. Isn’t that where you and the author of this book, whoever
-					he is, differ?</q></p>
+			<p>
+				<q who="CELEM"> Mr. Celler. Isn’t that where you and the author of this book,
+					whoever he is, differ?</q>
+			</p>
 
 			<p> Mr. Sanger. There is nothing in the book which gives contraceptive information as to
 				chemicals or devices and they object very strongly to them, but they agree to our
@@ -608,12 +650,15 @@
 
 			<p>
 				<q who="CELEM">Mr. Celler. But you must agree you are interfering with a function of
-					the human body.</q></p>
+					the human body.</q>
+			</p>
 
 			<p> Mrs. Sanger. There is quite a difference, but I am talking about the question of the
 				mechanical means toward the preventing of conception.</p>
 
-			<p><q who="CELEM"> Mr. Celler. You don’t interfere then, you refrain.</q></p>
+			<p>
+				<q who="CELEM"> Mr. Celler. You don’t interfere then, you refrain.</q>
+			</p>
 
 			<p> Mrs. Sanger. In this you don’t refrain.</p>
 
@@ -621,7 +666,8 @@
 				<q who="CELEM">Mr. Celler. In that book there it is said there is no outside
 					interference with the natural result that would come. This physician says there
 					is a period when there is no possibility of conception, but there is no outside
-					interference.</q></p>
+					interference.</q>
+			</p>
 
 			<p> Mrs. Sanger. As far as conception is concerned, in the method we advocate, by the
 				use of the contraceptive, the ovum is not fertilized, it passes out of the body just
@@ -644,30 +690,40 @@
 				druggist will give to them whatever a high-powered salesman has loaded him up
 				with.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. You do contend that because of the physiological
-					differences in women, each woman presents almost a new case?</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. You do contend that because of the physiological
+					differences in women, each woman presents almost a new case?</q>
+			</p>
 
 			<p> Mrs. Sanger. That is right.</p>
 
-			<p><q who="CELEM"> Mr. Celler. And any information along this line to be imparted should
-					be imparted by a physician or someone in a position to impart knowledge?</q></p>
+			<p>
+				<q who="CELEM"> Mr. Celler. And any information along this line to be imparted
+					should be imparted by a physician or someone in a position to impart
+					knowledge?</q>
+			</p>
 
 			<p> Mrs. Sanger. That is right.</p>
 
 			<p>
 				<q who="HEAAR"> Mr. Healey. You say the reason the poorer classes are not getting
 					that is because they can’t afford to get that information from physicians; is
-					that why they are not getting it?</q></p>
+					that why they are not getting it?</q>
+			</p>
 
 			<p> Mrs. Sanger. Yes; partly.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. If we passed this bill, do you think there will be any
+			<p>
+				<q who="HEAAR"> Mr. Healey. If we passed this bill, do you think there will be any
 					reason why they can afford after the passage of this bill to get it any more
-					than they can now?</q></p>
+					than they can now?</q>
+			</p>
 
 			<p> Mrs. Sanger. Yes.</p>
 
-			<p><q who="HEAAR"> Mr. Healey. What is the reason?</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. What is the reason?</q>
+			</p>
 
 			<p> Mrs. Sanger. In New York City, for instance, or most of the cities, if the woman can
 				go to the private family physician and pay his charges, there is no hesitancy then
@@ -682,7 +738,8 @@
 				<q who="HEAAR">Mr. Healey. As a practical matter, women will not go to a physician
 					if we pass this bill any more than they go now, and won’t this information pass
 					on from person to person, and therefore the information will be abused and will
-					not be used in a manner beneficial to that particular reason?</q></p>
+					not be used in a manner beneficial to that particular reason?</q>
+			</p>
 
 			<p> Mrs. Sanger. It cannot be done that way any more than you can get proper eyeglasses
 				at a 10-cent store.</p>
@@ -709,43 +766,58 @@
 			<p>
 				<q who="HEAAR">Mr. Healey. You don’t mean to leave the impression with this
 					committee that the opposition to the passage of this law is confined to
-					Catholics?</q></p>
+					Catholics?</q>
+			</p>
 			<p> Mrs. Sanger. I think the organized opposition is.</p>
 			<p>
 				<q who="HEAAR">Mr. Healey. In view of all the people who testified here from the
-					other religions?</q></p>
+					other religions?</q>
+			</p>
 			<p> Mrs. Sanger. Yes, there were mostly individuals.</p>
 			<p>
 				<q who="HEAAR">Mr. Healey. There are millions of people throughout the country
-					opposed to birth control, of all religious denominations.</q></p>
+					opposed to birth control, of all religious denominations.</q>
+			</p>
 			<p> Mrs. Sanger. I doubt it, but if you are going to put in individual letters, I could
 				have brought in trunks of individual letters, if I had an idea you wanted them.</p>
-			<p><q who="HEAAR"> Mr. Healey. There are millions of non-Catholics throughout the
-					country who are opposed to this, and you know that as a matter of fact.</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. There are millions of non-Catholics throughout the
+					country who are opposed to this, and you know that as a matter of fact.</q>
+			</p>
 			<p> Mrs. Sanger. No; I don’t – not millions.</p>
-			<p><q who="HEAAR"> Mr. Healey. You ought to know there is considerable opposition to it
-					from every state.</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. You ought to know there is considerable opposition to it
+					from every state.</q>
+			</p>
 			<p> Mrs. Sanger. There is no organized opposition except from the <org>Catholic
 					Church</org>. A small group of Lutherans have opposed it, and they are the only
 				groups we have any record of.</p>
-			<p><q who="HEAAR"> Mr. Healey. Have you tried to get resolutions from other churches
-					sponsoring your view?</q></p>
+			<p>
+				<q who="HEAAR"> Mr. Healey. Have you tried to get resolutions from other churches
+					sponsoring your view?</q>
+			</p>
 			<p> Mrs. Sanger. We have, yes.</p>
 			<p>
-				<q who="HEAAR">Mr. Healey. Have you such resolutions of endorsement?</q></p>
+				<q who="HEAAR">Mr. Healey. Have you such resolutions of endorsement?</q>
+			</p>
 			<p> Mrs. Sanger. They have gone in the record; I think they were put in yesterday. The
 				endorsements of some medical organizations and some religious organizations are in
 				the record.</p>
 			<p>
 				<q who="HEAAR">Mr. Healey. I mean the national bodies representing the churches
-					throughout the country.</q></p>
+					throughout the country.</q>
+			</p>
 			<p> Mrs. Sanger. Yes; there are individual churches just like those read here today,
 				individual Presbyterians, Baptists, Methodists – there are lots of them.</p>
-			<p><q who="SUMHA"> Mr. Chairman. Are you through, Mrs. Sanger?</q></p>
+			<p>
+				<q who="SUMHA"> Mr. Chairman. Are you through, Mrs. Sanger?</q>
+			</p>
 			<p> Mrs. Sanger. Yes; and if there are any questions I would be glad to answer them.</p>
-			<p><supplied resp="MSPP">
+			<p>
+				<supplied resp="MSPP">
 					<title type="book">The Big Problem of Married People Solved</title>, was omitted
-					by the MSPP editors.</supplied></p>
+					by the MSPP editors.</supplied>
+			</p>
 
 		</div>
 	</docBody>

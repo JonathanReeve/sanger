@@ -5,28 +5,37 @@
 		<prepDate>2010/03/31 AC</prepDate>
 		<prepDate>2014-03-11 CH clean regs</prepDate>
 		<prepDate>2015-02-25 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1935-00-00"><supplied resp="MSPP">1935</supplied></docDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1935-00-00">
+			<supplied resp="MSPP">1935</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">The Truth about Birth Control</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">The Truth about Birth Control</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236440</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm</title>, S71:0809</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:0809</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No final version of this speech was found.</p>
+	<headNote resp="MSPP">
+		<p>No final version of this speech was found.</p>
 		<index level1="abortion"/>
 		<index level1="birth control" level2="laws and legislation" level3="MS on"/>
 		<index level1="birth control"/>
 		<index level1="birth control" level2="definitions of"/>
 		<index level1="birth control" level2="methods" level3="safe period"/>
-		<index level1="Post Office (U.S.)"/></headNote>
+		<index level1="Post Office (U.S.)"/>
+	</headNote>
 	<docBody>
 		<head rend="underline">The Truth about Bc</head>
 		<p>No subject that has so large</p>
@@ -47,7 +56,7 @@
 					Unchanged) Drs in <org reg="United States Senate">Senate</org>. Women as
 					representatives laws still remain.</item>
 				<item>4 In spite of these laws 5000 fine. 5 years prison. 162 birth Control Clinics
-					“Speak easies “are operating legally in the various States!! Speak easies,
+					“Speakeasies “are operating legally in the various States!! Speakeasies,
 					bootleg their supplies.</item>
 				<item>5. In spite of laws--commercial forms advertise their contraception products
 					Salesmen &amp; Saleswomen peddle there products to ignorant &amp; innocent women

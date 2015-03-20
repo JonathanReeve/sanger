@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014-04-09 JK initial tags</prepDate>
 		<prepDate>2015-03-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-11-01 ">01 Nov 1935</docDate>
 		<docTitle>
 			<titlePart>
@@ -15,20 +18,21 @@
 		<sourceDesc>
 			<bibl><title type="article">Secrets of Happy Marriage</title>, <title type="journal"
 					>Times of India</title>, Nov. 12, 1935, p. 6</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="ToI">Times of India</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><index level1="birth control clinics and leagues" level2="in India"
-			/><index level1="India" level2="MS on"/>
+	<headNote resp="MSPP">
+		<index level1="birth control clinics and leagues" level2="in India"/>
+		<index level1="India" level2="MS on"/>
 		<index level1="India" level2="population policies of"/>
 		<index level1="India" level2="overpopulation and"/>
-		<index level1="India" level2="women in"/><index level1="India" level2="birth control in"/>
-		<index level1="India" level2="birth control movement in"/><index
-			level1="All-India Women's Conference"/>
+		<index level1="India" level2="women in"/>
+		<index level1="India" level2="birth control in"/>
+		<index level1="India" level2="birth control movement in"/>
+		<index level1="All-India Women's Conference"/>
 	</headNote>
 	<docBody>
 		<head>SECRETS OF HAPPY MARRIAGE</head>
@@ -38,15 +42,19 @@
 			<place reg="London, England">LONDON</place>. <date value="1935-11-01">November
 			1</date>.</dateline>
 
-		<p><q who="ToI">To tell the world some secrets of a happy marriage is the object of the tour
-				of thousands of miles, which is being made by Mrs. Margaret Sanger, President of the
-					<org>Birth Control International Information Centre</org>, one of the best known
-				women of <place reg="United States">America</place>. She will be the guest of the
-					<person reg="Ali, Shareefah Hamid">chairman</person> of the <org>All-India
-					Women’s Conference</org>. </q></p>
-		<p><q who="ToI">She told your correspondent why it is often wise to marry early - at 18 or
+		<p>
+			<q who="ToI">To tell the world some secrets of a happy marriage is the object of the
+				tour of thousands of miles, which is being made by Mrs. Margaret Sanger, President
+				of the <org>Birth Control International Information Centre</org>, one of the best
+				known women of <place reg="United States">America</place>. She will be the guest of
+				the <person reg="Ali, Shareefah Hamid">chairman</person> of the <org>All-India
+					Women’s Conference</org>. </q>
+		</p>
+		<p>
+			<q who="ToI">She told your correspondent why it is often wise to marry early - at 18 or
 				19. She believes that the only child is a tragedy, especially for the child. An
-				interval of three years between each child she found ideal.</q></p>
+				interval of three years between each child she found ideal.</q>
+		</p>
 
 		<p> “It is best if young people are encouraged to marry early, but to take time before they
 			being to have children,” <q who="ToI">she said.</q> “In the first place they should get
@@ -56,12 +64,16 @@
 			the good thing young marriages are for industry. They mean more suited furniture bought,
 			more radio sets and baby-carriages etc.”</p>
 
-		<p><q who="ToI"> She added that she was not going to <place>India </place>to persuade
+		<p>
+			<q who="ToI"> She added that she was not going to <place>India </place>to persuade
 				everyone to have a small family, but rather to convince the people of the
-				desirability of having families of the right size and of the right quality.</q></p>
-		<p><q who="ToI"> She argues that, although birth control may not solve population problems,
+				desirability of having families of the right size and of the right quality.</q>
+		</p>
+		<p>
+			<q who="ToI"> She argues that, although birth control may not solve population problems,
 				it does contribute to the health, happiness and mental poise of an individual and
-				families.</q></p>
+				families.</q>
+		</p>
 
 	</docBody>
 </doc>

@@ -6,12 +6,16 @@
 		<prepDate>2012-04-04 CH Proofed Tags</prepDate>
 		<prepDate>2014-04-08 EK clean regs</prepDate>
 		<prepDate>2015-03-02 CH proof taga and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-10-30">30 Oct 1935</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement Before Birth Control
-					Campaign in East</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement Before Birth Control Campaign in
+					East</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp143732</idno>
 		<sourceDesc>
@@ -23,8 +27,10 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger released this press statement in London,
-			before embarking on a three-month tour of India and Asia.</p>
+	<headNote resp="MSPP">
+		<p>Sanger released this press statement in <place reg="London, England"
+				>London</place>, before embarking on a three-month tour of India
+			and <place>Asia</place>.</p>
 		<index level1="India" level2="birth control in"/>
 		<index level1="India" level2="overpopulation and"/>
 		<index level1="family size"/>
@@ -37,7 +43,9 @@
 	<docBody>
 		<head>STATEMENT BY MARGARET SANGER BEFORE HER BIRTH CONTROL CAMPAIGN IN
 			THE EAST</head>
-		<dateline><date value="1935-10-30">OCTOBER. 30th. 1935</date></dateline>
+		<dateline>
+			<date value="1935-10-30">OCTOBER. 30th. 1935</date>
+		</dateline>
 		<p>I have been invited by the <org reg="All-India Women's Conference"
 				>All India Women’s Conference</org> to address that great body
 			when it meets in <place>Travancore, India</place> in December and to

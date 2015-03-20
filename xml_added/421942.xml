@@ -4,10 +4,15 @@
 	<mepHeader>
 		<prepDate>2014/04/23 VS intital tags</prepDate>
 		<prepDate>2015-02-26 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1933-05-17"> 17 May 1933</docDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1933-05-17">17 May 1933</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Hotel Boise Speech</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Hotel Boise Speech</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421942</idno>
 		<sourceDesc>
@@ -21,8 +26,8 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>For an interview Sanger gave before this speech, see <xref from="421943.xml">Interview
-				with the Idaho Statesman</xref>, May 17, 1935. Her speech at the Owyhee Hotel on May
-			18 was not found.</p>
+				with the Idaho Statesman</xref>, May 17, 1935. Her speech at the <org>Owyhee
+				Hotel</org> on May 18 was not found.</p>
 		<index level1="birth control" level2="and marriage"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="medical justifications"/>
@@ -34,10 +39,12 @@
 	<docBody>
 		<head>BIRTH CONTROL SPEAKER URGES SENSIBLE LAWS</head>
 		<div type="section">
-			<p><q who="IS">Speaking in the crystal ball room of <org>Hotel Boise</org>, Friday
-					evening, <person reg="Sanger, Margaret">Margaret Sanger</person>, advocate of
-					birth control, told why she had spent the last 20 years of her life trying to
-					amend a law which was passed more than 60 years ago.</q></p>
+			<p>
+				<q who="IS">Speaking in the crystal ball room of <org>Hotel Boise</org>, Friday
+					evening, Margaret Sanger, advocate of birth control, told why she had spent the
+					last 20 years of her life trying to amend a law which was passed more than 60
+					years ago.</q>
+			</p>
 			<p>
 				<q who="IS">She declared that were it possible for birth control information to be
 					given legally, the country would benefit and future citizens would be of a
@@ -45,7 +52,8 @@
 						reg="United States Congress">congress</org> is in the <org
 						reg="United States Senate, Committee on the Judiciary">judiciary
 						committee</org>, of which Senator <person reg="Borah, William Edgar"
-						>Borah</person> is a member.</q></p>
+						>Borah</person> is a member.</q>
+			</p>
 			<p> “Birth control laws were passed by congress 63 years ago,” <q who="IS">she said.</q>
 				“A <name type="law" reg="United States Criminal Code, Section 211">federal
 					law</name> now exists which makes it impossible for scientific or medical
@@ -71,13 +79,17 @@
 					>senate</org>, of which Senator Borah is a member. By the amending of this law
 				through our bill, we can save thousands of woman and save the state tax payers from
 				filling up institutions with a generation of children who are bound to become a
-				burden upon society,” <q who="IS">she said.</q></p>		
-			<p> <q who="IS">Out of about 250 present, 125 signed cards saying they were interested in Mrs.
-					Sanger’s work, and 60 who expressed a desire for a clinic in <place
+				burden upon society,” <q who="IS">she said.</q></p>
+			<p>
+				<q who="IS">Out of about 250 present, 125 signed cards saying they were interested
+					in Mrs. Sanger’s work, and 60 who expressed a desire for a clinic in <place
 						reg="Boise, ID">Boise</place>. This matter will be discussed with Mrs.
-					Sanger today.</q></p>
-			<p> <q who="IS">There were 95 at the luncheon at the <org>Owyhee hotel</org> Friday noon to meet
-					Mrs. Sanger.</q></p>			
+					Sanger today.</q>
+			</p>
+			<p>
+				<q who="IS">There were 95 at the luncheon at the Owyhee hotel Friday noon
+					to meet Mrs. Sanger.</q>
+			</p>
 		</div>
 	</docBody>
 </doc>

@@ -7,8 +7,10 @@
 		<prepDate>2014-03-05 JK corrected tag</prepDate>
 		<prepDate>2014-11-14 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-22-12">Dec 22 1935</docDate>
 		<docTitle>
 			<titlePart>
@@ -35,7 +37,7 @@
 				Hotel</org> in <place reg="Bombay, India"> Bombay,
 			India</place>. <person reg="How-Martyn, Edith">Edith
 				How-Martyn</person> also spoke at the meeting which was chaired
-			by Lr. Col.<person reg="Sokhey, Sahib Singh">S. S.
+			by Lt. Col.<person reg="Sokhey, Sahib Singh">S. S.
 			Sokhey</person>.</p>
 		<index level1="Gandhi, Mahatma"/>
 		<index level1="India" level2="birth control in"/>
@@ -44,67 +46,86 @@
 	<docBody>
 		<head>Mr. Gandhi's Views on Birth Control</head>
 		<head type="sub">DISCUSSION WITH MRS. SANGER</head>
-		
-		<p><q who="ToI"> The details of a conversation between <person
+
+		<p>
+			<q who="ToI"> The details of a conversation between <person
 					reg="Gandhi, Mohandas K. ">Mr. Gandhi</person> and Mrs.
 				Sanger on the subject of birth control were disclosed at a
 				select gathering in Bombay on Sunday evening. The occasion was a
 				tea party given at the Taj Mahal Hotel by the Society for the
 				Study and Promotion of Family Hygiene to Mrs. Margaret Sanger,
-				who recently returned to Bombay after a tour during which she met Mr.
-				Gandhi.</q> </p>
-		
+				who recently returned to Bombay after a tour during which she
+				met Mr. Gandhi.</q>
+		</p>
+
 		<p><q who="ToI">Mr. Gandhi, Mrs. Sanger said, agreed with her on all
 				points in regard to birth control except the methods of adopting
 				it. The question when she went to him was whether she would
-				convert him or he would convert her. </q>“And believe me,”<q who="ToI"> she
-			added, </q>“he did not convert me.” (Laughter). </p>
+				convert him or he would convert her. </q>“And believe me,”<q
+				who="ToI"> she added, </q>“he did not convert me.” (Laughter). </p>
 		<p>
 			<q who="ToI">“But was he converted?” asked a voice.</q>
 		</p>
 		<p>“I do not know,” <q who="ToI">replied Mrs. Sanger. </q></p>
-		
-		<p><q who="ToI">Mr. Gandhi, the lecturer continued, agreed with her that birth
-				control was an important question, but he, like many other
-				people, believed that "<emph rend="italics">control</emph>" was
-				a wide term and that it meant something more than limitation.
-				The method which Mr. Gandhi advocated was continence and
-				restraint, not only outside marriage but in marriage also.</q> </p>
-		<p><q who="ToI"> Mrs. Sanger continued that she had asked Mr. Gandhi whether he
-				considered that a practical solution, knowing that of all the
-				women in the world Indian women were less equipped economically
-				and socially to go out into the world. He had replied that they
-				could have divorce laws. </q></p>	
+
+		<p>
+			<q who="ToI">Mr. Gandhi, the lecturer continued, agreed with her
+				that birth control was an important question, but he, like many
+				other people, believed that "<emph rend="italics"
+				>control</emph>" was a wide term and that it meant something
+				more than limitation. The method which Mr. Gandhi advocated was
+				continence and restraint, not only outside marriage but in
+				marriage also.</q>
+		</p>
+		<p>
+			<q who="ToI"> Mrs. Sanger continued that she had asked Mr. Gandhi
+				whether he considered that a practical solution, knowing that of
+				all the women in the world Indian women were less equipped
+				economically and socially to go out into the world. He had
+				replied that they could have divorce laws. </q>
+		</p>
 		<div>
 			<head type="sub"> View of Mothers in Slums</head>
-			<p><q who="ToI">Mrs. Sanger further said:</q> “I told him ‘all this sounds rather
-				chaotic to me, and I believe the men will be on my side. Men
-				would prefer the methods of birth control that I advocate rather
-				than yours’. He said: <q who="GANMO">‘Women will be on my side.’
-				</q>(Laughter). We have yet to find out of that will be so,”
-				<q who="ToI">added Mrs. Sanger.</q> </p>
-			
-			<p><q who="ToI"> Before she came to <place>India</place>, Mrs. Sanger said,
-					she had been told that she was not likely to succeed in her
-					mission because Indian mothers were fond of children and
-					liked to have many, irrespective of what she state of their
-					(mothers’) health was. On questioning mothers during their
-					visits to slums in Bombay and in northern India, however,
-					she had invariably got the reply that they had had enough
-					children and wanted no more. They were anxious to have some
-					means by which they could space their children. </q></p>
-			<p><q who="ToI"> Mrs. How-Martyn, who was present at the gathering, stated
-					that those working on behalf of birth control in India had
-					an advantage over their colleagues in the West, as they
-					could have the benefit of the experience of the latter. </q></p>
-			<p> <q who="ToI">A silver casket was presented to Mrs. Sanger, who has been
-					elected vice-president of the Society, by Lt.-Col. <person
-						reg="Shah, Jelal M.">Jelal M. Shah</person>, on behalf
-					of the editor of <title type="journal">Marriage
-						Hygiene</title>.</q> </p>
-			<p> <q who="ToI">Lt.-Col. S. S. Sokhey, the chairman of the Council of the
-					Society, proposed a vote of thanks to Mrs. Sanger.</q> </p>
-			
+			<p><q who="ToI">Mrs. Sanger further said:</q> “I told him ‘all this
+				sounds rather chaotic to me, and I believe the men will be on my
+				side. Men would prefer the methods of birth control that I
+				advocate rather than yours’. He said: <q who="GANMO">‘Women will
+					be on my side.’ </q>(Laughter). We have yet to find out of
+				that will be so,” <q who="ToI">added Mrs. Sanger.</q>
+			</p>
+
+			<p>
+				<q who="ToI"> Before she came to <place>India</place>, Mrs.
+					Sanger said, she had been told that she was not likely to
+					succeed in her mission because Indian mothers were fond of
+					children and liked to have many, irrespective of what she
+					state of their (mothers’) health was. On questioning mothers
+					during their visits to slums in Bombay and in northern
+					India, however, she had invariably got the reply that they
+					had had enough children and wanted no more. They were
+					anxious to have some means by which they could space their
+					children. </q>
+			</p>
+			<p>
+				<q who="ToI"> Mrs. How-Martyn, who was present at the gathering,
+					stated that those working on behalf of birth control in
+					India had an advantage over their colleagues in the West, as
+					they could have the benefit of the experience of the latter.
+				</q>
+			</p>
+			<p>
+				<q who="ToI">A silver casket was presented to Mrs. Sanger, who
+					has been elected vice-president of the Society, by Lt.-Col.
+						<person reg="Shah, Jelal M.">Jelal M. Shah</person>, on
+					behalf of the editor of <title type="journal">Marriage
+						Hygiene</title>.</q>
+			</p>
+			<p>
+				<q who="ToI">Lt.-Col. S. S. Sokhey, the chairman of the Council
+					of the Society, proposed a vote of thanks to Mrs.
+					Sanger.</q>
+			</p>
+
 		</div>
 
 	</docBody>

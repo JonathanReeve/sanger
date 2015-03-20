@@ -6,7 +6,10 @@
 		<prepDate>2014-03-19 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
 		<prepDate>2015-03-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-12-10">10 Dec 1935</docDate>
 		<docTitle>
 			<titlePart>
@@ -26,22 +29,25 @@
 			<name id="HIN"> Hindu </name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This is a summary of Sanger's speech to the <place
-				reg="Calcutta, India">Calcutta</place> branch of the <org>Indian Medical
-				Association</org>. Mrs. <person reg="Mehta, Soudamini">Soudamini Mehta</person>
-			presided over the event. </p>
+	<headNote resp="MSPP">
+		<p>This is a summary of Sanger's speech to the <place reg="Calcutta, India">Calcutta</place>
+			branch of the <org>Indian Medical Association</org>. Mrs. <person reg="Mehta, Soudamini"
+				>Soudamini Mehta</person> presided over the event. </p>
 		<index level1="India" level2="overpopulation and"/>
-		<index level1="birth control" level2="morality of"/><index level1="birth control"
-			level2="in India"/><index level1="India" level2="birth control in"/>
-		<index level1="India" level2="birth control movement in"/></headNote>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control" level2="in India"/>
+		<index level1="India" level2="birth control in"/>
+		<index level1="India" level2="birth control movement in"/>
+	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL PROPAGANDA</head>
 		<head type="sub">Disorderly Scenes at Calcutta Meeting</head>
-		<dateline><place>CALCUTTA</place>, <date value="1935-12-10">December 10</date>.</dateline>
+		<dateline>CALCUTTA, <date value="1935-12-10">December 10</date>.</dateline>
 		<p>“Birth control is the signal of the new social awakening. It has a great significance not
 			only over individual life, but also on the communities and the nations of the future,”
-				<q who="ToI">said Mrs. Margaret Sanger addressing a public meeting at the <org>Albert
-				Hall</org> last night.</q></p>		<p>
+				<q who="ToI">said Mrs. Margaret Sanger addressing a public meeting at the
+					<org>Albert Hall</org> last night.</q></p>
+		<p>
 			<q who="ToI">Replying to the question whether they should practice “<foreign lang="HIN"
 					>Brahmacharya</foreign>” or have unlimited indulgence Mrs. Sanger pointed out
 				that the birth control movement as every other movement had its good and evil sides

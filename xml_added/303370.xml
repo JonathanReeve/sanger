@@ -5,7 +5,10 @@
 		<prepDate>2010/03/02 AC</prepDate>
 		<prepDate>2014-03-11 CH clean regs</prepDate>
 		<prepDate>2015-02-25 CH proof tags and enter.</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-02-04">4 Feb 1935</docDate>
 		<docTitle>
 			<titlePart>Important Reasons for Amending Existing Birth Control Laws</titlePart>
@@ -13,7 +16,7 @@
 		<idno>msp303370</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Unity</title>, Feb. 4, 1935</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0373</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -60,8 +63,7 @@
 							Surgery"
 						>Section of Obstetrics, Gynecology and Abdominal Surgery of the American
 						Medical Association</org>; The <org>Medical Women’s National
-						Association</org>; <org>National Committee on Maternal Health</org>, Inc.
-					</item>
+						Association</org>; <org>National Committee on Maternal Health</org>, Inc. </item>
 				<item>7 Increased knowledge of contraception would mean a reduction in the number of
 					criminal abortions. Over 15,000 women each year die from this cause alone. </item>
 				<item>8 Lastly: During this period of economic distress and unemployment, wives and

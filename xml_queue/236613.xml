@@ -4,10 +4,11 @@
 	<mepHeader>
 		<prepDate>2010/04/07 AC</prepDate>
 		<prepDate>2015-02-25 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1935-03-01">Mar 1935</docDate>
+		<docDate value="1935-03-00">Mar 1935</docDate>
 		<docTitle>
 			<titlePart>National Security and Birth Control</titlePart>
 		</docTitle>
@@ -15,7 +16,6 @@
 		<sourceDesc>
 			<bibl><title type="journal">Forum and Century</title>, Mar. 1935, p.
 				139-141</bibl>
-			<bibl> Margaret Sanger Papers, Sophia Smith Collection</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College
 					Collections</title> S71:741</bibl>
 		</sourceDesc>
@@ -29,7 +29,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For a draft version, see Library of Congress microfilm, 130:219A.</p>
+		<p>For a draft version, see Library of Congress microfilm 130:219A.</p>
 		<index level1="United States" level2="government"
 			level3="birth control and"/>
 		<index level1="United States Post Office"/>
@@ -274,7 +274,7 @@
 				likewise the sale of contraceptives by druggists filling the
 				prescriptions of such duly licensed physicians. It would apply
 				also to medical colleges, hospitals, and clinics licensed in any
-				state or territory or the <place reg="Washtington, DC">District
+				state or territory or the <place reg="Washington, DC">District
 					of Columbia</place>, with the exception of a state in which
 				such use is specifically prohibited by law.</p>
 			<p> National planning for economic and social security can, in the

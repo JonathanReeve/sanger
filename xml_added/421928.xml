@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014-04-15 JK initial tag</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-08-16">16 Aug 1935</docDate>
 		<docTitle>
 			<titlePart>
@@ -23,8 +26,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For related statements, see Statement on Archbishop John Gregory
-			Murray, <xref from="421066.xml">Aug. 19, 1935</xref> and <xref from="421067.xml">Oct. 1935</xref>.</p>
+		<p>For related statements, see Statements on Archbishop John Gregory Murray, <xref
+				from="421066.xml">Aug. 19, 1935</xref> and <xref from="421067.xml">Oct.
+			1935</xref>.</p>
 		<index level1="National Committee on Federal Legislation for Birth Control"/>
 		<index level1="Catholic Church" level2="MS on"/>
 		<index level1="Catholic Church" level2="birth control and"/>
@@ -39,16 +43,16 @@
 		<p>
 			<q who="WH">A bitter attack on <person reg="Murray, John Gregory">Archbishop
 					Murray’s</person> order that clergy in the <org reg="Archdiocese of St. Paul"
-					>St. Paul archdiocese</org> announce at August 18 masses that communicants may
-				not retain membership in birth control organizations was made here today by <person
-					reg="Sanger, Margaret">Margaret Sanger</person> of the <org> National Committee
+						><place reg="St. Paul, MN">St. Paul</place> archdiocese</org> announce at
+				August 18 masses that communicants may not retain membership in birth control
+				organizations was made here today by Margaret Sanger of the <org> National Committee
 					on Federal Legislation for Birth Control</org>.</q>
 		</p>
 		<p> “If Catholic prelates follow the example of Archbishop John Gregory Murray,” <q who="WH"
 				>she asserted,</q> “Catholics will have to withdraw completely and irrevocably from
 			civic, public and professional life.” </p>
-		<p>“Catholics,” <q who="WH">said Mrs. Sanger,</q> “will soon have to emigrate from America
-			to some less enlightened country.”</p>
+		<p>“Catholics,” <q who="WH">said Mrs. Sanger,</q> “will soon have to emigrate from <place
+				reg="United States">America</place> to some less enlightened country.”</p>
 		<p> “Every Catholic physician who is a member of the <org
 				reg="American Gynecological and Obstetrical Society">American Gynecological
 				society</org>, the <org reg="American Neurological Association">American

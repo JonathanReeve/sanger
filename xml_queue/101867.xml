@@ -5,7 +5,10 @@
 		<prepDate>2010/03/02 AC</prepDate>
 		<prepDate>2014-03-11 CH clean regs</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-06-00">Jun 1935</docDate>
 		<docTitle>
 			<titlePart>Birth Control in Soviet Russia</titlePart>
@@ -31,7 +34,7 @@
 	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL IN <place reg="Soviet Union">SOVIET RUSSIA</place></head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<byline>By Margaret Sanger</byline>
 		<p> So many conflicting reports about the practice of birth control and the spread of
 			abortions in Russia have been circulated, that I decided to make a brief tour last
 			summer and ascertain the facts for myself, as well as time would allow.</p>

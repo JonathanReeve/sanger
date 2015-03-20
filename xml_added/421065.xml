@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014/04/11 VS initial tagging</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-09-17">17 Sep 1935</docDate>
 		<docTitle>
 			<titlePart>
@@ -33,7 +36,7 @@
 		<head>DICTATORS SEEN AS NEARSIGHTED BY MRS. SANGER</head>
 		<div>
 			<p> “Dictators have no use for birth control because they are near-sighted,” <q
-					who="NYWT">said <person reg="Sanger, Margaret">Margaret Sanger</person> today,
+					who="NYWT">said Margaret Sanger today,
 					shaking her roan colored hair.</q> “They seem to realize that constantly
 				increasing populations are potentially the strongest cause of war.” </p>
 			<p>
@@ -41,7 +44,8 @@
 					the spreading of knowledge about birth control, today accepted an invitation
 					from the <org reg="All-India Women's Conference">All India Women’s
 						Conference</org> and plans to sail next month to establish clinics and
-					bureaus in <place>India</place>. </q></p>
+					bureaus in <place>India</place>. </q>
+			</p>
 
 		</div>
 		<div>
@@ -52,8 +56,9 @@
 					<place>Africa</place> for his overflow. That’s the real basis for the Ethiopian
 				situation.”</p>
 
-			<p><q who="NYWT">Mrs. Sanger told her plans at the office of the <org>National Committee
-						on Federal Legislation for Birth Control</org>.</q>
+			<p>
+				<q who="NYWT">Mrs. Sanger told her plans at the office of the <org>National
+						Committee on Federal Legislation for Birth Control</org>.</q>
 			</p>
 
 			<p> “We’re getting ahead fast,” <q who="NYWT">she said.</q> “In the future, and not very
@@ -67,7 +72,8 @@
 				they still kill girl babies and many widows still commit suicide on their husband’s
 				funeral pyres. What is to become of poor India? Well, I’ll see about that.”</p>
 
-			<p><q who="NYWT"> Mrs. Sanger disclosed that records of the <org
+			<p>
+				<q who="NYWT"> Mrs. Sanger disclosed that records of the <org
 						reg="Birth Control Clinical Research Bureau">New York clinic</org> show that
 					of the thousands of persons who asked for birth control guidance there had been
 					only two per cent of failure for technical reasons and five percent for human

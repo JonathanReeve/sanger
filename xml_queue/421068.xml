@@ -6,6 +6,7 @@
 		<prepDate>2014/03/19 CH proof tags</prepDate>
 		<prepDate>2014/03/26 VS</prepDate>
 		<prepDate>2015-02-26 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,17 +20,18 @@
 		<sourceDesc>
 			<bibl>
 				<title type="article">Birth Control Plea is Made</title>, <title type="journal">
-					Indianapolis Star</title>, Mar. 4, 1935, p. 3 </bibl>
+					Indianapolis Star</title>, Mar. 4, 1935, p. 3</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="IS">The Indianapolis Star</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>No complete version of Sanger's talk was found. Draft notes for the speech can be found
-			on Margaret Sanger Microfilm S71:799. For her comments to the press before this speech,
-			see <xref from="421929.xml">Indianapolis Statement on Relief Agencies</xref>, Mar. 2,
-			1935.</p>
+		<p>No complete version of Sanger's talk at the <place reg="Indianpolis, IN"
+				>Indianapolis</place> Jewish Community Center was found. Draft notes for the speech
+			can be found on Margaret Sanger Microfilm, Smith College Collections S71:799. For her
+			comments to the press before this speech, see <xref from="421929.xml">Indianapolis
+				Statement on Relief Agencies</xref>, Mar. 2, 1935.</p>
 		<index level1="birth control" level2="and war"/>
 		<index level1="birth control" level2="as a term"/>
 		<index level1="birth control" level2="distribution of information about"/>
@@ -41,13 +43,13 @@
 		<index level1="women" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
-
 		<head>BIRTH CONTROL PLEA IS MADE</head>
 		<div type="section">
 			<p>
 				<q who="IS">Humanity has a horror greater than any single major catastrophe in the
 					day-after-day fear of unwanted pregnancy that exists in thousands of homes,
-					Margaret Sanger told the open forum of the <org>Jewish Community Center
+					Margaret Sanger told the open forum of the <org
+						reg="Indianpolis Jewish Community Center">Jewish Community Center
 						Association</org> in the <org>Kirshbaum Community Center</org> last
 					night.</q>
 			</p>

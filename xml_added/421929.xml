@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014-04-02 JK initial tags</prepDate>
 		<prepDate>2015-02-26 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-03-02">)02 Mar 1935</docDate>
 		<docTitle>
 			<titlePart>
@@ -21,28 +24,32 @@
 			<name id="IS">Indianapolis Star</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave this statement in advance of her speech on <xref
-				from="421068.xml">Birth Control: A World-Wide Need</xref>, given on March 5,
-			1935.</p>
+	<headNote resp="MSPP">
+		<p>Sanger gave this statement in advance of her speech to the <org>Indianapolis Jewish
+				Community Center</org>, <xref from="421068.xml">Birth Control: A World-Wide
+				Need</xref>, given on March 5, 1935.</p>
 		<index level1="National Committee on Federal Legislation for Birth Control"/>
 		<index level1="National Committee on Federal Legislation for Birth Control"
-			level2="goals of"/><index level1="birth control laws and legislation" level2="Federal"
-			/><index level1="birth control clinics and leagues" level2="in US"/><index
-			level1="birth control clinics and leagues"/><index
-			level1="birth control laws and legislation" level2="Postal Code and Regulations"/><index
-			level1="birth control laws and legislation" level2="New York "/>
+			level2="goals of"/>
+		<index level1="birth control laws and legislation" level2="Federal"/>
+		<index level1="birth control clinics and leagues" level2="in US"/>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="birth control laws and legislation" level2="Postal Code and Regulations"/>
+		<index level1="birth control laws and legislation" level2="New York "/>
 		<index level1="National Committee on Federal Legislation for Birth Control"
 			level2="birth control bills"/>
 	</headNote>
 	<docBody>
 		<head>MRS. SANGER RAPS RELIEF ACTIVITIES</head>
-<div type="section">
-		<p> “It is an outrage on public decency, and a breach of faith with the taxpayers,” <q
-				who="IS">Margaret Sanger, president of the <org>National Committee on Federal
-					Legislation for Birth Control</org>, said yesterday in commenting on actions of
-				relief agencies. These agencies, she said, are encouraging an increase in the birth
-				rate in the families of the unemployed by telling mothers that they will have a
-				quicker consideration if they can report a condition of pregnancy.</q></p></div>
+		<div type="section">
+			<p> “It is an outrage on public decency, and a breach of faith with the taxpayers,” <q
+					who="IS">Margaret Sanger, president of the <org>National Committee on Federal
+						Legislation for Birth Control</org>, said yesterday in commenting on actions
+					of relief agencies. These agencies, she said, are encouraging an increase in the
+					birth rate in the families of the unemployed by telling mothers that they will
+					have a quicker consideration if they can report a condition of
+				pregnancy.</q></p>
+		</div>
 		<div type="section">
 			<head type="sub">Masses Lose Confidence</head>
 			<p>“It has become apparent to every thinking individual that the masses have lost
@@ -51,18 +58,21 @@
 				out one set of politicians or bringing in another: the men in power refuse to face
 				facts, and one pertinent fact is that improved machinery has reduced the number of
 				workers needed for production.”</p>
-			
-			<p><q who="IS">Mrs. Sanger is the leader of the largest birth control clinic in the world in
-						<place reg="New York, NY">New York city</place> and has established
-					headquarters in <place reg="Washington, D.C.">Washington</place> for the birth
+
+			<p>
+				<q who="IS">Mrs. Sanger is the leader of the largest birth control clinic in the
+					world in <place reg="New York, NY">New York city</place> and has established
+					headquarters in <place reg="Washington, DC">Washington</place> for the birth
 					control committee on Federal legislation which seeks to make it legal to send
-					birth control literature through the <place>United States</place> mails.</q> </p>
-			<p><q who="IS">Mrs. Sanger is in <place reg="Indianapolis, IN">Indianapolis</place> to address
-					the Indianapolis Open Forum tonight on “<title type="article">Birth Control: A
-						World-Wide Need</title>,” at 8:15 o’clock at the <org>Kirshbaum
+					birth control literature through the <place>United States</place> mails.</q>
+			</p>
+			<p>
+				<q who="IS">Mrs. Sanger is in <place reg="Indianapolis, IN">Indianapolis</place> to
+					address the Indianapolis Open Forum tonight on “<title type="article">Birth
+						Control: A World-Wide Need</title>,” at 8:15 o’clock at the <org>Kirshbaum
 						Center.</org></q>
-				</p>
-			
+			</p>
+
 		</div>
 	</docBody>
 </doc>

@@ -4,13 +4,15 @@
 	<mepHeader>
 		<prepDate>2014-04-02 JK initial tag</prepDate>
 		<prepDate>2015-03-02 CH proof tags andc enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-11-29">29 Nov 1935</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">What Municipalities in the West Have Been
-					doing to Promote Birth Control</supplied>
+					Doing to Promote Birth Control</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421080</idno>
@@ -18,7 +20,6 @@
 			<bibl><title type="article">"Benefits of Birth Control"</title>,
 					<title type="journal">Times of India</title>, Nov. 30, 1935,
 				p. 22</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -85,20 +86,25 @@
 					decrease maternal mortality.</q>
 			</p>
 
-			<p><q who="ToI">Mrs. Sanger asked the Bombay Municipality to take
-					the lead in the movement by starting birth control clinics,
-					as other western municipalities had already done. If the
-					knowledge of birth control were systematically and
-					scientifically spread among the masses, it would do them
-					enormous good, and within a hundred years the people would
-					appreciate the efforts of the municipality and raise a
-					statue to the Mayor for having successfully launched the
-					movement. (Laughter.) </q></p>
-			<p><q who="ToI">Mrs. How-Martyn explained how attention was being
+			<p>
+				<q who="ToI">Mrs. Sanger asked the <org
+						reg="Bombay Muncipal Corporation">Bombay
+						Municipality</org> to take the lead in the movement by
+					starting birth control clinics, as other western
+					municipalities had already done. If the knowledge of birth
+					control were systematically and scientifically spread among
+					the masses, it would do them enormous good, and within a
+					hundred years the people would appreciate the efforts of the
+					municipality and raise a statue to the Mayor for having
+					successfully launched the movement. (Laughter.) </q>
+			</p>
+			<p>
+				<q who="ToI">Mrs. How-Martyn explained how attention was being
 					paid to the movement in <place>England</place>, pointing out
 					that large sums of money were being spent on social service.
 					Hundreds of women took advantage of the birth control
-					clinics started in various parts of the country.</q></p>
+					clinics started in various parts of the country.</q>
+			</p>
 			<p>
 				<q who="ToI">The visitors answered several questions asked by
 					members of the audience and cleared their doubts on the

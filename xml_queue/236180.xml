@@ -5,17 +5,19 @@
 		<prepDate>2009/07/06 CH 2010/03/10 AC</prepDate>
 		<prepDate>2013-11-25 CH integrate 236179 and make corrections</prepDate>
 		<prepDate>2014-08-21 CH Clean regs</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-03-14">14 Mar 1935</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control the Concern of
-				Youth</supplied></titlePart>
+			<titlePart> Birth Control the Concern of Youth </titlePart>
 		</docTitle>
 		<idno>msp236180</idno>
 		<sourceDesc>
-			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Papers Microfilm, Smith College Collection</title> S71:714
-				and 716</bibl>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers Microfilm, Smith College
+					Collections</title> S71:714 and 716</bibl>
 			<bibl><title type="article">Home, Family Under Scrutiny in Conference</title>," <title
 					type="journal">Boston Evening Transcript</title>, Mar. 14, 1935</bibl>
 		</sourceDesc>
@@ -31,10 +33,9 @@
 			the <org>Massachusetts State Federation of Woman's Clubs</org>, in <place
 				reg="Boston, MA">Boston</place>'s <org>Statler Hotel</org>. at a <org
 				reg="Greater Boston Youth Conference">Youth Conference</org>. No complete version of
-			her speech has been found, below is text from a Mar. 14 press release, "Margaret Sanger
-			Addresses Youth Conference," with additional portions from an incomplete speech draft,
-			"Conference Speech," and an additional quote was taken from "Home, Family Under Scrutiny
-			in Conference." </p>
+			her speech has been found. The text below comes from three sources: a Mar. 14 press
+			release, "Margaret Sanger Addresses Youth Conference," an incomplete speech draft,
+			"Conference Speech," and from news coverage.</p>
 		<index level1="Comstock, Anthony"/>
 		<index level1="birth control" level2="laws and legislation" level3="Comstock act"/>
 		<index level1="birth control" level2="laws and legislation" level3="Federal"/>
@@ -67,7 +68,7 @@
 				confusion worse confounded.</p>
 			<p>As you perhaps know, the Committee of which I am the president, the <org>National
 					Committee on Federal Legislation for Birth Control</org>, is seeking the
-				amendment of these Federal laws. The amendments, ( Senate Bill 600 and House Bill
+				amendment of these Federal laws. The amendments, (Senate Bill 600 and House Bill
 				5600) now before <org reg="United States Congress">Congress</org> would make it
 				possible for doctors, hospitals and licensed clinics to secure contraceptive
 				information.</p>
@@ -79,11 +80,11 @@
 				condition of relief and unemployment and misery, only to increase the population
 				which increases poverty, unemployment and misery.</p>
 			<p> Everyone knows that we are piling up enormous debts for future generations to pay.
-				But it is not only financial or money debts that I am referring to--such debts may be
-				easily cancelled–but it will not be so simple for future generations to wipe out of
-				existence the debt of inferior racial qualities that we are passing down to them, or
-				to wipe our a population with millions of morons and defectives which we are handing
-				down for our children’s children to manage.</p>
+				But it is not only financial or money debts that I am referring to--such debts may
+				be easily cancelled–but it will not be so simple for future generations to wipe out
+				of existence the debt of inferior racial qualities that we are passing down to them,
+				or to wipe our a population with millions of morons and defectives which we are
+				handing down for our children’s children to manage.</p>
 			<p> You and your children will have to deal with these debts, with the results of the
 				petty acts of politicians. You must put pressure on our lawmakers to legislate for
 				the future, which belongs to you.</p>
@@ -118,9 +119,9 @@
 					<item>7. This situation has given rise to bootleg manufacture and distribution
 						of contraceptives and has placed the matter in the hands of commercial firms
 						operating for profit rather than of physicians working for the public good. </item>
-					<item>8. If the <name type="law" reg="United States Criminal Code, Section 211">Criminal
-							Code</name> were amended, scientific birth control instruction could be
-						included in the public health program of the <org
+					<item>8. If the <name type="law" reg="United States Criminal Code, Section 211"
+							>Criminal Code</name> were amended, scientific birth control instruction
+						could be included in the public health program of the <org
 							reg="United States Government">Federal Government</org>, and physicians,
 						hospitals and clinics could secure supplies legally and give
 						information.</item>
@@ -128,10 +129,13 @@
 						happy marriage.</item>
 					<item>10. The youth of <place reg="United States">America</place> should demand
 						this knowledge.</item>
-				</list></p>
+				</list>
+			</p>
 		</div>
 		<div type="section">
-			<head><supplied resp="MSPP">Conference Speech</supplied></head>
+			<head>
+				<supplied resp="MSPP">Conference Speech</supplied>
+			</head>
 			<p> As a result of the Comstock laws, birth control instead of being recognized for what
 				it really is, a fine, constructive thing, necessary for health and happiness, has
 				been besmirched and driven underground. Here is medical information, which should be

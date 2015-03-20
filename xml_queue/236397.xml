@@ -7,8 +7,11 @@
 		<prepDate>2011-11-28 CH correct typo</prepDate>
 		<prepDate> 2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1935-11-00"> Nov. 1935</docDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1935-11-00">Nov 1935</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Responsibility of Parenthood</supplied>
@@ -17,7 +20,7 @@
 		<idno>msp236397</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S71:773</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:773</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -75,7 +78,7 @@
 			classes have served their purpose &amp; reached the limit of their usefulness Their need
 			in society is greatly reduced by invention &amp; machinery--today &amp; will be more
 			limited in the near future by Chemistry &amp; physics &amp; the possession of unlimited
-			sources of heat &amp; Energy at a <unclear>minimum</unclear> of expenditure. Instead of
+			sources of heat &amp; Energy at a <unclear resp="MSPP">minimum</unclear> of expenditure. Instead of
 			manual laborers we shall need brains highly resistant to work &amp; capable of a degree
 			of instruction which surpasses that of the most intelligent of our skilled workers
 			today. Consequently it is a crime against the future civilization &amp; generations to
@@ -83,12 +86,12 @@
 			burden to the future &amp; retard the progress of civilization.</p>
 		<p> There must be a Scientific <add>Study</add> of Population in each Country &amp; this
 			shall point the way for legislation to deliver society from the burdens now heaped upon
-			it by eliminating the reproduction of dysgenic <unclear>stock</unclear>.</p>
+			it by eliminating the reproduction of dysgenic <unclear resp="MSPP">stock</unclear>.</p>
 		<p> Tuberculosis--<del>of</del>
 			<add>from</add> which a large part of the population is suffering.</p>
 		<p> 99 out of 100 cases it was found that the patient could not afford a tolerable course of
 			treatment &amp; rest.</p>
-		<p> This is distincly a disease of poor nutrition &amp; bad housing &amp; overcrowding.</p>
+		<p> This is distinctly a disease of poor nutrition &amp; bad housing &amp; overcrowding.</p>
 		<p> The father can not absent himself from work long enough to get properly cured. The
 			mother has to get up earlier from her convalescence to attend to the needs of her
 			husband &amp; her children.</p>

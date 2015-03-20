@@ -6,17 +6,23 @@
 		<prepDate>2013-11-17 CH changed title.</prepDate>
 		<prepDate>2014-04-13 EK clean regs</prepDate>
 		<prepDate>2015-02-25 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1935-02-12"><supplied resp="MSPP">12 Feb 1935</supplied></docDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1935-02-12">
+			<supplied resp="MSPP">12 Feb 1935</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control Comes of Age Dinner
-				Speech</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control Comes of Age Dinner Speech</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236525</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title>Margaret Sanger Papers Microfilm, Smith Collection Collections</title>
-				S71:0708</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers Microfilm, Smith Collection
+					Collections</title> S71:0708</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp>
@@ -24,8 +30,9 @@
 			</resp>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave this speech to open the "Birth Control Comes of Age"
-			dinner, held at the Mayflower Hotel in Washington, DC to commemorate the 21st
+	<headNote resp="MSPP">
+		<p>Sanger gave this speech to open the "Birth Control Comes of Age" dinner, held at the
+				<org>Mayflower Hotel</org> in <place>Washington, DC</place> to commemorate the 21st
 			anniversary of the founding of the birth control movement. This text comes from a Feb.
 			13, 1935 press release.</p>
 		<index level1="birth control" level2="laws and legislation" level3="Federal"/>
@@ -124,16 +131,17 @@
 			these agencies for medical aid. If passed, this bill would open the doors and unite the
 			hands of physicians in these institutions so that people coming to them could receive
 			adequate information suitable to their individual problems and conditions.</p>
-		<p> Are we too optimistic in hoping for success? No--for we know that the people throughout the
-			country are thinking of family planning as never before. We know that we can win if we
-			can arouse these people out of their lethargy and indifference and inform them how this
-			law interferes with their obtaining adequate scientific knowledge. We want to organize
-			in every state of the union. We want to put fifty field workers into action within the
-			next thirty days. We are circulating petitions asking <org reg="United States Congress"
-				>Congress</org> and the President of the United States to help us. We expect to get
-			not less than 1,000,000 signatures. The action of the Judiciary Committee of the House
-			of Representatives has inspired this action. It was a springboard for us to leap into a
-			wider area and extend our activities throughout the nation.</p>
+		<p> Are we too optimistic in hoping for success? No--for we know that the people throughout
+			the country are thinking of family planning as never before. We know that we can win if
+			we can arouse these people out of their lethargy and indifference and inform them how
+			this law interferes with their obtaining adequate scientific knowledge. We want to
+			organize in every state of the union. We want to put fifty field workers into action
+			within the next thirty days. We are circulating petitions asking <org
+				reg="United States Congress">Congress</org> and the President of the United States
+			to help us. We expect to get not less than 1,000,000 signatures. The action of the
+			Judiciary Committee of the House of Representatives has inspired this action. It was a
+			springboard for us to leap into a wider area and extend our activities throughout the
+			nation.</p>
 		<p> Ten years ago I addressed a letter to President <person reg="Coolidge, Calvin"
 				>Coolidge</person>, urging the formation of a Federal Birth Control Commission. I
 			suggested that this commission be composed of impartial scientists distinguished in the
