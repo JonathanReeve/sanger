@@ -3,18 +3,21 @@
 <doc type="Published Speech">
 	<mepHeader>
 		<prepDate>2014-04-04 YG</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-22 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-01-07">07 Jan 1935</docDate>
 		<docTitle>
-			<titlePart>The Birth Control Movement</titlePart>
+			<titlePart><supplied resp="MSPP">The Birth Control
+					Movement</supplied></titlePart>
 		</docTitle>
 		<idno>msp421099</idno>
 		<sourceDesc>
 			<bibl>
-				<title type="speech">"Birth Control"</title>
-				<title type="journal">Justice</title>
-			</bibl>
-			
+				<title type="speech">"Birth Control"</title>, <title
+					type="journal">Justice</title>, Jan. 9, 1936</bibl>
+
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -31,13 +34,12 @@
 	</headNote>
 	<docBody>
 		<head>"Birth Control"</head>
-		<head type="sub">Mrs. <person reg="Sanger, Margaret">Margaret
-				Sanger</person>'s Lecture At <place reg="Adyar, India"
+		<head type="sub">Mrs. Sanger's Lecture At <place reg="Adyar, India"
 				>Adyar</place></head>
 		<div>
 			<p>
-				<q who="J">Mrs. Margaret Sanger, delivered an address on “the
-					birth control movement,” at Adyar on Tuesday afternoon. </q>
+				<q who="J">Mrs. Margaret Sanger, delivered an address on “</q>the
+				birth control movement,”<q who="J">at Adyar on Tuesday afternoon. </q>
 			</p>
 			<p><q who="J">Mrs. Sanger defined birth control as </q>“the
 				conscious control of the birth rate by means that prevent the
@@ -78,7 +80,7 @@
 					idea of birth control: First, that it might be injurious to
 					woman. Second, that it would be conducive to an increase of
 					immorality. Answering the former objection, she quoted
-					statistics from <place>Holland</place>where such information
+					statistics from <place reg="Netherlands">Holland</place>where such information
 					had been disseminated for over 44 years. The infant and
 					maternal mortality rate had been greatly lowered and
 					conditions in family life much improved. </q>
@@ -99,15 +101,15 @@
 			<p>
 				<q who="J">All authorities at the present time, were agreed that
 					birth control was a necessity. In an interview with <person
-						reg="Gandhi, Mohandas">Mahatma Gandhi</person>, Mrs.
+						reg="Gandhi, Mohandas K.">Mahatma Gandhi</person>, Mrs.
 					Sanger stated he quite agreed with her as to the necessity
 					of women being freed from this bondage. Mr. Gandhi believed
 					that continence was the only answer and that women should
 					resist men to enforce it. Mrs. Sanger expressed herself in
 					utter sympathy with the idea of continence though doubting
-					the feasibility of resistence. However, she did not believe
+					the feasibility of resistance. However, she did not believe
 					continence was a practical solution for those who are not
-					yet evolved sufficiently to sublimate te sex urge through
+					yet evolved sufficiently to sublimate the sex urge through
 					creative mental or artistic activity. She cited instances
 					where much harm was done through enforced continence in the
 					case of the less spiritually cultured people. </q>
@@ -115,7 +117,7 @@
 			<p>“The whole relationship of parents and children, of husband and
 				wife, changes with birth control knowledge was available and the
 				husband’s economic fears are removed,” <q who="J">concluded Mrs.
-					Sanger. </q>"Husband and wife become friends, pals; mothers
+					Sanger.</q> "Husband and wife become friends, pals; mothers
 				have freedom to know and help their children. I believe birth
 				control is the key-note of our social awakening and interlocked
 				with the spiritual advances of the women of the race. Our
@@ -129,7 +131,5 @@
 				the service of the soul that we may summon to take its place in
 				the mystery of natural being.”</p>
 		</div>
-
-
 	</docBody>
 </doc>
