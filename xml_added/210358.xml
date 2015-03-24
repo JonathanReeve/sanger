@@ -9,7 +9,7 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1933-06">Jun 1933</docDate>
+		<docDate value="1933-06-00">Jun 1933</docDate>
 		<docTitle>
 			<titlePart>An Open Letter to Social Workers</titlePart>
 		</docTitle>
@@ -35,11 +35,11 @@
 		<byline><emph rend="italics">From</emph> Margaret Sanger</byline>
 		<p>In addressing this letter to the assembled delegates of the <org>National Conference of
 				Social Work</org>, I do so with a feeling of kinship in a common purpose. Too often
-			I find an <person reg="Alice in Wonderland (fictional)"
-				>Alice-in-Wonderland</person> attitude prevailing–-with poverty, disease and kindred
-			evils all seen as through a looking-glass, as spectres without substance. To the social
-			worker, however, these are grim realities, calling on every ounce of courage,
-			resourcefulness and commonsense in their solution.</p>
+			I find an <person reg="Alice in Wonderland (fictional)">Alice-in-Wonderland</person>
+			attitude prevailing–-with poverty, disease and kindred evils all seen as through a
+			looking-glass, as spectres without substance. To the social worker, however, these are
+			grim realities, calling on every ounce of courage, resourcefulness and commonsense in
+			their solution.</p>
 		<p> You who have dedicated yourselves to the welfare of others-–you who are working to build
 			bridges for families to pass from dependency to self-support-–know full well that a
 			knowledge of birth control must form the keystone of that bridge. You are already aware
