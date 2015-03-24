@@ -7,10 +7,11 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1935-01-07">07 Jan 1935</docDate>
+		<docDate value="1935-01-07">07 Jan 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">The Birth Control
-					Movement</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">The Birth Control Movement</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421099</idno>
 		<sourceDesc>
@@ -38,8 +39,9 @@
 				>Adyar</place></head>
 		<div>
 			<p>
-				<q who="J">Mrs. Margaret Sanger, delivered an address on “</q>the
-				birth control movement,”<q who="J">at Adyar on Tuesday afternoon. </q>
+				<q who="J">Mrs. Margaret Sanger, delivered an address on
+				“</q>the birth control movement,”<q who="J">at Adyar on Tuesday
+					afternoon. </q>
 			</p>
 			<p><q who="J">Mrs. Sanger defined birth control as </q>“the
 				conscious control of the birth rate by means that prevent the
@@ -80,10 +82,11 @@
 					idea of birth control: First, that it might be injurious to
 					woman. Second, that it would be conducive to an increase of
 					immorality. Answering the former objection, she quoted
-					statistics from <place reg="Netherlands">Holland</place>where such information
-					had been disseminated for over 44 years. The infant and
-					maternal mortality rate had been greatly lowered and
-					conditions in family life much improved. </q>
+					statistics from <place reg="Netherlands"
+					>Holland</place>where such information had been disseminated
+					for over 44 years. The infant and maternal mortality rate
+					had been greatly lowered and conditions in family life much
+					improved. </q>
 			</p>
 		</div>
 
