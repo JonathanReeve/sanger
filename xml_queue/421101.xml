@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published article">
+<doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/04/09 VS initial tagging</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1936-12-29">29 December, 1936</docDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1936-12-29">29 Dec 1936</docDate>
 		<docTitle>
-			<titlePart>Statement on the Conference on Contraceptive Research and Clinical
-				Practice</titlePart>
+			<titlePart><supplied resp="MSPP">Statement at the Conference on Contraceptive Research
+					and Clinical Practice</supplied></titlePart>
 		</docTitle>
 		<idno>msp421101</idno>
 		<sourceDesc>
 			<bibl>
-				<title>New York Times</title>
-			</bibl>
+				<title type="article">Birth Control Aid Received By 56,000</title>, <title
+					type="journal">New York Times</title>, Dec. 30, 1936, p. 10 </bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="TIMES">New York Times</name>
+			<name id="NYT">New York Times</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">The New York Times reposted a statement Sanger made on the opening of the
-		Conference in New York at the Hotel Roosevelt. For Sanger's complete opening speech, see
-			<xref from="101798.xml">Address to the Conference on Contraceptive Research and Clinical
-			Practice</xref>
+	<headNote resp="MSPP"><p>Sanger addressed the <org>Conference on Contraceptive Research and
+				Clinical Practice</org> at the <org>Hotel Roosevelt</org> in <place
+				reg="New York, NY">New York City</place>. For another speech from this event, see
+				<xref from="101798.xml">Address to the Conference on Contraceptive Research and
+				Clinical Practice</xref>, Dec. 29, 1936. Portions of the article that did not deal
+			with Sanger's speech have been omitted.</p>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="medical community and"/>
 		<index level1="Birth Control Clinical Research Bureau"/>
@@ -32,33 +37,28 @@
 	</headNote>
 	<docBody>
 		<head>Birth Control Aid Received By 56,000</head>
-		<byline>Mrs. Sanger Reports Clinical Work Nearly 100% Effective, but Urges Wider Scope. Says
-			Millions Need Help.</byline>
-		<div>
-			<head type="sub"> She Asks Further Assistance of Science to Reduce Costs- New Researches
-				Revealed. </head>
-			<q who="TIMES">
-				<p> Clinical birth control methods are approaching 100 per cent success; but
+		<div type="section">
+			<p><q who="NYT">Clinical birth control methods are approaching 100 per cent success; but
 					cheaper, easier and equally harmless means must be found to help the millions to
 					whom present methods are economically or geographically unavailable, Mrs.
-						<person reg="Sanger, Margaret">Margaret Sanger</person>, director of the
-						<org>Birth Control Clinical Research Bureau</org>, declared yesterday. </p>
-			</q>
-		</div>
-		<div>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted.</supplied>
+					Margaret Sanger, director of the <org>Birth Control Clinical Research
+						Bureau</org>, declared yesterday.</q>
 			</p>
+			<p><q who="NYT">She spoke at the opening of a two-day conference on control research and
+					clinical practice at the Hotel Roosevelt. More than 200 persons, many of them
+					physicians, representing about fifty clinics in all parts of the country, heard
+					papers describing several methods in the experimental stage which, if perfected,
+					may revolutionize birth control practices.</q></p>
 		</div>
-		<div>
+		<div type="section">
 			<head type="sub"> Bureau’s Work Reviewed</head>
-			<p> “The outstanding achievement of this bureau,” <q who="TIMES">Mrs. Sanger said</q>,
+			<p> “The outstanding achievement of this bureau,” <q who="NYT">Mrs. Sanger said</q>,
 				“has been to inform, teach, instruct and give contraceptive advice to more than
 				56,000 women who voluntarily appealed to us for this advice. The records of these
 				women may truly be looked upon as a veritable human laboratory for research and
 				correlations. </p>
 			<p> “We have been fortunate in enlisting the cooperation of competent physicians and
-				have amassed a wealth of incontrovertible evidence supporting the feasability and
+				have amassed a wealth of incontrovertible evidence supporting the feasibility and
 				desirability of contraceptive practice. The evidence seems to be on our side, for in
 				all the studies we have made we find, when our teachings are followed and adhered
 				to, there is the record of 96.4 to 97 per cent success. </p>
@@ -71,23 +71,19 @@
 				which we now use have proven to be. The scientist must come to our aid. We want his
 				cooperation, his wisdom, his impersonal courage and vision.”</p>
 		</div>
-		<div>
+		<div type="section">
 			<head type="sub"> Praises Recent Court Verdict</head>
 			<p>
-				<q who="TIMES">Mrs. Sanger praised a <name
+				<q who="NYT">Mrs. Sanger praised a <name
 						reg="United States v. One Package of Japanese Pessaries">recent
 						decision</name> of the <org>United States Circuit Court of Appeals</org>,
 					which held that</q> “the Federal statutes were not designed to obstruct the
 				circulation of articles which may be intelligently employed by conscientious
 				physicians for the purpose of saving life and promoting well-being.” </p>
-			<p> “In our effort to clear away this legal rubbish,” <q who="TIMES">Mrs. Sanger
-					added</q>, “we have uncovered many obstacles, but we cannot go much farther,
-				either onward or upward, without the help of the scientific mind.” </p>
+			<p> “In our effort to clear away this legal rubbish,” <q who="NYT">Mrs. Sanger
+				added</q>, “we have uncovered many obstacles, but we cannot go much farther, either
+				onward or upward, without the help of the scientific mind.” </p>
 		</div>
-		<div>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
-			</p>
-		</div>
+
 	</docBody>
 </doc>

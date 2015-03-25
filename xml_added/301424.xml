@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2011/06/01 CE</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1936-12-29">
 			<supplied resp="MSPP">29 Dec 1936</supplied>
 		</docDate>
@@ -14,12 +17,13 @@
 		<idno>msp301424</idno>
 		<sourceDesc>
 			<bibl>Alice Park Papers, Hoover Institution Archives, Stanford University</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>, C16:0398</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
+				C16:398</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="USVOP">United States versus One Package of Japanese Contraceptives
 				decision</name>
-			<name id="COMBIL">Comstock Act of 1873</name>
+			<name id="USCC211">United States Criminal Code, Section 211</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -35,20 +39,20 @@
 	</headNote>
 	<docBody>
 		<head>A MOMENTOUS DECISION</head>
-		<p>The decision handed down by the <org>United States Circuit Court of Appeals for the
-				Second Circuit</org> may be acclaimed as the close of one epoch and the dawn of
-			another. It brings to an end the sixty-three year reign of muddle and tyranny
-			inaugurated by the so-called <name type="law"
-				reg="United States Criminal Code, Section 211">Comstock legislation</name> enacted
-			in 1873, and clarifies once and for al future time the position and the rights of the
-			American physician in the legitimate use of scientific contraceptives.</p>
+		<p>The decision handed down by the <org>United States Circuit Court of Appeals</org> for the
+			Second Circuit may be acclaimed as the close of one epoch and the dawn of another. It
+			brings to an end the sixty-three year reign of muddle and tyranny inaugurated by the
+			so-called <name type="law" reg="United States Criminal Code, Section 211">Comstock
+				legislation</name> enacted in 1873, and clarifies once and for al future time the
+			position and the rights of the American physician in the legitimate use of scientific
+			contraceptives.</p>
 		<p>The most significant passages of this decision, signed by Justices <person
 				reg="Hand, Billings Learned">Learned Hand</person>, <person
 				reg="Swan, Thomas Walter">Thomas W. Swan</person>, and <person
 				reg="Hand, Augustus Noble">Augustus N. Hand</person>, cannot be too often quotes:
-				“<q who="USVOP">. . . While we may assume that Section 305 (a) of the <title>Tariff
-					Act of 1930</title> exempts only such articles as the <name type="law"
-					reg="Comstock Act of 1873">Act of 1873</name> excepted, yet we are satisfied
+				“<q who="USVOP">. . . While we may assume that <name type="law"
+					reg="United States Tarriff Act, Section 305">Section 305 (a) of the Tariff Act
+					of 1930</name> exempts only such articles as the Act of 1873 excepted, yet we are satisfied
 				that this statute, as well as all the acts we have referred to, embraced only such
 				articles as <org reg="United States Congress">Congress</org> would have denounced as
 				immoral if it had understood all the conditions under which they were to be used.
@@ -74,13 +78,12 @@
 				articles, the use of which in many cases is advocated by such a weight of authority
 				in the medical world . . . The decree dismissing the libel is affirmed</q>.”</p>
 		<p>As originally introduced in the <org reg="United States Senate">Senate</org>, the
-			so-called Comstock Bill contained the words “<q who="COMBIL">except on the prescription
+			so-called Comstock Bill contained the words “<q who="USCC211">except on the prescription
 				of a physician in good standing, given in good faith</q>,” but these words were
 			omitted from the bill as it was ultimately passed. The decision of the Circuit Court of
 			Appeals restores this implicit interpretation, sustaining the interpretation of other
 			courts and tribunals. Thus while government officials have sought a literal
-			interpretation of the Act of 1873 and the <name type="law"
-				reg="United States Tariff Act, Section 305">Tariff Act of 1930</name>, involving the
+			interpretation of the Act of 1873 and the Tariff Act of 1930, involving the
 			importation of contraceptives, the Bench has given a larger, more humane, logical, and
 			far-seeing interpretation to the confusing statutes which have stood as obstacles to
 			progress for sixty-three years.</p>

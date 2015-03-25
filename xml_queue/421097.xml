@@ -4,10 +4,11 @@
 	<mepHeader>
 		<prepDate>2014-06-26 CH proof tags</prepDate>
 		<prepDate>2015-03-22 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1936-01-03">)3 Jan 1936</docDate>
+		<docDate value="1936-01-03">3 Jan 1936</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Contraception</supplied>
@@ -17,8 +18,10 @@
 		<sourceDesc>
 			<bibl><title type="article">Dissemination of Knowledge</title>,
 					<title type="journal">Madras Mail</title>, Jan. 3,
-				1936.</bibl>
-			<bibl><title/></bibl>
+				1936</bibl>
+			<bibl>
+				<title/>
+			</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>

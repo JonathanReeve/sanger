@@ -3,70 +3,88 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014/04/04 VS initial tagging</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1936-11-16">16 Nov 1936</docDate>
 		<docTitle>
-			<titlePart>The Present Day Trend of Birth Control</titlePart>
+			<titlePart><supplied resp="MSPP">The Present Day Trend of Birth
+				Control</supplied></titlePart>
 		</docTitle>
 		<idno>msp421910</idno>
 		<sourceDesc>
 			<bibl>
-				<title>Buffalo Courier Express</title>
-			</bibl>
+				<title type="article">Mrs. Sanger Gives Hearers Plenty to Think About</title>,
+					<title>Buffalo Courier Express</title>, Nov. 17, 1936</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="BCE">Buffalo Courier Express</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger spoke under the auspices of the <org>Buffalo Family Relations
-			Institute</org> at the <org>Hotel Fillmore</org> on November 16, 1936, on the platform.
-		Also appearing was Dean <person reg="Alden, Carlos C.">Carlos C. Alden</person>, Dr. <person
-			reg="Clarke, Alfred">Alfred Clarke</person>, <person reg="Mitchell, Ellen">Ellen
-			Mitchell</person>, <person reg="Sawyer, Esther Hoyt">Esther Hoyt Sawyer</person>, Mrs.
-			<person reg="Davis, Mrs. Herbert R.">Herbert Davis</person>, <person
-			reg="Penkey, Thomas Jr.">Thomas Penkey Jr.</person>, Mrs. <person>Barday</person> and
-			<person reg="Gaylord, Gladys">Gladys Gaylord</person>. <index level1="xxxx"/>
+	<headNote resp="MSPP"><p>Sanger spoke under the auspices of the <org>Buffalo Family Relations
+				Institute</org> at the <org>Hotel Fillmore</org> on November 16, 1936.</p>
+		<index level1="India" level2="birth control in"/><index level1="birth control"
+			level2="economic rationale"/><index level1="Sanger, Margaret"
+			level2="physical descriptions"/>
 	</headNote>
 	<docBody>
-		<head>Mrs. <person reg="Sanger, Margaret">Sanger</person> Gives Hearers Plenty to Think
-			About</head>
-		<byline>Champion of birth control says she met no opposition in India.</byline>
-		<div>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
-			</p>
-		</div>
-		<div>
+		<head>Mrs. Sanger Gives Hearers Plenty to Think About</head>
+
+		<div type="section">
+			<p> That part of Buffalo that went to the Hotel Fillmore last night to hear Mrs.
+				Margaret Sanger, greatest advocate of birth control in this country, discuss the
+				subject that is nearest and dearest to her heart, came away impressed and admiring.
+				The Buffalonians who heard her for the first time, this doughty reddish-brown-haired
+				woman, who looks meek as the proverbial Moses, but is one of the greatest fighters
+				of our time, was a revelation. To Margaret Sanger, adherents she was, as always, a
+				delight. </p>
+			<p>For she stood upon a brilliantly lit stage in a demure black gown, as gentle and
+				feminine a feminist as ever breathed, and buried facts in the face of a remarkable
+				audience that was at least one-half male. That she gained militant converts to her
+				cause was apparent by an 80 per cent lineup at the conclusion of her lecture to sign
+				pledge cards for campaign activities of the local Family Relations Institute. That
+				she gave all who heard her something to think about and work about was also evident
+				in the numbers of groups of persons who gathered to talk about her lecture for at
+				least a half-hour after the verbal pyrotechnic display was off.</p>
+			<p>Riding right into the thick of battle, little Mrs. Sanger was only a minute launched
+				on her speech when she knuckled down to battle with religious antagonism to her
+				cause.</p>
 			<p> “Control of the population is one of the great problems of life, and the greatest
 				problem of our age,” <q who="BCE">she said</q>. “When we call into the world a new
 				life consciously, then we begin on a new and better civilization.</p>
-			<p> “Birth control is, however first of all, an answer to the prayer of the poor-- the
+			<p> “Birth control is, however first of all, an answer to the prayer of the poor--the
 				sad, unfortunate people all over the world who are asking what they can do to keep
 				from wrecking the lives of countless of mothers and keep fathers from becoming
 				hopeless and despairing.”</p>
 		</div>
-		<div>
+		<div type="section">
 			<head type="sub"> Tells About <place>India</place></head>
-			<q who="BCE">
-				<p> She labeled it the country of contrasts, filled with the horribly rich and the
-					poor to whom life is a starved, living death, where the weather is either
-					intensely hot or icy cold; where persons are either abysmally ignorant or deeply
-					learned. India, she said, has tried everything, and she pointed out that, in the
-					face of “Purdah,” that state where women as a majority were kept in virtual
-					imprisonment never being seen by any man except their husbands. <person
-						reg="Gandhi, Mahatma">Gandhi</person> had but to send out the call and the
-					women heroically revolted to free themselves almost overnight. </p>
-			</q>
+
 			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
+				<q who="BCE">Mrs. Sanger's recent tour of India provided her with interesting
+					material for part of her talk last night. Most people are badly informed about
+					Indians she said. She labeled it the country of contrasts, filled with the
+					horribly rich and the poor to whom life is a starved, living death, where the
+					weather is either intensely hot or icy cold; where persons are either abysmally
+					ignorant or deeply learned. India, she said, has tried everything, and she
+					pointed out that, in the face of “Purdah,” that state where women as a majority
+					were kept in virtual imprisonment never being seen by any man except their
+					husbands. <person reg="Gandhi, Mahatma">Gandhi</person> had but to send out the
+					call and the women heroically revolted to free themselves almost overnight.</q>
+			</p>
+
+			<p><q who="BCE"> Mrs. Sanger was invited to India as the guest of the <org
+						reg="All-India Women's Conference">All India Women's Conference</org> and
+					she traveled 10,000 miles setting up 50 birth control centers.</q>
 			</p>
 			<p> “There were no legal objections in India in my work and absolutely no religious
 				interference like that in this country,” <q who="BCE">she continued.</q> “Because in
 				India, the problem has become acute and leaders and educators have been forced to
 				this action.”</p>
 		</div>
-		<div>
+		<div type="section">
 			<head type="sub"> Reason for Control</head>
 			<p> “But the identical factors necessitating birth control exist in this country that
 				exist in India. First, the infant mortality rate; second, the father’s wage; third,
@@ -90,11 +108,19 @@
 				of wealth have. We want to amend the federal laws so that all hospitals can
 				distribute information and that the information can be transmitted through the
 				mails.” </p>
-		</div>
-		<div>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
-			</p>
+			<p><q who="BCE">Mrs. Sanger was introduced to the assembly last night by Dean <person
+						reg="Alden, Carlos C.">Carlos C. Alden</person> of the <org>University of
+						Buffalo</org> and he followed her speech with a short resume of her
+					remarkable life. Dr. <person reg="Clarke, Alfred">Alfred Clarke</person>,
+						<person reg="Mitchell, Ellen">Mrs. Thomas Mitchell</person> of the Family
+					Relations Institute at 73 West Eagle Street; <person reg="Sawyer, Esther Hoyt"
+						>Mrs. Ansley W. Sawyer</person>, <person reg="Davis, Mrs. Herbert R.">Mrs.
+						Herbert Davis</person>, <person reg="Penhey, Thomas Jr.">Thomas Penhey
+						Jr.</person>, <person reg="Barkley, Mrs.">Mrs. Barday</person> and Miss
+						<person reg="Gaylord, Gladys">Gaylord</person> of <place reg="Cleveland, OH"
+						>Cleveland</place> were others on the platform at last night's meeting. Mrs.
+					Sanger was the guest of <person reg="Schoellkopf, Olive Abbott">Mrs. J.
+						Frederick Schoellkopf, Jr.</person> during her stay in Buffalo.</q></p>
 		</div>
 	</docBody>
 </doc>
