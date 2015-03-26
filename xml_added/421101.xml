@@ -9,8 +9,10 @@
 		</docAuthor>
 		<docDate value="1936-12-29">29 Dec 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement at the Conference on Contraceptive Research
-					and Clinical Practice</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement at the Conference on Contraceptive Research and
+					Clinical Practice</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421101</idno>
 		<sourceDesc>
@@ -23,12 +25,14 @@
 			<name id="NYT">New York Times</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger addressed the <org>Conference on Contraceptive Research and
-				Clinical Practice</org> at the <org>Hotel Roosevelt</org> in <place
-				reg="New York, NY">New York City</place>. For another speech from this event, see
-				<xref from="101798.xml">Address to the Conference on Contraceptive Research and
-				Clinical Practice</xref>, Dec. 29, 1936. Portions of the article that did not deal
-			with Sanger's speech have been omitted.</p>
+	<headNote resp="MSPP">
+		<p>Sanger addressed the <org>Conference on Contraceptive Research and Clinical
+				Practice</org> at the <org>Hotel Roosevelt</org> in <place reg="New York, NY">New
+				York City</place>. For additional comments from this speech, see <xref
+				from="101798.xml">Address to the Conference on Contraceptive Research and Clinical
+				Practice</xref>, Dec. 29, 1936 and <xref from="308175.xml">The Future of
+				Contraception</xref>, Dec. 29, 1936. Portions of the article that did not deal with
+			Sanger's speech have been omitted.</p>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="medical community and"/>
 		<index level1="Birth Control Clinical Research Bureau"/>
@@ -38,17 +42,20 @@
 	<docBody>
 		<head>Birth Control Aid Received By 56,000</head>
 		<div type="section">
-			<p><q who="NYT">Clinical birth control methods are approaching 100 per cent success; but
-					cheaper, easier and equally harmless means must be found to help the millions to
-					whom present methods are economically or geographically unavailable, Mrs.
-					Margaret Sanger, director of the <org>Birth Control Clinical Research
+			<p>
+				<q who="NYT">Clinical birth control methods are approaching 100 per cent success;
+					but cheaper, easier and equally harmless means must be found to help the
+					millions to whom present methods are economically or geographically unavailable,
+					Mrs. Margaret Sanger, director of the <org>Birth Control Clinical Research
 						Bureau</org>, declared yesterday.</q>
 			</p>
-			<p><q who="NYT">She spoke at the opening of a two-day conference on control research and
-					clinical practice at the Hotel Roosevelt. More than 200 persons, many of them
-					physicians, representing about fifty clinics in all parts of the country, heard
-					papers describing several methods in the experimental stage which, if perfected,
-					may revolutionize birth control practices.</q></p>
+			<p>
+				<q who="NYT">She spoke at the opening of a two-day conference on control research
+					and clinical practice at the Hotel Roosevelt. More than 200 persons, many of
+					them physicians, representing about fifty clinics in all parts of the country,
+					heard papers describing several methods in the experimental stage which, if
+					perfected, may revolutionize birth control practices.</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub"> Bureau’s Work Reviewed</head>
