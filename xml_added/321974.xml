@@ -7,17 +7,18 @@
 		<prepDate>2014-03-26 JK correct tags</prepDate>
 		<prepDate>2014-12-16 CH correct and enter tags</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-03-27 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1920-02-00">Feb 1920</docDate>
+		<docDate value="1920-02-00">Feb 1921</docDate>
 		<docTitle>
 			<titlePart>Birth Control the Key to International Peace and Security
 			</titlePart>
 		</docTitle>
 		<idno>msp321974</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, Feb. 1920,
+			<bibl><title type="journal">Birth Control Review,</title> Feb. 1921,
 				pp. 3-4</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -27,10 +28,12 @@
 	</mepHeader>
 	<headNote resp="MSPP"><p>Unsigned editorial likely written by Margaret
 			Sanger.</p>
-		<index level1="Europe" level2="birth control in"/>
-		<index level1="birth control" level2="peace and"/>
+		<index level1="birth control" level2="and world peace"/>
 		<index level1="birth control" level2="international"/>
-		<index level1="birth control movement"/>
+		<index level1="war" level2="and birth control"/>
+		<index level1="World War I" level2="and birth control"/>
+		<index level1="World War I" level2="and population size"/>
+		<index level1="internationalism"/>
 	</headNote>
 	<docBody>
 		<head>Editorial Comment</head>
@@ -42,14 +45,14 @@
 			they visited the European countries which are suffering most acutely
 			from the consequences of the war. Had the war succeeded in jolting
 			Europe out of its old ways of thinking and feeling, had it smashed
-			up its old romantic and sentimental ideals, had I awakened men and
+			up its old romantic and sentimental ideals, had it awakened men and
 			women to the values of human life and human standards, it might
 			after all have justified itself. If it had taught people the
 			insanity of that hideous waste of human life, the danger of petty
 			chauvinistic quarrels, and awakened them to the absolute need of
 			international co-operation, it would not have been in vain. Instead,
 			it seems to me after my months in <place>Central Europe</place> and
-				<place>Great Britain</place>, the old reactionary and sinister
+				<place reg="England">Great Britain</place>, the old reactionary and sinister
 			forces are the first in the field to throw dust in the eyes of the
 			awakened and disillusioned victims of the great disaster. In the
 			face of wholesale starvation and disease, the militarists and the
@@ -66,11 +69,11 @@
 			aside the old pruriencies concerning sex, has emphasized and
 			accentuated the problem of population--showing it for those who have
 			unprejudiced eyes to see--in the problems thrust every day before
-			our eyes by the news papers, pleas to save the starving children of
+			our eyes by the newspapers, pleas to save the starving children of
 			Central Europe, appeals to aid the thirty million starving Chinese,
 			questions of immigration and exclusion, the thousand “neediest
 			cases,” reports on the increase of heritable disease and the
-			congenitally feeble minded, plagues and pestilence bred and
+			congenitally feeble minded, plagues and pestilences bred and
 			propagated in this overcrowded world, the effort of the <org>Roman
 				Catholic Church</org> to stop, upon the basis of its traditional
 			dogma, the rising and inevitable practice of Birth Control, the
@@ -87,14 +90,14 @@
 			in so doing, there is no need of wallowing in pathos and
 			sentimentality. Let us remember that generosity does not preclude
 			intelligence. We must not merely give, we must also guide.</p>
-		<p> To be creative, to be constructive, international charity faces the
+		<p>To be creative, to be constructive, international charity faces the
 			important duty, not primarily of relieving the sufferings of the
 			afflicted, the starving and the diseased, but of preventing
 			permanently the recurrence of conditions which have brought about
 			social or economic disaster. Charity or philanthropy which does not
 			seek to uproot the radical causes of social disaster, misery and
-			starvation is negative and not worth of support. </p>
-		<p>WHETHER WE LIKE it or not, the consequences of the war has thrust
+			starvation is negative and not worthy of support.</p>
+		<p>Whether we like it or not, the consequences of the war has thrust
 			internationalism upon us. Our “<q who="GOSGE">splendid
 			isolation</q>” is a myth. We have been shaken out of our slumber of
 			complacency into an acute realization of a finely enmeshed tangle of
@@ -117,19 +120,19 @@
 			disguised policies of imperialism. Nor can it be brought about by
 			the establishment of a “world court” which refuses to recognize the
 			most deeply rooted instincts and habits of the human race.</p>
-		<p> No, the new internationalism can only come as the out growth of a
+		<p>No, the new internationalism can only come as the out growth of a
 			dynamic, living, functional practice, which penetrates into the very
 			lives and habits of the human race, and which gradually but
 			progressively lessens and obliterates the cause of wars and social
-			catastrophes. If seriously we aim for world peace, we must
-			discourage over population and over crowding, with its attendant
+			catastrophies. If seriously we aim for world peace, we must
+			discourage over population and overcrowding, with its attendant
 			train of disease, epidemic and plague. By diminishing overcrowding,
 			much of the incentive for emigration will disappear, and with the
 			lessening of emigration and immigration, we shall have taken an
 			important step in stabilizing and increasing the power of organized
 			labor. </p>
-		<p>THE PRACTICE OF Birth Control is this dynamic living principle which
-			not only relieves the conditions of over crowding for the
+		<p>The practice of Birth Control is this dynamic living principle which
+			not only relieves the conditions of overcrowding for the
 			individual, but also for the race. It is the crying need in over
 			populated countries like <place>Japan</place> and
 				<place>China</place> and elsewhere, as the statistics of
