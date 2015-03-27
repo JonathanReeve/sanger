@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-04-02 JK initial tag</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-17 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,12 +29,13 @@
 	<headNote resp="MSPP"><p>Sanger gave this statement in <place
 				reg="New York, NY">New York</place>, before traveling to <place
 				reg="Chicago, IL">Chicago</place>.</p>
-		<index level1="birth control" level2="in Chicago"/>
-		<index level1="birth control" level2="access to"/>
-		<index level1="birth control movement" level2="international"/>
-		<index level1="birth control movement"/>
-		<index level1="birth control laws and legislation" level2="New York "/>
-		<index level1="birth control clinics and leagues"/></headNote>
+		<index level1="birth control" level2="propaganda and publicity"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="Illinois" level2="Chicago” level3=birth control in"/>
+		<index level1="New York" level2="birth control laws"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
+	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL ADVOCATE IS ON WAY TO CHICAGO-WILL EXPLAIN
 			DOCTRINE</head>
