@@ -7,7 +7,9 @@
 		<prepDate>2011/06/24 RT corrections</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-03-27 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1937-04-02">2 Apr 1937</docDate>
 		<docTitle>
 			<titlePart>
