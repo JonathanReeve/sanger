@@ -1,53 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published speech">
-    <mepHeader>
-        <prepDate>2014-04-15 JK initial tag</prepDate>
-        <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1938-10-18">18 Oct 1938</docDate>
-        <docTitle>
-            <titlePart><supplied resp="MSPP">Importance of Birth Control in
-                    Public Health Plans-Summary</supplied></titlePart>
-        </docTitle>
-        <idno>msp421922</idno>
-        <sourceDesc>
-            <bibl><title type="article">"Advocates of Birth Control Await Mrs.
-                    Sanger's Talk"</title>, <title type="journal">Memphis
-                    Commercial Appeal</title>. Oct. 19, 1938. </bibl>
-        </sourceDesc>
-        <respStmt>
-            <resp/>
-            <name id="MCA">Memphis Commercial Appeal</name>
-        </respStmt>
-    </mepHeader>
-    <headNote resp="MSPP"><p>Sanger spoke on "The Importance of Birth Control in
-            Public Health Plans" in <place reg="Knoxville, TN">Knoxville</place>
-            and on an unknown topic in <place reg="Nashville, TN"
-                >Nashville</place>, both on Oct. 18. </p><index
-            level1="birth control clinics and leagues"/><index
-            level1="birth control movement"/><index level1="United States"
-            level2="southern region"/><index level1="United States"
-            level2="public health programs"/></headNote>
-    <docBody>
-        <head>Advocates of Birth Control Await Mrs. Sanger’s Talk </head>
+	<mepHeader>
+		<prepDate>2014-04-15 JK initial tag</prepDate>
+		<prepDate>2015-03-30 CH proof and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1938-10-18">18 Oct 1938</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Importance of Birth Control in Public Health Plans</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp421922</idno>
+		<sourceDesc>
+			<bibl><title type="article">"Advocates of Birth Control Await Mrs. Sanger's
+					Talk"</title>, <title type="journal">Memphis Commercial Appeal</title>, Oct. 19,
+				1938</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="MCA">Memphis Commercial Appeal</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>The speech was not found and newspaper coverage was used instead.</p>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="birth control movement"/>
+		<index level1="United States" level2="southern region"/>
+		<index level1="United States" level2="public health programs"/>
+	</headNote>
+	<docBody>
+		<head>Advocates of Birth Control Await Mrs. Sanger’s Talk </head>
+		<p>
+			<q who="MCA">Mrs. Margaret Sanger, leading crusader for birth control for 25 years, is
+				expected to outline the public health programs of birth control in North Carolina
+				when she visits Memphis tomorrow.</q>
+		</p>
+		<p>
+			<q who="MCA">Mrs. Sanger will speak at 8 o'clock tomorrow night at the <org>Fairgrounds
+					Casino</org>. The lecture will be free to the public. It is sponsored by the
+					<org reg="Memphis Birth Control Committee">Birth Control Committee of
+					Memphis</org>.</q></p>
 
-        <p><q who="MCA">Mrs. Sanger spoke yesterday in Knoxville on “The
-                Importance of Birth Control in Public Health Plans.” </q></p>
-        <p>“Birth control is safe, wise, economical, and wanted by poor
-            mothers,” she declared.</p>
-        <p>
-            <q who="MCA">At Nashville last night, Mrs. Sanger declared the South
-                was the</q> “most promising section of the country for birth
-            control.” </p>
-        <p>“Now that people are getting over their squeamish attitude toward the
-            subject that has been so long misunderstood,” Mrs. Sanger said, “the
-            South offers the greatest field for development of birth
-            control.”</p>
-        <p> “The large native born population in the South-- 97 per cent
-            according to statistic reports-- and the fact that with the
-            exception of about three large centers the people are mostly
-            Protestant make the South the most promising section of the country”
-                <q who="MCA">for this movement.</q>
-        </p>
-    </docBody>
+		<p>
+			<q who="MCA">On her present trip Mrs. Sanger spoke several times in North Carolina where
+				the State Board of Health has completed the first year of its program to disseminate
+				birth control knowledge through public clinics. The lecturer's friend and associate
+					<person reg="Blodgett, Marguerite Barstow">Mrs. Stephen Whitney
+					Blodgett</person> of <place reg="Fishkill, NY">Fishkill, N.Y.</place> in Memphis
+				now to assist in arrangements for the talks here said Mrs. Sanger would describe
+				fully the North Carolina plans.</q>
+		</p>
+		<p><q who="MCA">Mrs. Sanger spoke yesterday in <place reg="Knoxville, TN">Knoxville</place>
+				on “The Importance of Birth Control in Public Health Plans.” </q>
+		</p>
+		<p>“Birth control is safe, wise, economical, and wanted by poor mothers,”<q who="MCA"> she
+				declared. Catholic leaders of Memphis have attacked her theories and are forming
+				opposition to proposals of state legislation to liberalize Birth Control Laws. They
+				have branded birth control as an "immoral, physically injurious practice. . .
+				contrary to the <title type="book">Bible</title></q>.</p>
+		<p>
+			<q who="MCA">At Nashville last night, Mrs. Sanger declared the South was the</q> “most
+			promising section of the country for birth control.” </p>
+		<p>“Now that people are getting over their squeamish attitude toward the subject that has
+			been so long misunderstood,”<q who="MCA"> Mrs. Sanger said,</q> “the South offers the
+			greatest field for development of birth control.”</p>
+		<p> “The large native born population in the South--97 per cent according to statistic
+			reports-- and the fact that with the exception of about three large centers the people
+			are mostly Protestant make the South the most promising section of the country” <q
+				who="MCA">for this movement.</q>
+		</p>
+		<p>
+			<q who="MCA">As in her visits to <place reg="Chattanooga, TN">Chattanooga</place>,
+				Knoxville, and <place reg="Nashville, TN">Nashville</place>, Mrs. Sanger will meet
+				privately with physicians here to discuss birth control methods, Mrs. Blodgett said.
+				She will speak at 8:30 o'clock Friday night to a negro audience at the
+					<org>Metropolitan Baptist Church</org>, 761 Walker.</q></p>
+	</docBody>
 </doc>
