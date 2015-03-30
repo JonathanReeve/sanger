@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2011/06/10 RT initial tag</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<prepDate>2015-03-27 CH recheck tags</prepDate>
+		<prepDate>2015-03-27 CH recheck tags</prepDate><prepDate>2015-03-30 CH didn't load new title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -98,27 +98,26 @@
 		<p>Here in the United States we too are rejoicing in a recent wise and far reaching court
 			decision. The organization of which I am the president, the <org>National Committee on
 				Federal Legislation for the Birth Control</org> has been seeking an amendment to the
-			so-called <name type="law" reg="United States Criminal Code, Section 211">Comstock
-				law</name>. This Federal statute, passed over sixty years ago, classed prevention of
-			conception with obscenity and made it a crime to send birth control information or
-			supplies by mail or by express. It also forbade importation. I saw many years ago that
-			this law was the chief stumbling block to progress; doctors were hampered in giving
-			information, that hospitals were prevented from giving this service. So we began to
-			organize public opinion in support of a birth control bill to exempt physicians from the
-			restrictions of this law. Each year we gained more ground, both inside the halls of <org
-				reg="United States Congress">Congress</org> and in the public at large.</p>
+			so-called <name>Comstock law</name>. This Federal statute, passed over sixty years ago,
+			classed prevention of conception with obscenity and made it a crime to send birth
+			control information or supplies by mail or by express. It also forbade importation. I
+			saw many years ago that this law was the chief stumbling block to progress; doctors were
+			hampered in giving information, that hospitals were prevented from giving this service.
+			So we began to organize public opinion in support of a birth control bill to exempt
+			physicians from the restrictions of this law. Each year we gained more ground, both
+			inside the halls of <org reg="United States Congress">Congress</org> and in the public
+			at large.</p>
 		<p>This year, on November 30, 1936, to be specific, a decision of the <org>United States
 				Circuit Court of Appeals</org> for the second Circuit interpreted and clarified the
 			law and gave to the medical profession what we were trying to secure through
 			legislation. It gave physicians a bill of rights in the field of contraception. The case
-			involved the seizure by the <org reg="United States Customs Bureau">Customs</org> of
-			birth control materials sent to a physician here in <place reg="United States"
-				>America</place> by a physician in <place>Japan</place>. I will read just one
-			sentence from the decision. “<q who="USCCA">We are satisfied,</q>” said the judges, “<q
-				who="USCCA">that this statute was not to prevent the importation, sale or carriage
-				by mail of things which might intelligently be employed by conscientious and
-				competent physicians for the purpose of saving life or promoting the well being of
-				their patients.</q>”</p>
+			involved the seizure by the <org reg="United States Customs">Customs</org> of birth
+			control materials sent to a physician here in <place reg="United States">America</place>
+			by a physician in <place>Japan</place>. I will read just one sentence from the decision.
+				“<q who="USCCA">We are satisfied,</q>” said the judges, “<q who="USCCA">that this
+				statute was not to prevent the importation, sale or carriage by mail of things which
+				might intelligently be employed by conscientious and competent physicians for the
+				purpose of saving life or promoting the well being of their patients.</q>”</p>
 		<p>The United States government decided not to carry the case to the <org
 				reg="United States Supreme Court">Supreme Court</org>. This means that the decision
 			from which I have quoted becomes, in effect, the law of the land.</p>
@@ -134,11 +133,13 @@
 			so that he can equate his income and his expenses and give his children the best
 			possible chance in life.</p>
 		<p>In Bethlehem, I am happy to learn, they have made a fine start in this direction. The
-				<org reg="Bethlehem Maternal Health Center">Maternal Health Center</org> at 26 East
-			3d. Street <add>Bethlehem</add> is doing splendid work. I am told that the society has
-			the active support of the representative people of the community and stands ready to
-			give mothers who need it the best possible reliable, medical advice. I hope that all of
-			you who have heard this talk will take an active part in this work, so necessary for the
-			health and welfare of your community.</p>
+				<org>Maternal Health Center</org> at 26 East 3d. Street <add>Bethlehem</add> is
+			doing splendid work. I am told that the society has the active support of the
+			representative people of the community and stands ready to give mothers who need it the
+			best possible reliable, medical advice. I hope that all of you who have heard this talk
+			will take an active part in this work, so necessary for the health and welfare of your
+			community.</p>
+
+
 	</docBody>
 </doc>

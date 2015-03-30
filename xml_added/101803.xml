@@ -4,12 +4,17 @@
 	<mepHeader>
 		<prepDate>2011/06/10 RT initial tag</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<prepDate>2015-03-27 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1937-04-09"><supplied resp="MSPP">9 Apr 1937</supplied></docDate>
+		<prepDate>2015-03-27 CH recheck tags</prepDate><prepDate>2015-03-30 CH didn't load new title</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1937-04-09">
+			<supplied resp="MSPP">9 Apr 1937</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Family Welfare Through Birth
-				Control</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Family Welfare Through Birth Control</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp101803</idno>
 		<sourceDesc>
