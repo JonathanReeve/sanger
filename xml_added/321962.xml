@@ -3,13 +3,17 @@
 <doc type="Published interview">
 	<mepHeader>
 		<prepDate>2015-03-02 JC encoding</prepDate>
+		<prepDate>2015-03-13 CH proof tags</prepDate>
 		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-03-27 JC corrections made</prepDate><prepDate>2015-03-30 CH proof and enter tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docAuthor><person reg="Miller, Hope Ridings">Hope Ridings Miller</person></docAuthor>
+		<docAuthor>
+			<person reg="Miller, Hope Ridings">Hope Ridings Miller</person>
+		</docAuthor>
 		<docDate value="1935-02-08">
-			<supplied resp="MSPP">08 Feb 1935</supplied>
+			<supplied resp="MSPP">8 Feb 1935</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>
@@ -28,6 +32,7 @@
 			<name id="MILHO">Miller, Hope Ridings</name>
 			<name id="WELHG">Wells, H. G.</name>
 			<name id="UNK">Unknown</name>
+			<name id="AWA">American Woman's Association</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -44,10 +49,10 @@
 		<div type="section">
 			<p>
 				<q who="MILHO">Who is this woman who won the first award for achievement given by
-					the <org>American Woman’s Association</org> as one who has “fought against
-					almost every influence which in the past was considered necessary for the
-					success of a cause?” Who is this woman of whom <person reg="Wells, H. G.">H. G.
-						Wells</person> said,</q>
+					the <org>American Woman’s Association</org> as one who has <q who="AWA">“fought
+						against almost every influence which in the past was considered necessary
+						for the success of a cause?”</q> Who is this woman of whom <person
+						reg="Wells, H. G.">H. G. Wells</person> said,</q>
 				<q who="WELHG">“She has created a unique position for herself in that she has
 					changed the thinking not only of her nation but of the world?”</q>
 			</p>
@@ -56,9 +61,9 @@
 					the words “birth control” which she has made significant. Publicized by her
 					enemies as “that Sanger woman” and that “birth control fanatic”–-called by her
 					friend</q>
-				<q who="UNK">“one of the greatest living women,”</q>
-				<q who="MILHO">and recognized by those who neither censure nor indorse her as a
-					pioneer and an outstanding personality –- Margaret Sanger has battled for her
+				<q who="WELHG">“one of the greatest living women,”</q>
+				<q who="MILHO">and recognized by those who neither censure nor endorse her as a
+					pioneer and an outstanding personality–-Margaret Sanger has battled for her
 					cause with dogged persistence for more than two decades.</q>
 			</p>
 			<p>
@@ -73,14 +78,12 @@
 		</div>
 
 		<div type="section">
-			<head type="sub">
-				<q who="MILHO">Results Worth the Fight.</q>
-			</head>
+			<head type="sub"> Results Worth the Fight. </head>
 			<p>“But what stormy, yet thrilling, years those have been,” <q who="MILHO">Mrs. Sanger
-					said yesterday in her apartment at the <org>Fairfax</org>.</q> “Looking back now
-				and considering the great change in public opinion toward birth control, the result
-				has been more than worth the fight.</p>
-			<p>Every inch of the way has been gained in desperate battle, with theological
+					said yesterday in her apartment at the <org reg="Fairfax Hotel"
+					>Fairfax</org>.</q> “Looking back now and considering the great change in public
+				opinion toward birth control, the result has been more than worth the fight."</p>
+			<p>"Every inch of the way has been gained in desperate battle, with theological
 				prejudices to be overcome, ethical questions to be considered, scientific points to
 				be settled. No wonder I am used to fighting by now.”</p>
 			<p>
@@ -96,7 +99,7 @@
 			</p>
 			<p>
 				<q who="MILHO">One senses beneath that composed exterior, however, a steel that has
-					sustained this courageous woman in the face of ridicule –- a steel that has
+					sustained this courageous woman in the face of ridicule–-a steel that has
 					strengthened her through arraignments and even a prison sentence and prompted
 					her to continue her fight for a cause that seemed hopeless two decades ago.</q>
 			</p>
@@ -112,27 +115,29 @@
 			</p>
 			<p>“And from then until now it has been a struggle,” <q who="MILHO">she said.</q> “I had
 				three children of my own to look after and very little money, but what has been
-				accomplished convinces me there was reason enough for such a fight.</p>
-			<p>At times, of course, the battle has been almost unbearably difficult.” <q who="MILHO"
-					>(Was she thinking of the eight times she had been arrested? Her sentence to a
-					penitentiary? The numerous times when halls engaged for her lectures were closed
-					against her at the last minute? Her encounter with the postal authorities
-					relative to her publications, <title type="journal">“The Rebel Woman”</title>
-					and <title type="journal">“The Birth Control Review”</title>?)</q></p>
+				accomplished convinces me there was reason enough for such a fight."</p>
+			<p>"At times, of course, the battle has been almost unbearably difficult.” <q
+					who="MILHO">(Was she thinking of the eight times she had been arrested? Her
+					sentence to a penitentiary? The numerous times when halls engaged for her
+					lectures were closed against her at the last minute? Her encounter with the
+					postal authorities relative to her publications, <title type="journal">“The
+						Rebel Woman”</title> and <title type="journal">“The Birth Control
+						Review”</title>?)</q></p>
 		</div>
 
 		<div type="section">
-			<head type="sub">
-				<q who="MILHO">Opened Clinic in <place reg="Brooklyn, NY">Brooklyn</place>.</q>
-			</head>
-			<p>“Eighteen years ago I opened a clinic in the crowded Brownsville section of Brooklyn,
-				where mothers could obtain information on birth control for a registration fee of 10
-				cents,” <q who="MILHO">she reminisced.</q> “Within a few days more than 500 women
-				applied for and received this information.”</p>
+			<head type="sub"> Opened Clinic in <place reg="Brooklyn, NY">Brooklyn</place>. </head>
+			<p>“Eighteen years ago I opened a <org reg="Brownsville Clinic">clinic</org> in the
+				crowded Brownsville section of Brooklyn, where mothers could obtain information on
+				birth control for a registration fee of 10 cents,” <q who="MILHO">she
+					reminisced.</q> “Within a few days more than 500 women applied for and received
+				this information.”</p>
 			<p>
-				<q who="MILHO">Among them, however, was a police woman who having been given advice
-					by the nurses in charge of the clinic, returned later with five policemen who
-					promptly arrested Mrs. Sanger and her two helpers and took them to court.</q>
+				<q who="MILHO">Among them, however, was a police <person reg="Whitehurst, Margaret"
+						>woman</person> who having been given advice by the nurses in charge of the
+					clinic, returned later with five policemen who promptly arrested Mrs. Sanger and
+					her <person reg="Mindell, Fania"><person reg="Byrne, Ethel Higgins">two
+							helpers</person></person> and took them to court.</q>
 			</p>
 			<p>“But harrowing as that experience was, it was that incident that brought my fight to
 				the fore and attracted attention to the cause.”</p>
@@ -154,9 +159,7 @@
 		</div>
 
 		<div type="section">
-			<head type="sub">
-				<q who="MILHO">Bill Tabled by House.</q>
-			</head>
+			<head type="sub"> Bill Tabled by House. </head>
 			<p>“This antiquated law,” <q who="MILHO">Mrs. Sanger explained</q> “prohibits even
 				physicians from sending or receiving through the mails such information or necessary
 				medical supplies. It is illegal to transmit the address of a clinic where

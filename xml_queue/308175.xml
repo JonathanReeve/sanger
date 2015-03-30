@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2015-03-27 JC encoded</prepDate>
+		<prepDate>2015-03-30 CH proof and enter tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1937-01-00">Jan 1937</docDate>
+		<docTitle>
+			<titlePart>The Future of Contraception</titlePart>
+		</docTitle>
+		<idno>msp308175</idno>
+		<sourceDesc>
+			<bibl><title type="journal">The Journal of Contraception,</title>, Jan. 1937, pp.
+				3-4</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers Collected Document Series</title>
+				C16:406</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger based this article on her address to the <org>Conference on Contraceptive Research
+				and Clinical Practice</org>, on Dec. 29, 1936. For these comments, see "<xref
+				from="101798.xml">Welcoming Address to the Conference on Contraceptive Research
+				&amp; Clinical Practice</xref>," Dec 29, 1936, and "<xref from="421101.xml"
+				>Statement at the Conference on Contraceptive Research and Clinical
+			Practice</xref>," Dec 29, 1936.</p>
+		<index level1="Birth Control Clinical Research Bureau"/>
+		<index level1="birth control clinics and leagues"/>" </headNote>
+	<docBody>
+		<head>The Future of Contraception</head>
+		<byline>by Margaret Sanger</byline>
+		<dateline><date value="1937-01-00">January, 1937</date></dateline>
+		<p>On behalf of the <org>Birth Control Clinical Research Bureau</org>, I have the honor and
+			the pleasure to welcome you to this conference. It is not fitting that I should take the
+			time of this session to tell you all that has been accomplished by the Clinical Research
+			Bureau during its thirteen years of functioning. We are, however, proud of its
+			achievements. We are proud that it has been a demonstration center and a teaching and
+			educational center for medical students and practitioners, especially for those who have
+			been unable to obtain instruction in the theory and technique of contraception in their
+			medical colleges. We are happy to have given this instruction and this service to
+			doctors, nurses and midwives not only from all parts of this country but from countries
+			in <place>Europe</place>, <place>Asia</place>, <place>Africa</place>, in fact to
+			physicians from nearly every part of the globe.</p>
+		<p>But the outstanding achievement of this Bureau has been to inform, teach, instruct and
+			give contraceptive information to over 56,000 women who have appealed to us for this
+			advice. The records of these women may truly be looked upon as a veritable human
+			laboratory for research and correlations. These records have given factual evidence
+			which should remove the whole question of birth control from the hot-bed of controversy
+			to the quiet calm of scientific consideration.</p>
+
+		<p>We have been fortunate in enlisting the cooperation of competent physicians. We have
+			amassed a wealth of incontrovertible evidence supporting the feasibility and the
+			desirability of contraceptive practice. But we are not content to rest upon the laurels
+			of these claims. We refuse to look back with satisfaction. Rather do we look forward
+			with impatient, urgent demands. It is indeed a curious fact that for all the hundreds of
+			thousands of women who have been advised and instructed in the more than 300 birth
+			control centers now operating in the <place>United States</place> we have had to depend
+			mainly upon a method discovered and perfected by <person reg="Mensinga, Wilelm">Dr.
+				Mensinga</person> of <place>Germany</place> over 60 years ago. This method requires
+			an individual examination, and this is precisely the reason why only a relatively small
+			number of the women most in need of contraceptive advice are able to benefit by our
+			efforts.</p>
+		<p>The birth control movement can definitely be said to have arrived at a stage in its
+			development where it can help a large part of the population who are accessible to
+			doctors, hospitals and health services where properly qualified doctors are available,
+			but we must go further and supply the demand of the submerged sections, those who are
+			clamoring for a cheap and effective means to control the size of the family; the women
+			on homesteads, on farms, in the mining districts, and the millions of women in outlying
+			rural districts where medical help is not available. They cannot come to us and we must
+			go to them. </p>
+		<p>But before we can reach them and supply their urgent demands, before we can guarantee to
+			them at least the same results as are attained by the city and urban women with the
+			methods that have proved to be fairly reliable, we must find methods that are cheaper,
+			easier to apply, and as harmless as these, and we must ask the scientist to come to our
+			aid. We want his cooperation, his vision, his impersonal courage and wisdom.</p>
+
+		<p>We are fortunate at last to be able to announce that a recent decision handed down by the
+				<org>United States Circuit Court of Appeals</org> has declared that the <name
+				type="law" reg="United States Criminal Code, Section 211">Federal statutes</name>
+			were not designed to obstruct the circulation of articles which may be intelligently
+			employed by conscientious physicians for the purpose of saving life and promoting well
+			being. This means the field is cleared for the discovery of inexpensive, reliable
+			methods for the control of human fertility. Contraceptive research in both the
+			laboratory and the clinic is now free to pursue its course emancipated from the stigma
+			of prejudice.</p>
+		<p>In our effort to clear away this legal rubbish, we have uncovered many obstacles, but we
+			cannot go much further alone. We cannot go either upward or onward without the help of
+			the scientific mind. We should place the scientist not only at the helm but on the
+			bridge, as captain to guide humanity into its unknown future; and it is because of this
+			consciousness of humanity that we urge your cooperation and welcome your presence here. </p>
+		<p/>
+	</docBody>
+</doc>

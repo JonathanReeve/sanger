@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published article">
+<doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014-04-09 VS initial tagging</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-03-30 CH proof and enter tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1937-09-22">22 Sept 1937</docDate>
 		<docTitle>
-			<titlePart>Public Letter on the East</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Japanese Invasion of China</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421915</idno>
 		<sourceDesc>
 			<bibl>
-				<title type="journal"
-					>Los Angeles Daily News</title>
-			</bibl>
+				<title type="journal">Los Angeles Daily News</title>, Sept. 22, 1937</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -21,10 +24,11 @@
 			<name id="NYT">New York Times</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger released a press statement in Honolulu after her trip to China was
-		canceled by the Japanese invasion. Text taken from coverage in the <title type="journal">Los
-			Angeles Daily News</title> and the <title type="journal">New York Times</title>. <index
-			level1="birth control" level2="access to" level3="international"/>
+	<headNote resp="MSPP">
+		<p>Sanger released a press statement in <place reg="Honolulu, HI">Honolulu</place> after her
+			trip to <place>China</place> was canceled by the Japanese invasion. The complete
+			statement was not found and newspaper coverage has been substituted.</p>
+		<index level1="birth control" level2="access to" level3="international"/>
 		<index level1="birth control" level2="lack of knowledge of"
 			level3="negative consequences of"/>
 		<index level1="birth control" level2="socio-economic benefits of"/>
@@ -39,20 +43,29 @@
 	<docBody>
 		<head>Exponent of Birth Control Despairs of Orientals</head>
 		<div>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
+			<p><q who="LADN">Japanese bombs are blowing up Chinese who "should never have been
+					born," and yesterday Margaret Sanger, world-famous birth control leader, sadly,
+					turned her back on her Oriental birth control campaign and headed for Los
+					Angeles. Miss Sanger left here July 24 to carry a birth control crusade to the
+					Orient, long considered a "</q>danger spot<q who="LADN">" of the world by birth
+					control advocates because of the Orient's failure to adopt birth control.</q>
 			</p>
+			<p><q who="LADN">On <place reg="Shanghai, China">Shanghai</place>, where Miss Sanger
+					hoped to drop scientific words, Japanese have relentlessly been dropping
+					bombs.</q></p>
+			<p><q who="LADN">Yesterday, Miss Sanger was in Honolulu, waiting to sail for <place
+						reg="Los Angeles, CA">Los Angeles</place> on the <name type="ship">S. S.
+						Lurline</name>, which arrives at Los Angeles Harbor September 30. </q></p>
 		</div>
-		<div>
+		<div type="section">
 			<p>
-				<q who="LADN">From <place reg="Honolulu, HI">Honolulu</place> Miss <person
-						reg="Sanger, Margaret">Sanger</person> sent these comments:</q> “Population
+				<q who="LADN">From Honolulu Miss Sanger sent these comments:</q> “Population
 				pressure is a cause of war, and <place>Japan</place>, <place>Italy</place> and
 					<place>Germany</place>, through failure to control their birthrates, are
 				justifying predictions that they would become the world’s ‘danger spots’.” </p>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
-			</p>
+			<p><q who="LADN"> Hostilities halted Miss Sanger's campaign to help curb overpopulation
+					among the Chinese and Korean masses, but she nevertheless carried out extensive
+					propaganda in Japan. </q></p>
 			<p> “Japan had 64,000,000 persons when I was there in 1922, and since then the
 				population has increased steadily from 800,000 to 1,000,000 a year,” <q who="LADN"
 					>she said</q>. “But despite the annexation of <place>Manchukuo</place>, Japan is
@@ -69,23 +82,28 @@
 				women who have been allowed to attend medical universities, only 16 have been
 				granted medical degrees, through ‘special dispensation.’”</p>
 			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
-			</p>
+				<q who="LADN">Miss Sanger praised the action of the Chinese Medical Association, in
+					urging recognition of contraception as a part of public health, as an
+				</q>"outstanding event." </p>
 			<p> “In Japan,” <q who="LADN">she said</q>, “a campaign of public health is just raising
 				its head, and a new health institute which will provide an opportunity for mothers
 				in outlying districts to receive medical aid, but not birth control aid, will open
 				next year. But one can never foresee what may happen in a militaristic country, and
 				so the future is still dark and overclouded.” </p>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
-			</p>
+			<p> Mrs. Sanger sailed on the S. S. Hoover with a broken wrist, suffered when she fell
+				on a stairway. Passengers, she said, were disappointed to find that it was not a war
+				casualty. </p>
 		</div>
 		<div>
 			<head> Mrs. Sanger Assails ‘Population’ Nations</head>
 			<byline> She Cites Japan as a Present Aggressor That Has Refused to Limit Its Births </byline>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
-			</p>
+			<p><q who="NYT">Population pressure due to lack of birth control has made Japan, Italy,
+					and Germany menaces to world peace, Mrs. Margaret Sanger, birth control leader,
+					said in a letter made publish yesterday by the Birth Control Clinical Research
+					Bureau, 17 West Sixteenth Street</q>.</p>
+			<p><q who="NYT">Mrs. Sanger, returning from a tour of the Far East interrupted by
+					Sino-Japanese hostilities, is expected to sail from Honolulu for Los Angeles on
+					Saturday.</q></p>
 			<p> “As far back as 1925,” <q who="NYT">she wrote</q>, “Professor <person
 					reg="Thompson, Warren">Warren Thompson</person>, in his brilliant analysis of
 				the population problem, named Italy, Japan and Germany as ‘danger spots’ of the
@@ -98,10 +116,8 @@
 				misery and enslavement of large masses of their population.”</p>
 			<p>
 				<q who="NYT">Mrs. Sanger said Japan</q> “is keenly disappointed over the natural
-				resources of Manchukuo and is still land-hungry.”</p>
-			<p>
-				<supplied resp="MSPP">Part of this section has been omitted</supplied>
-			</p>
+				resources of Manchukuo and is still land-hungry.”</p><p><q who="NYT">The most encouraging featuer of her trip, she said, was the gathering to celebrate the opening of the first modern birth control clinic in Japan, under <person reg="Kato, Shidzue Ishimoto">Baroness Ishimoto</person>.</q></p>
+
 		</div>
 	</docBody>
 </doc>
