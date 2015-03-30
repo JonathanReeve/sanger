@@ -7,13 +7,14 @@
 		<prepDate>2011/11/16 CH correcting index entry format</prepDate>
 		<prepDate>2011-11-21 CH correct typo</prepDate>
 		<prepDate>2014/03/12 EK clean regs</prepDate>
-		<prepDate>2015-03-26 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
-		<docDate value="1938-00-00">1938</docDate>
+		<prepDate>2015-03-26 CH proof tags and enter</prepDate><prepDate>2015-03-30 CH corrected year to 1937</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1937-00-00">1937</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Birth Control, 1938</supplied>
+				<supplied resp="MSPP">Birth Control, 1937</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236628</idno>
