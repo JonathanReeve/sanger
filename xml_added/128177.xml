@@ -8,6 +8,7 @@
 		<prepDate>2007-05-30 CH Oxygen update</prepDate>
 		<prepDate>2014-03-07 CH cleaning regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-03-31 update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1913-12-00"><supplied resp="MSPP">Dec</supplied> 1913</docDate>
 		<docTitle>
@@ -24,9 +25,12 @@
 	</mepHeader>
 	<headNote>
 		<p>Exact month of article not known.</p>
-		<index level1="capitalism" level2="MS on"/>
+		<index level1="capitalism"/>
+		<index level1="women and girls" level2="employment of"/>
+		<index level1="working classes" level2="MS on"/>
 		<index level1="working classes" level2="women and girls"/>
-		<index level1="Scotland" level2="descriptions of"/>
+		<index level1="Scotland"/>
+		<index level1="socialism and socialists"/>
 	</headNote>
 	<docBody>
 		<p>Dear Editor; </p>
