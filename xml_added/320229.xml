@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2003-12-17</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1926-02-00">Feb 1926</docDate>
 		<docTitle>
 			<titlePart>Passports for Babies</titlePart>
@@ -24,8 +26,9 @@
 			<name id="BIB">Bible</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>For typed draft version see Library of Congress Microfilm
-			130:461.</p><index level1="eugenics" level2="MS on"/>
+	<headNote resp="MSPP">
+		<p>For typed draft version see Library of Congress Microfilm 130:461.</p>
+		<index level1="eugenics" level2="MS on"/>
 		<index level1="eugenics" level2="negative"/>
 		<index level1="eugenics" level2="positive"/>
 		<index level1="&quot;unfit&quot; to reproduce" level2="descriptions of"/>
@@ -270,22 +273,22 @@
 		<p>"<q who="PUSWI">This is peculiarly woman's problem. Of course it is man's problem also,
 				but men are not concerned in it in the way that women are. It is women who bear the
 				penalties in injury, disease, death, and mental torture that are involved in it.
-				They have a right to know how they can intelligently--not crudely and
-				dangerously-- Control their sexual lives, and they are justified by the highest
-				considerations in fighting vociferously and persistently until they have this right
-				granted to them</q>."</p>
+				They have a right to know how they can intelligently--not crudely and dangerously--
+				Control their sexual lives, and they are justified by the highest considerations in
+				fighting vociferously and persistently until they have this right granted to
+				them</q>."</p>
 		<p>In recent years there has likewise been a great awakening among liberal churchmen and
 			religious teachers as to the ethical and moral justification of the theory and practice
 			of Birth Control. Leading churchmen of all Protestant sects are not practically
 			unanimous in urging this scientific and hygienic education as necessary to the
 			foundations of contented marital life, to strong, happy family bonds and the welfare of
 			posterity.</p>
-		<p>The <person reg="Barnes, E. W.">Bishop of <place reg="Birmingham, England"
+		<p>The <person reg="Barnes, Ernest W.">Bishop of <place reg="Birmingham, England"
 					>Birmingham</place></person> has preached vigorous sermons urging the adoption
-			of Birth Control as a national policy. <org reg="Society of Friends (Quakers)">The Society of Friends</org> (the Quakers)
-			have issued a report approving of the small-family system. The only religious
-			organization bitterly and violently inimical to Birth Control is the <org>Roman Catholic
-			Church</org>.</p>
+			of Birth Control as a national policy. <org reg="Society of Friends (Quakers)">The
+				Society of Friends</org> (the Quakers) have issued a report approving of the
+			small-family system. The only religious organization bitterly and violently inimical to
+			Birth Control is the <org>Roman Catholic Church</org>.</p>
 		<p>But this does not mean that Birth Control is contrary to the teaching of Christ. This
 			point has been effectively presented by Dean <person reg="Inge, William Ralph"
 				>Inge</person> of <org>St. Paul's Cathedral</org>, London, whose recent visit to

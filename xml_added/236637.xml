@@ -7,7 +7,9 @@
 		<prepDate>2011/06/06 EK checked index</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-13 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-00-00">1931</docDate>
 		<docTitle>
 			<titlePart>Birth Control Advances: A Reply to the Pope</titlePart>
@@ -20,7 +22,7 @@
 		</sourceDesc>
 		<respStmt>
 			<name id="PIU">Pius XI, Pope</name>
-			<name id="INGWR">Inge, WWilliam Ralph</name>
+			<name id="INGWR">Inge, William Ralph</name>
 			<name id="AUGST">St. Augustine</name>
 			<name id="BIB">Bible</name>
 			<name id="JES">Jesus Christ</name>
@@ -247,17 +249,17 @@
 			<p>Now comes the question of how many children there should be in a family. There is a
 				Biblical story of how <name type="deity">God</name> told the creatures of the sea to
 					“<q who="BIB">increase and multiply and fill the waters</q>,” and how He told
-					<person>Adam</person> and <person>Eve</person> to “<q who="BIB">increase and
-					multiply and fill the earth</q>.” The population movement which then started got
-				a terrific setback in God’s Great Flood, but we are told that He gave exactly the
-				same command to <person reg="Noah (Biblical)">Noah</person> and his family group--
-					“<q who="BIB">Increase and multiply and fill the earth.”</q> The Pope quotes the
-				Adam and Eve part of this story together with the endorsement of the good St.
-				Augustine, who died a thousand years before America was discovered. It strikes me
-				that St. Augustine, however, is not a true believer in the doctrine, for I
-				understand that he had only one son (illegitimate) and that he said, “<q who="AUGST"
-					>No fruitfulness of the flesh can be compared to holy virginity.</q>” The Pope
-				declares further:</p>
+					<person reg="Adam (Biblical)">Adam</person> and <person>Eve</person> to “<q
+					who="BIB">increase and multiply and fill the earth</q>.” The population movement
+				which then started got a terrific setback in God’s Great Flood, but we are told that
+				He gave exactly the same command to <person reg="Noah (Biblical)">Noah</person> and
+				his family group-- “<q who="BIB">Increase and multiply and fill the earth.”</q> The
+				Pope quotes the Adam and Eve part of this story together with the endorsement of the
+				good St. Augustine, who died a thousand years before America was discovered. It
+				strikes me that St. Augustine, however, is not a true believer in the doctrine, for
+				I understand that he had only one son (illegitimate) and that he said, “<q
+					who="AUGST">No fruitfulness of the flesh can be compared to holy virginity.</q>”
+				The Pope declares further:</p>
 			<p>“<q who="PIU">But Christian parents must also understand that they are destined not
 					only to propagate and preserve the human race on earth, indeed not only to
 					educate any kind of worshipers of the true God, but children who are to become
@@ -356,10 +358,9 @@
 						reg="Judah (Biblical)">Juda</person>, did this, and the Lord killed him for
 					it.</q>” It is unfortunate for the Pope that he did not cite a better example,
 				if he had one. Read the story in <title type="article">Genesis XXXVIII</title>, and
-				you will see that <name type="deity">God</name> killed Onan because he refused to
-				have a child by the widow of his brother, whom God had also killed. If Onan had
-				tried continence instead of contraception he would have been slain just as
-				promptly.</p>
+				you will see that God killed Onan because he refused to have a child by the widow of
+				his brother, whom God had also killed. If Onan had tried continence instead of
+				contraception he would have been slain just as promptly.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Man and Nature</head>
