@@ -9,7 +9,7 @@
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1938-07-06">
-			<supplied source="MSPP">06 Jun 1938</supplied>
+			<supplied source="MSPP">06 Jul 1938</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>Birth Control</titlePart>
@@ -27,7 +27,8 @@
 
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No published version was found. </p>
+	<headNote resp="MSPP">
+		<p>No published version was found. </p>
 		<index level1="Asia" level2="birth control in"/>
 		<index level1="birth control"/>
 		<index level1="birth control" level2="clinics and leagues"/>
@@ -45,8 +46,12 @@
 		<index level1="New York City" level2="birth control in"/>
 	</headNote>
 	<docBody>
-		<head><add>Birth Control</add></head>
-		<byline><add>By Margaret Sanger</add></byline>
+		<head>
+			<add>Birth Control</add>
+		</head>
+		<byline>
+			<add>By Margaret Sanger</add>
+		</byline>
 		<div type="section">
 			<head type="sub">
 				<emph rend="underline">THE SITUATION AND NEED in 1914.</emph>
@@ -321,22 +326,21 @@
 				the only way that all those who need such information will be enabled to obtain it.
 				When this is done, then truly we can say “Our battle is won.” Meanwhile the
 				educational work done in America continues to accomplish much and its influence is
-					felt abroad as well. The words
-				“birth control” have encircled the globe. Its ideas and practice have been eagerly
-				accepted by the masses in nearly every country of the world. In some of the more
-				progressive countries, as in England, birth control service has already been
-				incorporated in the <del>public health centers</del> Infant and
-				Maternity Welfare Centers sponsored by the <org>British Ministry of Health</org>.
-					<org>The Chinese <del>and Indian</del> Medical
-					Association</org> has recommended similar action: the <org>Indian Medical
-					Association </org>has likewise taken a progressive stand. Birth Control is not a
-				matter of theory among the tragic millions in the Orient. It is welcomed as a
-				practical solution to a desperate human need. We have taken to the Orient a simple
-				inexpensive easily used method that has already helped to solve some of the problems
-				of brining aid to the poorest. <add>New horizons stretch before us as a wider
-					understanding of population problems awaken those who look for international
-					peace to consider the population factors underlying national policies that lead
-					to wars &amp; national agression. (continue with 8)</add>
+				felt abroad as well. The words “birth control” have encircled the globe. Its ideas
+				and practice have been eagerly accepted by the masses in nearly every country of the
+				world. In some of the more progressive countries, as in England, birth control
+				service has already been incorporated in the <del>public health centers</del> Infant
+				and Maternity Welfare Centers sponsored by the <org>British Ministry of
+				Health</org>. <org>The Chinese <del>and Indian</del> Medical Association</org> has
+				recommended similar action: the <org>Indian Medical Association </org>has likewise
+				taken a progressive stand. Birth Control is not a matter of theory among the tragic
+				millions in the Orient. It is welcomed as a practical solution to a desperate human
+				need. We have taken to the Orient a simple inexpensive easily used method that has
+				already helped to solve some of the problems of brining aid to the poorest. <add>New
+					horizons stretch before us as a wider understanding of population problems
+					awaken those who look for international peace to consider the population factors
+					underlying national policies that lead to wars &amp; national agression.
+					(continue with 8)</add>
 			</p>
 		</div>
 		<div type="section">

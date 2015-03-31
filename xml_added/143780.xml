@@ -6,11 +6,14 @@
 		<prepDate>2010/04/29 CH proof and correct</prepDate>
 		<prepDate>2014-03-11 CH correct errors</prepDate>
 		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1938-11-12">12 Nov 1938</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement After Tour of Southern
-				States</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement After Tour of Southern States</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp143780</idno>
 		<sourceDesc>
@@ -22,14 +25,15 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<index level1="mortality rates" level2="infant"/>
-	<index level1="mortality rates" level2="maternal"/>
-	<index level1="population growth" level2="regulation of"/>
-	<index level1="poverty"/>
-	<index level1="Southern States"/>
+
 	<headNote resp="MSPP">
 		<p>This press release was issued by the <org>Birth Control Clinical Research Bureau</org>. A
 			handwritten addition was made by one of Sanger's secretarial staff.</p>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="mortality rates" level2="maternal"/>
+		<index level1="population growth" level2="regulation of"/>
+		<index level1="poverty"/>
+		<index level1="Southern States"/>
 	</headNote>
 	<docBody>
 		<head>Statement from Mrs. Margaret Sanger, Director, Birth Control Clinical Research
@@ -54,9 +58,9 @@
 				tuberculosis cases, 70% of the infant and maternal mortality among the white
 				population, and 90% among the colored. This is the area of poor housing, inadequate
 				income, dependency and disease. Yet this area is only one of thousands throughout
-				the nation. Any slum section of New York or <place
-					reg="Chicago, IL">Chicago</place> would reveal the same conditions, in
-				practically the same proportion, creating similar problems.</p>
+				the nation. Any slum section of New York or <place reg="Chicago, IL">Chicago</place>
+				would reveal the same conditions, in practically the same proportion, creating
+				similar problems.</p>
 			<p>While it is true that the <org reg="United States Government">Federal
 					Government</org> is spreading out its protective hands and building new homes
 				for the occupants in these slum sections, it is the consensus of opinion that
