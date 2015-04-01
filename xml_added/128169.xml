@@ -6,7 +6,9 @@
 		<prepDate>CH 2011/07/22 corrects</prepDate>
 		<prepDate>2014-07-03 CH clean regs</prepDate>
 		<prepDate>2015-04-01 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1939-02-00">Feb 1939</docDate>
 		<docTitle>
 			<titlePart>How I Decided to Begin My Fight</titlePart>
