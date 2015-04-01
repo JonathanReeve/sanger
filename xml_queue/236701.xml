@@ -8,18 +8,19 @@
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015/04/01 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1920-12-12">12 Dec 1920</docDate>
 		<docTitle>
-			<titlePart>Debate On Birth Control: First Speech</titlePart>
+			<titlePart>Debate On Birth Control with Winter Russell: First Speech</titlePart>
 		</docTitle>
 		<idno>msp236701</idno>
 		<sourceDesc>
 			<bibl><title type="book">Debate Between Margaret Sanger, Negative and Winter Russell,
 					Affirmative</title> (New York, Sept. 19, 1921), pp. 9-18</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections,</title>
 				S76:0923</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -37,24 +38,34 @@
 			Russell's three speeches have not been included. Below is Sanger's first speech, in
 			response to Russell. For her second speech see "<xref from="420073.xml"><title
 					type="article">Second Speech</title></xref>."</p>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="birth control" level2="definitions of"/>
+		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="birth control" level2="socio-economic benefits of"/>
-		<index level1="abortion"/>
+		<index level1="birth control" level2="psychological and emotional benefits"/>
+		<index level1="birth control" level2="and natural law"/>
+		<index level1="childbirth" level2="health risks"/>
+		<index level1="children" level2="rights of"/>
+		<index level1="children" level2="unwanted"/>
 		<index level1="child welfare"/>
 		<index level1="child labor"/>
-		<index level1="mentally disabled and diseased"/>
-		<index level1="birth control" level2="clinics and leagues"/>
+		<index level1="mentally diseased or disabled" level2="as social burdens"/>
 		<index level1="family size" level2="class-based"/>
+		<index level1="pregnancy" level2="health risks"/>
 		<index level1="women" level2="freedom and rights of"/>
 		<index level1="women" level2="enslavement of"/>
-		<index level1="mortality rates" level2="infant"/>
-		<index level1="mortality rates" level2="maternal"/>
-		<index level1="eugenics"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="mortality rates" level2="maternal" level3="American"/>
 		<index level1="venereal diseases"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
+		<index level1="immigration and immigrants" level2="MS on"/>
+		<index level1="sex and sexuality" level2="MS on"/>
 	</headNote>
 	<docBody>
+		<head>MARGARET SANGER</head>
 		<head>First Speech</head>
-		<byline>MARGARET SANGER</byline>
-		<p>Mr. Chairman, Mr. Speaker, and ladies and gentlemen. Mr. Russell and I seem to agree on
+		<p>Mr. <person reg="Knopf, Adolphus S.">Chairman</person>, Mr. Speaker, and ladies and gentlemen. Mr. Russell and I seem to agree on
 			some of the points of this argument at least, but as usual with most of the opponents of
 			birth control, they have absolutely no intelligent argument. (Laughter.) They always
 			barricade themselves behind the <title type="book">Bible</title> or the terrible
@@ -98,14 +109,14 @@
 			large families. It is just as moral.</p>
 		<p>If we let, as we are supposed to do, Nature take her course, we will say that we know
 			that any woman from the age of puberty until the age of the period of the menopause,
-			that woman could have anywhere from 15 to 20 children in her lifetime, and it will only
+			that that woman could have anywhere from 15 to 20 children in her lifetime, and it will only
 			take one relationship between a man and a woman to give her one a year to give her that
 			large family. Let us not forget that.</p>
 		<p>Are we today, as women who wish to develop, who wish to advance in life, are we willing
 			to spend all of our time through those years of development in bringing forth children
 			that the world does not appreciate? Certainly, anyone who looks out to that will find
 			that there is very little place in the world for children. And besides, if a woman does
-			spend all her time in child bearing, do you know that even with a healthy woman, that if
+			spend all her time in child bearing; do you know that even with a healthy woman, that if
 			she does this, one out of ten of these women who have children as often as Nature sends
 			them, dies from child bearing? One out of every ten of women who let Nature take her
 			course and have from 12 to 16 children die from child bearing, and furthermore, there
@@ -145,10 +156,10 @@
 			than it is to leave it to some unknown God for her to judge her by. I claim it is a
 			woman's duty and right to have for herself the right to say when she shall and shall not
 			have children.</p>
-		<p>We know that the death rate, maternal death rate, has not been falling in the<place
+		<p>We know that the death rate, maternal death rate, has not been falling in the <place
 				reg="United States">United States of America</place>, although the death rate from
-			other diseases has been falling. That shows that women is given the last consideration
-			in scientific and medical lines. But then women will never get her own freedom until she
+			other diseases has been falling. That shows that woman is given the last consideration
+			in scientific and medical lines. But then woman will never get her own freedom until she
 			fights for it, and she has to fight hard to hold and keep it. We know too that when the
 			children that come to this mother against her will and against her desires, when they
 			come into the world, that we have an appalling number of 300,000 babies each year in
@@ -188,7 +199,7 @@
 			in the South that where children come according to Nature, every year and one-half, that
 			as soon as they are able, they are shuffled and hustled on in to take the place and
 			compete with their father in the factories. That is the place that society has for the
-			children of the poor. We find in other States, too where it is only a question of a few
+			children of the poor. We find in other States, too, where it is only a question of a few
 			years later that also the children, as soon as they are able to take their place in
 			industry, are pushed out of the home, not because the mothers of these children are not
 			just as anxious to see them in the universities and colleges, but because of the
@@ -280,7 +291,7 @@
 			rules for those who shall come in, but after you are once on the inside, you can produce
 			and reproduce and repopulate the earth with syphilitic and diseased and insane people as
 			far as the government is concerned. This is the short-sighted side of our whole life. We
-			are very generous and sympathetic, but we are over-sentimental, and the time has come to
+			are very generous and sympathetic, but we are over sentimental, and the time has come to
 			use our minds and to apply our intelligence to life and to the conditions of life as we
 			find them today.</p>
 		<p>Now, Mr. Russell has said some things that are very interesting to me. He tells us that
