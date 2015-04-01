@@ -8,14 +8,17 @@
 		<prepDate>2011-03-11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014/03/12 EK clean regs</prepDate>
 		<prepDate>2015-04-01 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1939-00-00">
 			<supplied resp="MSPP">1939</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP"><supplied resp="MSPP">Hitler and World War
-					II</supplied></supplied>
+				<supplied resp="MSPP">
+					<supplied resp="MSPP">Hitler and World War II</supplied>
+				</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp240246</idno>
