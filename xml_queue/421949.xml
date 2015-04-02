@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2014/04/23 VS initial tags</prepDate>
+		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1939-03-02">2 Mar 1939</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Talk with the Husbands of El Paso Mothers' Health
+					Clinic Patients </supplied></titlePart>
+		</docTitle>
+		<idno>msp421949</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mother Should Have Privilege Of Spacing babies, Mrs. Sanger
+					Tells El Paso Husbands</title>, <title type="journal">El Paso Times</title>,
+				Mar. 3, 1939</bibl>
+			<bibl><title type="article">Says Birth Control Doesn't Kill Life</title>, <title
+					type="journal">El Paso Herald Post</title>, Mar. 3, 1939</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="EPT">El Paso Times</name>
+			<name id="UNK">Unknown</name>
+			<name id="EPHP">El Paso Herald Post</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger's talk was not found; newspaper coverage was used instead. For her speech the
+			night before, see <xref from="421941.xml">El Paso Mothers' Health Clinic Speech</xref>,
+			Mar. 1, 1939. </p>
+		<index level1="birth control" level2="in marriages"/>
+		<index level1="birth control" level2="economic benefits and risks of"/>
+		<index level1="birth control clinics and leagues" level2="educational benefits of"/>
+		<index level1="child spacing"/>
+		<index level1="family planning, principles of"/>
+		<index level1="marriage" level2="reforms"/>
+		<index level1="marriage" level2="MS on"/>
+		<index level1="men" level2="reproductive choices and decisions"/>
+		<index level1="planned parenthood"/>
+		<index level1="reproductive responsibility"/>
+		<index level1="transmissible disease"/>
+	</headNote>
+	<docBody>
+		<head>Mother Should Have Privilege Of Spacing babies, Mrs. Sanger Tells El Paso
+			Husbands</head>
+		<div>
+
+			<p><q who="EPT"> Birth control is not abortion, is not illegal and is no longer
+					guesswork, Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>, leading
+					advocate of birth control, assured 15 <place reg="El Paso, TX">El Paso</place>
+					husbands at a meeting in the <org reg="El Paso Mother's Health Center">Mothers’
+						Health Center</org>, 1820 East Rio Grande Street, Thursday night, when she
+					appealed that mothers for the sake of their own health be given the right to
+					space the births of their children.</q></p>
+			<p>
+				<q who="EPT">A mother’s body is depleted of many important chemicals at the birth of
+					her child, and it requires six months for her to return to normal, Mrs. Sanger
+					said. It is a crime for these mothers to become pregnant again before their
+					bodies are normal, she maintained.</q></p>
+			<p> “Every woman, rich or poor, robust or delicate, should have the right to space her
+				children at least two years apart in order that she may be properly rested before
+				renewing the ordeal of childbirth,” <q who="EPT">Mrs. Sanger said.</q></p>
+		</div>
+		<div type="section">
+			<head type="sub"> Cites Patriotism</head>
+
+			<p><q who="EPT"> Four out of seven tuberculosis women have died in pregnancy, she said.
+					Women suffering from tuberculosis, heart trouble, goiter, high blood pressure
+					and other diseases should not have children, yet they might marry and live happy
+					lives without them, she said.</q></p>
+			<p><q who="EPT"> Persons, fathers or mothers, with communicable diseases certainly
+					should not have children, she insisted. There is more patriotism in spacing
+					children or not having any, she said, than there is in bearing children
+					haphazardly or children afflicted.</q></p>
+			<p>
+				<q who="EPT">Decidedly in favor of early marriages, Mrs. Sanger said she is not in
+					favor of adolescents having children. Boys between the ages of 14 and 23, and
+					girls between the ages of 12 and 22 are in that adolescent period when the
+					nervous system is under an intense strain and the bones are still developing.
+					They should postpone parenthood until their own bodies are completely developed,
+					she said.</q></p>
+
+		</div>
+		<div type="section">
+			<head type="sub"> Should Wait Few Years</head>
+
+			<p><q who="EPT"> Even more mature newlyweds should postpone parenthood for a few years,
+					she said, and spend the first two years becoming acquainted and adjusted to
+					insure many years of happy married life.</q></p>
+
+			<p> “We are more ignorant about women today than we are about cows and chickens,” <q
+					who="EPT">she said.</q> “A farmer can write to the <org
+					reg="United States Department of Agriculture">Department of Agriculture</org>
+				and get information about his cows and chickens and hogs, how to make them healthy,
+				heavier and bear strong offspring. But let someone write and as how a woman might
+				control births and raise stronger and healthier children and no information is
+				forthcoming, or if it is, it is to the effect that you are breaking the law or being
+				immoral.”</p>
+			<p>
+				<q who="EPT">Birth control does not, as is frequently argued, make women sterile,
+					she said. Statistics from birth control clinics show women practice birth
+					control for periods of years and still have children when they want them and
+					when they can afford them, she said.</q></p>
+
+			<p> “Birth control is no longer guesswork,” <q who="EPT">Mrs. Sanger said.</q> “We know
+				now what birth control will do.”</p>
+		</div>
+		<div type="section">
+			<head>SAYS BIRTH CONTROL DOESN'T KILL LIFE</head>
+			<p><q who="EPHP">Fifteen husbands sat in the neat living room of the Mother's Health
+					Center at 1820 East Rio Grande street last night and listened to Mrs. Margaret
+					Sanger, noted birth control advocate, tell of the meaning and the purpose of
+					birth control as sponsored by the Birth Control Federation of America. The men's
+					wives are patients at the birth control center.</q></p>
+			<p><q who="EPHP">After her talk the husbands crowded around Mrs. Sanger thanking her and
+					asking her questions about her work. The group stayed at the Center and talked
+					to the nurse, <person reg="Gillespie, Mrs.">Mrs. Gillespie</person>, after Mrs.
+					Sanger left.</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">Tells of Arguments</head>
+			<p>"<q who="UNK">I have read your books,</q><q who="EPHP">one many told her.</q></p>
+			<p><q who="EPHP">Another rode in the automobile with Mrs. Sanger and <person
+						reg="Goetting, Betty-Mary">Mrs. Charles A. Goetting</person>, president of
+					the local board for the Center, and asked questions and told of arguments
+					against Mrs. Sanger with which he had been confronted. Mrs. Sanger listened with
+					interest. </q></p>
+			<p> “It is untrue that practice of birth control kills life or that it makes people who
+				practice it sterile,” <q who="HP">Mrs. Sanger said at the meeting.</q></p>
+			<p> “There is no life at the time that birth control is practiced. The thing we beg of
+				the wives who are in no condition to bear children is to take the trouble to prevent
+				conception. We know now that birth control is no longer guess work. We know what it
+				will do.</p>
+			<p> “No woman with tuberculosis, bad kidneys, heart disease and other diseases, should
+				become pregnant,” <q who="HP">she said.</q> “No couple should have children when
+				either has a disease.</p>
+			<p> “We say that every woman should have the right to space her children, whether she is
+				rich or poor, well or sick. Two years is the minimum spacing for children. Three
+				years is better. Birth takes chemicals out of a woman’s body.</p>
+			<p><q who="EPHP">All couples should wait one or two years after marriage to have
+					children to give themselves time to get acquainted, to have spiritual and mental
+					adjustment, she said. She favors early marriages.</q></p>
+			<p> “There would be fewer separations if couples followed this rule,” <q who="HP">she
+					said.</q></p>
+		</div>
+	</docBody>
+</doc>
