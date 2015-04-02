@@ -5,17 +5,18 @@
 		<prepDate>2014/06/11 MM</prepDate>
 		<prepDate>2014/11/21 EK clean regs and correct proof</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-2 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-00-00">1914</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Foreword to the Supressed Obscene
-				Articles</supplied></titlePart>
+			<titlePart><supplied resp="MSPP">Foreword to the <title type="book">Suppressed Obscene
+				Articles</title></supplied>,pp. 2-3</titlePart> 
 		</docTitle>
 		<idno>msp236723</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
-				S76:869</bibl>
+				S76:0869</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -34,10 +35,11 @@
 				>Are Preventive Means Injurious</xref>, July 1914, and "A Defense of Assassination",
 			by <person reg="Thorpe, Herbert A.">Herbert Thorpe</person>, July 1914.</p>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="Woman Rebel, The" level2="legal case"/>
-		<index level1="United States" level2="Post Office"/>
+		<index level1="United States Post Office"/>
 		<index level1="censorship"/>
-		<index level1="Sanger, Margaret" level2="arrests and trials"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and iomprisonment"/>
 	</headNote>
 	<docBody>
 		<head>THE SUPPRESSION OF "<title type="journal">THE WOMAN REBEL</title>"</head>
