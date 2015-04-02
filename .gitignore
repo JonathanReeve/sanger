@@ -8,7 +8,7 @@
 #Also don't track private stuff 
 private.php
 
-app/index.html
-app/index2.htm
+#app/index.html
+#app/index2.htm
 app/images/Thumbs.db
 app/.DS_Store
