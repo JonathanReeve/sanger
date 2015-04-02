@@ -6,8 +6,10 @@
 		<prepDate>2011/08/17 CH Correct</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1939-050-170">
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1939-05-17">
 			<supplied resp="MSPP">17 May 1939</supplied>
 		</docDate>
 		<docTitle>
@@ -18,7 +20,8 @@
 		<idno>msp223091</idno>
 		<sourceDesc>
 			<bibl>Florence Rose Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S72:126</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S72:126</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,7 +29,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For a handwritten draft see Margaret Sanger Microfilm, Smith College Collections S72:91. No final version was found.</p>
+		<p>For a handwritten draft see Margaret Sanger Microfilm, Smith College Collections S72:91.
+			No final version was found.</p>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
 		<index level1="birth control" level2="movement" level3="American"/>
@@ -79,7 +83,8 @@
 			more babies, so that I may be able to take care of those I have.”</p>
 		<p>We realize now, more than has any previous generation that this struggle of woman for her
 			freedom is part of an urge toward a better way of life for herself and her children, and
-			more and more, men have come to a realization of what 	<add>she</add> was fighting for and have turned to help her.</p>
+			more and more, men have come to a realization of what <add>she</add> was fighting for
+			and have turned to help her.</p>
 		<p>Not only have the scientists, scholars and lay men of all types lent their aid, but
 			physicians--who best realize what child birth, even when it is normal, entails, have
 			given their support increasingly to the movement to make motherhood voluntary--not
@@ -176,8 +181,8 @@
 		<p>It is this situation which must be changed if we are to eventually take birth control
 			down to those in the lowest economic strata of society. Such work is being done under
 			the <org reg="United Kingdom Ministry of Health">Ministry of Health of <place>Great
-					Britain</place></org>, in many of the <org>Maternal and Child Welfare stations</org> there.
-			Why cannot it be done here?</p>
+					Britain</place></org>, in many of the <org>Maternal and Child Welfare
+				stations</org> there. Why cannot it be done here?</p>
 		<p>Those of us who are familiar with birth control clinics know that if they are to be used
 			effectively they must not be too far away from the homes of the women who come to them
 			for advice.</p>
