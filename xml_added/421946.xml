@@ -3,25 +3,29 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2014-05-07 JK initial tag</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1941-04-13">13 Jul 1941</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="mSPP">Interview with the Corning Leader</supplied>
+				<supplied resp="MSPP">Interview with the Corning Leader</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421946</idno>
 		<sourceDesc>
 			<bibl><title type="article">'Goal is in Sight' Says Mrs. Sanger, Birth Control Advocate,
 					Corning Native</title>, <title type="journal">Corning Leader</title>, Jul. 13,
-				1941.</bibl>
+				1941</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="CL">Corning Leader</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">
+	<headNote resp="MSPP"><p>Several paragraphs of biographical information about Sanger at the end
+			of this article were omitted by the MSPP editors.</p>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control" level2="access to"/>
@@ -30,7 +34,6 @@
 	<docBody>
 		<head>Goal is in Sight' Says <person reg="Sanger, Margaret">Mrs. Sanger</person>, Birth
 			Control Advocate, <place reg="Corning, NY">Corning</place> Native</head>
-
 		<p>“Our sweat, blood and tears have not been in vain,” <q who="CL">declared Margaret Sanger
 				after 27 years of single-hearted devotion to the cause of birth control.</q> “The
 			goal is in sight.”</p>
@@ -40,5 +43,10 @@
 			birth control. Already three states, <place>North Carolina</place>, <place>South
 				Carolina</place>, and <place>Alabama</place>, have included the dissemination of
 			birth control knowledge in their public health service.” </p>
+		<p><q who="CL">Mrs. Sanger tells of the achievements of the birth control movement in a
+				gentle, quiet voice. Today there is about her nothing of the crusader which two
+				decades ago drew down denunciation on her head, waves of praise and denunciation,
+				and to cause her Corning friends and acquaintances to both disown and cheer the
+				native daughter who had become a world figure. </q></p>
 	</docBody>
 </doc>
