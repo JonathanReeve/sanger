@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published speech">
+<doc type="Published Statement">
 	<mepHeader>
 		<prepDate>2014-05-02 JK initial tag</prepDate>
 		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,21 +32,21 @@
 	</headNote>
 	<docBody>
 		<head>Margaret Sanger Raps Tobin on Birth Control</head>
-		<dateline>
-			<date value="1943-04-12"/> April 12, <place reg="New York, NY">New
-			York</place></dateline>
-		<p><q who="HC">Mrs. Sanger today declared that</q> “Americans will think twice before they
-			start out to duplicate the population problems of <place>Japan</place>,
+		<dateline><place reg="New York, NY">NEW YORK</place>, <date value="1943-04-12">April
+				12</date>.--(<org reg="Associated Press">A.P.</org>)</dateline>
+		<p><q who="HC">Taking issue with remarks made by Mayor <person reg="Tobin, Maurice J."
+					>Maurice J. Tobin</person> of <place reg="Boston, MA">Boston</place> against
+				birth control, Mrs. Sanger today declared that</q> “Americans will think twice
+			before they start out to duplicate the population problems of <place>Japan</place>,
 				<place>India</place> and <place>China</place>.”</p>
 		<p>
 			<q who="HC"> Mrs. Sanger, birth control movement leader and honorary chairman of the
 					<org>Planned Parenthood Federation of America</org>, Inc., said in a
 				statement:</q>
 		</p>
-		<p>“The <person reg="Tobin, Maurice J.">Mayor of <place reg="Boston, MA"
-				>Boston</place></person>is typical of those people who are happy when other people
-			are bringing into the world unlimited numbers of babies but who reserve the right of
-			planning a family for themselves. </p>
+		<p>“The Mayor of Boston is typical of those people who are happy when other people are
+			bringing into the world unlimited numbers of babies but who reserve the right of
+			planning a family for themselves." </p>
 		<p>“Even before the present war is won, Mayor Tobin is urging the country to get ready for
 			the next one by the very means best designed to promote it. Every schoolboy knows that
 			overpopulation and crowding, with resultant poverty, disease and insecurity, is among

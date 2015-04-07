@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph Draft Speech">
+	<mepHeader>
+		<prepDate>2014/05/02 YG</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1942-03-21">21 Mar 1942</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Tucson Negro Meeting Notes</supplied></titlePart>
+		</docTitle>
+		<idno>msp236360</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S72:345</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>No final version was found. No further details on the event were found.</p>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="mortality rates" level2="maternal"/>
+		<index level1="parenthood"/>
+	</headNote>
+	<docBody>
+		<head>Negro Meeting Notes</head>
+		<dateline><place reg="Tucson, AZ">Tucson</place><lb/><date value="1942-03-21">March
+				21/42</date></dateline>
+		<p>Early history of BC--nursing mothers--rich &amp; poor, birth rates 1/3 in rich homes</p>
+		<p>Three factors--fathers wage mothers health, Standards of living-- </p>
+		<p>Another quality of inheritance </p>
+		<p>Any one can be parents they cannot be Doctors or lawyers or ministers or book keepers or
+			truck drivers without knowledge &amp; training--but parenthood has never been given that
+			standing where it should be considered as important at least as the cattle on a
+			ranch.</p>
+		<p>Maternal deaths 22000 die from T.B., heart, kidney, <emph rend="underline"
+				>unnecessary</emph> infants 15000 babies and mothers die, <emph rend="underline"
+				>unnecessary</emph></p>
+		<p/>
+	</docBody>
+</doc>

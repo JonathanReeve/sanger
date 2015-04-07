@@ -5,7 +5,10 @@
 		<prepDate>2011-07-15 NC</prepDate>
 		<prepDate>2011/11/14 CH corrected doc type.</prepDate>
 		<prepDate>2014-03-30 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1944-05-00">
 			<supplied resp="MSPP">May 1944</supplied>
 		</docDate>
@@ -15,7 +18,8 @@
 		<idno>msp239372</idno>
 		<sourceDesc>
 			<bibl>Records of PPFA, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S72:387</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S72:387</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -88,7 +92,7 @@
 			control as an integral part of medical practice and education. Since that time however,
 			medical acceptance has increased so much that more than 100,000 physicians, nurses and
 			medical schools have received copies of Dr. <person reg="Dickinson, Robert Latou">R. L.
-				Dickinson</person>’s “<title>Techniques of Conception Control</title>” at their own
+				Dickinson</person>’s “<title type="book">Techniques of Conception Control</title>” at their own
 			request, Although courses in medical schools were cut sharply since the war began, 45%
 			of the Grade A medical schools were beginning to give students some instruction in
 			methods of child spacing.</p>
@@ -155,7 +159,7 @@
 		<p>It has been estimated that in spite of the difficulties, the expanse and frequent
 			failures of this last resort in the case of a fertile wife and sterile but acquiescent
 			husband, there are many more than 10,000 babies in this country, carefully guarded in
-			secrecy who owe their much wanted existances to artificial insemination.</p>
+			secrecy who owe their much wanted existences to artificial insemination.</p>
 		<p>Dr. Stone who is receiving registrations for the contestants for the Lasker award said
 			that among those who have applied are many outstanding scientists who have worked in the
 			field of sterility as well as contraception. The idea of the award is to recognize with
