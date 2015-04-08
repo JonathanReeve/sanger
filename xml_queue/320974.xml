@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Typed Speech">
+<doc type="Published Article">
 	<mepHeader>
 		<prepDate>2011/05/24 CE</prepDate>
 		<prepDate>2011/06/21 CE Corrections</prepDate>
@@ -11,7 +11,9 @@
 		</docAuthor>
 		<docDate value="1942-12-08">8 Dec 1942</docDate>
 		<docTitle>
-			<titlePart>Birth Control, <supplied resp="MSPP">1942</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control, 1942</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236628</idno>
 		<sourceDesc>
@@ -23,22 +25,23 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>For other articles in the <title type="book">Britannica Book of the
-				Year</title> series, see <xref from="320976.xml"><title type="book">Birth Control,
-					1944</title></xref>; <xref from="320980.xml"><title type="book">Birth Control,
-					1946</title></xref>; <xref from="320979.xml"><title type="book">Birth Control,
-					1947</title></xref>; <xref from="320981.xml"><title type="book">Birth Control,
-					1949</title></xref>; <xref from="321981.xml"><title type="book">Birth Control,
-					1950</title></xref>; <xref from="320983.xml"><title type="book">Birth Control,
-					1951</title></xref>; <xref from="320984.xml"><title type="book">Birth Control,
-					1952</title></xref>; <xref from="321984.xml"><title type="book">Birth Control,
-					1953</title></xref>; <xref from="320985.xml"><title type="book">Birth Control,
-					1954</title></xref>; <xref from="320986.xml"><title type="book">Birth Control,
-						1955</title></xref>; <xref from="421076.xml"><title type="book">Birth Control,
-					1956</title></xref>; <xref from="320987.xml"><title type="book">Birth Control,
-					1957</title></xref>; <xref from="320988.xml"><title>Birth Control,
-				1958</title></xref></p>
-		<p>For typewritten drafts see Margaret Sanger Microfilm, Smith College Collections S72:368 and Library of Congress Microfilm 129:94, 99B and 101.</p>
+	<headNote resp="MSPP">
+		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
+			see <xref from="320976.xml"><title type="book">Birth Control, 1944</title></xref>; <xref
+				from="320980.xml"><title type="book">Birth Control, 1946</title></xref>; <xref
+				from="320979.xml"><title type="book">Birth Control, 1947</title></xref>; <xref
+				from="320981.xml"><title type="book">Birth Control, 1949</title></xref>; <xref
+				from="321981.xml"><title type="book">Birth Control, 1950</title></xref>; <xref
+				from="320983.xml"><title type="book">Birth Control, 1951</title></xref>; <xref
+				from="320984.xml"><title type="book">Birth Control, 1952</title></xref>; <xref
+				from="321984.xml"><title type="book">Birth Control, 1953</title></xref>; <xref
+				from="320985.xml"><title type="book">Birth Control, 1954</title></xref>; <xref
+				from="320986.xml"><title type="book">Birth Control, 1955</title></xref>; <xref
+				from="421076.xml"><title type="book">Birth Control, 1956</title></xref>; <xref
+				from="320987.xml"><title type="book">Birth Control, 1957</title></xref>; <xref
+				from="320988.xml"><title>Birth Control, 1958</title></xref></p>
+		<p>For typewritten drafts see Margaret Sanger Microfilm, Smith College Collections S72:368
+			and Library of Congress Microfilm 129:94, 99B and 101.</p>
 		<index level1="African Americans" level2="birth control and"/>
 		<index level1="birth control clinics and leagues" level2="in Europe"/>
 		<index level1="birth control clinics and leagues" level2="in United States"/>
@@ -119,8 +122,8 @@
 				contraception, were those of <person reg="Stein, Irving R.">Irving R.
 				Stein</person>, et al (a) in <place reg="Chicago, IL">Chicago</place>, <person
 					reg="Beebe, Gilbert W.">Beebe</person> and <person reg="Overton, John"
-					>Overton</person>, (b) in <place reg="Nashville, TN">Nashville</place>,
-				Beebe (c) in a rural area in <place>West Virginia</place>, and Beebe and <person
+					>Overton</person>, (b) in <place reg="Nashville, TN">Nashville</place>, Beebe
+				(c) in a rural area in <place>West Virginia</place>, and Beebe and <person
 					reg="Geisler, Murray">Geisler</person> (d) in a rural area of
 					<place>Kentucky</place>. All of these studies showed a varying reduction in
 				fertility among the cases advised. Clinic Reports show diaphragm and jelly the
@@ -128,13 +131,13 @@
 				sponge seemed to give adequate protection when regularly used. the non-use of a
 				method, occasionally, was the human factor which faced doctors in all branches of
 				preventive medicine.</p>
-			<p>The <org reg="American Medical Association, Council on Chemistry and Pharmacy">Council
-				on chemistry and Pharmacy of the American Medical Association</org> appointed a
-				Committee on contraceptives to study drugs used in this field and to report on
-				contraceptive preparations, and the Medical Sub-Committee of the <org>Family
-					Planning Association</org> of Great Britain appointed a special Ad-Hoc Committee
-				to conduct a clinical investigation of the efficiency of certain chemical
-				contraceptives.</p>
+			<p>The <org reg="American Medical Association, Council on Chemistry and Pharmacy"
+					>Council on chemistry and Pharmacy of the American Medical Association</org>
+				appointed a Committee on contraceptives to study drugs used in this field and to
+				report on contraceptive preparations, and the Medical Sub-Committee of the
+					<org>Family Planning Association</org> of Great Britain appointed a special
+				Ad-Hoc Committee to conduct a clinical investigation of the efficiency of certain
+				chemical contraceptives.</p>
 		</div>
 		<div type="section">
 			<head type="sub">(4) Public Education.</head>
@@ -154,20 +157,20 @@
 					could advise the use of contraceptives even in cases where the life of a patient
 					was threatened by pregnancy. In November, the <org
 						reg="United States Supreme Court">U.S. Supreme Court</org> agreed to accept
-					the <name type="case" reg="Tileston v. Ullman">Tileston</name> case for
-					review. In <place>Massachusetts</place>, all efforts of the opposition to keep
-					the question off the ballot having failed, the people voted in a referendum as
-					to whether physicians in that state could legally advice patients on
+					the <name type="case" reg="Tileston v. Ullman">Tileston</name> case for review.
+					In <place>Massachusetts</place>, all efforts of the opposition to keep the
+					question off the ballot having failed, the people voted in a referendum as to
+					whether physicians in that state could legally advice patients on
 					contraceptives, when life or health were threatened by pregnancy.</p>
 			</div>
 		</div>
 		<div type="section">
 			<head type="sub">Abroad.</head>
-			<p>In <place>Great Britain</place> birth control clinics remained open and an increase in the number of
-				patients was reported. Conscription of women for war work led to a demand for
-				contraceptive by many who could not carry on in the country’s war effort if they
-				became pregnant. Medical Officers of Health were reported as cooperating, in many
-				countries by referring cases to clinics for advice. Elsewhere in
+			<p>In <place>Great Britain</place> birth control clinics remained open and an increase
+				in the number of patients was reported. Conscription of women for war work led to a
+				demand for contraceptive by many who could not carry on in the country’s war effort
+				if they became pregnant. Medical Officers of Health were reported as cooperating, in
+				many countries by referring cases to clinics for advice. Elsewhere in
 					<place>Europe</place> no information filtered through, beyond and authentic
 				report from <place>Germany</place> that contraceptives were among the few articles
 				still advertised for sale in a number of large cities. Germany,
