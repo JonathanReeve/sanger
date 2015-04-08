@@ -10,6 +10,7 @@
 		<prepDate>2012-05-24 CH Cleanup a little more</prepDate>
 		<prepDate>2014-04-10 Ch clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-07 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-03-00">Mar 1914</docDate>
 		<docTitle>
@@ -17,7 +18,7 @@
 		</docTitle>
 		<idno>msp420070</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 1, Mar. 1914, 3</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Mar. 1914, p. 3</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0517</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -26,21 +27,26 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="women" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="labor movement" level2="strikes"/>
+		<index level1="woman suffrage"/>
+		<index level1="women and girls" level2="working class"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
 	</headNote>
 	<docBody>
 		<head>ON PICKET DUTY</head>
 		<div type="section">
 			<head type="sub">Attention</head>
-			<p>1,606,288 Domestics</p>
-			<p>10,941 Cap makers </p>
-			<p>122,405 Women's clothing workers </p>
-			<p>186,570 Sales women </p>
-			<p>150,548 Stenographers </p>
-			<p>419,634 Washwomen</p>
-			<p>22,735,041 Miscellaneous</p>
-
-			<p>want to change places with <person reg="Dorr, Rheta Childe">Rheta Childe
+	<list>
+				<item>1,606,288 Domestics</item>
+				<item>10,941 Cap makers</item>
+				<item>122,405 Women's clothing workers</item>
+				<item>186,570 Sales women</item>
+				<item>150,548 Stenographers</item>
+				<item>419,634 Washwomen</item>
+				<item>22,735,041 Miscellaneous</item>
+			</list>
+		<p>Want to change places with <person reg="Dorr, Rheta Childe">Rheta Childe
 					Dorr</person>, who wants the "<q who="DORRH">right to work</q>."</p>
 		</div>
 		<div type="section">

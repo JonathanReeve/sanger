@@ -9,6 +9,7 @@
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-04-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -21,17 +22,20 @@
 			<resp><name id="MARKA">Marx, Karl</name></resp>
 		</respStmt>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 3, May 1914, p.
-				24</bibl>
+			<bibl><title type="journal">The Woman Rebel,</title>, May 1914, p. 24</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm </title>, C16:538</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
-		<index level1="socialism"/>
+		<index level1="labor movement" level2="MS on"/>
+		<index level1="socialism and socialists" level2="MS on"/>
+		<index level1="Socialist Party"/>
+		<index level1="woman suffrage"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
 	</headNote>
 	<docBody>
 		<head>WATCHFUL WAITING</head>
-		<p>Forty thousand women belonging to the <org reg="Socialist Party of America">Socialist
+		<p>Forty thousand women belonging to the <org reg="Socialist Party">Socialist
 				party of the <place>United States</place></org> wired their protest against the
 			brutalities of the militia in <place>Colorado</place> to <person reg="Wilson, Woodrow"
 				>President Wilson</person>.</p>
