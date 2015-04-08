@@ -9,6 +9,7 @@
 		<prepDate>2014-03-05 CH correcting regs</prepDate>
 		<prepDate>2014-11-18 CH more cleaning</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-08 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -20,7 +21,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, July 1921, pp. 5-6, 15.</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:158</bibl>
+				C16:0158</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -35,16 +36,28 @@
 		<p>This article is part two of a three-part series of the same title. For previous article,
 			see "Birth Control--Past, Present and Future," <xref from="305249">June 1921</xref>; for
 			the final article see <xref from="305538">August 1921</xref>.</p>
-		<index level1="abortion" level2="health risks of"/>
-		<index level1="birth control" level2="neo-Malthusian arguments for"/>
-		<index level1="birth control methods, general"/>
-		<index level1="birth control" level2="health benefits of"/>
-		<index level1="birth control" level2="economic benefits and risks of"/>
-		<index level1="family size" level2="MS on"/>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="abortion" level2="laws and legislation"/>
+		<index level1="birth control" level2="history of"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="child spacing"/>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="family size" level2="class-based"/>
+		<index level1="Malthus, Thomas"/>
+		<index level1="Malthusianism" level2="and neo-Malthusianism"/>
+		<index level1="pregnancy" level2="health risks"/>
+		<index level1="sex and sexuality"/>
+		<index level1="sex education"/>
+		<index level1="United States" level2="abortion in"/>
 	</headNote>
 	<docBody>
 		<head>Birth Control--Past, Present, and Future</head>
-		<byline>By Margaret Sanger (continued from June Issue)</byline>
+		<byline>By Margaret Sanger</byline>
+		<p><emph rend="italics">(continued from June Issue)</emph></p>
 		<p>We have pointed out that <person reg="Malthus, Thomas Robert"> Malthus,</person>
 			discoverer of the theory of population and the precursor of the Darwinian theory of
 			evolution, advocated as preventive checks upon overpopulation, "<q who="MALTH">moral
@@ -55,9 +68,9 @@
 			that it would be impossible for her to bear very many children. This is in the narrow
 			sense Malthusianism. The Neo-Malthusians very quickly saw that this was impractical and
 			productive of much unhappiness and misery. The sociological doctrine became a
-			psychological one. Restraint with this direst and most unfortunate of consequences, both
+			psychological one. Restraint with the direst and most unfortunate of consequences, both
 			psychological and physiological, to the individual and to the race. Although advocated
-			by the church fathers, continence and celibacy had never been practiced by the masses of
+			by the Church fathers, continence and celibacy had never been practiced by the masses of
 			the Occidental world. But in thus driving sex expression into underground and secret
 			channels, prostitution and its train of evils, diseases and insanity became firmly
 			entrenched institutions of the western world.</p>
@@ -82,22 +95,22 @@
 			traditional practices of people which have, notably in <place>France,</place> proved to
 			be expedient and serviceable.</p>
 		<p>But the great advance has been made since the discovery by <unclear resp="MSPP"><person
-					reg="Pasteur, Louis">Postem</person></unclear> of the germ theory, in the latter
+					reg="Pasteur, Louis">Pasteur</person></unclear> of the germ theory, in the latter
 			half of the nineteenth century. Applied to Birth Control, the germ theory of life gave
-			rise to the practice of Spermatacide, this name to those preparations destined to
+			rise to the practice of Spermaticide, the name to those preparations destined to
 			sterilize the male cells (<emph rend="italics">spermatozoa</emph>). But the question has
 			often been asked: Is there a perfect or safe method of prevention of conception? Such a
 			method should combine the following conditions: (1) It should depend exclusively upon
 			the woman; (2) it should cause neither the man nor the woman any inconvenience; (3) it
-			should be absolutely certain and dependable; (4) it should cost very little. </p>
+			should be absolutely certain and dependable; (4) it should cost very little.</p>
 		<p>Let us answer this question at the outset. There is no magic method, no perfect method of
-			preventing conception, that does not require care and attention. But the experience fo
+			preventing conception, that does not require care and attention. But the experience of
 			the movement in Europe and America has shown us that this is partially due to the
-			ignorance and inertia of the medical profession, many of whom profit largely bu the
+			ignorance and inertia of the medical profession, many of whom profit largely by the
 			practice of abortion, and many of whom do not wish to give to women a much needed
 			education in sexual prophylaxis. Women are thus thrown back, for the source of their
 			knowledge in these matters, upon neighbors and friends. Here they receive numbers of
-			conflicting suggestions, each presented in an unscientific and unhygenic fashion.
+			conflicting suggestions, each presented in an unscientific and unhygienic fashion.
 			Altogether this is very disturbing and confusing to the poor woman whose ideas on sexual
 			hygiene are of the most primitive, and who is living in constant fear of pregnancy.</p>
 		<p>It is on account of this confusion that the best authorities in Europe and America have
@@ -118,7 +131,7 @@
 			curse. </p>
 		<p>The only means of preventing, of uprooting, is by sanitation and personal hygiene, <emph
 				rend="italics">and by reducing the birth rate among the carriers of transmissible
-				and heritable diseased</emph>. A great Dutch authority, Dr. <person
+				and heritable diseases</emph>. A great Dutch authority, Dr. <person
 				reg="Rutgers, Johannes">Rutgers</person>, has pointed out that personal hygiene, so
 			essential to the well-being of the individual and the community, is practically
 			equivalent with preventative methods of Birth Control. In answer to the contention that
@@ -126,7 +139,7 @@
 			membranes, the same objection might be made of the hygienic care of the teeth, yet we
 			realize that the proper care of the teeth is an absolute essential to health. Ever
 			increasing numbers of civilized men and women today are wearing "mechanical devices" in
-			their mouths and are daily, and even more frequently, washing their mouths with fluids
+			their mouths and are daily, and even more frequently, washing out their mouths with fluids
 			that are sometimes identical with, and often even stronger than, those employed for
 			Birth Control. Yet such precautions are not considered "immoral" or "unnatural."</p>
 		<p>Incontrovertible figures and statistics, of the most definite and exact precision, drive
@@ -134,7 +147,7 @@
 			inevitable companions of large families and numerous children. It is no less true that
 			cleanliness, personal hygiene, and sanitary surroundings go hand in hand with birth
 			control and fewer children. We also learn that these fewer and cleaner children are not
-			so often victims of diseased that increase the infant mortality rate among the less
+			so often victims of diseases that increase the infant mortality rate among the less
 			fortunate.</p>
 		<p>It is more imperative than ever that women should now be taught the great necessity of
 			personal hygiene and cleanliness. This is the only safe way to prevent the transmission
@@ -149,14 +162,14 @@
 			betterment, it is truly <emph rend="italics">preventive</emph> of the evils of the
 			world. It does not make two evils grow when one grew before; but it is the only safe and
 			certain way to eradicate social evils at their very root. </p>
-		<p> Such clinics as these, which have, as I have tried to show, so brilliantly proved their
+		<p>Such clinics as these, which have, as I have tried to show, so brilliantly proved their
 			value in <place reg="Netherlands">Holland</place>, are of the greatest necessity to our
 			Western civilization, even in countries like France where an effort is being made to
 			remedy the losses of the war by repopulation. Their function would be to substitute
 			scientific Birth Control in place of the devastating practice of abortion and that
 			inevitable result of bringing unwanted children into the world--the high rate of infant
 			mortality. </p>
-		<p> When one <unclear rend="MSPP"><person reg="Taussig, Fraederick">eminent
+		<p> When one <unclear rend="MSPP"><person reg="Taussig, Frederick">eminent
 					authority</person></unclear> informs us that there are at least one million
 			abortions performed every year in the United States of America, and others place the
 			figure even higher, when even the <org reg="United States Government">Government of the
@@ -170,7 +183,7 @@
 			close their eyes to this practice, so universally practiced is it, though with great
 			risks to life and health. </p>
 		<p>Thus the question is reduced in America not to whether family limitation should be
-			practiced. It is practiced, by fair means of foul. It explains to a large extent the
+			practiced. It is practiced, by fair means or foul. It explains to a large extent the
 			large number of maternal deaths. The problem that American society must solve is this:
 			Shall family limitation be attained through abortion or through Birth Control? Shall
 			normal, safe scientific methods be employed, or shall women be forced to continue to
@@ -194,15 +207,15 @@
 			Control is an imperative necessity at the present moment.</p>
 		<p>From the point of view of the coming generation, that is of the future of the nation and
 			the race, the practice of Birth Control more than justifies itself. In every country of
-			Europe and America in which investigations have been made, it had been shown that
+			Europe and America in which investigations have been made, it has been shown that
 			children born into large families have less chance of survival, of becoming the men and
 			women of tomorrow, than the children born into small families. It has been discovered
 			that children should be spaced out. If a woman submits to a rapid and successive series
 			of pregnancies without a sufficient interval between to recuperate and recover her
-			strength, her weakened constitution and physical debility react unfavorable upon her
+			strength, her weakened constitution and physical debility react unfavorably upon her
 			children. Even from the economic point of view, the large family is more apt to be
 			underfed and undernourished. In the creation of a great new race, the first essential is
-			the development of strong healthy mothers. </p>
+			the development of strong healthy mothers.</p>
 		<p>It is not merely theory, but carefully tested facts, which indicate for us the close
 			interrelationship between uncontrolled fecundity and misery. The salary of the worker is
 			not apportioned according to the number of mouths he has to feed. One more child in the
@@ -212,8 +225,8 @@
 			more and more neglected, particularly as they come into the world as the penalty of
 			ignorance. It is from such families as these that we recruit our dependent classes, our
 			paupers and our criminals, who fill the various institutions or are the endless subjects
-			of charities – thus consuming wealth that should go to the enhancement and advancement
+			of charities--thus consuming wealth that should go to the enhancement and advancement
 			of human life.</p>
-		<trailer>(To be concluded in the next issue.)</trailer>
+		<trailer><emph rend="italics">(To be concluded in the next issue.)</emph></trailer>
 	</docBody>
 </doc>

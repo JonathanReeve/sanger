@@ -7,18 +7,19 @@
 		<prepDate>2014-03-04 CH check regs</prepDate>
 		<prepDate>2014-11-13 CH check regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-07 EK corret proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1921-06-00">Jun 1921</docDate>
+		<docDate value="1921-06-00">June 1921</docDate>
 		<docTitle>
 			<titlePart>Birth Control--Past, Present and Future</titlePart>
 		</docTitle>
 		<idno>msp305249</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, June 1921, pp. 5-6</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, June 1921, pp. 5-6, 11-13</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
-				C16:153</bibl>
+				C16:0153</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -30,19 +31,49 @@
 		<p>This article is the first in a three-part series of the same title. For following
 			articles, see <title type="journal">Birth Control Review</title>, <xref from="307665"
 				>July 1921</xref> and <xref from="305538">August 1921</xref>.</p>
-		<index level1="birth control" level2="history of"/>
 	</headNote>
+	<index level1="abortion" level2="frequency of"/>
+	<index level1="birth control laws and legislation" level2="Comstock  Laws"/>
+	<index level1="birth control" level2="distribution of information"/>
+	<index level1="birth control" level2="class-based"/>
 	<index level1="birth control" level2="neo-Malthusian arguments for"/>
-	<index level1="birth control" level2="population and"/>
+	<index level1="birth control" level2="socio-economic benefits"/>
+	<index level1="birth control movement" level2="goals and strategies"/>
+	<index level1="birth control movement" level2="history of"/>
+	<index level1="birth rate"/>
+	<index level1="birth strike"/>
+	<index level1="poverty"/>
+	<index level1="labor movement" level2="and birth control"/>
+	<index level1="Malthus, Thomas"/>
+	<index level1="Malthusianism" level2="and neo-Malthusianism"/>
+	<index level1="neo-Malthusianism"/>
+	<index level1="Malthusianism" level2="opposition to"/>
+	<index level1="Malthusian League"/>
+	<index level1="population growth" level2="impact of"/>
+	<index level1="population size" level2="MS on"/>
 	<index level1="England" level2="birth rate in"/>
-	<index level1="Europe" level2="overpopulation and"/>
+	<index level1="England" level2="Malthusian League"/>
+	<index level1="infanticide"/>
+	<index level1="Netherlands, the" level2="birth control clinics"/>
+	<index level1="Netherlands, the" level2="birth control in"/>
+	<index level1="Netherlands, the" level2="socio-economic conditions"/>
+	<index level1="mortality rates" level2="infant" level3="Netherlands, the"/>
+	<index level1="mortality rates" level2="maternal" level3="American"/>
+	<index level1="mortality rates" level2="infant" level3="American"/>
+	<index level1="Dutch Neo-Malthusian League"/>
+	<index level1="Germany" level2="birth control in"/>
+	<index level1="Germany" level2="pro-natalism in"/>
+	<index level1="Germany" level2="politics"/>
+	<index level1="Germany" level2="socio-economic conditions in"/>
 	<index level1="birth control" level2="opposition to"/>
 	<index level1="Marxism and Marxists" level2="MS on"/>
 	<index level1="working classes" level2="birth control and"/>
 	<index level1="France" level2="birth control in"/>
 	<index level1="France" level2="socioeconomic conditions"/>
-	<index level1="Germany" level2="socioeconomic conditions"/>
-	<index level1="birth control movement" level2="history of"/>
+	<index level1="France" level2="pro-natalism in"/>
+	<index level1="United States" level2="birth control in"/>
+	<index level1="United States" level2="population growth in"/>
+	<index level1="World War I" level2="and population size"/>
 	<docBody>
 		<head>Birth Control--Past, Present and Future</head>
 		<byline>By Margaret Sanger</byline>
@@ -51,7 +82,7 @@
 			limitation of families. Although this discovery is now scarcely one hundred years old,
 			it is most intimately bound up with the whole of contemporary Western civilization.
 			Denounced and repudiated by the leaders of the Christian Church and also by the Marxian
-			socialists, the idea of "Birth Control" has nevertheless firmly planted its roots in
+		Socialists, the idea of "Birth Control" has nevertheless firmly planted its roots in
 			Europe and <place reg="United States">America</place>, and has shown an ever increasing
 			vitality. <person reg="Mill, John Stuart">John Stuart Mill</person>, one of the earliest
 			and greatest economists, wrote: "<q who="MILJO">Little improvement can be expected in
@@ -60,7 +91,7 @@
 			background and the pivotal importance of Birth Control as a world problem of the present
 			and immediate future, we must have a thorough grasp of the birth and evolution of this
 			simple yet central problem of human existence. Once we have grasped its history, we are
-			in a much better positions to understand its physiological, hygienic and eugenic aspects
+			in a much better position to understand its physiological, hygienic and eugenic aspects
 			and the part Birth Control must play, as an international weapon in the reconstruction
 			of a world of peace, security, and universal prosperity. In the present paper,
 			therefore, I shall consider: First, the historical and philosophic aspects of
@@ -71,7 +102,7 @@
 				<org>Church of <place>England</place></org>, published the first edition of his
 			world famous "<title type="book">Principle of Population</title>" which in 1806 was
 			given to the world in a revised and more thorough form. In this epoch making essay,
-			which was one of the most stimulation books ever given to the world and which attracted
+			which was one of the most stimulating books ever given to the world and which attracted
 			the attention of all great thinkers from that day to this, the English clergyman
 			enunciated his challenging "theory of population," which has never been satisfactorily
 			or completely refuted. His aim, in the "<title type="book">Principle of
@@ -84,26 +115,25 @@
 				<place>India</place>, <place>China</place> and <place>Japan</place>, and led Malthus
 			to the conclusion that "<q who="MALTH">population, when unchecked, goes on doubling
 				itself every 25 years, or increases in a <emph rend="italics">geometrical</emph>
-				proportion. . . But the food to support the increase from the greater number will by no
-				means be obtained with the same facility. . . It may fairly be pronounced, that
+				proportion. . . .But the food to support the increase from the greater number will by no
+				means be obtained with the same facility. . . .It may fairly be pronounced, that
 				considering the present average state of the earth, the means of subsistence, under
 				circumstances the most favorable to human industry, cannot possibly be made to
 				increase faster than in an <emph rend="italics">arithmetical</emph> ratio.</q>"</p>
 		<p>Malthus showed that there were two checks to this too rapid increase in population.
 			Whatever tends to produce a smaller number of births is called a <emph rend="italics"
 				>preventive</emph> check; whatever leads to a greater number of deaths is termed a
-			positive check. Among the <emph rend="italics">positive</emph> checks are wars, famines,
+			<emph rend="italics">positive</emph> check. Among the positive checks are wars, famines,
 			epidemics, floods, infanticide and abortion. Among the preventive checks are the customs
-			of continence, celibacy, late marriages, and prudence after marriage. Malthus advocated
-			late marriages, and prudence after marriage. Malthus advocated late marriages and "moral
+			of continence, celibacy, late marriages, and prudence after marriage. Malthus advocated late marriages and "moral
 			restraint." People should not marry until they had reached the age of about 38. But this
 			was very soon seen to be impractical.</p>
-		<p>The <org>Malthusian League</org>, organized in England in 1877, was founded upon the
+		<p>The <org>Malthusian League</org>, organized in <place>England</place> in 1877, was founded upon the
 			great central principles of population laid down by Malthus; but in view of a wiser
 			understanding of human nature, advocated early marriage and limited parenthood, by the
 			means of the deliberate and scientific prevention of conception. The principles of this
 			society, which has international affiliations in all of the countries of Europe and the
-				United States of America, are an admirable summary of the Malthusian
+		United States of America, are an admirable summary of the Malthusian
 			and Neo-Malthusian doctrines. They are:</p>
 		<list>
 			<item>1. That population (unless consciously and sufficiently controlled) has a constant
@@ -157,16 +187,16 @@
 			resulted in the widespread adoption of their teaching. The better class of workers
 			immediately began the exercise of voluntary parenthood; and this, combined with the laws
 			forbidding child labor in the factories, had the effect of greatly decreasing the birth
-			rate in England and Scotland, among the more skilled and intelligent laborers. From this
+			rate in England and <place>Scotland</place>, among the more skilled and intelligent laborers. From this
 			date began the sharp decline in the birth rate, not merely in England, but in the more
-			advanced countries fo the European continent as well.</p>
+			advanced countries of the <place>European continent</place> as well.</p>
 		<p>It was soon discovered that a lower birth rate brought with it a lower death rate,
 			especially a lower infant mortality rate. Fewer children were born, but more of them
 			survived. The whole influence was toward placing a greater and greater value upon
 			children and child-life. So true has this been that the preventive checks upon
-			population, notably in <place reg="Netherlands">Holland</place>, have had the
+			population, notably in <place reg="Netherlands, the">Holland</place>, have had the
 			opposite effect to that intended in the doctrine of Malthus: the adoption of family
-			limitation had actually led to an <emph rend="italics">increased</emph> more healthy
+			limitation had actually led to an <emph rend="italics">increased</emph> and more healthy
 			population.</p>
 		<p>In the criticism of the Malthusian doctrine, which was brought to the foreground of
 			European thought by the famous case of Charles Bradlaugh and Mrs. Besant in 1877, there
@@ -175,12 +205,12 @@
 			distinguish between what we may call <emph rend="italics">static</emph> and <emph
 				rend="italics">kinetic</emph> overpopulation. Let me briefly define these:</p>
 		<p>Static overpopulation is, the condition when the population of a country has increased up
-			to it ultimate power of obtaining the necessary food supplies and subsistence.</p>
-		<p><emph rend="italics">Kinetic</emph> overpopulation exists when the <emph rend="talics"
+			to its ultimate power of obtaining the necessary food supplies and subsistence.</p>
+		<p><emph rend="italics">Kinetic</emph> overpopulation exists when the <emph rend="italics"
 				>rate</emph> at which new arrivals in a country (by birth or immigration) exceeds
 			the <emph rend="italics">rate</emph> at which additional subsistence can be provided for
 			them.</p>
-		<p>It should be borne in mind that neither Malthus nor the New-Malthusians of today have
+		<p>It should be borne in mind that neither Malthus nor the Neo-Malthusians of today have
 			been concerned about any absolute limit to the food supply. There may be a few
 			countries, e.g. China, in which a limit may be considered as having been actually or
 			nearly reached, and which might be called actually or statically over-populated; but we
@@ -196,8 +226,8 @@
 			and since 1885 there have been clinics for the spreading of hygienic information,
 			including "birth control" to all women. This followed in the wake of a thorough and
 			enthusiastic discussion of the subject at the international medical congress in <place
-				rend="Amsterdam, Netherlands">Amsterdam</place> in 1878. The results have been so
-			gratifying that today Amsterdam and <place reg="The Hague, Netherlands">The
+				rend="Amsterdam, Netherlands, the">Amsterdam</place> in 1878. The results have been so
+			gratifying that today Amsterdam and <place reg="The Hague, Netherlands, the">The
 				Hague</place> have the lowest infant mortality rates of any cities in the Occidental
 			world. So great are the results obtained that there has been a remarkable increase in
 			the physical strength, the stature and the longevity of the people, as well as in
@@ -213,29 +243,28 @@
 			means of Birth Control; that it has had the countenance and support of the ministers of
 			State; and that it has been registered since 1895 as a Society of Public Utility.</p>
 		<p>The most striking evidence of the success of this practice was brought out at the
-			Eugenics Congress, when the fact was announced that the stature of the Dutch people was
-			increasing more rapidly than that of any other race in the world. <emph rend="italic"
-				>The Dutch have gained no less than four inches in fifty years.</emph></p>
+			<org>Eugenics Congress</org>, when the fact was announced that the stature of the Dutch people was
+			increasing more rapidly than that of any other race in the world. <emph rend="italic">The Dutch have gained no less than four inches in fifty years.</emph></p>
 		<p>The proportion of young men drawn for the army taller than 5 feet 7 inches in height has
-			increased from 24.50 per cent. to 47.50 since 1865, while the proportion of men less
-			than 5 feet 2 &frac12; inches in height has fallen from 25 per cent. to less than 8 per cent.
+			increased from 24.50 per cent to 47.50 since 1865, while the proportion of men less
+			than 5 feet 2 &frac12; inches in height has fallen from 25 per cent to less than 8 per cent.
 			When the Dutch Army was mobilized, the highest army standards showed that the men of the
 			proper age for the service were 95 per cent. efficient, according to the highest
 			standards. Contrast this with the example of the United States of America, where we were
-			shocked to discover that our men were only 65 per cent. efficient, and that with a
+			shocked to discover that our men were only 65 per cent efficient, and that with a
 			lowered military standard.</p>
-		<p>In many studies and investigations of this great problem I have paid several visits to
+		<p>In my studies and investigations of this great problem I have paid several visits to
 			Holland, both before and after the war, and my observations support these statistics.
 			All the children you see there are suitably dressed. In the working classes there is a
 			better personal and general hygiene, a fine moral and intellectual development. Morality
-			is also on the much higher level. Prostitution, with its train of devastating diseases,
-			is on the decline. Another great evidence, besides increased stature, is that the
+			is also on a much higher level. Prostitution, with its train of devastating diseases,
+			is on the decline. Another great evidence, besides increased stature, is that of the
 			constant increase in longevity. This is surely a test of physiological and financial
 			progress. From 1890 to 1899 the average length of the Dutchman's life was 46.20 years.
 			From 1900 to 1909 it was 51. These figures are equalled only by those from the <place
 				reg="Scandinavia">Scandinavian countries</place>, where Birth Control was advocated
 			and practiced even before it reached the Netherlands. It is also significant to point
-			out that none of the dread consequences feared by its opponents, the clericals, the
+			out that none of the dread consequences feared by its opponents, the clericalists, the
 			moralists and the militarists have occurred. In spite of a low birth rate, the
 			population of Holland is increasing. Undoubtedly this is because medical cooperation
 			enables the Dutch people to practice the most scientific and hygienic methods of Birth
@@ -249,7 +278,7 @@
 			at the behest of the State were well cared for and well educated; that they were sent
 			out into the world as highly efficient and valuable citizens. But the great difficulty
 			was, the protagonists of this philosophy admitted, that the State which had thus
-			invested in the health and efficiency of her children, was too often deprived fo their
+			invested in the health and efficiency of her children, was too often deprived of their
 			services by the narrow limits of her territory. She lost the fruits of their labors
 			because they were forced out by overcrowding; so that alien and rival countries reaped
 			the harvest of the German state's educational and cultural advantages. This, I believe,
@@ -265,7 +294,7 @@
 			pointed out that the underfeeding and overcrowding caused by large families was acting
 			as a deterioration upon the physique of the conscripts for the Army. The masses were
 			likewise beginning to see the light, although Birth Control was strenuously opposed by
-			the Social Democrats. At a great meeting in <place reg="Berlin, Germany">Berlin</place>;
+			the Social Democrats. At a great meeting in <place reg="Berlin, Germany">Berlin</place>,
 			August 29, 1913, <person reg="Luxemburg, Rosa">Rosa Luxemburg</person> and <person
 				reg="Zetkin, Clara">Clara Zetkin</person> tried to arouse the workers against the
 			"birth strike." The audience of 5,000 turned the meeting into a cry for Birth Control,
@@ -277,7 +306,7 @@
 			those European countries with a lower birth rate that have survived the conflict.
 				<place>France</place> is an example especially of this. Birth Control had for
 			decades been an ordinary and accepted practice in that country, growing out of the
-			French habit of emphasizing the value of <emph rend="italics)">quality</emph> in
+			French habit of emphasizing the value of <emph rend="italics">quality</emph> in
 			contrast to mere <emph rend="italics">quantity</emph>. The result of this had been prior
 			to the war, that the struggle for life in France had not been too intense, and the
 			people were permitted to enjoy the good things of the world. The result was a solidarity
@@ -299,7 +328,7 @@
 			aroused no interest at all. But into this "great melting-pot" flowed vast masses of
 			immigrants. In the eighteenth and nineteenth centuries the "New World" became the
 			receptacle into which flowed all the surplus populations of the Old World. With the
-			rapid development of machinery and vast railroad systems, great cities almost by magiv
+			rapid development of machinery and vast railroad systems, great cities almost by magic
 			sprang into existence. Population increased enormously, even more rapidly than Malthus
 			had imagined. And with this uncontrolled human fecundity came the great unconquered
 			problems of poverty, contagious and infectious diseases, epidemics, unemployment, labor
@@ -321,7 +350,7 @@
 		<p>When I began to search for the cause of the wide prevalence of the practice of abortion
 			among all classes of American women, I discovered that the laws of the United States
 			Government, as well as the laws of most of the separate states making up the Union,
-			forbade the circulation fo Birth Control knowledge, even by physicians and nurses. After
+			forbade the circulation of Birth Control knowledge, even by physicians and nurses. After
 			a visit to the various countries of Europe, investigating the conditions of mothers and
 			children, I returned to my own country to begin a campaign to educate the women of
 			America in racial hygiene and health.</p>
@@ -336,8 +365,8 @@
 			shops the various types of coffins for babies. These poor women are too ignorant perhaps
 			to understand the philosophy of Malthus and his modern followers. But they can and do
 			understand "Birth Control" because it is the direct answer to their immediate needs.
-			This is the reason why the w ords "Birth Control" swept over the vast <place
-				reg="North America">American Continent</place> from coast to coast, and Birth
+			This is the reason why the words "Birth Control" swept over the vast <place
+				reg="North America">American continent</place> from coast to coast, and Birth
 			Control Leagues were organized in all the great cities.</p>
 		<p>Although the laws forbidding the circulation of Birth Control information are still in
 			existence, they have for many years been ignored by the wealthy and intelligent upper
@@ -350,7 +379,7 @@
 		<p>In other directions, our campaign in the United States has stimulated a great interest in
 			the care of mothers and training of children. The western world which had long professed
 			horror and the ancient Oriental practice of exposing unwanted infants for the purpose of
-			their destruction has now been brought to a sharp realization that there is a
+			their destruction has now been brought to a sharp realization that there was a
 			justification of that action on the part of starving parents in a famine ridden country,
 			whereas there is no moral excuse for "the richest country in the world" to commit a
 			quarter of a million children to preventable death. Is not our crime greater? Spurred
@@ -362,15 +391,15 @@
 			States instead of better. Fourteen other nations are more advanced in this respect than
 			the United States of America. The philosophy and propaganda of Birth Control has
 			therefore done a great service in directing attention to a phase of human life that is
-			the central and primary importance to the world, and yet is now most exposed to disaster
+			of central and primary importance to the world, and yet is now most exposed to disaster
 			and risk.</p>
 		<p>It would be to neglect the most important phase of the philosophy of Birth Control, if,
 			before taking up its hygienic aspect, I neglected to touch upon its relation to modern
 			industry. Modern capitalism is desirous that kinetic overpopulation continue to provide
-			abundant labor for the employing classes and thus to keep down wage s,by the weight of a
+			abundant labor for the employing classes and thus to keep down wages, by the weight of a
 			large margin of unemployed. But there is an unsuspected danger here. The statistics of
-			the <org>Galton Laboratory for National Eugenics</org> shows us that the unemployed in a
-			generation or two are converted into the unemployable, and the dead weight on the
+			the <org>Galton laboratory for National Eugenics</org> shows us that the unemployed in a
+			generation or two are converted into the unemployable, and a dead weight on the
 			community and the capitalist. Nevertheless the manufacture of babies and the extent of
 			the supply of them still remains a matter of chance and passion very much as it is among
 			animals in the wild state. To organized labor and to the working classes the philosophy
@@ -383,9 +412,9 @@
 			is only too willing to blame the capitalist, not only for his own poverty, but for all
 			the misery of the world. But there is another cause; that is the reproductive instinct,
 			the uncontrolled fertility of living organisms. That created the first poverty. That
-			created the first famine. That goaded all the mankind into the present industrial
+			created the first famine. That goaded all of mankind into the present industrial
 			frenzy, into warfare and wandering and want and starvation, across seas into new lands.
-			the big battalions of babies have made of human life an endless burden of heavy work.
+			The big battalions of babies have made of human life an endless burden of heavy work.
 			The principle of restricting the number of mouths to be fed should be accepted as the
 			battle cry of labor and labor unions, who have always recognized and applied a like
 			principle in the conduct of their own organizations. In refusing to admit more than a
@@ -396,7 +425,7 @@
 			slavery is the inevitable consequence of the uncontrolled reproduction of new wage
 			slaves; and it will continue as long as wage slaves are ready and willing to create new
 			units to perpetuate the same miserable conditions.</p>
-		<p>Such, in brief in the historical and philosophic background from which Birth Control as a
+		<p>Such, in brief is the historical and philosophic background from which Birth Control as a
 			doctrine derives its astonishing and ever growing vitality. It has now reached the
 			scientific stage, drawing its strength and its arguments from facts and figures, from
 			scientific experience and precise statistics, rather than from the theory or philosophy
