@@ -3,7 +3,8 @@
 <doc type="Typed Draft Statement">
 	<mepHeader>
 		<prepDate>2014-05-02 JK initial tags</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-04-08 CH check tags again</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1947-01-07">07 Jan 1947</docDate>
 		<docTitle>
 			<titlePart>
@@ -14,9 +15,7 @@
 		<sourceDesc>
 			<bibl>Sripati Chandrasekhar Papers, Ward M. Canady Center for Special Collections,
 				University of Toledo.</bibl>
-			<bibl>
-				<title>OhUT:1</title>
-			</bibl>
+			
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -24,7 +23,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>No final version of this statement found.</p>
+		<p>This document was likely written by Sanger, despite the title. No final version was found.</p>
 		<index level1="Gandhi, Mohandas K."/>
 		<index level1="India" level2="MS on"/>
 		<index level1="India" level2="population policies of"/>
@@ -36,8 +35,7 @@
 		<index level1="India" level2="birth control movement in"/>
 	</headNote>
 	<docBody>
-		<head>I meet <person reg="Sanger, Margaret">Margaret Sanger.</person></head>
-
+		<head>I meet Margaret Sanger.</head>
 		<dateline>
 			<date value="1947-01-07 "/>7th January 1947</dateline>
 		<p><person reg="Mayo, Katherine">Katherine Mayo</person>’s book was, I am ashamed to
@@ -55,8 +53,8 @@
 		<p>I attended the <org>All-India Women's Conference</org> and realized that Indian women
 			were brilliant. There are some women whom no women in any part of the world who can
 			excel. The Indian Women Conference is better than the <org reg="League of Women Voters"
-				>American league of Women Voters</org> or the<org> American Association of
-				University Women</org> or for that any other womens organization in any part of the
+				>American league of Women Voters</org> or the <org>American Association of
+				University Women</org> or for that any other women's organization in any part of the
 			world. Unlike women in some parts of the world I found the Indian women most honest and
 			sincere. They had no preconceived notions or any inhibitions. They had courage and
 			forthright honesty. </p>
@@ -75,7 +73,7 @@
 			did not have a secretary and Gandhi wanted every word to be taken down when they
 			discussed Birth Control so that there may not be understanding and misquotation. </p>
 		<p>When I first met him I was surprised how homely he was but after an hour when we began to
-			talk about various things I realized what an illuminated soul he was-- something you
+			talk about various things I realized what an illuminated soul he was--something you
 			might call spiritualism he has. </p>
 		<p>Sir <person reg="Ramesam, Vepa">Vepa Ramesam</person>’s meeting in <place
 				reg="Madras, India">Madras</place> and how he conducted the meeting. India’s
@@ -109,7 +107,7 @@
 				>Kipling</person> sang about. he is perhaps one of the few great minds who
 			understands both the East and the West.</p>
 
-		<p><place>Russia</place> devised the method of injecting the woman once every six months and
+		<p><place reg="Soviet Union">Russia</place> devised the method of injecting the woman once every six months and
 			rendering them temporarily sterile. Didn’t really work out though. I was told in Russia
 			it was working with Russian women at that time. I brought the formula but it failed. </p>
 		<p>Shall be glad to donate some money if some Indian biochemist would like to pursue
