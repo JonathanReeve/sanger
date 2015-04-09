@@ -5,7 +5,9 @@
 		<prepDate>2011-07-22 NC</prepDate>
 		<prepDate>2014-07-03 CH clean regs</prepDate>
 		<prepDate>2015-04-08 CH check tags again</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1948-08-24">24 Aug 1948</docDate>
 		<docTitle>
 			<titlePart>
@@ -17,7 +19,7 @@
 			<bibl><title type="book">Proceedings of the International Congress on Population and
 					World Resources in Relation to Family</title>, August 24, 1948 (London: 1948),
 				pp.85-95</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S72:569</bibl>
+			<bibl><title type="mf">MSM</title>S72:0569</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -34,33 +36,33 @@
 		<p>Sanger's address to the <org>International Congress on Population and World Resources in
 				Relation to Family</org> was introduced by Lady <person reg="Denman, Gertrude"
 				>Gertrude Denman</person> who said in part <q who="DENGE">It was entirely owing to
-				Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>'s enthusiasm and
-				generosity that the present Congress had been called together. (Applause) She could
-				perhaps best sum up what they all felt and thought about Mrs. Margaret Sanger by
-				quoting from an American official document, which said that the <org>America Women's
-					Association</org> Medal was given to Mrs. Sanger "<q who="AWA">for her vision,
-					integrity and valour.</q>" No one could have a better tribute than
-			that.</q>.</p>
+				Mrs. Margaret Sanger's enthusiasm and generosity that the present Congress had been
+				called together. (Applause) She could perhaps best sum up what they all felt and
+				thought about Mrs. Margaret Sanger by quoting from an American official document,
+				which said that the <org>America Women's Association</org> Medal was given to Mrs.
+				Sanger "<q who="AWA">for her vision, integrity and valour.</q>" No one could have a
+				better tribute than that.</q>.</p>
 		<p>Sanger used this same address at the Pioneers Luncheon given by the <org
 				reg="Planned Parenthood Association of the Chicago Area">Planned Parenthood
 				Association</org> at the <org>Palmer House</org> in <place reg="Chicago, IL"
 				>Chicago</place>. This luncheon was the Opening Event of the 1950 Nationwide Planned
 			Parenthood Campaign.</p>
 		<p>For an slightly edited version, "Survey of the Birth Control Movement," published in
-			1948, see <title>Margaret Sanger Microfilm</title>, S72:590. </p>
+			1948, see <title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+			S72:590.</p>
 		<index level1="birth control" level2="international"/>
 		<index level1="birth control" level2="methods"/>
 		<index level1="birth control" level2="movement" level3="history of"/>
 	</headNote>
 	<docBody>
-		<head>Address by Mrs. Margaret Sanger</head>
+		<head>ADDRESS BY MRS. MARGARET SANGER</head>
 		<p>I am really quite moved tonight to have this reception, and terribly pleased. I thought
 			that the one reception last night was quite sufficient, but I am flattered by having a
 			special affair of this kind, and I thank the <org
 				reg="International Congress on Population and World Resources in Relation to Family, Conference Committee"
 				>Committee</org> very much for this honour. Although I was told that I must not do
 			much thanking, nevertheless I must say a word of thanks to a few friends who helped in
-			the beginning to get me going for this Congress -- Dr. <person reg="Blacker, C. P."
+			the beginning to get me going for this Congress--Dr. <person reg="Blacker, C. P."
 				>Blacker</person>, Dr. <person reg="Griffith, Edward Fyfe">Griffith</person>, Mr.
 				<person reg="Chance, Clinton F.">Chance</person> (who I regret is not here) and, of
 			course, always the <person reg="Guy, John Henry"><person reg="Guy, Gerda Sebbelov"
@@ -75,9 +77,9 @@
 			came to me I had an idea for doing it in a different way, and I got out a pamphlet on
 			150 years of birth control, from <person reg="Malthus, Thomas Robert">Malthus</person>
 			to <place reg="Cheltenham, England">Cheltenham</place>. I want to give the first copy to
-			Lord <person reg="Horder, Thomas">Horder</person>, and the next to Lady <person
-				reg="Denman, Gertrude">Denman</person>, and copies to all the speakers here; and all
-			the delegates will also have a special copy later. (Applause).</p>
+			Lord <person reg="Horder, Thomas">Horder</person>, and the next to Lady Denman, and
+			copies to all the speakers here; and all the delegates will also have a special copy
+			later. (Applause).</p>
 		<p>Having said that, and having given a summary of the movement in this pamphlet, I can now
 			ramble on.</p>
 		<p>There are just a few things for which I take credit in this great humanitarian movement,
@@ -122,19 +124,18 @@
 			them.</p>
 		<p>It was a serious matter; it was not just a question of threats. He sent people to jail.
 			An <person reg="Unidentified">editor</person> 70 years old was sent to the penitentiary
-			and put to hard labour, breaking rocks; his crime was editing a magazine -- I hope Dr.
-			Blacker will take note of this -- called the <title type="journal">Eugenics
-				Review</title>. In the end the public indignation was aroused by the arrest of a
-				<person reg="Unidentified">dealer</person> who had in his window a beautiful picture
-			of a little girl of about ten years of age, nude, with the sunlight in her hair,
-			standing in a stream. It was so beautiful that crowds gathered round the window to look
-			at it, and the Comstock agent arrested them and the bookseller. This aroused the wrath
-			of some of the friends of freedom, and it was not so easy for him to arrest people after
-			that.</p>
+			and put to hard labour, breaking rocks; his crime was editing a magazine--I hope Dr.
+			Blacker will take note of this--called the <title type="journal">Eugenics
+			Review</title>. In the end the public indignation was aroused by the arrest of a <person
+				reg="Unidentified">dealer</person> who had in his window a beautiful picture of a
+			little girl of about ten years of age, nude, with the sunlight in her hair, standing in
+			a stream. It was so beautiful that crowds gathered round the window to look at it, and
+			the Comstock agent arrested them and the bookseller. This aroused the wrath of some of
+			the friends of freedom, and it was not so easy for him to arrest people after that.</p>
 		<p>This was the situation when, as someone said, “<q who="UNK">Margaret Sanger came upon the
 				scene with three children in her arms and a wild look in her eye.</q>” I had the
-			children, and I had the wild look too, because I had been working among women -- poor,
-			depressed, forgotten women -- whose whole lives were lives of misery, who were asking
+			children, and I had the wild look too, because I had been working among women--poor,
+			depressed, forgotten women--whose whole lives were lives of misery, who were asking
 			people what they could do so as not to have another baby, because they had more children
 			than they could take care of, and perhaps their husbands were out of work, yet more and
 			more children came. Some mothers who had had large families were asking what to do to
@@ -230,8 +231,8 @@
 				Mrs. Sanger.</q>” I said “Oh, do you?” I would not promise not to do it; I said “As
 			long as there is a woman in the world that needs this information, I am afraid that I
 			shall have to give it to her.”</p>
-		<p>There was also an influential letter -- and I would here pay tribute to <person
-				reg="Stopes, Marie">Marie Stopes</person>, who initiated it -- with distinguished
+		<p>There was also an influential letter--and I would here pay tribute to <person
+				reg="Stopes, Marie C.">Marie Stopes</person>, who initiated it -- with distinguished
 			names from England, signed by the <person reg="Barnes, Ernest W.">Bishop of
 				Birmingham</person> and ten or twelve others, including H. G. Wells, whose name
 			meant a great deal in America. That was sent to the <person reg="Wilson, Woodrow"
@@ -277,7 +278,7 @@
 				reg="Russell, Bertrand">Bertrand Russell</person> was to speak on something or other
 			that I have forgotten; I was to speak on population and peace, and H.G. Wells was to
 			speak on reconstruction. When the time came, I was refused a visa by the <org
-				reg="Japan, Government of">Imperial Japanese Government</org> and was stopped in
+				reg="Japan Government">Imperial Japanese Government</org> and was stopped in
 				<place>California</place>. On the boat which I was to have taken there were 125 very
 			important Japanese coming from the <org reg="Washington Naval Conference">Washington
 				Disarmament Conference</org>, including admirals and high officials in the Japanese
@@ -296,10 +297,10 @@
 			and spent a great deal of time talking to the Japanese. I had a meeting with them in one
 			of the great saloons on the boat, and they asked questions. They tried to get me into
 			Japan, but it was difficult. The <person reg="Scidmore, George H.">American
-				Consul</person> -- as usually happens on these occasions -- was out of town and we
-			could not reach him, and so Americans had to turn to the <person
-				reg="Davidson, Colin J.">British Consul</person> to get them into Japan. He pulled
-			wires and arranged things, and I found that I was able to get into Japan after all. </p>
+				Consul</person>--as usually happens on these occasions--was out of town and we could
+			not reach him, and so Americans had to turn to the <person reg="Davidson, Colin J."
+				>British Consul</person> to get them into Japan. He pulled wires and arranged
+			things, and I found that I was able to get into Japan after all. </p>
 		<p>I had a wonderful reception; the women waited all day, from eight in the morning until
 			midnight, to receive me. It was very interesting and indeed symbolic to see the way in
 			which these Japanese women tried to express in English what this idea was going to mean
@@ -307,9 +308,9 @@
 				suffrage, but we are not interested. We have been hearing about women having
 				equality with men, but we do not care. But when we heard about birth control, like
 				the lightning, the Japanese women were on to that</q>,” I thought that that was very
-			expressive -- “like lightning,” That is what women all over the world want, all the
-			women of the world, everywhere; they want something which will allow them to take care
-			of their children and give them a decent upbringing. </p>
+			expressive--“like lightning,” That is what women all over the world want, all the women
+			of the world, everywhere; they want something which will allow them to take care of
+			their children and give them a decent upbringing. </p>
 		<p>In Japan, the officials took me to the police station and asked me what I was going to
 			say. I found that my books had been translated without my permission, and I asked them
 			how this had happened, but of course they never paid any attention to copyright rules;
@@ -322,16 +323,16 @@
 			control among fishes; it means people. I have come to talk to women about birth control,
 			and birth control means population.”</p>
 		<p>I had many private meetings. I think that the only public one which they would allow was
-			in the <org reg="Young Mens Chrisitan Association">Y.M.C.A.</org> which was again almost
-			private. I never met a more alive and enthusiastic audience anywhere in the world. They
-			felt and they knew what was happening; they knew that the militarists were trying to
-			clutch the people. This was in 1921, and even then there was this feeling. One editorial
-			on the subject said “<q who="UNK">The doors of the world have been shut in our faces. We
-				will open them when we have a hundred million people. Might will make Right, and we
-				will pay back that insult.</q>” That was in 1921. They were very bitter about the
-			law that had been passed in the United States to bar Asiatics. The Japanese had found
-			very fertile soil in California, and had hoped to send more and more of their surplus
-			population there. </p>
+			in the <org reg="Young Men's Chrisitan Association">Y.M.C.A.</org> which was again
+			almost private. I never met a more alive and enthusiastic audience anywhere in the
+			world. They felt and they knew what was happening; they knew that the militarists were
+			trying to clutch the people. This was in 1921, and even then there was this feeling. One
+			editorial on the subject said “<q who="UNK">The doors of the world have been shut in our
+				faces. We will open them when we have a hundred million people. Might will make
+				Right, and we will pay back that insult.</q>” That was in 1921. They were very
+			bitter about the law that had been passed in the United States to bar Asiatics. The
+			Japanese had found very fertile soil in California, and had hoped to send more and more
+			of their surplus population there. </p>
 		<p>When in Japan I had a cable from China, from Mr. <person reg="Shih, Hu">Hu-Shih</person>,
 			who later became Ambassador to the United States. Bertrand Russell had been there and
 			had upset their family life considerably with new ideas, and I came along with this one
@@ -350,7 +351,7 @@
 			Portuguese missionaries who walked out of the Congress of the <org>All India Women’s
 				Conference</org>. Of all the women of the world, I have never met finer and more
 			intelligent women than I found in India, and there is no question about that.
-			(Applause). I visited <person reg="Gandhi, Mohandas">Gandhi</person>, who did not
+			(Applause). I visited <person reg="Gandhi, Mohandas K.">Gandhi</person>, who did not
 			believe in so-called “artificial” birth control; he believed in separation of husband
 			and wife after they had had a number of children. He believed that <place>India</place>
 			was over-populated, and he knew that this was one great cause of misery and poverty, but
@@ -379,13 +380,13 @@
 				>Friedrichshafen</place>, near <place>Switzerland</place>, who had prepared this
 			contraceptive jelly, but he would not give us the formula or tell us anything that was
 			in it; he regarded it as something not to be disclosed. However, after a little
-			persuasion -- I did not leave the place for about three days, and finally I broke him
-			down -- he said he would send some to a relative of his in New York. It was specific for
+			persuasion--I did not leave the place for about three days, and finally I broke him
+			down--he said he would send some to a relative of his in New York. It was specific for
 			venereal disease, and so we could get it in. We straightened things out with the
 			relative and found out all about it. </p>
-		<p>From that time until now -- and this is what is so appalling -- those two things, the
-			jelly and the diaphragm, have been the only things known. It seems absurd to me that we
-			have been able to discover and make the atomic bomb and yet we have not yet got a really
+		<p>From that time until now--and this is what is so appalling--those two things, the jelly
+			and the diaphragm, have been the only things known. It seems absurd to me that we have
+			been able to discover and make the atomic bomb and yet we have not yet got a really
 			simple, good and harmless contraceptive. (Applause). </p>
 		<p>I think that that is the end of this story. I have rambled on, but I should like to end
 			by saying this. I think that one of the most important things for us is to realise the
