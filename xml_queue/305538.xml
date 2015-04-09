@@ -8,16 +8,20 @@
 		<prepDate>2003-07-28 CH</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2014-11-13 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1921-08-00"> Aug 1921</docDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-09 EK correct proof and update index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-08-00">Aug 1921</docDate>
 		<docTitle>
 			<titlePart>Birth Control--Past, Present and Future</titlePart>
 		</docTitle>
 		<idno>msp305538</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>Aug. 1921, pp. 19-20</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>,
-				C16:181</bibl>
+			<bibl><title type="journal">Birth Control Review </title> Aug. 1921, pp. 19-20</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
+				C16:0181</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,26 +29,28 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Third in a three-series of same title. For preceding articles, see <xref
-				from="305249.xml">June</xref> and <xref from="307665.xml">July</xref> issues of
-				<title>Birth Control Review</title>, 1921.</p>
-		<index level1="abortion" level2="health risks of"/>
-		<index level1="abortion" level2="birth control vs."/>
-		<index level1="birth control" level2="health benefits of"/>
-		<index level1="birth control" level2="opposition to"/>
-		<index level1="overpopulation" level2="MS on"/>
-		<index level1="overpopulation" level2="threat to peace as"/>
+		<p>This is the last in a three-series of same title. For preceding articles, see <xref
+				from="305249.xml">June 1921</xref> and <xref from="307665.xml">July 1921</xref>.</p>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="laws and legislation"/>
+		<index level1="overpopulation" level2="effects of"/>
+		<index level1="birth rate" level2="differential"/>
+		<index level1="unfit to reproduce"/>
+		<index level1="unfit to reproduce" level2="as social burdens"/>
+		<index level1="birth control" level2="neo-Malthusian arguments for"/>
+		<index level1="overpopulation" level2="and war"/>
 	</headNote>
 	<docBody>
-		<head>Birth Control--Past, Present and Future</head>
-		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person> (concluded from July
-			issue)</byline>
+		<head>BIRTH CONTROL--PAST, PRESENT AND FUTURE</head>
+		<byline><emph rend="italics">By Margaret Sanger</emph></byline>
+		<p><emph rend="italics">(Concluded from July Issue)</emph></p> 
 		<p>Opponents of Birth Control have often objected to this practice on the ground that it was
 			injurious to the health of the woman who practices it, and that it often renders the
 			woman sterile. This accusation is untrue. It grows out of the confusion between Birth
 			Control and abortion. Repeatedly performed abortions, it has been proven, may have the
 			most injurious effect on women and may render them sterile. Abortion is dangerous alike
-			to the mother and the child. It is a practice that must be combatted with all the
+			to the mother and the child. It is a practice that must be combated with all the
 			weapons at our command. Abortions often produce inflammations and dangerous infections.
 			Often they are unsuccessful, especially when an unfortunate woman attempts to induce
 			them herself. The result is often a permanent injury to the child.</p>
@@ -56,7 +62,7 @@
 			foresight in the determination of conception and increased knowledge of the means of
 			preventing conception. In addition there must be awakened a great social valuation of
 			mothers and children. There can be no doubt that in many charges of criminal abortion
-			the real offence lies at the door of those who fail to exercise their social and
+			the real offenSe lies at the door of those who fail to exercise their social and
 			professional duty in making known the more natural and hygienic methods of Birth
 			Control, and who in their blind servility to the customs of the past are committing
 			irreparable crimes against the future of the race.</p>
@@ -93,7 +99,7 @@
 		<p>In the great problems of the future, in the programs of reconstruction and re-creation of
 			human society, of what importance is the problem of Birth Control? My readers of the
 				<place reg="Asia">Orient</place> may well ask this question. Our answer is definite:
-			None of te problems of the future of humanity can be solved at all, I must assert with
+			None of tHe problems of the future of humanity can be solved at all, I must assert with
 			all the emphasis at my command, unless they are solved scientifically. Too long have we
 			attempted to advance and better poor struggling humanity upon the basis of politics, of
 			sentiment, or of religions. Each of these has dismally failed. You may act according to
@@ -114,15 +120,15 @@
 			national aims; and much will be done toward the elimination of waste and war. The
 			strength and wealth of a country are to be sought, not in mere numbers, but in the
 			number of self-reliant and independent men and women, who have physical, intellectual
-			and productive value. Is there any more truly patriotic doctrine? Put into effect the
+			and productive value. Is there any more truly patriotic doctrine? Put into effect, the
 			world over, Birth Control would make possible the growth and intensive development of
 			happy nations. Without it, no <org>League of Nations</org> can ever eliminate
 			contentions and war. Birth Control is the only true foundation of national strength and
 			security.</p>
 		<p>The critics of Birth Control never tire of condemning this doctrine as negative,
 			destructive, dysgenic, and conducive to "race suicide." Statistics prove the contrary.
-			The population of <place reg="Netherlands">Holland</place> is increasing. The stature is
-			increasing. It is likewise evident that Birth control is, wherever practised, correlated
+			The population of <place reg="Netherlands, the">Holland</place> is increasing. The stature is
+			increasing. It is likewise evident that Birth Control is, wherever practiced, correlated
 			with personal hygiene and cleanliness, with individual responsibility and intelligence.
 			It awakens a new interest in, and heightens the social and racial value of, fewer but
 			better children. It decreases the infant mortality rate; it increases the survival rate.
