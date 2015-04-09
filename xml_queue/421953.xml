@@ -9,7 +9,9 @@
 		</docAuthor>
 		<docDate value="1946-00-00">1946</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control, 1945</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control, 1945</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421953</idno>
 		<sourceDesc>
@@ -24,7 +26,7 @@
 		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
 			see <xref from="320973.xml"><title type="article">Birth Control, 1941</title></xref>;
 			<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
-			<xref from="320974.xml"><title type="article">Birth Control, 1943</title></xref>;
+			<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
 			<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
 			<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
 			<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
@@ -145,9 +147,10 @@
 			org system carried important annual meeting speakers. The <org
 				reg="Mutual Broadcasting System">Mutual Broadcasting system</org> requested a
 			speaker to discuss <title type="book">“The Soldier Takes a Wife”</title> during a
-			national news cast. The <org reg="Houston Maternal Health Center"><place reg="Houston, TX">Houston (Texas)</place> Maternal
-				health centre</org> produced a 15 minute transcription which is available to all
-			planned parenthood groups for local broadcast. </p>
+			national news cast. The <org reg="Houston Maternal Health Center"><place
+					reg="Houston, TX">Houston (Texas)</place> Maternal health centre</org> produced
+			a 15 minute transcription which is available to all planned parenthood groups for local
+			broadcast. </p>
 		<p>International. -Interest in planned parenthood showed new gains throughout the world with
 			the ending of World War II. In <place>England</place>, governmental inquiries disclosed
 			that economic and national insecurity, not the knowledge of birth control, was the
