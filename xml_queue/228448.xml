@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Statement">
+	<mepHeader>
+		<prepDate>2011-08-05 NC</prepDate>
+		<prepDate>2014-03-26 CH clean regs</prepDate>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1952-02-08">
+			<supplied resp="MSPP">08 Feb 1952</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Message to Planned Parenthood Association Chicago
+					Area</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp228448</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S77:67</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger dictated this message by phone to <person reg="McKinnon, Edna">Mrs. Edna
+				McKinnon</person> to be read at the annual meeting of <org>Planned Parenthood
+				Association Chicago Area</org>.</p>
+		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
+	</headNote>
+	<docBody>
+		<head>Long distance call to Mrs. Edna McKinnon-</head>
+		<p>Message for Annual meeting-Chicago-</p>
+		<p> Please convey my congratulations to the Chicago Planned Parenthood Association on the
+			splendid work accomplished. Greater horizons and greater efforts will be presented to
+			your group by Dr. <person reg="Stone, Abraham">Stone</person>. The entire world, and in
+			particular <place>Asia</place>, looks to us to lead them toward a planned population on
+			the road to International peace.</p>
+		<p>Your loyal supporters have helped us endure the struggles, discouragements and kept the
+			movement advancing against religious intolerance and dogmas. More than forty-three
+			countries throughout the world now have inspiring groups ready to work provided they
+			have films, literature, translations. The movement has been maintained through tincup
+			contributions, comparatively pennies. Today the world movement demands larger concepts,
+			and efforts. We must now think in terms of millions if we would help maintain a balanced
+			world population and ultimately world peace.</p>
+		<p> Margaret Sanger </p>
+	</docBody>
+</doc>
