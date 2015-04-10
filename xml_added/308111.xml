@@ -6,7 +6,8 @@
 		<prepDate>2012-04-04 CH Proofed Tags</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-02-24 CH clean error</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1954-00-00">
 			<supplied resp="MSPP">1954</supplied>
 		</docDate>
@@ -19,7 +20,7 @@
 		<idno>msp308111</idno>
 		<sourceDesc>
 			<bibl>Abraham Stone Papers, Countway Library of Medicine, Harvard University</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:1045</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -27,7 +28,7 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">
+	<headNote resp="MSPP"><p>No published version was found.</p>
 		<index level1="infertility"/>
 		<index level1="Margaret Sanger Research Bureau"/>
 	</headNote>

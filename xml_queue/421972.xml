@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2014-06-25 CH proofed </prepDate>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1953-04-08">08 Apr 1953</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement about Contraceptive Tea</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp421972</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger Forecasts Use of Tea for Birth Control</title>,
+					<title type="journal">El Paso Herald Post</title>, Apr. 9, 1953</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="EPHP">El Paso Herald Post</name>
+			<name id="UNK">Unknown</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="family planning, principles of"/>
+		<index level1="Sanger, Margaret" level2="descriptions of"/>
+		<index level1="Sanger, Margaret" level2="nursing and"/>
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="birth control movement" level2="international"/>
+		<index level1="Planned Parenthood Federation of America"/>
+		<index level1="planned parenthood"/>
+	</headNote>
+	<docBody>
+		<head>Mrs. Sanger Forecasts Use of Tea for Birth Control</head>
+		<div type="section">
+			<p><q who="EPHP">Women may soon be able to prevent pregnancy by drinking a cup of tea
+					brewed from a Southwestern shrub, Mrs. Margaret Sanger, founder of the birth
+					control movement, believes.</q></p>
+			<p>"Birth control tea is now one of the major research projects," <q who="EPHP">Mrs.
+					Sanger said at the <org reg="El Paso Planned Parenthood Center">Planned
+						Parenthood Center</org> at 1926 Arizona street.</q></p>
+			<p><q who="EPHP">She arrived here yesterday from her home in <place reg="Tucson, AZ"
+						>Tucson</place> to confer with <place reg="El Paso, TX">El Paso</place>
+					Planned Parenthood officials.</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">Indians Use It</head>
+			<p>"Birth control tea is made from a shrub called the gromlin," <q who="EPHP">Mrs.
+					Sanger said.</q> "The Navajo Indians have used it for many years. This shrub, a
+				cousin to the forget-me-not, is now being tried out in England, under scientific
+				auspices."</p>
+			<p>"We think it works by making the ovum resistant to pregnancy. But it is still in the
+				experimental stage.</p>
+			<p><q who="EPHP">The tea is one of four new birth control drugs undergoing experiment,
+					Mrs. Sanger disclosed. The others are secret formula pills, hormones, and
+					injections.</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">Easier and Cheaper</head>
+			<p>"None of these will be recommended for general use until they are proven effective
+				and harmless,"<q who="EPHP"> she said.</q> "They may replace current contraceptive
+				techniques providing temporary sterility and making it easier and cheaper for poor
+				people to practice planned parenthood."</p>
+			<p><q who="EPHP">Mrs. Sanger said she was amazed and encouraged at Progress made in
+					birth control in <place>Japan</place> and <place>India</place>, where she
+					visited last year. In both countries the governments are financing birth control
+					clinics, <org reg="India Government">India</org> having allotted $1.3 million
+					for the work in 1953, she added.</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">Japan and India</head>
+			<p>"I predict that Japan and India will solve their birth control problem before we do,"
+					<q who="EPHP">Mrs. Sanger said.</q> "In those countries it is the masses who
+				most need it, who have had no birth control. The present movement reaches the
+				masses."</p>
+			<p><q who="EPHP">At last year's <org
+						reg="International Conference on Planned Parenthood, 3rd">international PP
+						conference</org> in <place reg="Bombay, India">Bombay</place> Mrs. Sanger
+					was named president of the <org
+						reg="International Planned Parenthood Federation">world federation</org> for
+						<place>North America</place>, and <person reg="Rama Rau, Dhanvanthi">Lady
+						Rama Rau</person>, who is planning a <place reg="United States">U.S.</place>
+					visit, was named president for the <place reg="Asia">Orient</place>.</q></p>
+			<p><q who="EPHP">In El Paso Mrs. Sanger was greeted by <person reg="Harvey, Mrs. C. M."
+						>Mrs. C. M. Harvey</person>, an El Paso board member who arranged the noted
+					birth control advocate's first speech in El Paso 16 years ago.</q></p>
+			<p><q who="EPHP">She also conferred with <person reg="Price, Winifred">Mrs. David
+						Price</person>, executive board president, and other officials. She was a
+					guest of <person reg="Goetting, Betty-Mary">Mrs. Charles Goetting</person>,
+					honorary president. The need for erecting a new clinic in El Paso was
+					discussed.</q></p>
+		</div>
+	</docBody>
+</doc>

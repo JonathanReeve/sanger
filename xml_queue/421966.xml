@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2014/06/26 MM</prepDate>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1953-01-10">10 Jan 1953</docDate>
+		<docTitle>
+			<titlePart>Statement to the Tuscon Planned Parenthood Annual Fundraising
+				Drive</titlePart>
+		</docTitle>
+		<idno>msp421966</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Slee is Honored Speaker</title>, <title type="journal"
+					>Tuscon Daily Citizen</title>, Jan. 10, 1953</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><index level1="Planned Parenthood Federation of America"/></headNote>
+	<docBody>
+		<head>Mrs. Slee is Honored Speaker</head>
+		<p>"The conducting, co-ordinating, and promoting of scientific research in the field of
+			human reproduction must take precedence over all other projects planned and supported by
+			the Planned Parenthood Federation of America," <q who="TDC">stated Mrs. Margaret Sanger Slee,
+			speaking to the campaign workers for the Tuscon Planned Parenthood clinic's annual fund
+			raising drive.</q></p>
+	</docBody>
+</doc>

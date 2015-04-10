@@ -5,36 +5,39 @@
 		<prepDate>2011/06/06 CE</prepDate>
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1953-04-08">08 Apr 1953</docDate>
 		<docDate value="1953-00-00">1953</docDate>
 		<docTitle>
-			<titlePart>Birth Control, 1952</titlePart>
+			<titlePart><supplied resp="MSPP">Birth Control, 1952</supplied></titlePart>
 		</docTitle>
 		<idno>msp320984</idno>
 		<sourceDesc>
-			<bibl><title type="book">Britannica Book of the Year</title>(1953), p. 106</bibl>
+			<bibl><title type="book">Britannica Book of the Year</title> (1953), p. 106</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
 			see <xref from="320973.xml"><title type="article">Birth Control, 1941</title></xref>;
-			<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
-			<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
-			<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
-			<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
-			<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
-			<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
-			<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
-			<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
-			<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
-			<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
-			<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
-			<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
-			<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
-			<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
-			<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
-			<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
-		<p>For typed draft of the article, see MSM S72:733</p>
+				<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
+				<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
+				<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
+				<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
+				<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
+				<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
+				<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
+				<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
+				<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
+				<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
+				<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
+				<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
+				<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
+				<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
+				<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
+				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
+		<p>For typed draft of the article, see Margaret Sanger Microfilm, Smith College Collections
+			S72:733.</p>
 		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
 		<index level1="birth control" level2="international"/>
 		<index level1="birth control" level2="international conferences on"/>
@@ -62,8 +65,8 @@
 			<p><person reg="Stone, Abraham">Abraham Stone</person>, vice-president of the
 					<org>Planned Parenthood Federation of America</org>, returned during the year
 				from <place>India</place> where he had established a pilot project in the rhythm
-				method of birth control under auspices of the <org>Indian government</org> and
-					<org>World Health organization</org>. The clinical studies that Stone initiated
+				method of birth control under auspices of the <org reg="India Government">Indian government</org> and
+					<org reg="United Nations World Health Organization">World Health organization</org>. The clinical studies that Stone initiated
 				in <place reg="New Delhi, India">New Delhi</place> and the states of <place
 					reg="Mysore, India">Mysore</place>, <place reg="Madras, India">Madras</place>
 				and <place reg="West Bengal, India">West Bengal</place> continued under the
@@ -71,7 +74,7 @@
 				request of W.H.O.</p>
 			<p>The first <org reg="International Conference on Planned Parenthood, 3rd">World
 					Conference on Planned Parenthood</org> to be held in the far east took place in
-					<place reg="Bombay, India">Bombay</place>, India, Nov. 24-Dec. 1, 1952,
+				<place reg="Bombay, India">Bombay, India</place>, Nov. 24-Dec. 1, 1952,
 				initiated by the <org>International Committee on Planned Parenthood</org> whose
 				headquarters were in <place reg="London, England">London</place>. Physicians,
 				demographers and scientists from <place>Asia</place>, <place>Europe</place> and the
@@ -82,8 +85,7 @@
 				planned parenthood organizations. The conference, which was held under the auspices
 				of the <org reg="Family Planning Association of India">Indian Family Planning
 					Association</org>, had <person reg="Rama Rau, Dhanvanthi">Lady Rama
-				Rau</person>, association president, as its chairman. Mrs. <person
-					reg="Sanger, Margaret">Margaret Sanger</person>, founder of the birth control
+				Rau</person>, association president, as its chairman. Mrs. Margaret Sanger, founder of the birth control
 				movement, who spearheaded the establishment of the International committee in 1948,
 				was director of the American division of the conference.</p>
 			<p>The first international birth control publication, <title type="journal">News of
@@ -96,7 +98,7 @@
 			<head type="sub">Research.–</head>
 			<p>The urgent need for simpler and less expensive methods of fertility control led to
 				the federation’s establishment of the position of research director, and the
-				appointment of <person reg="Henshaw, Paul Stewart">Paul Henshaw</person>, an
+				appointment of <person reg="Henshaw, Paul S.">Paul Henshaw</person>, an
 				experimental biologist, to the post, in order to expedite, co-ordinate, conduct and
 				promote research in the field of fertility and sterility. Henshaw carried out a
 				survey on the potentialities of the physiologic control of fertility, which revealed
