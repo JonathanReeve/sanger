@@ -8,20 +8,20 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1921-09-00"><supplied resp="MSPP">Sep</supplied> 1921</docDate>
+		<docDate value="1921-09-00"><supplied resp="MSPP">Sept</supplied> 1921</docDate>
 		<docTitle>
 			<titlePart>The Limitations of Eugenics</titlePart>
 		</docTitle>
 		<idno>msp129009</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 130:44.</bibl>
+			<bibl>Library of Congress Microfilm, LCM 130:0044.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="GALFR"> Galton, Francis </name>
 			<name id="PEAKA"> Pearson, Karl </name>
-			<name id="TREAF"> Tregold, A.F. </name>
+			<name id="TREAL"> Tregold, Alfred Frank</name>
 			<name id="MAREV"> Martin, Everett Dean</name>
 			<name id="IREAL"> Ireland, Alleyne</name>
 			<name id="BROFR"> Browne, Frances Worsley Stella </name>
@@ -32,21 +32,33 @@
 			<name id="BLAWI">Blake, William</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">This paper was most likely prepared for the <org
-			reg="International Congress on Eugenics, 2nd">Second International Congress on
-			Eugenics</org>, held on September 23, 1921. A notation by Sanger on the top of the first
-		page remarks that it was "refused." For a nearly identical version, see <title type="book"
-			>Pivot of Civilization</title>, Chapter VIII: <title type="article">Dangers of Cradle
-			Competition</title>. For related document see "<xref from="238946"><title type="article"
-				>The Eugenic Value of Birth Control Propaganda</title></xref>," October 1921.<index
-			level1="eugenics" level2="MS on"/>
-		<index level1="eugenics" level2="criticisms of"/>
+	<headNote resp="MSPP"><p>This paper was most likely prepared for the <org
+				reg="International Congress on Eugenics, 2nd">Second International Congress on
+				Eugenics</org>, held on September 23, 1921. A notation by Sanger at the top of first
+			page reads" "refused." A version of this article was published as chapter VIII: <title
+				type="article">Dangers of Cradle Competition</title> in Sanger's book, <title
+				type="book">Pivot of Civilization</title> (1922).</p>
+		<index level1="eugenics" level2="and birth control"/>
+		<index level1="eugenics" level2="MS on"/>
 		<index level1="eugenics" level2="negative"/>
+		<index level1="eugenics" level2="opposition to"/>
 		<index level1="eugenics" level2="positive"/>
+		<index level1="race suicide"/>
+		<index level1="race progress"/>
+		<index level1="mentally diseased or disabled" level2="fertility of"/>
+		<index level1="mentally diseased or disabled" level2="unfit to reproduce"/>
+		<index level1="physically diseased or disabled" level2="and birth control"/>
+		<index level1="unfit to reproduce" level2="definitions of"/>
+		<index level1="unfit to reproduce" level2="MS on"/>
+		<index level1="fertility rates"/>
+		<index level1="marriage" level2="and procreation"/>
+		<index level1="heredity" level2="and criminality"/>
+		<index level1="heredity" level2="and disease"/>
+		<index level1="Sanger, Margaret" level2="books" level3="Pivot of Civilization"/>
 	</headNote>
 	<docBody>
 		<head>
-			<emph rend="underline"> The Limitations of Eugenics</emph>
+			<emph rend="underline">THE LIMITATION OF EUGENICS</emph>
 		</head>
 		<p>Eugenics has been defined as "<q who="GALFR"> the study of agencies under social control
 				that may improve or impair the racial qualities of future generations, either
@@ -61,11 +73,12 @@
 			women. Eugenics is the attempt to solve the problem from the biological and evolutionary
 			point of view. You may ring the changes possible on "Nurture" or environment, the
 			Eugenist might say to the Socialist, but comparatively little can be effected until you
-			control the biological and hereditary elements of the problem. Eugenics [thus aims to]
-			crystallize the tendency to seek out the root of our trouble, to study humanity as a
-			kinetic, dynamic, evolutionary organism, shifting and changing with the successive
-			generations, rising and falling, cleansing itself of inherent defects, or sinking into
-			degeneration and deterioration under adverse and dysgenic influences.</p>
+			control the biological and hereditary elements of the problem. Eugenics
+				<unclear>thus</unclear> aims to crystallize the tendency to seek out the root of our
+			trouble, to study humanity as a kinetic, dynamic, evolutionary organism, shifting and
+			changing with the successive generations, rising and falling, cleansing itself of
+			inherent defects, or sinking into degeneration and deterioration under adverse and
+			dysgenic influences.</p>
 		<p>The term "<q who="GALFR"> Eugenics</q>" was first used by Sir <person
 				reg="Galton, Francis">Francis Galton</person> in his "<title type="book">Human
 				Faculty</title>" in 1884, and was subsequently developed into a scientific method
@@ -78,16 +91,17 @@
 			attempt to bring reason and intelligence to bear upon <emph rend="underline">
 				heredity</emph>. But Galton, in spite of the immense value of this approach and his
 			great stimulation of criticism, was completely unable to formulate a definite and
-			practical working program. He hoped at length to introduce Eugenics "<q who="GALFR">
-				into the national conscience like a new religion. . . . I see no impossibility in
-				Eugenics becoming a religious dogma among mankind, but its details must be worked
-				out sedulously in the study. Over-zeal leading to hasty action would do harm, by
-				holding out expectations of a new golden age, which will certainly be falsified and
-				cause the science to be discredited. The first and main point is to secure the
-				general intellectual acceptance of Eugenics as a hopeful and most important study.
-				Then let its principles work into the heart of the nation, who will gradually give
-				practical effect to them in ways that we may not wholly foresee.</q> "Galton. <title
-				type="book">Essays in Eugenics</title>: p.43.</p>
+			practical working program. He hoped at length to introduce Eugenics</p>
+		<p rend="blockquote">"<q who="GALFR"> into the national conscience like a new religion. . .
+				. I see no impossibility in Eugenics becoming a religious dogma among mankind, but
+				its details must be worked out sedulously in the study. Over-zeal leading to hasty
+				action would do harm, by holding out expectations of a new golden age, which will
+				certainly be falsified and cause the science to be discredited. The first and main
+				point is to secure the general intellectual acceptance of Eugenics as a hopeful and
+				most important study. Then let its principles work into the heart of the nation, who
+				will gradually give practical effect to them in ways that we may not wholly
+				foresee.</q>
+			<note n="1">Galton. <title type="book">Essays in Eugenics</title>: p. 43.</note></p>
 		<p>Galton formulated a general law of inheritance which declared that an individual receives
 			one-half of his inheritance from his two parents, one-fourth from his four grandparents,
 			one-eighth from his great-grandparents, one-sixteenth from his sixteen
@@ -106,9 +120,10 @@
 		<p>But the problem of human heredity is now seen to be infinitely more complex than imagined
 			by Galton and his followers, and the optimistic hope of elevating Eugenics to the level
 			of a religion is a futile one. Most of the Eugenists, including Professor <person
-				reg="Pearson, Karl">Karl Pearson</person> and his colleagues of the <org
-				reg="University of London, Eugenics Laboratory">Eugenics Laboratory of the
-				University of London</org> and of the biometric laboratory in <org>University
+				reg="Pearson, Karl">Karl Pearson</person> and his colleagues of the Eugenics
+			Laboratory of the <org reg="University College London">University of London</org> and of
+			the biometric laboratory in <org reg="University
+				College London">University
 				College</org>, have retained the age-old point of view of "nature vs. Nurture," and
 			have attempted to show the predominating influence of Heredity <emph rend="underline">as
 				opposed to</emph> Environment. This may be true; but demonstrated and repeated in
@@ -119,16 +134,16 @@
 			generalization, but in statistical studies, of investigations reduced to measurement and
 			number, that uncontrolled fertility is universally correlated with disease, poverty,
 			overcrowding and the transmission of heritable taints. Professor Pearson and his
-			associates show us that <q who="PEAKA">if fertility be correlated with anti-social
+			associates show us that "<q who="PEAKA">if fertility be correlated with anti-social
 				hereditary characters, a population will fairly degenerate</q>." This degeneration
 			has already begun. Eugenists are right in pointing out the fact that medical surveys
 			reveal the fact that two-thirds of our manhood of military age are physically too unfit
 			to shoulder a rifle; that the feeble-minded, the syphilitic, the irresponsible and the
 			defective breed unhindered; that women are driven into factories and shops on day shift
-			and night shift, that children frail carriers of the torch of life, are put to work at
+			and night shift, that children, frail carriers of the torch of life, are put to work at
 			an early age, that society at large is breeding an ever-increasing army of undersized,
 			stunted and dehumanized slaves; that the vicious circle of mental and physical defect,
-			delinquency, and beggary is encourage, by the unseeing and unthinking sentimentality of
+			delinquency, and beggary is encouraged, by the unseeing and unthinking sentimentality of
 			our age, to populate asylum, hospital and prison.</p>
 		<p>All these things the Eugenist sees and points out with a courage and bravery entirely
 			admirable. But when it comes to a constructive program of redemption, orthodox Eugenics
@@ -138,38 +153,40 @@
 			the unbalance, the great biological menace to the future of civilization. Are we headed
 			to biological destruction, toward the gradual but certain attack upon the stocks of
 			intelligence and racial health by the sinister forces of the over-fecund and
-			irresponsible hords of irresponsible and imbecility? This is not such a remote danger as
-			the optimistic Eugenist might suppose. The mating of the moron with a person of sound
-			stock may, as Dr. <person reg="Tredgold, A. F."> Tredgold</person> points out, gradually
-			disseminate this trait far and wide until it undermines the vigor and efficiency of an
-			entire nation and an entire race. This is no idle fancy. We must take it into account if
-			we wish to escape the fate that has befallen so many civilizations in the past. "<q>It
-				is indeed,</q>" states Dr. Tredgold,Eugenics Review. Vol. XIII. p.349. "<q
-				who="TREAF"> more than likely that the presence of this impairment in a mitigated
-				form is responsible for no little of the defective character, the diminution of
-				mental and moral fibre......which are only too common at the present day.</q>" Such
-			populations, this distinguished authority might have added, <emph rend="underline">form
-				the veritable</emph> "cultures"not only for contagious physical diseases but of
-			mental instability and irresponsibility also. They are susceptible, exploitable,
-			hysterical, non-resistant to external suggestion. Devoid of stamina, such fold become
-			mere units in a mob. "<q>The habit of crowd-making is daily becoming a more serious
-				menace to civilization...</q>" writes <person reg="Martin, Everett Dean">Everett
-				Dean Martin</person>, "<q who="MAREV"> Our society is becoming a veritable babble of
-				gibbering crowds.</q>"Cf. The Behaviour of Crowds. By Everett Dean Martin. It would
-			be only the incorrigible optimist who refused to see the integral relationship between
-			this phenomenon and the indiscriminate breeding by which we recruit our large
+			irresponsible hordes of irresponsible and imbecility? This is not such a remote danger
+			as the optimistic Eugenist might suppose. The mating of the moron with a person of sound
+			stock may, as Dr. <person reg="Tredgold, Alfred Frank">Tredgold</person> points out,
+			gradually disseminate this trait far and wide until it undermines the vigor and
+			efficiency of an entire nation and an entire race. This is no idle fancy. We must take
+			it into account if we wish to escape the fate that has befallen so many civilizations in
+			the past. "<q>It is indeed,</q>" states Dr. Tredgold, <note n="2"><title type="journal"
+					>Eugenics Review.</title> Vol. XIII. p. 349.</note> "<q who="TREAL"> more than
+				likely that the presence of this impairment in a mitigated form is responsible for
+				no little of the defective character, the diminution of mental and moral fibre. . .
+				.which are only too common at the present day.</q>" Such populations, this
+			distinguished authority might have added, form the veritable "cultures"not only for
+			contagious physical diseases but of mental instability and irresponsibility also. They
+			are susceptible, exploitable, hysterical, non-resistant to external suggestion. Devoid
+			of stamina, such folk become mere units in a mob. "<q>The habit of crowd-making is daily
+				becoming a more serious menace to civilization. . .</q>" writes <person
+				reg="Martin, Everett Dean">Everett Dean Martin</person>, "<q who="MAREV">Our society
+				is becoming a veritable babble of gibbering crowds.</q>" <note n="3">Cf. <title
+					type="book">The Behaviour of Crowds.</title> By Everett Dean Martin.</note> It
+			would be only the incorrigible optimist who refused to see the integral relationship
+			between this phenomenon and the indiscriminate breeding by which we recruit our large
 			populations.</p>
 		<p>The danger of recruiting our numbers from the most "fertile stocks" is further emphasized
-			when we recall that in a democracy like that the United States every man and woman is
-			permitted a vote in the government, and that it is the representatives of this grade of
-			intelligence who may destroy our liberties and who may thus be the most far-reaching
-			danger to the future of civilization. "<q who="IREAL">It is a pathogical worship of mere
-				numbers,</q>" writes <person reg="Ireland, Alleyne">Alleyne Ireland</person>, "<q
-				who="IREAL"> which has inspired all the efforts–the primary, the direct election of
-				Senators, the initiate, the recall and the referendum–to cure the evils of mob rule
-				by increasing the size of the mob and extending its powers</q>."Cf. <title
-				type="book">Democracy and the Human Equation</title>. <org>E. P. Dutton &amp;
-				Co.</org>, 1921.</p>
+			when we recall that in a democracy like the <place>United States</place> every man and
+			woman is permitted a vote in the government, and that it is the representatives of this
+			grade of intelligence who may destroy our liberties and who may thus be the most
+			far-reaching danger to the future of civilization. "<q who="IREAL">It is a pathogical
+				worship of mere numbers,</q>" writes <person reg="Ireland, Alleyne">Alleyne
+				Ireland</person>, "<q who="IREAL"> which has inspired all the efforts–the primary,
+				the direct election of Senators, the initiate, the recall and the referendum–to cure
+				the evils of mob rule by increasing the size of the mob and extending its
+			powers</q>."</p>
+		<note n="4">Cf. <title type="book">Democracy and the Human Equation</title>. <org>E. P.
+				Dutton &amp; Co.</org>, 1921.</note>
 		<p>Equality of political power has thus been bestowed upon the lowest elements of our
 			population. We must not be surprised, therefore, at the spectacle of political scandal
 			and graft, of the notorious and so universally ridiculed low level of intelligence and
@@ -213,8 +230,10 @@
 			kind. But among the writings of the representative Eugenists one cannot ignore the
 			distinct middle-class bias that prevails. As that penetrating critic, <person
 				reg="Browne, Francis Worseley Stella">F. W. Stella Browne,</person> has said in
-			another connection, Population and Birth Control: A Symposium edited by Eden and Cedar
-			Paul. P. 251. "<q who="BROFR"> The <org>Eugenics Education Society</org> has among its
+			another connection,<emph rend="bold">5</emph></p>
+		<note n="5"><title type="book">Population and Birth Control: A Symposium</title>, edited by
+				<person reg="Eden Paul">Eden</person> and <person>Cedar Paul</person>. p. 251.</note>
+		<p rend="blockquote">"<q who="BROFR">The <org>Eugenics Education Society</org> has among its
 				numbers many most open minded and truly progressive individuals; but the official
 				policy it has pursued for years has been inspired by class-bias and sex-bias. The
 				society laments with increasing vehemence the multiplication of the less fortunate
@@ -223,29 +242,31 @@
 				the governing class really is so overwhelming as to justify the Eugenics Education
 				Society's peculiar use of the terms 'fit' and 'unfit'.) Yet it has persistently
 				refused to give any help toward extending the knowledge of contraceptives to the
-				exploited classes. Similarly, though the <title type="journal">Eugenics
-					Review</title>, the organ of the society, frequently laments the 'selfishness'
-				of the refusal of maternity by healthy and educated women of the professional
-				classes, I have yet to learn that it has made any official pronouncement on the
-				English illegitimacy laws or any organized effort toward defending the unmarried
-				mother.</q>"</p>
+				exploited classes. Similarly, though the <title type="journal"><emph
+						rend="underline">Eugenics Review</emph></title>, the organ of the society,
+				frequently laments the 'selfishness' of the refusal of maternity by healthy and
+				educated women of the professional classes, I have yet to learn that it has made any
+				official pronouncement on the English illegitimacy laws or any organized effort
+				toward defending the unmarried mother.</q>"</p>
 		<p>This peculiarly Victorian conservatism may be inherited from the founder of Eugenics
 			himself. Galton declared that the "<q who="GALFR"> Bohemian</q>" element in the
 			Anglo-Saxon race is destined to perish and "<q>the sooner it goes the happier for
 				mankind</q>." The trouble with any effort of trying to divide humanity into the
-			"fit" and the "unfit" is that we do not want, as<person reg="Wells, H. G."> H. G.
-				Wells</person> recently pointed out,Cf. The Salvaging of Civilization. to breed for
-			uniformity, but for variety. "<q who="WELHG"> We want statesmen and poets and musicians
-				and philosophers and strong men and delicate men and brave men. The qualities of one
-				would be the weaknesses of the other</q>." We want, most of all, genius.</p>
-		<p>Prescription of the Galtonian type would have condemned many of the great geniuses of the
+			"fit" and the "unfit" is that we do not want, as <person reg="Wells, H. G.">H. G.
+				Wells</person> recently pointed out,</p>
+		<note n="6">Cf. <title type="book">The Salvaging of Civilization.</title></note>
+		<p>to breed for uniformity, but for variety. "<q who="WELHG"> We want statesmen and poets
+				and musicians and philosophers and strong men and delicate men and brave men. The
+				qualities of one would be the weaknesses of the other</q>." We want, most of all,
+			genius.</p>
+		<p>Proscription of the Galtonian type would have condemned many of the great geniuses of the
 			world who were not only "Bohemian," but actually and pathologically abnormal–<person
-				reg="Rousseau, Jean-Jacques">Rousseau</person>, <person reg="Dostoevsky, Fyodor">
-				Dostoevsky</person>, <person reg="Frederic Francois"> Chopin</person>, <person
-				reg="Poe, Edgar Allen"> Poe</person>, <person reg="Schumann, Robert">
-				Schumann</person>, <person reg="Nietzsche, Freidrich"> Nietzsche</person>, <person
-				reg="Comte, Auguste"> Comte</person>, <person reg="deMauppasant, Guy">Guy de
-				Maupassant</person>– and how many others? But such considerations should not lead us
+				reg="Rousseau, Jean-Jacques">Rousseau</person>, <person reg="Dostoevsky, Fyodor"
+				>Dostoevsky</person>, <person reg="Chopin, Frederic Francois">Chopin</person>,
+				<person reg="Poe, Edgar Allen">Poe</person>, <person reg="Schumann, Robert"
+				>Schumann</person>, <person reg="Nietzsche, Freidrich">Nietzsche</person>, <person
+				reg="Comte, Auguste">Comte</person>, <person reg="de Maupassant, Guy">Guy de
+				Maupassant</person>--and how many others? But such considerations should not lead us
 			into the error of concluding that such men were geniuses merely because they were
 			pathological specimens, and that the only way to produce genius is to breed disease and
 			defect. It only emphasizes the dangers of external standards of "fit" and "unfit." Of
@@ -273,27 +294,29 @@
 			genetics in general, but also acquire more certainty of the justice of our laws and the
 			honesty of their administration before we can make rulings of fitness or unfitness
 			merely upon the basis of a respect for law. On this point the eminent <person
-				reg="Bateson, William">William Bateson</person> writes: <title type="book">Common
-				Sense in Racial Problems</title>. By W. Bateson, M.A., F.R.S. "<q who="BATWI">
-				Criminals are often feeble-minded, but as regards those that are not, the fact that
-				a man is for the purposes of Society classed as a criminal tells me little as to his
-				value, still less as to the possible value of his offspring. It is a fault inherent
-				in criminal jurisprudence based on non-biological data that the law must needs taken
-				the nature of the offences rather than that of the offenders as the basis of
-				classification. A change in the right direction has begun, but the problem is
-				difficult and progress will be very slow.... We all know of persons convicted
-				perhaps even habitually, whom the world could ill spare. Therefore I hesitate to
-				proscribe the criminal. Proscription... is a weapon with a very nasty recoil. Might
-				not some with equal cogency proscribe army contractors and their accomplices the
-				newspaper patriots? The crimes of the prison population are petty offences by
-				comparison, and the significance we attach to them is a survival of other days.
-				Felonies may be great events locally, but they do not induce catastrophes. The
-				proclivities of the war-makers are infinitely more dangerous than those of the
-				aberrant beings whom from time to time the law may dub as criminals. Consistent and
-				portentous selfishness, combined with dulness of imagination are probably just as
-				transmissible as want of self-control, though destitute of the amiable qualities not
-				rarely associated with the genetic composition of persons of unstable mind</q>." In
-			this connection we should note another type of "respectable" criminality noted by
+				reg="Bateson, William">William Bateson</person> writes:</p>
+		<note n="7"><title type="book">Common Sense in Racial Problems</title>. By W. Bateson, M.A.,
+			F.R.S.</note>
+		<p rend="blockquote">"<q who="BATWI">Criminals are often feeble-minded, but as regards those
+				that are not, the fact that a man is for the purposes of Society classed as a
+				criminal tells me little as to his value, still less as to the possible value of his
+				offspring. It is a fault inherent in criminal jurisprudence based on non-biological
+				data that the law must needs taken the nature of the offenses rather than that of
+				the offenders as the basis of classification. A change in the right direction has
+				begun, but the problem is difficult and progress will be very slow. . . .We all know
+				of persons convicted perhaps even habitually, whom the world could ill spare.
+				Therefore I hesitate to proscribe the criminal. Proscription... is a weapon with a
+				very nasty recoil. Might not some with equal cogency proscribe army contractors and
+				their accomplices the newspaper patriots? The crimes of the prison population are
+				petty offences by comparison, and the significance we attach to them is a survival
+				of other days. Felonies may be great events locally, but they do not induce
+				catastrophes. The proclivities of the war-makers are infinitely more dangerous than
+				those of the aberrant beings whom from time to time the law may dub as criminals.
+				Consistent and portentous selfishness, combined with dullness of imagination are
+				probably just as transmissible as want of self-control, though destitute of the
+				amiable qualities not rarely associated with the genetic composition of persons of
+				unstable mind</q>."</p>
+		<p>In this connection we should note another type of "respectable" criminality noted by
 			Havelock Ellis: "<q who="ELLHA"> If those persons who raise the cry of 'race suicide' in
 				face of the decline of the birth-rate really had the knowledge and the intelligence
 				to realize the manifold evils which they are invoking they would deserve to be
@@ -304,10 +327,11 @@
 			function. Compulsory legislation which would make the attempt inevitably futile to
 			prohibit one of the most benificent and necessary of human expressions, or regulate it
 			into the channels of preconceived philosophies would reduce us to the unpleasant days
-			predicted by the poet when "<q who="BLAWI">Priests in black gowns will be walking their
-				rounds And binding with briars our joys and desires</q>."</p>
+			predicted by the poet when</p>
+		<p rend="blockquote">"<q who="BLAWI">Priests in black gowns will be walking their
+				rounds<lb/> And binding with briars our joys and desires</q>."</p>
 		<p>Eugenics is chiefly valuable in its negative aspects. It has been "negative Eugenics"
-			that has studies the histories of such families as the <person reg="Jukes Family"
+			that has studied the histories of such families as the <person reg="Jukes Family"
 				>Jukes</person> and the <person reg="Kallikak Family">Kallikaks</person>, that has
 			pointed out the network of imbecility and feeble-mindedness that has been sedulously
 			cultivated through all strata of society. On its so-called positive or "constructive" it
@@ -330,7 +354,7 @@
 			except in theory. To the child in the womb, said <person reg="Butler, Samuel">Samuel
 				Butler</person>, the mother is "<q who="BUTSA"> environment</q>." She is of course
 			likewise "Heredity." The age-old discussion of "Nature vs. Nurture" has been threshed
-			out time after time, usually fruitlessly because of a failure to recognise the
+			out time after time, usually fruitlessly because of a failure to recognize the
 			indivisibility of these biological factors. The opposition or antagonism between them is
 			an artificial and academic one, having no basis in the living organism.</p>
 		<p>We cannot neglect the factor of social environment. We cannot neglect that of
@@ -345,17 +369,18 @@
 			individual may adapt himself to and control the forces of environment and heredity.
 			Entirely apart from its Malthusian aspect or that of the population question, Birth
 			Control must be recognized, as the Neo-Malthusians pointed out long ago, not "<q
-				who="UNK"> merely as the key of the social position</q>," and the only possible and
+				who="UNK">merely as the key of the social position</q>," and the only possible and
 			practical method of human generation, but as the very pivot of civilization. Birth
 			Control, which has been criticized as negative and destructive, is really the greatest
 			and most truly eugenic method, and its adoption as part of the program of Eugenics would
 			immediately give a concrete and realistic power to that science. As a matter of fact,
 			Birth Control has been accepted by the most clear thinking and far seeing of the
 			Eugenists themselves as the most constructive and necessary of the methods of racial
-			health. Among these are Dean <person reg="Inge, William Ralph"> W. R. Inge</person>,
-			Professor <person reg="Thomson, J. Arthur">J. Arthur Thomson</person>, Mr. Havelock
-			Ellis, Professor William Bateson, Dr. <person reg="Millard, Killick">Killick Millard
-			</person>and . . . . . .</p>
+			health.</p>
+		<note n="8">Among these are Dean <person reg="Inge, William Ralph">W. R.
+				Inge</person>, Professor <person reg="Thomson, J. Arthur">J. Arthur
+			Thomson</person>, Mr. Havelock Ellis, Professor William Bateson, Dr. <person
+				reg="Millard, Killick">Killick Millard </person>and . . . .</note>
 		<p>We are now, I hope, in a position to understand the constructive and creative aspects of
 			the philosophy and practice of Birth Control. It has been condemned as dysgenic,
 			destructive of civilization, as the weapon of selfish unthinking pleasure-seeking,
