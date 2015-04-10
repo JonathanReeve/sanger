@@ -12,3 +12,5 @@ private.php
 #app/index2.htm
 app/images/Thumbs.db
 app/.DS_Store
+
+xml_added/mepTemplate.xml
