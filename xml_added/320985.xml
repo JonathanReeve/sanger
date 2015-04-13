@@ -5,7 +5,8 @@
 		<prepDate>2011/06/07 CE</prepDate>
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-04-16 EK clean regs </prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1955-00-00">1955</docDate>
 		<docTitle>
 			<titlePart>
@@ -14,32 +15,33 @@
 		</docTitle>
 		<idno>msp320985</idno>
 		<sourceDesc>
-			<bibl><title type="book">Britannica Book of the Year</title>,(1955) 165-166</bibl>
+			<bibl><title type="book">Britannica Book of the Year</title> (1955) pp. 165-66</bibl>
 		</sourceDesc>
 		<respStmt>
-			<name id="LFA">Lasker Foundation Award</name>
+			<name id="AMLF">Albert and Mary Lasker Foundation</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
 			see <xref from="320973.xml"><title type="article">Birth Control, 1941</title></xref>;
-			<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
-			<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
-			<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
-			<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
-			<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
-			<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
-			<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
-			<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
-			<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
-			<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
-			<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
-			<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
-			<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
-			<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
-			<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
-			<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
-		<p>For a typed draft of the article, see MSM S72:903.</p>
+				<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
+				<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
+				<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
+				<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
+				<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
+				<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
+				<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
+				<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
+				<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
+				<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
+				<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
+				<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
+				<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
+				<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
+				<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
+				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
+		<p>For a typed draft of the article, see Margaret Sanger Microfilm, Smith College
+			Collections S72:903.</p>
 		<index level1="United States" level2="birth control" level3="clinics and leagues in"/>
 		<index level1="birth control" level2="clinics and leagues"/>
 		<index level1="birth control" level2="international"/>
@@ -72,23 +74,22 @@
 		<div type="section">
 			<head type="sub">International.–</head>
 			<p>Growing government interest in <place>Japan</place> in expanding national family
-				planning efforts was evidenced by an invitation extended <person
-					reg="Sanger, Margaret">Margaret Sanger</person>, president, <org>International
-					Planned Parenthood Federation</org>, to testify before the <org
-					reg="Japan, House of Councillors Public Welfare Committee">Japanese diet’s upper
-					house welfare committee</org> (April 1954). The first foreign woman to appear
-				before this body, the birth control pioneer’s guidance was enlisted on methods of
-				accelerating the government program. Mrs. Sanger was also keynote speaker at the
-				first national meeting of the <org>Japan Federation of Family Planning</org>.</p>
+				planning efforts was evidenced by an invitation extended Margaret Sanger, president,
+					<org>International Planned Parenthood Federation</org>, to testify before the
+					<org reg="Japan House of Councillors">Japanese diet’s upper house welfare
+					committee</org> (April 1954). The first foreign woman to appear before this
+				body, the birth control pioneer’s guidance was enlisted on methods of accelerating
+				the government program. Mrs. Sanger was also keynote speaker at the first national
+				meeting of the <org>Japan Federation of Family Planning</org>.</p>
 			<p>Priority to <place>India</place>’s overpopulation problem was given in that
-				government’s census report (Nov. 1953). The <person reg="Gopalaswami, R.A.">census
+				government’s census report (Nov. 1953). The <person reg="Gopalaswami, R. A.">census
 					commissioner</person> warned against a population of 520,000,000 by 1981;
 				presented a study of all available methods of conception control; and urged that
 				Indian parents voluntarily limit their families to three children in order to
 				achieve a stationary population of 450,000,000 in 1969.</p>
-			<p>The year 1954 marked the first <org reg="World Population Conference (Rome, 1954)"
-					>World Population conference</org> of experts under UN auspices. Instigated by
-				the <org reg="United Nations Economic and Social Council">Economic and Social
+			<p>The year 1954 marked the first <org reg="World Population Conference, 1954">World
+					Population conference</org> of experts under UN auspices. Instigated by the <org
+					reg="United Nations Economic and Social Council">Economic and Social
 					council</org> of the UN, it took place at the <org
 					reg="United Nations Food and Agriculture Organization">Food and Agriculture
 					organization</org> headquarters, <place reg="Rome, Italy">Rome, It.</place>,
@@ -103,7 +104,7 @@
 			<p>In an effort to facilitate the use of birth control among peasant populations, a
 				number of field tests in simple, low cost contraceptives were begun among villagers
 				in India, <place>Ceylon</place> and <place>Pakistan</place> by <person
-					reg="Gamble, Clarence James">Clarence J. Gamble</person>, <place
+					reg="Gamble, Clarence J.">Clarence J. Gamble</person>, <place
 					reg="United States">U.S.</place> medical authority in conception control.</p>
 			<p>The <org>Family Planning Association of <place>Puerto Rico</place></org> was
 				established (March 1954) and launched a three-year campaign which included
@@ -113,24 +114,26 @@
 			<p>U.S. visits of two outstanding Planned Parenthood leaders were sponsored by the
 					<org>Planned Parenthood Federation of America</org>. They were Lady <person
 					reg="Rama Rau, Dhanvanthi">Rama Rau</person> of India, chairman, International
-				Planned Parenthood federation, whose coast-to-coast lecture tour on “<title>India’s
-					Social Revolution</title>” served to broaden public understanding of family
-				planning needs in an underdeveloped nation, and <person reg="Ottesen-Jensen, Elise">
-					>Elise Ottesen-Jensen</person>, Swedish birth control and sex education pioneer.
-				Mrs. Ottensen-Jensen was the recipient of the 1954 <org>Lasker foundation</org>
-				award in Planned Parenthood, presented for “<q who="LFA">setting
-						<place>Sweden</place>’s family planning movement in the forefront of
-						<place>Europe</place> and the world</q>.”</p>
+				Planned Parenthood federation, whose coast-to-coast lecture tour on “<title
+					type="article">India’s Social Revolution</title>” served to broaden public
+				understanding of family planning needs in an underdeveloped nation, and <person
+					reg="Ottesen-Jensen, Elise"> >Elise Ottesen-Jensen</person>, Swedish birth
+				control and sex education pioneer. Mrs. Ottensen-Jensen was the recipient of the
+				1954 <org reg="Albert and Mary Lasker Foundation">Lasker foundation</org> award in
+				Planned Parenthood, presented for “<q who="AMLF">setting <place>Sweden</place>’s
+					family planning movement in the forefront of <place>Europe</place> and the
+					world</q>.”</p>
 			<p>A colloquium on the social aspects of family planning and fertility control held at
-					<org>Columbia university</org>’s Arden house (1954) brought together for the
-				first time experts in sociology, religion, psychiatry, law, anthropology,
-				gynaecology, public health and demography, to assist the federation assess and
-				investigate attitudes toward the practice of fertility control and its effect on
-				other social and cultural problems.</p>
+					<org reg="Columbia University">Columbia university</org>’s <org
+					reg="Arden House">Arden house</org> (1954) brought together for the first time
+				experts in sociology, religion, psychiatry, law, anthropology, gynaecology, public
+				health and demography, to assist the federation assess and investigate attitudes
+				toward the practice of fertility control and its effect on other social and cultural
+				problems.</p>
 		</div>
 		<div type="section">
-			<head type="sub"><place reg="United States">U.S. Services</place>.–</head>
-			<p>During 1954, the <org>Planned Parenthood Federation of America</org> was the national
+			<head type="sub">U.S. Services.–</head>
+			<p>During 1954, the Planned Parenthood Federation of America was the national
 				clearing house for 12 state leagues and 101 local committees, in 29 states. Birth
 				control clinics numbered 532. These services were in 279 public health clinics, 74
 				hospitals and in 182 extramural clinics, sponsored by Planned Parenthood committees.
