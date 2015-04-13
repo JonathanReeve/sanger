@@ -4,10 +4,12 @@
 	<mepHeader>
 		<prepDate>2014/06/10 AS Encoded</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1955-10-24">24 Oct 1955</docDate>
 		<docTitle>
-			<titlePart>Press Statement on the Fourth International Conference on Planned
+			<titlePart>Press Statement on the Fifth International Conference on Planned
 				Parenthood</titlePart>
 		</docTitle>
 		<idno>msp421965</idno>
@@ -41,39 +43,47 @@
 		<dateline><place reg="Tokyo, Japan">TOKYO</place>, <date value="1955-10-23">Oct. 23</date>
 				[<org>Reuters</org>]</dateline>
 		<div type="section">
-			<p><q who="REUT">Birth control experts from over the world tomorrow open the <org
+			<p>
+				<q who="REUT">Birth control experts from over the world tomorrow open the <org
 						reg="International Conference on Planned Parenthood, 5th">fifth
-						international conference on planned parenthood.</org></q></p>
-			<p><q who="REUT">Highlights of the conference is expected Friday when an American
+						international conference on planned parenthood.</org></q>
+			</p>
+			<p>
+				<q who="REUT">Highlights of the conference is expected Friday when an American
 					scientist, <person reg="Pincus, Gregory">Gregory Pincus</person>, will submit a
-					report on a small oral contraceptive named progesterone, which can be eaten
-					like candy.</q></p>
+					report on a small oral contraceptive named progesterone, which can be eaten like
+					candy.</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub">Red Chinese Present</head>
-			<p><q who="REUT">American Mrs. Margaret Sanger,
-					president of the <org reg="International Planned Parenthood Federation"
-						>federation,</org> said the conference would </q>"mark a milestone in man's
-				search for a harmless, simple, and cheap contraceptive, the key to almost all the
-				world's and <place>Asia</place>'s population problems."</p>
+			<p><q who="REUT">American Mrs. Margaret Sanger, president of the <org
+						reg="International Planned Parenthood Federation">federation,</org> said the
+					conference would </q>"mark a milestone in man's search for a harmless, simple,
+				and cheap contraceptive, the key to almost all the world's and <place>Asia</place>'s
+				population problems."</p>
 
-			<p><q who="REUT">Among the 500 experts representing 17 nations and territories will be
-					an observer from communist <place>China</place>. Mrs. Sanger said communist countries were not
-					invited to the conference because they have not shown interest in the problem of
-					population.</q></p>
+			<p>
+				<q who="REUT">Among the 500 experts representing 17 nations and territories will be
+					an observer from communist <place>China</place>. Mrs. Sanger said communist
+					countries were not invited to the conference because they have not shown
+					interest in the problem of population.</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub">Wanted to Attend</head>
 			<p>"We did invite communist China, but that was only because the <place
 					reg="Peiping, China">Peiping</place> regime let it be known they wanted to
 				come," she said.</p>
-			<p><q who="REUT">Others represented at the conference are the <place>United
+			<p>
+				<q who="REUT">Others represented at the conference are the <place>United
 						States</place>, <place reg="Great Britain">Britain</place>,
 						<place>Sweden</place>, <place>West Germany</place>, <place>India</place>,
 						<place>Pakistan</place>, <place>Ceylon</place>, <place>Egypt</place>,
 						<place>Hong Kong</place>, <place>Singapore</place>, <place>Thailand</place>,
 						<place>South Africa</place>, <place>Israel</place>, <place>Japan</place>,
-						<place>Puerto Rico</place>, and <place>Bermuda</place>.</q></p>
+						<place>Puerto Rico</place>, and <place>Bermuda</place>.</q>
+			</p>
 
 		</div>
 	</docBody>
