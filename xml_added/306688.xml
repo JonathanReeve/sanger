@@ -8,18 +8,19 @@
 		<prepDate>2011/11/28 CH correct typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-13 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1921-12-28">28 Dec 1921</docDate>
 		<docTitle>
-			<titlePart>Stop Perpetuating The Unfit by a National Policy on Limitation of
-				Families</titlePart>
+			<titlePart>Stop Perpetuating The Unfit</titlePart>
 		</docTitle>
 		<idno>msp306688</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York American</title>, Dec. 28, 1921, p. 9.</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:167.</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:0167</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,24 +29,27 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This article was part of a "discussion" aroused by the November 1921 case of Anna
-			Reynolds Cassidente, a Denver woman, who was brought before Juvenile Court because her
-			five children were undernourished and her house was dirty. The judge suggested that
-			rather than take the existing children away, Mrs. Cassidente be sterilized to prevent
-			any more. The judge ruled that both parents had to agree to the procedure; while her
-			husband, <person reg="Cassidente, Clyde">Clyde Cassidente</person>, was amenable, Mrs.
-			Cassidente had refused. A brief editorial note preceded the article, identifying
-			Sanger.</p>
+			Reynolds Cassidente, a Denver woman who was brought before Juvenile Court because her
+			five children were malnourished and her house was dirty. The judge suggested that rather
+			than remove the children from the home, Mrs. Cassidente be sterilized to prevent her
+			having any more. The judge ruled that both parents had to agree to the procedure. But
+			hile her husband, <person reg="Cassidente, Clyde">Clyde Cassidente</person>, was
+			amenable, Mrs. Cassidente refused. A brief editorial note, preceding the article,
+			identifies and described the Cassidente case. Sanger.</p>
 		<index level1="American Birth Control League"/>
-		<index level1="birth control" level2="health benefits and risks of"/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="mortality rates" level2="infant"/>
-		<index level1="sterilization" level2="MS on"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="MS on"/>
-		<index level1="eugenics" level2="birth control and"/>
-		<index level1="women" level2="enslavement of"/>
+		<index level1="birth control methods" level2="sterilization" level3="benefits and risks"/>
+		<index level1="birth order"/>
+		<index level1="child spacing"/>
+		<index level1="birth control methods" level2="efficacy of"/>
+		<index level1="American Birth Control League"/>
+		<index level1="unfit to reproduce"/>
 	</headNote>
 	<docBody>
-		<head>By MARGARET SANGER----Stop Perpetuating The
-			Unfit by a National Policy on Limitation of Families</head>
+		<head>Stop Perpetuating the Unfit by a National Policy on Limitation of Families</head>
+		<byline>By MARGARET SANGER</byline>
 		<p>In the case of Mrs. <person reg="Cassidente, Anna Reynolds ">Cassidente</person>, of
 				<place reg="Denver, CO">Denver</place>, one must remember that such cases are to be
 			looked upon as one views a war measure in a great and trying emergency. </p>
@@ -57,7 +61,7 @@
 			are made miserable and wretched, because babies come too quickly after each other. There
 			mothers need and desire knowledge of birth control.</p>
 		<div>
-			<head type="sub">Better Children.</head>
+			<head type="sub">BETTER CHILDREN.</head>
 			<p>Such knowledge does not prevent the coming of children when they are wanted, but it
 				may be put into practice, to the result that a woman may have three or four
 				children, give them care and attend to their health and welfare and bring this
@@ -67,14 +71,14 @@
 				remove three factors, the first of which is the crude and harmful evil of resorting
 				to drugs in the early stages of motherhood.</p>
 			<p>Thousands of women in <place reg="United States">America</place> spend fabulous sums
-				at drug shops for useless and injurious ingredients which poison the number and
+				at drug shops for useless and injurious ingredients which poison the mother and
 				injure the infant at its very inception. Women who complain of sickly and weak
 				infants are often reminded of the attempts made at foeticide and regret the harm
 				done only too late.</p>
 			<p>Such an infant is weakened at the start of life and may have so little power of
 				resistance that it cannot survive early infancy. </p>
 			<p>The second factor in infant mortality is the birth of infants coming so rapidly one
-				after the other, that the mother has not time to recover her strength for to
+				after the other, that the mother has not time to recover her strength or to
 				recuperate from the strain of the last birth, nor to gain strength for the coming of
 				the next.</p>
 			<p>Such a condition makes it imperative that the mother use up the vitality of the
@@ -89,9 +93,9 @@
 				countless little coffins made necessary by a forced or involuntary maternity.</p>
 		</div>
 		<div>
-			<head type="sub">No Magic Goal.</head>
+			<head type="sub">NO MAGIC GOAL.</head>
 			<p>There is no magic road to the goal of Birth Control. There is no magic method to be
-				practiced. The methods advanced and taught in <place reg="Netherlands"
+				practiced. The methods advanced and taught in <place reg="Netherlands, the"
 					>Holland</place> in private clinics by doctors and nurses to poor mothers, are
 				strictly individual, suitable not to everyone, but to the special woman concerned. </p>
 			<p>The woman who has had two children may need different advice from that given to a
@@ -105,7 +109,7 @@
 				They should be encouraged and assisted in every means at the command of science and
 				the state. </p>
 			<p>Such is the object of the <org>American Birth Control League</org> (104 Fifth avenue,
-					<place reg="New York, NY">New York City</place>, which aims to arouse interest
+					<place reg="New York, NY">New York City</place>), which aims to arouse interest
 				among the American people to bring to birth a better quality in our race, as well as
 				to establish clinics in all thickly populated districts where poor overburdened
 				wretched mothers may be instructed in the methods of birth control.</p>
@@ -114,7 +118,7 @@
 			<p>Our immigration laws forbid the entrance into this country of paupers, insane,
 				feeble-minded and diseased people from other lands. Why not extend the idea and
 				discourage the bringing to birth these same types within our borders. Let us stop
-				reproducing and perpetuation disease, insanity and ignorance. </p>
+				reproducing and perpetuatiing disease, insanity and ignorance. </p>
 			<p>Stop these and other evils at their source by a national policy and education of
 				birth control.</p>
 		</div>

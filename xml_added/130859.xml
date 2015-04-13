@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Typed draft document">
+<doc type="Typed draft speech">
 	<mepHeader>
 		<prepDate>2012-04-10 AW Initial Tag</prepDate>
 		<prepDate>2012-05-14 CH Proofed tags</prepDate>
 		<prepDate>2012-05-30 AW Corrected tags</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-13 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -20,8 +21,8 @@
 		</docTitle>
 		<idno>msp130859</idno>
 		<sourceDesc>
-			<bibl>Library of Congress, Margaret Sanger Papers</bibl>
-			<bibl>Library of Congress Microfilm 20:385</bibl>
+			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
+			<bibl><title type="mf">Library of Congress Microfilm</title> LCM 20:0385</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="BERFR">Bernhardi, Friedrich von</name>
@@ -33,21 +34,33 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This document was likely drafted for Sanger by one of her secretaries. No final version
-			has been found. Handwritten corrections and margin notes by Margaret Sanger.</p>
-		<index level1="Asia" level2="overpopulation and"/>
-		<index level1="birth control" level2="health benefits of"/>
-		<index level1="birth control" level2="movement"/>
-		<index level1="birth rate" level2="population growth and"/>
+		<p>No final version has been found. Handwritten corrections and margin notes by Margaret
+			Sanger.</p>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="League of Nations"/>
+		<index level1="overpopulation" level2="and war"/>
+		<index level1="overpopulation" level2="effects of"/>
 		<index level1="overpopulation" level2="MS on"/>
-		<index level1="population" level2="war and"/>
-		<index level1="venereal disease"/>
-		<index level1="women" level2="health of"/>
+		<index level1="population size" level2="and food supply"/>
+		<index level1="population size" level2="and expansionism"/>
+		<index level1="population size" level2="and war"/>
+		<index level1="militarism"/>
+		<index level1="mortality rates"/>
+		<index level1="Germany" level2="birth rate in"/>
+		<index level1="Europe" level2="birth rate in"/>
+		<index level1="Asia" level2="overpopulation"/>
+		<index level1="Japan" level2="overpopulation"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="and public health"/>
 		<index level1="working classes" level2="fertility of"/>
+		<index level1="mentally diseased or disabled" level2="and family size"/>
+		<index level1="physically diseased or disabled" level2="and family size"/>
+		<index level1="pregnancy" level2="health risks"/>
+		<index level1="pregnancy" level2="tuberculosis and"/>
 	</headNote>
 	<docBody>
-		<head rend="underline">LEAGUE OF NATIONS--PROPOSED PLAN OF ARGUMENT.</head>
+		<head rend="underline">LEAGUE OF NATIONS -- PROPOSED PLAN OF ARGUMENT.</head>
 		<div>
 			<p>(Note: Study of the articles of the Covenant of the <org>League of Nations</org>
 				indicates that the subject of Birth Control may be presented to the Council only as
@@ -87,12 +100,13 @@
 				decent maintenance will have become the lot of most men throughout the earth, as it
 				is their lot now in the most densely populated parts of it. The only possibility
 				that anyone suggests that might prevent this otherwise inevitable development is
-				some <foreign rend="underline"><foreign lang="LAT">deus ex machina</foreign></foreign> in the form of inventions
-				of chemistry that will furnish food for mankind in some altogether unnatural and now
+				some <emph rend="underline"><foreign rend="italics"><foreign lang="LAT">deus ex
+							machina</foreign></foreign></emph> in the form of inventions of
+				chemistry that will furnish food for mankind in some altogether unnatural and now
 				unknown way. No man of reasonable caution can rely upon this as offering any
-				probable solution of the problem. It is altogether probably that it offers no
+				probable solution of the problem. It is altogether probable that it offers no
 				prospect whatever for the furnishing of a food supply for the world greatly beyond
-				what <emph rend="underline">can</emph> be produced by methods now in use. </p>
+				what can be produced by methods now in use.</p>
 			<p>Excluding the arctics, the world’s land area is 33,000,000,000 acres. The
 					<org>International Institute of Agriculture</org> at <place reg="Rome, Italy"
 					>Rome</place> has determined the proportion of cultivated land to total area in
@@ -101,7 +115,7 @@
 				maximum for the world’s future population is one person for each 2.5 acres on 40 per
 				cent of the land area of the globe. This gives a figure of 5,200,000,000. Under the
 				most optimistic assumptions as to production and distribution of food that it is
-				reasonable to make, the world can support,then, but 5,200,000,000 people, and these
+				reasonable to make, the world can support, then, but 5,200,000,000 people, and these
 				people must content themselves with the limited dietary and the few material
 				necessities which form the current standards among the peasantry of
 					<place>Europe</place>. </p>
@@ -115,12 +129,12 @@
 					<place>Germany</place>’s congested multitudes were taught to believe that they
 				were surrounded by enemies, that the open spaces of the world had been preempted,
 				and that Germany had to expand forcibly in order not to perish. The need of
-				territorial expansion to accommodate the rapidly increasing surplus of population was
-				put forward by German militarist writers as a justification for war. Their slogan
-				was “<q who="BERFR">biological necessity,</q>” and it was accepted as an article of
-				faith by the German people.</p>
+				territorial expansion to accommodate the rapidly increasing surplus of population
+				was put forward by German militarist writers as a justification for war. Their
+				slogan was “<q who="BERFR">biological necessity,</q>” and it was accepted as an
+				article of faith by the German people.</p>
 			<p>General <person reg="Bernhardi, Friedrich von">von Bernhardi</person>, in his book
-				entitled “<title type="book">Germany and the Next War</title>,” published in 1911,
+				entitled "<title type="book">Germany and the Next War</title>," published in 1911,
 				says:</p>
 			<p rend="blockquote">
 				<q who="BERFR">Strong, healthy and flourishing nations increase in numbers. They
@@ -128,8 +142,7 @@
 					the accommodation of their surplus people. Since almost every part of the globe
 					is inhabited, new territory must as a rule be obtained at the cost of its
 					possessors; that is to say by conquest, which thus becomes a law of
-					necessity.</q>
-			</p>
+					necessity.</q></p>
 			<p><person reg="Dix, Arthur">Arthur Dix</person>, writing in 1901, says:</p>
 			<p rend="blockquote">
 				<q who="DIXAR">Because of the German people now increase at the rate of eight
@@ -152,15 +165,15 @@
 			</p>
 			<p>The birth rate, in spite of its decline in the last few decades, is still too high in
 				every country of Europe, with the possible exception of <place
-					reg="Holland, Netherlands">Holland</place>, to permit of adequate provision for
-				all the newcomers. Consequently the death rates continue high and there is a greater
-				or less proportion of the population in nearly every country in a state of chronic
-				destitution. In eastern nations such as <place>India</place> and
+					reg="Holland, Netherlands, the">Holland</place>, to permit of adequate provision
+				for all the newcomers. Consequently the death rates continue high and there is a
+				greater or less proportion of the population in nearly every country in a state of
+				chronic destitution. In eastern nations such as <place>India</place> and
 					<place>China</place>, with their enormous birth rates, the death rates are
 				appalling, indicating a constant state of semi-starvation in the great mass of the
 				people. </p>
 			<p>Asia’s population today is estimated at 900,000,000. In the past the evil of
-				ever-population was countered by war, misgovernment, pestilence and famine. During
+				over-population was countered by war, misgovernment, pestilence and famine. During
 				the last century, however, most of <place>Asia</place> has come under European
 				political control, with consequent diminution of government abuses, decrease of
 				disease and lessening of famine. The enormous death rate has fallen to proportions
@@ -171,8 +184,9 @@
 				This is notably true of <place>Japan</place>. </p>
 			<p>The population of Japan during the centuries of her isolation remained at a virtually
 				constant level. Emerging from her isolation about the middle of the nineteenth
-				century, Japan’s population was approximately 56,000,000, showing that it has more
-				than doubled in a little over half a century. </p>
+				century, Japan’s population was approximately 27,000,000. The census of 1920 fixes
+				Japan's population at approximately 56,000,000, showing that it has more than
+				doubled in a little over half a century.</p>
 			<p>Japan’s total area is less than that of the state of <place>California</place>. Most
 				of her territory is mountainous and unfit for cultivation. The density of her
 				population is estimated now at 2,688 per square mile--more than four times the
@@ -184,7 +198,7 @@
 			<p>Let the situation develop naturally and the only relief for the overpopulation of the
 				world lies in wars of the strong against the weak for a place in the sun, in
 				pestilence and other great disasters, and in the inevitable increase in the disease
-				rate and the death rate that are sequences of the degradation and misery of
+				rate and the death rate that are <unclear>consequences</unclear> of the degradation and misery of
 				overpopulation.</p>
 		</div>
 		<div>
@@ -208,9 +222,9 @@
 			<p>Public health is concerned not only with the prevention and control of disease, but
 				ultimately with every factor which contributes to the health of individuals in all
 				walks of life. Therefore when it is evident that the health and happiness of the
-				intelligent and well-to-do are increased by the practise of limiting the number of
+				intelligent and well-to-do are increased by the practice of limiting the number of
 				their offspring, the authorities concerned with the health of the community will see
-				the urgency and wisdom of extending the practise to individuals on more modest
+				the urgency and wisdom of extending the practice to individuals on more modest
 				intellectual and economic levels. Among the advantages gained are a higher standard
 				of living, the proportionately greater attention received by each child in a small
 				family, and the better health of the parents, particularly the mother. </p>
@@ -221,12 +235,12 @@
 				particular contribution to make to industry. Even though a good worker, she is at
 				best an unstable asset. Her metabolism is profoundly changed and she frequently
 				shows an abnormal sensibility to fatigue, which is not diminished by the realization
-				of the additional physical and economic burden about the fall upon her shoulders. </p>
-			<p> At this point the problem of hyper-fecundity may become directly associated with
+				of the additional physical and economic burden about to fall upon her shoulders. </p>
+			<p>At this point the problem of hyper-fecundity may become directly associated with
 				that of venereal disease. In their dread of further pregnancies women, both in
 				industrial and non-industrial life, often feel compelled to wink at extra-marital
 				sex relations on the part of their husbands. </p>
-			<p> It is well known that the rate of infant mortality increases with the size of the
+			<p>It is well known that the rate of infant mortality increases with the size of the
 				family. Occasionally there is observed a wealthy and intelligent family where the
 				parents, because of unusual vigor and particularly by reason of the physical
 				strength of the mother, have been able to rear a large number of children. In some
@@ -242,7 +256,7 @@
 				impaired vitality, its main inheritance being a physiological poverty which leaves
 				it less resistant not only to tuberculosis but to all other diseases of infancy and
 				childhood. </p>
-			<p> Among the poor the larger the family the more congested are the living quarters, and
+			<p>Among the poor the larger the family the more congested are the living quarters, and
 				the more unsanitary the environment. The increase of the family heavily taxes the
 				earnings of the parents, and as a result malnutrition and insufficient clothing
 				enter as factors to predispose the children to tuberculosis or cause a latent
@@ -251,7 +265,7 @@
 				It is estimated that 65 per cent of women suffering from tuberculosis, even when
 				afflicted only in the relatively early and curable stages, die as a result of
 				pregnancy. </p>
-			<p> Nearly all of the infectious and communicable diseases are more prevalent in the
+			<p>Nearly all of the infectious and communicable diseases are more prevalent in the
 				congested precincts of the poor, especially in the overcrowded homes containing
 				large families. The propagation of syphilis and gonorrhea by contact infection,
 				other than sexual, is usually avoided in the homes of the intelligent and
@@ -259,23 +273,23 @@
 				the homes of the ignorant and poor. Gonorrheal infection from parent to child or
 				from one infected member of the family to another is responsible, according to
 				government statistics, for the 52,272 blind persons in the United States. </p>
-			<p> That insanity, idiocy, epilepsy and alcoholic predisposition are often transmitted
+			<p>That insanity, idiocy, epilepsy and alcoholic predisposition are often transmitted
 				from parent to child is now universally admitted. At least 20 per cent of all
 				feeble-minded children are the offspring of drunkards. </p>
-			<p> Of the mothers, married and unmarried, who have become chronic invalids or lost
+			<p>Of the mothers, married and unmarried, who have become chronic invalids or lost
 				their lives by resorting to abortive measures to rid themselves of an unwelcome
 				child, no statistics are available. Various estimates place the number of abortions
 				performed annually in the United States at from 500,000 to 3,000,000. The reason
-				abortion is practised on such an enormous scale in the United States is because of
+				abortion is practiced on such an enormous scale in the United States is because of
 				laws prohibiting not only the manufacture and sale of contraceptives but even the
 				dissemination of any information concerning them. Contraception as a rule is
-				practised only by intelligent persons in easy circumstances. the poor, lacking
+				practiced only by intelligent persons in easy circumstances. The poor, lacking
 				information on the subject, resort to abortion. </p>
-			<p> No great clearsightedness is necessary to perceive that the great masses of
+			<p>No great clearsightedness is necessary to perceive that the great masses of
 				ignorant, thoughtless, stupid and vicious people, the offspring of families
 				impoverished by too many children, are as injurious to the community as they are
 				harmful to themselves. </p>
-			<p> It has taken Nature unknown millions of years of painful struggle to evolve Man, and
+			<p>It has taken Nature unknown millions of years of painful struggle to evolve Man, and
 				to raise the human species above that helpless bondage to reproduction which marks
 				the lower animals. But the health of nations and their standard of intelligence are
 				still at the mercy of accidental multitudes born into a life in which they are
