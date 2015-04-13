@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014/07/03 MM</prepDate>
+        <prepDate>2015-04-13 CH proof tags and enter</prepDate>
+        <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+        <docDate value="1956-05-29">29 May 1956</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Rochester-Monroe County League for Planned Parenthood
+                    Annual Meeting Address</supplied></titlePart>
+        </docTitle>
+        <idno>msp421989</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Offers 'Key to World Peace'</title>, <title
+                    type="journal">Rochester Democrat and Chronicle</title>, May 30, 1956, p.
+                29</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="Japan" level2="overpopulation and"/>
+        <index level1="Japan" level2="population policies of"/>
+        <index level1="overpopulation" level2="threat to peace as"/></headNote>
+    <docBody>
+        <head>Mrs. Sanger Offers 'Key to World Peace'</head>
+        <p><q who="RDC">Birth control was embraced by it pioneer advocate yesterday as a key aid to
+                maintaining world peace.</q></p>
+        <p><q who="RDC">The speaker, Mrs. Margaret Sanger, argued that family planning must be
+                pursued to eliminate overpopulation, a cause of wars.</q> "It is," <q who="RDC">she
+                said,</q> "the keynote of a new social awakening."</p>
+        <p><q who="RDC">She addressed the annual meeting of the <org><place reg="Rochester, NY"
+                        >Rochester</place>-Monroe County League for Planned Parenthood</org> in the
+                    <org reg="Rochester Chamber of Commerce">Chamber of Commerce</org>. About 400
+                persons--including health and welfare leaders--heard her speak.</q></p>
+        <p>"It would have been laughable to talk about overpopulation in this country," <q who="RDC"
+                >she grinned. But, Mrs. Sanger added, not so in <place>Asia</place>.</q></p>
+        <p><q who="RDC">In 1952, when <place>Japan</place>'s population was 90 million, Mrs. Sanger
+                returned to the country to find that her proposals had at least been endorsed by the
+                government and accepted by women.</q></p>
+        <p>"They are going about it in a very scientific way,"<q who="RDC"> she explained.</q> "In
+            fact, I would say they are leading the world."</p>
+        <p>"When this work is properly directed, it can relieve untold suffering for countless
+            number of women. It is an essential step we must take if we are to eliminate war and
+            bring peace to the face of the world."</p>
+        <p><q who="RDC">Mrs. Sanger, who had three children, reaffirmed her belief that</q> "many
+            people are parents today who have no right to be parents."</p>
+        <p>"We believe firmly," <q who="RDC">Mrs. Sanger said,</q> "that a man who can take care of
+            two children well should not have eight children. But many of them do."</p>
+        <p><q who="RDC">Mrs. Sanger also suggested that young couples wait at least two years before
+                they have children. She said:</q> "They should postpone parenthood until they are
+            sure they are going to be happy so as to prepare a harmonious atmosphere for the
+            child."</p>
+        <p><q who="RDC">The bulk of Mrs. Sanger's address was devoted to her early--and often
+                stormy--work in the birth control movement.</q></p>
+
+    </docBody>
+</doc>
