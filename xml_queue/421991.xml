@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014/07/01 CH proof tags</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1956-05-31">31 May 1956</docDate>
 		<docTitle>
 			<titlePart>Planned Parenthood Center of Buffalo Speech</titlePart>
@@ -19,26 +21,30 @@
 			<name id="BCE"/>
 		</respStmt>
 	</mepHeader>
-	<index level1="Japan" level2="overpopulation and"/>
-	<headNote resp="MSPP"><p>Sanger spoke to the annual luncheon of the Planned Parenthood Center of
-			Buffalo at the Hotel Statler. The speech was not found. Portions of the article
-			discussing other speakers, <person reg="Abbott, Lois P.">Lois P. Abbott</person> and
-				<person reg="Greenberger, Jane">Jane Greenberger</person>, and the elections of the
-			Buffalo Center were omitted by the MSPP editors.</p>
+
+	<headNote resp="MSPP">
+		<p>Sanger spoke to the annual luncheon of the Planned Parenthood Center of Buffalo at the
+			Hotel Statler. The speech was not found. Portions of the article discussing other
+			speakers, <person reg="Abbott, Lois P.">Lois P. Abbott</person> and <person
+				reg="Greenberger, Jane">Jane Greenberger</person>, and the elections of the Buffalo
+			Center were omitted by the MSPP editors.</p>
 		<index level1="India" level2="overpopulation and"/>
 		<index level1="International Planned Parenthood Federation"/>
 		<index level1="eugenics" level2="birth control and"/>
 		<index level1="eugenics" level2="positive"/>
 		<index level1="birth control" level2="distribution of information about"/>
+		<index level1="Japan" level2="overpopulation and"/>
 	</headNote>
 	<docBody>
 		<head>Mrs. Sanger Reports On Visit to Asia</head>
 		<div type="section">
-			<p><q who="BCE">Population problems in <place>Japan</place> and <place>India</place> are
-					being met by the governments in a realistic way, Mrs. Margaret Sanger said here
-					yesterday. She spoke at the annual luncheon of the <org>Planned Parenthood
+			<p>
+				<q who="BCE">Population problems in <place>Japan</place> and <place>India</place>
+					are being met by the governments in a realistic way, Mrs. Margaret Sanger said
+					here yesterday. She spoke at the annual luncheon of the <org>Planned Parenthood
 						Center of <place reg="Buffalo, NY">Buffalo</place></org> at <org>Hotel
-						Statler.</org></q></p>
+						Statler.</org></q>
+			</p>
 			<p><q who="BCE">Mrs. Sanger, president of the <org>International Planned Parenthood
 						Federation</org> visited Japan and India in 1954 and spoke before the <org
 						reg="Japan House of Councillors">House of Peers</org> in Japan. She
@@ -48,10 +54,12 @@
 		</div>
 		<div type="section">
 			<head type="sub">Industry's Aid</head>
-			<p><q who="BCE">In India, she said, each medical school will teach the subject of family
-					planning, industry will disseminate all available information to the workers and
-					social agencies are instructed to give all the information possible in their
-					work.</q></p>
+			<p>
+				<q who="BCE">In India, she said, each medical school will teach the subject of
+					family planning, industry will disseminate all available information to the
+					workers and social agencies are instructed to give all the information possible
+					in their work.</q>
+			</p>
 		</div>
 	</docBody>
 </doc>
