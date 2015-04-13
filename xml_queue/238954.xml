@@ -7,8 +7,12 @@
 		<prepDate>2013-04-29 AW Corrected</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1953-08-17"><supplied resp="MSPP">17 Aug 1953</supplied></docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1953-08-17">
+			<supplied resp="MSPP">17 Aug 1953</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>The History of the Birth Control Movement in the English-Speaking
 				World</titlePart>
@@ -67,8 +71,8 @@
 				research to do, I don’t believe I’ll have time</q>.” He said, “<q who="SANST">Time,
 				research--have one good hour’s talk with mother</q>.” Naturally, I slunk to the
 			floor at such a compliment of having one good hour’s talk with mother. This is very much
-			the way I feel tonight with the compliment of our Chairman that I could cover this
-			great subject of the history of the movement which is over 100 years old.</p>
+			the way I feel tonight with the compliment of our Chairman that I could cover this great
+			subject of the history of the movement which is over 100 years old.</p>
 		<p> I’m reminded of the signs in the <place>United States</place>. As you go through from
 			the East to the West you see signs--“<q who="UNK">If you drink, don’t drive; if you
 				drive, don’t drink</q>”. Very good signs too, but it reminds me of Mr. <person
@@ -78,9 +82,9 @@
 				techniques, and writers shouldn’t speak without copious notes before them, otherwise
 				they go off into this air</q>.” And I’ve often thought of that, and so tonight
 			without copious notes I may go off into thin air but I’ll try not to go for hot air. </p>
-		<p> I think it’s a generally accepted thing today with most of the enlightened people of
-			the world that the idea of birth control is a mature, practical subject that can solve
-			many of our family, personal and even civic problems in the nation. It’s not generally
+		<p> I think it’s a generally accepted thing today with most of the enlightened people of the
+			world that the idea of birth control is a mature, practical subject that can solve many
+			of our family, personal and even civic problems in the nation. It’s not generally
 			recognized that the United States was also instrumental in stirring up this question
 			from the practical point of view. </p>
 		<p>You all know that it was 1800, or perhaps 1799, that the Reverend <person
@@ -152,9 +156,9 @@
 			blasphemy within, and that was the situation when I, as one working in the nursing field
 			in the lower part of New York, dealing with people, with women mostly, obstetrical
 			cases, came upon the scene. It was pretty difficult to be happy with yourself when you
-			saw the things that happened in those homes--children unwanted, children beaten,
-			cuffed, pushed around, clubbed, tied down, pushed out into the streets, no place for
-			them; mothers nervous, anxious, breathing a sigh of relief and thank-<name type="deity"
+			saw the things that happened in those homes--children unwanted, children beaten, cuffed,
+			pushed around, clubbed, tied down, pushed out into the streets, no place for them;
+			mothers nervous, anxious, breathing a sigh of relief and thank-<name type="deity"
 				>God</name> when a baby was born dead; men frantic, cross irritable; babies
 			increasing, increasing, increasing year after year; women with the only thing they could
 			do was to have an abortion or to interrupt a pregnancy, and if they couldn’t get a quack
@@ -167,15 +171,14 @@
 			from the results and from the drugs and so forth that they could find they said it ran
 			about that. </p>
 		<p> I tried to tell or to see what could be done but really, I practically knew nothing much
-			myself and when you asked the doctors they said, “Don’t touch that, you’ll
-				go to jail or to a penitentiary if you touch that subject.” And when a <person
-				reg="Sachs, Sadie">woman</person> would ask a doctor what to do so she wouldn’t have
-			another abortion and she wouldn’t go through this great strain again, he’d shrug his
-			shoulders and say, “Tell <person reg="Sachs, Jake">Jake</person> to sleep
-				on the roof”. That was the answer that these desperate mothers received from
-			their best friend, the family physician. Now, it wasn’t because the physician didn’t
-			feel this, but here were these laws which kept them in ignorance, in utter ignorance, in
-			that country. </p>
+			myself and when you asked the doctors they said, “Don’t touch that, you’ll go to jail or
+			to a penitentiary if you touch that subject.” And when a <person reg="Sachs, Sadie"
+				>woman</person> would ask a doctor what to do so she wouldn’t have another abortion
+			and she wouldn’t go through this great strain again, he’d shrug his shoulders and say,
+			“Tell <person reg="Sachs, Jake">Jake</person> to sleep on the roof”. That was the answer
+			that these desperate mothers received from their best friend, the family physician. Now,
+			it wasn’t because the physician didn’t feel this, but here were these laws which kept
+			them in ignorance, in utter ignorance, in that country. </p>
 		<p>So when I came upon the scene, I decided after all this that I didn’t want to live and do
 			this work unless I could do something constructive and something about this horrible
 			question, the waste of women’s lives; pregnancy year after year; the waste of
@@ -205,10 +208,10 @@
 		<p> It’s a long story and I won’t take too much time to tell you, but, finally, the time
 			came that I was going to try to arouse the nation as to this point of view and what to
 			do about it, about this situation. And then I looked over the history from the time of
-			Malthus to see what names--because it’s very important to have a proper name for a
-			good idea--and I just wish I could read to you, perhaps I can for a minute, some of
-			the names that they tried to bring this idea to the public. Of course, first, was the
-			Malthus <title type="book">ESSAYS ON POPULATION</title>, and then <title type="book">THE
+			Malthus to see what names--because it’s very important to have a proper name for a good
+			idea--and I just wish I could read to you, perhaps I can for a minute, some of the names
+			that they tried to bring this idea to the public. Of course, first, was the Malthus
+				<title type="book">ESSAYS ON POPULATION</title>, and then <title type="book">THE
 				ELEMENTS OF SOCIAL SCIENCE</title> by one of the <person reg="Drysdale, George R."
 				>Drysdales</person>, and that book was translated into some thirty different
 			languages, and went round the world for how many years and still perhaps is going round
@@ -245,27 +248,27 @@
 		<p>There was an arrest, the Federation Law, of course, stopped the going on of this little
 			magazine, or rather paper, that I had. Never the less, they had so many thousands and
 			thousands of letters of protest and telegrams that the <person
-				reg="Clayton, Henry DeLamar">Judge</person> just simply couldn’t even read
-			them. Now this just happened, it was just one of those things that springs up with
-			people that are . . . . ; sympathetic people that want to help, and believe that you are
-			doing something which is right, that they would like to do themselves. So their
-			expression was to send a word to the Judge that this was a wrong thing to arrest or to
-			imprison this woman who was trying to help mothers. And so, of course, the case was just
-			dismissed and we hadn’t got any further than before. </p>
+				reg="Clayton, Henry DeLamar">Judge</person> just simply couldn’t even read them. Now
+			this just happened, it was just one of those things that springs up with people that are
+			. . . . ; sympathetic people that want to help, and believe that you are doing something
+			which is right, that they would like to do themselves. So their expression was to send a
+			word to the Judge that this was a wrong thing to arrest or to imprison this woman who
+			was trying to help mothers. And so, of course, the case was just dismissed and we hadn’t
+			got any further than before. </p>
 		<p>Those laws are still on the Statute book although I spent seven years trying to get them
 			changed, and the best thing that we could do, through our attorney, <person
-				reg="Pilpel, Harriet F.">Mrs. Pilpel</person>--I wish I could find her here--who
-			was one of our attorneys who were able to get a decision through the Courts which did
-			allow the medical profession to send articles or literature, or supplies through the
-			mails and common-carriers, but we never got it through the legislature, through
-			Congress, and just before I came away I was told that the <org
-				reg="International Conference on Planned Parenthood, 3rd">Proceedings of
-				the <place reg="Bombay, India">Bombay</place> Conference</org> had been held up in
-				<place reg="Washington DC">Washington</place>, 300 copies of the proceedings of
-			scientists, distinguished men and women, who attended this Conference; a wonderful
-			message from Prime Minister <person reg="Nehru, Jawaharlal">Nehru</person>, but there
-			were some chapters, or some papers on contraception and its technique. Well, we’ll have
-			a wonderful fight when we get back to get those books. </p>
+				reg="Pilpel, Harriet F.">Mrs. Pilpel</person>--I wish I could find her here--who was
+			one of our attorneys who were able to get a decision through the Courts which did allow
+			the medical profession to send articles or literature, or supplies through the mails and
+			common-carriers, but we never got it through the legislature, through Congress, and just
+			before I came away I was told that the <org
+				reg="International Conference on Planned Parenthood, 3rd">Proceedings of the <place
+					reg="Bombay, India">Bombay</place> Conference</org> had been held up in <place
+				reg="Washington DC">Washington</place>, 300 copies of the proceedings of scientists,
+			distinguished men and women, who attended this Conference; a wonderful message from
+			Prime Minister <person reg="Nehru, Jawaharlal">Nehru</person>, but there were some
+			chapters, or some papers on contraception and its technique. Well, we’ll have a
+			wonderful fight when we get back to get those books. </p>
 		<p>As a matter of fact, most of the pioneers in the United States who have done this work
 			have been arrested, have been fined, jailed. And I had a very short sentence of only
 			thirty days, nothing compared to some of the others. One <person reg="Unidentified"
@@ -301,25 +304,25 @@
 			expected to have a decision. </p>
 		<p> Well, we were all arrested and <person reg="Byrne, Ethel Higgins">one went on a hunger
 				strike</person>, and I, we were just about getting into the war, so I spent thirty
-			very interesting days in the <org reg="Queens County Penitentiary">penitentiary</org> and
-			learned a great deal about most of the inmates of the penitentiary. They averaged eight
-			children, all of them, and were just the kind of children that I saw in the slums where
-			I had worked, except that they were grown-up and going to jail and to the penitentiary.
-			And so we got a decision, we got a decision in New York State that--of course, I was
-			not a practising physician and had I been it would have been different, and so my
-			conviction was perfectly proper and legal--but any physician lawfully practising could
-			give such information for the cure of prevention of disease. That wasn’t quite what we
-			wanted but, nevertheless, doctors have their own way of analysing and interpreting the
-			cure and prevention of disease, and this was a very important decision because on that
-			decision of one State the other States have since sort of folded up and have gone on
-			with clinics. We had at one time over 600 of these private birth control clinics. Since
-			the war, which took many of the doctors away, I think that now we have somewhere in the
-			500 region. these are all private clinics mostly, and they are staffed by physicians,
-			medical practitioners and nurses, and they have very high standards. Dr. <person
-				reg="Stone, Abraham">Stone</person> who is the Medical Director of our <org
-				reg="Margaret Sanger Research Bureau">Bureau</org>, that was the first one started.
-			There I think that we claim about 150,000 records and women that have been coming back
-			to us through the years. </p>
+			very interesting days in the <org reg="Queens County Penitentiary">penitentiary</org>
+			and learned a great deal about most of the inmates of the penitentiary. They averaged
+			eight children, all of them, and were just the kind of children that I saw in the slums
+			where I had worked, except that they were grown-up and going to jail and to the
+			penitentiary. And so we got a decision, we got a decision in New York State that--of
+			course, I was not a practising physician and had I been it would have been different,
+			and so my conviction was perfectly proper and legal--but any physician lawfully
+			practising could give such information for the cure of prevention of disease. That
+			wasn’t quite what we wanted but, nevertheless, doctors have their own way of analysing
+			and interpreting the cure and prevention of disease, and this was a very important
+			decision because on that decision of one State the other States have since sort of
+			folded up and have gone on with clinics. We had at one time over 600 of these private
+			birth control clinics. Since the war, which took many of the doctors away, I think that
+			now we have somewhere in the 500 region. these are all private clinics mostly, and they
+			are staffed by physicians, medical practitioners and nurses, and they have very high
+			standards. Dr. <person reg="Stone, Abraham">Stone</person> who is the Medical Director
+			of our <org reg="Margaret Sanger Research Bureau">Bureau</org>, that was the first one
+			started. There I think that we claim about 150,000 records and women that have been
+			coming back to us through the years. </p>
 		<p> We know now what birth control can really do. It’s no longer a theory, we know what it
 			will do for the family, for the mother, and for the community. I think that there’s
 			practically no doubt now of what it will do, except we haven’t gone far down enough, we
