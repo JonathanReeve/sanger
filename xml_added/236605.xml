@@ -15,14 +15,15 @@
 		<docDate value="1915-08-01">1 Aug 1915</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied>Closing Statement</supplied>
+				<supplied resp="MSPP">Magentation Methods of Birth Control Closing Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236605</idno>
 		<sourceDesc>
 			<bibl><title type="book">Magnetation Methods of Birth Control</title>, Aug 1915, p.
 				16</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:758</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:758</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -30,8 +31,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This letter was printed at the end of <xref from="129014.xml"
-					>Magnetation Methods of Birth Control</xref>.</p>
+		<p>This letter was printed at the end of <xref from="129014.xml">Magnetation Methods of
+				Birth Control</xref>.</p>
 		<index level1="censorship"/>
 		<index level1="physicians" level2="birth control and"/>
 		<index level1="Woman Rebel" level2="suppression of"/>
@@ -88,8 +89,7 @@
 			and let me know.</p>
 		<p>Again accept my thanks, and join hands with me in this fight for a free and intelligent
 			humanity.</p>
-		<closing>Fraternally, MARGARET H. SANGER.
-				Address:--<org>Free Speech League</org>, 241 East 201st Street, New York
-			City.</closing>
+		<closing>Fraternally, MARGARET H. SANGER. Address:--<org>Free Speech League</org>, 241 East
+			201st Street, New York City.</closing>
 	</docBody>
 </doc>

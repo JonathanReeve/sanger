@@ -6,17 +6,19 @@
 		<prepDate>2014/11/21 EK clean regs and correct proof</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-2 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-00-00">1914</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Foreword to <title type="Woman Rebel, The">The Woman Rebel</title> <title type="book">Suppressed Obscene
-				Articles</title></supplied>, pp. 2-3</titlePart> 
+			<titlePart><supplied resp="MSPP">Foreword to The Woman Rebel Suppressed Obscene
+					Articles</supplied>, pp. 2-3</titlePart>
 		</docTitle>
 		<idno>msp236723</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title type="mf">Margaret Sanger Papers Microfilm, Smith College Collections,</title>
-				S76:0869</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers Microfilm, Smith College
+					Collections,</title> S76:0869</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,7 +27,7 @@
 	<headNote resp="MSPP">
 		<p>This is the foreword to a booklet <title type="book">The Suppressed Obscene
 				Articles</title> that included reprints of articles in the <title type="journal">The
-				WOman Rebel</title> that were listed in indictments: <xref from="420038.xml">The
+				Woman Rebel</title> that were listed in indictments: <xref from="420038.xml">The
 				Prevention of Conception</xref>, March 1914, "Open Discussion" by <person
 				reg="Cole, Ethel">Ethel Cole</person>, May 1914, <xref from="420006.xml">Abortion in
 				the United States</xref> May 1914, "Can You Afford to Have a Large Family," by

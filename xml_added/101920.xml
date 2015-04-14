@@ -12,11 +12,13 @@
 		<prepDate>2015-01-23 EK correct proof</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
 		<prepDate>2015-03-09 CH tag table</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1915-03-00 ">Mar/Apr 1915</docDate>
 		<docTitle>
-			<titlePart>Introduction to <title type="pamphlet">Dutch Methods of Birth
-				Control</title></titlePart>
+			<titlePart>Introduction to Dutch Methods of Birth
+				Control</titlePart>
 		</docTitle>
 		<idno>msp101920</idno>
 		<sourceDesc>
@@ -208,7 +210,8 @@
 			<p>Taken from Annual Summary of Marriages, Births, and Deaths in England and
 					<place>Wales</place>, etc., for 1912.<lb/></p>
 
-			<p><table rows="4" cols="4">
+			<p>
+				<table rows="4" cols="4">
 					<head>AMSTERDAM (Malthusian League started 1881; Dr. Aletta Jacobs gave advice
 						to poor women, 1885).</head>
 					<row role="label">
@@ -236,10 +239,12 @@
 						<cell>90</cell>
 						<cell>64* per 1000 living births.</cell>
 					</row>
-				</table></p>
+				</table>
+			</p>
 		</div>
 		<div type="section">
-			<p><table rows="4" cols="4">
+			<p>
+				<table rows="4" cols="4">
 					<head>The HAGUE (now the headquarters of the Neo-Malthusian League.</head>
 
 					<row role="label">
@@ -268,10 +273,12 @@
 						<cell>99</cell>
 						<cell>66* per 1,000 living births.</cell>
 					</row>
-				</table></p>
+				</table>
+			</p>
 		</div>
 		<div type="section">
-			<p><table rows="4" cols="4">
+			<p>
+				<table rows="4" cols="4">
 					<head><place reg="Rotterdam, Netherlands, the">ROTTERDAM</place>.</head>
 
 					<row role="label">
@@ -299,11 +306,13 @@
 						<cell>105</cell>
 						<cell>79 per 1,000 living births.</cell>
 					</row>
-				</table></p>
+				</table>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub">FERTILITY AND ILLEGITIMACY RATES.</head>
-			<p><table rows="3" cols="4">
+			<p>
+				<table rows="3" cols="4">
 					<row role="label">
 						<cell>-----------------------</cell>
 						<cell>1880-2.</cell>
@@ -323,7 +332,8 @@
 						<cell>11.3-----Illegitimate Births per 1,000 Unmarried Women aged 15 to
 							45</cell>
 					</row>
-				</table></p>
+				</table>
+			</p>
 			<p>
 				<table rows="3" cols="4">
 					<head>THE HAGUE.</head>
@@ -346,10 +356,12 @@
 						<cell>13.6</cell>
 						<cell>7.7* (*Lowest figure for the Continent.)</cell>
 					</row>
-				</table></p>
+				</table>
+			</p>
 		</div>
 		<div type="section">
-			<p><table rows="3" cols="4">
+			<p>
+				<table rows="3" cols="4">
 					<head>ROTTERDAM.</head>
 
 					<row role="label">
@@ -370,11 +382,14 @@
 						<cell>16.5</cell>
 						<cell>13.1</cell>
 					</row>
-				</table></p>
+				</table>
+			</p>
 
-			<p><emph rend="blockquote">(*These figures are the lowest in the whole list of death
+			<p>
+				<emph rend="blockquote">(*These figures are the lowest in the whole list of death
 					rates and infantile mortalities in the summary of births and deaths in cities in
-					this Report.</emph></p>
+					this Report.</emph>
+			</p>
 
 		</div>
 		<div type="section">
