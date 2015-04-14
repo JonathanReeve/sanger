@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2014/06/19 MM</prepDate>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor><person reg="Aldrich, Pearl">Pearl Aldrich</person></docAuthor>
+		<docDate value="1959-09-10">10 Sept 1959</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on the Phoenix Planned Parenthood Clinic</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp421985</idno>
+		<sourceDesc>
+			<bibl><title type="article">Planned Parenthood Group Defended by Mrs. Sanger</title>.
+					<title type="journal">Tucson Daily Citizen</title>, Sept. 10, 1959</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="ALPE">Aldrich, Pearl</name>
+			<name id="ASL">Arizona State Law</name>
+			<name id="HARIR">Hardy, Iris</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="planned parenthood"/>
+		<index level1="birth control" level2="distribution of information about"/>
+		<index level1="birth control" level2="suppression of"/>
+	</headNote>
+	<docBody>
+		<head> Planned Parenthood Group Defended by Mrs. Sanger </head>
+		<byline>By PEARL ALDRICH</byline>
+		<p><q who="ALDPE">A new round in the battle over birth control was shaping up today with
+				Margaret Sanger of Tucson rushing to the defense of <org>Planned Parenthood of
+					Phoenix</org>, Inc.</q></p>
+		<p><q who="ALDPE">That organization was warned yesterday it apparently is violating a
+				little-known. 20-year old law by distributing birth control literature.</q></p>
+		<p>"The Phoenix clinic has to get a good lawyer and show it is doing nothing illegal,"<q
+				who="ALDPE"> Mrs. Sanger said here today.</q>
+		</p>
+		<p><q who="ALDPE"><org>Planned Parenthood Clinic of Tucson</org>, 55 E. Jackson St., also
+				distributed literature through individuals and by the mail.</q></p>
+		<p><q who="ALDPE">Officials of the Phoenix organization were informed of the 20-year-old law
+				yesterday when they protested a county ban in literature distribution at the County
+				Hospital and Health Department.</q></p>
+		<p><q who="ALDPE">County Mgr. <person reg="Sullivan, Tom M.">Tom M. Sullivan</person> quoted
+				the law as follows:</q></p>
+		<p><q who="ASL">"Any person who willfully writes, composes or publishes a notice or an
+				advertisement of any medicine or any means of producing or facilitating a
+				miscarriage or abortion, or for prevention of conception, or who offers his services
+				by notice, advertisement or otherwise to assist in the accomplishment of any such
+				purpose is guilty of a misdemeanor."</q></p>
+		<p><q who="ALDPE">Mrs. Sanger said, </q>"We looked into that when we first started the
+			clinic here (in 1935) and the only thing we could find that was illegal was to advertise
+			publicly.</p>
+		<p>"We went to Phoenix then, went through that with the attorney general's office up there
+			and that was what we found. We've always told the Phoenix people not to advertise and I
+			don't believe they have. The first thing they've got to do is get a good lawyer and show
+			they're doing nothing illegal."</p>
+		<p><q who="ALDPE">According to <person reg="Hardy, Iris">Mrs. Frank Hardy</person>, vice
+				president of the board of directors of the local Planned Parenthood Clinic,</q><q
+				who="HARIR"> "This is so old hat, it isn't even funny. As far as I know, the local
+				clinic isn't distributing literature in the County Hospital here or the Health
+				Department but we try to get all the literature we can out to the public. People who
+				come to the Clinic take literature and read it and pass it on to their friends and
+				each year, during the campaign, we mail it out. Every organization in the country
+				does."</q></p>
+		<p><q who="ALDPE">Violation of Arizona law is punishable by a fine not to exceed $300, a
+				jail sentence not to exceed six months, or both.</q></p>
+		<p><q who="ALDPE"><person reg="Stidham, Charles C.">Charles C. Stidham</person>,
+					<org>Maricopa County</org> attorney, said he would have to issue a complaint
+				against the Phoenix clinic if called upon to do so by any citizen.</q></p>
+		<p>Mrs. Sanger indicated she will throw her weight behind the <place reg="Phoenix, AZ"
+				>Phoenix</place> clinic in this fight. She said she would go to Phoenix, if
+			necessary, after she ascertains the full extent of the problem.</p>
+		<p/>
+	</docBody>
+</doc>

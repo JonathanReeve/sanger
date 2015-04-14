@@ -1,48 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
-<doc type="Published statement ">
-    <mepHeader>
-        <prepDate>2014/07/08 MM</prepDate>
-        <docAuthor><person reg="Sanger, Margaret">Margaret
-            Sanger</person></docAuthor>
-        <docDate value="1961-10-02">2 Oct 1961</docDate>
-        <docTitle>
-            <titlePart>Statement on Episcopal Church Decision on Birth
-                Control</titlePart>
-        </docTitle>
-        <idno>msp421994</idno>
-        <sourceDesc>
-            <bibl><title type="newspaper">Tuscon Daily Citizen</title>
-                10/02/1961</bibl>
-        </sourceDesc>
-        <respStmt>
-            <resp/>
-            <name/>
-        </respStmt>
-    </mepHeader>
-    <headNote resp="MSPP">When the <title type="newspaper">Tuscan Daily
-            Citizen</title> contacted Sanger about the Episcopal Church decision
-        to endorse birth control when used in "Christian Conscience," Sanger
-        gave the following statement.<index level1="Catholic Church"
-            level2="birth control and"/><index level1="birth control"
-            level2="international"/><index level1="India"
-            level2="birth control in"/></headNote>
-    <docBody>
-        <head>Mrs. Sanger Lauds Birth Stand of Episcopalians</head>
-        <p>Contacted at her home, 65 Sierra Vista, Mrs. Sanger said, "This is
-            the way we expect a church of intelligence and responsibility to
-            act. Naturally, I am very pleased.</p>
-        <p>"The importance to the nation and the world by the Episcopal Church's
-            action can't be underestimated. I am especially glad to see that the
-            church's convention goes on record to recommend government assitance
-            (on birth control information) when it is officially sought by other
-            nations.</p>
-        <p>"This is the action we need," Mrs. Sanger added. "When India asked
-            the U.S. for information on birth control, former President <person
-                reg="Eisenhower, Dwight">Eisenhower</person> wouldn't touch it.
-            He was wrong. Public education of all kinds, especially in this
-            crucial matter, is certainly a part of our government's
-            responsibility."</p>
-        <p/>
-    </docBody>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2014/07/08 MM</prepDate>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor><person reg="Brooks, Gene">Gene Brooks</person></docAuthor>
+		<docDate value="1961-10-02">2 Oct 1961</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Statement on Episcopal Church Decision on Birth
+					Control</supplied></titlePart>
+		</docTitle>
+		<idno>msp421994</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger Lauds Birth Stand of Episcopalians</title>,
+					<title type="journal">Tuscon Daily Citizen</title>, Oct. 2, 1961</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="KINAR">Kinsolving, Arthur B.</name>
+			<name id="ECGC">Episcopal Church General Convention</name>
+			<name id="FOWJO">Fowler, John Clinton</name>
+			<name id="TDC">Tucson Daily Citizen</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>Comments by </p><index level1="Catholic Church"
+			level2="birth control and"/>
+		<index level1="birth control" level2="international"/>
+		<index level1="India" level2="birth control in"/>
+	</headNote>
+	<docBody>
+		<head>Mrs. Sanger Lauds Birth Stand of Episcopalians</head>
+		<byline>By GENE BROOKS</byline>
+		<p><q who="TDC">Mrs. Sanger, world leader in the birth control movement, today lauded the
+					<org>Episcopal Church</org> for endorsing artificial birth control</q> "<q
+				who="ECGC">when used in Christian conscience.</q>"</p>
+		<p><q who="TDC">The Right Rev. <person reg="Kinsolving, Arthur B.">Arthur B.
+					Kinsolving</person>, Episcopal bishop of <place>Arizona</place>, just returned
+				from the Detroit convention, said today:</q> "<q who="KINAR">I am four-square behind
+				the convention's endorsement of planned parenthood.</q>"</p>
+		<p><q who="TDC">But a <place reg="Tucson, AZ">Tucson</place> Episcopal <person
+					reg="Fowler, John Clinton"> minister</person> was not enthusiastic about action
+				taken Thursday at the <org reg="Protestant Episcopal Church General Convention"
+					>general convention of Protestant Episcopal Church</org> in Detroit.</q>
+		</p>
+		<p><q who="TDC">The governing committee said family planning was a</q> "<q who="FOWJO">right
+				and important factor in Christian family life.</q>"</p>
+		<p><q who="TDC">Bishop Kinsolving said: </q>"<q who="KINAR">I started backing Mrs. Sanger's
+				leadership in this crucial problem 30 years ago in <place reg="Long Island, NY">Long
+					Island, N.Y.</place> We feel that the church convention's action is a triumph
+				for our nation and for much of the world's congested populations.</q>"</p>
+		<p><q who="TDC">Mrs. Sanger said,</q> "This is one of the important steps I've been hoping
+			for. It's the action we expect from an enlightened church."</p>
+		<p><q who="TDC">Contacted at her home, 65 Sierra Vista, Mrs. Sanger said,</q> "This is the
+			way we expect a church of intelligence and responsibility to act. Naturally, I am very
+			pleased."</p>
+		<p>"The importance to the nation and the world by the Episcopal Church's action can't be
+			underestimated. I am especially glad to see that the church's convention goes on record
+			to recommend government assistance (on birth control information) when it is officially
+			sought by other nations."</p>
+		<p>"This is the action we need," <q who="TDC">Mrs. Sanger added.</q> "When
+				<place>India</place> asked the <place reg="United States">U.S.</place> for
+			information on birth control, former President <person reg="Eisenhower, Dwight D."
+				>Eisenhower</person> wouldn't touch it. He was wrong. Public education of all kinds,
+			especially in this crucial matter, is certainly a part of our government's
+			responsibility."</p>
+		<p><q who="TDC">The Very Reverend John Clinton Fowler, of <org>St. Michael's &amp; All
+					Angels Episcopal Church</org>, said he is </q>"less than enthusiastic about
+			birth control action taken at the Detroit convention."</p>
+		<p><q who="FOWJO">"I wish the declaration hadn't been made," <q who="TDC">he said.</q> "The
+				artificial prevention of birth is a theological matter and ought to be decided by
+				moral theologians. It certainly shouldn't be decided by a majority vote of lay and
+				clerical representatives to a convention.</q></p>
+		<p>"It is my opinion," <q who="TDC">Father Fowler said,</q> "that the conscience of
+			Christian people need not necessarily be guided by this decision of the general
+			convention of the Episcopal Church."</p>
+		<p><q who="TDC">The Rev. <person reg="Ferguson, George">George Ferguson</person>, minister
+				of <org>St. Philip's in the Hills Church</org>, said he had not comments on the
+				convention's action. But he pointed out that the birth control endorsement reaffirms
+				earlier endorsements of birth control by the <org reg="Church of England">Anglican
+					Church of England</org>, the U.S. Episcopal Church's parent church.</q></p>
+		<p><q who="TDC">The birth control pronouncement was one of the last official actions of the
+				week-long Episcopal convention in <place reg="Detroit, MI">Detroit</place>.</q></p>
+	</docBody>
 </doc>
