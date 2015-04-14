@@ -11,7 +11,8 @@
 		</docAuthor>
 		<docDate value="1921-03-00">Mar 1921</docDate>
 		<docTitle>
-			<titlePart><supplied>"The Repeal of Anti-Birth Control Laws"</supplied>Editorial</titlePart>
+			<titlePart><supplied resp="MSPP">The Repeal of Anti-Birth Control
+				Laws Editorial</supplied></titlePart>
 		</docTitle>
 		<idno>msp320106</idno>
 		<sourceDesc>
@@ -23,7 +24,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Unsigned editorial likely written by Margaret Sanger.</p>
+		<p>This unsigned editorial likely written by Margaret Sanger.</p>
 		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="birth control laws and legislation" level2="state"/>
 		<index level1="birth control laws and legislation" level2="state"
@@ -47,19 +48,25 @@
 			statement of these three great tasks. These, it seems to me, are roughly to be
 			differentiated as follows:</p>
 		<list>
-			<item><emph rend="italics">(1) AGITATION AND EDUCATION: aiming to arrest, awaken and
-					focus public interest to the pivotal importance of birth control; to point out
-					the importance of a sound population policy for the <place>United States</place>
-					and all countries of the world; to show the organized relationship of the
-					function of Voluntary Motherhood in all programs aiming at social advance; to
-					organize enlightened public opinion into decisive action.</emph></item>
-			<item><emph rend="italics">(2) POLITICAL AND LEGISLATIVE ACTION: aiming to effect
-					changes in federal and state laws restricting the knowledge and practice of
-					birth control; to the end that hindrances may be removed preventing practical
-					education in sex and social hygiene.</emph></item>
-			<item><emph rend="italics">(3) PRACTICAL SCIENTIFIC TEACHING: aiming to meet the demand
+			<item>
+				<emph rend="italics">(1) AGITATION AND EDUCATION: aiming to arrest, awaken and focus
+					public interest to the pivotal importance of birth control; to point out the
+					importance of a sound population policy for the <place>United States</place> and
+					all countries of the world; to show the organized relationship of the function
+					of Voluntary Motherhood in all programs aiming at social advance; to organize
+					enlightened public opinion into decisive action.</emph>
+			</item>
+			<item>
+				<emph rend="italics">(2) POLITICAL AND LEGISLATIVE ACTION: aiming to effect changes
+					in federal and state laws restricting the knowledge and practice of birth
+					control; to the end that hindrances may be removed preventing practical
+					education in sex and social hygiene.</emph>
+			</item>
+			<item>
+				<emph rend="italics">(3) PRACTICAL SCIENTIFIC TEACHING: aiming to meet the demand
 					for birth control and hygienic knowledge by women WHO MOST NEED IT; aiming to
-					establish birth control as a universal practice.</emph></item>
+					establish birth control as a universal practice.</emph>
+			</item>
 		</list>
 		<p>Important as are the first two tasks here defined, they are misdirected unless they
 			converge towards the third; unless they aim always to facilitate the solution of the
@@ -140,14 +147,20 @@
 			ancient human habits or the most deep-rooted of instincts.</p>
 		<p>The amendment to the New York law had the great value of emphasizing the difficulties we
 			must inevitably face, instead of blinding us to them. It opens the way to--</p>
-		<p><emph rend="italics">Direct contact between those competent to teach scientific practical
-				birth control and sex hygiene to women who need and demand it. Physicians, nurses
-				and midwives in public and private practice.</emph></p>
-		<p><emph rend="italics">Establishment of special clinics, dispensaries and hygiene
-				centers.</emph></p>
-		<p><emph rend="italics">Transference of the idea of birth control from the realm of the
+		<p>
+			<emph rend="italics">Direct contact between those competent to teach scientific
+				practical birth control and sex hygiene to women who need and demand it. Physicians,
+				nurses and midwives in public and private practice.</emph>
+		</p>
+		<p>
+			<emph rend="italics">Establishment of special clinics, dispensaries and hygiene
+				centers.</emph>
+		</p>
+		<p>
+			<emph rend="italics">Transference of the idea of birth control from the realm of the
 				theoretical, the controversial, and the illegal to the field of the experimental,
-				the practical, the scientific, the hygienic and the eugenic.</emph></p>
+				the practical, the scientific, the hygienic and the eugenic.</emph>
+		</p>
 		<p>This means the next and by far the most important step in our work. It is likewise our
 			greatest and our central task. To those who spurn such a step, who prefer to place all
 			their hopes and all their faith in one only of these great tasks--the repeal of one

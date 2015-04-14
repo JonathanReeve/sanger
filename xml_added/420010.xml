@@ -8,10 +8,12 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-05-00">May 1914</docDate>
 		<docTitle>
-			<titlePart>"The Menace's" Advice</titlePart>
+			<titlePart>The Menace's Advice</titlePart>
 		</docTitle>
 		<idno>msp420010</idno>
 		<sourceDesc>
