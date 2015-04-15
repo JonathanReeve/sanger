@@ -4,13 +4,13 @@
 	<mepHeader>
 		<prepDate>2003/07/22 SR</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-04-15 CH regularized title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-07-00">Jul 1923</docDate>
 		<docTitle>
-			<titlePart>The Vision of George Drysdale</titlePart>
+			<titlePart><supplied resp="MSPP">The Vision of George Drysdale, Part I</supplied></titlePart>
 		</docTitle>
 		<idno>msp225187</idno>
 		<sourceDesc>

@@ -5,31 +5,38 @@
 		<prepDate>2014-05-28 MM</prepDate>
 		<prepDate>2015-02-17 CH clean up</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-04-15 CH clean tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1926-10-00">
 			<supplied resp="MSPP">Oct 1926</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart>Reply to the Views Offered by the Committee of the <org>United Lutheran
-					Church</org></titlePart>
+			<titlePart>Reply to the Views Offered by the Committee of the United Lutheran
+				Church</titlePart>
 		</docTitle>
 		<idno>msp021510</idno>
 		<sourceDesc>
-			<bibl>L72:727Library of Congress Microfilm L72:727</bibl>
+			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
+			<bibl>Library of Congress Microfilm 72:727</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This response was written for the Fifth <org
+	<headNote resp="MSPP">
+		<p>This response was written for the Fifth <org
 				reg="Biennial Convention of the United
 		Lutheran Church, 5th">Biennial Convention
 				of the United Lutheran Church</org>, held in <place>Richmond, VA</place> between Oct
-			19-27, 1926. Sanger did not attend the meeting.</p></headNote>
-	<index level1="birth control" level2="religion and"/>
-	<index level1="marriage"/>
-	<index level1="birth control" level2="and marriage"/>
+			19-27, 1926. Sanger did not attend the meeting.</p>
+		<index level1="birth control" level2="religion and"/>
+		<index level1="marriage"/>
+		<index level1="birth control" level2="and marriage"/>
+	</headNote>
+
 	<docBody>
 		<head>REPLY TO THE VIEWS OFFERED BY THE COMMITTEE OF THE UNITED LUTHERAN CHURCH TO BE
 			PRESENTED AT THE CONVENTION FOR 1926 IN RICHMOND, VIRGINIA,</head>

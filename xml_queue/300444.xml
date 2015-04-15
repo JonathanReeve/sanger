@@ -5,15 +5,14 @@
 		<prepDate>2014/20/12 VS initial tagging</prepDate>
 		<prepDate>2014/14/03 CH proof tags</prepDate>
 		<prepDate>2014/14/03 VS correct tags</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-04-15 CH regularized title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1932-05-19">19 May 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Testimony Before the House of Representatives Committee on
-					Ways and Means on H. R. 11082</supplied>
+				<supplied resp="MSPP">Testimony Before the House of Representatives on H. R. 11082</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp300444</idno>

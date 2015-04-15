@@ -10,15 +10,22 @@
 		<prepDate>2014/03/13 EK clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-13 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-04-15 CH fixed title</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Short Pieces from the April 1914 issue of <title type="journal">The Woman Rebel</title></supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Short Pieces from the April 1914 issue of The Woman
+					Rebel</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp420068</idno>
 		<sourceDesc>
 			<bibl><title>Woman Rebel, The</title>, April 1914, p. 16</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:0530</bibl>
+			<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:0530</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
@@ -31,15 +38,17 @@
 	<docBody>
 		<div type="section">
 			<head>THE POST OFFICE BAN</head>
-			<p><title type="journal">THE WOMAN REBEL</title> FEELS PROUD THE <org reg="United States Post Office"
-					>POST OFFICE</org> AUTHORITIES DID NOT APPROVE OF HER. </p>
+			<p><title type="journal">THE WOMAN REBEL</title> FEELS PROUD THE <org
+					reg="United States Post Office">POST OFFICE</org> AUTHORITIES DID NOT APPROVE OF
+				HER. </p>
 			<p>SHE SHALL BLUSH WITH SHAME IF EVER SHE BE APPROVED OF BY OFFICIALISM OR
 				"COMSTOCKISM."</p>
 		</div>
 		<div type="section">
 			<head>A WOMAN'S DUTY</head>
-			<p>TO BREED LARGE FAMILIES--IN ACCORDANCE WITH <name type="law" reg="United States Criminal Code, Section 211">SECTION 211 OF THE
-					CRIMINAL CODE</name> AS AMENDED BY THE ACT OF MARCH 4, 1911</p>
+			<p>TO BREED LARGE FAMILIES--IN ACCORDANCE WITH <name type="law"
+					reg="United States Criminal Code, Section 211">SECTION 211 OF THE CRIMINAL
+					CODE</name> AS AMENDED BY THE ACT OF MARCH 4, 1911</p>
 		</div>
 	</docBody>
 </doc>
