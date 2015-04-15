@@ -6,14 +6,17 @@
 		<prepDate>2012-02-08 CH proof and correct</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-04-08 CH proof tags again</prepDate>
-		<docAuthor><person reg="Conrad, Earl">Earl Conrad</person></docAuthor>
+		<docAuthor>
+			<person reg="Conrad, Earl">Earl Conrad</person>
+		</docAuthor>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1945-09-22">22 Sept 1945</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the Chicago
-				Defender</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the Chicago Defender</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp320145</idno>
 		<sourceDesc>
@@ -27,7 +30,8 @@
 			</resp>
 		</respStmt>
 	</mepHeader>
-	<headNote><p>This interview was published in the "American Viewpoint" column.</p>
+	<headNote>
+		<p>This interview was published in the "American Viewpoint" column.</p>
 		<index level1="African-Americans" level2="maternal mortality rates of"/>
 		<index level1="African-Americans" level2="infant mortality rates of"/>
 		<index level1="African-Americans" level2="MS on"/>
@@ -54,7 +58,7 @@
 			<p>
 				<q who="CONEA">In recent years Miss Sanger has let down from the great energies she
 					gave to her idea in an earlier period. She estimates that she has made about
-					67,000 speeches for birth control--addresses all over <place>America</place>, in
+					67,000 speeches for birth control--addresses all over <place reg="United States">America</place>, in
 						<place>Europe</place> and the <place reg="Asia">Orient</place>. It was
 					nothing to speak five or ten times a day.</q>
 			</p>

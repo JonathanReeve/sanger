@@ -4,11 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/06/11 AS encoded</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1955-09-14">14 Sept 1955</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the Arizona Daily
-				Star</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the Arizona Daily Star</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421964</idno>
 		<sourceDesc>
@@ -21,8 +24,9 @@
 			<name id="ADS">Arizona Daily Star</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke to reporters about her upcoming trip to Japan for the
-			Fifth International Conference on Planned Parenthood.</p>
+	<headNote resp="MSPP">
+		<p>Sanger spoke to reporters about her upcoming trip to Japan for the Fifth International
+			Conference on Planned Parenthood.</p>
 		<index level1="International Planned Parenthood Federation"/>
 		<index level1="conferences" level2="International Conference on Planned Parenthood"
 			level3="1955 (5th)"/>
@@ -77,8 +81,8 @@
 			<p>Mrs. Slee's last trip to Japan was in March of 1954 when she went to accept the
 				invitation for this conference. In the meantime she has had close contact with the
 				country in the [personable?] pretty young <person reg="Kato, Sumiko">Sumiko
-					Kato</person> who lived with her last year while attending <place>Arizona
-					College of Commerce</place> here. Now back in Japan, Sumiko is doing secretarial
+					Kato</person> who lived with her last year while attending <org>Arizona
+					College of Commerce</org> here. Now back in Japan, Sumiko is doing secretarial
 				work at the conference and Mrs. Slee will see her on this trip.</p>
 			<p>She will sail on the <place reg="President Cleveland, American President Ocean Liner"
 					>President Cleveland</place> from <place reg="Los Angeles, California">Los

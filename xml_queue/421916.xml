@@ -9,8 +9,10 @@
 		</docAuthor>
 		<docDate value="1937-07-19">19 Jul 1937</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on the National Committee on Federal
-					Legislation for Birth Control</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on the National Committee on Federal Legislation for
+					Birth Control</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421916</idno>
 		<sourceDesc>
@@ -24,9 +26,10 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger released a press notice about the disbanding of the National
-			Committee on Federal Legislation for Birth Control. Unity was the journal of the Unity
-			Church, a spiritual philosophical movement. </p>
+	<headNote resp="MSPP">
+		<p>Sanger released a press notice about the disbanding of the National Committee on Federal
+			Legislation for Birth Control. Unity was the journal of the Unity Church, a spiritual
+			philosophical movement. </p>
 		<index level1="birth control laws and legislation" level2="Federal"/>
 		<index level1="birth control" level2="medical community and"/>
 		<index level1="birth control" level2="American opinion on"/>
@@ -35,7 +38,8 @@
 	</headNote>
 	<docBody>
 		<head>Birth Control Committee Disbands, Victorious</head>
-		<p><q who="U">The work of the <org>National Committee on Federal Legislation for Birth
+		<p>
+			<q who="U">The work of the <org>National Committee on Federal Legislation for Birth
 					Control</org> is done and well done, the organization is therefore dissolved,
 				Margaret Sanger, president, announced in an editorial in the current issue of her
 				magazine, The <title type="journal">National Birth Control News</title>. Hailing the
@@ -43,14 +47,16 @@
 					Association</org>as strengthening the cause of birth control, already victorious
 				through the clarification of the Federal Comstock statute, Mrs. Sanger disclosed
 				that her Committee has been formally dissolved by unanimous action of its Board of
-				Directors. The Resolution embodying this action reads:</q></p>
+				Directors. The Resolution embodying this action reads:</q>
+		</p>
 		<p>“Whereas the purposes of the National Committee on Federal Legislation for Birth Control,
 			Inc., have been accomplished, in the light of the recent decision by the <org
 				reg="United States Circuit Court of Appeals for the Second Circuit">Circuit Court of
 				Appeals</org>,</p>
 		<p>“Be it Resolved that the National Committee on Federal Legislation for Birth Control,
 			Inc., be dissolved...” </p>
-		<p><q who="U">Her own education as a trained nurse made her see more than twenty years ago
+		<p>
+			<q who="U">Her own education as a trained nurse made her see more than twenty years ago
 				that birth control was a medical and technical problem, over and above everything
 				else, said Mrs. Sanger.</q>
 		</p>
@@ -59,7 +65,8 @@
 			recognition. Time and again members of the profession, even those in high standing, have
 			told us that we could never win. But individual support grew. Organized support grew.
 			Today we can feel that the same principles of right have won.” </p>
-		<p><q who="U"><org>The U.S. Circuit Court of Appeals for the Second Circuit</org> handed
+		<p>
+			<q who="U"><org>The U.S. Circuit Court of Appeals for the Second Circuit</org> handed
 				down a decision in a test case on November 30, 1936, stating that the design of the
 				Federal Comstock statute “was not to prevent the importation, sale or carriage by
 				mail of things which might intelligently be employed by conscientious and competent
@@ -67,8 +74,9 @@
 				patients.” Thus Mrs. Sanger won her fight for an amendment to the statute exempting
 				physicians from its restrictions.</q>
 		</p>
-		<p><q who="U">The American Medical Association at its annual Convention in <place
-					reg="Atlantic City, New Jersey">Atlantic City</place>unanimously adopted the
+		<p>
+			<q who="U">The American Medical Association at its annual Convention in <place
+					reg="Atlantic City, NJ">Atlantic City</place>unanimously adopted the
 				report of its <org>Committee to Study Contraceptive Practices</org>, by action of
 				its <org>House of Delegates</org> on June 8th. The Committee recommended the
 				teaching of contraception in medical schools, the investigation of materials,

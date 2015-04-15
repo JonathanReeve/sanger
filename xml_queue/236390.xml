@@ -7,10 +7,14 @@
 		<prepDate>2014/02/11 CH added draft version</prepDate>
 		<prepDate>2014-11-12 CH clean regs</prepDate>
 		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1939-04-10">10 Apr 1939</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Creating a World of Tomorrow</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Creating a World of Tomorrow</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236390</idno>
 		<sourceDesc>
@@ -47,8 +51,10 @@
 	<docBody>
 		<byline>Mrs. Margaret Sanger, Honorary <del>President</del>
 			<add>Chairman</add><lb/>Birth Control Federation of America</byline>
-		<dateline><place>501 Madison Avenue, New York.</place>
-			<date value="1939-04-10">April 10, 1939</date></dateline>
+		<dateline>
+			<place reg="New York, NY">501 Madison Avenue, New York.</place>
+			<date value="1939-04-10">April 10, 1939</date>
+		</dateline>
 		<p>We are soon to witness the opening of the <org>New York World’s Fair</org> and will
 			doubtless stand amazed at the progress that Science, Invention and Medicine have made
 			during the past century. We shall find eloquent evidence that man has taken remarkable
@@ -76,9 +82,9 @@
 			from Europe alone migrated into the new lands. Each country in Europe contributed some
 			of its surplus numbers to the <place>United States</place>, <place>Canada</place>,
 				<place>South America</place> and <place>Australia</place>, but <del>in spite of
-				this</del> <add>Europe’s population</add> they grew more and more congested, and
-			finally there was an explosion into the World War which nearly wiped out our
-			civilization.</p>
+				this</del>
+			<add>Europe’s population</add> they grew more and more congested, and finally there was
+			an explosion into the World War which nearly wiped out our civilization.</p>
 		<p>Yet from 1910 on the German authorities were issuing statements of warning to the world
 			that her population was increasing to the explosion point and her needs of expansion and
 			land were dominating her every political and economic move. <person
@@ -89,10 +95,10 @@
 				part of the globe is inhabited, new territory must be obtained at a cost to its
 				possessors, that is to say, by conquest, which thus becomes a law of
 			necessity</q>”.</p>
-		<p>And more recently in 1936, <person reg="Goering, Hermann">General Goering</person>
-			issued the statement: “<q who="GOEHE">The territory in which the Germans live is too
-				small for the 66 million inhabitants, and will soon be too small for the 70 million,
-				80 million, 90 millions which we want to become</q>”.</p>
+		<p>And more recently in 1936, <person reg="Goering, Hermann">General Goering</person> issued
+			the statement: “<q who="GOEHE">The territory in which the Germans live is too small for
+				the 66 million inhabitants, and will soon be too small for the 70 million, 80
+				million, 90 millions which we want to become</q>”.</p>
 		<p><person reg="Mussolini, Benito">Mussolini</person>, in an address to the world a few
 			years ago, said: “<q who="MUSBE">If <place>Italy</place> is to amount to anything she
 				must enter into the second half of this century with a population of at least 60
@@ -181,10 +187,9 @@
 			lowest economic strata of society. <place>Great Britain</place> has done it through her
 				<org reg="United Kingdom Ministry of Health">Ministry of Health</org> and through a
 			network of approximately 3000 <org>Maternal and Infant Welfare Stations</org>, the
-			mothers of England can obtain advice how to space, limit or control the size of
-					<del>the fam</del>their families (in accordance with the
-			mother’s health, the father’s earning capacity, and the standard of living they wish to
-			maintain).</p>
+			mothers of England can obtain advice how to space, limit or control the size of <del>the
+				fam</del>their families (in accordance with the mother’s health, the father’s
+			earning capacity, and the standard of living they wish to maintain).</p>
 		<p>We should look upon birth control as a matter of social insurance not only for the health
 			of the mother, the welfare of the children born, and unborn, but also as a protection
 			for Society against the increase an multiplication of the unfit and mentally unstable.
@@ -199,8 +204,8 @@
 			to the underprivileged to enable them to help themselves. Only in this way can those
 			unable to afford the services of private physicians secure this essential
 			information.</p>
-		<p>About ten years ago a group of <place reg="Chicago, IL">Chicago</place> doctors,
-			all noted men in their profession, presented a statement at the <org
+		<p>About ten years ago a group of <place reg="Chicago, IL">Chicago</place> doctors, all
+			noted men in their profession, presented a statement at the <org
 				reg="Chicago Woman's Aid Society">Woman’s Aid Society</org> in that city.</p>
 		<p>These eighteen doctors who signed the statement, wished to record their belief that “<q
 				who="CD">it is wisdom &amp; justice to make legally available to any woman of
@@ -214,8 +219,8 @@
 			many.</p>
 		<p>The task now before us is to translate these good ideas into action. With the millions of
 			dollars being spent for health and welfare for the masses, not one cent is allotted or
-			allowed to be spent on contraceptive service for the people who can <add>not</add> afford
-			to have children.</p>
+			allowed to be spent on contraceptive service for the people who can <add>not</add>
+			afford to have children.</p>
 		<p>The Birth Control Federation of America is dedicated to help these women &amp; to free
 			them from this unnecessary bondage.</p>
 		<p>This new organization into which has been merged the two oldest birth control
