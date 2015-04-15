@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft article">
+	<mepHeader>
+		<prepDate>2012-04-30 AW Initial Tag</prepDate>
+		<prepDate>2014-04-08 CH clean regs</prepDate>
+		<prepDate>2015-04-15 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1939-00-00"><supplied resp="MSPP">ca. 1930s</supplied></docDate>
+		<docTitle>
+			<titlePart>Health</titlePart>
+		</docTitle>
+		<idno>msp236420</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S73:83</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>No final version was found. This may be part of a longer document. The
+			draft was likely written in the 1930s.</p>
+		<index level1="women" level2="health of"/>
+	</headNote>
+	<docBody>
+		<head>HEALTH</head>
+		<p>The health &amp; well being of more than 45 <add>million</add> women of child bearing age
+			of which 35 million are engaged in that precarious occupation of child bearing &amp; on
+			whom the lives of their children &amp; the health &amp; happiness of the family depend
+			should be of paramount concern to these officials entrusted with the health &amp;
+			welfare of the Nation.</p>
+		<p>It should be the object of our Public Health to protect &amp; improve the health &amp;
+			well being of this group upon whom the future of our National Citizenship depends.</p>
+		<p>From what Stock are we now storing for our future population?</p>
+
+	</docBody>
+</doc>

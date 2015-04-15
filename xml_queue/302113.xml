@@ -9,8 +9,9 @@
 		<prepDate>2015-01-28 CH combine this with two other
 			draft/excerpts.</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-03-15">15 Mar 1928</docDate>
 		<docTitle>
 			<titlePart>
@@ -39,7 +40,7 @@
 	<headNote resp="MSPP">
 		<p>On returning from an extended trip in <place>Europe</place>, Sanger
 			spoke at a mass meeting organized by the American Birth Control
-				League at <place reg="New York, NY">New York</place>'s
+			League at <place reg="New York, NY">New York</place>'s
 				<org>Engineer's Auditorium</org>. The League joined with the
 				<org>Junior League</org>, <org>New York League of Women
 				Voters</org>, <org>Woman's City Club</org>, <org>Society for
@@ -64,10 +65,7 @@
 		<index level1="overpopulation"/>
 	</headNote>
 	<docBody>
-		<head>
-			<supplied resp="MSPP">Excerpt from "<title type="article">Support
-					for Birth Control"</title></supplied>
-		</head>
+		<head> Support for Birth Control </head>
 		<div type="section">
 			<p><q who="BCR">Mrs. Sanger, the last speaker, whose appearance
 					after her long absence was greeted with great enthusiasm by
@@ -143,7 +141,8 @@
 		</div>
 		<div type="section">
 			<head type="sub">
-				<supplied resp="MSPP">From Engineer's Auditorium Speech Opening notes</supplied>
+				<supplied resp="MSPP">From Engineer's Auditorium Speech Opening
+					notes</supplied>
 			</head>
 			<p>To receive so warm a welcome on one's return, makes me glad to go
 				away, so as to want the pleasure of coming back.</p>
