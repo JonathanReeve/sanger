@@ -9,7 +9,9 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1919-00-00"><supplied resp="MSPP">ca. 1910s</supplied></docDate>
+		<docDate value="1919-00-00">
+			<supplied resp="MSPP">ca. 1910s</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>For Use of the Physicians Exclusively</titlePart>
 		</docTitle>
@@ -24,7 +26,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>The recipes on this leaflet are similar to those published in <xref from="238157.xml">Family Limitation</xref>, 1914.</p>
+		<p>The recipes on this leaflet are similar to those published in <xref from="238157.xml"
+				>Family Limitation</xref>, 1914.</p>
 		<index level1="birth control" level2="methods"/>
 		<index level1="birth control" level2="methods" level3="condom"/>
 		<index level1="birth control" level2="methods" level3="douche"/>
@@ -34,25 +37,39 @@
 	<docBody>
 		<head>FOR THE USE OF PHYSICIANS EXCLUSIVELY</head>
 		<div>
-			<list>
-				<item>Boric Acid - - - - - - - - 0.6 gram</item>
-				<item>Salicylic Acid - - - - - - 0.12</item>
-				<item>Quinine bisulphate - - - - 0.2</item>
-				<item>Resorcin - - - - - - - - - 0.12</item>
-				<item>Oleum theobromae - - - - - 5.0</item>
-			</list>
-			<p>For one Suppository</p>
-			<p>[Tales] Doses XII.</p>
+			<p><table rows="5" cols="2">
+					<row>
+						<cell>Boric Acid</cell>
+						<cell>0.6 gram</cell>
+					</row>
+					<row>
+						<cell>Salicylic Acid</cell>
+						<cell>0.12</cell>
+					</row>
+					<row>
+						<cell>Quinine bisulphate</cell>
+						<cell>0.2</cell>
+					</row>
+					<row>
+						<cell>Resorcin</cell>
+						<cell>0.12</cell>
+					</row>
+					<row>
+						<cell>Oleum theobromae</cell>
+						<cell>5.0</cell>
+					</row>
+				</table>
+				<lb/>For one Suppository <lb/>[Tales] Doses XII.</p>
 			<p>Insert one 5 to 7 minutes before and allow to melt.</p>
 			<p>If the cocoa butter in the above is objectionable, as it is to some people, the
 				following jelly can be used instead. This should be dispensed in a collapsible tube,
 				with a long nozzle, from which it can be directly injected as required:</p>
-			<list>
-				<item>Boric acid - - - - - - - - 1 dram</item>
-				<item>Salicylic acid - - - - - - 10 grain</item>
-				<item>Quinine bisulphate - - - - ½ dram</item>
-				<item>Chondrus jelly - - - - - - 4 oz</item>
-			</list>
+			<p><table rows="4" cols="2">
+				<row><cell>Boric acid</cell> <cell>1 dram</cell></row>
+				<row><cell>Salicylic acid</cell><cell>10 grain</cell></row>
+				<row><cell>Quinine bisulphate</cell><cell>&half; dram</cell></row>
+				<row><cell>Chondrus jelly</cell><cell>4 oz</cell></row>
+			</table></p>
 			<p>Inject a quantity equal to about 2 teaspoonfuls before. When the vagina is capacious
 				it is safer to use about 4 drams.</p>
 			<p>In any case a subsequent douche makes for additional safety. It is best to syringe
