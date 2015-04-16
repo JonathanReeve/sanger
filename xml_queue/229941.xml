@@ -5,11 +5,15 @@
 		<prepDate>2009/07/15 LL</prepDate>
 		<prepDate>2014-03-10 CH clean regs </prepDate>
 		<prepDate>2015-03-18 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-00-00">1931</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Introduction to the Proceedings of the Seventh
-					International Birth Control Conference</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Introduction to the Proceedings of the Seventh International
+					Birth Control Conference</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp229941</idno>
 		<sourceDesc>
@@ -53,7 +57,7 @@
 			civilization. For this reason, I believe that it is highly desirable that the record of
 			this conference be preserved in the present pages.</p>
 		<p>Civilization is being remade, not in parliaments, not in the conferences of international
-			financiers on the <place reg="Quai d'Orsay, Paris, France">Quai d’Orsay</place>, but by
+			financiers on the <place reg="Paris, France">Quai d’Orsay</place>, but by
 			obscure scientists in laboratories, by earnest workers in clinics, by the silent
 			victories of modest physicians in preventive therapy. Just as the great spectacular
 			achievements in aviation--the trans-atlantic and round-the-world flight--would never be
@@ -160,9 +164,9 @@
 				Neo-Malthusian leagues</org>, and Dr. <person reg="Drysdale, Charles R.">C. R.
 				Drysdale</person> was elected president of this organization. A <org
 				reg="International Neo-Malthusian Conference, 2nd">second international
-				conference</org> was called in <place>Liége, Belgium</place>, in 1905. Records of
+				conference</org> was called in <place>Li&eacute;ge, Belgium</place>, in 1905. Records of
 			this meeting indicate the swing of interest away from technical aspects of contraception
-			to the problems of propaganda and popularization. At the Liége meeting the
+			to the problems of propaganda and popularization. At the Li&eacute;ge meeting the
 			Neo-Malthusians came into sharp conflict with the Marxians, who were the advocates of
 			larger and larger families as the surest method to precipitate social revolution. This
 			clash of ideas had the effect of propelling public interest away from the technical and
@@ -194,25 +198,25 @@
 		<p>More and more it became apparent to me that a new direction was necessary. The theories,
 			the ramifications, the racial aspects of birth control had been thoroughly threshed out.
 			It was but a matter of time that these fundamental ideas should percolate to the
-			masses--the masses indeed were already crying aloud for “safe and
-				harmless” methods. But since the opening of the century, Medicine itself
-			has evolved from its dogmatic stage. Prevention indeed was the cry--the prevention of
-			epidemics, the prevention of disease, the conquest of the great scourges like
-			tuberculosis or syphilis, instead of their alleviation. Medicine indeed was fast
-			becoming, as a penetrating observer recently expressed it, the most personal of our
-			sciences, and was advancing from the art of curing to the art of prevention. Science was
-			effecting a veritable revolution in sanitation and general health education. The
-			practical step then to take is to apply scientific knowledge to improve conditions of
-			life.</p>
+			masses--the masses indeed were already crying aloud for “safe and harmless” methods. But
+			since the opening of the century, Medicine itself has evolved from its dogmatic stage.
+			Prevention indeed was the cry--the prevention of epidemics, the prevention of disease,
+			the conquest of the great scourges like tuberculosis or syphilis, instead of their
+			alleviation. Medicine indeed was fast becoming, as a penetrating observer recently
+			expressed it, the most personal of our sciences, and was advancing from the art of
+			curing to the art of prevention. Science was effecting a veritable revolution in
+			sanitation and general health education. The practical step then to take is to apply
+			scientific knowledge to improve conditions of life.</p>
 		<p>From the beginning, I had insisted upon the establishment of birth control clinics as the
 			swiftest, most effective, and most scientific method of advancing the cause of
 			contraception.</p>
 		<p>Yet all of this work going on in various countries, under the most diverse conditions,
 			must be correlated, coordinated, unified into a common human ideal. For this reason,
-			after organizing the <org reg="World Population Conference, 1927">first World Population conference</org>,
-			assembled in <place reg="Geneva, Switzerland">Geneva</place> in 1927, I began work on
-			the problem of bringing the scientists, the research workers, and the directors of
-			clinics together. The success achieved is recorded in the accompanying pages.</p>
+			after organizing the <org reg="World Population Conference, 1927">first World Population
+				conference</org>, assembled in <place reg="Geneva, Switzerland">Geneva</place> in
+			1927, I began work on the problem of bringing the scientists, the research workers, and
+			the directors of clinics together. The success achieved is recorded in the accompanying
+			pages.</p>
 		<p>Not without significance, to me, was the quiet earnestness of this unheralded gathering.
 			The press did not intrude upon the deliberation of the men and women assembled in the
 			charming little town in the Alps. No publicity was sought. The most important as well as

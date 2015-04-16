@@ -22,7 +22,7 @@
 		<idno>msp130859</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl><title type="mf">Library of Congress Microfilm</title> LCM 20:0385</bibl>
+			<bibl>Library of Congress Microfilm 20:0385</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="BERFR">Bernhardi, Friedrich von</name>
@@ -142,7 +142,8 @@
 					the accommodation of their surplus people. Since almost every part of the globe
 					is inhabited, new territory must as a rule be obtained at the cost of its
 					possessors; that is to say by conquest, which thus becomes a law of
-					necessity.</q></p>
+					necessity.</q>
+			</p>
 			<p><person reg="Dix, Arthur">Arthur Dix</person>, writing in 1901, says:</p>
 			<p rend="blockquote">
 				<q who="DIXAR">Because of the German people now increase at the rate of eight
@@ -165,7 +166,7 @@
 			</p>
 			<p>The birth rate, in spite of its decline in the last few decades, is still too high in
 				every country of Europe, with the possible exception of <place
-					reg="Holland, Netherlands, the">Holland</place>, to permit of adequate provision
+					reg="Holland, Netherlands">Holland</place>, to permit of adequate provision
 				for all the newcomers. Consequently the death rates continue high and there is a
 				greater or less proportion of the population in nearly every country in a state of
 				chronic destitution. In eastern nations such as <place>India</place> and
@@ -198,8 +199,8 @@
 			<p>Let the situation develop naturally and the only relief for the overpopulation of the
 				world lies in wars of the strong against the weak for a place in the sun, in
 				pestilence and other great disasters, and in the inevitable increase in the disease
-				rate and the death rate that are <unclear>consequences</unclear> of the degradation and misery of
-				overpopulation.</p>
+				rate and the death rate that are <unclear>consequences</unclear> of the degradation
+				and misery of overpopulation.</p>
 		</div>
 		<div>
 			<head type="sub" rend="underline">Public Health.</head>
@@ -236,10 +237,10 @@
 				best an unstable asset. Her metabolism is profoundly changed and she frequently
 				shows an abnormal sensibility to fatigue, which is not diminished by the realization
 				of the additional physical and economic burden about to fall upon her shoulders. </p>
-			<p>At this point the problem of hyper-fecundity may become directly associated with
-				that of venereal disease. In their dread of further pregnancies women, both in
-				industrial and non-industrial life, often feel compelled to wink at extra-marital
-				sex relations on the part of their husbands. </p>
+			<p>At this point the problem of hyper-fecundity may become directly associated with that
+				of venereal disease. In their dread of further pregnancies women, both in industrial
+				and non-industrial life, often feel compelled to wink at extra-marital sex relations
+				on the part of their husbands. </p>
 			<p>It is well known that the rate of infant mortality increases with the size of the
 				family. Occasionally there is observed a wealthy and intelligent family where the
 				parents, because of unusual vigor and particularly by reason of the physical
@@ -276,19 +277,19 @@
 			<p>That insanity, idiocy, epilepsy and alcoholic predisposition are often transmitted
 				from parent to child is now universally admitted. At least 20 per cent of all
 				feeble-minded children are the offspring of drunkards. </p>
-			<p>Of the mothers, married and unmarried, who have become chronic invalids or lost
-				their lives by resorting to abortive measures to rid themselves of an unwelcome
-				child, no statistics are available. Various estimates place the number of abortions
-				performed annually in the United States at from 500,000 to 3,000,000. The reason
-				abortion is practiced on such an enormous scale in the United States is because of
-				laws prohibiting not only the manufacture and sale of contraceptives but even the
+			<p>Of the mothers, married and unmarried, who have become chronic invalids or lost their
+				lives by resorting to abortive measures to rid themselves of an unwelcome child, no
+				statistics are available. Various estimates place the number of abortions performed
+				annually in the United States at from 500,000 to 3,000,000. The reason abortion is
+				practiced on such an enormous scale in the United States is because of laws
+				prohibiting not only the manufacture and sale of contraceptives but even the
 				dissemination of any information concerning them. Contraception as a rule is
 				practiced only by intelligent persons in easy circumstances. The poor, lacking
 				information on the subject, resort to abortion. </p>
-			<p>No great clearsightedness is necessary to perceive that the great masses of
-				ignorant, thoughtless, stupid and vicious people, the offspring of families
-				impoverished by too many children, are as injurious to the community as they are
-				harmful to themselves. </p>
+			<p>No great clearsightedness is necessary to perceive that the great masses of ignorant,
+				thoughtless, stupid and vicious people, the offspring of families impoverished by
+				too many children, are as injurious to the community as they are harmful to
+				themselves. </p>
 			<p>It has taken Nature unknown millions of years of painful struggle to evolve Man, and
 				to raise the human species above that helpless bondage to reproduction which marks
 				the lower animals. But the health of nations and their standard of intelligence are

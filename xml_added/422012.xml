@@ -9,8 +9,9 @@
 		</docAuthor>
 		<docDate value="1923-03-01">1 Mar 1923</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Speech to the North Harlem Community
-				Forum</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Speech to the North Harlem Community Forum</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp422012</idno>
 		<sourceDesc>
@@ -40,14 +41,18 @@
 		<head>Birth Control Advocate Speaks to Large Audience at Public Library</head>
 
 		<div type="section">
-			<p><q who="NYAN">Mrs. Margaret Sanger, whose activities for birth control has brought
+			<p>
+				<q who="NYAN">Mrs. Margaret Sanger, whose activities for birth control has brought
 					her world wide attention, spoke last Thursday to a large audience in a meeting
 					held by the <org>North Harlem Community Forum</org>, at the <place
 						reg="New York, NY">135th St. Branch Public Library.</place> She spoke on her
 					recent trip to the <place reg="Asia">Orient</place> and told of her work in
-					general.</q></p>
-			<p><q who="NYAN">The women of <place>China</place> and <place>Japan</place> are very
-					keen for their emancipation, she said, much more so than American women.</q></p>
+					general.</q>
+			</p>
+			<p>
+				<q who="NYAN">The women of <place>China</place> and <place>Japan</place> are very
+					keen for their emancipation, she said, much more so than American women.</q>
+			</p>
 
 			<p>"I am deeply disappointed in the women of America,"<q who="NYAN"> she said,</q> "they
 				have the vote but have accomplished almost nothing toward their emancipation."</p>
@@ -63,10 +68,12 @@
 				articles about birth control. Of course, the <org reg="Japan Government">Japanese
 					Government</org> is opposed to it."</p>
 
-			<p><q who="NYAN">She told of pathetic instances of American mothers who had applied to
+			<p>
+				<q who="NYAN">She told of pathetic instances of American mothers who had applied to
 					her for birth control information and of how she could not help because of the
 					law preventing the dissemination of such information. She said 6,997 mothers had
-					applied to her for information.</q></p>
+					applied to her for information.</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub">Rich Have Birth Control.</head>
@@ -75,16 +82,18 @@
 				knowledge on this subject they want, and if it is good for them it is also good for
 				the poor, who cannot afford to rear large families, like the rich.</p>
 			<p>"Mankind has always practised birth control. Infanticide and foeticide dates back to
-				the earliest ages. In ancient <place>Greece,</place>
-				<place>Egypt,</place> and <place>Sparta</place> unwelcome babies were exposed for 45
+				the earliest ages. In ancient <place>Greece</place>,
+				<place>Egypt</place>, and <place>Sparta</place> unwelcome babies were exposed for 45
 				hours and if they survived were permitted to live. In China today girl babies are
 				thrown into the canals. The modern system of birth control aims to restrict
 				excessive populations in a more humane way. It also saves the strength and energy of
 				the mother for her other duties, and for the care of such children she may already
 				have."</p>
 
-			<p><q who="NYAN">Several policemen were on hand to see that Margaret Sanger issued no
-					birth control information.</q></p>
+			<p>
+				<q who="NYAN">Several policemen were on hand to see that Margaret Sanger issued no
+					birth control information.</q>
+			</p>
 			<p/>
 		</div>
 	</docBody>

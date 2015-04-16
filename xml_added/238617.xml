@@ -18,7 +18,8 @@
 		<idno>msp238617</idno>
 		<sourceDesc>
 			<bibl><title type="journal">The New Republic</title>, Apr. 20, 1938, pp. 324-26</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:1018</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S71:1018</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp>
@@ -28,8 +29,10 @@
 			</resp>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>The section at the end of this article was published in an outlined box
-		accompanying the article. </p><index level1="birth control"/>
+	<headNote resp="MSPP">
+		<p>The section at the end of this article was published in an outlined box accompanying the
+			article. </p>
+		<index level1="birth control"/>
 		<index level1="abortion"/>
 		<index level1="birth control" level2="laws and legislation" level3="Comstock act"/>
 		<index level1="birth control" level2="laws and legislation" level3="Mississippi"/>
@@ -132,7 +135,7 @@
 				government, through the <org reg="United States Customs Bureau">Bureau of
 					Customs</org>, had seized a package containing 120 pessaries to prevent
 				conception, which the government alleged had been imported contrary to <name
-					type="law" reg="United States Tarriff Act, Section 305">Section 305 (a) of the
+					type="law" reg="United States Tariff Act, Section 305">Section 305 (a) of the
 					Tariff Act of 1930</name>, which stemmed from the Comstock law of 1873. These
 				pessaries had been sent to Dr. Stone by a physician in <place>Japan</place> for
 				trial in her practice, and she had been asked to give an opinion as to their
@@ -140,13 +143,13 @@
 				prescribed the use of pessaries in cases where it would not be desirable for a
 				patient to undertake a pregnancy.</p>
 			<p>It was in this case, on November 30, 1936, that birth control under medical direction
-				was finally recognized as legal. The <org>United States Circuit Court of Appeals</org> for
-					the Second Circuit rendered a decision that the federal obscenity laws do
-				not apply to the legitimate activities of physicians, and that they may prescribe
-				contraceptives in the interests of the healthy and general well-being of their
-				patients. That enlightened decision brought birth control to the goal it had long
-				sought through legislation and was an emancipation proclamation to the motherhood of
-				America. Its objective won, the National Committee disbanded.</p>
+				was finally recognized as legal. The <org>United States Circuit Court of
+					Appeals</org> for the Second Circuit rendered a decision that the federal
+				obscenity laws do not apply to the legitimate activities of physicians, and that
+				they may prescribe contraceptives in the interests of the healthy and general
+				well-being of their patients. That enlightened decision brought birth control to the
+				goal it had long sought through legislation and was an emancipation proclamation to
+				the motherhood of America. Its objective won, the National Committee disbanded.</p>
 			<p>With sharp, surgical precision the historic decision cut through the tangled
 				confusion of federal laws. It removed the shadow of illegality and the stigma of
 				obscenity and brought the federal statutes into conformity with most state statutes.
@@ -177,10 +180,11 @@
 				informing physicians of their legal rights in relation to the use of contraceptives.
 				A resolution declared that</p>
 			<p rend="blockquote">
-				<q who="AMA"> . . . it seems fair . . . to assume that the state courts, if called upon
-					to construe the statutes relating to the dissemination of contraceptive
+				<q who="AMA"> . . . it seems fair . . . to assume that the state courts, if called
+					upon to construe the statutes relating to the dissemination of contraceptive
 					information, will adopt lines of reasoning similar to those followed in the case
-					cited (<name type="case" reg="United States vs. One Package of Japanese Pessaries">U.S. v. One
+					cited (<name type="case"
+						reg="United States vs. One Package of Japanese Pessaries">U.S. v. One
 						Package</name>) and in other cases decided by the United States courts,
 					leaving physicians free to give information concerning contraception when
 					required to meet the medical needs of patients.</q>
@@ -258,9 +262,7 @@
 				And medical-nursing service ought to bring birth control to thousands of forgotten
 				women on farms and in isolated districts remote from medical centers. Their plight
 				and pleas are among the most poignant of all. </p>
-			<byline>
-				MARGARET SANGER
-			</byline>
+			<byline> MARGARET SANGER </byline>
 
 		</div>
 		<div type="box">
@@ -269,7 +271,7 @@
 				<head type="sub" rend="italics">Federal Law</head>
 				<p>Birth control is legal under medical direction. A United States Circuit Court of
 					Appeals has held that the federal obscenity laws do not apply to the legitimate
-					activities of physicans and that they may prescribe contraceptives in the
+					activities of physicians and that they may prescribe contraceptives in the
 					interests of the health and general well-being of their patients.</p>
 			</div>
 			<div type="section">
@@ -277,7 +279,7 @@
 				<p>It is legal under state as well as federal statutes in twenty-one states, which
 					have no provisions against it. They are <place>Alabama</place>,
 						<place>Arkansas</place>, <place>Florida</place>, <place>Georgia</place>,
-						<place>Ilinois</place>, <place>Kentucky</place>, <place>Maryland</place>,
+						<place>Illinois</place>, <place>Kentucky</place>, <place>Maryland</place>,
 						<place>New Hampshire</place>, <place>New Mexico</place>, <place>North
 						Carolina</place>, <place>Oklahoma</place>, <place>Rhode Island</place>,
 						<place>South Carolina</place>, <place>South Dakota</place>,
@@ -295,7 +297,7 @@
 				<p>Three states allow physicians to prescribe contraceptives, but druggists are not
 					mentioned. They are <place>New York</place>, <place>Nevada</place> and
 						<place>Minnesota</place>.</p>
-				<p>Six states have atatutes aimed at indiscriminate advertising and distribution of
+				<p>Six states have statutes aimed at indiscriminate advertising and distribution of
 					material. They are <place>Arizona</place>, <place>California</place>,
 						<place>Louisiana</place>, <place>Maine</place>, <place>Michigan</place> and
 						<place>Washington</place>.</p>

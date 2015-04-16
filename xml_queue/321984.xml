@@ -6,10 +6,14 @@
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-00-00">1954</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control, 1953</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control, 1953</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp321984</idno>
 		<sourceDesc>
@@ -67,7 +71,7 @@
 					<org reg="International Conference on Planned Parenthood, 3rd">third
 					International Planned Parenthood conference</org>, held in <place>Bombay,
 					India</place>, in Nov. 1952, the first meeting of its kind to be held in the
-					<place>far east</place>.</p>
+					<place reg="Asia">far east</place>.</p>
 			<p>When the <org reg="International Conference on Planned Parenthood, 4th">fourth
 					International Planned Parenthood conference</org> took place in <place
 					reg="Stockholm, Sweden">Stockholm, Swed</place>., in Aug. 1953, the agency was

@@ -5,11 +5,14 @@
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1923-04-08">08 Apr 1923</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the New York
-				World</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the New York World</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp422035</idno>
 		<sourceDesc>
@@ -24,8 +27,9 @@
 			<name id="NYW">New York World</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave this interview in the office of the American Birth Control
-			League in New York City.</p>
+	<headNote resp="MSPP">
+		<p>Sanger gave this interview in the office of the American Birth Control League in New York
+			City.</p>
 		<index level1="birth control clinics and leagues" level2="in US"/>
 		<index level1="Brownsville Clinic"/>
 		<index level1="children" level2="rights of"/>
@@ -66,7 +70,7 @@
 		<div type="section">
 			<head type="sub">Name Household Word.</head>
 			<q who="NYW">
-				<p>Her name is a household word in <place>Japan</place> and <place>China,</place> as
+				<p>Her name is a household word in <place>Japan</place> and <place>China</place>, as
 					it is in <place>England</place> and the United States. Sentenced a few years ago
 					to a month's term for distributing Birth Control information, she has eventually
 					won the support of such wealthy and prominent society folks as Mrs. <person
@@ -97,11 +101,13 @@
 				Control information, until the whole current of public opinion had been
 				changed."</p>
 
-			<p><q who="NYW">Since then, says Margaret Sanger, all her efforts have been to awaken
+			<p>
+				<q who="NYW">Since then, says Margaret Sanger, all her efforts have been to awaken
 					public opinion, not only at home but in <place>Europe</place> and in the <place
 						reg="Asia">Orient</place> as well, to the benefits and the morality of Birth
 					Control. The first step in this gigantic task has been to educate the educators,
-					to mobilize the moulders of public opinion.</q></p>
+					to mobilize the moulders of public opinion.</q>
+			</p>
 
 			<p>"We have discovered that there were four steps to our goal: agitation, education,
 				organization and legislation. In view of the enormity of the work confronting us, a
@@ -128,7 +134,8 @@
 				cause as propaganda. Instead of suppressing, they arouse widespread interest and
 				support."</p>
 
-			<p><q who="NYW">It was a study of the Birth Control clinics of <place reg="Netherlands"
+			<p>
+				<q who="NYW">It was a study of the Birth Control clinics of <place reg="Netherlands"
 						>Holland,</place> which have been functioning for many years, that convinced
 					Margaret Sanger that personal, hygienic instruction should be given by
 					physicians to women applying for Birth Control information instead of attempting
@@ -136,9 +143,12 @@
 					the State laws concerning contraceptives. Mrs. Sanger discovered that even duly
 					registered physicians were forbidden by law to offer contraceptive advice, even
 					parents with inheritable diseases were refused such advice in hospitals and
-					public dispensaries.</q></p>
-			<p><q who="NYW">Asked if it was her intention to open clinics if the law were changed,
-					Mrs. Sanger replied in the affirmative.</q></p>
+					public dispensaries.</q>
+			</p>
+			<p>
+				<q who="NYW">Asked if it was her intention to open clinics if the law were changed,
+					Mrs. Sanger replied in the affirmative.</q>
+			</p>
 
 			<p>"It may be wrong to speak of these as clinics. We would like to establish free and
 				friendly bureaus where the overburdened mothers of the poorer classes might come for
@@ -174,9 +184,11 @@
 				dollar sign, only in the number of billions of dollars, or millions of inhabitants
 				we have."</p>
 
-			<p><q who="NYW">The objection was made by the interviewer that perhaps the classes most
+			<p>
+				<q who="NYW">The objection was made by the interviewer that perhaps the classes most
 					in need of Birth Control could not be taught to exercise it, due to mental
-					defect, irresponsibility or recklessness.</q></p>
+					defect, irresponsibility or recklessness.</q>
+			</p>
 
 			<p>"Until we have responded to the piteous appeals of thousands upon thousands of
 				normal, intelligent wives who already realize their responsibility and their duty

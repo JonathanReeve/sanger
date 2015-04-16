@@ -18,7 +18,8 @@
 		<idno>msp301248</idno>
 		<sourceDesc>
 			<bibl>Records of the IPPF, Office of the President</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:401</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:401</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp>
@@ -29,7 +30,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This article may have been written before MS's Dec. 1935 meeting with Gandhi. No published version was found.</p>
+		<p>This article may have been written before MS's Dec. 1935 meeting with Gandhi. No
+			published version was found.</p>
 		<index level1="India"/>
 		<index level1="Gandhi, Mohandas"/>
 		<index level1="birth control" level2="methods" level3="sterilization"/>
@@ -42,7 +44,7 @@
 		<p> The compelling personality of Mr. Gandhi attracts many of the visitors to
 				<place>India</place> to seek him out. He seems to hold the key to so many of the
 			problems of India. The opinions of a man who almost single handed has challenged the
-			imperial power of <place rend="Great Britain">Britain</place> as it holds power in India
+			imperial power of <place reg="Great Britain">Britain</place> as it holds power in India
 			are considered well worth having.</p>
 		<p> But politics apart Mr. Gandhi’s opinion is sought on all kinds of moral and social
 			problems and to all of them he brings a point of view that is penetrating and very

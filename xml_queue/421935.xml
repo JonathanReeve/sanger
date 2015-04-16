@@ -29,9 +29,10 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger addressed the 15th anniversary meeting of the <org>El Paso
-				Planned Parenthood Center</org>, at the <org>Country Club</org>, on April 26. The
-			speech was not found, and newspaper coverage has been substituted. </p>
+	<headNote resp="MSPP">
+		<p>Sanger addressed the 15th anniversary meeting of the <org>El Paso Planned Parenthood
+				Center</org>, at the <org>Country Club</org>, on April 26. The speech was not found,
+			and newspaper coverage has been substituted. </p>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="American opinion on"/>
@@ -42,17 +43,24 @@
 	<docBody>
 		<head>Margaret Sanger Plans Tour in Far East</head>
 		<div type="section">
-			<p><q who="EPHP">Margaret Sanger, foremost exponent of birth control, left El Paso
-					yesterday after conferring with directors of the Planned Parenthood
-				Centers.</q></p>
-			<p><q who="EPHP">She was guest of honor at a banquet in the Country Club, celebrating
-					the 15th anniversary of Planned Parenthood in El Paso.</q></p>
-			<p><q who="EPHP">Directors of the first Planned Parenthood Center here were honored at
+			<p>
+				<q who="EPHP">Margaret Sanger, foremost exponent of birth control, left El Paso
+					yesterday after conferring with directors of the Planned Parenthood Centers.</q>
+			</p>
+			<p>
+				<q who="EPHP">She was guest of honor at a banquet in the Country Club, celebrating
+					the 15th anniversary of Planned Parenthood in El Paso.</q>
+			</p>
+			<p>
+				<q who="EPHP">Directors of the first Planned Parenthood Center here were honored at
 					the dinner. The Center was founded under Mrs. Sanger's supervision, April 26,
-					1937. Two additional clinics were established later.</q></p>
-			<p><q who="EPHP">Mrs. Sanger praised the work of the three clinics in El Paso.</q></p>
+					1937. Two additional clinics were established later.</q>
+			</p>
+			<p>
+				<q who="EPHP">Mrs. Sanger praised the work of the three clinics in El Paso.</q>
+			</p>
 			<p>“This is one of the most encouraging spots in the nation,” <q who="HP">she told local
-					workers</q> “You are doing wonderful work in <place reg="El Paso, Texas">El
+					workers</q> “You are doing wonderful work in <place reg="El Paso, TX">El
 					Paso</place>.</p>
 			<p>"I am also proud of the men here. They have given complete backing to their wives who
 				are members of the clinic staffs. I am pleased at the support given to the work by
@@ -64,36 +72,47 @@
 				<q who="EPHP">Mrs. Sanger outlined her plans for expanding planned parenthood
 					programs in <place>India</place>, <place>Japan</place>and <place>China</place>.
 					She will leave early in the fall to supervise the establishment of new units in
-					those countries. </q></p>
+					those countries. </q>
+			</p>
 			<p>“There is still a great need for constructive work in the Far East,” <q who="HP">she
 					said.</q></p>
 			<p> “Fifteen countries have asked for our help in setting up new programs. </p>
 			<p>“The work is easiest in India, where the officials speak English and have been
-				trained in English schools.” </p>
+				trained in English schools.”<note n="1">Here is a note.</note>
+			</p>
 		</div>
 
 		<div type="section">
 			<head>Margaret Sanger Discusses Reasons for Birth Control</head>
-			<p><q who="EPT">Margaret Sanger, the famous planned parenthood proponent, Saturday
+			<p>
+				<q who="EPT">Margaret Sanger, the famous planned parenthood proponent, Saturday
 					returned to El Paso to express her theories with freedom, 15 years after she was
-					boycotted to prevent her from speaking in a local hotel.</q></p>
-			<p><q who="EPT">Mrs. Sanger addressed the Planned Parenthood Center of El Paso at a
+					boycotted to prevent her from speaking in a local hotel.</q>
+			</p>
+			<p>
+				<q who="EPT">Mrs. Sanger addressed the Planned Parenthood Center of El Paso at a
 					dinner held at 6:30 p. m. in the Country Club, marking the local organization's
-					15th anniversary.</q></p>
-			<p><q who="EPT">It was fifteen years ago last February that Mrs. Sanger's hotel was
+					15th anniversary.</q>
+			</p>
+			<p>
+				<q who="EPT">It was fifteen years ago last February that Mrs. Sanger's hotel was
 					boycotted by a local group, and she was forced to speak in the mezzanine of
 					another hotel. It was there that plans for the center were born, and now, El
-					Paso can boast of three clinics.</q></p>
-			<p><q who="EPT">As a woman who for many years has fought an uphill battle for her ideas
+					Paso can boast of three clinics.</q>
+			</p>
+			<p>
+				<q who="EPT">As a woman who for many years has fought an uphill battle for her ideas
 					and gained world-wide recognition as one of the most famous American women, Mrs.
 					Sanger is used to opposition. If it is dealt out in the right spirit, she does
-					not mind it, she admits.</q></p>
+					not mind it, she admits.</q>
+			</p>
 			<p>“We were lucky in <place reg="United States">America</place>to have opposition,” <q
 					who="EPT">she said.</q> “It brought out the strength and conviction that we were
 				right. We had something to fight for and against. We don’t mind the opposition, we
 				just want the opportunity to express our views.”</p>
-			<p><q who="EPT">Mrs. Sanger, who lives in <place reg="Tucson, AZ">Tucson, Ariz</place>.,
-					is en route to New York to make plans with the <org
+			<p>
+				<q who="EPT">Mrs. Sanger, who lives in <place reg="Tucson, AZ">Tucson,
+					Ariz</place>., is en route to New York to make plans with the <org
 						reg="International Committee on Planned Parenthood">International Planned
 						Parenthood Committee</org>, of which she is chairman, for a visit to India
 					and Japan. Mrs. Sanger's invitation to go to India in November to organize a
@@ -101,14 +120,19 @@
 						reg="Nehru, Jawaharlal">Nehru</person>'s recent public announcement that
 					birth control will be part of India's five-year welfare plan. She is going to
 					Japan thereafter at the request of the Japanese people. In that country, she
-					will address 3000 people on Dec. 6 at a public meeting.</q></p>
-			<p><q who="EPT">Two years ago, Mrs. Sanger was refused a visa to Japan by Gen. <person
+					will address 3000 people on Dec. 6 at a public meeting.</q>
+			</p>
+			<p>
+				<q who="EPT">Two years ago, Mrs. Sanger was refused a visa to Japan by Gen. <person
 						reg="MacArthur, Douglas">Douglas MacArthur</person>, who although he
 					sympathized with her ideas, was forced to turn down her request under pressure
-					to enter the country.</q></p>
-			<p><q who="EPT">The planned parenthood program cannot go much further in the United
+					to enter the country.</q>
+			</p>
+			<p>
+				<q who="EPT">The planned parenthood program cannot go much further in the United
 					States until the public health departments take the responsibility for the
-					future quality of our race, Mrs. Sanger believes.</q></p>
+					future quality of our race, Mrs. Sanger believes.</q>
+			</p>
 			<p> “If the public health departments do not take it upon themselves to instruct the
 				poor, ignorant people, they will multiply in numbers not only in poor physical
 				condition but also in low mental conditions. If we keep on like this, we shall be
@@ -116,8 +140,10 @@
 				benighted opposition who ties the hands of our public health authorities. This
 				opposition is cruel because these people will be forced to continue having the
 				children they do not want or cannot afford to have.” </p>
-			<p><q who="EPT">The planned parenthood program gets no co-operation from county
-					hospitals and clinics in its program, she added.</q></p>
+			<p>
+				<q who="EPT">The planned parenthood program gets no co-operation from county
+					hospitals and clinics in its program, she added.</q>
+			</p>
 			<p><q who="EPT">Mrs. Sanger, a widow, is the mother of two sons, both doctors. One
 						<person reg="Sanger, Stuart">Stewart Sanger</person>, is the father of two
 					daughters and lives in Tucson. The other, <person reg="Sanger, Grant">Grant
@@ -126,19 +152,27 @@
 						reg="Sanger, Anne">daughter</person>.</q> "They are so excited about the
 				little girl that they haven't named her," <q who="EPT">the proud grandmother
 					revealed.</q></p>
-			<p><q who="EPT">Mrs. Sanger was one of 11 children. Her <person
+			<p>
+				<q who="EPT">Mrs. Sanger was one of 11 children. Her <person
 						reg="Higgins, Anne Purcell">mother</person> died in her early 40s after the
-					birth of her 11th child.</q></p>
-			<p><q who="EPT">It was the memory of her mother's hard struggle, plus the fact that as a
-					registered nurse, women were constantly asking her advice on birth control that
-					turned Mrs. Sanger's efforts toward the planned parenthood program.</q></p>
+					birth of her 11th child.</q>
+			</p>
+			<p>
+				<q who="EPT">It was the memory of her mother's hard struggle, plus the fact that as
+					a registered nurse, women were constantly asking her advice on birth control
+					that turned Mrs. Sanger's efforts toward the planned parenthood program.</q>
+			</p>
 			<p>“I knew then that birth control was a human, a physical need,”<q who="EPT">she
 					said.</q></p>
-			<p><q who="EPT">Mrs. Sanger's struggle to get her ideas accepted are described in her
-					book, "<title type="book">Margaret Sanger: An Autobiography</title>."</q></p>
-			<p><q who="EPT">One of these days, she added, after the planned parenthood programs in
+			<p>
+				<q who="EPT">Mrs. Sanger's struggle to get her ideas accepted are described in her
+					book, "<title type="book">Margaret Sanger: An Autobiography</title>."</q>
+			</p>
+			<p>
+				<q who="EPT">One of these days, she added, after the planned parenthood programs in
 					India and Japan gain impetus, she will sit down to write again, and add to the
-					number of books she has written about birth control.</q></p>
+					number of books she has written about birth control.</q>
+			</p>
 		</div>
 	</docBody>
 </doc>

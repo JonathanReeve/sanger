@@ -9,8 +9,9 @@
 		</docAuthor>
 		<docDate value="1925-03-30">30 Mar 1925</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Request for a Federal Birth Rate
-				Commission</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Request for a Federal Birth Rate Commission</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421974</idno>
 		<sourceDesc>
@@ -45,21 +46,29 @@
 			<head type="sub">Conference Calls on <org>American Medical Association</org> to Include
 				It in Hospital Work</head>
 
-			<p><q who="NYW"><person reg="Coolidge, Calvin">President Coolidge</person> has been
+			<p>
+				<q who="NYW"><person reg="Coolidge, Calvin">President Coolidge</person> has been
 					appealed to by the <org reg="American Birth Control League">Birth Control
 						League</org> through its President, Mrs. <person reg="Sanger, Margaret"
 						>Margaret Sanger,</person> to appoint a commission to study the question and
 					formulate recommendations. Medical societies, as well as the American Medical
 					Association, were called upon at a meeting of about 1,000 physicians to
 					inaugurate a movement in all the <place reg="United States">States</place> to
-					promote contraceptive methods.</q></p>
-			<p><q who="NYW">Announcement of the plans were made yesterday at the <org
+					promote contraceptive methods.</q>
+			</p>
+			<p>
+				<q who="NYW">Announcement of the plans were made yesterday at the <org
 						reg="International Neo-Malthusian and Birth Control Conference, 6th">sixth
 						international Neo-Malthusiasm and Birth Control Conference</org>, in
-					progress in the <org>Hotel McAlpin</org> since Tuesday.</q></p>
-			<p><q who="NYW">So many physicians sought to attend that an overflow meeting was held at
-					the <org reg="Waldorf-Astoria Hotel">Waldorf</org>.</q></p>
-			<p><q who="NYW">The resolution adopted is as follows:</q></p>
+					progress in the <org>Hotel McAlpin</org> since Tuesday.</q>
+			</p>
+			<p>
+				<q who="NYW">So many physicians sought to attend that an overflow meeting was held
+					at the <org reg="Waldorf-Astoria Hotel">Waldorf</org>.</q>
+			</p>
+			<p>
+				<q who="NYW">The resolution adopted is as follows:</q>
+			</p>
 
 			<p>
 				<q who="INMBCC6">"That this meeting on contraception, consisting of members of the
@@ -74,7 +83,9 @@
 		</div>
 		<div type="section">
 			<head type="sub">President's Aid Asked</head>
-			<p><q who="NYW">Mrs. Sanger, in her telegram to the President, said:</q></p>
+			<p>
+				<q who="NYW">Mrs. Sanger, in her telegram to the President, said:</q>
+			</p>
 			<p>"It is imperative, Mr. President, that as a Nation the United States must meet this
 				problem of an uncontrolled birth rate. As an American citizen, I respectfully
 				suggest that you, as Chief Executive of the United States of America, take steps
@@ -90,20 +101,24 @@
 				that our Chief Executive can not willingly or consciously evade problems, upon a
 				solution of which depends the fulfillment of our high destiny in the creation of the
 				future."</p>
-			<p><q who="NYW">No lay delegates were admitted yesterday to the contraceptive
+			<p>
+				<q who="NYW">No lay delegates were admitted yesterday to the contraceptive
 					conference, not even Mrs. Sanger. Among the doctors were seventy women. <person
 						reg="Solley, John B.">Dr. John B. Solley jr.</person> presided at the
 					regular meeting in the McAlpin, while <person reg="Vaughn, John C.">Dr. John C.
-						Vaughn</person> was the Chairman in the Waldorf.</q></p>
-			<p><q who="NYW"><person reg="Cooper, James F.">Dr. James F. Cooper,</person> medical
+						Vaughn</person> was the Chairman in the Waldorf.</q>
+			</p>
+			<p>
+				<q who="NYW"><person reg="Cooper, James F.">Dr. James F. Cooper,</person> medical
 					director of the <org reg="Birth Control Clinical Reseasrch Bureau">clinical
 						research department</org> of the American Birth Control League; <person
 						reg="Jacobs, Aletta">Dr. Aletta Jacobs</person> of <place
 						reg="The Hague, Netherlands">The Hague,</place> who established the first
 					birth control clinic in <place reg="Netherlands">Holland;</place>
-					<person reg="Haire, Norman">Dr. Norman Haire</person> of <place>England,</place>
+					<person reg="Haire, Norman">Dr. Norman Haire</person> of <place>England</place>,
 					and <person reg="Stone, Hannah M.">Dr. Hannah M. Stone</person> addressed both
-					meetings.</q></p>
+					meetings.</q>
+			</p>
 
 			<p/>
 		</div>

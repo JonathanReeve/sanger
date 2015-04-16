@@ -2,7 +2,8 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 	<mepHeader>
-		<prepDate>2015-03-27 JC transcribed and encoded</prepDate><prepDate>2015-03-30 CH proof and enter tags</prepDate>
+		<prepDate>2015-03-27 JC transcribed and encoded</prepDate>
+		<prepDate>2015-03-30 CH proof and enter tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -27,7 +28,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For draft versions see Margaret Sanger Microfilm, Smith College Collections S71:187 and 191.</p>
+		<p>For draft versions see Margaret Sanger Microfilm, Smith College Collections S71:187 and
+			191.</p>
 		<index level1="birth control laws and legislation" level2="Comstock  Laws"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
 		<index level1="birth control laws and legislation" level2="MS on"/>
@@ -64,7 +66,7 @@
 						very large number of people believes to be harmless, and which must be left
 						to the taste and the conscience of the individual."</q>--The Very Rev.
 						<person reg="Inge, William Ralph">W. R. Inge</person>, Dean of <org>St.
-						Paul's Cathedral</org>, <place>London</place>.</emph>
+						Paul's Cathedral</org>, <place reg="London, England">London</place>.</emph>
 			</p>
 			<p>Sir <person reg="Keith, Arthur">Arthur Keith</person> asserts that the <place
 					reg="United States">United States of America</place> is now the field of the <q

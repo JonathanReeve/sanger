@@ -19,9 +19,9 @@
 		</docTitle>
 		<idno>msp307665</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, July 1921, pp. 5-6, 15.</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, July 1921, pp. 5-6, 15</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:0158</bibl>
+				C16:158</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -57,7 +57,9 @@
 	<docBody>
 		<head>Birth Control--Past, Present, and Future</head>
 		<byline>By Margaret Sanger</byline>
-		<p><emph rend="italics">(continued from June Issue)</emph></p>
+		<p>
+			<emph rend="italics">(continued from June Issue)</emph>
+		</p>
 		<p>We have pointed out that <person reg="Malthus, Thomas Robert"> Malthus,</person>
 			discoverer of the theory of population and the precursor of the Darwinian theory of
 			evolution, advocated as preventive checks upon overpopulation, "<q who="MALTH">moral
@@ -82,22 +84,22 @@
 			published in 1818, <person reg="Mill, James">James Mill</person> wrote that it was time
 			to "<q who="MILJA">discard the superstitions of the nursery</q>" and in his "<title
 				type="book">Elements of Political Economy</title>" (1821) he concluded "<q
-				who="MILJA">The grand practical problem is . . . to find means of limiting the number of
-				births</q>."</p>
+				who="MILJA">The grand practical problem is . . . to find means of limiting the
+				number of births</q>."</p>
 		<p>Answers to this question were almost immediately forthcoming. In 1823 was published the
-			so-called "diabolical handbill" addressed "<title type="Article">To the Married of Both
+			so-called "diabolical handbill" addressed "<title type="article">To the Married of Both
 				Sexes,</title>" and setting forth the economic disadvantages of excessively large
 			families. From this time to the present, advocates of Birth Control have published,
 			throughout <place>Europe</place> and <place reg="United States"> America</place>,
 			various handbooks and pamphlets giving explicit directions to men and women of the
 			physiological and practical aspects of family limitation. These directions have been
 			made up, partially upon the basis of scientific investigation and partially upon the
-			traditional practices of people which have, notably in <place>France,</place> proved to
+			traditional practices of people which have, notably in <place>France</place>, proved to
 			be expedient and serviceable.</p>
 		<p>But the great advance has been made since the discovery by <unclear resp="MSPP"><person
-					reg="Pasteur, Louis">Pasteur</person></unclear> of the germ theory, in the latter
-			half of the nineteenth century. Applied to Birth Control, the germ theory of life gave
-			rise to the practice of Spermaticide, the name to those preparations destined to
+					reg="Pasteur, Louis">Pasteur</person></unclear> of the germ theory, in the
+			latter half of the nineteenth century. Applied to Birth Control, the germ theory of life
+			gave rise to the practice of Spermaticide, the name to those preparations destined to
 			sterilize the male cells (<emph rend="italics">spermatozoa</emph>). But the question has
 			often been asked: Is there a perfect or safe method of prevention of conception? Such a
 			method should combine the following conditions: (1) It should depend exclusively upon
@@ -139,9 +141,9 @@
 			membranes, the same objection might be made of the hygienic care of the teeth, yet we
 			realize that the proper care of the teeth is an absolute essential to health. Ever
 			increasing numbers of civilized men and women today are wearing "mechanical devices" in
-			their mouths and are daily, and even more frequently, washing out their mouths with fluids
-			that are sometimes identical with, and often even stronger than, those employed for
-			Birth Control. Yet such precautions are not considered "immoral" or "unnatural."</p>
+			their mouths and are daily, and even more frequently, washing out their mouths with
+			fluids that are sometimes identical with, and often even stronger than, those employed
+			for Birth Control. Yet such precautions are not considered "immoral" or "unnatural."</p>
 		<p>Incontrovertible figures and statistics, of the most definite and exact precision, drive
 			us to the conclusion that filth, unsanitary conditions, and infectious diseases, are the
 			inevitable companions of large families and numerous children. It is no less true that
@@ -225,8 +227,10 @@
 			more and more neglected, particularly as they come into the world as the penalty of
 			ignorance. It is from such families as these that we recruit our dependent classes, our
 			paupers and our criminals, who fill the various institutions or are the endless subjects
-			of charities--thus consuming wealth that should go to the enhancement and advancement
-			of human life.</p>
-		<trailer><emph rend="italics">(To be concluded in the next issue.)</emph></trailer>
+			of charities--thus consuming wealth that should go to the enhancement and advancement of
+			human life.</p>
+		<trailer>
+			<emph rend="italics">(To be concluded in the next issue.)</emph>
+		</trailer>
 	</docBody>
 </doc>

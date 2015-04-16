@@ -8,7 +8,9 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docAuthor><person reg="Van de Grift, Josephine">Josephine Van de Grift</person></docAuthor>
+		<docAuthor>
+			<person reg="Van de Grift, Josephine">Josephine Van de Grift</person>
+		</docAuthor>
 		<docDate value="1923-12-11">11 Dec 1923</docDate>
 		<docTitle>
 			<titlePart>
@@ -46,17 +48,21 @@
 				houses; charitable institutions will largely have disappeared; and the little short
 				word <foreign lang="FRE">finis</foreign> will have been written over the tragedy of
 				the unwanted child."</p>
-			
-			<p><q who="HN">Margaret Sanger, foremost proponent of
-					birth control, clad in a frock of black, becomingly frilled with white, a bunch
-					of violets at her belt, thus jubilantly predicts a future based upon the
-					successful operation of the first birth control clinic here.</q></p>
-			<p><q who="HN">For 11 months, she reveals, the clinic has been secretly operating at the
-					headquarters of the <org>American Birth Control League,</org> 104 Fifth avenue,
-					during which time it has given contraceptive information to 900 women, turned
-					away twice as many more and answered 65,000 letters from women in all parts of
-					the country.</q></p>
-			
+
+			<p>
+				<q who="HN">Margaret Sanger, foremost proponent of birth control, clad in a frock of
+					black, becomingly frilled with white, a bunch of violets at her belt, thus
+					jubilantly predicts a future based upon the successful operation of the first
+					birth control clinic here.</q>
+			</p>
+			<p>
+				<q who="HN">For 11 months, she reveals, the clinic has been secretly operating at
+					the headquarters of the <org>American Birth Control League,</org> 104 Fifth
+					avenue, during which time it has given contraceptive information to 900 women,
+					turned away twice as many more and answered 65,000 letters from women in all
+					parts of the country.</q>
+			</p>
+
 		</div>
 		<div type="section">
 			<head type="sub">Keep Within the Law</head>
@@ -69,9 +75,9 @@
 					that it was illegal, explains Mrs. Sanger, but in order that the project might
 					be given an unhampered trial.</q>
 			</p>
-			<p>"And its results answer conclusively," <q who="HN">she maintains,</q> "the claims of our opponents
-				that the giving of contraceptive information would increase immortality, that the
-				poor didn't want it, that others wouldn't tolerate it.</p>
+			<p>"And its results answer conclusively," <q who="HN">she maintains,</q> "the claims of
+				our opponents that the giving of contraceptive information would increase
+				immortality, that the poor didn't want it, that others wouldn't tolerate it.</p>
 			<p>"I have no knowledge of a woman of loose morals ever applying at the clinic.</p>
 			<p>"The 900 women who were given information were all married. Of these, 73 per cent
 				wanted the information because their families were already larger than they could
@@ -92,9 +98,9 @@
 					States.</place></p>
 			<p>"It isn't only the club women who want it. The women of the lower classes are
 				clamoring for it, as our 65,000 pathetic, generally poorly spelled letters show.</p>
-			<p>"It has got to come, else the <place>United States</place> will be like <place>China.</place> We may
-				not feed our surplus children to the crocodiles but disease and vice are even worse
-				monsters."</p>
+			<p>"It has got to come, else the <place>United States</place> will be like
+				<place>China</place>. We may not feed our surplus children to the crocodiles but
+				disease and vice are even worse monsters."</p>
 		</div>
 	</docBody>
 </doc>

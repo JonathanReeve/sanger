@@ -11,7 +11,9 @@
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-03-18 EK update index</prepDate>
 		<prepDate>2015-03-0</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1913-04-13">13 Apr 1913</docDate>
 		<docTitle>
 			<titlePart>With The Girls in Hazleton Jail</titlePart>
@@ -19,7 +21,8 @@
 		<idno>msp304929</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Apr. 20, 1913</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Document Series</title> C16:0065</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Document Series</title>
+				C16:0065</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -30,13 +33,13 @@
 		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
 		<index level1="labor movement" level2="strikes" level3="Hazleton, PA Strike, 1913"/>
 		<index level1="women and girls" level2="rights of"/>
-		
+
 	</headNote>
 	<docBody>
 		<head>WITH THE GIRLS IN HAZLETON JAIL</head>
 		<byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
 		<div type="section">
-			<p>When eighteen girls of the <org>Duplin Silk Mill</org> of <place>Hazelton,
+			<p>When eighteen girls of the <org>Duplin Silk Mill</org> of <place reg="Hazleton, PA">Hazleton,
 					Pa.</place>, were put into a patrol wagon and thrown into filthy cells a week
 				ago last Tuesday morning, we all questioned ourselves closely to think what we had
 				done. We had been on the picket line, walking along quietly, when two mounted
@@ -78,7 +81,7 @@
 			<p>They did not miss their mark, either, for the papers printed glaring accounts of the
 				abusive and revolutionary language of the prisoners.</p>
 			<p>An influential lawyer was now called upon in <place reg="Wilkes-Barre, PA"
-					>Wilkes-Barre</place>. No lawyer in Hazelton would take the strikers' case,
+					>Wilkes-Barre</place>. No lawyer in Hazleton would take the strikers' case,
 				except a socialist lawyer, and the authorities ignored his every act. When the tools
 				of the mill bosses heard this, they decided to keep their dirty work hidden by
 				freeing all those who had been arrested.</p>

@@ -5,8 +5,12 @@
 		<prepDate>2014/07/01 CH proof tags</prepDate>
 		<prepDate>2014-08-15 CH proof and enter</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docAuthor><person reg="Fruto, Ligaya">Ligaya Fruto</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docAuthor>
+			<person reg="Fruto, Ligaya">Ligaya Fruto</person>
+		</docAuthor>
 		<docDate value="1955-09-22">
 			<supplied resp="MSPP">22 Sept 1955</supplied>
 		</docDate>
@@ -25,7 +29,8 @@
 			<name id="HSB">Honolulu Star-Bulletin</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave this interview in Honolulu, en route to Japan.</p>
+	<headNote resp="MSPP">
+		<p>Sanger gave this interview in Honolulu, en route to Japan.</p>
 		<index level1="birth control" level2="and war"/>
 		<index level1="conferences" level2="International Conference on Planned Parenthood"
 			level3="1955 (5th)"/>
@@ -40,14 +45,19 @@
 		<head>Planned Parenthood Held Answer to War Danger</head>
 		<byline>By LIGAYA FRUTO</byline>
 
-		<p><q who="HSB">Birth control is the answer to war, according to Mrs. Margaret Sanger, the
-				world's foremost exponent of planned parenthood.</q></p>
-		<p><q who="HSB">Mrs. Sanger was in <place reg="Honolulu, HI">Honolulu</place> Thursday on
-				the <name reg="S.S. President Cleveland" type="ship">President
-			Cleveland.</name></q></p>
-		<p><q who="HSB">She is on her way to <place>Japan</place> for the <org
+		<p>
+			<q who="HSB">Birth control is the answer to war, according to Mrs. Margaret Sanger, the
+				world's foremost exponent of planned parenthood.</q>
+		</p>
+		<p>
+			<q who="HSB">Mrs. Sanger was in <place reg="Honolulu, HI">Honolulu</place> Thursday on
+				the <name reg="S.S. President Cleveland" type="ship">President Cleveland.</name></q>
+		</p>
+		<p>
+			<q who="HSB">She is on her way to <place>Japan</place> for the <org
 					reg="International Conference on Planned Parenthood, 5th">Fifth International
-					Conference on Planned Parenthood</org> and Overpopulation.</q></p>
+					Conference on Planned Parenthood</org> and Overpopulation.</q>
+		</p>
 
 		<p>"We've seen the three countries which are overpopulated--<place>Italy,</place>
 			<place>Germany,</place> and Japan," <q who="HSB">Mrs. Sanger said at an interview at the
@@ -58,11 +68,15 @@
 			now looking for something like birth control so they will not be urged into another
 			war."</p>
 
-		<p><q who="HSB">Mrs. Sanger said that 22 countries from the East and the West will be
-				represented in the planned parenthood conference in Japan.</q></p>
+		<p>
+			<q who="HSB">Mrs. Sanger said that 22 countries from the East and the West will be
+				represented in the planned parenthood conference in Japan.</q>
+		</p>
 		<p>"They are all interested in knowing what to do,"<q who="HSB"> she stated.</q></p>
-		<p><q who="HSB">Even Catholic countries like Italy are now receptive to the idea of birth
-				control, according to Mrs. Sanger.</q></p>
+		<p>
+			<q who="HSB">Even Catholic countries like Italy are now receptive to the idea of birth
+				control, according to Mrs. Sanger.</q>
+		</p>
 		<p>"In all the time that I have worked for birth control," <q who="HSB">she went on,</q>
 			"the greatest opposition that I have met has come from the American Catholic groups in
 				<place reg="New York, NY">New York.</place></p>
@@ -71,20 +85,28 @@
 			laws.</p>
 		<p>"They never had a law against birth control until Mussolini made one, and you know what
 			Mussolini was."</p>
-		<p><q who="HSB">Mrs. Sanger emphatically asserted that she had never met with any hostility
-				in her work to propagate birth control.</q></p>
-		<p><q who="HSB">She said that birth control had been practiced "way back in
+		<p>
+			<q who="HSB">Mrs. Sanger emphatically asserted that she had never met with any hostility
+				in her work to propagate birth control.</q>
+		</p>
+		<p>
+			<q who="HSB">She said that birth control had been practiced "way back in
 					old--<place>Egypt</place>" and in <place>France</place> during the days of
-					<person reg="Bonaparte, Napoleon">Napoleon.</person></q></p>
-		<p><q who="HSB">She expressed gratification at the success of the birth control program in
-					<place>India,</place> although it has been introduced in that country only in
-				the last few years.</q></p>
+					<person reg="Bonaparte, Napoleon">Napoleon.</person></q>
+		</p>
+		<p>
+			<q who="HSB">She expressed gratification at the success of the birth control program in
+					<place>India</place>, although it has been introduced in that country only in
+				the last few years.</q>
+		</p>
 		<p>"In India, we are doing it with moving pictures," <q who="HSB">she said.</q> "In the
 			slums, we are doing what we can do with children, showing the disadvantages when the
 			parents cannot support their children, and the difficulties to the family when children
 			come too fast."</p>
-		<p><q who="HSB">The Japanese are not going to build birth control clinics, she said, but
-				utilize their midwives to teach birth control to the people.</q></p>
+		<p>
+			<q who="HSB">The Japanese are not going to build birth control clinics, she said, but
+				utilize their midwives to teach birth control to the people.</q>
+		</p>
 		<p>"In Japan, they have so many midwives and not enough doctors," <q who="HSB">she
 				explained.</q></p>
 		<p>"It will be the first country to use midwives to go into homes and teach the

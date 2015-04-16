@@ -26,15 +26,17 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger participated in meetings of the <org>International Committee for
-				Planned Parenthood</org> on August 29 and 30, 1951, held in <place>London,
-				England</place>, and delivered this speech at one of the luncheon meetings. No final
-			version was found.</p>
+	<headNote resp="MSPP">
+		<p>Sanger participated in meetings of the <org>International Committee for Planned
+				Parenthood</org> on August 29 and 30, 1951, held in <place>London, England</place>,
+			and delivered this speech at one of the luncheon meetings. No final version was
+			found.</p>
 		<index level1="Planned Parenthood Federation of America"/>
 		<index level1="birth control" level2="medical profession"/>
 		<index level1="birth control methods" level2="instruction in"/>
 		<index level1="International Committee on planned Parenthood"/>
-		<index level1="Margaret Sanger Research Bureau"/></headNote>
+		<index level1="Margaret Sanger Research Bureau"/>
+	</headNote>
 
 	<docBody>
 		<head>Notes for Luncheon</head>
@@ -79,20 +81,19 @@
 			three sessions go on each morning as well as the afternoon. Evenings are popular with
 			working women.</p>
 		<p>Medical Research--</p>
-		<p><org reg="American Medical Association">AMA</org> requested our Bureau to
-				<unclear resp="MSPP">investigate</unclear> &amp; <del>approve of</del>
+		<p><org reg="American Medical Association">AMA</org> requested our Bureau to <unclear
+				resp="MSPP">investigate</unclear> &amp; <del>approve of</del>
 			<add>report on</add> special methods selected for recommendation to Profession.</p>
 		<p>As I am living the best part of the year in <place reg="Tucson, AZ">Tucson Ariz</place>
 			2500 miles west of <place reg="New York, NY">NY</place>--I have given over the
-			responsibility of the to <person reg="Stone, Abraham"
-				>Dr. Stone</person>--&amp; his staff--</p>
+			responsibility of the to <person reg="Stone, Abraham">Dr. Stone</person>--&amp; his
+			staff--</p>
 		<p>My time is now being directed specially to International Population Control &amp; because
-			of this I am in <place reg="London,England">London</place> to consult with our group on
+			of this I am in London to consult with our group on
 			the next conference-- which I hope will take place in <place>India</place>.</p>
 		<p>Mrs. <person reg="Watumull, Ellen Jensen">Watumull</person> Founder.</p>
 		<p><title type="journal">Readers Digest</title> article.</p>
-		<p>The opposition &amp; our Policy <place reg="El Paso, Texas">El Paso</place> &amp;
-			Tucson</p>
+		<p>The opposition &amp; our Policy <place reg="El Paso, TX">El Paso</place> &amp; Tucson</p>
 		<p><person reg="Vogt, William">Wm Vogt</person>--Director</p>
 		<p>Choosing people for Boards must be <add>more</add> carefully considered-- Not just names
 			or Joiners--Respectable wealthy--names on all organizations-- But serious clear
