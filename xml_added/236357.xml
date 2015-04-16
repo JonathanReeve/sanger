@@ -5,7 +5,9 @@
 		<prepDate>2011/07/08 NC</prepDate>
 		<prepDate>2014-03-21 CH clean regs</prepDate>
 		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1940-09-02">2 Sep 1940</docDate>
 		<docTitle>
 			<titlePart>
@@ -150,7 +152,7 @@
 				them. Apparently <del>the time then was not ripe for such a move.</del>
 				<add>such proposals were ignored but</add>
 				<del>It is more than ripe today.</del> If the present Administration in <place
-					reg="Washington DC">Washington</place> wishes to make truly effective its drive
+					reg="Washington, DC">Washington</place> wishes to make truly effective its drive
 				for national defense, it will take immediate steps to begin a coordinated program to
 					<emph rend="underline">strengthen our human resources</emph>. It will integrate
 				efforts already made for the welfare of our people; it will provide the scientific

@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014-04-09 JK initial tags</prepDate>
 		<prepDate>2015-02-25 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1935-02-05">05 Feb 1935</docDate>
 		<docTitle>
 			<titlePart>
@@ -24,7 +26,8 @@
 			<name id="PIEWA">Pierce, Walter M.</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger's complete statement was not found.</p>
+	<headNote resp="MSPP">
+		<p>Sanger's complete statement was not found.</p>
 		<index level1="Pierce Bill"/>
 		<index level1="birth control laws and legislation" level2="Oregon"/>
 		<index level1="birth control" level2="suppression of"/>
@@ -38,7 +41,7 @@
 	<docBody>
 		<head>Birth Control Bill Shelves in House; Mrs. Sanger Declares Fight Will Go On</head>
 
-		<dateline><place reg="Washington, D.C.">WASHINGTON</place>. <date value="1935-02-05"/>Feb.
+		<dateline><place reg="Washington, DC">WASHINGTON</place>. <date value="1935-02-05"/>Feb.
 			5--</dateline>
 		<p>
 			<q who="NYT">Birth control crusaders; planning a “birth-control-comes-of-age” dinner for
@@ -57,12 +60,12 @@
 				of contraceptive information to physicians and clinics.</q>
 		</p>
 		<p>“It seems impossible!” <q who="NYT">she exclaimed when first told of today’s vote. But
-			she quickly rallied to say it was an</q> “open secret” <q who="NYT">that some of the strongest
-				influences working against the court had also opposed her measure.</q></p>
+				she quickly rallied to say it was an</q> “open secret” <q who="NYT">that some of the
+				strongest influences working against the court had also opposed her measure.</q></p>
 		<p>
-			<person reg="Coughlin, Charles E.">Father Coughlin</person>, whose radio speeches brought a
-			shower of anti-World Court letters to Senators, once visited the capital to testify
-			against the Pierce Bill.</p>
+			<person reg="Coughlin, Charles E.">Father Coughlin</person>, whose radio speeches
+			brought a shower of anti-World Court letters to Senators, once visited the capital to
+			testify against the Pierce Bill.</p>
 		<p>
 			<q who="NYT"><person reg="Pierce, Walter M.">Representative Pierce</person>, Democrat,
 				of <place>Oregon</place>, called the setback </q>

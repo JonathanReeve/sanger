@@ -11,7 +11,9 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="0000-00-00"><supplied resp="MSPP">no date</supplied></docDate>
+		<docDate value="0000-00-00">
+			<supplied resp="MSPP">no date</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Notes on the History of Marriage</supplied>
@@ -20,7 +22,8 @@
 		<idno>msp236365</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S73:84</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S73:84</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="ELLHA">Ellis, Havelock</name>
@@ -39,11 +42,11 @@
 		<index level1="Roman Empire"/>
 	</headNote>
 	<docBody>
-		<gap extent="6 pages"/>
+		<gap extent="6 pages" reason="missing"/>
 		<p>valuation of the new shoots, which are springing up in Society today toward the Marriage
 			system is to consider the history of marriage.</p>
 		<p>Page (395) <person reg="Ellis, Havelock">Ellis</person>--on Woman's status in Rome--</p>
-		<p>In the <add>later</add> days of <place>Roman Empire</place>
+		<p>In the <add>later</add> days of <org>Roman Empire</org>
 			<q>women had acquired an independent position <add>nearly</add> equal to their husbands
 				while the patriarchal authority over them was almost nominal</q>.</p>
 		<p>In Roman law there was no legal forms of marriage--it was considered a fact not a legal

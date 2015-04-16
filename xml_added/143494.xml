@@ -4,11 +4,15 @@
 	<mepHeader>
 		<prepDate>2009/07/15 LL</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-07-27">27 Jul 1931</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Seventh International Birth Control Conference
-					Introduction to Proceedings</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Seventh International Birth Control Conference Introduction to
+					Proceedings</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp143494</idno>
 		<sourceDesc>
@@ -60,8 +64,8 @@
 			of a hundred or so men and women,” he might scoff, “unheralded by the press, comparing
 			notes on contraception--that a milestone in the progress of humanity? Ridiculous!”</p>
 		<p>To which promptly retort that today civilization is being remade not in parliaments, not
-			in the conferences of international financiers on the <place reg="Paris, France">Quai
-				d’Orsay</place>, but by obscure scientists in laboratories, by earnest workers in
+			in the conferences of international financiers on the Quai
+				d’Orsay, but by obscure scientists in laboratories, by earnest workers in
 			clinics, by the silent victories of modest physicians in preventive therapy. Just as the
 			great spectacular achievements in aviation--the transatlantic and round-the-world
 			flights--would never be possible without the vastly increased perfection of design which
@@ -152,7 +156,7 @@
 				<foreign lang="FRE">Ligue de la règèneration humaine</foreign>
 			</org> until 1896.</p>
 		<p>In 1900 the <org>first International Neo-Malthusian Conference</org> was held in <place
-				rend="Paris, France">Paris</place> – in the office of M. Robin’s League. Delegates
+				rend="Paris, France">Paris</place>--in the office of M. Robin’s League. Delegates
 			from four countries--England, France, Germany and Holland – took part in what for those
 			days was considered a thorough discussion of technical methods of contraception. Dr.
 				<person reg="Rutgers, Johannes">J. Rutgers</person> of Holland in particular, we are

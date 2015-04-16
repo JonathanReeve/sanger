@@ -16,7 +16,8 @@
 		<idno>msp238045</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:0430</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S71:0430</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="MECCPC">Methodist Episcopal Church City Planning Committee</name>
@@ -32,72 +33,76 @@
 	</headNote>
 	<docBody>
 		<head>A NEWS LETTER FROM MARGARET SANGER</head>
-		<p> My recent experiences, while on a speaking tour, have shown me the extent to which the
-				<org>Roman Catholic Church</org> dictates the policy of the municipal authorities in
-			many of our cities. I was scheduled to speak in <place reg="Albany, NY">Albany</place>,
-			March 6th, at the <org reg="Albany Jewish Community Center">Jewish Community
-				Center</org>. A week before the lecture, several Catholic officials tried to bring
-			pressure to bear through the Albany social agencies to get the Jewish Community Center
-			to rescind their invitation. Fortunately, the Auditorium belonged to the Jewish group
-			and the <person reg="Thatcher, John Boyd, II">Mayor</person> was unable to revoke the
-			license.</p>
-		<p>The same forces tried to break up the meeting at <place reg="New Haven, CT">New
-				Haven</place> on March 8th. I was scheduled to speak at the <org>Troup Junior High
-				School</org> under the auspices of the <org
-				reg="Albany Young Men's Christian Association">Young Men’s and <org
-					reg="Albany Young Women's Christian Association">Young Women’s Hebrew
-					Association</org></org>. Following a protest by the Reverend <person
-				reg="Mereto, Joseph">Joseph Mereto</person> of <place reg="Chicago, IL"
-				>Chicago</place>, a missionary conducting a Lenten mission at <org>St. Anthony’s
-				Roman Catholic Church</org>, the permit for the use of the Auditorium was revoked at
-			noon on Saturday. An informal protest committee was hastily formed headed by Dr. <person
-				reg="Creadick, A. N.">A. N. Creadick</person>, president of the
-					<org><place>Connecticut</place> Birth Control League</org>. Among the many
-			distinguished citizens who rallied to my support were Dean <person
-				reg="Winternitz, Milton C.">Milton C. Winternitz</person>, of the <org
-				reg="Yale University Medical School">Yale Medical School</org>; Dr. <person
-				reg="Thomas, Herbert">Herbert Thomas</person>, associate professor obstetrics and
-			gynecology at the Yale Medical School; Attorney <person reg="Watrous, Charles E."
-				>Charles E. Watrous</person>, Professor <person reg="Cooper, James Wayne">James
-				Wayne Cooper</person> of the <org reg="Yale University Law School">Yale Law
-				School</org>; Dr. <person reg="Miller, James R.">James R. Miller</person> of <place
-				reg="Hartford, CT">Hartford</place>; <person reg="Merviss, Jacob">Jacob
-				Merviss</person>, executive director of the Y. M. and Y. W. H. A., and <person
-				reg="Ives, C. P.">C. P. Ives</person>, 2nd, associate editor of the <title
-				type="journal">New Haven Journal-Courier</title>.</p>
-		<p>A large delegation called at the <org reg="Murphy, John W.">Mayor</org>’s office early
-			Monday morning to demand a license for the meeting. This was finally granted for the
-				<org>Fox College</org> theater. In view of the widespread indignation, the
-			opposition did not dare push the matter further. According to the newspaper reports,
-			2000 people were present at the meeting.</p>
-		<p>In <place reg="Boston, MA">Boston</place> I addressed a group of medical students, under
-			the auspices of the <org>Lancet Club</org>. The majority of those present were third
-			year students; several had graduated and were doing internship, but my address was the
-			first information on contraception that they had received.</p>
-		<p>On my <place>West Virginia</place> trip, it was again a story of Catholic opposition
-			bringing pressure to bear. The result was that the <org>Cabell County Medical
-				Society</org> of <place reg="Huntington, WV">Huntington</place> rescinded their
-			invitation to me. However, thanks to the courage and fine spirit of Dr. <person
-				reg="Klumpp, James S.">James S. Klumpp</person>, Dr. <person reg="Strange, William"
-				>William Strange</person> and others, I was asked to speak under the auspices of an
-			independent group of twenty physicians, and the meeting was held at the <org>Pritchard
-				Hotel</org> and was open to the public. Fully 1000 people attended and approximately
-			400 were turned away. I have great hopes that the interest aroused may shortly result in
-			the establishment of a clinic.</p>
-		<p>I also spoke to several mining groups in <place>West Virginia</place> and found there conditions that
-			would horrify us were we living in a foreign land. The women were most interested and
-			very intelligent. The men were more silent and opinion seemed somewhat divided among
-			them. As a result of these meetings, however, another meeting was arranged the following
-			week by the Catholic group to offset, no doubt, the favorable reaction toward birth
-			control that a proper presentation of the subject arouses.</p>
-		<div type="Section">
-			<head type="Sub">CONNECTICUT</head>
+		<div type="section">
+			<p> My recent experiences, while on a speaking tour, have shown me the extent to which
+				the <org>Roman Catholic Church</org> dictates the policy of the municipal
+				authorities in many of our cities. I was scheduled to speak in <place
+					reg="Albany, NY">Albany</place>, March 6th, at the <org
+					reg="Albany Jewish Community Center">Jewish Community Center</org>. A week
+				before the lecture, several Catholic officials tried to bring pressure to bear
+				through the Albany social agencies to get the Jewish Community Center to rescind
+				their invitation. Fortunately, the Auditorium belonged to the Jewish group and the
+					<person reg="Thatcher, John Boyd, II">Mayor</person> was unable to revoke the
+				license.</p>
+			<p>The same forces tried to break up the meeting at <place reg="New Haven, CT">New
+					Haven</place> on March 8th. I was scheduled to speak at the <org>Troup Junior
+					High School</org> under the auspices of the <org
+					reg="Albany Young Men's Christian Association">Young Men’s and <org
+						reg="Albany Young Women's Christian Association">Young Women’s Hebrew
+						Association</org></org>. Following a protest by the Reverend <person
+					reg="Mereto, Joseph">Joseph Mereto</person> of <place reg="Chicago, IL"
+					>Chicago</place>, a missionary conducting a Lenten mission at <org>St. Anthony’s
+					Roman Catholic Church</org>, the permit for the use of the Auditorium was
+				revoked at noon on Saturday. An informal protest committee was hastily formed headed
+				by Dr. <person reg="Creadick, A. N.">A. N. Creadick</person>, president of the
+						<org><place>Connecticut</place> Birth Control League</org>. Among the many
+				distinguished citizens who rallied to my support were Dean <person
+					reg="Winternitz, Milton C.">Milton C. Winternitz</person>, of the <org
+					reg="Yale University Medical School">Yale Medical School</org>; Dr. <person
+					reg="Thomas, Herbert">Herbert Thomas</person>, associate professor obstetrics
+				and gynecology at the Yale Medical School; Attorney <person
+					reg="Watrous, Charles E.">Charles E. Watrous</person>, Professor <person
+					reg="Cooper, James Wayne">James Wayne Cooper</person> of the <org
+					reg="Yale University Law School">Yale Law School</org>; Dr. <person
+					reg="Miller, James R.">James R. Miller</person> of <place reg="Hartford, CT"
+					>Hartford</place>; <person reg="Merviss, Jacob">Jacob Merviss</person>,
+				executive director of the Y. M. and Y. W. H. A., and <person reg="Ives, C. P.">C. P.
+					Ives</person>, 2nd, associate editor of the <title type="journal">New Haven
+					Journal-Courier</title>.</p>
+			<p>A large delegation called at the <org reg="Murphy, John W.">Mayor</org>’s office
+				early Monday morning to demand a license for the meeting. This was finally granted
+				for the <org>Fox College</org> theater. In view of the widespread indignation, the
+				opposition did not dare push the matter further. According to the newspaper reports,
+				2000 people were present at the meeting.</p>
+			<p>In <place reg="Boston, MA">Boston</place> I addressed a group of medical students,
+				under the auspices of the <org>Lancet Club</org>. The majority of those present were
+				third year students; several had graduated and were doing internship, but my address
+				was the first information on contraception that they had received.</p>
+			<p>On my <place>West Virginia</place> trip, it was again a story of Catholic opposition
+				bringing pressure to bear. The result was that the <org>Cabell County Medical
+					Society</org> of <place reg="Huntington, WV">Huntington</place> rescinded their
+				invitation to me. However, thanks to the courage and fine spirit of Dr. <person
+					reg="Klumpp, James S.">James S. Klumpp</person>, Dr. <person
+					reg="Strange, William">William Strange</person> and others, I was asked to speak
+				under the auspices of an independent group of twenty physicians, and the meeting was
+				held at the <org>Pritchard Hotel</org> and was open to the public. Fully 1000 people
+				attended and approximately 400 were turned away. I have great hopes that the
+				interest aroused may shortly result in the establishment of a clinic.</p>
+			<p>I also spoke to several mining groups in <place>West Virginia</place> and found there
+				conditions that would horrify us were we living in a foreign land. The women were
+				most interested and very intelligent. The men were more silent and opinion seemed
+				somewhat divided among them. As a result of these meetings, however, another meeting
+				was arranged the following week by the Catholic group to offset, no doubt, the
+				favorable reaction toward birth control that a proper presentation of the subject
+				arouses.</p>
+		</div>
+		<div type="section">
+			<head type="sub">CONNECTICUT</head>
 			<p>The <org>Hartford Federation of Churches</org> went on record at its annual meeting
 				on February 23rd in favor of the dissemination of information about birth control to
 				those who desire it. The following resolutions were adopted, as recommended by Dr.
-					James R. Miller, chairman of the
-				Federation’s committee on social welfare, which had been requested to make a study
-				of birth control:</p>
+				James R. Miller, chairman of the Federation’s committee on social welfare, which had
+				been requested to make a study of birth control:</p>
 			<p>
 				<q who="HFC">Birth control is merely one phase of the eugenic problem. Protestant
 					faiths claim not only the right but a duty for mankind to exercise intelligent
@@ -110,9 +115,9 @@
 					be denied by statute, access to any information which he may desire.</q>
 			</p>
 		</div>
-		<div type="Section">
-			<head type="Sub">
-				<place reg="NJ">NEW JERSEY</place>
+		<div type="section">
+			<head type="sub">
+				<place reg="New Jersey">NEW JERSEY</place>
 			</head>
 			<p><person reg="Jones, Eleanor Dwight">Mrs. F. Robertson Jones</person>, president of
 				the <org>American Birth Control League</org>, debated with <person
@@ -122,8 +127,8 @@
 					>American Legion of Secaucus</org>. A record attendance of over 500 followed the
 				argument with interest and asked numerous questions. No vote was taken.</p>
 		</div>
-		<div type="Section">
-			<head type="Sub">
+		<div type="section">
+			<head type="sub">
 				<place reg="New York">NEW YORK</place>
 			</head>
 			<p>A comprehensive survey of Methodism in <place reg="New York, NY">Manhattan</place>,
@@ -136,8 +141,8 @@
 					law preventing doctors from furnishing birth control information should be
 					changed.</q>”</p>
 		</div>
-		<div type="Section">
-			<head type="Sub">
+		<div type="section">
+			<head type="sub">
 				<place reg="Pennsylvania">PENNSYLVANIA</place>
 			</head>
 			<p>A Marriage Council service has been initiated by <person reg="Mudd, Emily Hartshorne"

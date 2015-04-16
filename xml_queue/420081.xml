@@ -73,7 +73,7 @@
 				<q who="PJ">In the face of the present chaotic conditions in this country, she said,
 					due largely to the fact that human development has not kept abreast of the
 					industrial development, surveys in <place>Wisconsin</place>, <place
-						reg="Philadelphia, PA.">Philadelphia</place>, and <place>New York</place>
+						reg="Philadelphia, PA">Philadelphia</place>, and <place>New York</place>
 					showed that the birth rate was rising 45 to 60 per cent in families on the
 					relief rolls over families of the employed.</q>
 			</p>
@@ -185,7 +185,8 @@
 					other human curses should not be promoted through reproduction.</q>
 			</p>
 			<p>
-				<q who="PJ">She would control births among:</q></p>
+				<q who="PJ">She would control births among:</q>
+			</p>
 			<list>
 				<item>
 					<q who="PJ">Those with transmissible diseases or the feeble-minded.</q>

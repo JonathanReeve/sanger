@@ -9,7 +9,9 @@
 		</docAuthor>
 		<docDate value="1936-01-14">14 Jan 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control and Contraception</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control and Contraception</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421085</idno>
 		<sourceDesc>
@@ -26,8 +28,9 @@
 			<name id="STERO">Stevenson, Robert Louis</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke at a public meeting in Paran Square, Calicut, India on
-			Jan. 14, 1936. The speech was not found, but was described in two newspapers.</p>
+	<headNote resp="MSPP">
+		<p>Sanger spoke at a public meeting in Paran Square, Calicut, India on Jan. 14, 1936. The
+			speech was not found, but was described in two newspapers.</p>
 		<index level1="India" level2="birth control in"/>
 		<index level1="India" level2="overpopulation and"/>
 		<index level1="Sanger, Margaret" level2="speaking tours" level3="1935-1936 (India)"/>
@@ -42,7 +45,7 @@
 			<p>
 				<q who="TH">The need for adopting birth-control methods in the interests of humanity
 					at large was stressed by Mrs. Margaret Sanger, addressing a well-attended public
-					meeting held at the <place>Paran Square</place>, last evening, under the
+					meeting held at the <org>Paran Square</org>, last evening, under the
 					presidentship of Dr. <person reg="Mugaseth, Kobad Dhunjibhai"
 					>Mugaseth</person>.</q>
 			</p>
@@ -52,7 +55,8 @@
 				<q who="HINDU">The President extended a hearty welcome to Mrs. Sanger on behalf of
 					the citizens of Calicut and said that Mrs. Sanger was doing propaganda for the
 					last so many years on the need for adopting birth-control methods. They were
-					glad to have her among them that day and hear her views on the subject. </q></p>
+					glad to have her among them that day and hear her views on the subject. </q>
+			</p>
 
 
 			<p>
@@ -82,20 +86,22 @@
 				<place reg="Calicut, India">CALICUT</place>, <date value="1936-01-15">Jan.
 				15</date>. </dateline>
 
-			<p><q who="UN"> Mrs. Margaret Sanger, of the <org
+			<p>
+				<q who="UN"> Mrs. Margaret Sanger, of the <org
 						reg="Birth Control International Information Centre">International
 						Information Centre on Birth Control</org>, addressed a large gathering,
 					yesterday evening, on birth control, at the Paran Square. Dr. Kh. D. Mugaseth
-					presided. </q></p>
-			<p><q who="UN"> Dr. Mugaseth, introduced the speaker.</q>
+					presided. </q>
+			</p>
+			<p>
+				<q who="UN"> Dr. Mugaseth, introduced the speaker.</q>
 			</p>
 			<p>
 				<q who="UN">Mrs. Sanger referred to the condemnation of the birth control propaganda
 					and said that <person reg="Stevenson, Robert Louis">Robert Louis
 						Stevenson</person> had said</q>
-				<q who="STERO">“Condemnation is misunderstanding</q>.”
-				<q who="UN">It was not fit to condemn a thing before its various aspects had been
-					studied.</q>
+				<q who="STERO">“Condemnation is misunderstanding</q>.” <q who="UN">It was not fit to
+					condemn a thing before its various aspects had been studied.</q>
 			</p>
 			<p>
 				<q who="UN">Proceeding Mrs. Sanger said that what birth control meant was the
@@ -105,7 +111,8 @@
 					preventing birth there was no interference with life and for that they had to be
 					single or unmarried in life.</q>
 			</p>
-			<p><q who="UN"> In controlling birth they had to use their intelligence to suit their
+			<p>
+				<q who="UN"> In controlling birth they had to use their intelligence to suit their
 					needs. To be conscious of their acts and responsibilities necessarily involved
 					that they should be free from the animal kingdom, which was impossible in the
 					majority of cases.</q>
@@ -123,7 +130,8 @@
 			<p>
 				<q who="UN">She knew that in India the marriage-able age had been raised but that
 					was not enough. Men and women should be allowed to marry only after they had
-					reached adolescence, that is, at the age of 23. </q></p>
+					reached adolescence, that is, at the age of 23. </q>
+			</p>
 
 		</div>
 	</docBody>

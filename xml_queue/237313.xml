@@ -7,7 +7,9 @@
 		<prepDate>2012-04-05 AW Corrected Tags</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1959-00-00">1959</docDate>
 		<docTitle>
 			<titlePart>Population for Peace</titlePart>
@@ -77,9 +79,9 @@
 			contraception among non-Roman Catholics as exists in this country, at the Federal level,
 			and notably in <place>Connecticut</place> and <place>Massachusetts</place>.</p>
 		<p>On some occasions I’ve been told by some high in the <org
-				reg="Roman Catholic Church Councils">Councils of the Roman Catholic
-				Church</org> outside the United States, that the Roman Catholic authority at the
-				<place>Vatican</place> would be ready now to modify its official pronouncements
+				reg="Roman Catholic Church Councils">Councils of the Roman Catholic Church</org>
+			outside the United States, that the Roman Catholic authority at the
+				<place reg="Vatican City State">Vatican</place> would be ready now to modify its official pronouncements
 			opposing birth control and population planning because the Roman Catholic authority
 			there is realistic and aware that Peace can come only through Population control. The
 			informants have told me their hands are tied, however, because the Roman Catholic

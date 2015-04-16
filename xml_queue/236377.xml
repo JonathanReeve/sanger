@@ -10,8 +10,9 @@
 		</docAuthor>
 		<docDate value="1920-12-03">3 Dec 1920</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Berks County Birth Control Association Speech
-					Notes</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Berks County Birth Control Association Speech Notes</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236377</idno>
 		<sourceDesc>
@@ -41,11 +42,9 @@
 		<index level1="women" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
-		<dateline>
-			<place>Reading, Pa.</place>
-			<date value="1920-12-03">Dec. 3--1920</date>
+		<dateline> Reading, Pa. <date value="1920-12-03">Dec. 3--1920</date>
 		</dateline>
-			<p>Woman must be protected from incessant child bearing before she can actively participate
+		<p>Woman must be protected from incessant child bearing before she can actively participate
 			in social life.</p>
 		<p>She must triumph over natures laws which have kept her in bondage.</p>
 		<p>She must triumph over these as man has in electricity ship building--etc. She must
@@ -92,9 +91,9 @@
 		<p>{Insane &amp; <emph rend="underline">T.B.</emph> syphilitic woman case</p>
 		<p><emph rend="underline">Abortions</emph>--my last case--quacks</p>
 		<p><place>England</place>--<place reg="Netherlands"
-				>Holland</place>--<place>Germany</place>--new movement) clinics--young people marry.
+			>Holland</place>--<place>Germany</place>--new movement) clinics--young people marry.
 				<place>Russia</place>.</p>
-		<p><place reg="United States">U.S.A.</place> laws--none in <place reg="Pennslyvania"
+		<p><place reg="United States">U.S.A.</place> laws--none in <place reg="Pennsylvania"
 				>Pa.</place>--<emph rend="underline">Peace Treaty</emph></p>
 		<p>Clinics--keynote of new social awakening.</p>
 	</docBody>

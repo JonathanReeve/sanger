@@ -4,10 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/04/16 VS initial tags</prepDate>
 		<prepDate>2015-03-27 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1937-01-17">17 Jan 1937</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Overpopulation: A Cause of War</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Overpopulation: A Cause of War</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421919</idno>
 		<sourceDesc>
@@ -23,8 +27,9 @@
 			<name id="LUBIS">Lubin, Isador</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke at the Washington Town Hall, the event also featured Rev.
-				<person reg="Clinchy, Russell J.">Russell J. Clinchy</person> and <person
+	<headNote resp="MSPP">
+		<p>Sanger spoke at the Washington Town Hall, the event also featured Rev. <person
+				reg="Clinchy, Russell J.">Russell J. Clinchy</person> and <person
 				reg="Howe, Frederick C.">Frederick C. Howe</person>. Her speech was not found, the
 			text below is drawn from press coverage.</p>
 		<index level1="birth control" level2="and war"/>
@@ -39,7 +44,7 @@
 	</headNote>
 	<docBody>
 		<head>Urges Birth Control to Keep World Peace</head>
-		<dateline><place reg="Washington, D.C.">WASHINGTON</place>, <date value="1937/01/1937">Jan.
+		<dateline><place reg="Washington, DC">WASHINGTON</place>, <date value="1937/01/1937">Jan.
 				17</date>.--</dateline>
 		<div type="section">
 
@@ -86,42 +91,49 @@
 				<q who="WP">Birth control, crop control, the machine age and the slaughter of the
 						<org reg="American Agricultural Act">AAA</org>’s little pigs were debated
 					last night at the Town Hall of Washington after Mrs. Margaret Sanger spoke on
-					“Overpopulation- A Cause of War.”</q></p>
+					“Overpopulation- A Cause of War.”</q>
+			</p>
 
-			<p><q who="WP"> Mrs. Sanger called for a 25-year moratorium on population increase in
+			<p>
+				<q who="WP"> Mrs. Sanger called for a 25-year moratorium on population increase in
 					the world as a method of assuring peace, but members of the discussion panel
 					contended that redistribution of natural resources and more efficient methods of
 					distributing the products of industry was the solution.</q>
 			</p>
 
-			<p><q who="WP"> Contending that warlike tendencies in Germany, Italy and Japan were the
+			<p>
+				<q who="WP"> Contending that warlike tendencies in Germany, Italy and Japan were the
 					result of overpopulation, Mrs. Sanger advocated making birth control an
 					important function of every State and municipal health department. She warned
 					that the world is approaching the day when it cannot support its population.</q>
 			</p>
 
 			<p>
-				<q who="WP"><person reg="Lubin, Isador">Isador Lubin</person>, commissioner of Labor Statistics, 
-						<org reg="United States Department of Labor">Department of Labor</org>, declared the world has not
-					yet begun to intelligently approach the problem of supporting its
-					population.</q>
+				<q who="WP"><person reg="Lubin, Isador">Isador Lubin</person>, commissioner of Labor
+					Statistics, <org reg="United States Department of Labor">Department of
+						Labor</org>, declared the world has not yet begun to intelligently approach
+					the problem of supporting its population.</q>
 				<q who="LUBIS">“We have a fetish that everyone should work all of the time,”</q>
 				<q who="WP">he said.</q>
 				<q who="LUBIS">“We must utilize the full capacity of industrial machines and to
 					distribute work and income that persons could retire early and live well.”</q>
 			</p>
 
-			<p><q who="WP"> Both Lubin and Mrs. Sanger agreed that while crops were being plowed
+			<p>
+				<q who="WP"> Both Lubin and Mrs. Sanger agreed that while crops were being plowed
 					under and pigs slaughtered in this country because of “overproduction,” the
-					farmers were not producing enough to support the population.</q></p>
+					farmers were not producing enough to support the population.</q>
+			</p>
 
-			<p><q who="WP"> The Rev. Russell J. Clinchy, pastor of the <org>Mount Pleasant
+			<p>
+				<q who="WP"> The Rev. Russell J. Clinchy, pastor of the <org>Mount Pleasant
 						Congregational Church</org>, said the intelligent approach to birth control
 					called for discarding the theory that relations between married couples not
 					intended to produce children were carnal.</q>
 			</p>
 
-			<p><q who="WP"> The audience cut short a speech by Frederick C. Howe, special assistant
+			<p>
+				<q who="WP"> The audience cut short a speech by Frederick C. Howe, special assistant
 					to the <org reg="United States Secretary of Agriculture">Secretary of
 						Agriculture</org>, while he was contending that lust for power was
 					responsible for wars and advocating restricting the freedom of the press. The

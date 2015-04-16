@@ -7,7 +7,9 @@
 		<prepDate>2009/07/21 LL correct tags</prepDate>
 		<prepDate>2014-03-10 CH Cleaned regs</prepDate>
 		<prepDate>2015-03-17 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-10-00">Oct 1931</docDate>
 		<docTitle>
 			<titlePart>A Public Nuisance</titlePart>
@@ -26,8 +28,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>The article contained a brief header summarizing its contents and an illustration of
-			the Brownsville clinic flyer.</p>
+		<p>The article contained a brief header summarizing its contents and an illustration of the
+			Brownsville clinic flyer.</p>
 		<index level1="New York City" level2="birth control in"/>
 		<index level1="birth control clinics" level2="Amboy street clinic"/>
 		<index level1="law-breaking and direct action"/>
@@ -42,7 +44,7 @@
 				I thought of all the possible difficulties: the indifference of women’s
 				organizations, the ignorance of the workers themselves, the resentment of social
 				agencies, the opposition of the medical profession. Then there was the law--the law
-				of <place reg="NY">New York</place> State.</p>
+				of <place>New York</place> State.</p>
 			<p><name type="law" reg="New York Criminal Code, Section 1142">Section 1142</name> was
 				definite. It stated that no one could give information to prevent conception to
 				anyone for any reason. There was, however, <name type="law"
@@ -184,14 +186,15 @@
 				organizations: The <org>International Child Welfare League</org>, the <org>Women’s
 					City Club</org>, the <org>Committee of One Hundred</org>, the various State
 				Leagues for Birth Control.</p>
-			<p>The <org reg="King's County Court of Special Sessions">Court of Special Sessions</org> was
-				seething with a crowded assortment of humanity. About fifty of the poor mothers of
-				the Brownsville section crowded into the courtroom with their children, their
-				nursing babies, their fruit, their bread, their pacifiers and their extra diapers.
-				No less than thirty of these mothers had been subpoenaed by the District Attorney.
-				Their testimony was to be offered in evidence against me; but they, dear things,
-				smiled reassuringly at me, certain that they were going to help free me. Most of
-				them had been in the Amboy Street clinic the day the raid had taken place. . .  .</p>
+			<p>The <org reg="King's County Court of Special Sessions">Court of Special
+					Sessions</org> was seething with a crowded assortment of humanity. About fifty
+				of the poor mothers of the Brownsville section crowded into the courtroom with their
+				children, their nursing babies, their fruit, their bread, their pacifiers and their
+				extra diapers. No less than thirty of these mothers had been subpoenaed by the
+				District Attorney. Their testimony was to be offered in evidence against me; but
+				they, dear things, smiled reassuringly at me, certain that they were going to help
+				free me. Most of them had been in the Amboy Street clinic the day the raid had taken
+				place. . . .</p>
 			<p>I admitted the charge of giving birth control advice to the poor mothers of
 				Brownsville. The prosecutor had little to prove. I knew I had violated the letter of
 				the law. I was fighting that law. I thought there would be no argument at all. But
@@ -216,13 +219,13 @@
 					the law will this woman promise here and now unqualifiedly to respect it and
 					obey it? Now, is it yes or no? What is your answer, Mrs. Sanger?</q>”</p>
 			<p>“I cannot respect that law as it stands today,” I answered. Then I was sentenced:</p>
-			<p>“<q who="FREJO">Margaret Sanger, with the
-					additional evidence submitted by the learned District Attorney after your case
-					reopened last Friday to meet the claim that the proof was insufficient, there is
-					now additional evidence that makes out a strong case that you established and
-					maintained a birth control clinic where you exhibited to various women articles
-					which purported to be for the prevention of conception, and that there you made
-					a determined effort to disseminate birth control information and advice.</q></p>
+			<p>“<q who="FREJO">Margaret Sanger, with the additional evidence submitted by the
+					learned District Attorney after your case reopened last Friday to meet the claim
+					that the proof was insufficient, there is now additional evidence that makes out
+					a strong case that you established and maintained a birth control clinic where
+					you exhibited to various women articles which purported to be for the prevention
+					of conception, and that there you made a determined effort to disseminate birth
+					control information and advice.</q></p>
 			<p>“<q who="FREJO">We are not here to applaud nor to condemn your beliefs; but your
 					declarations and public utterances reflect an absolute disregard for law and
 					order. You have challenged the constitutionality of the law under consideration

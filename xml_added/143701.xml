@@ -13,7 +13,9 @@
 		</docAuthor>
 		<docDate value="1916-01-00"><supplied resp="MSPP">Jan</supplied> 1916</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Notes on Address before the Woman Rebel Trial</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Notes on Address before the Woman Rebel Trial</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp143701</idno>
 		<sourceDesc>
@@ -32,12 +34,11 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>A handwritten note by Sanger reads: "Notes on
-				address when contemplating trial re <title type="journal">Woman Rebel</title>
-				1916." At the top of the 4th page, Sanger wrote "buck up." Portions of
-			this text were used again in the stump speech she gave on her 1916 national tour. For an
-			example see <xref from="128003.xml">Condemnation is Misunderstanding</xref>
-			Apr.-July, 1916.</p>
+		<p>A handwritten note by Sanger reads: "Notes on address when contemplating trial re <title
+				type="journal">Woman Rebel</title> 1916." At the top of the 4th page, Sanger wrote
+			"buck up." Portions of this text were used again in the stump speech she gave on her
+			1916 national tour. For an example see <xref from="128003.xml">Condemnation is
+				Misunderstanding</xref> Apr.-July, 1916.</p>
 		<index level1="abortion" level2="MS on"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="class-based"/>
@@ -108,12 +109,12 @@
 				body; that she shall be a mother when she desires to be one, consciously and
 				voluntarily. In order to do this she must have the knowledge to control birth. Man
 				has seen fit to place the most sacred function of her body on a footing with
-				pornography and he calls any education bearing upon it as "Filthy, vile,
-					obscene". Woman must undo that crime. She must raise Man's standards in this
-				as she has done in the past to a still higher level and place the function of
-				motherhood and its physiology where it rightly belongs. She can only do this through
-				education. And this paper, the "<title type="journal">Woman Rebel</title>" was a
-				pioneer attempt to give her that education.</p>
+				pornography and he calls any education bearing upon it as "Filthy, vile, obscene".
+				Woman must undo that crime. She must raise Man's standards in this as she has done
+				in the past to a still higher level and place the function of motherhood and its
+				physiology where it rightly belongs. She can only do this through education. And
+				this paper, the "<title type="journal">Woman Rebel</title>" was a pioneer attempt to
+				give her that education.</p>
 			<p>It has been said that the issue advocated in this paper is fifty years ahead of the
 				times. But this I deny. Rather is it a few narrow-minded officials who are fifty
 				years behind the times, for I have found that the great mass of people desire this
@@ -144,10 +145,10 @@
 		<div>
 			<head type="sub">CHARGES.</head>
 			<p>The indictments charge me with publishing and circulating <add>indecent</add> obscene
-				literature. What is the meaning <del>obscenity</del> of this word "Obscene"?
-				The average <del>men and wo</del> citizen is not familiar with the definition given
-				in law books but must rely upon the only available source, that is in dictionaries
-				and encyclopedias. I refer you to a standard authority <title type="book">The
+				literature. What is the meaning <del>obscenity</del> of this word "Obscene"? The
+				average <del>men and wo</del> citizen is not familiar with the definition given in
+				law books but must rely upon the only available source, that is in dictionaries and
+				encyclopedias. I refer you to a standard authority <title type="book">The
 					Encyclopedia Britannica</title> which <del>defines</del> says of
 					"<q>obscenity</q>":-</p>
 			<p>"<q who="EB">The precise meaning of the word is decidedly ambiguous. It has been
@@ -348,7 +349,7 @@
 				Archer</person>, was forwarded to President <person reg="Wilson, Woodrow"
 					>Wilson</person> and reads as follows:-</p>
 			<p rend="blockquote">"TO THE PRESIDENT OF THE UNITED STATES, WHITE HOUSE, <place
-					reg="Washington, D.C.">WASH. D.C.</place></p>
+					reg="Washington, DC">WASH. D.C.</place></p>
 			<p rend="blockquote">Sir:- We understand that Mrs <person reg="Sanger, Margaret"
 					>Margaret Sanger</person> is in danger of criminal prosecution for circulating a
 				paper on birth control. We therefore beg to draw your attention to the fact that
@@ -505,8 +506,8 @@
 				war. I <add>further</add> submit this article is more moral and <add>would have a
 					better</add> effect upon a community than the sporting page of any daily paper.
 				I wish to read you some extracts from the classics.</p>
-			<p>I will begin with the philosophers of <place>Greece</place> and <place
-					reg="Rome, Italy">Rome</place>, whose opinions are supported by authorities from
+			<p>I will begin with the philosophers of <place>Greece</place> and <org
+					reg="Roman Empire">Rome</org>, whose opinions are supported by authorities from
 				the <title type="book">Bible</title> and which, I trust, will fully exculpate me
 				from the charge upon the record.</p>
 			<p><person>Plato</person>, in his plan for a <title type="book">Republic</title> (a
@@ -541,9 +542,8 @@
 					mankind, to whom nothing is sacred, and whom no law can bind, should be
 					considered inviolable.</q>"</p>
 			<p>I will conclude with an approval of <del>tyrannists</del> assassination written by
-					Theodore Roosevelt in his "<title
-					type="book">Life of Cromwell</title>" published by <add>Scribner &amp;
-				Son</add>Quote. . . . . </p>
+				Theodore Roosevelt in his "<title type="book">Life of Cromwell</title>" published by
+					<add>Scribner &amp; Son</add>Quote. . . . . </p>
 			<p>The article I have published, gentlemen, you will observe does not
 					<del>necessarily</del>
 				<add>so emphatically or enthusiastically</add>approve of assassination, as Mr.
@@ -554,10 +554,10 @@
 					Phillips</person> and the remainder deals with the subject in the general way I
 				have described to you.</p>
 			<p>
-				<add> If the <org reg="United States Government">U.S. govt</org> have indictments out for
-					the publishers of Wendell Phillips &amp; Theodore Roosevelt's books as well as
-					Those of the books mentioned above--then we might consider the justice of this
-					accusation.</add>
+				<add> If the <org reg="United States Government">U.S. govt</org> have indictments
+					out for the publishers of Wendell Phillips &amp; Theodore Roosevelt's books as
+					well as Those of the books mentioned above--then we might consider the justice
+					of this accusation.</add>
 			</p>
 		</div>
 	</docBody>

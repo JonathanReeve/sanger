@@ -55,7 +55,7 @@
 		<p>
 			<q who="IS">Mrs. Sanger opened the <org reg="Brownsville Clinic">first clinic</org> in
 				the <place>United States</place>for the dissemination of birth control knowledge in
-					<place>New York City</place>. She was arrested, served 30 days in jail, and took
+					<place reg="New York, NY">New York City</place>. She was arrested, served 30 days in jail, and took
 				her case to the highest court, where she won. At the present <place>New York</place>
 				State, she says, is the only states in which doctors have the right to give this
 				knowledge.</q>
@@ -70,9 +70,8 @@
 		<p>
 			<q who="IS">A group met Mrs. Sanger and <person reg="Alexander, Nell Wells">Mrs. Neil
 					Alexander</person> of Washington, D.C. at Hotel Boise Thursday and there will be
-				another no-host luncheon today at 12 o'clock at the <org>Owyhee Hotel</org>.
-				This is open to any persons interested in meeting Mrs. Sanger and Mrs.
-				Alexander.</q>
+				another no-host luncheon today at 12 o'clock at the <org>Owyhee Hotel</org>. This is
+				open to any persons interested in meeting Mrs. Sanger and Mrs. Alexander.</q>
 		</p>
 		<p>
 			<q who="IS">Mrs. Sanger will leave Boise Sunday.</q>

@@ -14,8 +14,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Washington
-						Post</supplied>
+				<supplied resp="MSPP">Interview with the Washington Post</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421054</idno>
@@ -39,12 +38,12 @@
 	</headNote>
 	<docBody>
 		<head>Birth Control Not Race Suicide, Says Mrs. Sanger</head>
-			<p>
+		<p>
 			<q who="TWP">Birth control has succeeded in meeting the attacks of those who represent
-				it as synonymous with race suicide, Mrs. Margaret
-					Sanger, foremost American exponent of the movement, who has just
-				arrived in <place reg="Washington DC">Washington</place>, declared yesterday in an
-				exclusive interview with the <title type="journal">Washington Post</title>. </q>
+				it as synonymous with race suicide, Mrs. Margaret Sanger, foremost American exponent
+				of the movement, who has just arrived in <place reg="Washington, DC"
+					>Washington</place>, declared yesterday in an exclusive interview with the
+					<title type="journal">Washington Post</title>. </q>
 		</p>
 		<p> “As a matter of fact,” <q who="TWP">she said,</q> “birth control neither adds to nor
 			subtracts from the normal increase of population. Studies of population over long

@@ -10,10 +10,13 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1930-00-00"><supplied resp="MSPP">1930</supplied></docDate>
+		<docDate value="1930-00-00">
+			<supplied resp="MSPP">1930</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Early Work in the Birth Control
-				Movement</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Early Work in the Birth Control Movement</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp101825</idno>
 		<sourceDesc>
@@ -116,7 +119,7 @@
 			giving of contraceptive advice at its Maternity and Child Welfare Centers, of which
 			there are nearly 2500 scattered over the country.</p>
 		<p>The most imperative need for birth control today exists in the Oriental countries. In
-			1922 I was invited by a liberal group in <place reg="Toyko, Japan">Tokyo</place> to come
+			1922 I was invited by a liberal group in <place reg="Tokyo, Japan">Tokyo</place> to come
 			to Japan to present the subject there. The enthusiasm and publicity aroused in both
 			Japan and <place>China</place> was tremendous. Never has my calendar been so crowded
 			with lectures, conferences, interviews and social functions. Organizations were formed,

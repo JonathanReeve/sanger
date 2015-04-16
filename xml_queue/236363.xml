@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014-05-07 JK initial tag</prepDate>
 		<prepDate>2015-03-17 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-05-12">12 May 1931</docDate>
 		<docTitle>
 			<titlePart>
@@ -49,7 +51,7 @@
 		</p>
 		<p><org reg="United Kingdom Ministry of Health">Ministry of Health</org> in
 				<place>England</place>--maternal &amp; infant centers</p>
-		<p>Encyclical from <place reg="Rome, Italy">Rome</place> pronouncing against it.</p>
+		<p>Encyclical from <org reg="Roman Catholic Church">Rome</org> pronouncing against it.</p>
 		<p>
 			<org>Federal Council of Churches of Christ in <place reg="United States"
 				>America</place></org>.</p>
@@ -59,18 +61,19 @@
 				reg="Universalist Church">Universalist</org> &amp; <org
 				reg="National Rabbis Association">National Rabbis Ass</org>.</p>
 		<p>Finally and at last, <org reg="The New York Academy of Medicine">Academy of Medicine in
-				<place reg="New York, NY">New York City</place>.</org></p>
+					<place reg="New York, NY">New York City</place>.</org></p>
 		<p>Indicates that BC in the keynote new social. Not only a health &amp; economic experiment.
 			Social principle interlocked. Spiritual development of woman &amp; the moral progress of
 			the race. </p>
 		<p><person reg="Shaw, George Bernard">G.B. Shaw</person> says most revolutionary idea of the
-			20th Century. <person reg="Wells, H. G.">H.G. Wells</person> says it’s the most momentous
-			fact of modern life. <person reg="Inge, William Ralph">Dean Inge</person>
-			<org>St. Paul’s Cathedral</org>--it’s here to stay--a great force for good or evil--churches to open their ears--or close their doors.</p>
+			20th Century. <person reg="Wells, H. G.">H.G. Wells</person> says it’s the most
+			momentous fact of modern life. <person reg="Inge, William Ralph">Dean Inge</person>
+			<org>St. Paul’s Cathedral</org>--it’s here to stay--a great force for good or
+			evil--churches to open their ears--or close their doors.</p>
 		<p> B.C conscious control of the birth rate by means that meant conception of life. Prevent,
-			not destroy, not interfere after contraception. Control--not limit, furnace,
-			automobile, traffic. Conscious control. Deliberate, intentional choice, not chance.
-			Positive, not negative attitude.</p>
+			not destroy, not interfere after contraception. Control--not limit, furnace, automobile,
+			traffic. Conscious control. Deliberate, intentional choice, not chance. Positive, not
+			negative attitude.</p>
 		<p> Why control birth rate: Because Two Problems</p>
 		<p>Confront Civilization</p>
 		<list>
@@ -102,7 +105,10 @@
 		<p>individual problems?--social problems here</p>
 		<p>13 billions spent 1928, public &amp; private charities</p>
 		<p>5 billions including crime</p>
-		<p><org reg="White House Conference on Child Health and Protection">White House Conference, 1930</org></p>
+		<p>
+			<org reg="White House Conference on Child Health and Protection">White House Conference,
+				1930</org>
+		</p>
 		<p><unclear>[unclear number]</unclear> million handicapped children in <place
 				reg="United States">U.S.A.</place></p>
 		<p><unclear>[unclear number]</unclear> infant deaths. 90% poverty &amp; neglect</p>

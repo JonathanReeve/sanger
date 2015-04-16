@@ -10,7 +10,9 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1937-00-00"><supplied resp="MSPP">1937</supplied></docDate>
+		<docDate value="1937-00-00">
+			<supplied resp="MSPP">1937</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>The Birth Control of a Nation</titlePart>
 		</docTitle>
@@ -166,7 +168,7 @@
 				books and materials increased, a particularly strong test case was instituted by the
 				Committee in behalf of <person reg="Stone, Hannah Mayer">Dr. Hannah M.
 					Stone</person>, Medical Director of the <org>Birth Control Clinical Research
-					Bureau</org> in <place reg="New York City, NY">New York</place>. The <org
+					Bureau</org> in <place reg="New York, NY">New York</place>. The <org
 					reg="United States Government">U.S. Government</org>, through the <org
 					reg="United States Bureau of Customs">Bureau of Customs</org>, had seized a
 				package containing 120 pessaries to prevent conception, which the government alleged

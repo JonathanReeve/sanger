@@ -27,23 +27,23 @@
 	<headNote resp="MSPP">
 		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
 			see <xref from="320973.xml"><title type="article">Birth Control, 1941</title></xref>;
-			<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
-			<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
-			<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
-			<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
-			<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
-			<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
-			<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
-			<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
-			<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
-			<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
-			<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
-			<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
-			<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
-			<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
-			<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
-			<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
-			<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
+				<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
+				<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
+				<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
+				<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
+				<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
+				<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
+				<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
+				<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
+				<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
+				<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
+				<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
+				<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
+				<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
+				<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
+				<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
+				<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
+				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
 		<index level1="birth control" level2="American opinion on"/>
 		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
 		<index level1="birth control" level2="international"/>
@@ -72,7 +72,7 @@
 			<p>Speaking before the <org reg="United Nations International Health Conference"
 					>International Health conference</org> of the United Nations, Dr. <person
 					reg="Tutunji, Djamil Pasha">Djamil Pasha Tutunji</person>, health director of
-					<place>Trans-Jordan</place>, declared that birth control is as important to
+					<place reg="Transjordan">Trans-Jordan</place>, declared that birth control is as important to
 				world peace as the control of the atom bomb.</p>
 			<p>The first postwar international sex conference, attended by representatives of eight
 				countries, was held in <place>Stockholm, Sweden</place>. Delegates from the

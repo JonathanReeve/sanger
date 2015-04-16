@@ -6,7 +6,10 @@
 		<prepDate>2009/08/06 CH proof and correct</prepDate>
 		<prepDate>2014/03/10 clean regs</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-04-08 CH check tags again</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-05-28">28 May 1928</docDate>
 		<docTitle>
 			<titlePart>
@@ -46,7 +49,7 @@
 				Albany</org> and <org reg="Catholic Diocese of New York">New York</org>, and from
 			the <org>Associated Catholic Charities</org> of the state of New York.</p>
 		<p>When our representatives were interviewing members of <org reg="United States Congress"
-				>Congress</org> at <place reg="Washington DC">Washington</place> two years ago, they
+				>Congress</org> at <place reg="Washington, DC">Washington</place> two years ago, they
 			found Catholics, directed by the <org reg="National Catholic Welfare Conference"
 				>National Catholic Welfare Council</org>, lobbying against any change in the Federal
 			law governing the distribution or importation of Birth Control information or
@@ -58,7 +61,7 @@
 			they voted for our bills?</p>
 		<p>We entirely agree with your reported statement that “<q who="HAYPA">the church should be
 				kept out of politics.</q>” Is the statement attributed to you correct, and what does
-			it imply? Many thousands of married people in <place>New York</place> State are interested in your
-			answer. </p>
+			it imply? Many thousands of married people in <place>New York</place> State are
+			interested in your answer. </p>
 	</docBody>
 </doc>

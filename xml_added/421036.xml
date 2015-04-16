@@ -24,8 +24,10 @@
 			<name id="BCE">Buffalo Courier-Express</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger was in Buffalo, NY on November 14, 1929 and had a meeting at
-			Susan Fiske Rumsey's House. </p><index level1="birth control" level2="access to"/>
+	<headNote resp="MSPP">
+		<p>Sanger was in Buffalo, NY on November 14, 1929 and had a meeting at Susan Fiske Rumsey's
+			House. </p>
+		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="civilization and"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
@@ -45,7 +47,8 @@
 				reg="National Committee on Federal Legislation for Birth Control">legislation
 				committee</org></byline>
 
-		<p><q who="BCE">
+		<p>
+			<q who="BCE">
 				<place reg="Buffalo, NY">Buffalo</place> will probably have a birth control clinic
 				modeled after that in <place reg="New York, NY">New York City</place>, of which Mrs.
 				Margaret Sanger is the director. Great interest in the project was evinced yesterday
@@ -88,8 +91,8 @@
 			recruiting the future generations. </p>
 		<p> “How philanthropic we are, and, to a certain extent what miserable results we are
 			getting! Nine billions spent on diseased, defective, delinquent, and criminal! If we
-			could use those nine billions on normal, fit children we could surpass anything <place
-				reg="Rome, Italy">Rome</place> or <place>Greece</place> ever dreamed of.”</p>
+			could use those nine billions on normal, fit children we could surpass anything <org
+				reg="Roman Empire">Rome</org> or <place>Greece</place> ever dreamed of.”</p>
 		<p>
 			<q who="BCE"> Mrs. Sanger pointed out that 90 percent of children who die in the first
 				year of life die from causes due to poverty and neglect; she pointed out that,</q>
@@ -122,10 +125,12 @@
 					reg="White, Anna L. D.">Mrs. Seymour White</person>, <person reg="Smith, Mary"
 					>Mrs. Carlton Smith</person>, Miss <person reg="Love, Maria">Maria
 				Love</person>, <person reg="Visqer't Hooft, Frans">Mrs. Franz Vissert
-				Hooft</person>.</q></p>
+				Hooft</person>.</q>
+		</p>
 
 		<p>
-			<q who="BCE">On the committee were: </q></p>
+			<q who="BCE">On the committee were: </q>
+		</p>
 
 		<p>
 			<q who="BCE">

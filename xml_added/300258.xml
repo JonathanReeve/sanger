@@ -49,21 +49,24 @@
 				reg="International Federation of Neo-Malthusian and Birth Control Leagues"
 				>International Birth Control League</org></byline>
 		<div type="section">
-			
-			<p><q who="UNK">Editorial Note--Throughout the world wherever birth control is advocated or
-					considered, Mrs. Sanger is known as the outstanding leader of the Birth Control
-					movement in America and as an indefatigable and fearless advocate in her
-					writings and lectures of conscious and willing motherhood.</q></p>
-			
+
+			<p>
+				<q who="UNK">Editorial Note--Throughout the world wherever birth control is
+					advocated or considered, Mrs. Sanger is known as the outstanding leader of the
+					Birth Control movement in America and as an indefatigable and fearless advocate
+					in her writings and lectures of conscious and willing motherhood.</q>
+			</p>
+
 		</div>
 		<div type="section">
-			<p>No less than twelve nations of the Orient and Occident were represented at the
-					<org>Sixth International Neo-Malthusian and Birth Control Conference</org>,
-				recently brought to a successful close in<place reg="New York, NY"> New
-				York</place>. The Conference was held under the auspices of the American Birth
-				Control League and was the first gathering of its kind, made up of delegates from
-				every civilized country of the globe, ever held in the <place>United States</place>
-				to discuss problems of population and racial health.</p>
+			<p>No less than twelve nations of the <place reg="Asia">Orient</place> and <place
+					reg="Western World">Occident</place> were represented at the <org>Sixth
+					International Neo-Malthusian and Birth Control Conference</org>, recently
+				brought to a successful close in<place reg="New York, NY"> New York</place>. The
+				Conference was held under the auspices of the American Birth Control League and was
+				the first gathering of its kind, made up of delegates from every civilized country
+				of the globe, ever held in the <place>United States</place> to discuss problems of
+				population and racial health.</p>
 			<p>Perhaps the most important achievement of the conference was to place the movement
 				for a OPTIMUM population <gap reason="torn document" extent="one word"/> all
 				countries, as opposed to <gap reason="torn document" extent="one word"/> population,

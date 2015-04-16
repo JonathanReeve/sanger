@@ -29,7 +29,8 @@
 			<name id="UNK">Unknown</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger's speech was not found.</p>
+	<headNote resp="MSPP">
+		<p>Sanger's speech was not found.</p>
 		<index level1="birth control laws and legislation" level2="Comstock Act"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
 		<index level1="birth control clinics and leagues"/>
@@ -49,28 +50,33 @@
 		<head>Says Birth Control is Quickest Means of Effect Peace on
 			Earth</head>
 		<div type="section">
-			<p><q who="MCT">Birth Control must be the basis for any new social
+			<p>
+				<q who="MCT">Birth Control must be the basis for any new social
 					order: it is the most immediate step to be taken if we will
 					bring peace on earth; and it must take parenthood out of the
 					realm of chance.</q>
 			</p>
-			<p><q who="MCT"> A small auburn-haired woman, introduced by
+			<p>
+				<q who="MCT"> A small auburn-haired woman, introduced by
 					Professor <person reg="Ross, Edward Allsworth"> E. A.
 						Ross</person> in a crowded Music hall Monday night as
 					one contemporary whose name would be familiar to the
 					historian 500 years hence, Mrs. Margaret Sanger, summed up
 					her arguments on “The Need of Birth Control” with that
-					sweeping assertion. </q></p>
-			<p><q who="MCT">She drew a picture, familiar to her through 16 years
-					of struggle and argument of a minority of 20 millions of
-					intelligent persons in the United States carrying the burden
-					of 45,000,000 subnormal and mediocre persons; the
+					sweeping assertion. </q>
+			</p>
+			<p>
+				<q who="MCT">She drew a picture, familiar to her through 16
+					years of struggle and argument of a minority of 20 millions
+					of intelligent persons in the United States carrying the
+					burden of 45,000,000 subnormal and mediocre persons; the
 					intelligent limiting their families; the subnormal,
-					multiplying unchecked.</q></p>
+					multiplying unchecked.</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub">U.S. Sees Problem</head>
-			<p>“The <place>United Sates</place> government recognizes its
+			<p>“The <place>United States</place> government recognizes its
 				population problem,” she declared, “Its immigration laws exclude
 				the unfit, the illiterate, the disease, the mentally deficient,
 				those likely to become a charge on the community, and others. </p>
@@ -81,13 +87,16 @@
 				are laws inspired by <person reg="Comstock, Anthony">Anthony
 					Comstock </person>56 years ago.” </p>
 
-			<p><q who="MCT">She declared that a minority in the United States
+			<p>
+				<q who="MCT">She declared that a minority in the United States
 					was limiting its families, that this minority held the best
 					positions, gave its children the best training, and paid the
 					$9,000,000,000 which last year was spent in taxes for
 					charitable institutions and institutions for the car of the
-					others. </q></p>
-			<p><q who="MCT">Questioned after the conclusion of her lecture for
+					others. </q>
+			</p>
+			<p>
+				<q who="MCT">Questioned after the conclusion of her lecture for
 					almost an hour by interested students, faculty members,
 					townspeople, and even one physician, there was no trace of
 					hostility in the crowd.</q>
@@ -101,7 +110,8 @@
 				“You can ask right back, which is the greater sin, birth control
 				of bearing a child for someone else to take care of.”</p>
 
-			<p><q who="MCT"> The effect that knowledge of contraceptive methods
+			<p>
+				<q who="MCT"> The effect that knowledge of contraceptive methods
 					might have on encouraging promiscuity outside of marriage,
 					Mrs. Sanger declared to be nil and dependent upon the
 					character of the persons involved, in answer to another
@@ -109,7 +119,8 @@
 					declared that the regular institution of marriage has never
 					really been given a chance.</q>
 			</p>
-			<p><q who="MCT">The danger of applying to any physician for birth
+			<p>
+				<q who="MCT">The danger of applying to any physician for birth
 					control information, because of the possibility of falling
 					in the hands of a quack was little, she declared, because of
 					the possible harm in receiving contraceptive information
@@ -147,14 +158,17 @@
 			<p>“We will not let famine and pestilence control population,” she
 				said, “So we must control our birth rate.”</p>
 
-			<p><q who="MCT">The 83 millions of mediocre and subnormal, she
+			<p>
+				<q who="MCT">The 83 millions of mediocre and subnormal, she
 					declared, resulted in slums, child labor, ignorance, and
 					misery.</q>
 			</p>
-			<p><q who="MCT">The small intelligent group has the small families,
+			<p>
+				<q who="MCT">The small intelligent group has the small families,
 					but it brings in the largest number of children up to
 					maturity, from that group the best positions are filled,
-					according to Mrs. Sanger.</q></p>
+					according to Mrs. Sanger.</q>
+			</p>
 
 			<p>“Some point to that group as being selected to increase its birth
 				rate,” she said. “But I believe they can not multiply faster
@@ -164,7 +178,8 @@
 				<q who="MCT">She declared that the United States had the largest
 					maternity death rate in the civilized world with 20,000
 					mothers dying each year; and she stated that 200,000 infants
-					died before they reach one year of age. </q></p>
+					died before they reach one year of age. </q>
+			</p>
 			<p>
 				<q who="MCT">She found three conditions controlling the infant
 					death rate: <list>
@@ -202,7 +217,8 @@
 				“In spite of the law of the church, the Catholic women come to
 				us.”</p>
 
-			<p><q who="MCT">She outlined three means of control: <list>
+			<p>
+				<q who="MCT">She outlined three means of control: <list>
 						<item>1. Continence. “We have no quarrel with this
 							method,” she said. “However our neurologists and
 							psychologist may quarrel with it.”</item>
@@ -210,8 +226,10 @@
 							the work of the state to prevent defectives from
 							having progeny, she said. </item>
 						<item> 3. Contraceptives.</item>
-					</list></q></p>
-			<p><q who="MCT"> According to Mrs. Sanger the last method is the
+					</list></q>
+			</p>
+			<p>
+				<q who="MCT"> According to Mrs. Sanger the last method is the
 					only one which arouses any opposition. She said persons with
 					transmissible diseases should not be parents, and should be
 					sterilized mothers with communicable diseases should be
@@ -219,14 +237,16 @@
 					normal parents who have already had several subnormal
 					children should have no more children.</q>
 			</p>
-			<p><q who="MCT"> Normal parents should allow a three year interval
+			<p>
+				<q who="MCT"> Normal parents should allow a three year interval
 					between children, one year for the mother to care for the
 					infant; one year for her to enjoy life; and one year to
 					prepare for the coming of the next child.</q>
 			</p>
-			<p><q who="MCT">Adolescents may marry, according to Mrs. Sanger, but
-					they should not have children until the girl reaches 22 and
-					the man 25.</q>
+			<p>
+				<q who="MCT">Adolescents may marry, according to Mrs. Sanger,
+					but they should not have children until the girl reaches 22
+					and the man 25.</q>
 			</p>
 		</div>
 	</docBody>

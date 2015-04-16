@@ -12,8 +12,9 @@
 		</docAuthor>
 		<docDate value="1916-03-01">1 Mar 1916</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">A Statement of Support for Emma
-				Goldman</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">A Statement of Support for Emma Goldman</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp106580</idno>
 		<sourceDesc>
@@ -28,8 +29,8 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This statement was read for Sanger at a mass meeting held for <person reg="Goldman, Emma"
-				>Emma Goldman</person> at <org>Carnegie Hall</org> in <place reg="New York, NY">New York
-				City</place>.</p>
+				>Emma Goldman</person> at <org>Carnegie Hall</org> in <place reg="New York, NY">New
+				York City</place>.</p>
 		<index level1="Goldman, Emma"/>
 		<index level1="free speech and free press"/>
 		<index level1="birth control clinics and leagues" level2="establishment of"/>
@@ -44,9 +45,9 @@
 			convicted. My plan was to tour to the West Coast to establish birth control clinics in
 			those States where the laws are sufficiently responsive to an intelligent public opinion
 			to abdicate their authority in this regard. But if Emma Goldman goes to prison, it may
-			be necessary to concentrate all our efforts against the archaic puritanism of <place
-				>New York State</place> and open the first free clinic in the lower East
-			side of New York City.</p>
+			be necessary to concentrate all our efforts against the archaic puritanism of <place>New
+				York</place> State and open the first free clinic in the lower East side of New York
+			City.</p>
 		<byline>Margaret Sanger</byline>
 	</docBody>
 </doc>

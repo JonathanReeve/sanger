@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014/06/19 MM</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1959-11-12">12 Nov 1959</docDate>
 		<docTitle>
 			<titlePart>Birth Control in Japan</titlePart>
@@ -18,7 +20,8 @@
 			<name id="UNK">Unknown</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><index level1="Japan" level2="overpopulation and"/>
+	<headNote resp="MSPP">
+		<index level1="Japan" level2="overpopulation and"/>
 		<index level1="Japan" level2="population policies of"/>
 		<index level1="Japan" level2="birth control in"/>
 	</headNote>
@@ -27,7 +30,7 @@
 		<p><emph rend="bold">To the Editors:</emph> In February I visited <place>Japan</place> on my
 			way to <place>India</place>. I met with a number of women who wanted me to stay and help
 			them. As I had not planned to do that I said that I would return. So after I had
-			returned to <place reg="Tuscon, AZ">Tuscon</place> and settled up my affairs, especially
+			returned to <place reg="Tucson, AZ">Tucson</place> and settled up my affairs, especially
 			with my doctors, I went off to Japan, taking four teen-agers, two of them my <person
 				reg="Sanger, Nancy"><person reg="Marston, Margaret Sanger"
 				>granddaughters</person></person>, and <person reg="Schneiderman, Barbara"><person
@@ -45,7 +48,7 @@
 			problem nevertheless.</p>
 		<byline>MARGARET SANGER, President <lb/>
 			<org>International Planned Parenthood Federation</org>
-			<lb/> Tuscon, Arizona</byline>
+			<lb/> Tucson, Arizona</byline>
 
 	</docBody>
 </doc>

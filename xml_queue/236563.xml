@@ -32,24 +32,25 @@
 			<name id="HC">Hartford Courant</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Margaret Sanger gave an address as part of a <org>Wesleyan
-				University</org> undergraduate conference on marriage, held in <place
-				reg="Middletown, CT">Middletown, Connecticut</place>. Other speakers included
-				<person reg="Harris, Erdman">Erdman Harris</person>, Father <person
-				reg="Cooper, John M.">John M. Cooper</person>, Dr. <person reg="Terhune, William B."
-				>William B. Terhune</person>, Rev. <person reg="Chamberlain, Roy B.">Roy B.
-				Chamberlain</person>, and Dr. <person reg="Campbell, Clarence G.">Clarence G.
-				Campbell</person>. A complete version of Sanger's talk has not been located, but
-			additional quotes reported in "<title type="article">Mrs. Sanger Says State Law
-				'Stupid'</title>," <title type="journal">Hartford Courant</title>, Dec. 10, 1932, p.
-			2, have been added at the bottom of Sanger's draft notes. For reports of a similar
-			speech, also not found, see "<xref from="421046.xml">Speech to the <org>Hartford Branch
-					of the Connecticut Birth Control League</org></xref>," Dec. 10, 1932.</p>
+	<headNote resp="MSPP">
+		<p>Margaret Sanger gave an address as part of a <org>Wesleyan University</org> undergraduate
+			conference on marriage, held in <place reg="Middletown, CT">Middletown,
+				Connecticut</place>. Other speakers included <person reg="Harris, Erdman">Erdman
+				Harris</person>, Father <person reg="Cooper, John M.">John M. Cooper</person>, Dr.
+				<person reg="Terhune, William B.">William B. Terhune</person>, Rev. <person
+				reg="Chamberlain, Roy B.">Roy B. Chamberlain</person>, and Dr. <person
+				reg="Campbell, Clarence G.">Clarence G. Campbell</person>. A complete version of
+			Sanger's talk has not been located, but additional quotes reported in "<title
+				type="article">Mrs. Sanger Says State Law 'Stupid'</title>," <title type="journal"
+				>Hartford Courant</title>, Dec. 10, 1932, p. 2, have been added at the bottom of
+			Sanger's draft notes. For reports of a similar speech, also not found, see "<xref
+				from="421046.xml">Speech to the <org>Hartford Branch of the Connecticut Birth
+					Control League</org></xref>," Dec. 10, 1932.</p>
 		<index level1="birth control" level2="definitions of"/>
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
-		<index level1="Connecticut" level2="birth control" level3="laws and legislation"
-		/></headNote>
+		<index level1="Connecticut" level2="birth control" level3="laws and legislation"/>
+	</headNote>
 	<docBody>
 		<dateline>
 			<place reg="Wesleyan, CT">Westleyan</place>
@@ -146,7 +147,7 @@
 					the</q> "stupidist" <q who="HC">laws concerning the dissemination of birth
 					control information.</q> "How can a law that says it is a crime for anyone to
 				use contraceptive devices be enforced? <q who="HC">she asked. Mrs. Sanger said that
-					while <place>New York State</place> Law is almost as</q> "stupid," <q who="HC"
+					while <place>New York</place> State Law is almost as</q> "stupid," <q who="HC"
 					>many states do allow the proper spread of birth control information and she
 					deplored the law making it illegal to use the mails to notify people as to where
 					they may secure the necessary information. She cited cases to show that <rs

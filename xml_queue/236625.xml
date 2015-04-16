@@ -5,7 +5,9 @@
 		<prepDate>2010/04/28 AC</prepDate>
 		<prepDate>2014-03-11 CH clean regs and other errors</prepDate>
 		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1938-11-14">14 Nov 1938</docDate>
 		<docTitle>
 			<titlePart>
@@ -21,13 +23,15 @@
 		<respStmt>
 			<resp>
 				<name id="NRCCPP">National Resources Committee, Committee on Population
-					Problems</name><name id="AMA">American Medical Association</name>
+					Problems</name>
+				<name id="AMA">American Medical Association</name>
 			</resp>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No published version of this article was found. It may have been
-			written for the <title type="book">Britannic Book of the Year</title> series, for an
-			example, see <xref from="035218.xml">Birth Control, 1937</xref>, 1938.</p>
+	<headNote resp="MSPP">
+		<p>No published version of this article was found. It may have been written for the <title
+				type="book">Britannic Book of the Year</title> series, for an example, see <xref
+				from="035218.xml">Birth Control, 1937</xref>, 1938.</p>
 		<index level1="venereal disease"/>
 		<index level1="United States" level2="government" level3="birth control and"/>
 		<index level1="physicians" level2="birth control and"/>
@@ -136,7 +140,7 @@
 				contraceptive which it is announced is now ready for distribution. Similar
 				experiments in simplified contraceptive methods have been consistently carried on by
 				the <org>Birth Control Clinical Research Bureau</org> in <place
-					reg="New York City, NY">New York City</place> through its affiliates in America
+					reg="New York, NY">New York City</place> through its affiliates in America
 				and elsewhere, and statistical studies reveal encouraging progress.</p>
 			<p>Research in many other aspects of contraception is being conducted in various
 				universities of the United States. The time of evaluation at the <org>University of

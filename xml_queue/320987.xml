@@ -6,7 +6,9 @@
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1958-00-00">1958</docDate>
 		<docTitle>
 			<titlePart>
@@ -108,7 +110,7 @@
 			more than 1,500 participants and the third <org>All-India Conference on Family
 				Planning</org> in Calcutta in January, where six-day sessions assessed “National
 			Development Programs and Family Planning.” Delegates from all part of
-				<place>Europe</place>, the <place>near east</place> and Africa gathered in <place
+				<place>Europe</place>, the <place reg="Near East">near east</place> and Africa gathered in <place
 				reg="Berlin, West Germany">West Berlin</place> in October for the International
 			Planned Parenthood federation’s regional conference. Discussions centered on the moral,
 			physical and psychological foundations for healthy family life.</p>
