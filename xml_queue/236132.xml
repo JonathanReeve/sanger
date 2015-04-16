@@ -18,7 +18,8 @@
 			<supplied resp="MSPP">Apr- May 1916</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control(Chicago Address to Women)</supplied>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control</supplied> (Chicago Address to Women)
 			</titlePart>
 		</docTitle>
 		<idno>msp236132</idno>
@@ -209,7 +210,7 @@
 				abortion, who are the GREAT ARMY OF SUFFERERS and it is from among THESE WOMEN that
 				the DEATHS due to abortions usually ensue.</p>
 			<p>If women had the knowledge to prevent conception there would be almost NO NECESSITY
-				for abortion.!! It is because abortions occuring so frequently among the working
+				for abortion.!! It is because abortions occurring so frequently among the working
 				women today -- the suffering, illness and death resulting from the carelessness of
 				their performance, -- that has urged me to make ANY SACRIFICE and direct my efforts
 				to make it possible for these women to obtain: CLEAN, HARMLESS KNOWLEDGE OF THE
@@ -238,15 +239,19 @@
 				our laws <add>must state</add>
 				<del>make</del> it a CRIME for that physician to inform that same woman how to
 				prevent conception and thereby prevent abortion and its tragic suffering.</p>
-			<p><emph rend="underline"> KNOWLEDGE TO PREVENT CONCEPTION IS THE ONLY CURE FOR
-					ABORTION.</emph></p>
+			<p>
+				<emph rend="underline"> KNOWLEDGE TO PREVENT CONCEPTION IS THE ONLY CURE FOR
+					ABORTION.</emph>
+			</p>
 			<p>May the women of this country rise up and demand the REPEAL of the laws which force
 				such abhorrent conditions upon them <add>&amp; demand this knowledge to prevent
 					abortion.</add></p>
 			<p>Naturally one of the first questions asked by all concerned is:</p>
 		</div>
 		<div type="section">
-			<head type="sub"><emph rend="underline">ARE PREVENTIVE MEASURES CERTAIN?</emph></head>
+			<head type="sub">
+				<emph rend="underline">ARE PREVENTIVE MEASURES CERTAIN?</emph>
+			</head>
 			<p>It is always difficult to say that ANYTHING is CERTAIN in its result. A surgeon would
 				not succeed with the most serious operation was he not most particular to take every
 				precaution and insist that all directions be faithfully carried out.</p>
@@ -265,7 +270,8 @@
 		</div>
 		<div type="section">
 			<head type="sub">
-				<emph rend="underline">ARE PREVENTIVE METHODS INJURIOUS TO HEALTH?</emph></head>
+				<emph rend="underline">ARE PREVENTIVE METHODS INJURIOUS TO HEALTH?</emph>
+			</head>
 			<p>A <person reg="Unknown">very prominent authority</person> claims that there is far
 				more injury to a woman's health <emph rend="underline">to live in CONSTANT
 					FEAR</emph> of pregnancy than the use of all the preventive measures in the
@@ -377,7 +383,10 @@
 						already <emph rend="underline">reddened every battlefield in
 						history.</emph></item>
 				</list></p>
-			<p><add>other page</add><gap extent="one page" reason="missing"/></p>
+			<p>
+				<add>other page</add>
+				<gap extent="one page" reason="missing"/>
+			</p>
 			<p>Some of those who take their stand against Birth Control do so by the thought that we
 				have no right to destroy potential life.</p>
 			<p>A little study of human and animal physiology would convince them that every celibate
