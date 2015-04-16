@@ -7,9 +7,11 @@
 		<prepDate>2003/11/25 CH cleaned up tags and xrefs</prepDate>
 		<prepDate>2007-05-30 CH Oxygen/cleanup</prepDate>
 		<prepDate>2014-11-10 CH reg cleanup</prepDate>
-		<prepDate>2015-02-20 EK correct index</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="1911-11-26">26 Nov. 1911</docDate>
+		<prepDate>2015-02-20 EK correct indexes</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1911-11-26">26 Nov 1911</docDate>
 		<docTitle>
 			<titlePart>How Six Little Children Were Taught The Truth, Part V</titlePart>
 		</docTitle>
@@ -30,6 +32,8 @@
 				Know</title>, (New York, 1912).</p>
 		<index level1="sex education"/>
 		<index level1="reproduction"/>
+		<index level1="Sanger, Margaret" level2="books" level3="What Every Mother Should Know"/>
+		<index level1="Sanger, Margaret” level2="fictional writing"/>
 	</headNote>
 	<docBody>
 		<head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>
@@ -97,6 +101,7 @@
 			must be kept warm almost constantly, and so Mrs. Bird gathers them close to her warm
 			body and sits on them day after day, until they are ready to burst the shell open and
 			come out -- the real new birds. </p>
+		<p>test</p>
 		<trailer>(The Birds--To be Concluded Next Sunday.)</trailer>
 	</docBody>
 </doc>
