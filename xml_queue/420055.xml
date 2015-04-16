@@ -9,6 +9,7 @@
 		<prepDate>2007-05-30 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-16 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
@@ -16,18 +17,20 @@
 		</docTitle>
 		<idno>msp420055</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Apr. 1914 , 9</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Apr. 1914, p. 9</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0523</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
+		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
 		<index level1="censorship"/>
-		<index level1="family size"/>
-		<index level1="Woman Rebel, The"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
-	</headNote>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		</headNote>
 	<docBody>
 		<head>HUMBLE PIE</head>
 		<p>The <person reg="Morgan, Edward M.">Postmaster</person> did not like the first number of

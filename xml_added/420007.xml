@@ -9,7 +9,7 @@
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-04-07 EK update index</prepDate>
+		<prepDate>2015-04-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -22,11 +22,12 @@
 			<resp><name id="MARKA">Marx, Karl</name></resp>
 		</respStmt>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel,</title>, May 1914, p. 24</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm </title>, C16:538</bibl>
+			<bibl><title type="journal">The Woman Rebel,</title> May 1914, p. 24</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm </title>, C16:0538</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
+		<index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="labor movement" level2="MS on"/>
 		<index level1="socialism and socialists" level2="MS on"/>
 		<index level1="Socialist Party"/>

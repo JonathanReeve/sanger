@@ -10,6 +10,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-16 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
@@ -17,10 +18,9 @@
 		</docTitle>
 		<idno>msp420051</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, Apr. 1914 ,
-				11.</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Apr. 1914, p. 11</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:525</bibl>
+				C16:0525</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,7 +28,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="working class" level2="women and girls"/>
+		<index level1="women and girls" level2="working class"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="labor movement"/>
 	</headNote>
 	<docBody>
 		<head>SHE SHOULD WORRY</head>

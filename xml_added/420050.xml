@@ -9,6 +9,7 @@
 		<prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-16 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
@@ -16,7 +17,7 @@
 		</docTitle>
 		<idno>msp420050</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, Apr 1914, 11</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Apr 1914, p. 11</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0525</bibl>
 		</sourceDesc>
@@ -26,8 +27,8 @@
 	</mepHeader>
 	<headNote>
 		<index level1="marriage"/>
-		<index level1="free love"/>
-		<index level1="feminism and feminists" level2="MS on"/>
+		<index level1="feminism and feminists"/>
+		<index level1="sex and sexuality" level2="and free love"/>
 	</headNote>
 	<docBody>
 		<head>CONVENTIONS</head>
