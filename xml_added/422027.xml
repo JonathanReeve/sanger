@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published Articlel">
+<doc type="Published Article">
 	<mepHeader>
 		<prepDate>2014/07/16 AS encoded</prepDate>
-		<prepDate>2014-08-15 CH proof and edit</prepDate>
+		<prepDate>2014-08-15 CH proof and edit</prepDate><prepDate>2015-04-16 CH Clean tags and enter</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1918-05-00">May 1918</docDate>
 		<docTitle>
@@ -32,7 +32,7 @@
 		<index level1="birth control clinics and leagues" level2="physicians and"/>
 	</headNote>
 	<docBody>
-		<p>A <person reg="Unidentified">CONSERVATIVE FRIEND</person> who has often relieved my
+		<p>A CONSERVATIVE FRIEND who has often relieved my
 			"neediest cases" with clothing, medical attention or cash, took me to task for endorsing
 			birth control.</p>
 		<p><q who="UNK">"Why do you have anything to do with the dangerous doctrine?</q>" she
@@ -56,7 +56,7 @@
 			whose strength and beauty had been conserved for years by contraceptives has been
 			fighting the movement to grant the same protection and privilege to her less fortunate
 			sisters because her physician has misled her, intentionally or otherwise.</p>
-		<p>We will never have voluntary motherhood until we tear away the <unclear>veil</unclear> of
+		<p>We will never have voluntary motherhood until we tear away the <unclear resp="MSPP">veil</unclear> of
 			hypocrisy and misrepresentation by which physicians hide the truth from their patients,
 			and especially the smugness of those medical men who inform their overburdened patients
 			that there are no safe and sure contraceptives, while they protect their own wives and,
