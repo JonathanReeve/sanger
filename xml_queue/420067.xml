@@ -9,6 +9,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH cleaning regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-17 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
@@ -16,14 +17,16 @@
 		</docTitle>
 		<idno>msp420067</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, Apr. 1914, 13</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Apr. 1914, p. 13</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0527</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
-		<index level1="labor movement"/>
-	</headNote>
+		<index level1="working classes"/>
+		<index level1="labor movement" level2="MS on"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		</headNote>
 	<docBody>
 		<head>HOW IT WORKS!</head>
 		<p>How much longer will the working class be led to slaughter by the legal defense

@@ -8,6 +8,7 @@
 		<prepDate>2007-05-30 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-16 EK Update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
@@ -15,13 +16,18 @@
 		</docTitle>
 		<idno>msp420046</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, Apr. 1914, 16</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Apr. 1914, p. 16</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:530</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
-		<index level1="marriage"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="marriage" level2="MS on"/>
+		<index level1="marriage" level2="reforms"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="sex and sexuality" level2="and marriage"/>
+		<index level1="religion" level2="MS on"/>	
 	</headNote>
 	<docBody>
 		<head>MARRIAGE</head>

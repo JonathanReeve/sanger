@@ -9,6 +9,7 @@
 		<prepDate>2007-05-30 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-16 EK index update</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
@@ -16,7 +17,7 @@
 		</docTitle>
 		<idno>msp420049</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, Apr. 1914, 12</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Apr. 1914, p. 12</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:526</bibl>
 		</sourceDesc>
@@ -26,8 +27,12 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
+		<index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="working classes" level2="birth control and"/>
+		<index level1="working classes" level2="fertility of"/>
+		<index level1="working classes" level2="children"/>
+		<index level1="child labor"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
 		<head>INTO THE VALLEY OF DEATH--FOR WHAT?</head>
