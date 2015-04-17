@@ -11,7 +11,9 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1920-00-00"><supplied resp="MSPP">1920s</supplied></docDate>
+		<docDate value="1920-00-00">
+			<supplied resp="MSPP">1920s</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>The Control of Parenthood: A Review By Margaret Sanger</titlePart>
 		</docTitle>
@@ -23,7 +25,7 @@
 
 		<respStmt>
 			<resp>
-				<name id="COXHA">Cox, Harold</name>
+				<name id="COXHA">Cox, Harold J.</name>
 				<name id="HRIHA">Haggard, H. Rider</name>
 				<name id="MARJA">Marchant, James</name>
 				<name id="WAKHE">Wakefield, Henry Russell</name>
@@ -49,7 +51,7 @@
 			authorities are chosen to present or refute each of these. The argument by Sir <person
 				reg="H. Rider Haggard">Rider Haggard</person> for the dominance of the <place
 				reg="Great Britain">British Empire</place> by increase of population, is most ably
-			answered by Mr. <person reg="Cox, Harold">Harold Cox</person> in his essay on the
+			answered by Mr. <person reg="Cox, Harold J.">Harold Cox</person> in his essay on the
 			economic side of the subject. Altogether the book is the best and clearest presentation
 			of the subject in the English language. </p>
 	</docBody>

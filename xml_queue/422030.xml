@@ -3,17 +3,18 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2014-08-13 CH proof tags</prepDate>
-		<prepDate>2015-03-04 EK correct proofs and update index</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
 		<docAuthor>
-			<person>Margaret Sanger</person>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1918-11-00">Nov. 1918</docDate>
+		<docDate value="1918-11-00">Nov 1918</docDate>
 		<docTitle>
 			<titlePart>Judges With Small Families Jail Kitty Marion</titlePart>
 		</docTitle>
 		<idno>msp422030</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review, The </title>, Nov. 1918, p. 5</bibl>
+			<bibl><title type="article">Judges With Small Families Jail Kitty Marion</title>, <title
+					type="journal">Birth Control Review</title>, Nov. 1918, p. 5</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,22 +23,19 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="Bamberger, Charles J."/>
-		<index level1="birth control" level2="arrests, trials and imprisonment"/>
-		<index level1="birth control" level2="distribution of information about"/>
-		<index level1="birth control" level2="propaganda and publicity"/>
-		<index level1="birth control movement" level2="goals and strategies"/>
-		<index level1="Birth Control Review, The"/>
-		<index level1="censorship" level2="in England"/>
-		<index level1="censorship" level2="in United States"/>
-		<index level1="England" level2="birth control in"/>
 		<index level1="Marion, Kitty"/>
+		<index level1="Birth Control Review, The"/>
+		<index level1="Bamberger, Charles J."/>
+		<index level1="birth control movement" level2="goals and strategies"/>
+		<index level1="birth control" level2="distribution of information about"/>
+		<index level1="jails and imprisonment" level2="Blackwell's Island Workhouse (New York)"/>
+		<index level1="birth control" level2="arrests and imprisonment"/>
 	</headNote>
 	<docBody>
 		<head>Judges With Small Families Jail Kitty Marion</head>
-		<p>If you buy this number of <title type="journal">The Birth Control Review</title> from a
+		<p>IF YOU BUY this number of <title type="journal">THE BIRTH CONTROL REVIEW</title> from a
 			woman whom you are unaccustomed to see selling magazines on the street, it is because
-				<person reg="Marion, Kitty">Kitty Marion,</person> of The REVIEW staff is in jail
+				<person reg="Marion, Kitty">Kitty Marion,</person> of THE REVIEW staff is in jail
 			for her convictions.</p>
 		<p>In a recent issue we told the authorities that for every woman jailed for her activities
 			in the movement for Birth Control, ten women would rise up to do her work. We
@@ -52,7 +50,7 @@
 			of women, should through her dauntless courage and cheerful martyrdom, be the means of
 			bringing home once more to the women of <place reg="United States">America</place> the
 			vital fact that they and they alone can win and establish their liberties.</p>
-		<p>Forty years ago, in the dock of an English prison stood Kitty Marion's countrywoman,
+		<p>FORTY YEARS AGO, in the dock of an English prison stood Kitty Marion's countrywoman,
 				<person reg="Besant, Annie">Annie Besant,</person> and uttered words which awoke the
 			women of the British Empire to the brutality of the laws which prevented them from
 			attaining a knowledge of their own beings. That first martyr to the cause of Birth
@@ -70,56 +68,61 @@
 		<p>We beg to revise our previous statement. For every woman jailed for the sake of Birth
 			Control, twenty will rise up to do her work. Miss Marion was given her choice by the
 				<org reg="New York City Court of Special Sessions">court of Special Sessions.</org>
-			She could pay a $500 fine, or go to jail for thirty days. Instantly she chose the
+			She could pay a $500 fine, or go to jail for thirty days. Instantly she choose the
 			latter.</p>
 		<p>Whatever improvement you may note in THE REVIEW in the next few issues is due in great
 			part to that decision upon Miss Marion's part. Money is not plentiful in the Birth
 			Control movement, but had Miss Marion so chosen, her fine would have been paid instantly
 			by contributors to this cause. She chose, rather, to give another proof of her great
 			devotion.</p>
-		<p><q who="MARKI">"Put the money into THE BIRTH CONTROL REVIEW," said she, "I'll stay in
-				jail."</q></p>
-		<p>The trial of Kitty Marion, October 14th, was very brief. She did not deny that she had
-			imparted the specified in formation to <person reg="Bamberger, Charles">Agent
-				Bamberger</person> of the so called <org> Society for the Prevention of Vice.</org>
-			She was not given an opportunity to tell in court the pitiful story of an ailing and
-			desperate wife and a discouraged man by which Bamberger induced her to procure and give
-			him that humane knowledge which it is still unlawful to communicate in <place
-				reg="New York, NY">New York.</place></p>
-		<p>She did not apologize. She did not promise "never to do it again." She admitted the facts
-			and received her sentence. <person reg="Freschi, John">Judge Freschi</person> favored a
-			fine of $250 instead of $500. Judges <person reg="Kernochan, Frederic"
-				>Kernochan</person> and <person reg="Murphy, Daniel F.">Murphy</person> over ruled
-			him. Judge Kernochan was particularly insistent upon punishment of women who dare "<q
-				who="KERFR">to break the law.</q>"</p>
-		<p>One of the ironical features of the case is that while all three of the judges are
-			married, one is childless, and two have but small families.</p>
-		<p>One wonders why, Your Honors of the court of Special Sessions, if you think it your duty
-			to send a woman to jail who has given information concerning contraceptives to a man who
-			says that his wife's health and life are in danger, you, yourselves, have not large
-			families? One wonders, Your Honors, why Kitty Marion is in jail and your families to all
-			appearances, have been the subject of a wise and judicious limitation?</p>
-		<p>Even this, however, is not the most ironical feature of the case. Bamberger, who played
-			the agent provocateur, and who receives a salary for inducing people to break the law,
-			is still at liberty. He was not even reproved by the court. He is free to continue to
-			draw his salary for inducing still other violations of other laws.</p>
-		<p>Kitty Marion has no apology to make for her violation of a dark age statute. Neither have
-			we one to make for her. We approve of her generous courage and we are proud of the
-			unselfishness and fortitude with which she undergoes the penalty imposed by law for her
-			work for women. Bamberger cannot be left to his conscience for a trapper of women
-			assuredly has none. His case and the cases of those who like him have chosen to lead the
-			existence of human vultures can be committed to the awakening social sense of a long
-			outraged public.</p>
-		<p>Possibly because Miss Marion has several times undergone imprisonment in
-				<place>England</place> for her work as a suffragette and because she there
-			instituted a hunger strike, she has not been committed to the workhouse on
-				<org>Blackwell's Island.</org> Instead, she has been held in <org
-				reg="New York City Prison">The Tombs</org> which is, in some slight degree, better
-			than the Island prison.</p>
-		<p>Kitty Marion, refusing to pay a fine because she feels that the money is needed for the
-			Birth Control movement, is a magnificent example of fearless womanhood ready to pay a
-			man imposed price for the freedom of her sex. In the light of that example we can but
-			pledge ourselves anew to a constant, more unflinching devotion to the cause for which
-			she suffers.</p>
+		<q who="MARKI">
+			<p>"Put the money into THE BIRTH CONTROL REVIEW," said she, "I'll stay in jail."</p>
+		</q>
+		<q who="BCR">
+			<p>THE TRIAL OF Kitty Marion, October 14th, was very brief.</p>
+			<p>She did not deny that she had imparted the specified in formation to <person
+					reg="Bamberger, Charles J.">Agent Bamberger</person> of the so called <org
+					reg="New York Society for the Suppression of Vice">Society for the Prevention of
+					Vice.</org> She was not given an opportunity to tell in court the pitiful story
+				of an ailing and desperate wife and a discouraged man by which Bamberger induced her
+				to procure and give him that humane knowledge which it is still unlawful to
+				communicate in <place reg="New York, NY">New York.</place></p>
+			<p>She did not apologize. She did not promise "never to do it again." She admitted the
+				facts and received her sentence. <person reg="Freschi, John">Judge Freschi</person>
+				favored a fine of $250 instead of $500. Judges <person reg="Kernochan, Frederic"
+					>Kernochan</person> and <person reg="Murphy, Daniel F.">Murphy</person> over
+				ruled him. Judge Kernochan was particularly insistent upon punishment of women who
+				dare <q who="KERFR">"to break the law."</q></p>
+			<p>One of the ironical features of the case is that while all three of the judges are
+				married, one is childless, and two have but small families.</p>
+			<p>One wonders why, Your Honors of the court of Special Sessions, if you think it your
+				duty to send a woman to jail who has given information concerning contraceptives to
+				a man who says that his wife's health and life are in danger, you, yourselves, have
+				not large families? One wonders, Your Honors, why Kitty Marion is in jail and your
+				families to all appearances, have been the subject of a wise and judicious
+				limitation?</p>
+			<p>Even this, however, is not the most ironical feature of the case. Bamberger, who
+				played the agent provocateur and who receives a salary for inducing people to break
+				the law, is still at liberty. He was not even reproved by the court. He is free to
+				continue to draw his salary for inducing still other violations of other laws.</p>
+			<p>Kitty Marion has no apology to make for her violation of a dark age statute. Neither
+				have we one to make for her. We approve of her generous courage and we are proud of
+				the unselfishness and fortitude with which she undergoes the penalty imposed by law
+				for her work for women. Bamberger cannot be left to his conscience for a trapper of
+				women assuredly has none. His case and the cases of those who like him have chosen
+				to lead the existence of human vultures can be committed to the awakening social
+				sense of a long outraged public.</p>
+			<p>Possibly because Miss Marion has several times undergone imprisonment in
+					<place>England</place> for her work as a suffragette and because she there
+				instituted a hunger strike, she has not been committed to the workhouse on
+					<org>Blackwell's Island.</org> Instead, she has been held in <org
+					reg="New York City Prison">The Tombs</org> which is, in some slight degree,
+				better than the Island prison.</p>
+			<p>Kitty Marion, refusing to pay a fine because she feels that the money is needed for
+				the Birth Control movement, is a magnificent example of fearless womanhood ready to
+				pay a man imposed price for the freedom of her sex. In the eight of that example we
+				can but pledge ourselves anew to a constant, more unflinching devotion to the cause
+				for which she suffers.</p>
+		</q>
 	</docBody>
 </doc>

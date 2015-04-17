@@ -8,7 +8,9 @@
 		<prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1912-04-06">6 Apr 1912</docDate>
 		<docTitle>
 			<titlePart>The Boy Scout Movement</titlePart>
@@ -17,15 +19,16 @@
 		<sourceDesc>
 			<bibl><title type="journal"><foreign lang="ITA">Il Proletario</foreign></title>, Apr. 6,
 				1912</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:21</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:21</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="ROOTH">Theodore Roosevelt</name>
+			<name id="ROOTH">Roosevelt, Theodore</name>
 			<name id="UNK">Unknown</name>
 			<name id="BOSCO">Boys Scouts</name>
-			<name id="POWBA">Powell, Baden</name>
-			<name id="ED8">Edward VIII, (king of England)</name>
+			<name id="BADRO">Baden-Powell, Robert</name>
+			<name id="ED8">Edward VIII (England)</name>
 			<name id="KIRGE">Kirkpatrick, George</name>
 			<name id="ITA">Italian</name>
 		</respStmt>
@@ -39,7 +42,7 @@
 		<head>The Boy Scout Movement </head>
 		<p>About five years ago an organization was started in <place>England</place> called
 				"<org>The Boy Scouts</org>". It was originated by Mr. <person
-				reg="Baden=Powell, Robert">Baden Powell</person> during the Boer War. It was very
+				reg="Baden-Powell, Robert">Baden Powell</person> during the Boer War. It was very
 			quickly imported to <place reg="United States">America</place> and seized upon most
 			enthusiastically by America's grown up boy scout, <person reg="Roosevelt, Theodore"
 				>Theodore Roosevelt</person>. </p>
@@ -68,7 +71,7 @@
 			of this Officers.</p>
 		<p>Mr. Baden Powell on a visit <gap reason="torn" extent="one word"/> this country in
 			February still insisted that the whole object of the Organization is to develop "<q
-				who="POWBA">Individual character and initiative</q>".</p>
+				who="BADRO">Individual character and initiative</q>".</p>
 		<p>Let us go on a little further <gap reason="torn" extent="one word"/> the by-laws, for far
 			be it from us <gap reason="torn" extent="one word"/> judge without proof. "<q
 				who="BOSCO">A scout <gap reason="torn" extent="one word"/> loyal to the King, to his
@@ -88,20 +91,20 @@
 				reg="United States Navy">Navy</org>, where in glowing colors trips in
 				<place>China</place> and <place>Japan</place> and all Countries are viewed to them.
 			To catch the young men in their "down and out" financial state, imagination does the
-			rest and off they go to join the Navy. In Powell's own words he says: "<q who="POWBA">To
+			rest and off they go to join the Navy. In Powell's own words he says: "<q who="BADRO">To
 				seize the boys character in its red hot state of enthusiasm</q>." That has been the
-			idea of the <org reg="Roman Catholic Church">Catholic Church</org> too, they understand the value of influence at
-			this crucial age. How cowardly and base to take advantage of the undeveloped youth, to
-			use him, to mold his life and actions for the benefit of their class: the Master Class.
-			There is only one step from the boy scout to the <org reg="United States Army"
-				>Army</org>. This has been foreseen and planned by all who support it, and it
-			behooves all who are far sighted enough to see and understand the real significance of
-			this movement, to attack it, to crush it and stamp it out for once and all. We should
-			lay more stress on the underlying motive of this fiendish organization, and expose it.
-			We are not doing our duty to the Working Class when we calmly sit by and watch this
-			movement grow into an army. It has increased in United States in the last four years at
-			a tremendous rate, it is increasing daily, and it is time for the working class to
-			ACT.</p>
+			idea of the <org reg="Roman Catholic Church">Catholic Church</org> too, they understand
+			the value of influence at this crucial age. How cowardly and base to take advantage of
+			the undeveloped youth, to use him, to mold his life and actions for the benefit of their
+			class: the Master Class. There is only one step from the boy scout to the <org
+				reg="United States Army">Army</org>. This has been foreseen and planned by all who
+			support it, and it behooves all who are far sighted enough to see and understand the
+			real significance of this movement, to attack it, to crush it and stamp it out for once
+			and all. We should lay more stress on the underlying motive of this fiendish
+			organization, and expose it. We are not doing our duty to the Working Class when we
+			calmly sit by and watch this movement grow into an army. It has increased in United
+			States in the last four years at a tremendous rate, it is increasing daily, and it is
+			time for the working class to ACT.</p>
 		<p>Wherever the Church is, they are organizing, there they find fertile soil. They are
 			joining their forces for the final battle, and we are allowing them to do so without a
 			murmur. There are over 40000 boys in this country being trained to scab on the working
@@ -113,7 +116,7 @@
 		<p>And yet in the face of all these remarks and statement issued by Powell himself, they try
 			to fool parents by saying it is a movement to develop ideas in a healthy mind. In the
 			first annual report of the Boy Scout by Powell, he states: -</p>
-		<p>"<q who="POWBA">Appreciation from a Chief Constable who states that the boy scouts in a
+		<p>"<q who="BADRO">Appreciation from a Chief Constable who states that the boy scouts in a
 				town are worth 20 extra constables to him</q>". Should there still be a mother who
 			doubts the real intention of the movement, let her read the message from <person
 				reg="Edward VIII (England)">King Edward</person> to the boys at their first Annual

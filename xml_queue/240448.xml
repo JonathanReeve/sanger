@@ -6,7 +6,9 @@
 		<prepDate>2010/03/10 CH review</prepDate>
 		<prepDate>2014-03-11 CH clean up regs and other errors</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-00-00">
 			<supplied resp="MSPP">ca. 1928</supplied>
 		</docDate>
@@ -77,8 +79,8 @@
 				to make themselves like the strange unreal images carried in the hearts and
 				imaginations of their sweethearts or husbands. They did not claim for themselves any
 				real independent lives of their own. their lords and masters demanded modesty in
-				dress--and so they assumed modesty. They demanded servility--and so the women
-				became servile. They wanted to feel superior to their wives--so the wives gave them
+				dress--and so they assumed modesty. They demanded servility--and so the women became
+				servile. They wanted to feel superior to their wives--so the wives gave them
 				ignorance and servility. The men wanted to feel strong - so the women pretended to
 				be weak creatures, given to fainting and that strange thing called he vapours. We
 				should be grateful that fainting and the vapours have long gone out of style!</p>
@@ -103,33 +105,32 @@
 				There was a demand for that type, and women supplied the demand. But throughout
 				history, there have always been women who refused to be pigeonholed into those
 				categories. Women who became actresses, politicians, organizers, politicians, rulers
-				of countries. There have been great women--more and more of them as we come down
-				the ages - to demonstrate the fallacy of the masculine conception of womankind.
-				There was <person reg="Elizabeth I (England)">Queen Elizabeth</person>, <person
-					reg="Catharine the Great (Russia)">Catharine the Great of
+				of countries. There have been great women--more and more of them as we come down the
+				ages - to demonstrate the fallacy of the masculine conception of womankind. There
+				was <person reg="Elizabeth I (England)">Queen Elizabeth</person>, <person
+					reg="Catherine II (Russia)">Catherine the Great of
 					<place>Russia</place></person>, the great saints, the great writers, the great
 				mistresses, all the rest of them. Were they exceptions? No. They prove the innate
-				power that might be--and must be--developed--in all women! They were women who
-				dared to be themselves--not merely some man’s mistaken idea of what they ought to
-				be!</p>
+				power that might be--and must be--developed--in all women! They were women who dared
+				to be themselves--not merely some man’s mistaken idea of what they ought to be!</p>
 			<p> Don’t forget that all the proverbs, all the catch words about the nature of women
 				have been made by men. And each one of them is false. “<q who="SHAWI">Frailty! Thy
-					name is woman. . . .</q>” <person reg="Shakespeare, William">Shakespere</person>!
-				Isn’t that ridiculous? If Shakespeare had given birth to ten or twelve children
-				perhaps he would not have written that line about the frailty of women! The
-				masculine point of view, you see. Then there was <person reg="Byron, George Gordon"
-					>Lord Byron</person>, who flitted from flower to flower, and said that women
-				were “<q who="BYRGE">uncertain, coy and hard to please.</q>” Maybe that was a
-				confession of his own shortcomings. At any rate it is a notorious human tendency to
-				discover in others your own faults. So men have traditionally blamed women for
-				everything. You may say that I am too severe on the men--too unjust. On the
-				contrary: I have the greatest admiration for the skill of the men of the past, who
-				so cleverly and so completely domesticated woman as they domesticated animals. They
-				devised customs, and laws, and religious regulations to keep women in a position of
-				slavery and dependence. The individual woman who rebelled was confronted by all the
-				solid power of laws, of customs, of religion. She had no economic independence, she
-				had no sex independence. She had no freedom of any sort. She was like a hunted
-				criminal.</p>
+					name is woman. . . .</q>” <person reg="Shakespeare, William"
+				>Shakespeare</person>! Isn’t that ridiculous? If Shakespeare had given birth to ten
+				or twelve children perhaps he would not have written that line about the frailty of
+				women! The masculine point of view, you see. Then there was <person
+					reg="Byron, George Gordon">Lord Byron</person>, who flitted from flower to
+				flower, and said that women were “<q who="BYRGE">uncertain, coy and hard to
+					please.</q>” Maybe that was a confession of his own shortcomings. At any rate it
+				is a notorious human tendency to discover in others your own faults. So men have
+				traditionally blamed women for everything. You may say that I am too severe on the
+				men--too unjust. On the contrary: I have the greatest admiration for the skill of
+				the men of the past, who so cleverly and so completely domesticated woman as they
+				domesticated animals. They devised customs, and laws, and religious regulations to
+				keep women in a position of slavery and dependence. The individual woman who
+				rebelled was confronted by all the solid power of laws, of customs, of religion. She
+				had no economic independence, she had no sex independence. She had no freedom of any
+				sort. She was like a hunted criminal.</p>
 			<p> Worst of all, even Nature was against her. Once caught in the trap of maternity,
 				there was no escape. With the birth of each successive baby, she found her body and
 				her soul ever more closely chained. Don't forget, moreover, that the majority of
@@ -173,9 +174,9 @@
 				praiseworthy one. But in its working, out, too often they have found themselves in
 				positions which are underpaid and which consist, to a great extent, of uninteresting
 				and mechanical drudgery.</p>
-			<p> Economic “Independence”--if you can call it that--has been at best an empty
-				victory. I dont believe that it can legitimately be called a victory at all. Perhaps
-				it has only been an automatic response to a demand for cheap labor.</p>
+			<p> Economic “Independence”--if you can call it that--has been at best an empty victory.
+				I dont believe that it can legitimately be called a victory at all. Perhaps it has
+				only been an automatic response to a demand for cheap labor.</p>
 			<p> It has had the advantage, however, of getting thousands of women out of the close
 				confines of the home--which is too often, as <person reg="Ibsen, Henrik"
 					>Ibsen</person> named it--a mere doll’s house. It has put women more on a basis
@@ -201,11 +202,11 @@
 				minimize its importance. I mean dress reform. We have forgotten the ridicule and the
 				abuse heaped upon the early pioneers of this movement. When you stop to think of the
 				upholstery and the harness that used to make up the dress of women in the nineteenth
-				century--the hoops, the bustles, the stays, the underpinning, the trailing dust-
-				and germ-catchers that were called trains--when you compare all that with the
-				freedom in woman’s dress today, you feel like giving three cheers to all those who
-				first protested against the fashions which did so much to enslave the bodies and the
-				souls of women! There is no doubt in my mind that freedom in dress, which permits
+				century--the hoops, the bustles, the stays, the underpinning, the trailing dust- and
+				germ-catchers that were called trains--when you compare all that with the freedom in
+				woman’s dress today, you feel like giving three cheers to all those who first
+				protested against the fashions which did so much to enslave the bodies and the souls
+				of women! There is no doubt in my mind that freedom in dress, which permits
 				vigorous, unhampered physical action, is of enormous benefit in freeing the mind as
 				well. No wonder that tightly-corseted women were rendered thoughtless. They couldn't
 				even breathe. They couldn't even walk. We have freed the diaphragm from its stifling
@@ -237,10 +238,10 @@
 					reg="Whitman, Walt">Walt Whitman</person> wrote of women: “<q who="WHIWA">You
 					are the gates of the body and you are the gates of the soul.</q>” Upon women
 				falls a great more than half of the burden of bringing the next generation into the
-				world. Because of this the great majority of women have been--<emph
-					rend="underline">and still are</emph>--condemned to practically incessant
-				childbearing. You may tell me that all intelligent women, at this day and age, are
-				emancipated from this harsh sentence imposed upon them by Church and State.</p>
+				world. Because of this the great majority of women have been--<emph rend="underline"
+					>and still are</emph>--condemned to practically incessant childbearing. You may
+				tell me that all intelligent women, at this day and age, are emancipated from this
+				harsh sentence imposed upon them by Church and State.</p>
 			<p> But the women who are thus liberated form only a very small percentage of the grand
 				total. You who are interested in social work, who cooperate, perhaps, with the
 				organized charitable associations of this city and state, need not be told of the
@@ -259,8 +260,8 @@
 				Birth Control is of no importance, or that any intelligent woman knows what to do to
 				prevent the conception of unwanted children, I begin to read some of these letters.
 				They are letters from intelligent, self-sacrificing wives--young girls who fell in
-				love, who looked upon marriage, as the first step to romance, and who--poor things!--
-				expected “to live happily ever afterwards.”</p>
+				love, who looked upon marriage, as the first step to romance, and who--poor
+				things!-- expected “to live happily ever afterwards.”</p>
 			<p> They were trapped. Trapped into slavery - from which they have been unable to
 				extricate themselves. It is useless to talk to these poor things about the
 				advantages of economic freedom, the higher education, or the great benefits to be

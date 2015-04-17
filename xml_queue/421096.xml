@@ -48,9 +48,11 @@
 		<head type="sub">Mrs. Sanger's Views</head>
 		<dateline>
 			<date value="1936-01-03">Jan. 3, 1936</date>
-			<place reg="Madras, India">Madras</place></dateline>
+			<place reg="Madras, India">Madras</place>
+		</dateline>
 
-		<p><q who="MM">Mrs. Margaret Sanger, Chairman of the <org
+		<p>
+			<q who="MM">Mrs. Margaret Sanger, Chairman of the <org
 					reg="National Committee on Federal Legislation for Birth Control"
 					>National Committee on Federal Legislation for birth
 					control</org>, <place reg=" New York, NY">New York</place>,
@@ -58,19 +60,22 @@
 					Information Centre</org>, <place reg="London, England"
 					>London</place>, arrived in Madras this morning from <place
 					reg="Trivandrum, India">Trivandrum</place>, after attending
-				the <org>All-India Women’s Conference</org>. </q></p>
-		<p><q who="MM"> Mrs. Margaret Sanger started the birth control movement
+				the <org>All-India Women’s Conference</org>. </q>
+		</p>
+		<p>
+			<q who="MM"> Mrs. Margaret Sanger started the birth control movement
 				25 years ago and has been responsible for the existence of more
 				than 200 birth control clinics in <place reg="United States"
 					>America</place>.</q>
 		</p>
-		<p><q who="MM"> Interviewed, Mrs. Sanger first gave her impressions of
+		<p>
+			<q who="MM"> Interviewed, Mrs. Sanger first gave her impressions of
 				the all-India Women’s Conference at Trivandrum. The proceedings,
 				she said, were conducted in an admirably democratic manner,
 				notwithstanding the absence of some of the leaders of the
 				women’s movement like Mrs. <person reg="Naidu, Sarojini"
 					>Sarojini Naiduyudu</person>. She paid a tribute to Her
-					Highness<person reg="Bayi, Sethu Lakshmi"> Maharani Setu
+					Highness<person reg="Bayi, Sethu Parvathi"> Maharani Setu
 					Parvathi Bai</person>, president of the conference, for the
 				manner in which the deliberations were conducted.</q>
 		</p>
@@ -115,7 +120,8 @@
 				countries and in medical and scientific societies regarding
 				methods of birth control.”</p>
 
-			<p><q who="MM">This remark was made by Mrs. Margaret Sanger
+			<p>
+				<q who="MM">This remark was made by Mrs. Margaret Sanger
 					(President of the Birth Control International Information
 					Centre) in an address to members of the medical profession
 					this evening at the Museum Theatre. The lecture was
@@ -145,12 +151,14 @@
 			<p> “One-fifth of the babies born in India,” <q who="MM">Mrs. Sanger
 					continued,</q> “die before they reach their fifth year.”</p>
 
-			<p><q who="MM"> The death rate among infants from the first to the
+			<p>
+				<q who="MM"> The death rate among infants from the first to the
 					fourth born was not heavy. But there was higher mortality
 					among those born after the fourth up to the seventh. From
 					the seventh to the eleventh the wastage was still more
 					tremendous. Sixty per cent of the twelfth-born children died
-					generally in the first year. </q></p>
+					generally in the first year. </q>
+			</p>
 
 			<p> “The average Indian family,” <q who="MM">Mrs. Sanger
 					remarked,</q> “could support fairly about three

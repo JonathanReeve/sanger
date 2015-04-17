@@ -7,7 +7,9 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docAuthor><person reg="Edgar, Thomas Webster">Thomas Webster Edgar</person></docAuthor>
+		<docAuthor>
+			<person reg="Edgar, Thomas Webster">Thomas Webster Edgar</person>
+		</docAuthor>
 		<docDate value="1923-03-00">Mar 1923</docDate>
 		<docTitle>
 			<titlePart>The Physician and Birth Control</titlePart>
@@ -24,8 +26,8 @@
 			<name id="INMBC5">International Neo-Malthusian and Birth Control Conference, 5th
 				(1922)</name>
 			<name id="JOUBR">British Medical Journal</name>
-			<name id="YAWNS">N. S. Yawger</name>
-			<name id="DRYGE">George Drysdale</name>
+			<name id="YAWNS">Yawger, N. S.</name>
+			<name id="DRYGE">Drysdale, George</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -33,7 +35,8 @@
 		<index level1="birth control" level2="international"/>
 		<index level1="physicians" level2="birth control and"/>
 		<index level1="war" level2="overpopulation and"/>
-		<index level1="World War I" level2="population and"/></headNote>
+		<index level1="World War I" level2="population and"/>
+	</headNote>
 	<docBody>
 		<head>The Physician and Birth Control</head>
 		<byline>Thomas Webster Edgar, M.D., and Margaret Sanger</byline>
@@ -106,7 +109,7 @@
 			from the earliest days of the Neo-Malthusian agitation it has been inspired and directed
 			by physicians who had the clear vision that enabled them to look beyond the special
 			individual case to the underlying significance. In <place>England</place> those valiant
-			pioneer Doctors <person reg="Drysdale, George">George</person> and <person>Charles R.
+			pioneer Doctors <person reg="Drysdale, George">George</person> and <person reg="Drysdale, Charles R.">Charles R.
 				Drysdale</person> fought for years against the momentum of Victorian opinion. In
 				<place reg="Netherlands">Holland</place>, where the First Birth Control Clinic in
 			the world was opened in <place reg="Amsterdam, Netherlands">Amsterdam </place>in 1881,

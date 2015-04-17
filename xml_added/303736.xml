@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014-04-02 VS initial tagging</prepDate>
 		<prepDate>2015-03-13 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-02-13">13 Feb 1931</docDate>
 		<docTitle>
 			<titlePart>
@@ -26,8 +28,9 @@
 			<name id="BURHI">Burton, Hiram Ralph</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger testified before the Senate Committee on the Judiciary on
-			February 13 and 14, 1931.</p>
+	<headNote resp="MSPP">
+		<p>Sanger testified before the Senate Committee on the Judiciary on February 13 and 14,
+			1931.</p>
 		<index level1="birth control" level2="Bible and"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="health benefits and risks"/>
@@ -48,7 +51,9 @@
 				United States Senate</org> Seventy-First Congress Third Session</head>
 		<head type="sub">S. 4582 A bill to Amend Section 305 (A) of the Tariff Act of 1922, as
 			Amended, and Sections 211, 245, and 312 of the Criminal Code, as Amended.</head>
-		<dateline><date value="1931-02-13 ">February 13 and 14, 1931</date></dateline>
+		<dateline>
+			<date value="1931-02-13 ">February 13 and 14, 1931</date>
+		</dateline>
 		<div type="section">
 			<head type="sub"> Statement of Mrs. Margaret Sanger</head>
 			<p> Mrs. Sanger. Mr. <person reg="Norris, George William">Chairman</person>, and
@@ -117,7 +122,8 @@
 
 			<p>
 				<supplied resp="MSS">The list, which was appended to the end of the days testimony,
-					was omitted by the MSPP editors.</supplied></p>
+					was omitted by the MSPP editors.</supplied>
+			</p>
 
 			<p> And, also a summary of the laws of the various States concerning the subject. </p>
 			<p> The bill that we are advocating asks that the Federal laws which it would amend
@@ -197,18 +203,22 @@
 
 
 			<p>
-				<q who="GILFR">Senator Gillett: Does that statement appear there?</q></p>
+				<q who="GILFR">Senator Gillett: Does that statement appear there?</q>
+			</p>
 
 			<p> Mrs. Sanger: I have it here .It is an official statement by the National Catholic
 				Welfare Council. </p>
 
 			<p>
-				<q who="GILFR">Senator Gillett: That may be filed then. </q></p>
+				<q who="GILFR">Senator Gillett: That may be filed then. </q>
+			</p>
 
 			<p> Mrs. Sanger: It is far too long to quote it. </p>
 			<p> The reply to the circular is as follows: </p>
-			<p><supplied resp="MSPP">The reply to the circular has been omitted by the MSPP
-					editors.</supplied></p>
+			<p>
+				<supplied resp="MSPP">The reply to the circular has been omitted by the MSPP
+					editors.</supplied>
+			</p>
 
 			<p> Mr. Chairman, that letter represents the feeling on the part of a very large number
 				of social organizations from whom we also have heard. I have not attempted to enter
@@ -267,7 +277,7 @@
 			<p> Now, Mr. Chairman, if I may just briefly take a little time to go through some of
 				the other points that were made this morning, just the essential points, I will not
 				take a great deal of your time. </p>
-			<p> Mrs. Sanger: Dr. <person reg="Cattell, Henry">Henry Cattell</person> referred to
+			<p> Mrs. Sanger: Dr. <person reg="Cattell, W. Henry">Henry Cattell</person> referred to
 				certain contraceptive materials this morning. He called them “Sanger Pro-Tex Tubes,”
 				and the implication was that I sponsored the devices named. I have never sanctioned
 				nor given permission for the use of my name nor indorsed any article on

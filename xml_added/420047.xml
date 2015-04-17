@@ -9,7 +9,9 @@
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2014-11-18 CH clean more</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
 			<titlePart>World Builders?</titlePart>
@@ -17,8 +19,8 @@
 		<idno>msp420047</idno>
 		<sourceDesc>
 			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, Apr. 1914, 15</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm. Collected Documents Series
-				</title> C16:529</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm. Collected Documents Series </title>
+				C16:529</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -51,7 +53,7 @@
 			overthrow of government "<q who="DELFL">do not exist</q>" and never have existed. Since
 			when has Emma Goldman ceased to advocate violence and revolution as the only means to
 			overthrow the murderous and mischievous rule of plutocracy? And has Floyd ever heard of
-				<person reg="Bakunin, Michael">Bakunin,</person>
+				<person reg="Bakunin, Mikhail">Bakunin,</person>
 			<person reg="Michel, Louise">Michel</person> or <person reg="Malatesta, Errico"
 				>Malatesta</person>? Does he know anything of their activities?</p>
 	</docBody>
