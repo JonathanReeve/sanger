@@ -24,8 +24,9 @@
 			<name id="UNK">Unknown</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No published version found. A note at the top right on the first page
-			reads: Keep in files. </p>
+	<headNote resp="MSPP">
+		<p>No published version found. A note at the top right on the first page reads: Keep in
+			files. </p>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="access to" level3="in remote places"/>
 		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
@@ -275,7 +276,7 @@
 				brought by Dr. Hannah M. Stone that the Federal obscenity laws do not apply to the
 				legitimate activities of physicians, and that they may prescribe contraceptives in
 				the interests of the health and general well being of their patients. This momentous
-				decision signed by <person reg="Hand, Billings Learned">Justice Learned
+				decision signed by <person reg="Hand, Learned">Justice Learned
 					Hand</person>, <person reg="Swan, Thomas Walter">Thomas W. Swan</person> and
 					<person reg="Hand, Augustus Noble">Augustus N. Hand</person>, marked the end of
 				the long fight against the outmoded Comstock law. It brought the birth control
@@ -326,10 +327,10 @@
 				seldom leave their homes.</p>
 			<p>We should send an organization of birth control instructing nurses to visit the homes
 				of these underprivileged mothers. Just as the members of the <org>American Visiting
-				Nurses Association</org> have gone into the homes to help through bedside work, so we need
-				an army of quipped, sympathetic, understanding nurses to take up this task of
-				educating and instructing mothers in contraceptive techniques and thus free them
-				from the constant fear which haunts their lives.</p>
+					Nurses Association</org> have gone into the homes to help through bedside work,
+				so we need an army of quipped, sympathetic, understanding nurses to take up this
+				task of educating and instructing mothers in contraceptive techniques and thus free
+				them from the constant fear which haunts their lives.</p>
 			<p>Means must also be provided for testing contraceptive products and standardizing
 				those offered for sale. Research looking toward simpler and cheaper methods
 				(suitable to the poorest and least educated women) must go forward, and experimental

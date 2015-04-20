@@ -11,7 +11,9 @@
 		<prepDate>2014-04-10 Ch clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-07 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-03-00">Mar 1914</docDate>
 		<docTitle>
 			<titlePart>On Picket Duty</titlePart>
@@ -19,7 +21,8 @@
 		<idno>msp420070</idno>
 		<sourceDesc>
 			<bibl><title type="journal">The Woman Rebel,</title> Mar. 1914, p. 3</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0517</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:0517</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -38,11 +41,11 @@
 		<div type="section">
 			<head type="sub">Attention</head>
 			<p>
-				<lb/>1,606,288 Domestics<lb/>10,941 Cap makers<lb/>122,405 Women's clothing workers<lb/>	
-186,570 Sales women<lb/>150,548 Stenographers<lb/>
-419,634 Washwomen<lb/>22,735,041 Miscellaneous<lb/>
+				<lb/>1,606,288 Domestics<lb/>10,941 Cap makers<lb/>122,405 Women's clothing
+				workers<lb/> 186,570 Sales women<lb/>150,548 Stenographers<lb/> 419,634
+				Washwomen<lb/>22,735,041 Miscellaneous<lb/>
 			</p>
-		<p>Want to change places with <person reg="Dorr, Rheta Childe">Rheta Childe
+			<p>Want to change places with <person reg="Dorr, Rheta Childe">Rheta Childe
 					Dorr</person>, who wants the "<q who="DORRH">right to work</q>."</p>
 		</div>
 		<div type="section">
@@ -59,7 +62,7 @@
 				love.<lb/>The Right to live.</p>
 			<p><person reg="Rodman, Henrietta">Henrietta Rodman</person>, well known in radical
 				circles, came into prominence among them, because of her brave defense of the
-				relations of <person reg="Eliot, George">George Eliot</person> and <person>Henry
+				relations of <person reg="Eliot, George">George Eliot</person> and <person reg="Lewes, Henry">Henry
 					Lewes</person>.</p>
 			<p>Henrietta, as one of the speakers at the first meeting held at <org>Cooper
 					Union</org>, <place reg="New York, NY">N. Y. C.</place> , went out of her way to

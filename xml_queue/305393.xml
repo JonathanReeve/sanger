@@ -6,7 +6,9 @@
 		<prepDate>2013-04-30 CH proof tags</prepDate>
 		<prepDate>2014-07-03 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-04-15">15 Apr 1954</docDate>
 		<docTitle>
 			<titlePart>Speech to the Japanese House of Councillors</titlePart>
@@ -29,14 +31,14 @@
 			<name id="KAZTA">Takao, Kazuo</name>
 			<name id="TSUIC">Tsuneoka, Ichiro</name>
 			<name id="HISHI">Hirose, Hisatado</name>
-			<name id="KATSH">Kato, Shizue Ishimoto</name>
+			<name id="KATSH">Kato, Shidzue Ishimoto</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke to the <org
-				reg="Japan House of Councillors, Committee on Public Welfare">Japanese Diet's House
-				of Councillors, Committee on Public Welfare</org>, at a session chaired by Aiichi
-			Kamijo. Sanger's translator was <person reg="Muramatsu, Minoru">Minoru
-				Muramatsu</person>.</p>
+	<headNote resp="MSPP">
+		<p>Sanger spoke to the <org reg="Japan House of Councillors, Committee on Public Welfare"
+				>Japanese Diet's House of Councillors, Committee on Public Welfare</org>, at a
+			session chaired by Aiichi Kamijo. Sanger's translator was <person
+				reg="Muramatsu, Minoru">Minoru Muramatsu</person>.</p>
 		<p>Other version in Japanese can be found on Library of Congress Microfilm C16:0480.</p>
 		<index level1="birth control" level2="in Japan"/>
 		<index level1="Japan" level2="over-population and"/>
@@ -81,19 +83,19 @@
 		</p>
 		<p> Witness: Mrs. Margaret Sanger</p>
 		<p> Interpreter: Mr. Minoru Muramatsu</p>
-		<p> I am very interested in the fact that <place>Japan</place> is interested in the work of <org
-				reg="Planned Parenthood Federation of America">Planned Parenthood</org>. It is also
-			my great interest that similar to the <place>United States</place> in 1914 that the
+		<p> I am very interested in the fact that <place>Japan</place> is interested in the work of
+				<org reg="Planned Parenthood Federation of America">Planned Parenthood</org>. It is
+			also my great interest that similar to the <place>United States</place> in 1914 that the
 			above mentioned work brought a confrontation with a large number of artificial abortions
 			which created a sensation of great interest in the above mentioned field. I am now
-			looking at the present circumstances in Japan and I am happy to find that
-			Japan has extremely fine and cogent eugenically related laws and regulations. In the
-			United States, the eugenic laws and regulations were applied to immigrants entering our
-			country from foreign countries. For example, laws and regulations were enforced which
-			prevented persons with bad diseases, infectious diseases, mental disorders or other
-			handicaps considered disadvantageous to our country, from entering the United States.
-			This was a form of eugenic protection. On the other hand, Japan has a good legal policy
-			which can be enforced internally from the standpoint of eugenic protection.</p>
+			looking at the present circumstances in Japan and I am happy to find that Japan has
+			extremely fine and cogent eugenically related laws and regulations. In the United
+			States, the eugenic laws and regulations were applied to immigrants entering our country
+			from foreign countries. For example, laws and regulations were enforced which prevented
+			persons with bad diseases, infectious diseases, mental disorders or other handicaps
+			considered disadvantageous to our country, from entering the United States. This was a
+			form of eugenic protection. On the other hand, Japan has a good legal policy which can
+			be enforced internally from the standpoint of eugenic protection.</p>
 		<p> The United States, at the time of the starting of the above mentioned movement, met with
 			extremely strong opposition. For example, Puritans and people in a similar category as
 			the Puritans had moral ideas such that they rarely talked about natural instincts such
@@ -328,8 +330,8 @@
 			that Dr. Stone talked briefly about drugs which were still at the experimental stage at
 			that time of her visit to Japan two years ago in 1952. For example, one method is an
 			extremely simple method such as the employment of an oil which is not taken orally.
-			There is a person named Dr. <person reg="Gamble, Clarence J.">Clarence Gamble</person> in
-			India who is conducting intensive research on an ordinary oil which is not a medicine
+			There is a person named Dr. <person reg="Gamble, Clarence J.">Clarence Gamble</person>
+			in India who is conducting intensive research on an ordinary oil which is not a medicine
 			used for internal use but which is used locally like a tampon in its external
 			appearance. In addition, the research on the extraction and injection of the above
 			mentioned oil is in progress. At present, however, as discussed earlier, they are still
@@ -567,12 +569,13 @@
 			in strong and barren lands such as the old province of Tosa and the present prefecture
 			of Kagoshima even in Japan, during the feudal age. However, when Japan became on
 			economic unit or one national economic unit as a result of the destruction of feudalism,
-			the old province of Tosa and the present prefecture of <place reg="Kagoshima, Japan">Kagoshima</place> could support many
-			people due to the fact that broad areas were then opened up for the Japanese people. I
-			think that it may be the intelligence given by <name type="deity">God</name> that the whole world must work
-			together and extend a helping hand to newborn babies. An idea which suppresses the
-			growing ability of people who live in a small land is unfair unless those people are
-			released into a larger place. What do you think of my opinion?</p>
+			the old province of Tosa and the present prefecture of <place reg="Kagoshima, Japan"
+				>Kagoshima</place> could support many people due to the fact that broad areas were
+			then opened up for the Japanese people. I think that it may be the intelligence given by
+				<name type="deity">God</name> that the whole world must work together and extend a
+			helping hand to newborn babies. An idea which suppresses the growing ability of people
+			who live in a small land is unfair unless those people are released into a larger place.
+			What do you think of my opinion?</p>
 		<p> Witness: Mrs. Margaret Sanger</p>
 		<p> Interpreter: Mr. Minoru Muramatsu</p>
 		<p> I am doubtful whether I can appropriately answer the question or not. I think there are
@@ -696,7 +699,7 @@
 			and Japanese scientists in other fields. I am expecting to hear joyful news from you of
 			significant progress during my next visit in the near future.</p>
 		<p><org reg="Japan Diet">Diet</org> Member (not a member of the committee): Mrs. <person
-				reg="Kato, Shizue Ishimoto">Shizue Kato</person></p>
+				reg="Kato, Shidzue Ishimoto">Shizue Kato</person></p>
 		<p>
 			<q who="KATSH">Please allow me to speak as a nonmember of the committee. I am deeply
 				grateful to the Chairman and other members of the committee for their invitation of

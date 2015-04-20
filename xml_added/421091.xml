@@ -12,8 +12,9 @@
 		</docAuthor>
 		<docDate value="1936-02-05">05 Feb 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the Rangoon
-				Gazette</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the Rangoon Gazette</supplied>
+			</titlePart>
 		</docTitle>
 
 		<idno>msp421091</idno>
@@ -29,9 +30,10 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This is the first of two interviews published in the <title
-				type="journal">Rangoon Gazette</title>. For the second, see <xref from="421092.xml"
-				>Feb. 6, 1936</xref>.</p>
+	<headNote resp="MSPP">
+		<p>This is the first of two interviews published in the <title type="journal">Rangoon
+				Gazette</title>. For the second, see <xref from="421092.xml">Feb. 6,
+			1936</xref>.</p>
 		<index level1="birth control" level2="access to" level3="international"/>
 		<index level1="Gandhi, Mahatma"/>
 		<index level1="conferences"
@@ -101,7 +103,7 @@
 						reg="Higgins, Anne Purcell">mother</person>’s side she is related to the
 					famous translator of <person reg="Khayyam, Omar">Omar Kheyyani</person>, <person
 						reg="Fitzgerald, Edward">Edward Fitzgerald</person>; her <person
-						reg="Higgins, Michael Hennessy">father</person> was a Civil War veteran, a
+						reg="Higgins, Michael Hennessey">father</person> was a Civil War veteran, a
 					liberal, and a philosopher.</q>
 			</p>
 			<p>

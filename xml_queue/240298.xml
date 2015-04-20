@@ -22,7 +22,8 @@
 		<idno>msp240298</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Feb 1917, p. 4</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>, S70:0769</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>,
+				S70:0769</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -60,7 +61,7 @@
 			beacon lights of human progress have been lit by the law-breaker.
 			<person>Moses</person>, the deliverer, was a law-breaker. <person reg="Jesus Christ"
 				>Christ</person>, the carpenter, was a law-breaker and his early followers practiced
-			their religion in defiance of the law of their time. <person>Joan of Arc</person> was a
+			their religion in defiance of the law of their time. <person reg="Joan of Arc (St.)">Joan of Arc</person> was a
 			law-breaker. So, too, were <person reg="Washington, George">George Washington</person>
 			and the heroes of the American Revolution and, in more recent times, <person
 				reg="Brown, John">John Brown</person> of <place reg="Ossawatomie, KS"

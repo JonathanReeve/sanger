@@ -32,11 +32,11 @@
 			<name id="SANWI">Sanger, William</name>
 		</respStmt>
 	</mepHeader>
-	<headNote><p>For handwritten draft see Library of Congress Microfilm 128:665. The following
-			notice appears at the end of the article: "Contributions for the Defense Fund of
-			Comrades Sanger should be sent care of <name reg="Abbott, Leonard D.">Leonard D.
-				Abbott</name>, 242 East 21st Street, <place reg="New York, NY">New York,
-				N.Y.</place></p>
+	<headNote>
+		<p>For handwritten draft see Library of Congress Microfilm 128:665. The following notice
+			appears at the end of the article: "Contributions for the Defense Fund of Comrades
+			Sanger should be sent care of <name reg="Abbott, Leonard D.">Leonard D. Abbott</name>,
+			242 East 21st Street, <place reg="New York, NY">New York, N.Y.</place></p>
 		<index level1="abortion" level2="MS on"/>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="birth control" level2="opposition to"/>
@@ -143,7 +143,7 @@
 					reg="Blackwell's Island Penitentiary">Blackwell's Island</org>. The son was also
 				fined, and as I have not the records here with me, I can not say if he was not also
 				imprisoned.</p>
-			<p>The case of <person reg="Harmon, Moses">Moses Harmon</person> is familiar to all.
+			<p>The case of <person reg="Harman, Moses">Moses Harman</person> is familiar to all.
 				This man of seventy years, residing in <place reg="Chicago, IL">Chicago</place>,
 				editing the paper "<title type="journal">Lucifer</title>," in which he discussed
 				birth control and kindred subjects, was arrested six or seven times, sentenced to
@@ -262,9 +262,9 @@
 					>William Sanger</person>, my husband and comrade, was in Europe. At the outbreak
 				of the war he returned, just as I was leaving. He knew nothing of my work or the
 				Birth Control Movement.</p>
-			<p>Nevertheless, in January, a <person reg="Bamberger, Charles J.">man</person> called at
-				his studio, representing himself as a socialist and friend of mine, and asked for a
-				pamphlet on "<title type="book">Family Limitation</title>s." Mr. Sanger at first
+			<p>Nevertheless, in January, a <person reg="Bamberger, Charles J.">man</person> called
+				at his studio, representing himself as a socialist and friend of mine, and asked for
+				a pamphlet on "<title type="book">Family Limitation</title>s." Mr. Sanger at first
 				refused it saying he had none, but after urgent pleading on the part of the supposed
 				"comrade," Mr. Sanger went to my desk and found two, one of which he gave him. A few
 				minutes later this "comrade" returned with Anthony Comstock, who arrested Mr. Sanger

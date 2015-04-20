@@ -5,14 +5,16 @@
 		<prepDate>2014/20/12 VS initial tagging</prepDate>
 		<prepDate>2014/14/03 CH proof tags</prepDate>
 		<prepDate>2014/14/03 VS correct tags</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-04-15 CH regularized title</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-04-15 CH regularized title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1932-05-19">19 May 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Testimony Before the House of Representatives on H. R. 11082</supplied>
+				<supplied resp="MSPP">Testimony Before the House of Representatives on H. R.
+					11082</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp300444</idno>
@@ -756,7 +758,7 @@
 					reg="John the Baptist (Biblical)">John the Baptist</person> was an only child
 				and his parents were well along in years when he was born.</p>
 			<p><person reg="Jesus Christ">Jesus</person> was the first born of
-					<person>Joseph</person> and <person reg="Virgin Mary (Biblical)">Mary</person>
+					Joseph and <person reg="Virgin Mary (Biblical)">Mary</person>
 				and had no children.</p>
 			<p> So that even on the question of the place of great men in the family, our position
 				is much stronger than that of our opponents.</p>

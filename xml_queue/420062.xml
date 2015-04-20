@@ -7,7 +7,9 @@
 		<prepDate>2004/07/07 CH</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-05-00">May 1914</docDate>
 		<docTitle>
 			<titlePart>
@@ -44,8 +46,8 @@
 				wealth; the murder of their wives and of their children, as well as the destruction
 				of their homes; when he is not even moved by the burning to death of little
 				children; it is evident that he belongs to that rare criminal type made famous in
-				history by such men as <person>Nero</person>, <person>Caligula</person>, <person
-					reg="Khan, Genghis">Genghis Khan</person> and <person reg="Herod the Great"
+				history by such men as <person>Nero</person>, <person>Caligula</person>,
+					<person>Genghis Khan</person> and <person reg="Herod the Great (Biblical)"
 					>Herod</person>.</p>
 			<p>"<q who="SINUP">Streaks of good</q>" may interest the amiable Upton, but will they
 				bring the dead to life?</p>
@@ -88,8 +90,8 @@
 			<p><person reg="Ganz, Marie">Marie Ganz</person>wants Rockefeller shot for having had
 				the workers with their wives and children shot down and burned to death. She wants
 				to do the shooting herself.</p>
-			<p>Society calls this "<q who="UNK">a breach of the peace</q>" and sends Marie to
-				prison for sixty days.</p>
+			<p>Society calls this "<q who="UNK">a breach of the peace</q>" and sends Marie to prison
+				for sixty days.</p>
 			<p>Yet there is no praise due to anyone shouting from the housetop the desire to kill a
 				Rockefeller. It may have the temporary effect which all bluffs are likely to have,
 				but merely saying it, weakens the vital force of the desire. The act is not carried
