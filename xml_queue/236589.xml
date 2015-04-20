@@ -6,7 +6,9 @@
 		<prepDate>2009-07-08 CH proof and clean tags</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-03-17 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-07-00 ">
 			<supplied resp="MSPP">Jul 1931</supplied>
 		</docDate>
@@ -149,7 +151,7 @@
 		<p>After finishing my course of study at The Hague, I went to Amsterdam and <place
 				reg="Rotterdam, Netherlands">Rotterdam</place> and visited many of the clinics and
 			the independent nurses, many of whom had been trained by Dr. Rutgers. It was my good
-			fortune in Amsterdam to meet <person reg="deBeer-Meijers, Clara">Mme. de Beer
+			fortune in Amsterdam to meet <person reg="de Beer-Meijers, F.">Mme. de Beer
 				Meijers</person>, an active Neo-Malthusian, who spoke English fluently and gave me
 			much personal assistance in taking me to the various clinics. </p>
 		<p>Mme. de Beer-Meijers was to organize, a few years later, the Amsterdam conference on
@@ -195,9 +197,9 @@
 		<p>I visited Dr. Rutgers again in 1920, and found a sad and unhappy man, ever willing that
 			the younger generation should try its hand but realizing how much they were lacking in
 			experience. The following year he was unable, on account of his health, to join us at
-			the <org>Amsterdam Conference on Contraceptives</org>. His death in
-			1924 was ten years too soon. Today the influence of his work goes on spreading itself
-			sanely, quietly into the lives of people who are not afraid to think. </p>
+			the <org>Amsterdam Conference on Contraceptives</org>. His death in 1924 was ten years
+			too soon. Today the influence of his work goes on spreading itself sanely, quietly into
+			the lives of people who are not afraid to think. </p>
 		<p>The results of my first visit to Holland were to change the whole course of the birth
 			control movement, not only in America but in England as well. </p>
 	</docBody>

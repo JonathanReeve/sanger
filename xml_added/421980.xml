@@ -6,7 +6,9 @@
 		<prepDate>2014-12-18 CH correct and enter tags</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-04-01 EK correct proof and update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1920-00-00">
 			<supplied resp="MSPP">1920</supplied>
 		</docDate>
@@ -43,7 +45,7 @@
 			to a New Race is the changing of our so-called obscenity laws.</p>
 		<p>Enacted, avowedly, to protect society against the obscene and the lewd, they make no
 			distinction between the scientific works of human emancipators like <person
-				reg="Forel, Auguste">Forel</person> and <person reg="Ellis, Havelock">Ellis</person>
+				reg="Forel, Auguste-Henri">Forel</person> and <person reg="Ellis, Havelock">Ellis</person>
 			and printed matter such as they are ostensibly aimed at. Naturally enough, then,
 			detectives and narrow-minded judges and prosecutors who would chuckle over pictures that
 			would make a clean-minded woman shudder, unite to suppress the scientific works and the
@@ -76,9 +78,9 @@
 			writings at which the legislation was ostensibly aimed.</p>
 		<p>In 1873, the late <person reg="Comstock, Anthony">Anthony Comstock</person>, who with a
 			list of contributors, most of whom did not realize the real effects of his work,
-			constituted the so-called <org reg="Society for the Suppression of Vice"
-				>Society for the Suppression of Vice</org>, succeeded in obtaining the passage of
-			the <name type="law" reg="United States Criminal Code, Section 211">federal obscenity
+			constituted the so-called <org reg="Society for the Suppression of Vice">Society for the
+				Suppression of Vice</org>, succeeded in obtaining the passage of the <name
+				type="law" reg="United States Criminal Code, Section 211">federal obscenity
 				act</name>. This act was presented as one to prevent the circulation of pornographic
 			literature and pictures among school children. As such, it was rushed through with two
 			hundred sixty other acts in the closing hours of the <org reg="United States Congress"

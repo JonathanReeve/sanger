@@ -19,12 +19,12 @@
 			<bibl>Library of Congress Microfilm 128:0591</bibl>
 		</sourceDesc>
 		<respStmt>
-			<name id="DICRO">Dickinson, Robert Latou, Dr.</name>
-			<name id="FAIHE">Fairchild, Henry Pratt, Dr.</name>
+			<name id="DICRO">Dickinson, Robert Latou</name>
+			<name id="FAIHE">Fairchild, Henry Pratt</name>
 			<name id="NCMHS">Survey of the National Committee on Maternal Health</name>
 			<name id="USCCA">United States Circuit Court of Appeals</name>
-			<name id="WILJO">Williams, John Whitridge, Dr.</name>
-			<name id="WILPR">Willson, Prentiss J., Dr.</name>
+			<name id="WILJO">Williams, John Whitridge</name>
+			<name id="WILPR">Willson, Prentiss J.</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -77,7 +77,7 @@
 			of supporting life is strictly limited. On the other hand, Nature, to insure survival,
 			has equipped living creatures, mankind among them, with a disproportionate physiologic
 			capacity to increase and multiply. The result, as <person
-				reg="Fairchild, Henry Pratt, Dr.">Professor Henry Pratt Fairchild</person> has
+				reg="Fairchild, Henry Pratt">Professor Henry Pratt Fairchild</person> has
 			pointed out in his article “<title type="article">Population and War</title>,” is that
 				“<q who="FAIHE">every species in existence periodically produces offspring at a rate
 				which, if there were nothing to stop it, would overflow the earth is a very few
@@ -91,7 +91,7 @@
 			of this very fact that the problem of conscious control of the birth rate--birth
 			control--is peculiarly their problem and their responsibility.</p>
 		<p>I can do no better than to go to the heart of the matter by quoting the challenging
-			statement of the late <person reg="Williams, John Whitridge, Dr.">J. Whitridge
+			statement of the late <person reg="Williams, John Whitridge">J. Whitridge
 				Williams</person>, M.D., beloved and revered by physicians throughout the
 			country.</p>
 		<p>“<q who="WILJO">Where should we stand as medical men?</q>” Dr. Williams wrote, in the
@@ -190,7 +190,7 @@
 		<p>Individual physicians, in their writings, in testimony at hearings on birth control
 			bills, and in their generous service in birth control centers and on medical advisory
 			boards of birth control organizations, have shown a keen awareness of the urgency of the
-			birth control problem. <person reg="Willson, Prentiss J., Dr.">Dr. Prentiss J.
+			birth control problem. <person reg="Willson, Prentiss J.">Dr. Prentiss J.
 				Willson</person>, of <place reg="Washington, DC">Washington, D.C.</place>, chairman
 			of the <org>National Medical Committee on State and Federal Birth Control
 				Legislation</org>, gave testimony before a sub-committee of the <org
@@ -250,9 +250,9 @@
 			instead of the Congress, have clarified the law and handed down to the American
 			physician his bill of rights in the field of contraception.</p>
 		<p>In a <name reg="United States v. One Package of Japanese Pessaries" type="case">test
-			case</name> on the importation of contraceptive materials, sent to  Dr. <person
-				reg="Stone, Hannah Mayer">Hannah M. Stone</person> from <place>Japan</place>
-			for research purposes, the <org
+				case</name> on the importation of contraceptive materials, sent to Dr. <person
+				reg="Stone, Hannah Mayer">Hannah M. Stone</person> from <place>Japan</place> for
+			research purposes, the <org
 				reg="United States Circuit Court of Appeals for the Second Circuit">U.S. Circuit
 				Court of Appeals for the Second Circuit</org> ruled that the intention of the
 			Comstock statue “<q who="USCCA">was not to prevent the importation, sale or carriage by
@@ -275,16 +275,16 @@
 			patients on this most fundamental issue.</p>
 		<p>“<q who="DICRO">The three great strides of medicine are towards the control of pain in
 				labor and operation, the control of infection in obstetrics and surgery, and the
-				control of communicable diseases</q>,” said Dr. <person reg="Dickinson, Robert Latou"
-				>Robert L. Dickinson</person> some years ago, addressing the <org><place
-					reg="New York, NY">New York</place> Academy of Medicine</org>. “<q who="DICRO"
-				>These three advances, made in the face of opposition and indifference on the part
-				of the organized profession, are now its common pride and glory. A fourth control,
-				the control of conception, needed to safeguard life, health, and happiness, though
-				now suspect and maligned, will take its place of honor with these others. Courage
-				and wisdom were required to restrain the forces of disease and death. A greater
-				courage and a higher wisdom are called for within our profession to undertake a
-				guiding part in the control of life</q>.”</p>
+				control of communicable diseases</q>,” said Dr. <person
+				reg="Dickinson, Robert Latou">Robert L. Dickinson</person> some years ago,
+			addressing the <org><place reg="New York, NY">New York</place> Academy of
+			Medicine</org>. “<q who="DICRO">These three advances, made in the face of opposition and
+				indifference on the part of the organized profession, are now its common pride and
+				glory. A fourth control, the control of conception, needed to safeguard life,
+				health, and happiness, though now suspect and maligned, will take its place of honor
+				with these others. Courage and wisdom were required to restrain the forces of
+				disease and death. A greater courage and a higher wisdom are called for within our
+				profession to undertake a guiding part in the control of life</q>.”</p>
 		<p>I know that the doctors of America, and particularly those young and eager newcomers who
 			this year enter the profession, will rise to the challenge of this greater courage and
 			higher wisdom.</p>

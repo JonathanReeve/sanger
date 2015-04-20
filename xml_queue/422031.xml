@@ -20,7 +20,7 @@
 		<respStmt>
 			<resp/>
 			<name id="BCR">Birth Control Review</name>
-			<name id="DAW">Dawson, Bertrand</name>
+			<name id="DAW">Dawson, Bertrand E.</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -35,7 +35,7 @@
 	</headNote>
 	<docBody>
 		<head>EDITORIAL</head>
-		<p><person reg="Dawson, Bertrand">Lord Dawson of Penn,</person> physician to the <person
+		<p><person reg="Dawson, Bertrand E.">Lord Dawson of Penn,</person> physician to the <person
 				reg="George V (England)">King of <place>England</place>,</person> has with incisive
 			courage again come forward as one of the most authoritative champions of Birth Control.
 			In his recent evidence given before the national <org
@@ -82,7 +82,7 @@
 				League</org> that Lord Dawson's pronouncement is an agreement with our stated
 			policies and program. This agreement with our principles is doubly satisfying not only
 			because Lord Dawson of Penn is one of the most distinguished medical authorities of
-			<place>Great Britain</place>, but his position as a legislator in the <org
+				<place>Great Britain</place>, but his position as a legislator in the <org
 				reg="United Kingdom House of Lords">House of Lords</org> gives emphasis and
 			authority to his opinions. Discussion of the principles and the methods of Birth
 			Control, he says, should be kept separate. The methods of Birth Control should be set

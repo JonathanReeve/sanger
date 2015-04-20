@@ -9,8 +9,9 @@
 		</docAuthor>
 		<docDate value="1936-11-16">16 Nov 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">The Present Day Trend of Birth
-				Control</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">The Present Day Trend of Birth Control</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421910</idno>
 		<sourceDesc>
@@ -23,11 +24,12 @@
 			<name id="BCE">Buffalo Courier Express</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke under the auspices of the <org>Buffalo Family Relations
-				Institute</org> at the <org>Hotel Fillmore</org> on November 16, 1936.</p>
-		<index level1="India" level2="birth control in"/><index level1="birth control"
-			level2="economic rationale"/><index level1="Sanger, Margaret"
-			level2="physical descriptions"/>
+	<headNote resp="MSPP">
+		<p>Sanger spoke under the auspices of the <org>Buffalo Family Relations Institute</org> at
+			the <org>Hotel Fillmore</org> on November 16, 1936.</p>
+		<index level1="India" level2="birth control in"/>
+		<index level1="birth control" level2="economic rationale"/>
+		<index level1="Sanger, Margaret" level2="physical descriptions"/>
 	</headNote>
 	<docBody>
 		<head>Mrs. Sanger Gives Hearers Plenty to Think About</head>
@@ -71,11 +73,12 @@
 					ignorant or deeply learned. India, she said, has tried everything, and she
 					pointed out that, in the face of “Purdah,” that state where women as a majority
 					were kept in virtual imprisonment never being seen by any man except their
-					husbands. <person reg="Gandhi, Mahatma">Gandhi</person> had but to send out the
+					husbands. <person reg="Gandhi, Mohandas K.">Gandhi</person> had but to send out the
 					call and the women heroically revolted to free themselves almost overnight.</q>
 			</p>
 
-			<p><q who="BCE"> Mrs. Sanger was invited to India as the guest of the <org
+			<p>
+				<q who="BCE"> Mrs. Sanger was invited to India as the guest of the <org
 						reg="All-India Women's Conference">All India Women's Conference</org> and
 					she traveled 10,000 miles setting up 50 birth control centers.</q>
 			</p>
@@ -108,7 +111,8 @@
 				of wealth have. We want to amend the federal laws so that all hospitals can
 				distribute information and that the information can be transmitted through the
 				mails.” </p>
-			<p><q who="BCE">Mrs. Sanger was introduced to the assembly last night by Dean <person
+			<p>
+				<q who="BCE">Mrs. Sanger was introduced to the assembly last night by Dean <person
 						reg="Alden, Carlos C.">Carlos C. Alden</person> of the <org>University of
 						Buffalo</org> and he followed her speech with a short resume of her
 					remarkable life. Dr. <person reg="Clarke, Alfred">Alfred Clarke</person>,
@@ -120,7 +124,8 @@
 						<person reg="Gaylord, Gladys">Gaylord</person> of <place reg="Cleveland, OH"
 						>Cleveland</place> were others on the platform at last night's meeting. Mrs.
 					Sanger was the guest of <person reg="Schoellkopf, Olive Abbott">Mrs. J.
-						Frederick Schoellkopf, Jr.</person> during her stay in Buffalo.</q></p>
+						Frederick Schoellkopf, Jr.</person> during her stay in Buffalo.</q>
+			</p>
 		</div>
 	</docBody>
 </doc>

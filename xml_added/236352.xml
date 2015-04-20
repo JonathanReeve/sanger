@@ -5,7 +5,9 @@
 		<prepDate>2011-07-21 NC</prepDate>
 		<prepDate>2014-03-25 CH clean regs</prepDate>
 		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1940-10-13">13 Oct 1940</docDate>
 		<docTitle>
 			<titlePart>Birth Control and Civil Liberties</titlePart>
@@ -20,7 +22,7 @@
 		<respStmt>
 			<resp/>
 			<name id="BERFR">Bernhardi, Friedrich von</name>
-			<name id="GOEHE">Goering, Hermann Ernst</name>
+			<name id="GOEHE">Goering, Hermann Wilhelm</name>
 			<name id="MUSBE">Mussolini, Benito</name>
 			<name id="CM">Clinical Medicine</name>
 			<name id="PEARA">Pearl, Raymond</name>
@@ -108,7 +110,7 @@
 			starved to death. Yet in 1936 Germany had increased her population almost to the 1914
 			point; her density of population was as great if not greater. She was again shouting to
 			the world that she must expand--by force if need be.</p>
-		<p>In 1936 General <person reg="Goering, Hermann Ernst">Goering</person> issued this
+		<p>In 1936 General <person reg="Goering, Hermann Wilhelm">Goering</person> issued this
 			statement: “<q who="GOEHE">The territory in which the Germans now live is too small for
 				the sixty-six million inhabitants. It will soon be too small for the seventy to
 				eighty to ninety millions which we want to become.</q>”</p>

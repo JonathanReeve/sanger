@@ -5,7 +5,9 @@
 		<prepDate>2009/07/16 LL</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-03-17 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-04-00">Apr 1931</docDate>
 		<docTitle>
 			<titlePart>Birth Control Steps Out: A Note on the Senate Hearing</titlePart>
@@ -38,7 +40,7 @@
 				Federal Legislation for Birth Control</org> in presenting the bill S. 4582, was to
 			amend the federal laws so that motherhood shall be conscious and controlled. This was
 			the first time such a bill had been introduced and this bill as presented by our
-			Chairman Senator <person reg="Gillett, Frederick">Gillett</person> may yet be the future
+			Chairman Senator <person reg="Gillett, Frederick Huntington">Gillett</person> may yet be the future
 			foundation of The Mother’s Bill of Rights.</p>
 		<p>We want mothers to have proper scientific instruction through the channels of the medical
 			profession which will enable them to control the size of the family.</p>

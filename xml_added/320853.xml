@@ -5,7 +5,9 @@
 		<prepDate>2007/07/16 AF</prepDate>
 		<prepDate>2014-03-05 CH cleaning regs</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1926-01-00">Jan 1926</docDate>
 		<docTitle>
 			<titlePart>Fewer and Better Babies</titlePart>
@@ -199,7 +201,7 @@
 				>America</place> needs the balance of a cool head. When I think of the
 			millions--nay, billions--of dollars annually spent in public and private charities, and
 			of the failure of philanthropies to effect a cure. I am always reminded of the words of
-				<person rend="Thompson, Francis">Francis Thompson</person>: “<q rend="THOFR">Before
+				<person reg="Thompson, Francis">Francis Thompson</person>: “<q rend="THOFR">Before
 				me stretched an immense, soundless, bitter ocean. On its shore stood a string of
 				benevolent children, equipped with sugar bowls. What were they doing? They were
 				throwing lumps of sugar into the sea to sweeten the waves.</q>” </p>
@@ -253,7 +255,7 @@
 			substantially increased. Almost every year in one of the thirty-one states of the birth
 			registration area there is an increasing number of fatalities due to the hazards of
 			maternity. The trend is steadily upward. Instead of making motherhood safe, as Professor
-				<person reg="East, Edward M."> Edward M. East</person> of <org
+				<person reg="East, Edward Murray"> Edward M. East</person> of <org
 				reg="Harvard University">Harvard</org> asserts, it is constantly growing more
 			dangerous. </p>
 		<p>And yet we allow our mothers to risk their lives in this way not once or twice or three

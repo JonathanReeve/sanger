@@ -9,7 +9,9 @@
 		<prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
 		<prepDate>2014-11-18 CH cleaning regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1912-02-15">15 Feb 1912</docDate>
 		<docTitle>
 			<titlePart>The Fangs of the Monster at Lawrence</titlePart>
@@ -47,7 +49,7 @@
 			adventure at this age usually is. As they stood on the corners dancing up and down in
 			the biting cold, it is hoped they may realize what tools they really are, and being
 			hired assassins of the bosses is more adventure than they wish. One man told of the
-			arrest of <person reg="Ettor, Jospeh">Ettor</person>. A large crowd of people had
+			arrest of <person reg="Ettor, Joseph">Ettor</person>. A large crowd of people had
 			gathered together when the cry of "<q who="UNK">halt!</q>" came imperatively from the
 			guards. The man said he felt the bayonet at his back, yet he was powerless to move. Had
 			the crowd pushed him further this would have been plunged into his back.</p>
