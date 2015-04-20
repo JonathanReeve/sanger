@@ -33,7 +33,7 @@
 			<name id="POPPA">Popenoe, Paul</name>
 			<name id="WILEL">Williams, Ellen Morton</name>
 			<name id="HOOHE">Hoover, Herbert</name>
-			<name id="PARTH">Parran, Thomas S. Jr.</name>
+			<name id="PARTH">Parran, Thomas, Jr.</name>
 			<name id="MACHE">MacMurchy, Helen</name>
 			<name id="WOORO">Woodbury, Robert Morse</name>
 			<name id="INGDE">Inge, William Ralph</name>
@@ -69,9 +69,7 @@
 	</headNote>
 	<docBody>
 		<head rend="underline">Human Conservation And Birth Control</head>
-		<byline>
-			Margaret Sanger
-		</byline>
+		<byline> Margaret Sanger </byline>
 		<div type="">
 			<p>In almost all of the conferences dealing with human conservation, maternal health,
 				infant and maternal mortality, or population and the falling birth rate,
@@ -129,11 +127,10 @@
 				when almost any one can get a job. These people are providing a large proportion of
 				the increase in both our social problems and our population today. At the recent
 				conference on Better Care for Mothers and Babies, held in Washington, January 1938,
-				the Surgeon General, Dr. <person reg="Parran, Thomas S., Jr.">Thomas
-				Parran</person>, stated that "<q who="PARTH">approximately one million children are
-					born each year in families on relief or with an annual income of less than
-					$1,000.00.</q>" </p>
-			<p>These findings are backed by the studies of Dr. <person reg="Stouffer, S. A.">S. A.
+				the Surgeon General, Dr. <person reg="Parran, Thomas, Jr.">Thomas Parran</person>,
+				stated that "<q who="PARTH">approximately one million children are born each year in
+					families on relief or with an annual income of less than $1,000.00.</q>" </p>
+			<p>These findings are backed by the studies of Dr. <person reg="Stouffer, Sameul Andrew">S. A.
 					Stouffer</person> of the <org>University of Wisconsin</org>, in the <title
 					type="journal">Journal of the American Statistical Association</title>,
 				September, 1934, showing that in 5,520 families on relief in <place

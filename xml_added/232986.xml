@@ -6,12 +6,15 @@
 		<prepDate>2012-03-28 CH proofed tags</prepDate>
 		<prepDate>2014-04-04 EK clean regs</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-04-18">18 Apr 1954</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Japan Family Planning Association
-					Address</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Japan Family Planning Association
+					Address</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp232986</idno>
 		<sourceDesc>
@@ -67,7 +70,7 @@
 		<p><add>2</add> It is also my pleasure to accept for the International
 			World Organization the kind invitation rendered by the President of
 			the Japan Family Planning Association, Mr. <person
-				reg="Shimojo, Yasmaro">Yasmaro Shimojo</person> to hold the next
+				reg="Shimojo, Yasumaro">Yasmaro Shimojo</person> to hold the next
 				<org reg="International Conference on Planned Parenthood, 5th"
 				>Conference</org> here in this lovely city in 1955. I am here in
 			person as President to accept it with gratitude and respectful

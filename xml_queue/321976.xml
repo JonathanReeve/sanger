@@ -10,7 +10,9 @@
 		</docAuthor>
 		<docDate value="1933-00-00">1933</docDate>
 		<docTitle>
-			<titlePart>Birth Control, 1933</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control, 1932</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp321976</idno>
 		<sourceDesc>
@@ -25,8 +27,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For Sanger's 1929 entry in the same series, see "<xref
-				from="156569.xml">Birth Control, 1929</xref>."</p>
+		<p>For an earlier entry in the same series, see "<xref from="156569.xml"
+				>Birth Control, 1928</xref>."</p>
 		<index level1="birth control" level2="birth control leagues"/>
 		<index level1="birth control" level2="birth control leagues"
 			level3="Birth Control League of New York"/>
@@ -67,13 +69,12 @@
 				fertility from the point of view of the practice of medicine and
 				public health. In 1923 also the <org>Birth Control Clinical
 					Research Bureau</org> was established in New York City. That
-				Bureau--with which a large number of social and welfare
-				agencies and hospitals are cooperating has instructed over
-				31,000 women since its organization. The first 10,000 case
-				histories, under a grant from the <org>Bureau of Social
-					Hygiene</org>, have been analyzed by a committee of
-				specialists and the results are to be made available at a later
-				date.</p>
+				Bureau--with which a large number of social and welfare agencies
+				and hospitals are cooperating has instructed over 31,000 women
+				since its organization. The first 10,000 case histories, under a
+				grant from the <org>Bureau of Social Hygiene</org>, have been
+				analyzed by a committee of specialists and the results are to be
+				made available at a later date.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Legislative Campaigns, and Birth Control
@@ -119,7 +120,9 @@
 				of medically supervised instruction on birth control, as
 				evidenced by the support and endorsements given by medical and
 				other groups since 1930. Conspicuous among the former were the
-					<org reg="New York Academy of Medicine, Public Health Relations Committee">Public Health Relations Committee</org> of the <org>New
+					<org
+					reg="New York Academy of Medicine, Public Health Relations Committee"
+					>Public Health Relations Committee</org> of the <org>New
 					York Academy of Medicine</org>. Its recommendations, adopted
 				in 1931, included the following statement: <q who="PHRC">“A
 					movement should be begun to include, in the curriculum of
@@ -162,15 +165,16 @@
 				response to a widespread responsible demand, public health
 				authorities would be authorized to give birth control
 				information in the maternal and infant welfare centers of which
-				there are several thousand throughout the <place reg="Great Britain">British Isles</place>. This
-				announcement was preceded by a favorable, though guarded,
-				pronouncement by the <org reg="United Kingdom House of Lords">House of Lords</org>, the <org>Lambeth Conference
-					of Bishops</org>, and the <org>British Medical
-				Society</org>. </p>
+				there are several thousand throughout the <place
+					reg="Great Britain">British Isles</place>. This announcement
+				was preceded by a favorable, though guarded, pronouncement by
+				the <org reg="United Kingdom House of Lords">House of
+					Lords</org>, the <org>Lambeth Conference of Bishops</org>,
+				and the <org>British Medical Society</org>. </p>
 			<p>The principal organized opposition to the movement comes from the
 					<org>Roman Catholic Church</org>, and since the publication
-				of the Encyclical Letter of <person reg="Pius XI, Pope">Pope Pius
-					XI</person>, <title type="article">On Christian
+				of the Encyclical Letter of <person reg="Pius XI (Pope)">Pope
+					Pius XI</person>, <title type="article">On Christian
 					Marriage</title>, 1931, many Catholic organizations-
 				including the <org>National Council of Catholic Men</org>, the
 					<org>International Federation of Catholic Alumni</org>, and

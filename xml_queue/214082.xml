@@ -11,12 +11,15 @@
 		</docAuthor>
 		<docDate value="1930-00-00">1930</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">One Million Letters from Mothers</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">One Million Letters from Mothers</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp214082</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S73:128</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S73:128</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="WELHG">Wells, H. G.</name>
@@ -40,9 +43,9 @@
 		</head>
 		<p>Some of us <del>illegible</del>, <add>who</add>, are familiar with the subject as a whole
 				<del>we</del> realize our responsibility as human beings and <del>illegible
-				fight</del><add>are fighting</add> for the poor woman’s freedom
-			and rights, <del>and</del><add>we want to</add> see <del>that</del>her position as
-			mother <del>to</del>elevated to one of dignity, through knowledge of birth control. Such
+				fight</del><add>are fighting</add> for the poor woman’s freedom and rights,
+				<del>and</del><add>we want to</add> see <del>that</del>her position as mother
+				<del>to</del>elevated to one of dignity, through knowledge of birth control. Such
 			knowledge, <person reg="Wells, H. G.">H. G. Wells</person> says, “<q who="WELHG">marks a
 				new and happier phase in the history of our civilization</q>”. <del>Working</del>
 			<add><unclear>Military</unclear></add> and professional classes have the lowest birth
@@ -69,8 +72,9 @@
 			understand their children.</p>
 		<p>Every argument is on this side.</p>
 		<p>
-			<add>43 million women of child bearing years.<lb/><person reg="Pius XI, Pope">Pontifical Dictator</person> in foreign land,
-				dictates how many children American women shall have.</add>
+			<add>43 million women of child bearing years.<lb/><person reg="Pius XI (Pope)">Pontifical
+					Dictator</person> in foreign land, dictates how many children American women
+				shall have.</add>
 		</p>
 	</docBody>
 </doc>

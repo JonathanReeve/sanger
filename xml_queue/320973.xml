@@ -28,22 +28,22 @@
 	<headNote resp="MSPP">
 		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
 			see <xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
-			<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
-			<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
-			<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
-			<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
-			<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
-			<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
-			<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
-			<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
-			<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
-			<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
-			<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
-			<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
-			<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
-			<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
-			<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
-			<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
+				<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
+				<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
+				<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
+				<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
+				<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
+				<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
+				<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
+				<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
+				<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
+				<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
+				<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
+				<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
+				<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
+				<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
+				<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
+				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
 		<p>For page proof, see Library of Congress Microfillm 129:137.</p>
 		<index level1="Asia" level2="birth control in"/>
 		<index level1="Australia" level2="birth rates in"/>
@@ -178,7 +178,7 @@
 						Rico</foreign></org>. These services were medically directed, and research
 				studies on them were being undertaken to determine rates of effectiveness and
 				acceptability of the methods advised. An interdepartmental committee appointed by
-					<person reg="Roosevelt, Franklin D.">President Roosevelt</person> to survey
+					<person reg="Roosevelt, Franklin Delano">President Roosevelt</person> to survey
 				Puerto Rico reported that overpopulation was the greatest problem of the island and
 				that “birth control should be made a major function of the Insular <org
 					reg="Puerto Rico Department of Health">Department of Health</org>, as the key to

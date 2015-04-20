@@ -6,7 +6,8 @@
 		<prepDate>2015-02-06 CH proof tags</prepDate>
 		<prepDate>2015-03-17 CH recheck tags</prepDate>
 		<docAuthor>
-			<person reg="Crisler, R. R.">R. R. Crisler</person></docAuthor>
+			<person reg="Crisler, R. R.">R. R. Crisler</person>
+		</docAuthor>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -42,8 +43,9 @@
 		<head>Margaret Sanger Given Verdict At Debate Over Birth Control</head>
 		<byline>by R. R. Crisler</byline>
 		<div>
-			
-			<p> <q who="AC">Margaret Sanger, the mother of three children, met Chief Justice <person
+
+			<p>
+				<q who="AC">Margaret Sanger, the mother of three children, met Chief Justice <person
 						reg="Russell, Richard B.">Richard B. Russell</person>, the father of 18, in
 					a debate on birth control Thursday night at the <org reg="Erlanger Theater"
 						>Erlanger theater</org>. And the result--while it seemed to be pretty
@@ -51,8 +53,9 @@
 					the last to deny) at the same time completely justified everybody’s expectations
 					with regard to the gentleman. If he went down, under the onslaught of these new
 					and somewhat bewildering ideas, he went--like the noble old Roman he is--with
-					the standards of the legion intact. </q></p>
-			
+					the standards of the legion intact. </q>
+			</p>
+
 			<p>
 				<q who="AC">Mrs. Sanger was first in the field, trotting out her light cavalry of
 					statistics, her portable and compact artillery of logic and of modern ideas. And
@@ -73,13 +76,14 @@
 					spectacularly in the breeze. It was the Roman phalanx going grandly and
 					unsuspectingly into a nest of machine guns. Taking his text from the Scriptures,
 					Chief Justice Russell reminded his opponent of the Biblical injunction to
-						<person reg="Noah (Biblical)">Noah</person>, <q who="BIB">“increase and multiply.”</q></q>
+						<person reg="Noah (Biblical)">Noah</person>, <q who="BIB">“increase and
+						multiply.”</q></q>
 			</p>
 			<p>
 				<q who="AC">“Rat, tat, tat,” the machine guns, in rebuttal, spat like so many
-					snakes.</q> “And it might be opportune to remind my opponent,” <q who="AC">Mrs. Sanger
-					parried,</q> “that when <name type="deity">God</name> laid this command upon
-				Noah, there were only five people on Earth. My opponent must admit that the
+					snakes.</q> “And it might be opportune to remind my opponent,” <q who="AC">Mrs.
+					Sanger parried,</q> “that when <name type="deity">God</name> laid this command
+				upon Noah, there were only five people on Earth. My opponent must admit that the
 				situation has altered a little since then.” </p>
 			<p>
 				<q who="AC">But people, the phalanx contended, are motivated by pure selfishness
@@ -104,20 +108,23 @@
 					to the individual family that Mrs. Sanger stressed, the fact that it lowers
 					infant mortality, increases the happiness and health of woman, and effectually
 					prevents the economic disasters which threaten the large family with a small
-					income.</q> “It is for us to choose,”<q who="AC"> she asserted,</q> “a decreased birth rate or
-				an increased death rate.”</p>
+					income.</q> “It is for us to choose,”<q who="AC"> she asserted,</q> “a decreased
+				birth rate or an increased death rate.”</p>
 			<p>
 				<q who="AC">Judge Russell, on the other hand, would lump all birth controllers into
 					the same class with communists, bolsheviks, and infidels. His most pronounced
 					antipathy, however, is for those who profess the doctrine; he admitted that its
-					practice if common.</q><q who="RUSRI"> “Otherwise," </q><q who="AC">he added,</q> <q who="RUSRI"
-					>“how does it happen that Georgia has lost two congressmen?” </q><q who="AC">The
-					audience, highly appreciative of the witticisms with which Judge Russell’s
-					remarks had been so generously interlarded, seemed to regard this as one of them
-					and burst into laughter.</q><q who="RUSRI"> “But maybe you won’t miss them,”
-					</q><q who="AC">he said, good-humoredly. There was a round of applause and more
-					laughter. It looked as though the audience really wouldn’t---indiscernible.
-				</q></p>
+					practice if common.</q>
+				<q who="RUSRI"> “Otherwise," </q>
+				<q who="AC">he added,</q>
+				<q who="RUSRI">“how does it happen that Georgia has lost two congressmen?” </q>
+				<q who="AC">The audience, highly appreciative of the witticisms with which Judge
+					Russell’s remarks had been so generously interlarded, seemed to regard this as
+					one of them and burst into laughter.</q>
+				<q who="RUSRI"> “But maybe you won’t miss them,” </q>
+				<q who="AC">he said, good-humoredly. There was a round of applause and more
+					laughter. It looked as though the audience really wouldn’t---indiscernible. </q>
+			</p>
 		</div>
 		<div>
 			<head>Jurist, Father of 18, Debates Birth Control </head>
@@ -128,7 +135,7 @@
 			</p>
 			<p>
 				<q who="CDT">The jurist, father of 18 children, whose son, <person
-						reg="Russell, Jr., Richard B.">Richard B. Russell Jr.</person>, is the
+						reg="Russell, Richard B., Jr.">Richard B. Russell Jr.</person>, is the
 					governor elect of Georgia, said a</q>
 				<q who="RUSRI"> “flood of advertisements, fakers, false contraceptives, and
 					quacks”</q>

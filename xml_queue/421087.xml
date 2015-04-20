@@ -11,8 +11,9 @@
 		</docAuthor>
 		<docDate value="1936-02-14">14 Feb 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with Singapore Straits
-				Times</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with Singapore Straits Times</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421087</idno>
 		<sourceDesc>
@@ -34,17 +35,27 @@
 		<head>CONTINENCE OR SCIENCE IN BIRTH CONTROL</head>
 		<div type="section">
 
-			<p><q who="SST">Standing room only on <place reg="Singapore">Singapore Island</place>
+			<p>
+				<q who="SST">Standing room only on <place reg="Singapore">Singapore Island</place>
 					will result if the birth rate and Indian and Chinese migration continue as at
-					present.</q></p>
-			<p><q who="SST">Continence between married people is difficult enough anywhere, and
-					certainly far too difficult in <place>India</place>.</q></p>
-			<p><q who="SST">Birth control will succeed in the East. </q></p>
-			<p><q who="SST">Present day national aggression is a result of uncontrolled birth
-					rates.</q></p>
-			<p><q who="SST">These are some of the views expressed by Mrs. Margaret Sanger, the world
-					famous authority on birth control, when she arrived in Singapore in the <name
-						type="boat">Corfu</name>yesterday.</q></p>
+					present.</q>
+			</p>
+			<p>
+				<q who="SST">Continence between married people is difficult enough anywhere, and
+					certainly far too difficult in <place>India</place>.</q>
+			</p>
+			<p>
+				<q who="SST">Birth control will succeed in the East. </q>
+			</p>
+			<p>
+				<q who="SST">Present day national aggression is a result of uncontrolled birth
+					rates.</q>
+			</p>
+			<p>
+				<q who="SST">These are some of the views expressed by Mrs. Margaret Sanger, the
+					world famous authority on birth control, when she arrived in Singapore in the
+						<name type="boat">Corfu</name>yesterday.</q>
+			</p>
 
 		</div>
 		<div type="section">
@@ -209,15 +220,15 @@
 					greatest biological revolutionary the world has ever known.</q>
 			</p>
 			<p>
-				<q who="SST">In America, through the
-						<org>National Committee on Federal Legislation for Birth Control</org>, of
-					which she is president, she is attempting to secure amendments to the Federal
-					laws which prohibit the sending of contraceptive information and supplies
-					through the mails, by express, or other common carriers. </q>
+				<q who="SST">In America, through the <org>National Committee on Federal Legislation
+						for Birth Control</org>, of which she is president, she is attempting to
+					secure amendments to the Federal laws which prohibit the sending of
+					contraceptive information and supplies through the mails, by express, or other
+					common carriers. </q>
 			</p>
 		</div>
 		<div type="section">
-			<head type="sub">Letter from <person reg="Tagra">Tagore</person></head>
+			<head type="sub">Letter from Tagore</head>
 			<p>
 				<q who="SST">Mrs. Sanger said that leaders of thought in India were supporting her
 					in the movement for scientific birth control. As evidence of this she had just

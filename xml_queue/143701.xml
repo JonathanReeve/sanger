@@ -30,7 +30,7 @@
 			<name id="ZEN">Zenophon</name>
 			<name id="CICMA">Cicero, Marcus Tullius</name>
 			<name id="TERQU">Tertullian, Quintus Septimus</name>
-			<name id="AUG">St. Augustine</name>
+			<name id="AUG">Augustine (St.)</name>
 		</respStmt>
 	</mepHeader>
 	<headNote>
@@ -536,7 +536,7 @@
 			<p><person>Tertullian</person>:- (who was one of the Fathers of the Church, says) "<q
 					who="TERQU">Against common enemies and those who are enemies of the
 					commonwealth, every man is a soldier.</q>"</p>
-			<p><person>St. Augustine</person> says:- "<q who="AUG">Is it not incongruous that the
+			<p><person reg="Augustine (St.)">St. Augustine</person> says:- "<q who="AUG">Is it not incongruous that the
 					laws of Nature and society as well permit a man to kill a thief if he be found
 					breaking into his house at night and that a tyrant who is a common robber of
 					mankind, to whom nothing is sacred, and whom no law can bind, should be
