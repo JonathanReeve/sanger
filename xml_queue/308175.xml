@@ -35,7 +35,9 @@
 	<docBody>
 		<head>The Future of Contraception</head>
 		<byline>by Margaret Sanger</byline>
-		<dateline><date value="1937-01-00">January, 1937</date></dateline>
+		<dateline>
+			<date value="1937-01-00">January, 1937</date>
+		</dateline>
 		<p>On behalf of the <org>Birth Control Clinical Research Bureau</org>, I have the honor and
 			the pleasure to welcome you to this conference. It is not fitting that I should take the
 			time of this session to tell you all that has been accomplished by the Clinical Research
@@ -61,7 +63,7 @@
 			with impatient, urgent demands. It is indeed a curious fact that for all the hundreds of
 			thousands of women who have been advised and instructed in the more than 300 birth
 			control centers now operating in the <place>United States</place> we have had to depend
-			mainly upon a method discovered and perfected by <person reg="Mensinga, Wilelm">Dr.
+			mainly upon a method discovered and perfected by <person reg="Mensinga, Wilhelm">Dr.
 				Mensinga</person> of <place>Germany</place> over 60 years ago. This method requires
 			an individual examination, and this is precisely the reason why only a relatively small
 			number of the women most in need of contraceptive advice are able to benefit by our

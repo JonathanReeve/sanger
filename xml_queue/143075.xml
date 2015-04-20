@@ -18,19 +18,18 @@
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="NIEFR">Nietzsche, Frederich</name>
+			<name id="NIEFR">Nietzsche, Friedrich</name>
 			<name id="HIL">Hill, ?</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This is a rough draft of a speech; no final versions have been found.</p>
-		<index level1="xxxx"/>
+		<index level1="Nietzsche, Friedrich"/>
 	</headNote>
 	<docBody>
-		<head>Frederick Nietzche</head>
 		<head>FREDERICK NIETZSCHE.</head>
 		<dateline>[<date value="1914-11-00">Nov.-Dec. 1914</date>]</dateline>
-		<p>The powerful mind of <person reg="Nietzsche, Frederich">Nietzsche</person> has exerted an
+		<p>The powerful mind of <person reg="Nietzsche, Friedrich">Nietzsche</person> has exerted an
 			influence in <place>Europe</place> which has made itself felt in all philosophy&amp;
 			letters of the past ten years.</p>
 		<p>His gospel of life has awakened new channels of thought in other writers &amp; preached
@@ -40,8 +39,8 @@
 		<p>The philosophy of Nietzsche has attracted attention in literary circles in
 				<place>France</place>
 			<place>England</place>
-			<place reg="United States">America</place> besides giving birth to literature abundant in quantity &amp;
-			varying in quality in <place>Germany</place>.</p>
+			<place reg="United States">America</place> besides giving birth to literature abundant
+			in quantity &amp; varying in quality in <place>Germany</place>.</p>
 		<p>It is to me regrettable that such interest in the seems to remain outside the reach of
 			the workers--for whom it is intended. Nietzsche philosophy not only calls in question
 			the moral law itself it challenges &amp; attacks the foundations of all moral law.

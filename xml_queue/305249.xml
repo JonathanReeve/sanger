@@ -25,7 +25,7 @@
 		<respStmt>
 			<resp/>
 			<name id="MILJO">Mill, John Stuart</name>
-			<name id="MALTH">Malthus, Thomas</name>
+			<name id="MALTH">Malthus, Thomas Robert</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -44,7 +44,7 @@
 		<index level1="birth strike"/>
 		<index level1="poverty"/>
 		<index level1="labor movement" level2="and birth control"/>
-		<index level1="Malthus, Thomas"/>
+		<index level1="Malthus, Thomas Robert"/>
 		<index level1="Malthusianism" level2="and neo-Malthusianism"/>
 		<index level1="neo-Malthusianism"/>
 		<index level1="Malthusianism" level2="opposition to"/>
@@ -99,7 +99,7 @@
 			Malthusianism, neo-Malthusianism and Birth Control; and secondly, its hygienic and
 			physiological side, and its relation to the world problem of the present and immediate
 			future.</p>
-		<p>In 1798, Rev. <person reg="Malthus, Thomas">Thomas Malthus</person>, a clergyman of the
+		<p>In 1798, Rev. <person reg="Malthus, Thomas Robert">Thomas Malthus</person>, a clergyman of the
 				<org>Church of <place>England</place></org>, published the first edition of his
 			world famous "<title type="book">Principle of Population</title>" which in 1806 was
 			given to the world in a revised and more thorough form. In this epoch making essay,

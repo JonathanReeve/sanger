@@ -41,10 +41,11 @@
 		</respStmt>
 	</mepHeader>
 	<sourceNote/>
-	<headNote><p>The location of this speech was not identified. Sanger was in <place
-				reg="Tucson, AZ">Tucson, Arizona</place> at this time. For duplicate versions see
-			Library of Congress Microfilm 127:702 and Margaret Sanger Microfilm, Smith College
-			Collections S71:996.</p>
+	<headNote>
+		<p>The location of this speech was not identified. Sanger was in <place reg="Tucson, AZ"
+				>Tucson, Arizona</place> at this time. For duplicate versions see Library of
+			Congress Microfilm 127:702 and Margaret Sanger Microfilm, Smith College Collections
+			S71:996.</p>
 		<index level1="eugenics"/>
 		<index level1="mental capacity"/>
 		<index level1="eugenics" level2="birth control and"/>
@@ -69,7 +70,7 @@
 	<docBody>
 		<head rend="underline">Human Conservation And Birth Control</head>
 		<byline>
-			<person>Margaret Sanger</person>
+			Margaret Sanger
 		</byline>
 		<div type="">
 			<p>In almost all of the conferences dealing with human conservation, maternal health,
@@ -80,9 +81,9 @@
 				and given the place it deserves at these gatherings. It is a pleaser, therefore, to
 				have the subject assigned me at this meeting. It is time--in fact the time is long
 				overdue -- that we should be frank and honest; that we should face the facts in this
-				country and ask where the present policy--if there be a policy--of race
-				conservation is leading us, so that we may plan to stem the tide of production of
-				the unfit and try to turn it in the right direction. </p>
+				country and ask where the present policy--if there be a policy--of race conservation
+				is leading us, so that we may plan to stem the tide of production of the unfit and
+				try to turn it in the right direction. </p>
 			<p>In his address to the <org>International Congress of Eugenics</org>, 1932, <person
 					reg="Darwin, Leonard">Leonard Darwin</person> said: "<q who="DARLE">Racial
 					deterioration is, I fully believe, taking place amongst us in such a way as to
@@ -202,10 +203,10 @@
 				good. The sympathy which operated to take care of them has kept their bodies alive
 				and fed, but has atrophied their spirits, and in so doing has dealt a heavy blow to
 				the nation, for it was its spirit that drove it forward. There is not one of us here
-				who does not remember--and not so many years ago--when there was nothing the
-				average American would not do to avoid taking charity. Those days are gone. He does
-				not take charity now, he goes on relief, and feels no shame about it often because
-				charity is camouflaged now under this new name.</p>
+				who does not remember--and not so many years ago--when there was nothing the average
+				American would not do to avoid taking charity. Those days are gone. He does not take
+				charity now, he goes on relief, and feels no shame about it often because charity is
+				camouflaged now under this new name.</p>
 		</div>
 		<div>
 			<head rend="underline" type="sub">The Burden.</head>
@@ -246,9 +247,9 @@
 			<p>The <org reg="United States Children's Bureau">Children's Bureau</org> was created
 				after the first White House Conference was called in 1912 by <person
 					reg="Roosevelt, Theodore">Theodore Roosevelt</person>. the Second Conference
-				called by <person reg="Wilson, Woodrow">Woodrow Wilson</person> in 1929 reviewed the same old problems,
-				and said that many things ought to be done about them; but birth control was not
-				mentioned. </p>
+				called by <person reg="Wilson, Woodrow">Woodrow Wilson</person> in 1929 reviewed the
+				same old problems, and said that many things ought to be done about them; but birth
+				control was not mentioned. </p>
 			<p>The Third Conference, called by Herbert Hoover in 1930, made the recommendation,
 				through a sub-committee on obstetric training, that medical students should be
 				taught the technique of contraception and medical indications therefore, but birth
@@ -269,12 +270,12 @@
 					child-bearing. In the past it seems clear that we have underestimated the size
 					and scope of the problem, for there were more than 60,000 babies who died 2
 					weeks after birth; there were 77,119 recorded still-births. In other words,
-					there occur in the country each year, more than 150,000 deaths--60% of which
-					are needlessly lost because of the mismanagement of the child-bearing
-					function.</q>" He went on, "<q who="PARTH">Approximately one million children
-					are born each year to families on relief or with an annual income of less than
-					$1,000.00. Here are found the highest death rates of mothers and infants; Here
-					the least, and the least good, medical care.</q>"</p>
+					there occur in the country each year, more than 150,000 deaths--60% of which are
+					needlessly lost because of the mismanagement of the child-bearing function.</q>"
+				He went on, "<q who="PARTH">Approximately one million children are born each year to
+					families on relief or with an annual income of less than $1,000.00. Here are
+					found the highest death rates of mothers and infants; Here the least, and the
+					least good, medical care.</q>"</p>
 			<p>Yet not a voice was raised to ask why this crime was permitted, why there mothers and
 				babies were sacrificed; why no one gave these families any advice on
 				contraception!</p>
@@ -362,11 +363,11 @@
 			<p>They then make recommendations. The nearest they dare get to birth control is to say
 				that "<q who="UNK">preconceptional and premarital care will help to safeguard the
 					mother from possible later disaster.</q>"</p>
-			<p>The usual recommendations of adequate pre-and <supplied resp="MSPP">postnatal</supplied> care; medical, dental and
-				nursing care during pregnancy, and labor; periodic examination by a pediatrical
-				hospitalization, etc., etc., were made. And then came the inevitable demand for
-				larger funds, under the <name type="law">Social Security Act</name>, to finance
-				these needs. </p>
+			<p>The usual recommendations of adequate pre-and <supplied resp="MSPP"
+					>postnatal</supplied> care; medical, dental and nursing care during pregnancy,
+				and labor; periodic examination by a pediatrical hospitalization, etc., etc., were
+				made. And then came the inevitable demand for larger funds, under the <name
+					type="law">Social Security Act</name>, to finance these needs. </p>
 			<p>Has it never occurred to our present charitable and relief agencies that they are
 				really not relieving our social problems, but are aggravating them? What have our
 				government agencies really done to conserve the best in human kind? In animal

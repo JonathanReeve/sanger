@@ -34,9 +34,10 @@
 	<headNote>
 		<p>This is the last article in an 12-part series. It was censored in Feb. 2 issue and in its
 			place the <title type="journal">New York Call</title> ran a blank page with the heading:
-			"What Every Girl Should Know; NOTHING By Order of the <org reg="United States Post Office">Post Office Department</org>. It was
-			instead published in the Mar. 2, 1913 issue. 
-			For Part I, "Introduction" see <xref from="304533.xml">Nov. 17, 1912</xref>, for Part II, "Girlhood, 1," see <xref
+			"What Every Girl Should Know; NOTHING By Order of the <org
+				reg="United States Post Office">Post Office Department</org>. It was instead
+			published in the Mar. 2, 1913 issue. For Part I, "Introduction" see <xref
+				from="304533.xml">Nov. 17, 1912</xref>, for Part II, "Girlhood, 1," see <xref
 				from="300177.xml">Nov. 24, 1912</xref>, for Part III, "Girlhood, 2" see <xref
 				from="303438.xml">Dec. 1, 1912</xref>, for Part IV, "Puberty, 1" see <xref
 				from="304920.xml">Dec. 8, 1912</xref>, for Part V,"Puberty 2" see <xref
@@ -160,7 +161,7 @@
 				became fathers of healthy, good-looking children.</q>" The question, then, to
 			receive some attention is what means are valuable for the treatment of both syphilis and
 			gonorrhea. </p>
-		<p><person reg="Morrow, Prince A>">Dr. Prince A. Morrow</person> says: "<q who="MORPR"
+		<p><person reg="Morrow, Prince A.">Dr. Prince A. Morrow</person> says: "<q who="MORPR"
 				>Prompt curative treatment is not only in the interests of the patients themselves,
 				but especially in the interests of the others they might infect. But everywhere we
 				are confronted with this situation: There are no special hospitals for this class of

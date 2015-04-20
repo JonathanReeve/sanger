@@ -24,8 +24,9 @@
 			<name id="AMA">American Medical Association</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave this speech in <place reg="Honolulu, HI">Honolulu</place>,
-			on a stop en route to <place>Japan</place> and China. </p>
+	<headNote resp="MSPP">
+		<p>Sanger gave this speech in <place reg="Honolulu, HI">Honolulu</place>, on a stop en route
+			to <place>Japan</place> and China. </p>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
@@ -43,7 +44,9 @@
 		<index level1="United States" level2="government" level3="public health programs"/>
 	</headNote>
 	<docBody>
-		<head><add>Press Honolulu</add></head>
+		<head>
+			<add>Press Honolulu</add>
+		</head>
 		<dateline>Aug 6/37</dateline>
 		<p>With keen reluctance, I am leaving your hospitable <place reg="Hawaii">Islands</place>
 			where I have received so cordial a welcome. But my promise to several of the
@@ -63,7 +66,7 @@
 			to physicians and it has served as a center of information so that today a large number
 			of local as well as plantation physicians throughout the Territory are well qualified to
 			give the advice and treatment so earnestly sought after by the majority of conscientious
-			mothers. Dr. <person reg="Larsen, Nils Paul, Dr.">N. P. Larsen</person>, as medical
+			mothers. Dr. <person reg="Larsen, Nils Paul">N. P. Larsen</person>, as medical
 			consultant to the <org>Hawaiian Sugar Planters’ Association</org>, has done much to
 			stimulate the interest of plantation physicians, so that now Hawaii as a whole is
 			probably better prepared to receive modern scientific service in this field than <gap
