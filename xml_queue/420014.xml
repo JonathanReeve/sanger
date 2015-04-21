@@ -8,6 +8,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-11 CH clean up errors</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-21 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-05-00">May 1914</docDate>
 		<docTitle>
@@ -15,19 +16,20 @@
 		</docTitle>
 		<idno>msp420014</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 3, May 1914, 17</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, May 1914, p. 17</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:531</bibl>
+				C16:0531</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp><name id="SPA">Spanish</name></resp>
 		</respStmt>
 	</mepHeader>
-	<headNote>
+	<headNote
+		><index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="capitalism"/>
-		<index level1="Mexico" level2="descriptions of"/>
-		<index level1="working classes" level2="revolution and"/>
-		<index level1="socialism"/>
+		<index level1="Mexico"/>
+		<index level1="working classes" level2="and revolution"/>
+		<index level1="socialism and socialists"/>
 	</headNote>
 	<docBody>
 		<head>BLOOD AND OIL</head>

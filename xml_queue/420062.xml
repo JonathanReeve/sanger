@@ -7,19 +7,20 @@
 		<prepDate>2004/07/07 CH</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-04-21 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-05-00">May 1914</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Short Pieces from page 19 of the May 1914 The Woman
-					Rebel</supplied>
+				<supplied resp="MSPP">Short Pieces the May 1914 issue of <title type="journal">The Woman
+					Rebel</title></supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp420062</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 3, May 1914, 19</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, May 1914, pp. 19 and 24</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
-				C16:533</bibl>
+				C16:0533 and 0538</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,7 +29,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="women" level2="freedom and rights of"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
 		<index level1="labor movement"/>
 	</headNote>
 	<docBody>
@@ -97,6 +99,10 @@
 				and ridiculous.</p>
 			<p>Threats and bluffs are useless. They weaken the individual and the movement the
 				individual represents.</p>
+		</div>
+		<div type="section">
+				<head>A WOMAN'S DUTY</head>
+				<p><emph rend="bold">TO DESIRE THE BEST AND EXPERIENCE ITS FULFILMENT</emph>.</p>
 		</div>
 	</docBody>
 </doc>

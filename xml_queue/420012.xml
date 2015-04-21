@@ -9,6 +9,7 @@
 		<prepDate>2011-03-11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014/03/13 EK clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-04-21 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-05-00">May 1914</docDate>
 		<docTitle>
@@ -16,8 +17,8 @@
 		</docTitle>
 		<idno>msp420012</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Woman Rebel, The</title>, Vol. 1, No. 3, May 1914, 22</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:536</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, May 1914, p. 22</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0536</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,10 +26,11 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="women" level2="freedom and rights of"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
 		<index level1="sex and sexuality" level2="MS on"/>
-	</headNote>
+		</headNote>
 	<docBody>
 		<head>MOTHERHOOD--OR DESTRUCTION</head>
 		<p>"<q who="WEBJC">The attainment of high intellectual culture in the academies, normal
