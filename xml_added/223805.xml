@@ -7,8 +7,9 @@
 		<prepDate>2009/07/21 LL correct tags</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-03-13 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-02-00">Feb 1931</docDate>
 		<docTitle>
 			<titlePart>Comments on the Pope's Encyclical</titlePart>
@@ -23,8 +24,8 @@
 		</sourceDesc>
 		<respStmt>
 			<name id="Bible">Bible</name>
-			<name id="AUG">Augustine</name>
-			<name id="PIU">Pius XI, Pope</name>
+			<name id="AUG">Augustine (St.)</name>
+			<name id="PIU">Pius XI (Pope)</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -38,7 +39,7 @@
 			<emph rend="italics"> Chairman, <org>National Committee on Federal
 					Legislation for Birth Control</org></emph>
 		</byline>
-		<p> Evidently the <person reg="Pope Pius XI">Pope</person> believes in
+		<p> Evidently the <person reg="Pius XI (Pope)">Pope</person> believes in
 			birth control, although he countenances only one method, namely,
 			continence. Physicians agree, however, that it is unwise to attempt
 			the general application of any single method. Fortunately the Pope
@@ -51,7 +52,7 @@
 		<p>I agree with the Pope’s statements that “<q who="PIU">the cultivating
 				of mutual love, and the quieting of concupiscence</q>,” as well
 			as procreation, are purposes of marriage, and I applaud his
-			quotation from <person reg="Augustine, St.">St. Augustine</person>
+			quotation from <person reg="Augustine (St.)">St. Augustine</person>
 			saying that “<q who="AUG">children should be begotten of love</q>,”
 			but I question the traditional theory that procreation is the
 			primary purpose of sexual union. Reproduction may, indeed, be the

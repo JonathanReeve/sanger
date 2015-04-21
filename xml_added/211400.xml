@@ -7,7 +7,9 @@
 		<prepDate>2004/07/27 CH</prepDate>
 		<prepDate>2004/08/09 CH</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1920-01-00">Jan 1920</docDate>
 		<docTitle>
 			<titlePart>A Birth Strike to Avert World Famine</titlePart>
@@ -15,7 +17,8 @@
 		<idno>msp211400</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title> Jan. 1920, p. 3</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:831</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:831</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -28,10 +31,9 @@
 	</headNote>
 	<docBody>
 		<head>A Birth Strike To Avert World Famine</head>
-		<byline rend="italics">An Editorial by Margaret
-				Sanger</byline>
+		<byline rend="italics">An Editorial by Margaret Sanger</byline>
 		<p>Every reader of <title>THE BIRTH CONTROL REVIEW</title> should study carefully the
-			interview with Mr.<person reg="Marten, R. C.">R. C. Martens</person>, one of the world's
+			interview with Mr.<person reg="Martens, R. C.">R. C. Martens</person>, one of the world's
 			foremost authorities on food supplies, which is published in this number. Then every
 			reader should call that interview to the attention of one or more friends.</p>
 		<p>As long ago as last July, the editors of this publication drew public attention to the

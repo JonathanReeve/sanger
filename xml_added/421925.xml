@@ -7,8 +7,12 @@
 		<prepDate>2014/03/20 CH proof tags</prepDate>
 		<prepDate>2014/03/26 VS correct tags</prepDate>
 		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docAuthor><person reg="Palmer, Gretta">Gretta Palmer</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docAuthor>
+			<person reg="Palmer, Gretta">Gretta Palmer</person>
+		</docAuthor>
 		<docDate value="1938-12-00">Dec 1938</docDate>
 		<docTitle>
 			<titlePart>Margaret Sanger: Crusader</titlePart>
@@ -42,7 +46,8 @@
 		<head>Margaret Sanger: Crusader</head>
 		<div type="section">
 
-			<p><q who="PALGR">Margaret Sanger is a small wisp of a woman on the platform, but her
+			<p>
+				<q who="PALGR">Margaret Sanger is a small wisp of a woman on the platform, but her
 					energies, her sympathy, and her red-headed persistence are of heroic size. She
 					is a fighter--a zealot--a fanatic, no doubt of that; yet her armory of weapons
 					includes such blarney as was unknown to the grimmer women crusaders of our own
@@ -50,13 +55,15 @@
 						<person reg="Pankhurst, Emmeline">Emmeline Pankhurst</person> every got as
 					much fun out of the movement these solemn ladies promoted as the slight
 					Irishwoman whose life has been dedicated to the somewhat indelicate subject of
-					birth control.</q></p>
+					birth control.</q>
+			</p>
 
 
 			<p>
 				<q who="PALGR">How did she ever come about? What power took this stonecutter’s
 					daughter from upstate <place>New York</place> and turned her into a force
-					agitating the public of her time?</q></p>
+					agitating the public of her time?</q>
+			</p>
 
 			<p> “Glands,” <q who="PALGR">answers Mrs. Sanger tersely.</q></p>
 			<p>
@@ -69,12 +76,16 @@
 					may become fanatically fine housekeepers and mothers or they may take a job or
 					they may attach themselves to a Cause. Margaret Sanger chose a Cause.</q></p>
 
-			<p><q who="PALGR"> And what a cause! It seemed not only forlorn, in the ‘teens of this
+			<p>
+				<q who="PALGR"> And what a cause! It seemed not only forlorn, in the ‘teens of this
 					century, but so scandalous a choice that its mere mention was not “nice.” It led
-					inevitably to abuse, ostracism, raids, and jail sentences.</q></p>
+					inevitably to abuse, ostracism, raids, and jail sentences.</q>
+			</p>
 
 
-			<p><q who="PALGR"> “What kept you going?” I asked her.</q></p>
+			<p>
+				<q who="PALGR"> “What kept you going?” I asked her.</q>
+			</p>
 
 			<p> “To stop, when I had once begun, would have been as impossible as to stop the sun,”
 					<q who="PALGR">she said.</q> “I just kept on, from interest and the knowledge
@@ -87,7 +98,8 @@
 					against theirs. The morality of the churches and of society opposed her: but she
 					never faltered. Her closest affections were endangered by the struggle--she
 					still was not held back. She had no money with which to prosecute what was sure
-					to be an expensive, long-drawn-out campaign. What of that?</q></p>
+					to be an expensive, long-drawn-out campaign. What of that?</q>
+			</p>
 
 			<p> “I don’t really know how most of my ventures in this work were ever financed,” <q
 					who="PALGR">said Mrs. Sanger, vaguely.</q> “I do things first and somehow or
@@ -96,14 +108,16 @@
 				and did it, and inevitably, without fail, the money came to pay for it.”</p>
 		</div>
 		<div type="section">
-			<p><q who="PALGR">Single-mindedness is, I suppose, the strongest weapon any human being
+			<p>
+				<q who="PALGR">Single-mindedness is, I suppose, the strongest weapon any human being
 					can have. The true fanatic is never deterred from his purpose, nor drawn into
 					other movements. Margaret Sanger might have found congenial companions in the
 					fight for woman’s rights or in the movement towards easier childbirth. Both of
 					these causes were close to her own, and if she had attached herself to them she
 					need not have set out on so solitary a path. But hers was a definitely-marked
 					crusade: one which, if necessary, she would wage without followers or disciples.
-					But she must proceed with it-–no turning back was ever possible.</q></p>
+					But she must proceed with it-–no turning back was ever possible.</q>
+			</p>
 
 			<p> “I never had a moment’s discouragement,” <q who="PALGR">said Mrs. Sanger,
 					brightly.</q> “I knew that the great majority who opposed me were wrong.
@@ -133,25 +147,29 @@
 					men and women.</q> “The times,” <q who="PALGR">she said firmly,</q> “are wrong.
 				And I am right.”</p>
 
-			<p><q who="PALGR"> Her achievements, over a period of twenty-five years, have been
+			<p>
+				<q who="PALGR"> Her achievements, over a period of twenty-five years, have been
 					astounding. The talents and abilities which she lacked at the start were easily
 					acquired; with that terrible drive behind her, Mrs. Sanger soon learned enough
 					of medicine to argue the case with physicians, enough of public speaking to
 					address large audiences. She taught herself to write, and to lobby, to raise
 					funds and to parry questions of law with experts in the field. Given enough
 					single-minded intensity of purpose, all the other needed abilities may be added,
-					as required.</q></p>
+					as required.</q>
+			</p>
 
 		</div>
 		<div>
 
-			<p><q who="PALGR">The story of her beginnings has been told often: of how her nursing in
-					the slums convinced her of the desperate need among the poor for some method of
-					preventing untimely births; of her European study-trip, in which she learned
+			<p>
+				<q who="PALGR">The story of her beginnings has been told often: of how her nursing
+					in the slums convinced her of the desperate need among the poor for some method
+					of preventing untimely births; of her European study-trip, in which she learned
 					that such a method was common enough in <place>France</place>; and of her return
 					to <place reg="United States">America</place> to discuss family limitation in
 						<title type="journal">The Woman Rebel</title>--which immediately brought the
-					first dramatic period of raids and jail sentences.</q></p>
+					first dramatic period of raids and jail sentences.</q>
+			</p>
 
 
 			<p>
@@ -162,7 +180,8 @@
 					law. It was then that the <title type="journal">Birth Control Review</title>
 					began its stormy publication career, and that the use of <org>Town Hall</org>
 					was denied her by <org reg="New York City Police Department"><place
-							reg="New York, NY">New York</place> police</org> officers.</q></p>
+							reg="New York, NY">New York</place> police</org> officers.</q>
+			</p>
 
 			<p>
 				<q who="PALGR">The radicals began to jump on the bandwagon, when they saw that birth
@@ -194,11 +213,14 @@
 					Sanger are more informative as human achievements than the biographies of
 					railroad presidents; the obstacles in her path were far greater than theirs, but
 					she had far greater faith than they in her ability to deal with them. And so she
-					won.</q></p>
+					won.</q>
+			</p>
 
 
-			<p><q who="PALGR">Mrs. Sanger never asked for advice. She never consulted her old
-					friends, and she refrained from making new ones.</q></p>
+			<p>
+				<q who="PALGR">Mrs. Sanger never asked for advice. She never consulted her old
+					friends, and she refrained from making new ones.</q>
+			</p>
 
 			<p> “When my friends deserted me and became cold, I felt a curious sense of release,” <q
 					who="PALGR">she says.</q> “For until they freed me, I was afraid that my actions
@@ -224,13 +246,16 @@
 					1928, had become a respectable “charity.” Many of the women who were officers of
 					the <org>American Birth Control League</org> felt that the fight for federal
 					legislation was undesirable--that education in the states and the opening of
-					clinics, where state laws allowed, were the more important tasks.</q></p>
+					clinics, where state laws allowed, were the more important tasks.</q>
+			</p>
 
 		</div>
 		<div type="section">
-			<p><q who="PALGR">Mrs. Sanger was militant still, and her own group, the <org>National
+			<p>
+				<q who="PALGR">Mrs. Sanger was militant still, and her own group, the <org>National
 						Committee on Federal Legislation for Birth Control</org> came into
-					being.</q></p>
+					being.</q>
+			</p>
 			<p> “To me,” <q who="PALGR">Mrs. Sanger has said,</q> “this cause was a living
 				inspiration and interest. It was not a hobby. It was no mere filler in a busy social
 				life. Its interest came first in my waking consciousness and was my last thought at
@@ -246,7 +271,8 @@
 					physicians to impart birth control information in states where the local laws do
 					not prohibit it. No federal law is now needed, according to the leaders in the
 					movement. It seems quite likely that the two groups will soon co-ordinate their
-					work.</q></p>
+					work.</q>
+			</p>
 
 			<p>
 				<q who="PALGR">Mrs. Sanger’s present work is concentrated on <place
@@ -261,12 +287,14 @@
 		</div>
 		<div type="section">
 
-			<p><q who="PALGR">Opposition to the movement has grown more limited and it has decreased
-					in ferocity. At first, all respectable society disapproved. Nowadays, the
-					stronghold of the opposition is the <org>Roman Catholic Church</org>. Other
+			<p>
+				<q who="PALGR">Opposition to the movement has grown more limited and it has
+					decreased in ferocity. At first, all respectable society disapproved. Nowadays,
+					the stronghold of the opposition is the <org>Roman Catholic Church</org>. Other
 					religious bodies have broadened their attitude toward birth control, but the
 					Papal Encyclical on the subject forbids the use if contraception by the
-					devout.</q></p>
+					devout.</q>
+			</p>
 
 			<p>
 				<q who="PALGR">Such opposition, however, is normal to Mrs. Sanger. She has seen so
@@ -292,11 +320,13 @@
 						<place>England</place> and the <place reg="Scandinavia">Scandinavian
 						countries</place>, which have led the world. Mrs. Sanger must be aware of
 					the fact that she has accomplished a very great deal by her single-hearted
-					determination, no matter how high the cost to her personal life.</q></p>
+					determination, no matter how high the cost to her personal life.</q>
+			</p>
 
 
 			<p>
-				<q who="PALGR">Was it worth while?</q></p>
+				<q who="PALGR">Was it worth while?</q>
+			</p>
 
 			<p> “For me, yes,” <q who="PALGR">she says.</q> “My life so far has been extremely
 				satisfactory. I could never have felt satisfied or complete if it had been limited

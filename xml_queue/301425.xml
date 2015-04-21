@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2011/06/24 RT initial tag</prepDate>
 		<prepDate>2015-03-27 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1937-02-00">Feb 1937</docDate>
 		<docTitle>
 			<titlePart>
@@ -28,19 +30,19 @@
 		<index level1="birth control" level2="movement" level3="goals and strategies"/>
 	</headNote>
 	<docBody>
-		<p>Now that Attorney General <person reg="Cummings, Homer S.">Homer S. Cummings</person> has
-			announced that the <org reg="United States Government">Government</org> will rest its
-			case and not carry it to the <org reg="United States Supreme Court">U.S. Supreme
+		<p>Now that Attorney General <person reg="Cummings, Homer Stille">Homer S. Cummings</person>
+			has announced that the <org reg="United States Government">Government</org> will rest
+			its case and not carry it to the <org reg="United States Supreme Court">U.S. Supreme
 				Court</org>, the decision of the <org reg="United States Circuit Court of Appeals"
 				>U.S. Circuit Court of Appeals</org> becomes, in effect, the law of the land. We are
-			deeply grateful to Mr. <person reg="Ernst, Morris L.">Morris L. Ernst</person> for his
-			gallant and successful fight, to Judge <person reg="Moscowitz, Grover M.">Grover M.
+			deeply grateful to Mr. <person reg="Ernst, Morris Leopold">Morris L. Ernst</person> for
+			his gallant and successful fight, to Judge <person reg="Moscowitz, Grover M.">Grover M.
 				Moscowitz</person> of the lower Court for his wise stand and to Judges <person
-				reg="Hand, Learned S.">Learned S. Hand</person>, <person reg="Swan, Thomas W."
-				>Thomas W. Swan</person> and <person reg="Hand, Augustus N.">Augustus N.
-				Hand</person> of the Circuit Court for unanimously upholding his far-sighted
-			decision. There is no further question as to the rights of the medical profession in
-			regard to contraception. The birth control movement is free.</p>
+				reg="Hand, Learned">Learned S. Hand</person>, <person reg="Swan, Thomas Walter">Thomas
+				W. Swan</person> and <person reg="Hand, Augustus Noble">Augustus N. Hand</person> of
+			the Circuit Court for unanimously upholding his far-sighted decision. There is no
+			further question as to the rights of the medical profession in regard to contraception.
+			The birth control movement is free.</p>
 		<p>What lies ahead? I call upon every one of you, who have so loyally supported the <org
 				reg="National Committee on Federal Legislation for Birth Control">National
 				Committee</org>’s work, to push steadily forward with double energy. For a

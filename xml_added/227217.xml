@@ -24,13 +24,14 @@
 			<name id="CONHA">Content, Harold A.</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This document was released jointly by the <org>Planned Parenthood
-				Federation of America</org> and the <org>Planned Parenthood Association, Chicago
-				Area</org>. For comments Sanger made earlier that day, see <xref from="421930.xml"
-				>Drake Hotel Interview Comments</xref>, Feb. 1, 1950. This speech is a revised
-			version of <xref from="238871.xml">Survey of the Birth Control Movement</xref>, which
-			she delivered at the International Congress on Population and World Resources in
-			Relation to Family, August 24, 1948.</p>
+	<headNote resp="MSPP">
+		<p>This document was released jointly by the <org>Planned Parenthood Federation of
+				America</org> and the <org>Planned Parenthood Association, Chicago Area</org>. For
+			comments Sanger made earlier that day, see <xref from="421930.xml">Drake Hotel Interview
+				Comments</xref>, Feb. 1, 1950. This speech is a revised version of <xref
+				from="238871.xml">Survey of the Birth Control Movement</xref>, which she delivered
+			at the International Congress on Population and World Resources in Relation to Family,
+			August 24, 1948.</p>
 		<index level1="birth control movement" level2="history of"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control laws and legislation" level2="Comstock Act"/>
@@ -43,10 +44,12 @@
 	<docBody>
 		<head rend="underline">PIONEERS OF PROGRESS</head>
 		<byline>An Address Delivered by Margaret Sanger</byline>
-		<p rend="blockquote"><q who="PPFA">At the Pioneers Luncheon Given by the Planned Parenthood
-				Association of Chicago Area at the <org>Palmer House</org>, <place reg="Chicago, IL"
+		<p rend="blockquote">
+			<q who="PPFA">At the Pioneers Luncheon Given by the Planned Parenthood Association of
+				Chicago Area at the <org>Palmer House</org>, <place reg="Chicago, IL"
 					>Chicago</place>, 1:30 P.M., Feb. 1,. 1950, as the Opening Event of the 1950
-				Nationwide Planned Parenthood Campaign.</q></p>
+				Nationwide Planned Parenthood Campaign.</q>
+		</p>
 		<p>It is only by looking back over the years that we can see how far our movement has come.
 			It is only by contrasting the little band of pioneers represented by so many of my old
 			friends here with the host of younger supporters that we can measure the acceptance
@@ -106,7 +109,7 @@
 			prevented from going through the U.S. mails if those words were included in any part of
 			them.</p>
 		<p>It was a serious matter; it was not just a question of threats. He sent people to jail.
-			An <person reg="Harmon, Moses">editor 70 years old</person> was sent to the penitentiary
+			An <person reg="Harman, Moses">editor 70 years old</person> was sent to the penitentiary
 			and put to hard labour, breaking rocks; his crime was editing a magazine called the
 				<title type="journal">Eugenics Review</title>. In the end the public indignation was
 			aroused by the arrest of a dealer who had up in his window a beautiful picture of a
@@ -114,17 +117,17 @@
 			a stream. It was so beautiful that crows gathered round the window to look at it, and
 			the Comstock agent arrested them and the bookseller. This aroused the wrath of some of
 			the friends of freedom, and it was not so easy for him to arrest people after that.</p>
-		<p>This was the situation when, as someone said, “<q who="UNK">Margaret Sanger came upon the scene with three
-				children in her arms and a wild look in her eye.</q>” I had the children, and I had
-			the wild look too, because I had been working among women--poor, depressed, forgotten
-			women--whose whole lives were lives of misery, who were asking people what they could do
-			so as to not have another baby, because they had more children than they could take care
-			of, and perhaps their husbands were out of work, yet more and more children came. Some
-			mothers who had had large families were asking what to do to save their daughters from
-			the hardships and the life of drudgery that they had experienced. Everywhere I went I
-			found people with this problem. I myself, with three children and with a long period of
-			tuberculosis, knew that this was a very important matter, and the question was just what
-			to tell them, what to say.</p>
+		<p>This was the situation when, as someone said, “<q who="UNK">Margaret Sanger came upon the
+				scene with three children in her arms and a wild look in her eye.</q>” I had the
+			children, and I had the wild look too, because I had been working among women--poor,
+			depressed, forgotten women--whose whole lives were lives of misery, who were asking
+			people what they could do so as to not have another baby, because they had more children
+			than they could take care of, and perhaps their husbands were out of work, yet more and
+			more children came. Some mothers who had had large families were asking what to do to
+			save their daughters from the hardships and the life of drudgery that they had
+			experienced. Everywhere I went I found people with this problem. I myself, with three
+			children and with a long period of tuberculosis, knew that this was a very important
+			matter, and the question was just what to tell them, what to say.</p>
 		<p>I was perfectly willing to tell them what to do, but what was I to tell them? There was
 			nothing in the public libraries, and even in the medical libraries in New York all that
 			I could find on the subject was a book by a <person reg="Unidentified">German
@@ -206,11 +209,11 @@
 			as these is a woman in the world that needs this information, I am afraid that I shall
 			have to give it to her.”</p>
 		<p>There was also an influential letter--and I would here pay tribute to <person
-				reg="Stopes, Marie">Marie Stopes</person>, who initiated it--with distinguished
+				reg="Stopes, Marie C.">Marie Stopes</person>, who initiated it--with distinguished
 			names from England, signed by the <person reg="Barnes, Ernest W.">Bishop of
-				Birmingham</person> and ten or twelve others, including H. G. Wells, whose name meant
-			a great deal in America. That was sent to the <person reg="Wilson, Woodrow">President of
-				the United States</person>, and the case was dropped. </p>
+				Birmingham</person> and ten or twelve others, including H. G. Wells, whose name
+			meant a great deal in America. That was sent to the <person reg="Wilson, Woodrow"
+				>President of the United States</person>, and the case was dropped. </p>
 		<p>That, however, did not affect the Comstock law. It affected me; it freed me to go to the
 			country and speak, but the law was still there. Comstock died, but the torch was handed
 			on to others, and the law was still in operation, though not quite so viciously as
@@ -246,22 +249,22 @@
 			audience I felt that it was really their story. It really reached the people. We became
 			the articulate spokesman for the women of America.</p>
 		<p>To my great delight, I was invited to go to <place>Japan</place> and to talk there at a
-			sort of round table meeting with some very distinguished people. <person reg="Einstein"
-				>Einstein</person> was to speak on relativity, <person reg="Russell, Bertrand"
-				>Bertrand Russell</person> was to speak on something or other that I have forgotten;
-			I was to speak on population and peace, and H.G. Wells was to speak on reconstruction.
-			When the time came, I was refused a visa by the Imperial <org>Japanese Government</org>
-			and was stopped in <place>California</place>. On the boat which I was to have taken
-			there were 125 very important Japanese coming from the <org>Washington Disarmament
-				Conference</org>, including admirals and high officials in the Japanese Government.
-			I felt that if only I could talk to them and convince them, Japan would not be going to
-			war in a short time; because everyone knew that Japan would have to have war if she kept
-			on increasing her population as she was increasing it, with a population half the size
-			of that of the United States and an area not as large as California. All the doors of
-			the world were closed against the Japanese, and they had no place to go except
-				<place>South America</place>. <place>Australia</place>, <place>Canada</place> and
-			the United States would not have them, and Europe was not taking very many of them; it
-			did not have room.</p>
+			sort of round table meeting with some very distinguished people. <person
+				reg="Einstein, Albert">Einstein</person> was to speak on relativity, <person
+				reg="Russell, Bertrand">Bertrand Russell</person> was to speak on something or other
+			that I have forgotten; I was to speak on population and peace, and H.G. Wells was to
+			speak on reconstruction. When the time came, I was refused a visa by the Imperial
+				<org>Japanese Government</org> and was stopped in <place>California</place>. On the
+			boat which I was to have taken there were 125 very important Japanese coming from the
+				<org>Washington Disarmament Conference</org>, including admirals and high officials
+			in the Japanese Government. I felt that if only I could talk to them and convince them,
+			Japan would not be going to war in a short time; because everyone knew that Japan would
+			have to have war if she kept on increasing her population as she was increasing it, with
+			a population half the size of that of the United States and an area not as large as
+			California. All the doors of the world were closed against the Japanese, and they had no
+			place to go except <place>South America</place>. <place>Australia</place>,
+				<place>Canada</place> and the United States would not have them, and Europe was not
+			taking very many of them; it did not have room.</p>
 		<p>There then, was this terrific problem, and to my surprise, Japan did not want to hear it
 			talked about. Some bright newspaperman, however, gave me the idea of going to
 				<place>China</place> on the boat, and that was what I did; I got a visa for China,

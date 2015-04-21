@@ -7,11 +7,14 @@
 		<prepDate>2011/06/10 RT corrections</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-27 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1937-03-30">30 Mar 1937</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">The Real Meaning of Birth
-				Control</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">The Real Meaning of Birth Control</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236044</idno>
 		<sourceDesc>
@@ -99,7 +102,7 @@
 			government for their subsistence. Shall we withhold from them knowledge which is needed
 			if they are ever to regain a foot hold in life? <add>Is it fair? I think you will agree
 				with me that it is not.</add></p>
-		<p><person reg="Roosevelt, Franklin D.">President Roosevelt</person> in one of his recent
+		<p><person reg="Roosevelt, Franklin Delano">President Roosevelt</person> in one of his recent
 			fireside talks said that one-third of the people of <place reg="United States"
 				>America</place> are ill housed, ill clothed and ill nourished. I venture to state
 			that <del>one</del><add>two</add> thirds of America’s mothers are living in fear and
@@ -169,11 +172,11 @@
 				or carriage by mail of things which might intelligently be employed by conscientious
 				and competent physicians for the purpose of saving life or promoting the well being
 				of their patients.</q>”</p>
-		<p>Birth control is now legal. The <org reg="United States Government">United States government</org> decided not to carry
-			the case to the <org reg="United States Supreme Court">Supreme Court</org>, and thus,
-			the decision I have just read in part, becomes, in effect, the law of the land. I urge
-			you who are listening to me to read about this case and to get the full meaning of the
-			judges decision.</p>
+		<p>Birth control is now legal. The <org reg="United States Government">United States
+				government</org> decided not to carry the case to the <org
+				reg="United States Supreme Court">Supreme Court</org>, and thus, the decision I have
+			just read in part, becomes, in effect, the law of the land. I urge you who are listening
+			to me to read about this case and to get the full meaning of the judges decision.</p>
 		<p>It opens the way to a new and wider program for birth control. It means that mothers such
 			as those who wrote to me pleading for help can <add>now</add> get it as their right and
 			their due.</p>

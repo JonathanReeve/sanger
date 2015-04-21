@@ -8,7 +8,9 @@
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-07-00">Jul 1928</docDate>
 		<docTitle>
 			<titlePart>
@@ -132,7 +134,7 @@
 				minds had “picked up” a distant station, and from it had received a deep and
 				beneficent message of human salvation. Those who have had this experience can never
 				look upon Havelock Ellis as a mere mortal. Through him, as through <person
-					reg="Francis of Assisi, St.">Saint Francis</person>, is irradiated the wisdom of
+					reg="Francis of Assisi (St.)">Saint Francis</person>, is irradiated the wisdom of
 				divinity.</p>
 			<p>Houston Peterson will undoubtedly laugh at this “pseudo-mysticism.” But those of us
 				who find in Ellis a god can never be quite satisfied with a realistic portrait,

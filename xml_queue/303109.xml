@@ -5,7 +5,9 @@
 		<prepDate>2009/07/08 LL</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-03-17 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-06-00 ">Jun 1931</docDate>
 		<docTitle>
 			<titlePart>The Progress of the Birth Control Movement</titlePart>
@@ -133,7 +135,7 @@
 			guilds. The following year two clinics opened, and the movement has grown by leaps and
 			bounds on the foundation laid by such pioneers as <person reg="Besant, Annie">Annie
 				Besant</person> and <person reg="Bradlaugh, Charles">Charles Bradlaugh</person>, the
-				<person reg="Drysdale, Charles Vichery"><person reg="Drysdale, Bessie Ingham"
+				<person reg="Drysdale, Charles Vickery"><person reg="Drysdale, Bessie Ingham"
 					>Drysdale</person></person> family, and Dr. <person reg="Vickery, Alice">Alice
 				Vickery</person>. Today there are about twenty-five clinics and the <org
 				reg="United Kingdom Ministry of Health">Ministry of Health</org> allows the giving
@@ -182,7 +184,7 @@
 				>Federal Committee on Legislation for Birth Control</org>, believing that the time
 			had come to prepare for a vigorous campaign on <org reg="United States Congress"
 				>Congress</org>. Our "doctors’ bill" was introduced in the last session of the
-			Senate by Senator <person reg="Gillett, Frederick">Gillett</person>, and a most
+			Senate by Senator <person reg="Gillett, Frederick Huntington">Gillett</person>, and a most
 			favorable impression was made at the committee hearing. The bill will be re-introduced,
 			we hope, at the next session. This amendment would open up the mails to doctors for the
 			transportation of contraceptive literature and materials.</p>
@@ -191,13 +193,12 @@
 			matter like this is entrenched in law, only an avalanche of public opinion can free it.
 			Negligence, reticence, or mere lack of social consciousness prevents people from
 			speaking out. For many the old taboo of silence and secrecy still prevails and it seems
-			indelicate to lift up one’s voice--yes, even though on that depends the relief of
-			untold misery and the greatest step forward for freedom and growth that woman has ever
-			taken. If every mother who in her own life has reaped the benefit of this knowledge
-			would do her bit to distribute it to the masses, how it would speed the victory! If
-			every man and woman who believes in birth control would become articulate to the extent
-			of appealing to a senator or representative, how overwhelming and immediate the victory
-			would be!</p>
+			indelicate to lift up one’s voice--yes, even though on that depends the relief of untold
+			misery and the greatest step forward for freedom and growth that woman has ever taken.
+			If every mother who in her own life has reaped the benefit of this knowledge would do
+			her bit to distribute it to the masses, how it would speed the victory! If every man and
+			woman who believes in birth control would become articulate to the extent of appealing
+			to a senator or representative, how overwhelming and immediate the victory would be!</p>
 		<p>Then indeed my vision of a future, when motherhood will be really free, would seem on its
 			way to fulfillment. For the time will come when the bearing of children, no longer an
 			enforced burden, no longer haphazard and accidental, need only be undertaken as a

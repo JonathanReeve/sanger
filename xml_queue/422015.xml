@@ -25,7 +25,7 @@
 			<name id="BT">Bridgeport Telegram</name>
 			<name id="BELJ">Bell, J. Mortimer</name>
 			<name id="DAREL">Darbie, Elbert L.</name>
-			<name id="MURJO">Murray, John G. (Bishop)</name>
+			<name id="MURJO">Murray, John Gregory</name>
 			<name id="ELLAR">Ells, Arthur</name>
 			<name id="BUTEL">Butler, Ellen A.</name>
 		</respStmt>
@@ -39,13 +39,14 @@
 	</headNote>
 	<docBody>
 		<head>MARGARET SANGER PLEADS FOR BILL BEFORE COMMITTEE</head>
-		
+
 		<div type="section">
 			<dateline><place reg="Hartford, CT">Hartford</place>,<date value="1923-02-13"/>Feb.
 				13.</dateline>
-			
-			<p><q who="BT">The question as to whether or not <place>Connecticut</place> shall legalize the
-					practice of birth control provoked, at a hearing before the <org
+
+			<p>
+				<q who="BT">The question as to whether or not <place>Connecticut</place> shall
+					legalize the practice of birth control provoked, at a hearing before the <org
 						reg="Connecicut State Assembly, Judiciary Committee">Judiciary committee of
 						the general assembly</org> this afternoon, the keenest and most absorbing
 					debate and rough and tumble controversy that the present session has seen in
@@ -53,13 +54,14 @@
 					brought to the old <org reg="Connecticut State Senate">Senate</org> chamber,
 					where the Judiciary committee holds its sessions, a crowd estimated at 300
 					persons, which packed the seats on the floors, the galleries, and the interior
-					window spaces. Most of those present were women.</q></p>
-			
+					window spaces. Most of those present were women.</q>
+			</p>
+
 			<p>
 				<q who="BT">A discussion by Mrs. Margaret Sanger, introduced as "the champion for
 					birth control in the <place>United States</place>," on the one hand, and Bishop
-						<person reg="Murray, John G.">John G. Murray</person>, chancellor
-					of the <org reg="Catholic Diocese of Connecticut">Catholic diocese of
+						<person reg="Murray, John Gregory">John G. Murray</person>, chancellor of the
+						<org reg="Catholic Diocese of Connecticut">Catholic diocese of
 						Connecticut</org>, sometimes referred to among scholars as "the pride of
 						<org reg="Universit&eacute; Catholique de Louvain">Louvian
 					University</org>," on the opposition, developed substantial arguments, which

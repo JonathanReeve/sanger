@@ -13,7 +13,9 @@
 		</docAuthor>
 		<docDate value="1993-02-26">26 Feb 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with Gardner Bradford</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with Gardner Bradford</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp420078</idno>
 		<sourceDesc>
@@ -105,17 +107,19 @@
 		</div>
 		<div type="section">
 			<head type="sub"> No More Child Beating</head>
-			<list><item> “Seventh--Treatment of children is important. Many parents prove they are unfit to
-				have them. Parents who beat their children ‘because they have the right to’ would
-				not be allowed to have any more.</item>
-			<item> “Eighth--Certificates for parenthood issued with the marriage license, would be
-				compulsory. To obtain them both man and woman would undergo physical, mental and
-				moral tests; family medical and mental history would be recorded and financial
-				ability to rear children. There would be a black list and a white one. Those on the
-				white list, bearing no children, would be privileged to adopt some. No child should
-				be in an institution.</item>
-			<item> “Ninth--And then I would resign, for I believe in a co-operative education, not
-				dictatorship!”</item></list>
+			<list>
+				<item> “Seventh--Treatment of children is important. Many parents prove they are
+					unfit to have them. Parents who beat their children ‘because they have the right
+					to’ would not be allowed to have any more.</item>
+				<item> “Eighth--Certificates for parenthood issued with the marriage license, would
+					be compulsory. To obtain them both man and woman would undergo physical, mental
+					and moral tests; family medical and mental history would be recorded and
+					financial ability to rear children. There would be a black list and a white one.
+					Those on the white list, bearing no children, would be privileged to adopt some.
+					No child should be in an institution.</item>
+				<item> “Ninth--And then I would resign, for I believe in a co-operative education,
+					not dictatorship!”</item>
+			</list>
 			<p>
 				<q who="BRAGA"> Yes, Margaret Sanger would resign. There is nothing of the militant
 					crusader about her. Her method is to disarm her opponents rather than fight them
@@ -170,14 +174,16 @@
 				matter of selectivity, not limitation. If a couple can produce twenty healthy
 				children and raise and educate them properly, that is wonderful. On the contrary,
 				the woman who lack the biological urge, who prefer poodles to children--and these
-				college co-eds with non-maternal instincts-–are nothing but deadwood in the
-				progress of the race; a form of parasitic moron who will die out, having done
-				neither harm nor good.”</p>
-			
-			<p> <q who="BRAGA">Civilization, Mrs. Sanger believes, is the main menace to the future well-being
-					of mankind. It seems to have disturbed the balance of the biological urge, or,
-					in other words, complicated the desire to mate.</q></p>
-			
+				college co-eds with non-maternal instincts-–are nothing but deadwood in the progress
+				of the race; a form of parasitic moron who will die out, having done neither harm
+				nor good.”</p>
+
+			<p>
+				<q who="BRAGA">Civilization, Mrs. Sanger believes, is the main menace to the future
+					well-being of mankind. It seems to have disturbed the balance of the biological
+					urge, or, in other words, complicated the desire to mate.</q>
+			</p>
+
 		</div>
 		<div type="section">
 			<head type="sub"> Answering the Urge</head>
@@ -220,7 +226,7 @@
 				enduring and most unruly element in our existence. It may make a servant of science,
 				but never a master.”</p>
 			<p>
-				<q who="BRAGA"><person reg="Slee, James Noah H.">Mrs. Sanger’s husband</person> used
+				<q who="BRAGA"><person reg="Slee, J. Noah H.">Mrs. Sanger’s husband</person> used
 					to be at the helm of the <org reg="Three-In-One Oil Company">Three-In-One oil
 						concern</org> but retired to become the manager of his wife’s crusade. She
 					denied that he had to take a lot of joshing on account of the nature of her

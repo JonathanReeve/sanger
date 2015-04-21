@@ -5,7 +5,9 @@
 		<prepDate>2011/07/07 NC</prepDate>
 		<prepDate>2014-03-21 CH clean regs</prepDate>
 		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1940-07-00">July 1940</docDate>
 		<docTitle>
 			<titlePart>National Health Training Service for Girls</titlePart>
@@ -17,7 +19,7 @@
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="ROOFR">Roosevelt, Franklin D.</name>
+			<name id="ROOFR">Roosevelt, Franklin Delano</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -39,7 +41,7 @@
 			service in time of emergency.</p>
 		<p>Moreover, in modern wars, the care of refugees creates an emergency of such titanic
 			vastness that an increasing number of persons trained in medical care is a crying
-			present need. <person reg="Roosevelt, Franklin D.">President Roosevelt</person> recently
+			present need. <person reg="Roosevelt, Franklin Delano">President Roosevelt</person> recently
 			declared that hundreds of thousands--millions perhaps--of refugees will have to be
 			looked after at the end of the present conflict. This problem has been increased since
 			his words were spoken, and the end is not in sight. In <place reg="United States"

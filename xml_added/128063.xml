@@ -22,7 +22,7 @@
 			<resp>
 				<name id="UNK">Unknown</name>
 				<name id="WILBE">Wille, Bruno</name>
-				<name id="KISHE">Kisch, Heinrich</name>
+				<name id="KISHE">Kisch, Heinrich</name><name id="LAT">Latin</name>
 			</resp>
 		</respStmt>
 	</mepHeader>
@@ -122,18 +122,19 @@
 				health, as some authorities formerly viewed it; but, on the other hand, is
 				considered by the most prominent authorities as injurious to the woman’s nervous
 				system. The following are some of the best known men who look upon the practice as
-				not beneficial to the woman: <person reg="Forel, August">August Forel</person>,
-				Heinrich Kisch, <person reg="von Krafft-Ebing, Richard">Von Krafft-Ebing</person>,
-					<person reg="Mensinga, Wilhelm">Mensinga</person>, <person reg="Hirt, Ludwig"
-					>Hirt</person>, <person reg="Freud, Sigmund">Freud</person>, <person
-					reg="Löwenfeld, Leopold">Löwenfeld</person>, <person reg="Elischer, Julius"
-					>Elischer,</person>
+				not beneficial to the woman: <person reg="Forel, Auguste-Henri">August
+					Forel</person>, Heinrich Kisch, <person reg="von Krafft-Ebing, Richard">Von
+					Krafft-Ebing</person>, <person reg="Mensinga, Wilhelm">Mensinga</person>,
+					<person reg="Hirt, Ludwig">Hirt</person>, <person reg="Freud, Sigmund"
+					>Freud</person>, <person reg="L&ouml;wenfeld, Leopold">Löwenfeld</person>,
+					<person reg="Elischer, Julius">Elischer,</person>
 				<person reg="Ellis, Havelock">Havelock Ellis</person>, and many others.</p>
-			<p>In the preceding pamphlet on "<title type="pamphlet">Family Limitation,</title>” I
-				have explained this habit and the effects it has upon women, and shall not dwell
-				upon it here. It is sufficient to say that “<q>coitus interruptus</q>” is considered
-				as the cause of nervous disturbances and other serious conditions of the generative
-				organs in woman by many prominent medical authorities of the day.</p>
+			<p>In the preceding pamphlet on "<title type="book">Family Limitation,</title>” I have
+				explained this habit and the effects it has upon women, and shall not dwell upon it
+				here. It is sufficient to say that “<foreign lang="LAT">coitus
+				interruptus</foreign>” is considered as the cause of nervous disturbances and other
+				serious conditions of the generative organs in woman by many prominent medical
+				authorities of the day.</p>
 			<p>“<q who="KISHE">The lack of sexual satisfaction,</q>” concludes Kisch, “<q
 					who="KISHE">aggravates nervous and hysterical trouble in women, while suitably
 					regulated intercourse with mutual satisfaction has an actively beneficial

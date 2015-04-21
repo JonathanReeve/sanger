@@ -6,7 +6,9 @@
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1927-00-00">1927</docDate>
 		<docTitle>
 			<titlePart>
@@ -47,7 +49,7 @@
 		<p>I trust that the valuable information and data submitted herein may prove a source of
 			help and inspiration to those who ceaselessly work towards the solution of the
 			population problem.</p>
-		<p>My thanks are tendered to Mr. <person reg="Chance, Clinton">Clinton Chance</person>, who,
+		<p>My thanks are tendered to Mr. <person reg="Chance, Clinton F.">Clinton Chance</person>, who,
 			with Mrs. <person reg="How-Martyn, Edith">Edith How-Martyn</person>, cooperated with me
 			throughout and devoted over a year to the preliminary preparation for the
 			Conference.</p>
@@ -58,9 +60,9 @@
 		<p>I wish to make special mention of Professor <person reg="Huxley, Julian">Julian
 				Huxley</person>, whose cooperation and active participation from the outset has been
 			one of the determining factors in the success of the Conference. He, together with
-			Professor <person reg="Carr-Saunders, Alexander M.">Carr-Saunders</person> and Dr. <person
-				reg="Crew, Francis Albert Eley">Crew</person>, has given valuable assistance and
-			advice in the editing and completion of these Proceedings.</p>
+			Professor <person reg="Carr-Saunders, Alexander M.">Carr-Saunders</person> and Dr.
+				<person reg="Crew, Francis Albert Eley">Crew</person>, has given valuable assistance
+			and advice in the editing and completion of these Proceedings.</p>
 		<p>My warmest thanks are given also to Mrs. <person reg="Hodson, Cora">Cora Hodson</person>,
 			Miss <person reg="Green, Susan">Susan Green</person>, Mrs. <person reg="Kennedy, Anne"
 				>Anne Kennedy</person>, Miss <person reg="Comstock, Anita">Anita Comstock</person>,

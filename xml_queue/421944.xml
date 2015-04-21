@@ -25,12 +25,13 @@
 			<name id="POLCH">Poletti, Charles</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>The first nine paragraphs of this article, describing the
-				<org>Queens-Nassau Agricultural Society</org>'s decision to ban the Birth Control
-			Federation of America from participating the <org><place reg="Mineola, NY"
-					>Mineola</place> Fair</org> have been omitted by the MSPP editors. The decision
-			was made "as a direct result" of Acting Governor Charles Poletti's decision to ban a
-			birth control exhibit from the <org>New York State Fair</org>.</p>
+	<headNote resp="MSPP">
+		<p>The first nine paragraphs of this article, describing the <org>Queens-Nassau Agricultural
+				Society</org>'s decision to ban the Birth Control Federation of America from
+			participating the <org><place reg="Mineola, NY">Mineola</place> Fair</org> have been
+			omitted by the MSPP editors. The decision was made "as a direct result" of Acting
+			Governor Charles Poletti's decision to ban a birth control exhibit from the <org>New
+				York State Fair</org>.</p>
 		<index level1="Birth Control Federation of America"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
 		<index level1="birth control laws and legislation" level2="MS on"/>
@@ -54,7 +55,7 @@
 			<q who="POLCH">“calculated to contravene or change the declared policy of the state
 				under <name type="law" reg="New York State Criminial Code, Section 1145">S1145 of
 					the state law</name></q>,” <q who="NYHT">Mrs. Sanger said: </q></p>
-		<p>“As far back as 1918, <person reg="Crane, Frederick">Judge Crane</person>, in his
+		<p>“As far back as 1918, <person reg="Crane, Frederick E.">Judge Crane</person>, in his
 			memorable decision, pointed out at that S1145 of the New York State laws specifically
 			exempts physicians from the restrictions of <name type="law"
 				reg="New York State Criminial Code, Section 1142">S1142</name> which Mr. Poletti

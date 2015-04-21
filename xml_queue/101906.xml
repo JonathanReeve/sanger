@@ -11,7 +11,9 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1920-00-00"><supplied resp="MSPP">1920s</supplied></docDate>
+		<docDate value="1920-00-00">
+			<supplied resp="MSPP">1920s</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>The Control of Parenthood: A Review By Margaret Sanger</titlePart>
 		</docTitle>
@@ -23,7 +25,7 @@
 
 		<respStmt>
 			<resp>
-				<name id="COXHA">Cox, Harold</name>
+				<name id="COXHA">Cox, Harold J.</name>
 				<name id="HRIHA">Haggard, H. Rider</name>
 				<name id="MARJA">Marchant, James</name>
 				<name id="WAKHE">Wakefield, Henry Russell</name>
@@ -39,7 +41,7 @@
 		<head>The Control of Parenthood: A Review by Margaret Sanger</head>
 		<p>The book entitled: "<title type="book">The Control of Parenthood;</title>" edited by Mr.
 				<person reg="Marchant, James">James Marchant</person>, with an introduction by the
-				<person reg="Henry Russell Wakefield">Bishop of Birmingham</person>, contains an
+				<person reg="Wkefield, Henry Russell">Bishop of Birmingham</person>, contains an
 			excellent study of the population question. It brings together the opinions of several
 			of the most distinguished Englishmen and women who are experts in their own particular
 			subject. They here present with great care the various aspects of this century-old
@@ -47,9 +49,9 @@
 			the conscious control of Parenthood are given. The subject is treated from the
 			biological, economic, social, religious, Imperial and racial aspects, and at least two
 			authorities are chosen to present or refute each of these. The argument by Sir <person
-				reg="H. Rider Haggard">Rider Haggard</person> for the dominance of the <place
+				reg="Haggard, H. Rider">Rider Haggard</person> for the dominance of the <place
 				reg="Great Britain">British Empire</place> by increase of population, is most ably
-			answered by Mr. <person reg="Cox, Harold">Harold Cox</person> in his essay on the
+			answered by Mr. <person reg="Cox, Harold J.">Harold Cox</person> in his essay on the
 			economic side of the subject. Altogether the book is the best and clearest presentation
 			of the subject in the English language. </p>
 	</docBody>

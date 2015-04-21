@@ -6,7 +6,9 @@
 		<prepDate>2014/12/16 EK correct proof</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-03-18 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1912-08-19">19 Aug 1913</docDate>
 		<docTitle>
 			<titlePart>
@@ -15,14 +17,15 @@
 		</docTitle>
 		<idno>msp143729</idno>
 		<sourceDesc>
-			<bibl><title type="mf">Margaret Sanger Papers, Library of Congress,</title> L130:0575</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers, Library of Congress,</title>
+				L130:0575</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="love" level2="MS on"/>
 		<index level1="Sanger, Margaret" level2="fictional writing"/>
 		<index level1="sex and sexuality" level2="and love"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<dateline>(<date value="1913-08-19">Aug 19--1913</date>.)</dateline>
 		<p>She entered the florist shop <del>and</del>, looked searchingly about <del>for</del>as if
@@ -53,7 +56,7 @@
 			the mirror over the mantle threw off her long coat &amp; placed her hat aside &amp;
 			pinned one of the peonies to her bodice-- The others she arranged in a tall white vase
 			&amp; stood before them in all the innocence of a vestal virgin pretending to arrange
-			them-- <del>Good</del> “<q>I’ve brought you something <person>Juan</person></q>”--she
+			them-- <del>Good</del> “<q>I’ve brought you something <person reg="Juan (fictional)">Juan</person></q>”--she
 			said <del>Softly</del>gently. She glanced slyly at him, but he did not move. She saw tho
 			the color run red over his face &amp; neck as if her voice had thrilled him to life--
 			She knew the power of her <del>charms</del>voice-- She grew encouraged <del>&amp;</del>

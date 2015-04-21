@@ -6,11 +6,17 @@
 		<prepDate>2012-03-28 CH proofed tags</prepDate>
 		<prepDate>2014-04-02 CH clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1952-02-14"><supplied resp="MSPP">14 Feb 1952</supplied></docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1952-02-14">
+			<supplied resp="MSPP">14 Feb 1952</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Opening Address to the Sixth International Conference
-					in Planned Parenthood</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Opening Address to the Sixth International Conference in
+					Planned Parenthood</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp223999</idno>
 		<sourceDesc>
@@ -37,8 +43,9 @@
 	<docBody>
 		<head>MRS. MARGARET SANGER</head>
 		<byline rend="italics"> President, International Planned Parenthood Federation </byline>
-		<p>Mr. <person reg="Jawaharlal, Nehru">Nehru</person>, Lady <person
-				reg="Rama Rau, Dhanvanthi">Rama Rau</person>, Distinguished Friends and <org reg="Interntional Planned Parenthood Federation Governing Body">Governing
+		<p>Mr. <person reg="Nehru, Jawaharlal">Nehru</person>, Lady <person
+				reg="Rama Rau, Dhanvanthi">Rama Rau</person>, Distinguished Friends and <org
+				reg="Interntional Planned Parenthood Federation Governing Body">Governing
 			Body</org>, Ladies and Gentlemen, Friends and Co-workers:</p>
 		<p>This is one of the greatest days of joy of my life to have traveled from <place
 				reg="Arizona">Arizona</place> through <place reg="California">California</place> and
@@ -47,20 +54,20 @@
 			It is a day that I did not think would come quite so soon. I knew that eventually it had
 			to come, and it must come from officials of various governments who have the
 			intelligence to see its importance. I also want to congratulate the women of India, for
-			when I was here in 1936 the <org reg="All-India Women's Conference">All India Women’s Conference</org> at that time held a
-			meeting and passed a resolution asking the Municipalities, I think of <place
-				reg="Bombay, India">Bombay</place> and other cities, that they should give
-			contraceptive information to the women of the community and from that time up to this
-			day you have made great strides. Lady Rama Rau has been a wonderful leader, a
-			distinguished speaker, well known throughout many countries of the world, and she has
-			really inspired a great many in this country and other countries. It is a wonderful
-			thing to have the women of the country co-operate with the government, but better yet to
-			have a government co-operate with the women. There are several things that I would like
-			to say. I wish I could have time, or had time, to pay tribute to the vast number of
-			pioneers who through their scholarly writings, addresses and thinking have left to us
-			marvelous ideas. There really isn’t time to tell about them all, from the days of
-				<person reg="Malthus, Thomas Robert">Malthus</person> to the present time, but in
-			one way we do pay tribute to them because we are using and expressing their opinions,
+			when I was here in 1936 the <org reg="All-India Women's Conference">All India Women’s
+				Conference</org> at that time held a meeting and passed a resolution asking the
+			Municipalities, I think of <place reg="Bombay, India">Bombay</place> and other cities,
+			that they should give contraceptive information to the women of the community and from
+			that time up to this day you have made great strides. Lady Rama Rau has been a wonderful
+			leader, a distinguished speaker, well known throughout many countries of the world, and
+			she has really inspired a great many in this country and other countries. It is a
+			wonderful thing to have the women of the country co-operate with the government, but
+			better yet to have a government co-operate with the women. There are several things that
+			I would like to say. I wish I could have time, or had time, to pay tribute to the vast
+			number of pioneers who through their scholarly writings, addresses and thinking have
+			left to us marvelous ideas. There really isn’t time to tell about them all, from the
+			days of <person reg="Malthus, Thomas Robert">Malthus</person> to the present time, but
+			in one way we do pay tribute to them because we are using and expressing their opinions,
 			their writings and their thoughts in nearly every address that any of us makes. There
 			are some basic principles that I should like to tell you about which concern the
 				<org>International Planned Parenthood Federation</org> movement. The first is, that
@@ -85,31 +92,31 @@
 			couple with a transmissible disease should be allowed to have children. Secondly, there
 			are certain disorders--tuberculosis, and heart and kidney disease--which should be
 			cured, or at least arrested, before a woman becomes pregnant. That also is part of the
-				<org reg="India Ministry of Health">Ministry of Health</org>’s duties. Then there
-			is the interval of two or three years necessary to give the mother a chance to
-			recuperate from the ordeal of childbirth and to give her time to prepare for the coming
-			of the next. Then there is the everlasting economic state, especially of the father,
-			whose earnings might possibly take care of two children, keep them in health and educate
-			them, but which are quite inadequate to take care of ten or twelve. That is when they
-			come to need outside help. Further, we must think of the children that are born with
-			some ailment, some stigma from the past generation, and it seems to me that it is only
-			wise to say to parents of such children: “Halt! Have no more!” Even though you do not
-			feel that it is your own fault, there is something in the genes, something in the
-			background, that may distribute itself to future children. I believe that there should
-			be early marriage, but a postponement of children or pregnancies for at least two or
-			three years. It is essential in these high pressure days that if the marriage is to be a
-			happy one a young couple should get acquainted, should understand each other and should
-			develop a social and cultural atmosphere in the home before they bring a baby or
-			children into the world. These are all simple issues and responsibilities, but they are
-			just as essential today as they were 20 or 30 years ago, when this movement first began,
-			and it is on these principles that we have built our family planning and planned
-			parenthood movement. In conclusion, I want to say that, even though these are all great
-			responsibilities, there is one greater that should, I think, be in the minds of every
-			married man and woman thinking of bringing a child into the world -- the responsibility
-			of ushering a soul into this world to take its part in the mystery as a material being.
-			I think if we could have about two or three generations where children are wanted and
-			loved before they were conceived, I believe it would take only a few generations before
-			we could really have faith in the possibility of peace on earth, goodwill to men,
-			throughout the whole world.</p>
+				<org reg="India Ministry of Health">Ministry of Health</org>’s duties. Then there is
+			the interval of two or three years necessary to give the mother a chance to recuperate
+			from the ordeal of childbirth and to give her time to prepare for the coming of the
+			next. Then there is the everlasting economic state, especially of the father, whose
+			earnings might possibly take care of two children, keep them in health and educate them,
+			but which are quite inadequate to take care of ten or twelve. That is when they come to
+			need outside help. Further, we must think of the children that are born with some
+			ailment, some stigma from the past generation, and it seems to me that it is only wise
+			to say to parents of such children: “Halt! Have no more!” Even though you do not feel
+			that it is your own fault, there is something in the genes, something in the background,
+			that may distribute itself to future children. I believe that there should be early
+			marriage, but a postponement of children or pregnancies for at least two or three years.
+			It is essential in these high pressure days that if the marriage is to be a happy one a
+			young couple should get acquainted, should understand each other and should develop a
+			social and cultural atmosphere in the home before they bring a baby or children into the
+			world. These are all simple issues and responsibilities, but they are just as essential
+			today as they were 20 or 30 years ago, when this movement first began, and it is on
+			these principles that we have built our family planning and planned parenthood movement.
+			In conclusion, I want to say that, even though these are all great responsibilities,
+			there is one greater that should, I think, be in the minds of every married man and
+			woman thinking of bringing a child into the world -- the responsibility of ushering a
+			soul into this world to take its part in the mystery as a material being. I think if we
+			could have about two or three generations where children are wanted and loved before
+			they were conceived, I believe it would take only a few generations before we could
+			really have faith in the possibility of peace on earth, goodwill to men, throughout the
+			whole world.</p>
 	</docBody>
 </doc>

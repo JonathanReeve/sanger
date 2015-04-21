@@ -1,100 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published interview">
-    <mepHeader>
-        <prepDate>2014/07/03 MM</prepDate>
-        <prepDate>2015-04-13 CH proof, clean tags and enter</prepDate>
-        <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-        <docAuthor><person reg="Black, Cobey">Cobey Black</person></docAuthor>
-        <docDate value="1956-03-13">Mar 13 1956</docDate>
-        <docTitle>
-            <titlePart>Interview at the Reef Hotel, Honolulu</titlePart>
-        </docTitle>
-        <idno>msp421990</idno>
-        <sourceDesc>
-            <bibl><title type="article">Better Babies</title>, <title type="journal">Honolulu Star
-                    Bulletine</title>, Mar. 14, 1956</bibl>
-        </sourceDesc>
-        <respStmt>
-            <resp/>
-            <name id="BLACO">Black, Cobey</name>
-        </respStmt>
-    </mepHeader>
-    <headNote resp="MSPP"><p>This interview was published in the column, "Who's News. . . with Cobey
-            Black</p>
-        <index level1="children" level2="rights of"/>
-        <index level1="India" level2="overpopulation and"/>
-        <index level1="Japan" level2="birth control in"/>
-        <index level1="birth control methods" level2="pill"/></headNote>
-    <docBody>
-        <head>Better Babies</head>
-        <p><q who="BLACO">Forty years ago an attractive, red-haired trained nurse working in the
-                slums of <place reg="New York, NY">New York</place> was horrified to hear of the
-                death of a young mother in a nearby tenement.</q></p>
-        <p><q who="BLACO">She knew the mother was passionately fond of her children, so much that
-                she wanted no more offspring to divide her devotion, energies and the meager but
-                adequate income of her husband. Her one wish was that her children, despite their
-                slum environment would never become unwanted burdens of society. With her death that
-                is exactly what they did become.</q></p>
-        <p><q who="BLACO">But what horrified the nurse was that she also knew the mother had died of
-                an illegal operation performed to prevent the birth of a fourth child. </q></p>
-        <p><q who="BLACO">The mother is nameless, one of thousands who have died of interrupted
-                pregnancies, but the nurse's name was Margaret Sanger, and it was this experience
-                which inspired her to crusade for birth control, a term she herself
-            originated.</q></p>
-        <p>"What I want is wanted children," <q who="BLACO">said Mrs. Sanger yesterday at the <org
-                    reg="Reef Hotel">Reef</org></q>.</p>
-        <p>"You can't set a size for all families--the number of children depends on the particular
-            situation of the parents--but a child should be wanted before it is born.</p>
-        <p>"It should not have to be unwatned, abused, cruelly treated, or brought into an
-            environment of misery and even death by parents who have no right to have children."</p>
-        <p>"Recently, while I was in <place>India</place>, I asked mothers about the health of their
-            pathetic babies. Often the answer was 'Baby hungry in my belly too long.'</p>
-        <p>"The child was starving before it was born.</p>
-        <p>"Do you realize 66 per cent of India's population never has one full meal a day? Ninety
-            per cent has never known meat. The only milk they've tasted is their mother's.</p>
-        <p>"<place>Asia</place> has more than one-half the population of the globe crowded in
-            one-sixth of its land area, and 50,000 babies are added to it EVERY day.</p>
-        <p>"The world population is far outdistancing the food supply, especially proteins.
-            According to the <org reg="United States Department of Agriculture">Department of
-                Agriculture</org>, it takes 100 good grazing acres to give nine people meat once a
-            day.</p>
-        <p>"In 1936 I traveled in India a year, setting up 65 birth control centers. War destroyed
-            many of them, but the seeds were sown.</p>
-        <p>"I just received a letter this week saying that the Indian government has agreed to
-            allocate $8 million to be used solely for family planning work.</p>
-        <p>"In 1954 I was invited to <place>Japan</place> by <person reg="Kawasaka, Hidejo">Hidejo
-                Kawasaka</person>, the minister of health, who is doing everything in his power to
-            help the people of his country control the size of their families. The midwives are now
-            instructed to teach birth control.</p>
-        <p>"I predict that it won't take many generations for India and Japan to lead the world in
-            eugenic populations because the governments are now directing their efforts in slum
-            areas to controlling the increase of the transmissibly diseased and dysgenic portions of
-            the population.</p>
-        <p>"In America, which has as many new babies as India, we haven't touched the lower strata
-            of society for whom the movement was started. The women are so family-bound that they
-            are unable to visit one of the 600 clinics of the <org>Planned Parenthood</org> League
-            throughout America. </p>
-        <p>"The public health officials are also the sinners; they make no effort and have no policy
-            for teaching birth control.</p>
-        <p>"Also the movement lacks funds for research. We are using today the same methods that I
-            brought back from <place>Germany</place> and <place reg="Netherlands">Holland</place>in
-            1915.</p>
-        <p>"Fortunately it is a method which requires a doctor's advice in adjustment, so the
-            medical profession has been brought into the movement. But it is a method which is
-            outdated compared to the advances made in other fields of science.</p>
-        <p>"The oral contraceptive, or pill, called Progesterone, which is being developed in the
-            research laboratory of <person reg="Pincus, Gregory">Dr. Pincus,</person> of <place
-                reg="Worcester, MA">Worcester</place>, has proved 100 per cent satisfactory with
-            animals as well as with the controlled number of women tested.</p>
-        <p>"The woman is immunized against conception for periods which last four months. But the
-            pill does not sterilize, and she can conceive when the four month's immunization wears
-            off.</p>
-        <p>"I feel like the ideal solution is an injection which can be administered every six
-            months. Science has developed vaccinations against cholera, diphtheria, polio and
-            countless other threats to the health of mankind. It is not impossible that the day will
-            come when family planning will be as simple and universal.</p>
-        <p>"On that day you will see the birth of a happier, healthier world population."</p>
+	<mepHeader>
+		<prepDate>2014/07/03 MM</prepDate>
+		<prepDate>2015-04-13 CH proof, clean tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docAuthor>
+			<person reg="Black, Cobey">Cobey Black</person>
+		</docAuthor>
+		<docDate value="1956-03-13">Mar 13 1956</docDate>
+		<docTitle>
+			<titlePart>Interview at the Reef Hotel, Honolulu</titlePart>
+		</docTitle>
+		<idno>msp421990</idno>
+		<sourceDesc>
+			<bibl><title type="article">Better Babies</title>, <title type="journal">Honolulu Star
+					Bulletine</title>, Mar. 14, 1956</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BLACO">Black, Cobey</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This interview was published in the column, "Who's News. . . with Cobey Black</p>
+		<index level1="children" level2="rights of"/>
+		<index level1="India" level2="overpopulation and"/>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="birth control methods" level2="pill"/>
+	</headNote>
+	<docBody>
+		<head>Better Babies</head>
+		<p>
+			<q who="BLACO">Forty years ago an attractive, red-haired trained nurse working in the
+				slums of <place reg="New York, NY">New York</place> was horrified to hear of the
+				death of a young mother in a nearby tenement.</q>
+		</p>
+		<p>
+			<q who="BLACO">She knew the mother was passionately fond of her children, so much that
+				she wanted no more offspring to divide her devotion, energies and the meager but
+				adequate income of her husband. Her one wish was that her children, despite their
+				slum environment would never become unwanted burdens of society. With her death that
+				is exactly what they did become.</q>
+		</p>
+		<p>
+			<q who="BLACO">But what horrified the nurse was that she also knew the mother had died
+				of an illegal operation performed to prevent the birth of a fourth child. </q>
+		</p>
+		<p>
+			<q who="BLACO">The mother is nameless, one of thousands who have died of interrupted
+				pregnancies, but the nurse's name was Margaret Sanger, and it was this experience
+				which inspired her to crusade for birth control, a term she herself originated.</q>
+		</p>
+		<p>"What I want is wanted children," <q who="BLACO">said Mrs. Sanger yesterday at the <org
+					reg="Reef Hotel">Reef</org></q>.</p>
+		<p>"You can't set a size for all families--the number of children depends on the particular
+			situation of the parents--but a child should be wanted before it is born.</p>
+		<p>"It should not have to be unwatned, abused, cruelly treated, or brought into an
+			environment of misery and even death by parents who have no right to have children."</p>
+		<p>"Recently, while I was in <place>India</place>, I asked mothers about the health of their
+			pathetic babies. Often the answer was 'Baby hungry in my belly too long.'</p>
+		<p>"The child was starving before it was born.</p>
+		<p>"Do you realize 66 per cent of India's population never has one full meal a day? Ninety
+			per cent has never known meat. The only milk they've tasted is their mother's.</p>
+		<p>"<place>Asia</place> has more than one-half the population of the globe crowded in
+			one-sixth of its land area, and 50,000 babies are added to it EVERY day.</p>
+		<p>"The world population is far outdistancing the food supply, especially proteins.
+			According to the <org reg="United States Department of Agriculture">Department of
+				Agriculture</org>, it takes 100 good grazing acres to give nine people meat once a
+			day.</p>
+		<p>"In 1936 I traveled in India a year, setting up 65 birth control centers. War destroyed
+			many of them, but the seeds were sown.</p>
+		<p>"I just received a letter this week saying that the Indian government has agreed to
+			allocate $8 million to be used solely for family planning work.</p>
+		<p>"In 1954 I was invited to <place>Japan</place> by <person reg="Kawasaki, Hideji">Hidejo
+				Kawasaka</person>, the minister of health, who is doing everything in his power to
+			help the people of his country control the size of their families. The midwives are now
+			instructed to teach birth control.</p>
+		<p>"I predict that it won't take many generations for India and Japan to lead the world in
+			eugenic populations because the governments are now directing their efforts in slum
+			areas to controlling the increase of the transmissibly diseased and dysgenic portions of
+			the population.</p>
+		<p>"In America, which has as many new babies as India, we haven't touched the lower strata
+			of society for whom the movement was started. The women are so family-bound that they
+			are unable to visit one of the 600 clinics of the <org>Planned Parenthood</org> League
+			throughout America. </p>
+		<p>"The public health officials are also the sinners; they make no effort and have no policy
+			for teaching birth control.</p>
+		<p>"Also the movement lacks funds for research. We are using today the same methods that I
+			brought back from <place>Germany</place> and <place reg="Netherlands">Holland</place>in
+			1915.</p>
+		<p>"Fortunately it is a method which requires a doctor's advice in adjustment, so the
+			medical profession has been brought into the movement. But it is a method which is
+			outdated compared to the advances made in other fields of science.</p>
+		<p>"The oral contraceptive, or pill, called Progesterone, which is being developed in the
+			research laboratory of <person reg="Pincus, Gregory Goodwin">Dr. Pincus,</person> of <place
+				reg="Worcester, MA">Worcester</place>, has proved 100 per cent satisfactory with
+			animals as well as with the controlled number of women tested.</p>
+		<p>"The woman is immunized against conception for periods which last four months. But the
+			pill does not sterilize, and she can conceive when the four month's immunization wears
+			off.</p>
+		<p>"I feel like the ideal solution is an injection which can be administered every six
+			months. Science has developed vaccinations against cholera, diphtheria, polio and
+			countless other threats to the health of mankind. It is not impossible that the day will
+			come when family planning will be as simple and universal.</p>
+		<p>"On that day you will see the birth of a happier, healthier world population."</p>
 
-    </docBody>
+	</docBody>
 </doc>

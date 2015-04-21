@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2001-10-29 MH</prepDate>
@@ -9,7 +8,9 @@
 		<prepDate>2014-03-05 CH clean up regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-03-18 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1913-04-15">15 Apr 1913</docDate>
 		<docTitle>
 			<titlePart>Hazleton Strikers Repudiate A.F. of L.</titlePart>
@@ -85,13 +86,13 @@
 		<p>The last card is being played Monday next, when <person reg="Golden, John">John
 				Golden</person> has been invited to explain the contract to those I.W.W. and A. F.
 			of L. silk workers, not allowing I.W.W. organizers within the hall. The boys and girls
-			wired <person reg="Haywood, William D.">Big Bill Haywood</person> to come and hold a
+			wired <person reg="Haywood, William Dudley">Big Bill Haywood</person> to come and hold a
 			meeting the same night and explain the contract, and invite everyone--including John
 			Golden. </p>
 		<p>The little town is all excitement. The strike has been a wonderful eyeopener to all
 			workers, including the miners. Some of the mine locals have promised to stop work and go
 			on picket duty with the boys and girls next Monday.</p>
 		<p>Keep your eye on Hazleton, fellow workers, and watch results.</p>
-		<byline><person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
+		<byline>Margaret H. Sanger.</byline>
 	</docBody>
 </doc>

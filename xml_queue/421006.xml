@@ -25,7 +25,7 @@
 		<respStmt>
 			<resp/>
 			<name id="NYTR">New York Tribune</name>
-			<name id="FREJO">Freschi, John</name>
+			<name id="FREJO">Freschi, John J.</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -45,13 +45,16 @@
 				spending thirty days on <org reg="Blackwell's Island Penitentiary">Blackwell’s
 					Island</org> or of promising hereafter to observe the law in her campaign for
 				the legalization of birth control. She turned her back upon the offer made by
-				Justices <person reg="Freschi, John">Freschi</person>, <person reg="O'Keefe, George"
+				Justices <person reg="Freschi, John J.">Freschi</person>, <person reg="O'Keefe, George"
 					>O’Keefe</person> and <person reg="Hermann, Moses">Herman</person>, and replied
-				calmly:</q></p>
+				calmly:</q>
+		</p>
 		<p> “I cannot respect the law as it stands to-day.” </p>
-		<p><q who="NYTR">Then she was sentenced for maintaining her birth control clinic at 45 Amboy
-				Street, Brooklyn, and left the courtroom to serve her time. She will not go on a
-				hunger strike.</q></p>
+		<p>
+			<q who="NYTR">Then she was sentenced for maintaining her birth control clinic at 45
+				Amboy Street, Brooklyn, and left the courtroom to serve her time. She will not go on
+				a hunger strike.</q>
+		</p>
 		<p> “So far as I am concerned,” <q who="NYTR">said Mrs. Sanger in <org
 					reg="Raymond Street Jail">Raymond Street jail</org>,</q> “I have accomplished as
 			much as is possible at this time. We have aroused public opinion and created an
@@ -75,7 +78,8 @@
 				clemency.</q>" “I will promise to obey the law pending the appeal of my case to a
 			higher court,” <q who="NYTR">Mrs. Sanger answered, later refusing to give an unqualified
 				promise. </q></p>
-		<p><q who="NYTR">When Mrs. Sanger was led from the courtroom to the prison van she headed a
+		<p>
+			<q who="NYTR">When Mrs. Sanger was led from the courtroom to the prison van she headed a
 				procession of eight handcuffed men. As they were about to leave the building one of
 				her friends rushed up with a cup of coffee, which she hurriedly swallowed. A bundle
 				of sandwiches shoved into her hands by another friend, were distributed among the

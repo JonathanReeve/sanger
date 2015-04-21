@@ -32,7 +32,8 @@
 			<name id="BLAWI">Blake, William</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This paper was most likely prepared for the <org
+	<headNote resp="MSPP">
+		<p>This paper was most likely prepared for the <org
 				reg="International Congress on Eugenics, 2nd">Second International Congress on
 				Eugenics</org>, held on September 23, 1921. A notation by Sanger at the top of first
 			page reads" "refused." A version of this article was published as chapter VIII: <title
@@ -232,7 +233,8 @@
 				reg="Browne, Francis Worseley Stella">F. W. Stella Browne,</person> has said in
 			another connection,<emph rend="bold">5</emph></p>
 		<note n="5"><title type="book">Population and Birth Control: A Symposium</title>, edited by
-				<person reg="Eden Paul">Eden</person> and <person>Cedar Paul</person>. p. 251.</note>
+				<person reg="Paul, Eden">Eden</person> and <person reg="Paul, Cedar">Cedar
+				Paul</person>. p. 251.</note>
 		<p rend="blockquote">"<q who="BROFR">The <org>Eugenics Education Society</org> has among its
 				numbers many most open minded and truly progressive individuals; but the official
 				policy it has pursued for years has been inspired by class-bias and sex-bias. The
@@ -264,7 +266,7 @@
 				reg="Rousseau, Jean-Jacques">Rousseau</person>, <person reg="Dostoevsky, Fyodor"
 				>Dostoevsky</person>, <person reg="Chopin, Frederic Francois">Chopin</person>,
 				<person reg="Poe, Edgar Allen">Poe</person>, <person reg="Schumann, Robert"
-				>Schumann</person>, <person reg="Nietzsche, Freidrich">Nietzsche</person>, <person
+				>Schumann</person>, <person reg="Nietzsche, Friedrich">Nietzsche</person>, <person
 				reg="Comte, Auguste">Comte</person>, <person reg="de Maupassant, Guy">Guy de
 				Maupassant</person>--and how many others? But such considerations should not lead us
 			into the error of concluding that such men were geniuses merely because they were
@@ -377,10 +379,10 @@
 			Birth Control has been accepted by the most clear thinking and far seeing of the
 			Eugenists themselves as the most constructive and necessary of the methods of racial
 			health.</p>
-		<note n="8">Among these are Dean <person reg="Inge, William Ralph">W. R.
-				Inge</person>, Professor <person reg="Thomson, J. Arthur">J. Arthur
-			Thomson</person>, Mr. Havelock Ellis, Professor William Bateson, Dr. <person
-				reg="Millard, Killick">Killick Millard </person>and . . . .</note>
+		<note n="8">Among these are Dean <person reg="Inge, William Ralph">W. R. Inge</person>,
+			Professor <person reg="Thomson, J. Arthur">J. Arthur Thomson</person>, Mr. Havelock
+			Ellis, Professor William Bateson, Dr. <person reg="Millard, Charles Killick">Killick
+				Millard </person>and . . . .</note>
 		<p>We are now, I hope, in a position to understand the constructive and creative aspects of
 			the philosophy and practice of Birth Control. It has been condemned as dysgenic,
 			destructive of civilization, as the weapon of selfish unthinking pleasure-seeking,

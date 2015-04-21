@@ -28,8 +28,8 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This statement was made in reaction to the United States v. One Package
-			ruling.</p>
+	<headNote resp="MSPP">
+		<p>This statement was made in reaction to the United States v. One Package ruling.</p>
 		<index level1="birth control" level2="legalization of"/>
 		<index level1="birth control" level2="legal cases"
 			level3="U.S. v. One Book Entitled 'Contraception'"/>
@@ -50,7 +50,7 @@
 		</p>
 		<p>“The greatest legal victory in the birth control movement was just won when the
 				<org>United States Circuit Court of Appeals</org> for the Second Circuit unanimously
-			upheld <person reg="Moscowitz, Grover">Judge Moscowitz</person>'s decision liberating
+			upheld <person reg="Moscowitz, Grover M.">Judge Moscowitz</person>'s decision liberating
 			the medical profession, hospitals and other health agencies from legal restrictions. </p>
 		<p>“We are proceeding on two fronts, judicial and legislative, and this decision has
 			established our claim so clearly that there is now no need for us to ask <org

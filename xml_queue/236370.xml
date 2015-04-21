@@ -9,7 +9,9 @@
 		<prepDate>2011/11/30 CH Correct typo</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-04-01 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1939-02-00">
 			<supplied resp="MSPP">Feb 1939</supplied>
 		</docDate>
@@ -44,7 +46,7 @@
 				reg="Interdepartmental Committee to Coordinate Health &amp; Welfare
 				Activities"
 				>Interdepartmental Committee to coordinate Health &amp; Welfare Activities</org>.
-			This Committee was appointed by <person reg="Roosevelt, Franklin D.">Pres.
+			This Committee was appointed by <person reg="Roosevelt, Franklin Delano">Pres.
 				Roosevelt</person> in Aug. 1938 &amp; the Technical Committee made certain
 			recommendations for Public Health and Welfare.</p>
 		<p>The plan was to cover a period of ten years at a cost of $850,000,000. The greatest part

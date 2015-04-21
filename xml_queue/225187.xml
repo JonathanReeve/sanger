@@ -4,13 +4,16 @@
 	<mepHeader>
 		<prepDate>2003/07/22 SR</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-04-15 CH regularized title</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-15 CH regularized title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-07-00">Jul 1923</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">The Vision of George Drysdale, Part I</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">The Vision of George Drysdale, Part I</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp225187</idno>
 		<sourceDesc>
@@ -39,7 +42,7 @@
 	<docBody>
 		<head>The Vision of George Drysdale</head>
 		<byline>By Margaret Sanger</byline>
-		<p><person reg="Drysdale, George R.">George Drysdale</person> is perhaps the greatest
+		<p><person reg="Drysdale, George">George Drysdale</person> is perhaps the greatest
 			pioneer of our modern conception of Birth Control, because he was the first to approach
 			this great problem from the point of view of individual and social psychology. He saw,
 			more clearly than any of his predecessors, the great necessity of a new science and
@@ -149,7 +152,7 @@
 			the slightest pretention to have offered any comprehensive or adequate exposition of
 			social science. He aimed instead to be suggestive and stimulating. He acknowledged his
 			indebtedness to Mill's "<title type="book">Logic</title>" and to <person
-				reg="Comte, August">Comte</person>'s "<title type="book">Positive
+				reg="Comte, Auguste">Comte</person>'s "<title type="book">Positive
 			Philosophy</title>." He dissented from Comte on most of the vital points of moral and
 			social doctrine, but he expressed the profoundest admiration for the manner in which the
 			French Positivist carried out the leading ideas of his great work. He agreed that the

@@ -29,12 +29,13 @@
 			<name id="INGWI">Inge, William Ralph</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke at the <place reg="Hong Kong, China"
-				>Hong Kong </place><org reg="Hong Kong Hotel Roof Garden">Hotel
-				Roof Garden</org> on Feb. 19, 1936. <person
-				reg="Nixon, William C.W.">W.C.W. Nixon</person> presided and
-				<person reg="How-Martyn, Edith">Edith How-Martyn</person> also
-			made a speech. </p>
+	<headNote resp="MSPP">
+		<p>Sanger spoke at the <place reg="Hong Kong, China">Hong Kong
+				</place><org reg="Hong Kong Hotel Roof Garden">Hotel Roof
+				Garden</org> on Feb. 19, 1936. <person reg="Nixon, William C.W."
+				>W.C.W. Nixon</person> presided and <person
+				reg="How-Martyn, Edith">Edith How-Martyn</person> also made a
+			speech. </p>
 		<index level1="birth control" level2="in India"/>
 		<index level1="birth control" level2="international"/>
 		<index level1="birth control" level2="distribution of information about"/>
@@ -50,11 +51,11 @@
 		<index level1="overpopulation" level2="threat to peace as"/>
 		<index level1="parenthood"/>
 		<index level1="population growth" level2="regulation of"/>
-		<index level1="population growth" level2="standard of living and"
-		/></headNote>
+		<index level1="population growth" level2="standard of living and"/>
+	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL CASE</head>
-	<div type="section">
+		<div type="section">
 			<head type="sub">Mrs. Sanger’s Address</head>
 
 			<p>
@@ -66,7 +67,7 @@
 					>the most revolutionary idea of this century</q>” and
 					<person reg="Inge, William Ralph">Dean Inge</person> had
 				agreed that birth control “<q who="INGWI">had come and come to
-					stay</q>.” <person reg="Dawson, Bertrand">Lord Dawson of
+					stay</q>.” <person reg="Dawson, Bertrand E.">Lord Dawson of
 					Penn </person>went before the Anglican Bishops some years
 				ago and, in closing his address, said that if they would not
 				open their eyes and ears, they would have to close their jaws.
@@ -75,25 +76,30 @@
 				was the key note in a new social awakening. Some people would
 				ask why control the birth rate, and others would say that there
 				was an unlimited space in the world for everybody. </p>
-			
-		<p> <q who="SCMP">Mrs. Sanger said that she would deny these statements.
-					Nature in the past had used wars, floods, pestilence and
-					famine to maintain the balance in every community and in
-					every nation. At the present day it was either an increase
-					of death rate or a decrease of birth rate, and one could not
-					have it both ways. The situation in modern times was further
-					aggravated by the fact that immigration had been entirely
-					suspended in every country with the possible exception of
-						<place>South America</place>. If there was no control in
-					birth rate, the situation as it now exists would be further
-					aggravated.</q></p>
-		<p><q who="SCMP"> It was unfair to tax the normal and healthy in order to keep
-					the ill-equipped and defective ones. Yet, at the present
-					moment this very thing was tolerated. Without some control
-					over the ill-equipped and defective, the situation at the
-					present time could not be reconciled. </q></p>
-		<p> <q who="SCMP">Mrs. Sanger drew the attention of those present to the
-					countries where birth control was practiced and had been
+
+			<p>
+				<q who="SCMP">Mrs. Sanger said that she would deny these
+					statements. Nature in the past had used wars, floods,
+					pestilence and famine to maintain the balance in every
+					community and in every nation. At the present day it was
+					either an increase of death rate or a decrease of birth
+					rate, and one could not have it both ways. The situation in
+					modern times was further aggravated by the fact that
+					immigration had been entirely suspended in every country
+					with the possible exception of <place>South America</place>.
+					If there was no control in birth rate, the situation as it
+					now exists would be further aggravated.</q>
+			</p>
+			<p>
+				<q who="SCMP"> It was unfair to tax the normal and healthy in
+					order to keep the ill-equipped and defective ones. Yet, at
+					the present moment this very thing was tolerated. Without
+					some control over the ill-equipped and defective, the
+					situation at the present time could not be reconciled. </q>
+			</p>
+			<p>
+				<q who="SCMP">Mrs. Sanger drew the attention of those present to
+					the countries where birth control was practiced and had been
 					practiced for some ten years or so past, and compare them
 					with the countries where such was not the case. In
 						<place>France</place>, <place>England</place>, <place>
@@ -111,14 +117,16 @@
 					Mothers were able to develop any talent that they might
 					possess, and those in professions were able to get back to
 					work. Families, on the whole, were spiritually, mentally,
-					and physically bettered.</q> </p>
-		
+					and physically bettered.</q>
+			</p>
+
 		</div>
 		<div type="section">
 			<head type="sub"> Consideration </head>
-			
-			<p><q who="SCMP"> A race would not die out. it was not selfish to have a
-					smaller family, rather it was the reverse. It clearly
+
+			<p>
+				<q who="SCMP"> A race would not die out. it was not selfish to
+					have a smaller family, rather it was the reverse. It clearly
 					demonstrated that consideration was being given to the
 					children born or to go even further, to the children yet
 					unborn. In the other national groups where there were very
@@ -140,18 +148,20 @@
 					for what his children did. As long as parents who could not
 					support two or three children were encouraged to bring 10,
 					12, or 14 children into the world, there would always be
-					child labor.</q> </p>
-			
+					child labor.</q>
+			</p>
+
 		</div>
 		<div type="section">
 			<head type="sub">Unemployment </head>
-			
-			<p> <q who="SCMP">Speaking of unemployment Mrs. Sanger said that the labor
-					saving devices had increased during the past 20 years with
-					amazing rapidity. A machine could make more electric bulbs
-					in one hour than 2,000 men without machinery. America would
-					always carry the load of unemployment unless machinery was
-					scrapped, and the country resorted to adult male labor.
+
+			<p>
+				<q who="SCMP">Speaking of unemployment Mrs. Sanger said that the
+					labor saving devices had increased during the past 20 years
+					with amazing rapidity. A machine could make more electric
+					bulbs in one hour than 2,000 men without machinery. America
+					would always carry the load of unemployment unless machinery
+					was scrapped, and the country resorted to adult male labor.
 					Personally, she thought that America would never resort to
 					this method as a solution to the present day problem. Birth
 					control was, however, one solution. Birth control had been
@@ -187,7 +197,8 @@
 						<item>(7) Adjustment to marriage. Young people should be
 							encouraged to wait and keep the period of adjustment
 							after marriage.</item>
-					</list></q></p>		
+					</list></q>
+			</p>
 
 		</div>
 		<div type="section">
@@ -212,8 +223,10 @@
 					and they were not expensive.</q>
 			</p>
 			<p>“We hope that we are bringing a message of hope that may be
-				fulfilled in <place>China</place>. We want our young people to think of their
-				bodies as holy temples,” <q who="SCMP">said Mrs. Sanger, in conclusion.</q> </p>
+				fulfilled in <place>China</place>. We want our young people to
+				think of their bodies as holy temples,” <q who="SCMP">said Mrs.
+					Sanger, in conclusion.</q>
+			</p>
 		</div>
 	</docBody>
 </doc>
