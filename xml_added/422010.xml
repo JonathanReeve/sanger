@@ -5,6 +5,7 @@
 		<prepDate>2014-07-02 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-22 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -20,7 +21,7 @@
 		<idno>msp422010</idno>
 		<sourceDesc>
 			<bibl><title type="article">Mrs. Sanger's Talk Gets By Police Censors</title>, <title
-					type="journal">San Francisco Chronicle</title>, Feb. 19, 1922, p. 3</bibl>
+					type="journal">San Francisco Chronicle</title>, Feb. 20, 1922, p. 3</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -31,17 +32,22 @@
 	<headNote resp="MSPP">
 		<p>Sanger spoke before 1200 people in a mass meeting sponsored by <org>American Women's
 				Independence Committee</org> at California Hall in <place reg="San Francisco, CA"
-				>San Francisco.</place> 625 Polk Street 94102.</p>
+				>San Francisco.</place></p>
 		<index level1="race suicide"/>
+		<index level1="birth control" level2="and natural law"/>
+		<index level1="birth control" level2="history of"/>	
 		<index level1="birth control" level2="class-based"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rates" level2="maternal"/>
+		<index level1="family size" level2="class-based"/>
+		<index level1="family size" level2="MS on"/>
 		<index level1="motherhood"/>
-		<index level1="California" level2="birth control movement in"/>
-		<index level1="birth control" level2="international"/>
-		<index level1="birth control" level2="distribution of information about"/>
-		<index level1="birth control" level2="conferences on"/>
-	</headNote>
+		<index level1="population size" level2="and war"/>
+		<index level1="Sanger, Margaret" level2="tours” level3=”1922 (World)"/>
+		<index level1="conferences" level2="International Neo-Malthusian and Birth Control Conference” level3=”1922 (5th)"/>
+		<index level1="censorship"/>
+		</headNote>
 	<docBody>
 		<head>MRS. SANGER'S TALK GETS BY POLICE CENSORS</head>
 		<div type="section">
@@ -49,15 +55,15 @@
 					head of the <org reg="American Birth Control League">Birth Control league,</org>
 					in an address yesterday afternoon before an audience in <org
 						reg="California Hall">California hall</org>. "</q>Scientific birth control
-				has already operated in a number of countries such as <place reg="Netherlands"
+				has already operated in a number of countries, such as <place reg="Netherlands, the"
 					>Holland,</place>
 				<place>New Zealand</place> and others, for sufficient time to demonstrate that
 				instead of race suicide the percentage of infant survivals has been greatly
-				increased with a better type and class of manhood and a decrease in population."</p>
+				increased with a better type and class of manhood and no decrease in population."</p>
 			<p>
 				<q who="SFC">The speaker traced the history of birth control, maintaining that it
 					was not a new idea. She said it was, in fact, one of nature's fundamental laws,
-					as is the natural course of events without the interference of science, nature
+					as is the natural course of events, without the interference of science, nature
 					will weed out the sick, the old and feeble and the diseased to make room for the
 					strong and healthy.</q>
 			</p>
@@ -80,16 +86,16 @@
 		<div type="section">
 			<head type="sub">DEFENDS BIRTH CONTROL</head>
 			<p>"Not only do we want to protect society from further propagation of the sick and
-				insane," said Mrs. Sanger, "but we want to make motherhood a conscious and voluntary
+				insane," <q who="SFC">said Mrs. Sanger,</q> "but we want to make motherhood a conscious and voluntary
 				act, giving her a chance to develop her own individuality and that of her
-				children.</p>
+				children."</p>
 			<p>"You have been told that birth control is against the laws of <name type="deity"
 					>God</name>. I say to you that if you, as an individual, believe in God as a
 				divine intelligence who has endowed you with the power to think and to reason, then
 				you certainly are at liberty to apply that intelligence according to the dictates of
-				your conscience.</p>
+				your conscience."</p>
 			<p>"Every advance in science has been attacked in this same manner. It is against the
-				laws of nature for a man to shave, to cut his hair, to walk on two legs instead of
+				laws of nature for a man to shave, to cut his hair, to walk on two legs, instead of
 				four, to ride in street cars, or to submit to an operation to save his life, just as
 				much as it is against those laws for him to practice birth control," <q who="SFC"
 					>said the speaker</q>.</p>
@@ -97,8 +103,8 @@
 		<div type="section">
 			<head type="sub">WANTS SCIENTIFIC CLINICS</head>
 			<p>"What we need at present is scientific clinics at which the fundamentals of birth
-				control can be taught. We should get away from the backyard gossip and through the
-					<unclear resp="MSPP">clinic</unclear> bring to the poor woman who cannot afford
+				control can be taught. We should get away from the back-yard gossip and through the
+					clinic bring to the poor woman who cannot afford
 				to pay for it under the present conditions the same information that the rich woman
 				gets today."</p>
 			<p>
@@ -111,10 +117,10 @@
 			<p>
 				<q who="SFC">Mrs. Sanger told of being excluded from <place>Japan</place>, but
 					expressed the hope that this ban would eventually be lifted. She emphasized the
-					need of the doctrine in Japan, saying,</q>
+					need of the doctrine in Japan, saying:</q>
 			</p>
 			<p>"When the pressure of population gets too great in any country there can be but two
-				ways of relief. One is war, with its attendant loss of life and possible increase in
+				ways of relief one is war, with its attendant loss of life and possible increase in
 				territory in the case of the victor and the other is through scientific birth
 				control. Of the two, I believe that the latter is by far the better way."</p>
 		</div>
@@ -127,15 +133,15 @@
 						reg="International Neo-Malthusian and Birth Control Conference, 5th"
 						>international conference on birth control.</org></q>
 			</p>
-			<p><q who="SFC"><person reg="Parson, Mary">Mrs. Mary Parson</person> acted as chairman
+			<p><q who="SFC"><person reg="Parton, Mary">Mrs. Mary Parton</person> acted as chairman
 					of the meeting, introducing the speaker. During the questioning which followed
-					the regular lecture a woman in the audience asked, </q>"<q who="UNK">is there
-					any book now published which gives inside information on birth control</q>"</p>
+					the regular lecture a woman in the audience asked,</q> "<q who="UNK">Is there
+					any book now published which gives inside information on birth control</q>?"</p>
 			<p><q who="SFC">Mrs. Sanger smiled and, nodding toward the door of the hall,
 					answered,</q> "There are two policemen standing at the door who would be very
 				glad to know the answer to that question."</p>
 			<p>
-				<q who="SFC">A detail of plain clothes officers was present at the meeting. Mrs.
+				<q who="SFC">A detail of plainclothes officers was present at the meeting. Mrs.
 						<person reg="Eisenhart, Katherine">Katherine Eisenhart</person> was a member
 					of the detail. No action was taken by the officers to stop the lecture or to
 					prevent the distribution of pamphlets, which were given out at the door.</q>
