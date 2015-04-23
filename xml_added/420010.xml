@@ -8,6 +8,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-22 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,7 +18,7 @@
 		</docTitle>
 		<idno>msp420010</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 3, May 1914, 23</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, May 1914, p. 23</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0537</bibl>
 		</sourceDesc>
@@ -28,9 +29,11 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="Catholic Church"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="responsibilities of"/>
+		<index level1="Catholic Church" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>"THE MENACE'S" ADVICE</head>

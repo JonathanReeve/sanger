@@ -8,6 +8,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-04-22 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-05-00">May 1914</docDate>
 		<docTitle>
@@ -15,7 +16,7 @@
 		</docTitle>
 		<idno>msp420011</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 3, May 1914, 23</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, May 1914, p. 23</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0537</bibl>
 		</sourceDesc>
@@ -25,7 +26,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="labor movement"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="employment of"/>
+		<index level1="labor movement" level2="strikes"/>
 	</headNote>
 	<docBody>
 		<head>IS THIS TRUE?</head>

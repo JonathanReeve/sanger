@@ -7,6 +7,7 @@
 		<prepDate>2011/11/28 CH correct typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-22 EK index update</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -33,35 +34,39 @@
 				reg="American Birth Control
             Conference, 1st">First American Birth
 				Control Conference</org>, held at the <org>Hotel McAlpin</org> in <place
-				reg="New York, NY">New York City</place>. For an incomplete draft version see
-			Library of Congress Microfilm 129:698. For Sanger's other statements at this conference
-			see "<xref from="229952.xml">The Use of the Pessary</xref>," Nov. 11, 1921, and "<xref
-				from="231277.xml">Closing Remarks</xref>, Nov. 18, 1921. For a transcript of the
-			entire session see Margaret Sanger Microfilm, Smith College Collections S67:881.</p>
-		<index level1="birth control" level2="laws and legislation"/>
-		<index level1="birth control" level2="movement"/>
-		<index level1="birth control" level2="movement" level3="international"/>
-		<index level1="eugenics" level2="birth control and"/>
-		<index level1="eugenics" level2="MS on"/>
-		<index level1="First American Birth Control Conference (1921)"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="MS on"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="social burdens, as "/>
-		<index level1="United States" level2="socioeconomic conditions"/>
+				reg="New York, NY">New York City</place>. Sanger was introduced by <person
+				reg="Hooker, Edith Houghton">Edith Houghton Hooker,</person> Chairman of the
+			Sessions.</p>
+		<p>For a partial draft version see the Library of Congress Microfilm, LCM 129:0698. For
+			Sanger's other conference statements, see "<xref from="229952.xml">The Use of the
+				Pessary</xref>," Nov. 11, 1921, and "<xref from="231277.xml">Closing Remarks</xref>,
+			Nov. 18, 1921. For a transcript of the entire session see <title type="mf">Margaret
+				Sanger Microfilm, Smith College Collections</title> S67:0881.</p>
+		<index level1="conference" level2="American Birth Control Conference" level3="1921 (1st)"/>
+		<index level1="birth control laws and legislation" level2="doctors-only laws"/>
+		<index level1="birth control" level2="history of"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="United States" level2="birth control in"/>
+		<index level1="unfit to reproduce" level2="as social burdens"/>
+		<index level1="unfit to reproduce" level2="MS on"/>
+		<index level1="birth control movement" level2="American"/>
+		<index level1="physicians" level2="and birth control"/>
+		<index level1="race suicide"/>
 	</headNote>
 	<docBody>
 		<p>Madam chairman, and ladies and gentlemen: I am glad to join with Mrs. <person
 				reg="Hooker, Edith Houghton">Hooker</person> in her welcome of you here today. I
 			cannot tell you what this conference means to me. I cannot tell you with what enthusiasm
-			we have all be inspired by the results of the letters and the answers that we have had
+			we have all been inspired by the results of the letters and the answers that we have had
 			while we have been getting up this conference. I cannot tell you how much I appreciate
 			the assistance and help of all those of you who are here, and the thousands of others
-			who have written us and encouraged us to go ahead with this great work at this
+			who have written us and encouraged us to go ahead with this great work and at this
 			particular time.</p>
 		<p>The idea in calling together this conference was to bring together not our old friends
 			and advocates who have been putting the idea of birth control forward for the last few
 			years, but the idea has been rather to bring to us new people, new ideas, of those who
 			have been working in social agencies, those who have been working in other groups for
-			the same result, namely a better nation, a better people in our nation.</p>
+			the same result, namely, a better nation, a better people in our nation.</p>
 		<p>And so we rejoice to have you here who are representing other social activities, health
 			agencies, and we have thought and we hope that you will give us new ideas, as we hope
 			that you will listen attentively to what is being read here, and that you will also be
@@ -73,10 +78,10 @@
 			quarter of a century have been putting the energy and the efforts of our healthy and fit
 			elements into bricks and mortar. We have been building up environment while we have paid
 			very little attention to the quality of human life. We have erected palatial residences
-			for the unfit, for the insane, for the feeble-minded, and for those who should not have
-			been born, to say nothing of being able to carry on the next generation. We are
-			confronted with this problem and everywhere we see that the sentiment of our people has
-			developed far beyond human intelligence.</p>
+			for the unfit, for the insane, for the feeble-minded, and for those who should not be
+			born, to say nothing of being able to carry on the next generation. We are confronted
+			with this problem and everywhere we see that the sentiment of our people has developed
+			far beyond human intelligence.</p>
 		<p>We are in a condition of society today, not only here but practically in every country in
 			the world, where the masses of the unfit have propagated to such an extent that our
 			intelligence is not able to grasp the conditions or to cope with the conditions which
@@ -85,7 +90,7 @@
 		<p>And that is the program of the birth control platform. That is what the birth control
 			movement intends to do, to stop at its source these qualities which are making for a
 			weakened and a deteriorated race.</p>
-		<p>There have been two instincts which have ever guided mankind in its destiny. Those two
+		<p>There have been two instincts which have ever guided mankind in its destiny. Those
 			instincts are hunger and sex. The instinct of hunger has received consideration in
 			practically every civilized country and man has adapted his institutions to meet these
 			needs. But the instinct of sex has been ignored. Now I claim, and most of us who make a
@@ -125,11 +130,11 @@
 			circulating this idea, this modern scientific idea in every country in the world. So far
 			we have groups in <place>China</place>, in <place>India</place>, in
 			<place>Japan</place>, in <place>Mexico</place>, in <place>South America</place>, to say
-			nothing of groups in <place>Germany</place>, <place>England</place>, <place reg="Scandinavia">Scandinavian
-				countries</place>, <place>Italy</place>, <place reg="Soviet Union">Russia</place>
-			and <place>Hungary</place>. This new idea is taking its place in the social body, in the
-			constructive platform of all of these countries, and I think for that we can say that
-			America has been the leading country in this new idea of birth control. (applause)</p>
+			nothing of groups in <place>Germany</place>, <place>England</place>, <place
+				reg="Scandinavia">Scandinavian countries</place>, <place>Italy</place>, <place>Russia</place> and <place>Hungary</place>. This new idea is
+			taking its place in the social body, in the constructive platform of all of these
+			countries, and I think for that we can say that America has been the leading country in
+			this new idea of birth control. (applause)</p>
 		<p>This is the first birth control conference ever held in this country, and we have a very
 			elaborate platform, and our aims, as we understand them, are based upon scientific
 			principles. We intend to organize the thinking populations of this country. We intend to
@@ -151,7 +156,7 @@
 			function of the control of birth a scientific one. We are going to put it into the
 			dignified role of science and that is where it belongs.</p>
 		<p>Our aim is definitely to repeal these laws so that the medical profession may give to
-			women as their request knowledge to prevent conception. We believe that with intelligent
+			women at their request knowledge to prevent conception. We believe that with intelligent
 			guidance and with the assistance of the intelligent members of our community we can
 			bring this about in a very short time, but we need your help. We need your courage. We
 			need you to come out and stand with us on our platform. We also want your guidance, and
@@ -160,6 +165,7 @@
 			want your cooperation. In other words, we want to join together to make this country the
 			greatest country in the world. We want to make this a country where its inhabitants and
 			every member of the community is an independent, self-reliant, courageous individual who
-			will take its place among the forward national of the civilized world. (applause)</p>
+			will take their place in this nation, and this nation in its turn will take its place
+			among the forward nations of the civilized world. (applause)</p>
 	</docBody>
 </doc>

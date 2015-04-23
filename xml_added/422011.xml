@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-06-24 MM </prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-22 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,9 +29,9 @@
 	<headNote resp="MSPP">
 		<p>Sanger spoke to <place reg="San Francisco, CA">San Francisco</place> reporters about her
 			trip to <place>Japan</place>.</p>
-		<index level1="Sanger, Margaret" level2="speaking tours" level3="1922 (Japan)"/>
-		<index level1="Japan" level2="overpopulation and"/>
-		<index level1="Japan" level2="censorship in"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="Japan" level2="overpopulation"/>
+		<index level1="Japan" level2="censorship"/>
 	</headNote>
 	<docBody>
 		<head>MRS. SANGER TO SAIL TOMORROW FOR FAR EAST</head>
