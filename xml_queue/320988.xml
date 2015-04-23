@@ -5,10 +5,15 @@
 		<prepDate>2011/06/07 CE</prepDate>
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1959-00-00">1959</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control, 1958</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control, 1958</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp320988</idno>
 		<sourceDesc>
@@ -21,23 +26,24 @@
 	<headNote resp="MSPP">
 		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
 			see <xref from="320973.xml"><title type="article">Birth Control, 1941</title></xref>;
-			<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
-			<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
-			<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
-			<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
-			<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
-			<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
-			<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
-			<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
-			<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
-			<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
-			<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
-			<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
-			<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
-			<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
-			<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>; and
-			<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
-			<index level1="Asia" level2="birth control in"/>
+				<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
+				<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
+				<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
+				<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
+				<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
+				<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
+				<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
+				<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
+				<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
+				<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
+				<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
+				<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
+				<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
+				<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
+				<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
+			and <xref from="320987.xml"><title type="article">Birth Control,
+			1957</title></xref>.</p>
+		<index level1="Asia" level2="birth control in"/>
 		<index level1="birth control" level2="access to" level3="international"/>
 		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
 		<index level1="birth control" level2="distribution of information about"
@@ -63,9 +69,10 @@
 		<p>Two events–one in the <place>United States</place> and one in
 			<place>England</place>–highlighted the year 1958 for the family planning movement. In
 				<place reg="New York, NY">New York city</place>, a longstanding prohibition on birth
-			control services in municipal hospitals was reversed. And in England, the <org reg="Lambeth Conference of Anglican Bishops">Lambeth
-				conference</org> of the bishops of the <org>Anglican (Protestant Episcopal)
-				Communion</org> adopted a new statement vigorously endorsing family planning.</p>
+			control services in municipal hospitals was reversed. And in England, the <org
+				reg="Lambeth Conference of Anglican Bishops">Lambeth conference</org> of the bishops
+			of the <org>Anglican (Protestant Episcopal) Communion</org> adopted a new statement
+			vigorously endorsing family planning.</p>
 		<p>In July the <person reg="Jacobs, Morris A.">hospital commissioner</person> of New York
 			city ordered a doctor at a <org reg="Kings County Hospital">city hospital</org> not to
 			prescribe a contraceptive for a Protestant patient whose life, the doctor believed,
@@ -83,10 +90,11 @@
 		<p>At the Lambeth conference the Episcopal bishops, representing 46 countries, characterized
 			birth control as “<q who="LCBAC">a right and important factor in Christian family
 				life</q>.” Responsibility “<q who="LCBAC">for deciding upon the number and frequency
-				of children has been laid by God upon the consciences of parents everywhere</q>,”
-			the bishops stated. “<q who="LCBAC">The procreation of children is not the sole purpose
-				of Christian marriage. Implicit within the bond between husband and wife is the
-				relationship of love with its sacramental expression in physical union</q>.”</p>
+				of children has been laid by <name type="deity">God</name> upon the consciences of
+				parents everywhere</q>,” the bishops stated. “<q who="LCBAC">The procreation of
+				children is not the sole purpose of Christian marriage. Implicit within the bond
+				between husband and wife is the relationship of love with its sacramental expression
+				in physical union</q>.”</p>
 		<p>Further progress was made in the world-wide effort to discover simpler, more effective
 			means of controlling fertility. Clinical tests continued in <place>Puerto Rico</place>,
 			the U.S. and elsewhere of a new oral contraceptive pill–a steroid device–while basic
@@ -104,14 +112,15 @@
 		<p>In its annual report, the Planned Parenthood Federation of America noted that during 1957
 			more than 250,000 visits were made to centres operated by the federation’s 103 state and
 			local affiliates by women seeking contraceptive service, infertility treatment and
-			marriage education. At the federation’s annual meeting in November, the Albert and Mary
-			Lasker Award in Planned Parenthood was given to <person reg="Brown, Harrison">Harrison
-				Brown</person> of the <org>California Institute of Technology</org> for his
-			pioneering work on the relationship between population growth and future needs for
-			resources <supplied resp="MSPP">...</supplied> his educational activity among scientists
-			and laymen on <supplied resp="MSPP">the</supplied> need for world-wide family planning
-			to achieve and maintain global resource population balance. The <org>International
-				Planned Parenthood federation</org> held a western hemisphere regional conference in
+			marriage education. At the federation’s annual meeting in November, the <org
+				reg="Albert D. and Mary Lasker Foundation">Albert and Mary Lasker</org> Award in
+			Planned Parenthood was given to <person reg="Brown, Harrison">Harrison Brown</person> of
+			the <org>California Institute of Technology</org> for his pioneering work on the
+			relationship between population growth and future needs for resources <supplied
+				resp="MSPP">. . .</supplied> his educational activity among scientists and laymen on
+				<supplied resp="MSPP">the</supplied> need for world-wide family planning to achieve
+			and maintain global resource population balance. The <org>International Planned
+				Parenthood federation</org> held a western hemisphere regional conference in
 				<place>Jamaica</place>, <place reg="British West Indies">B.W.I.</place>, in <gap
 				reason="faulty reproduction" extent="one word"/> and heard a forthright statement of
 			the need for birth control <supplied resp="MSPP">from</supplied> Sir <person
@@ -128,6 +137,6 @@
 			ecclesiastical <supplied resp="MSPP">approbation</supplied> it permits, however,
 			distribution of informational <supplied resp="MSPP">literature</supplied> about the
 			so-called “safe” period.</p>
-		<byline>(<person reg="Sanger, Margaret">M.SR</person>.)</byline>
+		<byline>(M.SR.)</byline>
 	</docBody>
 </doc>

@@ -6,10 +6,14 @@
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1959-00-00">1959</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control, 1958</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control, 1958</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp320988</idno>
 		<sourceDesc>
@@ -108,14 +112,15 @@
 		<p>In its annual report, the Planned Parenthood Federation of America noted that during 1957
 			more than 250,000 visits were made to centres operated by the federation’s 103 state and
 			local affiliates by women seeking contraceptive service, infertility treatment and
-			marriage education. At the federation’s annual meeting in November, the <org reg="Albert D. and Mary Lasker Foundation">Albert and Mary
-			Lasker</org> Award in Planned Parenthood was given to <person reg="Brown, Harrison">Harrison
-				Brown</person> of the <org>California Institute of Technology</org> for his
-			pioneering work on the relationship between population growth and future needs for
-			resources <supplied resp="MSPP">. . .</supplied> his educational activity among scientists
-			and laymen on <supplied resp="MSPP">the</supplied> need for world-wide family planning
-			to achieve and maintain global resource population balance. The <org>International
-				Planned Parenthood federation</org> held a western hemisphere regional conference in
+			marriage education. At the federation’s annual meeting in November, the <org
+				reg="Albert D. and Mary Lasker Foundation">Albert and Mary Lasker</org> Award in
+			Planned Parenthood was given to <person reg="Brown, Harrison">Harrison Brown</person> of
+			the <org>California Institute of Technology</org> for his pioneering work on the
+			relationship between population growth and future needs for resources <supplied
+				resp="MSPP">. . .</supplied> his educational activity among scientists and laymen on
+				<supplied resp="MSPP">the</supplied> need for world-wide family planning to achieve
+			and maintain global resource population balance. The <org>International Planned
+				Parenthood federation</org> held a western hemisphere regional conference in
 				<place>Jamaica</place>, <place reg="British West Indies">B.W.I.</place>, in <gap
 				reason="faulty reproduction" extent="one word"/> and heard a forthright statement of
 			the need for birth control <supplied resp="MSPP">from</supplied> Sir <person
@@ -132,6 +137,6 @@
 			ecclesiastical <supplied resp="MSPP">approbation</supplied> it permits, however,
 			distribution of informational <supplied resp="MSPP">literature</supplied> about the
 			so-called “safe” period.</p>
-		<byline>(<person reg="Sanger, Margaret">M.SR</person>.)</byline>
+		<byline>(M.SR.)</byline>
 	</docBody>
 </doc>
