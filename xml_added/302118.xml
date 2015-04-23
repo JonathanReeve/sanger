@@ -10,7 +10,9 @@
 		<prepDate>2014-03-05 CH correct regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-02 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-09-00"><supplied>Sept</supplied> 1913</docDate>
 		<docTitle>
 			<titlePart>The Paterson Strike</titlePart>
@@ -53,8 +55,9 @@
 			present day society.</p>
 		<p>After this victory a general strike fever permeated the <place>New England</place>
 			States, as well as <place>New York</place>, <place>Pennsylvania</place> and <place>New
-				Jersey</place>, calling upon the <org reg="Industrial Workers of the World">I.W.W.</org> for organizers, and showing a desire to form
-			a revolutionary organization as well as a willingness to use revolutionary weapons.</p>
+				Jersey</place>, calling upon the <org reg="Industrial Workers of the World"
+				>I.W.W.</org> for organizers, and showing a desire to form a revolutionary
+			organization as well as a willingness to use revolutionary weapons.</p>
 		<p>The <place reg="Little Falls, NY">Little Falls</place> strike followed and was almost at
 			its height when twenty-five thousand silk workers of Paterson arose in revolt and
 			struck.</p>
@@ -82,14 +85,14 @@
 			position, for their return to work would have enabled the manufacturers to fill their
 			orders in the New York mills, which would have meant absolute defeat for their Paterson
 			comrades.</p>
-		<p>There is no doubt that the capitalists in <place reg="United States">United States of America</place> had
-			become alarmed at the radical trend the labor movement in general had taken, and the
-			I.W.W. in particular. This knowledge caused the <org>National Manufacturers
-				Association</org> to concentrate their efforts in the Paterson strike situation.
-			They realized that the growth of this organization which had for its slogan "<q
-				who="IWW">the abolition of the wage system</q>" must be fought and checked at all
-			costs, for its growth meant absolute ruin, and subsequent control of the industries by
-			the workers.</p>
+		<p>There is no doubt that the capitalists in <place reg="United States">United States of
+				America</place> had become alarmed at the radical trend the labor movement in
+			general had taken, and the I.W.W. in particular. This knowledge caused the <org>National
+				Manufacturers Association</org> to concentrate their efforts in the Paterson strike
+			situation. They realized that the growth of this organization which had for its slogan
+				"<q who="IWW">the abolition of the wage system</q>" must be fought and checked at
+			all costs, for its growth meant absolute ruin, and subsequent control of the industries
+			by the workers.</p>
 		<p>Accordingly they armed themselves to the hilt in preparation for a fight, expecting a
 			repetition of the spirit prevalent in all previous I.W.W. fights. They controlled the
 			press both local and general; intimidated the smaller manufacturers to hold out;
@@ -124,7 +127,7 @@
 			joined the funeral procession and followed their comrade to the grave. In passing it is
 			interesting to note that this body of workers, belonging to a most revolutionary
 			organization, entered the <org>Roman Catholic Church</org> for the funeral service, and,
-			using the statues of the saints and <person reg="Virgin Mary">Virgin Mary</person> as
+			using the statues of the saints and <person reg="Virgin Mary (Biblical)">Virgin Mary</person> as
 			racks for their hats, quietly passed out again.</p>
 		<p>At the grave Carlo Tresca delivered the funeral oration in Italian, in a part of which he
 			called upon the working class to "<q who="TRECA">take blood for blood and life for

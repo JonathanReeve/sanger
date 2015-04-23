@@ -23,8 +23,8 @@
 			<name id="FAIHE">Fairchild, Henry Pratt</name>
 			<name id="NCMHS">Survey of the National Committee on Maternal Health</name>
 			<name id="USCCA">United States Circuit Court of Appeals</name>
-			<name id="WILJO">Williams, John Whitridge</name>
-			<name id="WILPR">Willson, Prentiss J.</name>
+			<name id="WILJO">Williams, J. Whitridge</name>
+			<name id="WILPR">Willson, Prentiss</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -76,12 +76,11 @@
 			civilization. The reason is not far to seek. The amount of the earth’s surface capable
 			of supporting life is strictly limited. On the other hand, Nature, to insure survival,
 			has equipped living creatures, mankind among them, with a disproportionate physiologic
-			capacity to increase and multiply. The result, as <person
-				reg="Fairchild, Henry Pratt">Professor Henry Pratt Fairchild</person> has
-			pointed out in his article “<title type="article">Population and War</title>,” is that
-				“<q who="FAIHE">every species in existence periodically produces offspring at a rate
-				which, if there were nothing to stop it, would overflow the earth is a very few
-				generations</q>.”</p>
+			capacity to increase and multiply. The result, as <person reg="Fairchild, Henry Pratt"
+				>Professor Henry Pratt Fairchild</person> has pointed out in his article “<title
+				type="article">Population and War</title>,” is that “<q who="FAIHE">every species in
+				existence periodically produces offspring at a rate which, if there were nothing to
+				stop it, would overflow the earth is a very few generations</q>.”</p>
 		<p>The hazards of survival in the vegetable and animal kingdoms maintain the balance. With
 			man, the same checks held population increase and means of subsistence in equilibrium
 			well into modern times. But the magnificent achievements of medical and other sciences
@@ -91,7 +90,7 @@
 			of this very fact that the problem of conscious control of the birth rate--birth
 			control--is peculiarly their problem and their responsibility.</p>
 		<p>I can do no better than to go to the heart of the matter by quoting the challenging
-			statement of the late <person reg="Williams, John Whitridge">J. Whitridge
+			statement of the late <person reg="Williams, J. Whitridge">J. Whitridge
 				Williams</person>, M.D., beloved and revered by physicians throughout the
 			country.</p>
 		<p>“<q who="WILJO">Where should we stand as medical men?</q>” Dr. Williams wrote, in the
@@ -190,7 +189,7 @@
 		<p>Individual physicians, in their writings, in testimony at hearings on birth control
 			bills, and in their generous service in birth control centers and on medical advisory
 			boards of birth control organizations, have shown a keen awareness of the urgency of the
-			birth control problem. <person reg="Willson, Prentiss J.">Dr. Prentiss J.
+			birth control problem. <person reg="Willson, Prentiss">Dr. Prentiss J.
 				Willson</person>, of <place reg="Washington, DC">Washington, D.C.</place>, chairman
 			of the <org>National Medical Committee on State and Federal Birth Control
 				Legislation</org>, gave testimony before a sub-committee of the <org

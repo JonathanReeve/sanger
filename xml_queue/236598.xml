@@ -5,7 +5,9 @@
 		<prepDate>2009/07/29 LL</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-03-18 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-11-14">14 Nov 1931</docDate>
 		<docTitle>
 			<titlePart>The Need for Birth Control in America</titlePart>
@@ -322,7 +324,7 @@
 				life.</p>
 			<p>It is known from authoritative sources that two feeble-minded persons have not been
 				known to bring to birth a normal child. It is also found by <person
-					reg="Tredgold, A. F.">Tredgold</person> that 82% of the feeble-minded are found
+					reg="Tredgold, Alfred Frank">Tredgold</person> that 82% of the feeble-minded are found
 				to have had a bad nervous inheritance. In <place reg="Vineland, NJ">Vineland, New
 					Jersey</place>, it was found that a large proportion of feeble-minded cases was
 				handed on from three generations. In one family of 319 persons, 119 were known to be

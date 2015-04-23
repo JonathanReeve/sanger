@@ -21,7 +21,8 @@
 		<idno>msp240299</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, June 1917, p. 5</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>, S70:790</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>,
+				S70:790</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -36,9 +37,7 @@
 	</headNote>
 	<docBody>
 		<head>Woman and War</head>
-		<byline>
-			Margaret Sanger
-		</byline>
+		<byline> Margaret Sanger </byline>
 		<p>Realization of the world tragedy--war--has at last been forced upon the American people.
 			Two years ago the fiendish internecine strife of the militarists of
 				<place>Europe</place> seemed remote enough. Today our women of the working class
@@ -46,7 +45,7 @@
 			husbands, sons and brothers are to be herded to the front as conscript fighters, in
 			violation of every human instinct fostered in them by the great libertarians who founded
 			this country.</p>
-		<p><person reg="United States">America</person>'s participation in the war has been brought
+		<p><place reg="United States">America</place>'s participation in the war has been brought
 			about by interested groups, not in response to the will of the majority. Not fifty per
 			cent. of the men could have been induced to vote Yes in a war referendum, not five per
 			cent. of the women. In <place>Australia</place>, a colony of the <place

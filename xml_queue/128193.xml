@@ -55,8 +55,12 @@
 		<index level1="World War I" level2="and population size"/>
 	</headNote>
 	<docBody>
-		<head><add>International Aspects of Birth Control</add></head>
-		<byline><add>by Margaret Sanger</add></byline>
+		<head>
+			<add>International Aspects of Birth Control</add>
+		</head>
+		<byline>
+			<add>by Margaret Sanger</add>
+		</byline>
 		<p>In the present attitude of <del>continental</del>
 			<place>Europe</place> toward the problem of birth control there are a number of
 			illuminating contrasts. The change in the attitude of <place>France</place>
@@ -75,7 +79,7 @@
 			that France, where, as <del>Mr.</del>
 			<person reg="Dell, Robert"><add>Robert</add> Dell</person> recently informed us,
 			reaction and militarism have most firmly entrenched themselves since the Armistice, has
-			renewed her great campaign for "repopulation," andhas moreover passed drastic laws
+			renewed her great campaign for "repopulation," and has moreover passed drastic laws
 			forbidding the sale and circulation of contraceptives, and is making the most desperate
 			efforts to stamp out all birth control agitation. Of course it was only to be expected
 			that there would come, as one of inevitable symptoms of war-hysteria, this cry for a
@@ -289,9 +293,9 @@
 				public duty--which is about as reasonable as to expect us to believe that they found
 				them under gooseberry bushes.</q>" Compare this cool and <del>over</del>
 			<add>almost</add> cynical sanity with the "repopulation" balderdash that finds its way
-			even into such well-informed French dailies as <person reg="Téry, Gustave">Gustave
-				Téry</person>'s <emph rend="underline"><title type="journal"
-			>l'Oeuvre</title></emph>.</p>
+			even into such well-informed French dailies as <person reg="T&eacute;ry, Gustave"
+				>Gustave Téry</person>'s <emph rend="underline"><title type="journal"
+					>l'Oeuvre</title></emph>.</p>
 		<p>England is at last awakening to a consciousness that the problems of population,
 			parenthood and birth control are closely interwoven and practically inseparable. This is
 			sufficiently evident in the second report of the <org>National Birth Rate Commission,

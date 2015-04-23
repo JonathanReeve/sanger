@@ -22,7 +22,8 @@
 			<resp>
 				<name id="UNK">Unknown</name>
 				<name id="WILBE">Wille, Bruno</name>
-				<name id="KISHE">Kisch, Heinrich</name><name id="LAT">Latin</name>
+				<name id="KISHE">Kisch, Heinrich</name>
+				<name id="LAT">Latin</name>
 			</resp>
 		</respStmt>
 	</mepHeader>
@@ -83,10 +84,10 @@
 			<p>The proper authority to give advice on preventive methods should be the medical
 				profession; no class of men and women are so aware of the need of this knowledge
 				among the working class as they -- yet they remain silent.</p>
-			<p>So until they awaken from their <person reg="Winkle, Rip Van">Rip Van Winkle</person>
-				slumber and take up this question, it is the duty of those who know reliable means
-				and methods of birth control to spread this information among the class who are
-				ignorant of it, yet who desire but cannot obtain it elsewhere.</p>
+			<p>So until they awaken from their <person reg="Van Winkle, Rip (fictional)">Rip Van
+					Winkle</person> slumber and take up this question, it is the duty of those who
+				know reliable means and methods of birth control to spread this information among
+				the class who are ignorant of it, yet who desire but cannot obtain it elsewhere.</p>
 		</div>
 		<div type="section">
 			<head type="sub">ARE PREVENTIVE METHODS INJURIOUS TO HEALTH?</head>

@@ -22,14 +22,14 @@
 		</sourceDesc>
 		<respStmt>
 			<name id="DIXAR">Dix, Arnold</name>
-			<name id="BERFR">von Bernhardi, Friedrich Adolf Julius</name>
+			<name id="BERFR">von Bernhardi, Friedrich</name>
 			<name id="COPFR">Coppola, Francesco</name>
 			<name id="GOEHE">Goering, Hermann Wilhelm</name>
 			<name id="MUSBE">Mussolini, Benito</name>
 			<name id="NYEDA">Nydea, Professor [unidentified]</name>
 			<name id="PEARA">Pearl, Raymond</name>
 			<name id="PUIPO">Pius XI</name>
-			<name id="THOWA">Thompson, Warren S.</name>
+			<name id="THOWA">Thompson, Warren</name>
 			<name id="UNK">Unknown</name>
 			<name id="MSPP">Margaret Sanger Papers Project</name>
 		</respStmt>
@@ -105,7 +105,7 @@
 					make it secure in order that the younger hands may find room and opportunity for
 					employment</q>.”</p>
 			<div type="section">
-				<p><person reg="von Bernhardi, Friedrich Adolf Julius">Von Berhardi</person> in his
+				<p><person reg="von Bernhardi, Friedrich">Von Bernhardi</person> in his
 						“<title type="book">Germany and the Next War</title>” published in 1911
 					states:</p>
 				<p> “<q who="BERFR">Strong, healthy, flourishing nations increase in number. From a
@@ -547,7 +547,7 @@
 				<p>
 					<add>Predictions</add>
 				</p>
-				<p><emph rend="underline">Italy</emph>--quote from <person reg="Thompson, Warren S."
+				<p><emph rend="underline">Italy</emph>--quote from <person reg="Thompson, Warren"
 							><emph rend="underline">Warren Thompson</emph></person>, <add><title
 							type="book">Danger Spots World and Population</title>, 1925</add>.</p>
 				<p>“<q who="THOWA">It appears then, that Italy has neither the agricultural nor
@@ -674,8 +674,8 @@
 							land</item>
 						<item>(2) given her room for expansion</item>
 						<item>(3) given her access to minerals and fuel. railroads which were to
-							enable Japan to become an Industrial Center for the <place reg="Asia">Far
-								East</place>.<add rend="underline">Disappointed</add></item>
+							enable Japan to become an Industrial Center for the <place reg="Asia"
+								>Far East</place>.<add rend="underline">Disappointed</add></item>
 					</list>
 				</div>
 				<div type="section">

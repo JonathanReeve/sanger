@@ -6,7 +6,9 @@
 		<prepDate>2001/11/14 CH enter corrections</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1952-10-00">Oct 1952</docDate>
 		<docTitle>
 			<titlePart>Birth Control Research on the March</titlePart>
@@ -30,8 +32,11 @@
 	</headNote>
 	<docBody>
 		<head>
-			<add>Birth Control Research on the March</add></head>
-		<byline><add>by Margaret Sanger</add></byline>
+			<add>Birth Control Research on the March</add>
+		</head>
+		<byline>
+			<add>by Margaret Sanger</add>
+		</byline>
 		<dateline>
 			<date value="1952-10-00">
 				<add>Oct--1952</add>
@@ -119,7 +124,7 @@
 				common in English gardens and to all garden lovers. Its official name is (<foreign
 					lang="LAT">lithosphermun officinale</foreign>). Dr. Gudkin began experiments
 				with this weed three years ago with mice. The experiment was 100% perfect.</p>
-			<p>With Dr. Gudkin was Dr. <person reg="Wiesner, Berthold P.">B. P. Wiesner</person>, a
+			<p>With Dr. Gudkin was Dr. <person reg="Wiesner, Berthold Paul">B. P. Wiesner</person>, a
 				specialist in human fertility. Also helping are other experts–one Dr. <person
 					reg="Gilmore, John">John Gilmore</person>, Director of the Botanical Gardens of
 					<org>Cambridge University</org>. These experts are now encouraging people to

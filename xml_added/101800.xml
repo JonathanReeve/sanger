@@ -8,8 +8,12 @@
 		<prepDate>2011-11-28 CH correct typos</prepDate>
 		<prepDate>2014-03-20 CH clean and reg</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1952-11-01"><supplied resp="MSPP">1 Nov 1952</supplied></docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1952-11-01">
+			<supplied resp="MSPP">1 Nov 1952</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>Address to the Japanese People</titlePart>
 		</docTitle>
@@ -175,13 +179,13 @@
 			<p>What of the possibility of industrial expansion? Many have felt that Japan must turn
 				to industry and commerce to provide for surplus population and they have pointed to
 				Great Britain as an example. The American population expert, <person
-					reg="Thompson, Warren S.">Warren S. Thompson</person>, has demolished that
-				argument by stressing that Japan does not have natural resources equal to Great
-				Britain, that the latter nation developed her industrial strength in a world largely
-				agricultural, that she had a large and increasing body of English-speaking people
-				abroad, that capital and technical knowledge, and skill are more mobile today, and
-				finally, he notes the increase of protective tariffs in every country safeguarding
-				their own industrial output.</p>
+					reg="Thompson, Warren">Warren S. Thompson</person>, has demolished that argument
+				by stressing that Japan does not have natural resources equal to Great Britain, that
+				the latter nation developed her industrial strength in a world largely agricultural,
+				that she had a large and increasing body of English-speaking people abroad, that
+				capital and technical knowledge, and skill are more mobile today, and finally, he
+				notes the increase of protective tariffs in every country safeguarding their own
+				industrial output.</p>
 			<p>This is not just a Japanese problem. It has become a world problem. Rather, yours is
 				intensified because of your small land area and the fact only 15.5 percent is
 				arable. The vast essential problem of all nations today could be greatly alleviated
