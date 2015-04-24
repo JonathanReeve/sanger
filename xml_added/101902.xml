@@ -21,7 +21,7 @@
 		<respStmt>
 			<name id="DICRO">Dickinson, Robert Latou</name>
 			<name id="FAIHE">Fairchild, Henry Pratt</name>
-			<name id="NCMHS">Survey of the National Committee on Maternal Health</name>
+			<name id="NCMHS">National Committee on Maternal Health Survey</name>
 			<name id="USCCA">United States Circuit Court of Appeals</name>
 			<name id="WILJO">Williams, J. Whitridge</name>
 			<name id="WILPR">Willson, Prentiss</name>
@@ -189,10 +189,10 @@
 		<p>Individual physicians, in their writings, in testimony at hearings on birth control
 			bills, and in their generous service in birth control centers and on medical advisory
 			boards of birth control organizations, have shown a keen awareness of the urgency of the
-			birth control problem. <person reg="Willson, Prentiss">Dr. Prentiss J.
-				Willson</person>, of <place reg="Washington, DC">Washington, D.C.</place>, chairman
-			of the <org>National Medical Committee on State and Federal Birth Control
-				Legislation</org>, gave testimony before a sub-committee of the <org
+			birth control problem. <person reg="Willson, Prentiss">Dr. Prentiss J. Willson</person>,
+			of <place reg="Washington, DC">Washington, D.C.</place>, chairman of the <org>National
+				Medical Committee on State and Federal Birth Control Legislation</org>, gave
+			testimony before a sub-committee of the <org
 				reg="United States Senate Committee on the Judiciary">U.S. Senate Judiciary
 				Committee</org> in 1934, which would, I think, be echoed by every thoughtful
 			physician. As such it merits detailed quotations:</p>
@@ -276,7 +276,7 @@
 				labor and operation, the control of infection in obstetrics and surgery, and the
 				control of communicable diseases</q>,” said Dr. <person
 				reg="Dickinson, Robert Latou">Robert L. Dickinson</person> some years ago,
-			addressing the <org><place reg="New York, NY">New York</place> Academy of
+			addressing the <org reg="New York Academy of Medicine"><place reg="New York, NY">New York</place> Academy of
 			Medicine</org>. “<q who="DICRO">These three advances, made in the face of opposition and
 				indifference on the part of the organized profession, are now its common pride and
 				glory. A fourth control, the control of conception, needed to safeguard life,
