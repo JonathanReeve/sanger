@@ -6,7 +6,9 @@
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-04-16 EK clean regs </prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1955-00-00">1955</docDate>
 		<docTitle>
 			<titlePart>
@@ -18,7 +20,7 @@
 			<bibl><title type="book">Britannica Book of the Year</title> (1955) pp. 165-66</bibl>
 		</sourceDesc>
 		<respStmt>
-			<name id="AMLF">Albert and Mary Lasker Foundation</name>
+			<name id="AMLF">Albert D. and Mary Lasker Foundation</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -117,9 +119,9 @@
 				Planned Parenthood federation, whose coast-to-coast lecture tour on “<title
 					type="article">India’s Social Revolution</title>” served to broaden public
 				understanding of family planning needs in an underdeveloped nation, and <person
-					reg="Ottesen-Jensen, Elise"> >Elise Ottesen-Jensen</person>, Swedish birth
-				control and sex education pioneer. Mrs. Ottensen-Jensen was the recipient of the
-				1954 <org reg="Albert and Mary Lasker Foundation">Lasker foundation</org> award in
+					reg="Ottesen-Jensen, Elise">Elise Ottesen-Jensen</person>, Swedish birth
+				control and sex education pioneer. Mrs. Ottesen-Jensen was the recipient of the
+				1954 <org reg="Albert D. and Mary Lasker Foundation">Lasker foundation</org> award in
 				Planned Parenthood, presented for “<q who="AMLF">setting <place>Sweden</place>’s
 					family planning movement in the forefront of <place>Europe</place> and the
 					world</q>.”</p>
@@ -133,10 +135,10 @@
 		</div>
 		<div type="section">
 			<head type="sub">U.S. Services.–</head>
-			<p>During 1954, the Planned Parenthood Federation of America was the national
-				clearing house for 12 state leagues and 101 local committees, in 29 states. Birth
-				control clinics numbered 532. These services were in 279 public health clinics, 74
-				hospitals and in 182 extramural clinics, sponsored by Planned Parenthood committees.
+			<p>During 1954, the Planned Parenthood Federation of America was the national clearing
+				house for 12 state leagues and 101 local committees, in 29 states. Birth control
+				clinics numbered 532. These services were in 279 public health clinics, 74 hospitals
+				and in 182 extramural clinics, sponsored by Planned Parenthood committees.
 				Infertility referral services numbered 65. The seven states which included birth
 				control in their public health department services were <place>Alabama</place>,
 					<place>Florida</place>, <place>Georgia</place>, <place>Mississippi</place>,
