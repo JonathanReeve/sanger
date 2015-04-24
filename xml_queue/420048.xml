@@ -9,6 +9,7 @@
 		<prepDate>2007-05-30 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-04-16-EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
@@ -16,8 +17,7 @@
 		</docTitle>
 		<idno>msp420048</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, April 1914 ,
-				15</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, April 1914, p.	15</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0529</bibl>
 		</sourceDesc>
@@ -27,9 +27,11 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="working classes"/>
 		<index level1="birth control"/>
-		<index level1="free love"/>
-	</headNote>
+		<index level1="sex and sexuality"/>
+		</headNote>
 	<docBody>
 		<head>FOOD AND LOVE</head>
 		<p>Sixty years ago <person reg="Drysdale, George">George Drysdale</person>, one of the great
