@@ -5,11 +5,14 @@
 		<prepDate>2014/24/01 YG initial encoding</prepDate>
 		<prepDate>2014-01-29 CH proof</prepDate>
 		<prepDate>2015-03-18 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-11-09">09 Nov 1931</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Speech at the San Antonio Open
-				Forum</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Speech at the San Antonio Open Forum</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421063</idno>
 		<sourceDesc>
@@ -21,17 +24,19 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger's talk to the San Antonio Open Forum was not found. Over 600
-			were in attendance.</p>
+	<headNote resp="MSPP">
+		<p>Sanger's talk to the San Antonio Open Forum was not found. Over 600 were in
+			attendance.</p>
 		<index level1="birth control" level2="religion and"/>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="abortion" level2="birth control vs."/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/></headNote>
+		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
+	</headNote>
 	<docBody>
 		<head>600 FOLK ATTEND SANGER LECTURE</head>
 		<div>
 			<p>
-				<q who="SAE"><place reg="San Antonio, TX">San Antonio</place>either has matured and
+				<q who="SAE"><place reg="San Antonio, TX">San Antonio</place> either has matured and
 					unchangeable ideas about birth control, or else they are not interested, judging
 					from the small crowd that turned out Monday night to hear the world’s foremost
 					exponent of the practice, Margaret Sanger, speak at <org
