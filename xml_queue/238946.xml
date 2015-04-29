@@ -8,6 +8,7 @@
 		<prepDate>2011/11/28 CH correct typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-04-29 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,7 +20,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Oct. 1921, p. 5</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
-				S70:913</bibl>
+				S70:0913</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,23 +28,23 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For a draft version of this article, see Library of Congress Microfilm 129:164. For
+		<p>For a draft version of this article, see Sanger Papers, Library of Congress Microfilm 129:164. For
 			related documents, see "<xref from="129009">Limitations of Eugenics</xref>," Sept. 1921
 			and Chapter VIII of "<title type="book">The Pivot of Civilization</title>," 1922. An
 			editorial introduction mentions the timeliness of this article in light of the recently
 			held <org reg="International Congress on Eugenics, 2nd"> Second International Congress
 				on Eugenics</org>. Sanger submitted this paper to the Congress, but it was
 			rejected.</p>
-		<index level1="birth control" level2="movement"/>
-		<index level1="eugenics" level2="birth control and"/>
+		<index level1="birth control" level2="propaganda and publicity"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control movement"/>
+		<index level1="eugenics" level2="and birth control"/>
 		<index level1="eugenics" level2="MS on"/>
 		<index level1="eugenics" level2="positive"/>
-		<index level1="International Congress of Eugenics" level2="in 1921 (2nd, New York)"/>
 		<index level1="men" level2="reproductive choices and decisions"/>
-		<index level1="parenthood" level2="MS on"/>
-		<index level1="sexuality" level2="working class"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="MS on"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="race progress"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="motherhood" level2="responsibilities of"/>
 	</headNote>
 	<docBody>
 		<head rend="italics">The Eugenic Value of Birth Control Propaganda</head>
@@ -65,12 +66,12 @@
 		<p>In the limited space of the present paper, I have time only to touch upon some of the
 			fundamental convictions that form the basis of our Birth Control propaganda, and which,
 			as I think you must agree, indicate that the campaign for Birth Control is not merely of
-			eugenic value, but is practically identical in ideal, with the final aims of
+			eugenic value, but is practically identical in ideal with the final aims of
 			Eugenics.</p>
-		<p>First: we are convinced that racial regeneration like individual regeneration, must come
+		<p>First: We are convinced that racial regeneration like individual regeneration, must come
 			"from within." That is, it must be autonomous, self-directive, and not imposed from
 			without. In other words, every potential parent, and especially every potential mother,
-			must be brought to an acute realization of the primary and central importance of
+			must be brought to an acute realization of the primary and central responsibility of
 			bringing children into this world.</p>
 		<p>Secondly: Not until the parents of the world are thus given control over their
 			reproductive faculties will it ever be possible not alone to improve the quality of the
@@ -78,7 +79,7 @@
 			Only by self-control of this type, only by intelligent mastery of the procreative powers
 			can the great mass of humanity be awakened to the great responsibility of
 			parenthood.</p>
-		<p>Thirdly: we have come to the conclusion, based on widespread investigation and
+		<p>Thirdly: We have come to the conclusion, based on widespread investigation and
 			experience, that this education for parenthood and of parenthood must be based upon the
 			needs and demands of the people themselves. An idealistic code of sexual ethics, imposed
 			from above, a set of rules devised by high-minded theorists who fail to take into
@@ -97,7 +98,7 @@
 			be slavery but the most effective avenue toward self-development and self-realization.
 			Upon this basis only may we improve the quality of the race.</p>
 		<p>As an advocate of Birth Control, I wish to take advantage of the present opportunity to
-			point out that the unbalance between the birth rate of the "unfit" and the "fit",
+			point out that the unbalance between the birth rate of the "unfit" and the "fit,"
 			admittedly the greatest present menace to civilization, can never be rectified by the
 			inauguration of a cradle competition between these two classes. In this matter, the
 			example of the inferior classes, the fertility of the feeble-minded, the mentally

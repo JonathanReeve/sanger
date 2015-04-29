@@ -10,6 +10,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-04-29 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,7 +20,7 @@
 		</docTitle>
 		<idno>msp420005</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, June 1914, 25, p. 31.</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, June 1914, p. 31.</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:539</bibl>
 		</sourceDesc>
@@ -27,8 +28,12 @@
 	<headNote>
 		<p>For a follow-up article, see "<xref from="420029.xml">Militants in England</xref>," July
 			1914.</p>
-		<index level1="feminism and feminists" level2="in England"/>
-		<index level1="women" level2="enslavement of"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="feminism and feminists" level2="England"/>
+		<index level1="woman suffrage"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="and politics"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
 	</headNote>
 	<docBody>
 		<head>THE MILITANTS IN ENGLAND</head>

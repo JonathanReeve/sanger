@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-08-13 CH proof tags</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-04-29 Ek correct proof and update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docAuthor><person reg="Gordon, Gertrude">Gertrude Gordon</person></docAuthor>
 		<docDate value="1916-04-20">20 Apr. 1916</docDate>
@@ -14,9 +15,8 @@
 		</docTitle>
 		<idno>msp422037</idno>
 		<sourceDesc>
-			<bibl><title type="article">Birth Control Apostle Talks Propaganda</title>, <title
+			<bibl><title type="article">Birth Control Apostle Talks of Propaganda</title>, <title
 					type="journal">Pittsburgh Press</title>, Apr. 20, 1916, p. 16</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -29,17 +29,21 @@
 				<org>Montefiore Auditorium</org> in <place reg="Pittsburgh, PA">Pittsburgh</place>.
 			That speech has not been found, but the interview likely summarizes its major
 			points.</p>
-		<index level1="Goldman, Emma"/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="Sanger, Margaret" level2="tours” level3=”1916 (U.S.)"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+			<index level1="Sanger, Margaret" level2="descriptions of"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="women and girls” level2=and birth control"/>
+		<index level1="women and girls" level2="enslavement of"/>
 		<index level1="Netherlands, the" level2="birth control in"/>
-		<index level1="voluntary motherhood"/>
-		<index level1="birth rate" level2="population growth and"/>
-		<index level1="poverty" level2="family size and"/>
-		<index level1="birth control" level2="distribution of information about"/>
-		<index level1="birth control" level2="lack of knowledge of"
-			level3="negative consequences of"/>
-		<index level1="birth control" level2="American opinion on"/>
-		<index level1="birth control clinics and leagues"/>
-	</headNote>
+		<index level1="children" level2="unwanted"/>
+		<index level1="United States" level2="birth control in"/>
+		</headNote>
 	<docBody>
 		<head>BIRTH CONTROL APOSTLE TALKS OF PROPAGANDA</head>
 		<byline>ByGertrude Gordon.</byline>
@@ -53,30 +57,30 @@
 			standpoint, it is needed. Too many women have motherhood forced upon them. Too many
 			women have their health broken and bring weak, sickly children into the world when they
 			do not want to. It is nonsense to say that birth control will decrease the
-			population.</p>
-		<p>"It will decrease the birthrate-yes, but then, the children who are born will live in
+			population."</p>
+		<p>"It will decrease the birthrate--yes, but then, the children who are born will live in
 			greater proportion than they do now. Only a few weeks ago, a newspaper story was printed
 			of a woman in an <place>Ohio</place> town who just had given birth to her thirteenth
 			child. Nine of her children had died. <q who="UNK">'I do not believe in birth
 				control,'</q> said this woman, fatuously. How much better it would have been had she
 			had only four children and they all had lived, instead of having nine out of 13
 			die."</p>
-		<p><q who="PP">"Would birth control, known generally, increase immortality?" I asked
+		<p><q who="PP">"Would birth control, known generally, increase immorality?" I asked
 				her.</q> "Positively not," she said, indignantly. "I always consider that idea is an
 			insult to womanhood. Fear of consequences keeps very few girls from illicit love. Girls
-			are not moral through fear-they are moral because they inherently are good. If their own
+			are not moral through fear--they are moral because they inherently are good. If their own
 			instinct does not keep them moral, nothing will. Besides, do not think this knowledge
 			will be distributed promiscuously. Clinics will be established in every district and the
 			knowledge will be given to those women who come and ask for it.</p>
 		<div type="section">
 			<head type="sub">SUCCESS IN HOLLAND</head>
-			<p>"In <place reg="Netherlands">Holland</place> this has been practiced for 30 years.
+			<p>"In <place reg="Netherlands, the">Holland</place> this has been practiced for 30 years.
 				Every woman, when she is married, is given knowledge of how to limit her family.
 				Every woman of mature age, whether married or not, also is given this knowledge if
 				she asks for it. As a result Holland has few economic problems; she has no
-				commercialized vice whatever; she has few feeble-minded persons-in fact, hardly any,
+				commercialized vice whatever; she has few feeble-minded persons--in fact, hardly any,
 				and no poverty, such as we have here. The <place>United States</place> is the only
-				civilized country where science refuses to help women.</p>
+				civilized country where science refuses to help women."</p>
 			<p>"Today the percentage of women in broken health through effects of criminal
 				operations is terrible to contemplate. Among the poor classes where large families
 				are the rule, children are brought up in filth and squalor, in poverty and
@@ -85,7 +89,7 @@
 				children would not be born than that they should be born of unwilling mothers, as
 				too many are. Warped natures, criminal tendencies, abnormal selfishness, all are
 				results of pre-natal influences upon unwilling mothers. I am pleased, though, to see
-				how this movement is spreading.</p>
+				how this movement is spreading."</p>
 			<p>"Sunday I speak before a Unitarian church in <place reg="Cleveland, OH"
 					>Cleveland.</place> In that city women's clubs, social organizations, all
 				workers for the social uplift, are interested in the movement. In the west it is
