@@ -3,8 +3,8 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2001-11-19 CN</prepDate>
-
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-04-30 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,10 +14,10 @@
 		</docTitle>
 		<idno>msp420003</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 4, June 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, June 1914, p.
 				28</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:542</bibl>
+				C16:0542</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,8 +28,14 @@
 	<headNote>
 		<p>For the continuation of this article, see "Class and Character," <xref from="420028.xml"
 				>July 1914</xref> and <xref from="420022.xml">August 1914.</xref></p>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="working classes" level2="revolution and"/>
+		<index level1="class warfare"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="working classes" level2="and revolution"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="working class"/>
+		<index level1="Catholic Church" level2="MS on"/>
+		<index level1="feminism and feminists"/>
 	</headNote>
 	<docBody>
 		<head>CLASS AND CHARACTER</head>

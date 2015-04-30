@@ -8,6 +8,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-04-30 ek update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,9 +18,8 @@
 		</docTitle>
 		<idno>msp420000</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 4, June 1914, p.
-				32</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:546</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, June 1914, p. 32</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0546</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,7 +27,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="labor movement"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="labor movement" level2="strikes"/>
+		<index level1="women and girls" level2="working class"/>
 	</headNote>
 	<docBody>
 		<head>SERVILE VIRTUES</head>
