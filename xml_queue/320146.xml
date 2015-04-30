@@ -9,6 +9,7 @@
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH Clean regs</prepDate>
 		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-04-30 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,6 +20,7 @@
 		<idno>msp320146</idno>
 		<sourceDesc>
 			<bibl><title type="book">Family Limitation</title>, 8th Edition (New York: 1918)</bibl>
+			<bibl>Margaret sanger Papers Project, NYU Division of Libraries</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp>
@@ -27,27 +29,30 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="abortion" level2="MS on"/>
-		<index level1="birth control" level2="class-based"/>
+		<p>For the first edition of <title type="book">Family Limitation,</title> published in 1914, see <xref from="238157.xml">Family Limitation</xref></p>
+		<index level1="abortion"/>
 		<index level1="birth control" level2="health benefits and risks"/>
-		<index level1="birth control" level2="methods" level3="withdrawal"/>
-		<index level1="birth control" level2="methods" level3="condom"/>
-		<index level1="birth control" level2="methods" level3="douche"/>
-		<index level1="birth control" level2="methods" level3="laxatives"/>
-		<index level1="birth control" level2="methods" level3="nursing"/>
-		<index level1="birth control" level2="methods and devices" level3="stem pessary"/>
-		<index level1="birth control" level2="methods" level3="safe period"/>
-		<index level1="birth control" level2="methods" level3="sponge"/>
-		<index level1="birth control" level2="methods" level3="suppository"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
-		<index level1="family size"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="men" level2="reproductive choices and decisions"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="women" level2="sexual freedom and fulfillment"/>
-		<index level1="working classes" level2="birth control and"/>
-		<index level1="working classes" level2="MS on"/>
-	</headNote>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="suppression of"/>
+		<index level1="birth control methods"/>
+		<index level1="birth control methods" level2="efficacy of"/>
+		<index level1="birth control methods" level2="condom"/>
+		<index level1="birth control methods" level2="douche"/>
+		<index level1="birth control methods" level2="instructions"/>
+		<index level1="birth control methods" level2="laxative"/>
+		<index level1="birth control methods" level2="pessaries"/>
+		<index level1="birth control methods" level2="safe period"/>
+		<index level1="birth control methods" level2="sponge"/>
+		<index level1="birth control methods" level2="suppository"/>
+		<index level1="birth control methods" level2="withdrawal"/>
+		<index level1="Family Limitation"/>
+		<index level1="menstruation"/>
+		<index level1="women and girls" level2="sexuality of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="sex and sexuality" level2="MS on"/>
+		<index level1="sex education" level2="and birth control"/>
+		<index level1="working classes" level2="and birth control"/>
+		</headNote>
 	<docBody>
 		<head>Family Limitation, <emph rend="underline">Revised</emph>, Eighth Edition</head>
 		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
