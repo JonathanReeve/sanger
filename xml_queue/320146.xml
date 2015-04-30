@@ -15,12 +15,12 @@
 		</docAuthor>
 		<docDate value="1918-00-00">1918</docDate>
 		<docTitle>
-			<titlePart>Family Limitation, eight edition, revised</titlePart>
+			<titlePart>Family Limitation, 8th edition revised</titlePart>
 		</docTitle>
 		<idno>msp320146</idno>
 		<sourceDesc>
 			<bibl><title type="book">Family Limitation</title>, 8th Edition (New York: 1918)</bibl>
-			<bibl>Margaret sanger Papers Project, NYU Division of Libraries</bibl>
+			<bibl>Margaret Sanger Papers Project, NYU Division of Libraries</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp>
@@ -54,8 +54,9 @@
 		<index level1="working classes" level2="and birth control"/>
 		</headNote>
 	<docBody>
-		<head>Family Limitation, <emph rend="underline">Revised</emph>, Eighth Edition</head>
+		<head>Family Limitation</head>
 		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<p><emph rend="underline">Revised</emph> Eighth Edition, 1918</p>
 		<div>
 			<head type="sub">INTRODUCTION.</head>
 			<p>There is no need for any one to explain to the working men and women in <place
