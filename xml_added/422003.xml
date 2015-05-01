@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014/07/01 CH proof tags</prepDate>
 		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-05-01 EK update index and correct proof</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,8 +19,7 @@
 		<idno>msp422003</idno>
 		<sourceDesc>
 			<bibl><title type="article">Birth Control Women Launch Drive for Law</title>, <title
-					type="journal">Chicago Daily Tribune</title>, Jan. 27, 1917</bibl>
-
+					type="journal">Chicago Daily Tribune</title>, Jan. 28, 1917, p. 9</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,30 +27,30 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="jails and imprisonment" level2="Blackwell's Island Workhouse (New York)"/>
-		<index level1="National Committee on Federal Legislation for Birth Control"/>
-		<index level1="National Committee on Federal Legislation for Birth Control"
-			level2="birth control bills"/>
-		<index level1="birth control movement" level2="goals and strategies"/>
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="New York" level2="birth control laws"/>
+		<index level1="birth control laws and legislation" level2="state"
+			level3="NYS Criminal Code, Section 1145"/>
+		<index level1="Sanger, Margaret" level2="family of"/>
+		<index level1="Committee  of 100"/>
+		<index level1="birth control" level2="propaganda and publicity"/>
+		<index level1="United States Congress"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
-		<index level1="New York" level2="birth control laws and legislation"/>
 	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL WOMEN LAUNCH DRIVE FOR LAW</head>
-
 		<dateline>
-			<date value="Jan. 27"/>
-			<place reg="New York, NY">New York</place>
+			<place reg="New York, NY">New York,</place>
+			<date value="Jan. 27.--"/>
 		</dateline>
 		<div>
 			<p>
 				<q who="CDT">The first result of the hunger strike and forcible feeding of <person
 						reg="Byrne, Ethel">Mrs. Ethel Byrne</person> at <org
 						reg="Blackwell's Island Penitentiary">Blackwell's Island</org> came
-					tonight.</q>
-			</p>
+					tonight.</q></p>
 			<p>
-				<q who="CDT">A drive on <org reg="United States Congress">congress</org> Tuesday by
+				<q who="CDT">A drive on <org reg="United States Congress">Congress</org> Tuesday by
 						<person reg="Fassett, Lillian Griffs">Mrs. Lillian Fassett</person> and
 					others to get national legislation favoring birth control is being
 					organized.</q>
@@ -78,27 +78,24 @@
 		</div>
 		<div type="section">
 			<head type="sub">Calls Sister Critically Ill.</head>
-
 			<p>"My sister," said Mrs. Margaret Sanger, leader of the birth control movement, "is in
-				very critical condition since she was rolled in a blanket and milk, eggs and a
-				stimulant forced into her stomach through a rubber tube.</p>
-			<p>"As for helping my sister, we are balked at every turn. The women of the <org
+				a very critical condition since she was rolled in a blanket and milk, eggs and a
+				stimulant forced into her stomach through a rubber tube."</p>
+			<p>"As for helping my sister, we are balked at every turn. The women on the <org
 					reg="Committee of 100">committee of one hundred,</org> Mrs. Fassett, <person
 					reg="Pinchot, Gertrude Minturn">Mrs. Amos Pinchot</person> and others have
-				therefore concentrated on getting favorable action by congress.</p>
+				therefore concentrated on getting favorable action by Congress."</p>
 			<p>"A canvas of congressmen will be made by Mrs. Fassett and the others and one of our
-				friends chosen to introduce the proposed law.</p>
+				friends chosen to introduce the proposed law."</p>
 			<p>"The bill has not been completely drafted, but it will seek the nullification of the
 				federal statute against the dissemination of birth control information and the
-				establishment of the righ to tell poor women who need it, all about it."</p>
+				establishment of the right to tell poor women who need it, all about it."</p>
 		</div>
 		<div type="section">
 			<head type="sub">Explains "Hunger Strike."</head>
-
 			<p><q who="CDT">Mrs. Sanger explained today that her sister is hunger striking</q>
-				"against the action of the course in refusing her the right to test the
-				constitutionality of the <place reg="New York, NY">New York</place> anti-birth
-				control law."</p>
+				"against the action of the court in refusing her the right to test the
+				constitutionality of the <place>New York</place> anti-birth control law."</p>
 			<p><q who="CDT">Describing it as</q> "the most outrageous piece of legislation on the
 				statute books," Mrs. Sanger declared that it keeps poor working people in ignorance,
 				while those with money and intelligence can get the forbidden information and use

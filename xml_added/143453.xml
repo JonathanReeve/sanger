@@ -21,7 +21,7 @@
 		<idno>msp143453</idno>
 		<sourceDesc>
 			<bibl>The Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 131:119</bibl>
+			<bibl><title type="mf">Library of Congress Microfilm</title> 131:0119</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -31,25 +31,26 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="Australia" level2="birth rates in"/>
-		<index level1="birth control" level2="war and"/>
+		<index level1="war" level2="and birth control"/>
+		<index level1="war" level2="MS on"/>
+		<index level1="war" level2="and population"/>
+		<index level1="race suicide"/>
+		<index level1="Hungary" level2="birth rate in"/>
+		<index level1="mortality rates"/>
+		<index level1="France" level2="birth control in"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="Australia" level2="birth control in"/>
+		<index level1="New Zealand" level2="birth control in"/>	
+		<index level1="venereal disease"/>
+		<index level1="World War I" level2="MS on"/>
 		<index level1="birth rate" level2="decline in"/>
 		<index level1="England" level2="birth rate in"/>
 		<index level1="eugenics" level2="birth control and"/>
-		<index level1="France" level2="death rate in"/>
-		<index level1="Hungary" level2="birth rate in"/>
 		<index level1="mortality rates" level2="infant"/>
-		<index level1="New York City" level2="mortality rate" level3="infant"/>
-		<index level1="New Zealand" level2="birth rates in"/>
-		<index level1="race suicide"/>
-		<index level1="venereal disease"/>
-		<index level1="venereal disease" level2="prevention of"/>
-		<index level1="venereal disease" level2="and war"/>
-		<index level1="World War I" level2="MS on"/>
-		<index level1="World War I" level2="population and"/>
-	</headNote>
+		<p>No published version has been found</p>
+		</headNote>
 	<docBody>
-		<head>The War and Birth Control.</head>
+		<head><emph rend="underline">THE WAR AND BIRTH CONTROL.</emph></head>
 		<p rend="underline">Points for an article.</p>
 		<p>There are two special reasons in war-time for pushing to make birth control information
 			legal:--one that it means positive race conservation; the other that war has always
@@ -90,7 +91,7 @@
 			1000 to 39 a 1000 since the war began. Only one third of these deaths were in the
 				army.<del> The civilian</del><add>The increase in the civilian</add> deathrate
 				<del>has therefore doubled. If this</del> can happen in a country which has had free
-			birth control <add>information</add> for half a century, what will be the increase in an
+			birth control information for half a century, what will be the increase in an
 			ignorant country like ours which prohibits the information, if the war should drag on
 			for two or three years?</p>
 		<p/>
@@ -123,14 +124,12 @@
 			that for a 12 week period ending December 7th last, there were reported from the 31
 			cantonments 21,742 <emph rend="underline">new</emph> cases of venereal disease. The
 			number of previous uncured cases was not reported. The total number of men then in camp
-			was not stated.</p>
-		<p/>
-		<p rend="blockquote"> (Note:-- I am trying to find out, so the ratio may be
+			was not stated. (Note:-- I am trying to find out, so the ratio may be
 				<del>different</del> Determined.) Official reports of January 18th showed that the
 			highest rate for venereal disease in any of the camps was <place reg="Camp Pike, AK"
 				>Camp Pike</place>, in <place>Arkansas</place> where over half of the men were
-			infected. The rate was 56.7 per thousand. The lowest rate was <place
-				reg="Camp Upton, AK">Camp Upton.</place> where there were only 4 <emph
+			infected. The rate was 585.7 per thousand. The lowest rate was <place
+				reg="Camp Upton, AK">Camp Upton</place>, where there were only 4 <emph
 				rend="underline">new</emph> cases for that week.</p>
 		<p/>
 		<p rend="blockquote">Apparently the conditions in the allied armies are worse than ours.
@@ -144,7 +143,7 @@
 				>from all parts of our empire, a million men have come overseas. Over one-third of
 				that million becomes infected with venereal disease every 12 months</q>."</p>
 		<p/>
-		<p rend="blockquote">Conditions in the trenches are such that whatever, infection there is,
+		<p rend="blockquote">Conditions in the trenches are such that whatever infection there is,
 			may be rapidly spread, and many men may become diseased who have not willingly subjected
 			themselves to the chance of infection.</p>
 		<p/>
@@ -171,7 +170,6 @@
 			have the strength and resources of parents depleted by having more children than they
 			can provide with fair health and care, or to have a next generation handicapped
 				<add>and</add>below the par.</p>
-		<p/>
-		<p>BS&amp;AU/12646</p>
+		
 	</docBody>
 </doc>

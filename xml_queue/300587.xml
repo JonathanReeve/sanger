@@ -6,11 +6,12 @@
 		<prepDate>2013-07-23 CH correct type</prepDate>
 		<prepDate>2014-07-10 CH clean regs</prepDate>
 		<prepDate>2015-04-15 CH proof tags and enter</prepDate>
+		<prepDate>2015-05-01 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1919-00-00">
-			<supplied resp="MSPP">ca. 1910s</supplied>
+			<supplied resp="MSPP">1914</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>For Use of the Physicians Exclusively</titlePart>
@@ -18,7 +19,7 @@
 		<idno>msp300587</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm C16:1065</bibl>
+			<bibl><title type="mf">Library of Congress Microfilm</title> C16:1065</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,16 +27,16 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>The recipes on this leaflet are similar to those published in <xref from="238157.xml"
+		<p>The recipes on this leaflet are similar to those published in the 1st edition of<xref from="238157.xml"
 				>Family Limitation</xref>, 1914.</p>
-		<index level1="birth control" level2="methods"/>
-		<index level1="birth control" level2="methods" level3="condom"/>
-		<index level1="birth control" level2="methods" level3="douche"/>
-		<index level1="birth control" level2="methods" level3="safe period"/>
-		<index level1="birth control" level2="methods" level3="sponge"/>
+		<index level1="birth control methods"/>
+		<index level1="birth control methods" level2="condom"/>
+		<index level1="birth control methods" level2="douche"/>
+		<index level1="birth control methods" level2="safe period"/>
+		<index level1="birth control methods" level2="sponge"/>
 	</headNote>
 	<docBody>
-		<head>FOR THE USE OF PHYSICIANS EXCLUSIVELY</head>
+		<head>FOR THE USE OF PHYSICIANS EXCLUSIVELY.</head>
 		<div>
 			<p><table rows="5" cols="2">
 					<row>
@@ -59,9 +60,9 @@
 						<cell>5.0</cell>
 					</row>
 				</table>
-				<lb/>For one Suppository <lb/>[Tales] Doses XII.</p>
-			<p>Insert one 5 to 7 minutes before and allow to melt.</p>
-			<p>If the cocoa butter in the above is objectionable, as it is to some people, the
+				<lb/>For one Suppository
+				<lb/>Tales Doses XII.</p>
+			<p>Insert one 5 to 7 minutes before and allow to melt. If the cocoa butter in the above is objectionable, as it is to some people, the
 				following jelly can be used instead. This should be dispensed in a collapsible tube,
 				with a long nozzle, from which it can be directly injected as required:</p>
 			<p><table rows="4" cols="2">
@@ -71,28 +72,25 @@
 				<row><cell>Chondrus jelly</cell><cell>4 oz</cell></row>
 			</table></p>
 			<p>Inject a quantity equal to about 2 teaspoonfuls before. When the vagina is capacious
-				it is safer to use about 4 drams.</p>
-			<p>In any case a subsequent douche makes for additional safety. It is best to syringe
+				it is safer to use about 4 drams. In any case a subsequent douche makes for additional safety. It is best to syringe
 				lying down unless a bulb syringe with whirling spray is used. Solutions of peroxide
 				of hydrogen (4 tablespoonfuls of the regular peroxide to 1 quart of water) or of
 				boric acid (2 per cent) are entirely non-injurious.</p>
 		</div>
 		<div>
-			<p>Where expense is a consideration, proceed as follows: buy a 1/4 pound cake of cocoa
-				butter, 5 drams of boracic acid, 1 dram of salicylic acid and 1/12 drams of quinine
+			<p>Where expense is a consideration, proceed as follows: buy a &frac14; pound cake of cocoa
+				butter, 5 drams of boracic acid, 1 dram of salicylic acid and 1&frac12; drams of quinine
 				bisulphate. Melt the cocoa butter in a little dish over a gentle fire; as soon as it
-				is melted remove it from the fire, put in all the other ingredients. stir well with
+				is melted remove it from the fire, put in all the other ingredients, stir well with
 				a clean wooden stick or glass rod and let it cool. After the mass has become almost
 				but not quite solid cut it in 30 pieces of about equal size.</p>
 		</div>
-		<div>
-			<p>Another simple and cheap method which is appreciated by the women of the proletariat
-				is the following: buy a pound of white petrolatum; mix it thoroughly with two ounces
+			<div><p>Another simple and cheap method which is appreciated by the women of the proletariat
+				is the following: Buy a pound of white petrolatum; mix it thoroughly with two ounces
 				of boracic acid. Before intercourse take a piece of cotton about the size of a large
 				egg, put a string around its center, dip it in the borated petrolatum and insert.
-				After intercourse, remove by aid of string.</p>
-		</div>
-		<div>
+				After intercourse, remove by aid of string.</p></div>
+			<div>
 			<p> Another good method is for the wife to insert beforehand a sponge about the size of
 				her fist, dipped in boric acid solution (4 per cent). If the sponge is of the finest
 				quality--one of the so-called “silk” sponges--this is unobjectionable and efficient.
@@ -106,13 +104,12 @@
 				object to their use.</p>
 		</div>
 		<div>
-			<p> The injection of a small quantity of glycerin (about 1/2 an ounce has recently been
+			<p> The injection of a small quantity of glycerin (about &frac12; an ounce has recently been
 				found to be as efficient as anything else.</p>
 		</div>
 		<div>
 			<p> While there is no day in the month on which the human female may not conceive, still
-				conception is less likely to take place at some periods of the month than others. </p>
-			<p>The ten days immediately following menstruation are the most favorable for
+				conception is less likely to take place at some periods of the month than others. The ten days immediately following menstruation are the most favorable for
 				conception, while the week preceding menstruation is the least favorable. In fact
 				some claim that during the six or five days preceding menstruation, every woman is
 				sterile. This is not so. But that conception during that time is less likely to take
