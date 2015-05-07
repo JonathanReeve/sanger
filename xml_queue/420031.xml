@@ -9,6 +9,7 @@
 		<prepDate>2011-10-06 EK Corrected proof and index</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-07 EK Update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,7 +19,7 @@
 		</docTitle>
 		<idno>msp420031</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, July 1914, p.
 				35</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0549</bibl>
 		</sourceDesc>
@@ -30,6 +31,8 @@
 	<headNote>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="motherhood"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="book reviews"/>
 		</headNote>
 	<docBody>
 		<head>AN IMPORTANT BOOK</head>

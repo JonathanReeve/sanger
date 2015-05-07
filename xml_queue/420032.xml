@@ -10,6 +10,7 @@
 		<prepDate>2011-10-06 EK corrections and index</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-07 ek UPDATE INDEX</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,16 +20,16 @@
 		</docTitle>
 		<idno>msp420032</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, July 1914, p.
 				33</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:547</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0547</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
-		<index level1="direct action" level2="MS on"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="law breaking and direct action" level2="MS on"/>
 		<index level1="anarchism and anarchists"/>
-		<index level1="anarchism and anarchists" level2="violence and"/>
-		<index level1="labor movement" level2="radical"/>
+		<index level1="labor movement"/>
 	</headNote>
 	<docBody>
 		<head>TRAGEDY</head>

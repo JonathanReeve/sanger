@@ -21,7 +21,7 @@
 		<idno>msp143453</idno>
 		<sourceDesc>
 			<bibl>The Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl><title type="mf">Library of Congress Microfilm</title> 131:0119</bibl>
+			<bibl><title type="mf">Library of Congress Microfilm</title>LCM 131:0119</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -31,24 +31,39 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
+		<index level1="England" level2="birth rate in"/>
+		<index level1="mortality rates" level2="infant" level3="England"/>
+		<index level1="mortality rates" level2="infant" level3="Hungary"/>
+		<index level1="World War I" level2="and birth control"/>
+		<index level1="World War I" level2="and population size"/>
+		<index level1="World War I" level2="MS on"/>
 		<index level1="war" level2="and birth control"/>
-		<index level1="war" level2="MS on"/>
-		<index level1="war" level2="and population"/>
 		<index level1="race suicide"/>
 		<index level1="Hungary" level2="birth rate in"/>
 		<index level1="mortality rates"/>
-		<index level1="France" level2="birth control in"/>
+		<index level1="France" level2="birth control in"/>	
+		<index level1="venereal disease"/>
+		<index level1="mortality rates" level2="infant" level3="Australia"/>
+		<index level1="mortality rates" level2="infant" level3="New Zealand"/>
 		<index level1="mortality rates" level2="infant" level3="American"/>
 		<index level1="Australia" level2="birth control in"/>
-		<index level1="New Zealand" level2="birth control in"/>	
-		<index level1="venereal disease"/>
-		<index level1="World War I" level2="MS on"/>
-		<index level1="birth rate" level2="decline in"/>
-		<index level1="England" level2="birth rate in"/>
-		<index level1="eugenics" level2="birth control and"/>
-		<index level1="mortality rates" level2="infant"/>
-		<p>No published version has been found</p>
-		</headNote>
+		<index level1="New Zealand" level2="birth control in"/>
+	<p>No published version has been found. The source Sanger's quote is Douglas Sladen, <title
+				type="article">"The National Baby Week,"</title>
+			<title type="journal">Contemporary Reivew</title>, July 1, 1917, p. 98. the full quote
+			is: "In 1915, in wartime, deaths carried off more British babies than British soldiers.
+			Therefore, the obvious way of repairing the wastage of war is to save the babies. The
+			object of the National Baby Week is to show how they can be saved. there are 700,000
+			babies in the United Kingdom. If the 100,000 babies who die in their first year and the
+			equal number who die before birth, were saved, we should have 900,000. 250 babies out of
+			every 1,000 die before birth or in their first year. Now that the old theories for
+			restraining population are exploded, and it is recognized that power, commercial as well
+			as military, is based on population, the loss of power inflicted by this wastage, in
+			babies is criminal, Since 5,000,000 young adult males of the country are under arms, and
+			many thousand get killed every year, while the war lasts, the birth rate must drop. It
+			is, therefore, more important than ever to preserve the lives of the children who are
+			born."</p>
+	</headNote>
 	<docBody>
 		<head><emph rend="underline">THE WAR AND BIRTH CONTROL.</emph></head>
 		<p rend="underline">Points for an article.</p>
@@ -91,9 +106,9 @@
 			1000 to 39 a 1000 since the war began. Only one third of these deaths were in the
 				army.<del> The civilian</del><add>The increase in the civilian</add> deathrate
 				<del>has therefore doubled. If this</del> can happen in a country which has had free
-			birth control information for half a century, what will be the increase in an
-			ignorant country like ours which prohibits the information, if the war should drag on
-			for two or three years?</p>
+			birth control information for half a century, what will be the increase in an ignorant
+			country like ours which prohibits the information, if the war should drag on for two or
+			three years?</p>
 		<p/>
 		<p rend="blockquote">Dr. <person reg="Baker, Josephine">Josephine Baker</person>, of the
 				<org>New York Mayor's Committee of Women on National Defense</org> reports that
@@ -170,6 +185,6 @@
 			have the strength and resources of parents depleted by having more children than they
 			can provide with fair health and care, or to have a next generation handicapped
 				<add>and</add>below the par.</p>
-		
+
 	</docBody>
 </doc>

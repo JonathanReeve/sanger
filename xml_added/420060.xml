@@ -9,6 +9,7 @@
 		<prepDate>2011-10-06 EK correct proof and index</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-07 ek UPDATE INDEX</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,9 +19,9 @@
 		</docTitle>
 		<idno>msp420060</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, July 1914, p.
 				39</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:553</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0553</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,10 +29,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
+		<index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="labor movement"/>
-		<index level1="Industrial Workers of the World"/>
-		<index level1="radical labor movements"/>
-	</headNote>
+		</headNote>
 	<docBody>
 		<head>TO THE BOTTOM DOG</head>
 		<p>If you belong to the vast and ever-increasing number of "unskilled" workers, and
