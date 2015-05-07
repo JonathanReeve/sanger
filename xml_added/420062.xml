@@ -7,14 +7,8 @@
 		<prepDate>2004/07/07 CH</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-<<<<<<< HEAD
 		<prepDate>2015-04-21 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-=======
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
->>>>>>> origin/master
 		<docDate value="1914-05-00">May 1914</docDate>
 		<docTitle>
 			<titlePart>
