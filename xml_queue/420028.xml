@@ -10,6 +10,7 @@
 		<prepDate>2013-04-29 CH fix link</prepDate>
 		<prepDate>2014-07-03 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,8 +20,8 @@
 		</docTitle>
 		<idno>msp420028</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p. 36</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:550</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, July 1914, p. 36</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0550</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -31,8 +32,11 @@
 	<headNote>
 		<p>For prior and following articles see "Class and Character, <xref from="420003.xml">June
 				1914</xref> and <xref from="420022.xml">August 1914.</xref></p>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="women" level2="gender roles and"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="gender roles"/>
+		<index level1="women and girls" level2="responsibilities of"/>
+		<index level1="women and girl" level2="working class"/>
 	</headNote>
 	<docBody>
 		<head>CLASS AND CHARACTER</head>
@@ -63,7 +67,7 @@
 				attracts and draws to herself; who creates an atmosphere; who is free to express and
 				give out those thoughts which "flash across the mind from within," all of which come
 				through having a positive and creative character. A girl with such a personality is
-				likely to draw negative characters to her -- persons who have no creative thoughts.
+				likely to draw negative characters to her--persons who have no creative thoughts.
 				Their tendency is to criticise and destroy any constructive idea she should express.
 				She will at first have an instinctive antagonism to such persons. They sap, exhaust
 				and take from her; they come to feed their egotistical natures upon her personality,

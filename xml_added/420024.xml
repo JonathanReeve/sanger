@@ -8,6 +8,7 @@
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014/03/12 EK clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,19 +18,19 @@
 		</docTitle>
 		<idno>msp420024</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 6, Aug. 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, Aug. 1914, p.
 				42</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:556</bibl>
+				C16:0556</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
+		<index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="Davis, Katharine Bement"/>
-		<index level1="Edelsohn, Rebecca"/>
+		<index level1="Sanger, Margaret" level2="on jails and prisons"/>
 		<index level1="law breaking and direct action"/>
-		<index level1="working classes" level2="women and girls"/>
-		<index level1="jails and imprisonment" level2="MS on"/>
-	</headNote>
+		<index level1="women and girls" level2="working class"/>
+		</headNote>
 	<docBody>
 		<head>ANOTHER WOMAN</head>
 		<p><person reg="Davis, Katharine Bement">She</person> is a sociologist. She is efficient. She

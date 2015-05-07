@@ -9,6 +9,7 @@
 		<prepDate>2011-11-02 EH correct transcriptions and index</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,21 +19,20 @@
 		</docTitle>
 		<idno>msp420026</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p. 40</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:554</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>,July 1914, p. 40</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0554</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="birth control" level2="health benefits and risks of"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="Comstock, Anthony"/>
 		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
-		<index level1="birth control" level2="morality of"/>
-	</headNote>
+		</headNote>
 	<docBody>
 		<head>ARE PREVENTIVE MEANS INJURIOUS?</head>
 		<p>It is often asked by those interested in the control of offspring whether the use of

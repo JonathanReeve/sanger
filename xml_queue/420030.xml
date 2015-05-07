@@ -9,6 +9,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05=07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,10 +19,10 @@
 		</docTitle>
 		<idno>msp420030</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, July 1914, p.
 				35</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:549</bibl>
+				C16:0549</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -29,8 +30,12 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="capitalism" level2="MS on"/>
-		<index level1="jails and imprisonment" level2="Blackwell's Island Workhouse (New York)"/>
+		<index level1="Davis, Katharine Bement"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="Sanger, Margaret" level2="on jails and prisons"/>
+		<index level1="Industrial Workers of the World"/>
+		<index level1="radicals and radicalism" level2="suppression of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
 	</headNote>
 	<docBody>
 		<head>CANTANKEROUS KATHERINE</head>

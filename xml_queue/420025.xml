@@ -10,6 +10,7 @@
 		<prepDate>2011/03/10 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-07 EK Update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -20,7 +21,7 @@
 		<idno>msp420025</idno>
 		<sourceDesc>
 			<bibl><title type="journal">The Woman Rebel</title>, July 1914, p. 40.</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:554</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0554</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,9 +29,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="women" level2="gender roles and"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="gender roles"/>
 	</headNote>
 	<docBody>
 		<head>NO GODS</head>
@@ -59,7 +61,7 @@
 			one of the new idols at whose feet plundering plutocracy lays the shining gold wrung
 			from the sweat and blood of the toiling long-suffering masses.</p>
 		<p>But the rich woman is not happy. Her sensibilities have been crushed, and her mind
-			impoverished by her parasitical position. Working women do not realise these facts.
+			impoverished by her parasitical position. Working women do not realize these facts.
 			While man gazes upon his idol with admiration and desire, the woman worker tamely
 			follows the beaten path. Instead of seeking elsewhere for a free and joyous existence,
 			she struggles in competition to attain or to imitate that costly and dependent life
