@@ -7,7 +7,7 @@
 		<prepDate>2014-03-26 JK correct tags</prepDate>
 		<prepDate>2014-12-16 CH correct and enter tags</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-03-27 EK correct proof and update index</prepDate>
+		<prepDate>2015-05-13 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,12 +28,17 @@
 	</mepHeader>
 	<headNote resp="MSPP"><p>Unsigned editorial likely written by Margaret
 			Sanger.</p>
-		<index level1="birth control" level2="and world peace"/>
+		<index level1="birth control" level2="and peace"/>
 		<index level1="birth control" level2="international"/>
 		<index level1="war" level2="and birth control"/>
 		<index level1="World War I" level2="and birth control"/>
 		<index level1="World War I" level2="and population size"/>
+		<index level1="overpopulation" level2="and war"/>
 		<index level1="internationalism"/>
+		<index level1="unfit to reproduce" level2="as social burdens"/>
+		<index level1="race progress"/>
+		<index level1="mortality rates" level2="infant" level3="Japan"/>
+		<index level1="mortality rates" level2="infant" level3="China"/>
 	</headNote>
 	<docBody>
 		<head>Editorial Comment</head>
@@ -50,7 +55,7 @@
 			after all have justified itself. If it had taught people the
 			insanity of that hideous waste of human life, the danger of petty
 			chauvinistic quarrels, and awakened them to the absolute need of
-			international co-operation, it would not have been in vain. Instead,
+			international cooperation, it would not have been in vain. Instead,
 			it seems to me after my months in <place>Central Europe</place> and
 				<place reg="England">Great Britain</place>, the old reactionary and sinister
 			forces are the first in the field to throw dust in the eyes of the

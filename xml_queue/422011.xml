@@ -5,6 +5,7 @@
 		<prepDate>2014-06-24 MM </prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-04-22 EK update index</prepDate>
+		<prepDate>2015-05-13 EK correct proof</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -27,8 +28,6 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger spoke to <place reg="San Francisco, CA">San Francisco</place> reporters about her
-			trip to <place>Japan</place>.</p>
 		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
 		<index level1="Japan" level2="overpopulation"/>
 		<index level1="Japan" level2="censorship"/>
@@ -74,7 +73,7 @@
 				interpreted as meaning that she would be denied admission to the country.</p>
 		</div>
 		<div>
-			<head type="sub">TO FORBID LECTURE</head>
+			<head type="sub">TO FORBID LECTURES</head>
 			<p>Japan's intention, according to <person reg="Akamatsu, Yusuke">Yusuke
 					Akamatsu</person>, chief of the immigration section of the foreign office, was
 				to warn Mrs. Sanger that she would not be permitted to lecture, and to forestall any
