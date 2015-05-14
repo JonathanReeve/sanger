@@ -5,6 +5,7 @@
 		<prepDate>2014/03/14 YG</prepDate>
 		<prepDate>2014-04-04 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-05-14 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,10 +16,11 @@
 		</docTitle>
 		<idno>msp321968</idno>
 		<sourceDesc>
-			<bibl><title type="article">Keynote of Social Awakening Is
-					Economically Expedient the Message of Mrs. Sanger</title>,
-					<title type="journal">Unidentified newspaper</title>, Feb.
-				27, 1922</bibl>
+			<bibl><title type="article">"Keynote of Social Awakening Is
+					Economically Expedient the Message of Mrs. Sanger,"</title>,
+					<title type="journal">Unidentified newspaper</title>, <supplied>Feb.
+				28, 1922</supplied></bibl>
+			<bibl>Archive of Japanese Minister of Foreign Affairs, Tokyo</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -32,9 +34,15 @@
 				Dancing academy</org>to several hundred men and women. <person
 				reg="Dole, Sanford Ballard">Judge Sanford B.
 			Dole</person>introduced her. </p>
-		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="birth control" level2="and natural law"/>
+		<index level1="birth control" level2="opposition to"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="eugenics" level2="birth control and"/>
+		<index level1="Sanger, Margaret" level2="tours” level3=”1922 (World)"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="mortality rates" level2="maternal" level3="American"/>
+		<index level1="race suicide"/>
 	</headNote>
 	<docBody>
 		<head>Keynote of Social Awakening Is Economically Expedient the Message
@@ -59,10 +67,10 @@
 		<p>"Nature's method is that of killing off the unfit, and in this way
 			has kept the population within the means of subsistence, and she has
 			weeded out those unable to compete in life. Nature has by this
-			method perfected types.</p>
+			method perfected types."</p>
 		<p>"Nature realized that something had to be done to keep the population
 			down. In all countries where they do not allow nature to take its
-			course you find the population question one of great importance.</p>
+			course you find the population question one of great importance."</p>
 		<p>"When you look out on life today, in every country of the world you
 			find two groups of people. On the first hand there is the small
 			family group made up of men and women who have gone into marriage
@@ -70,7 +78,7 @@
 			according to the health and financial status of the parents. In the
 			great majority of cases you find the children of these families
 			brought to full adult life with all the advantages of education.
-			This group sends their children to the colleges and give their
+			This group sends their children to the colleges and gives their
 			offspring the best condition society has to offer."</p>
 		<p>"It is not in this group that we find our problem of today, but if we
 			urged them to have larger families they would slide down a
@@ -81,50 +89,49 @@
 			support two children finds himself a family of 10 or 12. In this
 			group you find infant mortality and maternal mortality prevalent,
 			and you find there every problem the first group is trying to
-			solve.</p>
+			solve."</p>
 		<p>"Our intelligence is unable to cope with the chaotic condition this
 			group has caused. We do everything we can to stop their misery but
-			do nothing to stop their multiplication.</p>
-		<p>"In the <place>United States</place>infant mortality numbers 300,000
+			do nothing to stop their multiplication."</p>
+		<p>"In the <place>United States</place> infant mortality numbers 300,000
 			yearly and the majority of these die before they have reached one
-			year of age: they die from poverty and neglect, and still we allow
+			year of age; they die from poverty and neglect, and still we allow
 			600,000 parents to remain in ignorance of how to prevent more
-			children from coming into the world.</p>
+			children from coming into the world."</p>
 		<p>"Instead of helping these parents not to have any more children we
-			encourage their perpetuation.</p>
+			encourage their perpetuation."</p>
 		<p>"When we take mortality of mothers into consideration we find the
 			condition disgraceful. Many of these mothers pass out of life from
-			preventable causes.</p>
+			preventable causes."</p>
 		<p>"Then we turn from the tuberculosis question and we find women
 			suffering from heart trouble, kidney trouble and other diseases and
 			it is a crime to allow these women to become mothers. Some of the
 			ideas people of today have are like the old quacks who claimed they
 			could cure cancer by burning off the top--so our charities and
-			welfare organizations are only patching up.</p>
+			welfare organizations are only patching up."</p>
 		<p>"Parenthood is an international business and it should be made a
 			privilege not an accident."</p>
-		<p>
-			<q who="UI">In many states objection has been raised towards birth
+		<p><q who="UI">In many states objection has been raised towards birth
 				control, but Mrs. Sanger said yesterday that she has never known
 				an argument which could hold against birth control.</q>
 		</p>
 		<p>"There are a number of objections made against birth control; for
 			instance people always say every new thing is against the laws of
 				<name type="deity">God</name>. I will not argue the religious
-			question - if you believe that your conduct is in accordance with
+			question--if you believe that your conduct is in accordance with
 			the law of your God you must decide the question, but I believe that
 			it is in accord with the law of God to bring creation to a normal
-			condition.</p>
+			condition."</p>
 		<p>"Another objection raised is that birth control is against the laws
 			of nature. To this we must partly plead guilty and yet almost
 			everything else we do is contrary to nature's laws.</p>
 		<p>"Many fine things we do are against the laws of nature--civilization
-			means controlling nature for man's highest use.</p>
+			means controlling nature for man's highest use."</p>
 		<p>"Then some people claim it is going to cause race suicide--that if
 			women knew how to control birth there would be no children at all.
 			But I believe that the maternal instinct is one of the deepest
 			things in women, and I do not think that instinct will be thwarted
-			because of knowledge.</p>
+			because of knowledge."</p>
 		<p/>
 	</docBody>
 </doc>

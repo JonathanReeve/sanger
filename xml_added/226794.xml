@@ -7,6 +7,7 @@
 		<prepDate>2003/08/08 CH</prepDate>
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-05-14 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -16,7 +17,7 @@
 		</docTitle>
 		<idno>msp226794</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title> Jun 1922, pp. 102-3</bibl>
+			<bibl><title type="journal">Birth Control Review</title> Jun 1922, pp. 101-3</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S70:934</bibl>
 		</sourceDesc>
@@ -25,12 +26,21 @@
 			<name id="JC">Japan Chronicle</name>
 		</respStmt>
 	</mepHeader>
-	<headNote>
-		<index level1="Sanger, Margaret" level2="autobiographical"/>
+	<headNote><p>An editorial note preceding the article indicated that this was the first
+			installment of Sanger's accounts of her trip to Japan; no other installments were found.
+			The note also explained that Sanger was not allowed to speak directly on birth
+			control.</p>
+		<index level1="Japan" level2="birth control in"/>
 		<index level1="Japan" level2="MS on"/>
+		<index level1="Japan" level2="MS in"/>
+		<index level1="Japan" level2="government"/>
+		<index level1="Japan" level2="women"/>
+		<index level1="Japan" level2="birth control clinics and leagues"/>
 		<index level1="censorship"/>
 		<index level1="birth control" level2="opposition to"/>
-		<index level1="Sanger, Margaret" level2="speaking tours" level3="1922 (Japan)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="population size" level2="and war"/>
+		<index level1="Town Hall raid"/>
 	</headNote>
 	<docBody>
 		<head>Margaret Sanger in Japan</head>
@@ -45,7 +55,7 @@
 			intentions and desires. </p>
 		<p>I was asked to make a formal request to enter Japan. This was to be made to the <person
 				reg="Scidmore, George Hawthorne">American Ambassador</person> and the Japanese
-			official despatched one of <person reg="Wilson, Hugh Robert">his men</person> to the
+			official dispatched one of <person reg="Wilson, Hugh Robert">his men</person> to the
 			Embassy to hasten the government's decision that I would not be kept waiting longer than
 			was necessary. I was obliged to wait until seven o'clock P.M., but in the meantime my
 			time was well occupied with interviewers and in receiving delegations from various
@@ -70,16 +80,16 @@
 			heartily at this and I took it as an Oriental compliment.</p>
 		<p>After hours of interviews and flash lights, I was greeted by the returned official who
 			brought from the Governor of the Province a special permit for me to go ashore.</p>
-		<p><person reg="Ishimoto, Keikichi">Baron</person> and <person
-				reg="Kato, Shidzue Ishimoto">Baroness Ishimoto</person> had already come on
-			board the Taiyo, as had the editors of the <title type="journal">Kaizo Magazine</title>,
-			under whose auspices I was engaged to lecture in Japan. They now took charge of my
-			luggage and we--my son <person reg="Sanger, Grant">Grant</person> and I--were motored to
-			the Customs House to have our belongings inspected. One goes through various customs
-			during one's travels, but I had never had such an overhauling in my life before--not
-			even during the war in Europe did any inspectors examine so minutely my belongings. I
-			began to think it was curiosity more than inspection, especially when I had to explain
-			in detail how I wore a string of crystal beads.</p>
+		<p><person reg="Ishimoto, Keikichi">Baron</person> and <person reg="Kato, Shidzue Ishimoto"
+				>Baroness Ishimoto</person> had already come on board the Taiyo, as had the editors
+			of the <title type="journal">Kaizo Magazine</title>, under whose auspices I was engaged
+			to lecture in Japan. They now took charge of my luggage and we--my son <person
+				reg="Sanger, Grant">Grant</person> and I--were motored to the Customs House to have
+			our belongings inspected. One goes through various customs during one's travels, but I
+			had never had such an overhauling in my life before--not even during the war in Europe
+			did any inspectors examine so minutely my belongings. I began to think it was curiosity
+			more than inspection, especially when I had to explain in detail how I wore a string of
+			crystal beads.</p>
 		<p>Some of my books were taken, "held while in Japan," but I expect them to be returned on
 			my leaving the country. It was pouring rain in Yokohama and while I was waiting for my
 			bags to be piled into the car, several rickshaw men gathered around the car in the rain
@@ -89,7 +99,7 @@
 			and paper and I had to write my name "<q who="UNK">for my's memory</q>" he said.</p>
 		<p>Needless for me to say I had been surprised when I learned from the Consul General at
 				<place reg="San Francisco, CA">San Francisco</place> that the Japanese government
-			had issued orders that my passport should not be vis and that I could not lecture on
+			had issued orders that my passport should not be vised and that I could not lecture on
 			Birth Control in Japan. </p>
 		<p>It is not easy to surprise anyone who had worked for long in the Birth Control movement.
 			We get accustomed to the unexpected happening. In this case, however, my surprise was
@@ -103,12 +113,13 @@
 				type="journal">Kaizo</title> group knew the laws of their country and were
 			acquainted with the possibilities and limitations under these laws. </p>
 		<p>In neither of these assumptions was I mistaken. There is a younger group in the
-			Government, and a very large group, resented by the minority, a military party. Many of
-			these more progressive men came to the receptions and meetings where I was the guest of
-			honor and expressed their disapproval of the government's action, and also expressed
-			their belief in the principle of Birth Control and their desire to help forward the
-			movement in Japan. While these sympathizers can be numbered in the hundreds, they seem
-			to be powerless in special departments.</p>
+			Government, and a very large group, whose ideas are broader and higher than those
+			represented by the minority, a military party. Many of these more progressive men came
+			to the receptions and meetings where I was the guest of honor and expressed their
+			disapproval of the government's action, and also expressed their belief in the principle
+			of Birth Control and their desire to help forward the movement in Japan. While these
+			sympathizers can be numbered in the hundreds, they seem to be powerless in special
+			departments.</p>
 		<p>I was desirous to find out the real cause of the objection to my speaking on the
 			principle of Birth Control, for I had no intention or desire to give the methods nor to
 			treat that aspect of the subject.</p>
@@ -131,11 +142,11 @@
 			apologized for the absence of the head official, Mr. <person reg="Yuchi, Mr."
 				>Yuchi</person>, whose arrival at headquarters was uncertain. Any message I cared to
 			leave would, however, be delivered to him.</p>
-		<p>The interview last about half and hour, and ended by his saying that I would be permitted
-			to speak in private, or under private auspices on Birth Control, but it was not possible
-			to discuss the subject in public meetings. I was to be allowed to speak publicly on any
-			other subject I desired. Before I had left the room we were again photographed and
-			interviewed many times.</p>
+		<p>The interview lasted about half and hour, and ended by his saying that I would be
+			permitted to speak in private, or under private auspices on Birth Control, but it was
+			not possible to discuss the subject in public meetings. I was to be allowed to speak
+			publicly on any other subject I desired. Before I had left the room we were again
+			photographed and interviewed many times.</p>
 		<p>Previous to my leaving San Francisco the press was full of the subject, and upon my
 			arrival, the discussion was in full swing. Every paper throughout Japan had something to
 			say concerning the government's action in banning the public discussion of a subject of
@@ -151,12 +162,12 @@
 		<p>From that day on there was an address made every day and some days two meetings. We found
 			it far easier to accommodate small groups of one or two hundred, and to discuss the
 			subject frankly, than to have large public meetings.</p>
-		<p>Among the groups where greatest interest was expressed, was a meeting the <org>Peers'
+		<p>Among the groups where greatest interest was expressed, was a meeting at the <org>Peers'
 				Club</org> organized by <person reg="Kawamura, Tetsutaro">Count Cowamura</person>.
 			At no time in my life have I given a more intimate address. I can say also that it was
 			received with the finest spirit of respect and understanding and desire to know more. It
 			was one of the most encouraging events of my stay in Japan. One feels conscious of the
-			position of women here. The men do not seem to take the woman's movement seriously, and
+			position of women here. The men do not seem to take the women's movement seriously, and
 			the fact that men of all stations came eagerly to hear a woman speak on any subject is
 			considered a victorious event by the women here.</p>
 		<p>My lectures have been given before the most intelligent people in Japan. The Industrial
@@ -180,20 +191,21 @@
 			notice and, in the midst of a national convention, filled the Congregational Church to
 			its fullest capacity. The minister of the Church interpreted and did it amazingly well.
 			All the organizations which requested me to speak before them were represented by
-			distinguished and prominent people. They were all, except the New Women's Organization,
+			distinguished and prominent people. They were all, except the New Woman's Organization,
 			composed of the so-called well-to-do. This organization is the most advanced and
 			intellectual group of women in Japan. Many of its members are working in various trades
 			and occupations. The government fears a falling off in the birth rate among the
 			well-to-do and cultured, but so far in Japan this has not been the case.</p>
 		<p> The following statement published by the <title type="journal">Japan Chronicle</title>
-			March 23rd gives the case exactly: "<q who="JC">The authorities have evidently got
-				themselves into a hard tangle over the question of Birth Control. Mrs. Sanger is to
-				be allowed to address private gatherings but not public meetings. That is to say she
-				is to be allowed to address the well-to-do classes, but not the "lower" classes. Yet
-				Mr. Yuchi, the Director of the Police Affairs <org>Bureau of the Metropolitan Police
+			March 23rd gives the case exactly:</p>
+		<p rend="blockquote"> "<q who="JC">The authorities have evidently got themselves into a hard
+				tangle over the question of Birth Control. Mrs. Sanger is to be allowed to address
+				private gatherings but not public meetings. That is to say she is to be allowed to
+				address the well-to-do classes, but not the "lower" classes. Yet Mr. Yuchi, the
+				Director of the Police Affairs <org>Bureau of the Metropolitan Police
 					Department</org>, stated to the press that personally he thought there was every
 				reason for encouraging Birth Control among people of the "lower classes"; what they
-				were afraid of was that the propagation of the methods advanced by her would
+				were afraid of was that the propagation of the methods advocated by her would
 				encourage Birth Control in the "well-to-do" classes. Mrs. Sanger must feel very
 				perplexed. The only point which is clear is that the authorities regard her as an
 				inculcator of dangerous thoughts, but do not know exactly in what way they are
@@ -201,15 +213,16 @@
 				today that Birth Control has been more prominently discussed because of the action
 				of the Police than it otherwise would have been.</q>"</p>
 		<p>The two principal reasons I have been able to find, upon which the Police Department
-			based its objection were first, that the police in New York forbade my speaking in that
-			city, as cabled here concerning the Town Hall meeting on November 13. They did not hear
-			that another meeting was held, or any of the proceedings which followed. The only fact
-			which stood out prominently in the mind of these officials was that our meeting was
-			closed by the Police--that was sufficient evidence to prevent such a meeting here.</p>
+			based its objection were first, that the Police in <place reg="New York, NY">New
+				York</place> forbade my speaking in that city, as cabled here concerning the Town
+			Hall meeting on November 13. They did not hear that another meeting was held, or any of
+			the proceedings which followed. The only fact which stood out prominently in the mind of
+			these officials was that our meeting was closed by the Police--that was sufficient
+			evidence to prevent such a meeting here.</p>
 		<p>Then the other reason is because of a pending bill called "<name type="law">The Dangerous
 				Thoughts Bill"</name> or "The Thought Control Bill," making it a crime for
 			foreigners to bring to Japan a <emph rend="italics">foreign thought</emph>! This bill
-			has not been passes up to the present time, but it was under discussion at the time of
+			has not been passed up to the present time, but it was under discussion at the time of
 			my arrival and was backed by the same reactionary group as influenced the Police
 			Department.</p>
 		<p>Nevertheless Japan has now a <org reg="Nihon Sanji Ch&ocirc;setsu Renmei">Birth Control
