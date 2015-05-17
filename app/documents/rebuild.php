@@ -25,7 +25,7 @@ Make sure to back it up first! For verbose output try rebuild.php?verbose=TRUE</
 if ($_POST['submit']) { 
       echo '<p>Here we go. Fingers crossed.</p>'; 
       echo '<p>Now emptying database.</p>'; 
-      $tables = array('categories', 'correspondence', 'documents', 'documents_category', 'journals', 'materials', 'mentioned_people', 'mentioned_places', 'ricordi_correspondence', 'test_cat'); 
+      $tables = array('categories', 'correspondence', 'documents', 'documents_category', 'journals', 'materials', 'mentioned_people', 'mentioned_places', 'mentioned_organizations', 'ricordi_correspondence', 'test_cat'); 
 	foreach ($tables as $table) { 
  		 //make a query that truncates each 
 	      $emptyQuery = "TRUNCATE TABLE ".$table." ;";  
