@@ -6,14 +6,15 @@
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-01-18 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-05-20 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-07-13">13 July 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Fifth International Neo-Malthusian and Birth
-					Control Conference</supplied>
+				<supplied resp="MSPP">Speech at Public meeting during Fifth International
+					Neo-Malthusian and Birth Control Conference</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp400080</idno>
@@ -21,9 +22,8 @@
 			<bibl><person reg="Pierpont, Raymond">Raymond Pierpont</person>, ed. <title type="book"
 					>Report of the <org
 						reg="International Neo-Malthusian and Birth Control Conference, 5th">Fifth
-						International Neo-Malthusian and Birth Control Conference</org>,
-						<org>Kingsway Hall</org>, London, July 11 to 14, 1922.</title> (London:
-				1922), pp. 198-206.</bibl>
+						International Neo-Malthusian and Birth Control Conference</org></title>,
+				(London, 1922), pp. 198-206.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -32,46 +32,54 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Margaret Sanger gave this speech as part of a public meeting held in concert with the
-			Fifth International Neo-Malthisian and Birth Control Conference, at Kingsway Hall.
-				<person reg="Wells, H. G.">H.G. Wells</person> was the chairman of the meeting;
-			other speakers were: <person reg="Cox, Harold">Harold Cox</person>, <person
-				reg="Drysdale, Bessie Ingham">Bessie Ingham Drysdale</person>, <person
-				reg="Millard, C. Killick">C. Killick Millard</person>, <person
-				reg="Swanwick, Helena Marie">Helena Marie Swanwick</person>, and Rev. <person
-				reg="Lang, Gordon">Gordon Lang</person>. For other speeches and statements given at
-			this meeting, see <xref from="213557.xml">Individual and Family Aspects of Birth
-				Control</xref>, July 11, 1922 and "<xref from="422073.xml">Press Statement at the
-				Fifth International Neo-Malthusian and Birth Control Conference</xref>," July 11,
-			1922.</p>
+			Fifth International Neo-Malthisian and Birth Control Conference, at Kingsway Hall,
+				<place reg="London, England">London</place>. <person reg="Wells, H. G.">H. G.
+				Wells</person> was the chairman of the meeting; other speakers were: <person
+				reg="Cox, Harold">Harold Cox</person>, <person reg="Drysdale, Bessie Ingham">Bessie
+				Ingham Drysdale</person>, <person reg="Millard, C. Killick">C. Killick
+				Millard</person>, <person reg="Swanwick, Helena Marie">Helena Marie
+				Swanwick</person>, and Rev. <person reg="Lang, Gordon">Gordon Lang</person>. For
+			other speeches and statements given at this meeting, see <xref from="213557.xml"
+				>Individual and Family Aspects of Birth Control</xref>, July 11, 1922 and "<xref
+				from="422073.xml">Press Statement at the Fifth International Neo-Malthusian and
+				Birth Control Conference</xref>," July 11, 1922.</p>
 		<index level1="Asia" level2="birth control in"/>
-		<index level1="Japan" level2="political situation"/>
-		<index level1="Japan" level2="population policies"/>
-		<index level1="Japan" level2="birth control in"/>
-		<index level1="Germany" level2="population policies"/>
-		<index level1="Japan" level2="liberals in"/>
-		<index level1="Sanger, Margaret " level2="speaking tours" level3="1922 (Japan)"/>
-		<index level1="Sanger, Margaret " level2="speaking tours" level3="1922 (Korea)"/>
-		<index level1="Sanger, Margaret " level2="speaking tours" level3="1922 (China)"/>
+		<index level1="birth rate" level2="differential"/>
+		<index level1="Sanger, Margaret " level2="tours" level3="1922 (Japan)"/>
+		<index level1="Sanger, Margaret " level2="tours" level3="1922 (Korea)"/>
+		<index level1="Sanger, Margaret " level2="tours" level3="1922 (China)"/>
 		<index level1="conferences"
-			level2="International Neo-Malthusian and Birth Control Conference" level3="1922 (5th)"/>
-		<index level1="censorship" level2="in Japan"/>
+			level2="International Neo-Malthusian and Birth Control Conference” level3=”1922 (5th)"/>
+		<index level1="censorship"/>
+		<index level1="birth control" level2="international"/>
+		<index level1="birth control methods"/>
+		<index level1="birth control" level2="opposition to"/>
+		<index level1="Japan" level2="overpopulation"/>
+		<index level1="Japan" level2="birth rate in"/>
+		<index level1="Japan" level2="politics in"/>
+		<index level1="Japan" level2="MS in"/>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="Japan" level2="women"/>
 		<index level1="Japan" level2="birth control leagues and clinics"/>
 		<index level1="China" level2="birth control leagues and clinics"/>
 		<index level1="China" level2="birth control in"/>
+		<index level1="China" level2="MS in"/>
+		<index level1="Family Limitation"/>
+		<index level1="Korea" level2="birth control in"/>
+		<index level1="Korea" level2="MS in"/>
 	</headNote>
 	<docBody>
-		<p>Mrs. Margaret Sanger (President, <org>American Birth Control League</org>): Mr. Chairman,
-			Ladies and Gentlemen, all of us, in advocating the national and international practice
-			of Birth Control, have met arguments from our opponents, and even from our friends, that
-			Birth Control would never be accepted by Oriental peoples. There have been articles in
-			magazines, even books have been written, in which the most pessimistic views were
-			brought forward, to show us that our whole civilisation was in danger of being wiped out
-			because the white people were not increasing their population as rapidly as the yellow
-			and colored races.</p>
+		<p>Mr. Chairman, Ladies and Gentlemen, all of us, in advocating the national and
+			international practice of Birth Control, have met arguments from our opponents, and even
+			from our friends, that Birth Control would never be accepted by Oriental peoples. There
+			have been articles in magazines, even books have been written, in which the most
+			pessimistic views were brought forward, to show us that our whole civilization was in
+			danger of being wiped out because the white people were not increasing their population
+			as rapidly as the yellow and colored races.</p>
 		<p> I am pleased to say, from my brief experience, that I can repudiate at least part of
 			that statement. Whether or not the white races will be ultimately wiped off the face of
-			the earth depends, to my mind, largely upon the conduct and behaviour of the white
-			people themselves. (Applause.) But that the people of <place>China</place>,
+			the earth depends, to my mind, largely upon the conduct and behavior of the white people
+			themselves. (Applause.) But that the people of <place>China</place>,
 				<place>Japan</place>, <place>Korea</place> and <place>India</place> desire Birth
 			Control knowledge, that they may reduce the numbers of their families, and that they may
 			also give the women health and freedom, I am quite convinced. </p>
@@ -85,25 +93,25 @@
 		<p> This means that Japan is thrown upon the outside world for her foodstuffs, and must
 			depend upon other countries for subsistence for her population. For more than two
 			centuries Japan's population was practically stationary, but within the last sixty-five
-			years her population has practically doubled. For instance, in 1621 she had 25 millions
-			; in 1721 she had still 25 millions. In 1774 she had 25.9 millions, in 1804 she had 25.4
+			years her population has practically doubled. For instance, in 1621 she had 25 millions;
+			in 1721 she had still 25 millions. In 1774 she had 25.9 millions, in 1804 she had 25.4
 			millions, and in 1846 she had 26 millions. But in 1920 she had, as I have said, 57
 			millions.</p>
-		<p>The birth rate in Japan averages 1 millions a year. The death rate is enormous, but even
-			so her survival rate is between 700,000 and 800,000 souls a year. Naturally, with this
-			problem and with this increase, Japan must ask the world what she is to do. She may be
-			able today to take care of her population, but she is looking ahead, and she says to the
-			world: "What is to become of us and all our increasing numbers in twenty or twenty-five
-			years?" </p>
+		<p>The birth rate in Japan averages 1 &#50; millions a year. The death rate is enormous, but
+			even so her survival rate is between 700,000 and 800,000 souls a year. Naturally, with
+			this problem and with this increase, Japan must ask the world what she is to do. She may
+			be able today to take care of her population, but she is looking ahead, and she says to
+			the world: "What is to become of us and all our increasing numbers in twenty or
+			twenty-five years?"</p>
 		<p>In some ways today Japan is in much the same condition as <place>Germany</place> was in
 			1910. I will not go into detail to show you how much alike they are in their industrial,
-			commercial, and even moral and spiritual development. More than 90 per cent, of the
+			commercial, and even moral and spiritual development. More than 90 percent. of the
 			Japanese people are considered literate. They can read and write. There is a strong
-			development along industrial lines, and, in fact, Japan to-day is experiencing with her
+			development along industrial lines, and, in fact, Japan today is experiencing with her
 			people very much the same difficulty that Germany developed and had to face up to 1914,
 			the year of the outbreak of war. Germany found herself with highly skilled artisans and
 			men who were civil engineers, chemists, and others of that sort of ability. Japan finds
-			herself to-day with more technical men--men of fine technical ability--in her population
+			herself today with more technical men--men of fine technical ability--in her population
 			than she herself can use.</p>
 		<p>Now, while Germany had the whole world for her people to develop in--the doors of the
 			world were open to those efficient men and women--that is not the case with Japan. Most
@@ -112,7 +120,7 @@
 			nation in the world.</p>
 		<p>Now that is something of the condition of affairs that I found when I was invited to go
 			to Japan. We, many of us, have had the erroneous idea that Japan was strongly
-			militaristic, but I want to say that more than 70 per cent, of the people of Japan are
+			militaristic, but I want to say that more than 70 percent. of the people of Japan are
 			not militaristic. It is safe to say that there is that number of young men and women in
 			Japan who are strongly inclined towards Liberalism, and who are opposing the military
 			party most violently.</p>
@@ -135,16 +143,17 @@
 			to be invited to complete the series.</p>
 		<p>Plans had already been made for me to go to Japan, and I had purchased or rather engaged
 			my passage when, to my surprise, on arriving at <place reg="San Francisco, CA">San
-				Francisco</place>, when I applied for the visa at the Japanese Consulate, I was told
-			that the <org reg="Japan, Home Office">Government of Japan--the Home Office</org>--had
-			sent a cable to the Consul-General that if I applied for a visa it was to be refused, as
-			they did not want the subject of Birth Control to be discussed in Japan. That was rather
-			surprising to me, inasmuch as the plans had been made for my work there. However, I felt
-			that it was very necessary for me to meet some of the Japanese, especially those
-			intellectual men who were going back from the <org reg="Washington Naval Conference"
-				>Washington Conference</org> after representing their Government. So I was able to
-			get on the steamboat and get my ticket for <place reg="Shanghai, China"
-			>Shanghai</place>. I had no difficulty in getting a visa from the Chinese officials on
+				Francisco</place>, when I applied for the <emph rend="italic">visa</emph> at the
+			Japanese Consulate, I was told that the <org reg="Japan, Home Office">Government of
+				Japan--the Home Office</org>--had sent a cable to the Consul-General that if I
+			applied for a <emph rend="italic">visa</emph> it was to be refused, as they did not want
+			the subject of Birth Control to be discussed in Japan. That was rather surprising to me,
+			inasmuch as the plans had been made for my work there. However, I felt that it was very
+			necessary for me to meet some of the Japanese, especially those intellectual men who
+			were going back from the <org reg="Washington Naval Conference">Washington
+				Conference</org> after representing their Government. So I was able to get on the
+			steamboat and get my ticket for <place reg="Shanghai, China">Shanghai</place>. I had no
+			difficulty in getting a <emph rend="italic">visa</emph> from the Chinese officials on
 			the steamboat, and I had the great pleasure of the opportunity of meeting many of the
 			delegates returning from the Washington Conference. <person reg="Kato, Tomosaburo"
 				>Admiral Cutto</person> was on board and also one of their Ministers. I was there
@@ -155,8 +164,8 @@
 			Japan's own good. The interest that was shown by the Japanese on board, not only in the
 			first, but second class, was simply tremendous. There was great interest, and great help
 			was given to me, even great resentment was expressed towards the Government that such a
-			furore had been made, and that a ban had been put upon any one entering the country with
-			so vital a message.</p>
+				<emph rend="italic">furor</emph> had been made, and that a ban had been put upon any
+			one entering the country with so vital a message.</p>
 		<p>When we arrived at <place reg="Yokohama, Japan">Yokohama</place> I was told by a member
 			of the Japanese Government that there was more interest in the subject of Birth Control
 			than there was in the returning delegates from <place reg="Washington, DC"
@@ -170,7 +179,7 @@
 			publicity, for the whole country was aroused to the discussion, and the scientific
 			discussion, of the subject. </p>
 		<p>There were meetings with the members of the <org reg="Shin Fujin Ky&omacr;kai">new
-				women's organisation</org>, and it was quite remarkable how all those women came to
+				women's organization</org>, and it was quite remarkable how all those women came to
 			express sympathy and interest in the subject of Birth Control, and to express to me
 			their desire for knowledge whereby they could be emancipated from maternal slavery.
 			Representatives from the Medical Association were also present and representatives of
@@ -186,17 +195,17 @@
 		<p>My entrance into Japan, as I have said, came through one of the members of the Young
 			Liberal group in Japan, and I want to point out that if the difficulty to which I have
 			referred had occurred fifty years ago I should never have been allowed to enter Japan.
-			If the Government had said " You will not enter," that would have been the end of it.
-			To-day the Government is not so firm in its opposition to liberty. As soon as the
-			Government said " You cannot come into Japan," the Young Liberals started to make a
+			If the Government had said "You will not enter," that would have been the end of it.
+			Today the Government is not so firm in its opposition to liberty. As soon as the
+			Government said "You cannot come into Japan," the Young Liberals started to make a
 			noise, and to protest and to ask why. Then the Government moved down a step or two, and
-			said " She may come in, but she must not speak." More noise, more protests from the
-			Liberal group, and then the Government moved down another step, and said " She may
-			speak, but not in public." More noise, more protests, and the Government stepped down
-			again, and said " She may speak in public, but she must not give the methods of Birth
-			Control." On that we all agreed. I had no intention of giving the methods of Birth
-			Control to a promiscuous audience; I simply wanted to speak on the theory of the
-			subject, and the practical side would have been given in private.</p>
+			said "She may come in, but she must not speak." More noise, more protests from the
+			Liberal group, and then the Government moved down another step, and said "She may speak,
+			but not in public." More noise, more protests, and the Government stepped down again,
+			and said "She may speak in public, but she must not give the methods of Birth Control."
+			On that we all agreed. I had no intention of giving the methods of Birth Control to a
+			promiscuous audience; I simply wanted to speak on the theory of the subject, and the
+			practical side would have been given in private.</p>
 		<p>So, after my arrival, I wanted to ascertain from the Home Office why I was barred from
 			Japan. It is very important for a propagandist to see to it that she is never barred out
 			from any place. It is a very bad precedent for your work. So I went to call on the
@@ -227,14 +236,14 @@
 			weeks I was there carried scientific articles as well as propaganda articles on the
 			subject.</p>
 		<p> We were able in this time to give ten lectures in <place reg="Tokyo, Japan"
-				>Tokio</place>, and if it had not been for illness I think I should have been there
+				>Tokyo</place>, and if it had not been for illness I think I should have been there
 			for the next two years, because the invitations and letters that came in asking for
-			addresses and lectures made us turn the whole business organisation into an office to
-			answer them. However, we were able to give ten lectures in Tokio and fifteen lectures
+			addresses and lectures made us turn the whole business organization into an office to
+			answer them. However, we were able to give ten lectures in Tokyo and fifteen lectures
 			throughout Japan, and in all except one of those lectures we were able to discuss the
 			methods of Birth Control quite freely. This was done in small groups of from 150 to 200.
-			They were divided into commercial groups, labour groups, industrial groups, and the
-			physicians of the Women's Organisation, and they did this very efficiently and to my
+			They were divided into commercial groups, labor groups, industrial groups, and the
+			physicians of the Women's Organization, and they did this very efficiently and to my
 			satisfaction, because I prefer speaking to small audiences when it comes to the
 			practical side rather than to large promiscuous audiences. </p>
 		<p>Finally, a League was formed--the first <org reg="Nihon Sanji Ch&ocirc;setsu Renmei"
@@ -248,14 +257,13 @@
 		<p>One of the interesting things to me was the keen mind which the Japanese statesmen bring
 			to bear on this subject. They do not intend to duplicate our errors. They do not intend
 			that the birth rate and the increase of population shall be among the unfit and the
-			diseased. They intend to direct the force of their organisation and of this movement
-			against anything in that direction. This organisation has for its president a <person
+			diseased. They intend to direct the force of their organization and of this movement
+			against anything in that direction. This organization has for its president a <person
 				reg="Unknown">sociologist</person>, a <person reg="Abe, Isoo">professor in one of
 				the universities</person>, and also a <person reg="Unknown">member of the medical
-				profession</person>. They have also a <person reg="Unknown">Labour leader</person>
-			and a very- well known <person reg="Unknown">social worker</person>, so that all
-			branches of their social and intellectual life are represented in the Birth Control
-			League.</p>
+				profession</person>. They have also a <person reg="Unknown">Labor leader</person>
+			and a very well-known <person reg="Unknown">social worker</person>, so that all branches
+			of their social and intellectual life are represented in the Birth Control League.</p>
 		<p>I think it is safe to say that Japan is keenly alive to the subject of Birth Control.
 			Just how long this will last none of us can predict, but if we were able to send our
 			missionaries there as the Church has done, I think we should go a very long way towards
@@ -268,14 +276,14 @@
 		<p>From Japan I went to Korea, and though my time was limited I was able to give an address,
 			and again the Press was very generous in its statements and in giving out the means of
 			Birth Control to the people. There again, there were many requests for addresses from
-			the Koreans themselves and promises that an organisation would be established there in
+			the Koreans themselves and promises that an organization would be established there in
 			the very near future.</p>
 		<p>Then we went to China, where we had not at first intended to go, as my original plan was
 			only to go to Japan and return home. The interest in China was just as great. I was able
 			to speak to 2,500 young students at the <org>National University</org>. The <person
 				reg="Unknown">Chancellor</person> himself and the Professors of the University
 			formed the first <org>Birth Control League of China</org>. There also they got busy at
-			once. This group met after dinner and organised the League. They took the practical
+			once. This group met after dinner and organized the League. They took the practical
 			leaflet "<title type="bookj">Family Limitation</title>," translated it that night into
 			Chinese, and it was on the press next morning ready for printing. Five thousand of these
 			pamphlets were distributed later on in a few days, so that China took practically at
@@ -300,8 +308,8 @@
 			that the Crucifixion took place 180 years before Christianity was established, or rather
 			started, in the <org>Roman Empire</org>. We know that the <place>New World</place> was
 			discovered 150 years before the first English colony was established there. None of
-			those who see the beginning of these historical movements can realise and grasp their
-			full significance, and I think it is safe to say that none of us will probably realise
+			those who see the beginning of these historical movements can realize and grasp their
+			full significance, and I think it is safe to say that none of us will probably realize
 			or live to see this movement in its fullest culmination, but I think it is safe to
 			say--and we claim it--that if Birth Control is accepted by the Eastern nations, it will
 			hasten very greatly our progress towards international peace and human emancipation.</p>
