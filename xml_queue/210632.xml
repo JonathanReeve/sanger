@@ -5,6 +5,7 @@
 		<prepDate>2003/07/08 KSM</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-05-21 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,7 +16,7 @@
 		<idno>msp210632</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, July 1922, pp.123-5</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>,
 				S70:940</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -25,11 +26,18 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="xxxx"/>
+		<index level1="China" level2="MS in"/>
+		<index level1="China" level2="MS on"/>
+		<index level1="China" level2="women in"/>
+		<index level1="China" level2="birth control in"/>
+		<index level1="China" level2="birth control clinics"/>
+		<index level1="China" level2="overpopulation in"/>
+		<index level1="missionaries"/>
+		<index level1="Sanger, Margaret" level2="tours” level3=”1922 (China)"/>
+		<index level1="birth control movement" level2="international"/>
 	</headNote>
 	<docBody>
 		<head>Margaret Sanger in China</head>
-		<byline>Margaret Sanger</byline>
 		<salute>To the Readers of <title type="journal">THE BIRTH CONTROL REVIEW</title>:</salute>
 		<p>The average tourist visiting <place>China</place>, cannot help but be impressed by the
 			fact that the Malthusian doctrine has proven itself true here and can never be refuted
@@ -55,42 +63,42 @@
 			degrading conditions. They could not live amongst such conditions in their own country
 			without an effort to improve them. It is said by those who have lived here long, that
 			China psychologically swallows up all those who live here, and I certainly believe that
-			is true, for during my conversation with many missionaries and business people, who have
-			lived here for the last fifteen or twenty years, I find that they have lost many of
+			it is true, for during my conversation with many missionaries and business people, who
+			have lived here for the last fifteen or twenty years, I find that they have lost many of
 			those qualities of character and conscientiousness which have been bred in them for
 			generations in their own country. Here and there one finds an effort towards
 			improvements, but the improvements in the cities are done mainly in the foreign
 			districts for their own comfort and convenience. Here we see the most abject and
 			distressing objects of poverty and misery. We see disease rampant openly in the streets.
-			We see lepers sitting begging from passerby, while those afflicted with syphilitic sores
-			walk beside us. We see mothers, professional beggars, who bear their children openly in
-			the streets. Their children in turn become beggars and so it goes from generation to
-			generation. The street is their home, eating sleeping, and begging there. They do not
-			like to be photographed as if they are very superstitious and believe the camera brings
-			evil to them.</p>
+			We see lepers sitting begging from passers-by, while those afflicted with syphilitic
+			sores walk beside us. We see mothers, professional beggars, who bear their children
+			openly in the streets. Their children in turn become beggars and so it goes from
+			generation to generation. The street is their home, eating, sleeping, and begging there.
+			They do not like to be photographed as they are very superstitious and believe the
+			camera brings evil to them.</p>
 		<p>The thing I cannot accustom myself to in China, is being pulled in a rickshaw by a human
 			being, or being carried in a sedan chair by three or four of them. I can't endure the
 			eager running of the half naked rickshaw boy, and I avoid them whenever it is possible.
-			It is said his days are numbered. He lives four or five years at most. The reminder of
-			his life is spend eking out an existence. He suffers from varicose veins and heart
-			disease. We see them everywhere, clothed in thin trousers and jacket, and usually ragged
-			and dirty when not engaged by hotels. Eagerly they solicit our trade and pick up the
-			shafts of their little vehicle and being the dog trot journey.</p>
-		<p>At Peking a young women, secretary to a prominent official called for me to take me to
-			the gentlemen's home. On the way she related the joys of living in China. She said she
-			got a smaller salary, far smaller than she got in America, but her comforts far exceeded
+			It is said his days are numbered in this uncivilized occupation. He lives four or five
+			years at most. The reminder of his life is spend eking out an existence. He suffers from
+			varicose veins and heart disease. We see them everywhere, clothed in thin trousers and
+			jacket, and usually ragged and dirty when not engaged by hotels. Eagerly they solicit
+			our trade and pick up the shafts of their little vehicle and being the dog trot
+			journey.</p>
+		<p>At Peking a young woman, secretary to a prominent official called for me to take me to
+			the gentleman's home. On the way she related the joys of living in China. She said she
+			got a small salary, far smaller than she got in America, but her comforts far exceeded
 			anything she could have at home with double her present wage. Among the comforts noted
-			was a rickshaw boy whom she employed by the month, paying him 19 Mex. Or 5 American
+			was a rickshaw boy whom she employed by the month, paying him 10 Mex. or 5 American
 			dollars a month, out of which the boy supports himself and his family. He had been in
-			her employ three years--and she had never given him more money nor did she expect
-			to.</p>
+			her employ three years--she had never given him more money nor did she expect to.</p>
 		<p>One of the hardest features of life of an employee in China is that he can not get a
 			position by himself. He must have someone else get it for him. When a foreigner does not
 			know this, and dismisses a servant, it means practical starvation for that man.</p>
 		<p>Besides the rickshaw men, the lives of coolies and sing-song girls make me shudder. While
-			in the Northern cities the coolies are men and boys, in <place reg="Hong Kong"
-				>Hong kong</place> the women do this beast of burden work. As I sit writing this I
-			look out of my window upon a newly built structure where hundreds of women are carrying
+			in the Northern cities the coolies are men and boys, in <place reg="Hong Kong">Hong
+				kong</place> the women do this beast of burden work. As I sit writing this I look
+			out of my window upon a newly built structure where hundreds of women are carrying
 			bricks in baskets to the men who are laying them.</p>
 		<p>I can not give here all my experiences, but I can never again boast of our civilization
 			after my conversation with some of Shanghai's sing-song girls--these little children are
@@ -110,7 +118,7 @@
 		<p>We in the Western world who have the desire to make the Birth Control movement
 			international have asked ourselves how this idea would be accepted in the Orient. We
 			have time and again been told by our opponents that the Japanese and Chinese would not
-			accept this idea, and that eventually, if we persisted in our work in the western
+			accept this idea, and that eventually, if we persisted in our work in the Western
 			countries, the white race would be entirely wiped out. It is, however, a great pleasure
 			to me to be able to say that the idea of Birth Control is readily accepted in both of
 			these countries. I have already given an account of the enthusiasm with which the
@@ -137,7 +145,7 @@
 			for my coming to China the results have been splendid. With the possibility of a League
 			in Peking and the establishment of a clinic there together with a branch League in
 			Shanghai and a magazine devoted to Birth Control, I feel that we have established some
-			good centres and should make rapid progress in the next few years. The Chinese press has
+			good centers and should make rapid progress in the next few years. The Chinese press has
 			been splendid. Wherever one has been able to arouse attention, there has been a splendid
 			response and I feel that one of the important things of the future will be to send two
 			or three speakers into China to remain at least six months, in order to pick up the
@@ -146,7 +154,7 @@
 			Editorial entitled <title type="article">Birth Control</title> I quote: "<q who="SCMP"
 				>China is as striking an example of over-population and resultant degeneration as
 				the world can show. It might with difficulty be made the reformer's first battle
-				ground, for from what we know of "ole custom" it would be a hard fight, so hard that
+				ground, for from what we know of 'ole custom' it would be a hard fight, so hard that
 				if it were won, the education of the rest of the world would be a simple
 			matter</q>."</p>
 		<p>This sums the matter up in a nut-shell and yet I feel today, as I am about to leave this
