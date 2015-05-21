@@ -17,7 +17,7 @@
 		</docTitle>
 		<idno>msp420022</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 6, Aug. 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, Aug. 1914, p.
 				44</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:558</bibl>
@@ -32,14 +32,16 @@
 	<headNote>
 		<p>For previous articles in this series see "Class and Character," <xref from="420003.xml"
 				>June 1914</xref> and <xref from="420028.xml">July 1914.</xref>.</p>
-		<index level1="working classes" level2="women and girls"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="working classes" level2="alcohol and"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="employment of"/>
+		<index level1="women and girls" level2="sexuality of"/>
+		<index level1="sex and sexuality" level2="MS on"/>
+		<index level1="working classes" level2="and alcohol"/>
+		<index level1="women and girls" level2="working class"/>
 		<index level1="sex education"/>
-		<index level1="prostitution" level2="MS on"/>
-		<index level1="venereal disease" level2="alcohol and"/>
-		<index level1="working classes" level2="nutrition and"/>
-		<index level1="alcohol" level2="MS on"/>
+		<index level1="venereal disease"/>
+		<index level1="prostitution"/>
 	</headNote>
 	<docBody>
 		<head>CLASS AND CHARACTER</head>

@@ -9,6 +9,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-21 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,7 +19,7 @@
 		</docTitle>
 		<idno>msp42001</idno>
 		<sourceDesc>
-			<bibl><title type="jorunal">The Woman Rebel</title>, Vol. 1, No. 6, Aug. 1914, p.
+			<bibl><title type="jorunal">The Woman Rebel</title>, Aug. 1914, p.
 				46</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:560</bibl>
@@ -28,13 +29,14 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
+		<index level1="hunger strike"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="free speech and free press"/>
 		<index level1="law breaking and direct action"/>
-		<index level1="jails and imprisonment" level2="Blackwell's Island Workhouse (New York)"/>
+		<index level1="Sanger, Margaret" level2="on jails and prisons"/>
 		<index level1="Free Speech League"/>
 		<index level1="Edelsohn, Rebecca"/>
-		<index level1="peace movement and pacifism"/>
-	</headNote>
+			</headNote>
 	<docBody>
 		<head>THE HISTORY OF THE HUNGER-STRIKE</head>
 		<p><person reg="Edelsohn, Rebecca">Becky Edelsohn</person> began her activities at <place
