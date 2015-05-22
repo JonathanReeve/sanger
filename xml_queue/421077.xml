@@ -9,9 +9,7 @@
 		</docAuthor>
 		<docDate value="1929-12-14">14 Dec 1929</docDate>
 		<docTitle>
-			<titlePart>
-				<supplied resp="MSPP">Lecture to Cleveland City Club</supplied>
-			</titlePart>
+			<titlePart><supplied resp="MSPP">Lecture to Cleveland City Club</supplied></titlePart>
 		</docTitle>
 		<idno>msp421077</idno>
 		<sourceDesc>
@@ -27,8 +25,7 @@
 			<name id="THOJO">Thomas, John J.</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">
-		<p>Sanger's speech was not found.</p>
+	<headNote resp="MSPP"><p>Sanger's speech was not found.</p>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
 		<index level1="birth control" level2="physical justifications for"/>
@@ -65,20 +62,17 @@
 		<div>
 			<head type="sub"> 85,000,000 Child Minds</head>
 
-			<p>
-				<q who="CPD"> Mrs. Sanger, in opening her lecture, said that, according to available
+			<p><q who="CPD"> Mrs. Sanger, in opening her lecture, said that, according to available
 					statistics, 85,000,000 of the 105,000,000 people in the <place>United
 						States</place> have the mentality of a fifteen-year-old child. There are
 					45,000,000 feeble-minded persons in the country, she said, and the upper group
 					capable of raising and properly caring for intelligent children numbers only
-					30,000,000. </q>
-			</p>
+					30,000,000. </q></p>
 
 			<p>
 				<q who="CPD">She argued that the feeble minded and those who compose the lower group
 					should be compelled to practice birth control, and that in some cases an
-					operation to prevent conception should be resorted to. </q>
-			</p>
+					operation to prevent conception should be resorted to. </q></p>
 
 			<p> “<q who="UNK">Do you think that we have progressed far enough in the science of
 					psychology so that the official body which would pass on who should have
@@ -133,12 +127,10 @@
 				that the young wife between 18 and 22 should not have children until she has passed
 				the adolescent stage. Also a young couple should have at least two years to adjust
 				themselves to each other and establish a harmonious home.”</p>
-
-			<p>
-				<q who="CPD">Dissemination of knowledge, she said, would have no effect on morals. A
-					man chooses his course of action no more wisely when he is in ignorance. </q>
-			</p>
-
+			
+			<p> <q who="CPD">Dissemination of knowledge, she said, would have no effect on morals. A man
+					chooses his course of action no more wisely when he is in ignorance. </q></p>
+			
 			<p>
 				<q who="CPD">In reference to determining the feeble minded in a community, Dr.
 					Thomas asked if Mrs. Sanger meant the <org reg="Cleveland City Council">City
@@ -148,10 +140,10 @@
 					not result in “geniuses not being born” since statistics indicate that the sixth
 					or eight child in many cases is a genius. </p>
 			</q>
-			<p> “<person reg="Caruso, Enrico">Caruso</person> was a genius--he had a freak throat, a
-				really abnormal throat,” <q who="CPD">Mrs. Sanger replied.</q> “Anyway, are we going
-				to develop geniuses in that way? How do we know how many geniuses we have in any
-				community today who have never been developed because they haven’t the economic
+			<p> “<person reg="Caruso, Enrico">Caruso</person> was a genius--he had a freak throat,
+				a really abnormal throat,” <q who="CPD">Mrs. Sanger replied.</q> “Anyway, are we
+				going to develop geniuses in that way? How do we know how many geniuses we have in
+				any community today who have never been developed because they haven’t the economic
 				chance?”</p>
 		</div>
 	</docBody>

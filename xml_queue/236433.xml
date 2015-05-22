@@ -5,12 +5,8 @@
 		<prepDate>2012-04-25 AW Initial Tag</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-04-15 CH proof tags and enter</prepDate>
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
-		<docDate value="1939-00-00">
-			<supplied resp="MSPP">ca. 1939</supplied>
-		</docDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1939-00-00"><supplied resp="MSPP">ca. 1939</supplied></docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Quality of Our Population</supplied>

@@ -6,9 +6,7 @@
 		<prepDate>2014-09-10 CH clean up</prepDate>
 		<prepDate>2015-01-29 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-18 CH recheck tags</prepDate>
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1931-11-07">
 			<supplied resp="MSPP">07 Nov 1931</supplied>
 		</docDate>
@@ -20,8 +18,7 @@
 		<idno>msp236575</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
-				S71:236</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:236</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -75,8 +72,8 @@
 			equally to other countries like <place>England</place> &amp; <place>France</place> where
 			the growth of population is due entirely to her natural increase.</p>
 		<p> No country can continue to stand a doubling of its population every 50 years as ours has
-			done in the past. Take the case of a baby's growth. When born it weighs 7 lbs normally
-			it doubles its weight in the first 5 or 6 months But should it continue to double its
+			done in the past. Take the case of a baby's growth. When born it weighs 7 lbs normally it
+			doubles its weight in the first 5 or 6 months But should it continue to double its
 			weight every succeeding 5 months By the time it was five years old it would weigh nearly
 			13 tons. Ten months later it would weigh nearly 50 tons! The same law of growth applied
 			to the child governs the growth of every <gap extent="rest of document" reason="missing"

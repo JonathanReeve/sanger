@@ -41,7 +41,7 @@
 	<docBody>
 		<head>BIRTH CONTROL PARLEY MEETS IN TOKYO TODAY</head>
 		<dateline><place reg="Tokyo, Japan">TOKYO</place>, <date value="1955-10-23">Oct. 23</date>
-				[<org reg="Reuters">Reuters</org>]</dateline>
+				[<org>Reuters</org>]</dateline>
 		<div type="section">
 			<p>
 				<q who="REUT">Birth control experts from over the world tomorrow open the <org
@@ -50,9 +50,9 @@
 			</p>
 			<p>
 				<q who="REUT">Highlights of the conference is expected Friday when an American
-					scientist, <person reg="Pincus, Gregory Goodwin">Gregory Pincus</person>, will
-					submit a report on a small oral contraceptive named progesterone, which can be
-					eaten like candy.</q>
+					scientist, <person reg="Pincus, Gregory Goodwin">Gregory Pincus</person>, will submit a
+					report on a small oral contraceptive named progesterone, which can be eaten like
+					candy.</q>
 			</p>
 		</div>
 		<div type="section">

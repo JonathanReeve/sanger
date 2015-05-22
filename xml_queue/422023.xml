@@ -5,9 +5,7 @@
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1926-06-00">June 1926</docDate>
 		<docTitle>
 			<titlePart>Editorial</titlePart>
@@ -67,7 +65,7 @@
 			Control were <person reg="Russell, Frank">Earl Russell,</person> elder brother of
 				<person reg="Russell, Bertrand">Bertrand Russell,</person> who made a strong plea
 			for the right of the woman to settle with her own conscience whether she would bear a
-			child or not, <person reg="Balfour, Arthur James">Earl Balfour of Burleigh,</person>
+			child or not, <person reg="Balfour, Arthur">Earl Balfour of Burleigh,</person>
 			<person reg="Sackville, Herbrand">Earl de la Warr</person> and <person
 				reg="Norton, Cecil">Lord Rathcreedan.</person></p>
 		<p>The world is the poorer for the loss of <person reg="Key, Ellen">Ellen Key,</person> who

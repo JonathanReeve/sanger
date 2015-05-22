@@ -3,11 +3,8 @@
 <doc type="Typed Article">
 	<mepHeader>
 		<prepDate>2011-07-20 NC</prepDate>
-		<prepDate>2014-03-24 CH clean regs</prepDate>
-		<prepDate>2015-04-08 CH proof tags and enter</prepDate>
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
+		<prepDate>2014-03-24 CH clean regs</prepDate><prepDate>2015-04-08 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1944-07-00">
 			<supplied resp="MSPP">July 1944</supplied>
 		</docDate>
@@ -17,8 +14,7 @@
 		<idno>msp226160</idno>
 		<sourceDesc>
 			<bibl>Records of PPFA, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
-				S72:411</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S72:411</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,18 +22,19 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger hand wrote two alternate titles, "When Johnny Comes Back Home" and "Will that War
-			Romance End in Divorce?" at the top of the first page.</p>
+		<p>Sanger hand wrote two alternate titles, "When Johnny Comes Back Home" and "Will
+			that War Romance End in Divorce?" at the top of the first page.</p>
 		<index level1="divorce" level2="in U.S."/>
 		<index level1="war" level2="marriage and"/>
 	</headNote>
 	<docBody>
 		<head>LASTING PEACE FOR THE WAR MARRIAGE</head>
 		<byline>by Margaret Sanger</byline>
-		<p>Several people have said in horrified tones to me lately. “Have you heard how many of
-			these hasty war marriages are cracking up? They say hundreds and thousands of
-			applications for divorces have been filed, that the only reason they haven’t gone
-			through yet is that one can’t divorce a man in the armed forces!”</p>
+		<p>Several people have said in horrified tones to me lately. “Have you heard
+				how many of these hasty war marriages are cracking up? They say hundreds and
+				thousands of applications for divorces have been filed, that the only reason they
+				haven’t gone through yet is that one can’t divorce a man in the armed
+			forces!”</p>
 		<p>I have heard ominous overtones of discontent, of what will happen when the soldier gone
 			these many months and years comes home to his waiting wife, with whom he’s had only a
 			V-mail relation for so long. I know that the last war was followed by a tragically high
@@ -80,23 +77,23 @@
 			She will take pride in his new ambitions and skills and try to progress with him. I
 			think that marriage is headed for permanent success, even though a new Bill will come
 			home to meet a new Sadie.</p>
-		<p>With the Martins it is different. James Martin has already been demobilized, one of the
-			70 thousand being demobilized daily. For him the war is over, yet it isn’t really over
-			and this makes things difficult for James. For two years in the mud and foxholes of the
-				<place>South Pacific</place> he’s dreamed of this homecoming to his wife Helen. He
-			didn’t dream he’d return before the war’s end or that constant fighting would shatter
-			his nerves almost to the point of exhaustion. The doctors and psychiatrists have
-			dismissed James as cured. That he is cured of being a soldier. It was a difficult job
-			turning the hundreds of thousands of Jameses into soldiers in the first place. They’d
-			been taught from infancy, love, and kindness, not to hurt others needlessly. The army
-			had to teach them that sometimes it is necessary to be ruthless killers, they had to be
-			reconditioned for war, taught group thinking, group emotions. Then came the end of the
-			war for James Martin. Again he had to be re-educated back to peace-time emotions. It
-			isn’t easy for him. Fortunately Helen realizes this. She’s had a difficult time too. She
-			and James chose to defer having a baby until the war would be over and the child could
-			have both a mother and father. She waited and worked and led a very dull life during
-			James’ absence. His return would be glorious, the end of loneliness and frustration. But
-			it wasn’t.</p>
+		<p>With the Martins it is different. James Martin has
+			already been demobilized, one of the 70 thousand being demobilized daily. For him the
+			war is over, yet it isn’t really over and this makes things difficult for James. For two
+			years in the mud and foxholes of the <place>South Pacific</place> he’s dreamed of this
+			homecoming to his wife Helen. He didn’t dream he’d
+			return before the war’s end or that constant fighting would shatter his nerves almost to
+			the point of exhaustion. The doctors and psychiatrists have dismissed James as cured.
+			That he is cured of being a soldier. It was a difficult job turning the hundreds of
+			thousands of Jameses into soldiers in the first place. They’d been taught from infancy,
+			love, and kindness, not to hurt others needlessly. The army had to teach them that
+			sometimes it is necessary to be ruthless killers, they had to be reconditioned for war,
+			taught group thinking, group emotions. Then came the end of the war for James Martin.
+			Again he had to be re-educated back to peace-time emotions. It isn’t easy for him.
+			Fortunately Helen realizes this. She’s had a difficult time too. She and James chose to
+			defer having a baby until the war would be over and the child could have both a mother
+			and father. She waited and worked and led a very dull life during James’ absence. His
+			return would be glorious, the end of loneliness and frustration. But it wasn’t.</p>
 		<p>James found to his horror that the happiness he needed and had yearned for most with his
 			wife was denied him partly by his eagerness for it. He was impotent. At first this made
 			him impatient with his wife, angry with her as well as with himself. How many young
