@@ -656,24 +656,16 @@ function processFile($Files,$filepointer) {
 	    $indices[$currentIndex]=NULL;
 	    $currentIndex = "index".++$indexCounter;
 	  }
-	  /* insertion into db must have been successful
-	    by now, so move the file to the "added" dir
-     	    from the HARDCODED directory */
-          $source = "../../xml_queue/".$Files;
-          $destination = "../../xml_added/".$Files;
-          $move_file_err = rename($source,$destination);
-	  if($move_file_err) {
+	  //[> insertion into db must have been successful
+	    //by now, so move the file to the "added" dir
+                 //from the HARDCODED directory */
+          //$source = "../../xml_queue/".$Files;
+          //$destination = "../../xml_added/".$Files;
+          //$move_file_err = rename($source,$destination);
+	  //if($move_file_err) {
 	    $line="</ol></p><b>Success</b>: processed and moved file " . $Files . "</p>\n";
 	    echo $line;
 	    fwrite ($filepointer, $line);
-	  }
-	  else {
-	    $line="<li>Attempting to move file: ".$move_file_err.".<br>Please contact the administrator immediately.</li></ol>";
-	    echo $line;
-	    fwrite($filepointer,$line);
-	    return;
-	  }
-	  
 	  
 	}
       }
