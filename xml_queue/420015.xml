@@ -7,7 +7,6 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH cleaning regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-05-27 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,22 +16,20 @@
 		</docTitle>
 		<idno>msp420015</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Aug. 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, Aug. 1914, p.
 				48</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:0562</bibl>
+				C16:562</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
-		<index level1="Woman Rebel, The" level2="articles"/>
-		<index level1="World War I" level2="and birth control"/>
 		<index level1="class warfare"/>
-		<index level1="working classes" level2="and war"/>
-		<index level1="birth control" level2="and peace"/>
-		<index level1="peace and pacifism" level2="MS on"/>
-		<index level1="working classes" level2="and war"/>
+		<index level1="birth control" level2="war and"/>
+		<index level1="peace movement and pacifism"/>
+		<index level1="working classes"/>
 		<index level1="World War I" level2="MS on"/>
-		</headNote>
+		<index level1="World War I" level2="anti-war efforts"/>
+	</headNote>
 	<docBody>
 		<head>THE WAR'S LESSON</head>
 		<p>If this European war does not convince the workers of the absolute necessity of
