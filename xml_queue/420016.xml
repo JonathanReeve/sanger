@@ -7,6 +7,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH cleaning regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-05-27 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -16,10 +17,10 @@
 		</docTitle>
 		<idno>msp420016</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 6, Aug. 1914, p.
+			<bibl><title type="journal">The Woman Rebel</title>, Aug. 1914, p.
 				48</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:562</bibl>
+				C16:0562</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
