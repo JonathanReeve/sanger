@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+	<mepHeader>
+		<prepDate>2015-05-15 JC transcribed and encoding</prepDate>
+		<prepDate>2015-05-27 CH proof and enter tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1923-02-07">7 Feb 1923</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">American Birth Control League Second Annual Convention
+					Address</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422046</idno>
+		<sourceDesc>
+			<bibl><title type="article">Urges Birth Control Clinics</title>, <title type="journal"
+					>Reading Times</title>, Feb 8, 1923, p. 1</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="RT">Reading Times</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="American Birth Control League"/>
+		<index level1="birth control movement"/>
+	</headNote>
+	<docBody>
+		<head>Urges Birth Control Clinics</head>
+		<dateline><place reg="Philadelphia, PA">Philadelphia</place>, <date value="1923-02-07">Feb.
+				7.</date>--</dateline>
+		<p><q who="RT">Mrs. Margaret Sanger, national president of the <org>American Birth Control
+					League</org>, in an address before the second annual convention of the League
+				tonight urged the establishment off birth control clinics, where</q> "poor mothers
+			may obtain scientific information."</p>
+		<p>
+			<q who="RT">In discussing the objects of the league, Mrs. Sanger said:</q>
+		</p>
+		<p>"We are fighting for the women and children of the present generation: we are fighting
+			for the children, women and men of the next generation. We want a world freer, happier,
+			cleaner--we want a race of thoroughbreds. We want to make <place reg="United States"
+				>America</place> the leading nation of the world, physically, mentally, and
+			spiritually."</p>
+		<p>
+			<q who="RT">Dr. <person reg="Vaughan, John Colin">John Colin Vaughan</person>, of <place
+					reg="New York, NY">New York</place>, member of the board of directors of the
+				league, and Dr. <person reg="Goldstein, Sidney E.">Sidney E. Goldstein</person>,
+				associate pastor of the <org>Free Synagogue of New York</org>, also addressed the
+				convention.</q>
+		</p>
+	</docBody>
+</doc>

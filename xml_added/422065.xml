@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published interview">
+	<mepHeader>
+		<prepDate>2015-05-15 JC transcribed and encoding</prepDate>
+		<prepDate>2015-05-27 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docAuthor><person reg="Toomey, Elizabeth">Elizabeth Toomey</person></docAuthor>
+		<docDate value="1955-05-10"><supplied resp="MSPP">10 May 1955</supplied></docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Interview with the United Press</supplied></titlePart>
+		</docTitle>
+		<idno>msp422065</idno>
+		<sourceDesc>
+			<bibl><title type="article">Margaret Sanger Says Crusaders Still Needed</title>, <title
+					type="journal">San Mateo Times</title>, May 10, 1955, p. 18</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="TOOEL">Elizabeth Toomey</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="birth control movement" level2="international"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+		<index level1="Sanger, Margaret" level2="on jails and prisons"/>
+	</headNote>
+	<docBody>
+		<head>Margaret Sanger Says Crusaders Still Needed</head>
+		<byline>By ELIZABETH TOOMEY</byline>
+		<dateline><place reg="New York, NY">NEW YORK</place> (<org reg="United Press"
+			>UP</org>).--</dateline>
+		<p><q who="TOOEL">We have plenty of causes worth fighting for today, one of history's most
+				famous women crusaders declares, but the crusading spark in modern women is
+			</q>"dampened down."</p>
+		<p><q who="TOOEL">There was no reproof in her tone, but Margaret Sanger admitted during an
+				interview here that if she were young again she'd be out fighting for one of several
+				social evils that she thinks need correcting.</q></p>
+		<div type="section">
+			<head type="sub">Initiative Missing</head>
+			<p>"This isn't the age for it really,"<q who="TOOEL"> Mrs. Sanger said in a gentle
+					voice.</q> "A good deal of the initiative that belonged to my generation has
+				been dampended down. You talk to young college women now and they say there isn't
+				anything to do."</p>
+			<p><q who="TOOEL">Mrs. Sanger, the founder of the birth control movement in this country
+					and still a world force in spreading her beliefs to other nations, is a serene
+					71 years old.</q></p>
+			<p><q who="TOOEL">Forty-one years ago she fled to <place>England</place> to escape a
+					federal indictment.</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">Militant Feminist</head>
+			<p><q who="TOOEL">Her name belongs on a list of militant feminists along with such women
+					as <person reg="Anthony, Susan B.">Susan B. Anthony</person>, <person
+						reg="Nation, Carrie">Carrie Nation</person> and <person reg="Mott, Lucretia"
+						>Lucretia Mott</person>.</q></p>
+			<p><q who="TOOEL">In fact, people are inclined to associate her a little too much with
+					history to suit Mrs. Sanger. They're often surprised to find she is still
+					alive.</q></p>
+			<p>"Young people think the fight for birth control took place a long time ago," <q
+					who="TOOEL">Mrs. Sanger said.</q> "Many times they confuse my name with <person
+					reg="Sangster, Margaret">Margaret Sangster</person>, and they assume I'm
+				dead."</p>
+			<p><q who="TOOEL">(Margaret Sangster was a novelist and poet who died in 1912.)</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">Federal Indictment</head>
+			<p><q who="TOOEL">Mrs. Sanger was a nurse, the wife of an <person reg="Sanger, William"
+						>architect</person> and the mother of <person reg="Sanger, Stuart"><person
+							reg="Sanger, Grant"><person reg="Sanger, Peggy">three
+							children</person></person></person> when she went to work in earnest to
+					make birth control a legal and public issue in 1912. Two years later the <org
+						reg="United States Governemnt">federal government</org> indicted her for
+					sending birth control information through the mail. she fled to England when
+					"the people versus Margaret Sanger" case was cancelled.</q></p>
+			<p><q who="TOOEL">A biography of her life, "<title type="book">The Margaret Sanger
+						Story</title>," was just published by Doubleday, and Mrs. Sanger is busy
+					planning a trip to Japan next fall to bring that nation into the <org
+						reg="International Planned Parenthood Federation">International Federation
+						of Planned Parenthood</org>. She came here last week from her home in <place
+						reg="Tucson, AZ">Tucson, Ariz.</place>, to attend the federation's
+					convention.</q></p>
+			<p><q who="TOOEL">Asked what cause she might lead today, if she were young again, Mrs.
+					Sanger said,</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">Women's Prisons</head>
+			<p>"Women's prisons, I think. You could clean up a good deal of wrong there. That is,
+				assuming these other things had been achieved, like women's suffrage and birth
+				control."</p>
+			<p><q who="TOOEL">The tireless crusader did spend a month in a <place reg="Brooklyn, NY"
+						>Brooklyn</place>
+					<org reg="Queens County Penitentiary">jail</org> some 30 years ago, and after
+					that wrote some bitter letters to public figures about the treatment of the
+					women prisoners. But the birth control movement claimed all of her time.</q></p>
+			<p>"You must have faith in it,"<q who="TOOEL"> she said, referring to the first
+					qualification for any reform movement.</q> "I still have it."</p>
+		</div>
+
+	</docBody>
+</doc>

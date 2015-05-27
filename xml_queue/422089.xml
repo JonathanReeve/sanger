@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-26 LH encoded and transcribed</prepDate><prepDate>2015-05-27 CH proofed and entered tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1937-07-22">22 Jul 1937</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Statement on International Birth Control</supplied></titlePart>
+		</docTitle>
+		<idno>msp422089</idno>
+		<sourceDesc>
+			<bibl><title type="article">Statement on International Birth Control</title>, <title
+					type="journal"> The Bakersfield Californian</title>, Jul 22, 1937, p. 11</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BC">Bakersfield Californian </name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control" level2="international"/>
+	</headNote>
+	<docBody>
+		<head>World Birth Control Favored by Sanger</head>
+		<byline>(<org>United Press</org> Leased Wire)</byline>
+		<dateline>
+			<place reg="Los Angeles, CA">LOS ANGELED</place>, <date value="1937-07-22">July 22</date>.--
+		</dateline>
+		<p>
+			<q who="BC"> Margaret Sanger today set world-wide birth control as her next goal. The
+				noted birth control advocate, en route to <place>China</place> at the call of birth control
+				organizations there, said:</q>
+		</p>
+		<p> "Now that the American legal barriers are out of the way and medical opinion has been
+			established world-wide birth control is the next step."</p>
+	</docBody>
+</doc>

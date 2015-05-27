@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published interview">
+	<mepHeader>
+		<prepDate>2015-05-15 JC transcribed and encodingk</prepDate>
+		<prepDate>2015-05-27 CH proof and enter tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docAuthor>
+			<person reg="Miller, Joy">Joy Miller</person>
+		</docAuthor>
+		<docDate value="1961-05-13">13 May 1961</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the Associated Press</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422066</idno>
+		<sourceDesc>
+			<bibl><title type="article">Margaret Sanger, Nearing 80, Is Still Birth Control
+					Crusader</title>, <title type="journal">Corsica Daily Sun</title>, May 13, 1961,
+				p. 5</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="MILJO">Miller, Joy</name>
+			<name id="HIGMI">Higgins, Michael</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="Sanger, Margaret" level2="descriptions of"/>
+		<index level1="birth control movement" level2="history of"/>
+		<index level1="birth control movement" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>Margaret Sanger, Nearing 80, Is Still Birth Control Crusader</head>
+		<byline>By JOY MILLER</byline>
+		<dateline><place reg="New York, NY">NEW YORK</place>, <date value="1961-05-13">May 13</date>
+				(<org reg="Associated Press">AP</org>)--</dateline>
+		<p>
+			<q who="MILJO">She sits quietly with folded hands, looking like a modern <person
+					reg="Whistler, James McNeill">whistler</person>'s <person
+					reg="Whistler, Anna McNeill">mother</person>.</q>
+		</p>
+		<p>
+			<q who="MILJO">Her floor-length silk muumuu is red, but somehow it goes with her Irish
+				red hair that needs only slight tinting as she nears 80. She's gently placid, almost
+				frail.</q>
+		</p>
+		<div type="section">
+			<p>
+				<q who="MILJO">But just ask Margaret Sanger if she has mellowed. The blue eyes flash
+					with the old fire that kept her embattled birth control movement going in its
+					early years.</q>
+			</p>
+			<p>"Of course I haven't mellowed," <q who="MILJO">she snaps.</q> "Back when I was
+				actively crusading I felt everyone simply had to believe what I said. I still do. I
+				don't see how any thinking person could feel differently about birth control."</p>
+		</div>
+		<div type="section">
+			<head type="sub">Finds Times Changed</head>
+			<p>
+				<q who="MILJO">Then, humor getting the upper hand, she recalls:</q>
+			</p>
+			<p>"When I started out, I had to be very careful what words I used. The whole subject
+				was taboo. Even my <person reg="Higgins, Michael">father</person>--and outspoken
+				Irishman who brought me up to do my own thinking--said to me one day: <q who="HIGMI"
+					>Margaret, can't you find some other subject in the world to talk about but the
+					bedroom?"</q> And he whispered when he said 'bedroom'."</p>
+			<p>
+				<q who="MILJO">But times have changed. The dignified little woman who was jailed at
+					least nine times and had her first clinic raided by police as a public nuisance
+					is in <place reg="New York, NY">New York</place> this week receiving an
+					international tribute from science and government leaders gathered for a <org
+						reg="World Population Emergency Campaign">conference</org> on the "world
+					population crisis."</q>
+			</p>
+			<p>"I take the scientists' word,"<q who="MILJO"> she says, </q>"when they say there's
+				not going to be enough to take care of all the people. And birth control, if
+				practiced on a wide scale, is the only solution. I'm not advocating any one method,
+				but all methods."</p>
+			<p>
+				<q who="MILJO">In the past few years Mrs. Sanger has been living quietly in <place
+						reg="Tucson, AZ">Tucson, Ariz.</place>, but the election of <person
+						reg="Kennedy, John F.">John F. Kennedy</person> brought her into the news
+					again. She was moving to <place>England</place>, she declared, unless the
+					President showed whether he was not dominated by the <org>Roman Catholic
+						Church</org>.</q>
+			</p>
+			<p>
+				<q who="MILJO">Now she says: </q>"I've been told that he and his <person
+					reg="Kennedy, Jacqueline Bouvier">wife</person> are sympathetic, that they
+				understood the cause. He may not do anything about it; I don't expect him to promise
+				anything. But if the <org reg="United States Government">government</org> would come
+				out and say it was standing behind the movement, it would be a great help to the
+				little overpopulated countries of <place>Asia</place> that still admire us. It would
+				have helped if <person reg="Eisenhower, Dwight D.">President Eisenhower</person> had
+				done it."</p>
+		</div>
+		<div type="section">
+			<head type="sub">Started As Nurse</head>
+			<p><q who="MILJO">Mrs. Sanger, one of 11 children in a poor family, later worked as a
+					public health nurse in New York slums. It was then, unable to bear the sight of
+					overworked mothers and their sad little children who kept coming one after
+					another, she set out to </q> "free the motherhood of the world."</p>
+			<p>"The most hopeful thing our work has done," <q who="MILJO">she says, </q>"is that
+				years ago women came in to our clinics and said I'm in trouble."</p>
+			<p>Now they come in and say I'm going to have a baby. Isn't it wonderful?"</p>
+			<p><q who="MILJO">She has two sons and eight grandchildren, and reflects: </q>"I've had
+				a rich life and found people very understanding."</p>
+			<p><q who="MILJO">Although she's made many speeches--</q>"for years there it was three a
+					day"<q who="MILJO">--she has never got over her fear of speaking in
+				public.</q></p>
+			<p>"I like to talk to men, though, because they're thinkers. And they're up against the
+				problem of supporting their children. But when they come up to me and say they just
+				can't help having so many children because they just love children, I look them up
+				and down and say: "What do you earn?"</p>
+		</div>
+	</docBody>
+</doc>

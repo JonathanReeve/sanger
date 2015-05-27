@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+	<mepHeader>
+		<prepDate>2015-05-20 CH encoded and transcribed</prepDate>
+		<prepDate>2015-05-27 CH proof and enter tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1923-03-05">
+			<supplied resp="MSPP">5 Mar 1923</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Bridgeport Council of Jewish Women Address</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422047</idno>
+		<sourceDesc>
+			<bibl><title type="article">Women Jam Hall to Hear Address on Birth Control</title>,
+					<title type="journal">Bridgeport Telegram</title>, Mar. 6, 1923, p. 1</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BT">Bridgeport Telegram</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger's speech was not found; newspaper coverage used instead. Page 2 of this article is
+			missing.</p>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+	</headNote>
+	<docBody>
+		<head>WOMEN JAM HALL TO HEAR ADDRESS ON BIRTH CONTROL</head>
+		<p><q who="BT">The <place>Connecticut</place> law that holds it to be a crime to be a crime
+				for any person to use drugs, any article or any other means to prevent conception
+				was attacked as</q> "perfectly absurd"<q who="BT"> by Mrs. Sanger, of <place
+					reg="New York, NY">New York</place> internationally famous birth control
+				advocate, in lecturing last night under the auspices of the <org>Council of Jewish
+					Women</org> before several hundred women who crowded all available space in the
+				assembly room of the <org reg="Business and Professional Women's Clubs">Business and
+					Professional Women's club</org> in the Liberty Building. She advised that every
+				woman, individually and each organization as a unit, work to have the law
+				repealed.</q></p>
+		<p><q who="BT">Poverty, feeble-mindedness, disease, child labor, human suffering in many
+				forms and other social problems would be solved, Mrs. Sanger argued if women had
+			</q>the "right kind of information" <q who="BT">that they could control the number of
+				children in their families.</q>
+		</p>
+		<p>The laws should be amended, Mrs. Sanger asserted, to allow the establishment of birth
+			control clinics, that physicians and nurses could advise the proper method of birth
+			control, no one method being applicable to different individuals. There should be such a
+			clinic in Bridgeport, she said.</p>
+		<div>
+			<head type="sub">Speaks without Permit.</head>
+			<p>
+				<q who="BT">Introduced by <person reg="Capitman, Frances">Mrs. Samuel
+						Capitman</person>, the president of the council, who presided over the
+					meeting, as a "martyr," Mrs. Sanger spoke in Bridgeport for the first time,
+					without a permit.</q>
+			</p>
+			<p><q who="BT">Superintendent of Police <person reg="Flanagan, Patrick J.">Patrick J.
+						Flanagan </person>said last night he did not know anything about her
+					appearance here, no member of the Council of Jewish Women or other organization
+					consulting with him prior to her speaking last night</q>.</p>
+			<p>
+				<q who="BT">Mrs. Sanger was arrested during the scenes of turbulence before and in
+					the <org>Town Hall</org>, New York, and not permitted to
+					deliver the same lecture. The <person reg="Hackett, William Stormont">Mayor of
+						Albany</person> refused to allow her to address a body of women in that
+					city, even after he had read her speech in manuscript. Her appearance in <place
+						reg="New Haven, CT">New Haven</place>, scheduled recently, was blocked. She
+					has visited <place>Japan</place>, <place>China</place>, and <place reg="Europe"
+						>European countries</place>, lecturing on birth control.</q>
+			</p>
+			<p><q who="BT">In striving to make this a</q> "cleaner, healthier, saner" <q who="BT"
+					>world, Mrs. Sanger said, a number of suggestions were put out by friends of
+					birth control to awaken a </q>"consciousness for a better race." <q who="BT"
+					>These included</q>: </p>
+			<p>
+				<q who="BT">A couple should not have children when either parent has a <supplied
+						resp="MSPP">transmissible</supplied> disease, nor should woman permit
+					pregnancy when suffering from a temporary disease that would tend to injure the
+					child or wreck her own health, and the parents of feeble minded and
+					disease-wrecked children should not permit the birth of any more children even
+					though they themselves are healthy, as </q>
+			</p>
+			<gap extent="rest of article" reason="missing"/>
+		</div>
+	</docBody>
+</doc>
