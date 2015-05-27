@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+	<mepHeader>
+		<prepDate>2015-05-26 LH encoded and transcribed </prepDate>
+		<prepDate>2015-05-26 CH proof tags</prepDate>
+		<prepDate>2015-05-27 LH correct tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1950-11-05">5 Nov 1950</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Message to the Planned Parenthood Federation of
+					America</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422061</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control More Advanced</title>, <title type="journal">
+					Denton Record-Chronicle</title>, Nov. 5, 1950, p.8 </bibl>
+		</sourceDesc>
+		<respStmt>
+			<name id="DRC"> Denton Record-Chronicle</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control methods" level2="sterilization"/>
+		<index level1="birth control" level2="and youth"/>
+		<index level1="birth control" level2="arrests, trials and imprisonment"/>
+
+	</headNote>
+	<docBody>
+		<head>Birth Control Move Advanced</head>
+		<dateline><place reg="New York, NY">NEW YORK</place>
+			<date value="1950-11-04"/>Nov. 4</dateline>
+		<p>
+			<q who="DRC">Mrs. Margaret Sanger, founder of the Birth Control movement, has proposed
+				that the <org reg="United States Government"> Federal government</org> provide for
+				sterilization of the feeble-minded, and victims of transmissible, congenital
+				disease. </q>
+		</p>
+		<p>
+			<q who="DRC"> Her message was read to the annual luncheon of the <org
+					reg="Planned Parenthood
+			Federation of America"> planned Parenthood Federation
+					of America</org>, of which she is honorary chairman.</q>
+		</p>
+		<p>"While our present Federal Government Santa Clauses have their hands in the taxpayers'
+			pockets," <q who="DRC"> she said,</q> "why not in their generous giving mood be
+			constructive and provide for sterilizing as well as giving a pension, dole--call it what
+			you may-- to the feeble-minded and the victims of transmissible, congenital
+			diseases?"</p>
+		<p>"Such a program would be a sound future investment as well as a kindness to the couples
+			themselves by preventing the birth of dozens of their progeny to become burdens, even
+			criminals of another generation. It would save innocent children from the cruelty of
+			being born to such parents."</p>
+	</docBody>
+</doc>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+	<mepHeader>
+		<prepDate>2015-05-21 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-26 CH proof tags</prepDate>
+		<prepDate>2015-05-27 LH correct tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1930-12-28">
+			<supplied resp="MSPP">28 Dec 1930</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control Clinics and the Depression</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422053</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control Clinic Taxed by Depression</title>, <title
+					type="journal"> The Brooklyn Daily Eagle</title>, 28 Dec 1930, p. 6 </bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE"> The Brooklyn Daily Eagle</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Comstock, Anthony"/>
+		<index level1="overpopulation"/>
+		<index level1="birth rate"/>
+	</headNote>
+	<docBody>
+		<head>Birth Control Clinic Taxed by Depression</head>
+		<p>
+			<q who="BDE"> Birth Control derives new significance as a result of the change in
+				economic conditions, in the opinion of Margaret Sanger, director of the <org
+					reg="Birth Control Clinical Research Bureau"> Clinical Research Bureau</org>.
+				She declares that the number of patients at the clinic,whose husbands are among the
+				jobless, has increased 65 percent during the last few months.</q>
+		</p>
+		<p> "We find particularly an increased number of women patients among the very poor
+			classes," <q who="BDE"> Mrs. Sanger says,</q>"while the number of our regular patients
+			steadily increases. We are handling from 1,500 to 1,800 cases a month at present and are
+			running steadily three weeks behind in taking care of appointments." </p>
+		<p> "I feel that this entire unsettled economic condition is definitely tied up with over
+			population," <q who="BDE"> Mrs. Sanger asserts, </q> "and I am particularly pleased to
+			see our work increasing at this time. Within the last 20 years we have displaced
+			thousands of men with machines. The result is that we have an overproduction of
+			population."</p>
+		<div>
+			<head> Need Lower Birth Rate</head>
+			<p>"We could very easily do with a tremendous reduction of the birth rate in this
+				country, as well as a further restriction of immigration during the next 10 years.
+				In that time, we could absorb the present population, which is glutting the labor
+				market today."</p>
+			<p>"I feel that both national and international welfare are bound up in the population
+				problem. A nation with surplus man-power is one suffering with economic depression
+				and restlessness. One cannot forget the assertion of the veterans that they would
+				rather be in the trenches than in the breadlines." </p>
+			<p>
+				<q who="BDE"> Mrs. Sanger thinks religious opposition to her work is decreasing, and
+					that women of all faiths are about equality represented among the patients at
+					the clinic.</q>
+			</p>
+			<p> "There has been a change of attitude, too, on the part of the average woman toward
+				our work," <q who="BDE"> she says.</q> "Women of all classes now come to the bureau
+				for advice."</p>
+			<p>
+				<q who="BDE"> As head of the <org> National Committee on Federal Legislation for
+						Birth Control</org>, Mrs. Sanger predicts that the efforts to get a repeal
+					of the <name type="law" reg="United States Criminal Code, Section 211"> Comstock
+						laws</name>, which prohibit the sending of contraceptive information through
+					the mails, will be renewed in the next session of <org
+						reg="United States Congress"> Congress</org>.</q>
+			</p>
+		</div>
+		<div>
+			<head> Fights for Principles </head>
+			<p> "I am fighting for the repeal of those laws partly because of the principles
+				involved and partially because of their potentialities," <q who="BDE"> she said.</q>
+				"As things stand now, doctors can get birth control to be bootlegged, and that is
+				not self-respecting. I shall protest against the Federal laws in Congress, on the
+				ground that they interfere with the rights of individuals." </p>
+			<p> " Every physician at some time needs to have birth control information, to pass it
+				on to his patients, but unless he gets that information in his medical school-- and
+				that is very rare- he has no means under the present laws of procuring it other than
+				by bootlegging methods, The booting methods may be followed, or we may repeal the
+				law, come out in the open and go along intelligently with science. I prefer the
+				latter method, and I believe economic conditions such as we are facing now emphasize
+				the necessity for these doctrines." </p>
+		</div>
+		<div>
+			<head> Old Feud Smoulders</head>
+			<p>
+				<q who="BDE"> The controversy between the <org>National Committee on Federal
+						Legislation for Birth Control </org>, headed by Mrs. Sanger, and the <org
+						reg="American Birth
+							Control League"> American birth Control
+						League</org>, headed by <name reg="Jones, Eleanor Dwight">Mrs. F. Robertson
+						Jones</name>, which broke out last year over questions of policy, is still
+					smouldering, Mrs. Sanger said.</q>
+			</p>
+			<p><q who="BDE"> The league, through its president, has repudiated the work of the
+					national committee, asserting that</q> "contrary to the prevalent understanding,
+				the Federal law does not actually interfere with our program, as it leaves
+				physicians free to give contraceptive advice orally both in their private practice
+				and in their clinics."</p>
+			<p>
+				<q who="BDE"> Commenting on the league's position, Mrs. Sanger said:</q>
+			</p>
+			<p> "They forget that unless physicians can get reliable information themselves, they
+				cannot give it to their patients."</p>
+			<p> "The Federal laws most decidedly interfere with the getting and giving of
+				information by physicians and, as long as they exist, our work is hampered."</p>
+			<p> "I am not discouraged by this controversy between myself and the league, however.
+				Our work has been like a growing cell. It gt to a certain point as a unit, and then
+				it divided. We are still the same body, however."</p>
+		</div>
+
+	</docBody>
+</doc>

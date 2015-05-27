@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+	<mepHeader>
+		<prepDate>2015-05-26 MC encoded and transcribed</prepDate>
+		<prepDate>2015-05-26 CH proof tags</prepDate>
+		<prepDate>2015-05-27 CH entered corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1952-09-10">
+			<supplied resp="MSPP">10 Sept 1952</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Japanese Trip</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422063</idno>
+		<sourceDesc>
+			<bibl>
+				<title type="article">Margaret Sanger Slee Will Be Able To Enter Japan This
+					Time</title>, <title type="journal">Tucson Daily Citizen</title>, Sept. 10,
+				1952, p. 18</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="TDC">Tucson Daily Citizen</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>No other version found.</p>
+		<index level1="birth control" level2="international"/>
+		<index level1="birth control movement" level2="international"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+	</headNote>
+	<docBody>
+		<head>Margaret Sanger Slee Will Be Able To Enter Japan This Time</head>
+		<p><q who="TDC">Mrs. Margaret Sanger Slee, whose theories of planned parenthood have made
+				her known around the world, will be off for <place>Japan</place> early next month,
+				assured, this time, of being able to enter the country</q>.</p>
+		<p>
+			<q who="TDC">Two years ago the <place reg="Tucson, AZ">Tucson</place> woman, more
+				familiar to millions as Margaret Sanger, had planned to lecture and speak in the
+				oriental land, but her visa was refused by occupation authorities.</q>
+		</p>
+		<p>"Japan is no longer an occupied country,"<q who="TCD"> Mrs. Slee said today,</q> "and
+			there is certainly no indigenous religious group in the land that is hostile to the
+			things I work for.</p>
+		<p>"When certain groups in <place reg="Washington, DC">Washington </place>learned of my
+			plans for making that last trip, they advised the Catholic mission in<place
+				reg="Tokyo, Japan"> Tokyo</place>, and this group then brought pressure to bear on
+				<person reg="MacArthur, Douglas">Gen. <q who="TCD">(Douglas)</q> MacArthur</person>
+			to have me barred. A situation," <q who="TCD">she added</q>, "which cannot exist
+			now."</p>
+		<p>
+			<q who="TCD">Before leaving the city, Mrs. Slee is scheduled to speak at a luncheon
+				meeting of the <org reg="Unitarian Alliance">Alliance</org>, an organization of <org
+					reg="Tucson Unitarian Church">Tucson's Unitarian church</org>, at 1 p.m.
+				Thursday, Sept. 18, in <org>El Merendero</org> restaurant.</q>
+		</p>
+		<p>
+			<q who="TCD">Mrs. Slee said she plans a stopover in <place reg="Honolulu, HI"
+					>Honolulu</place>, where she will lecture before going on to Japan. She is to
+				arrive in the far east the first part of November and will stay for two weeks as a
+				guest of <org reg="Mainichi Press">Tokyo's Mainichi press</org>.</q>
+		</p>
+		<p>After that there will be more speeches and lectures in <place>Singapore</place>, on the
+			island of <place>Formosa</place>, in <place reg="Manila, Philippines">Manila</place> and
+				<place>Siam</place>, ending in <place>Bombay, India</place>, in time for the world
+			conference there on planned parenthood and population which will last from Nov. 24 to
+			Dec. 1.</p>
+		<p><q who="TCD">As director of the American division of this<org
+					reg="Planned Parenthood Federation of America"> world organization</org>, Mrs.
+				Slee indicated she planned to stay in <place>India</place> for some time after the
+				end of the conference to set up demonstration clinics and </q>"be of as much use as
+			possible in that part of the world."</p>
+		<p>
+			<q who="TCD">The specialist on babies by schedule quoted India's <person
+					reg="Nehru, Jawaharlal">Nehru</person> as saying birth control will have a
+				significant place in the country's next five-year social welfare plan. She said the
+				Indian government already has appropriated money to further birth control
+				programs.</q>
+		</p>
+		<p>"In 1935,"<q who="TCD"> Mrs. Slee explained,</q> "I was in that land as a guest of the
+				<org reg="All-India Woman's Conference">All-India Woman's conference</org> and
+			helped set up clinics throughout the country. Most of them have gone by the way during
+			the years of trouble and unrest, but the interest in them seems now to have culminated
+			in this coming conference."</p>
+	</docBody>
+</doc>

@@ -5,14 +5,15 @@
 		<prepDate>2014/07/15 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and enter</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-04-30 Correct proof and update index</prepDate>
+		<prepDate>2015-04-30 Correct proof and update index</prepDate><prepDate>2015-05-27 CH fix title, remove tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-04-20">28 Apr 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the <title type="article">Chicago Herald</title></supplied>
+				<supplied resp="MSPP">Interview with the Chicago
+						Herald</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422038</idno>
@@ -60,24 +61,28 @@
 		</div>
 		<div type="section">
 			<head type="sub">WHAT WOMEN WRITE.</head>
-			<p><q who="CH">Here are some interesting excerpts from a few of the scores of similar letters
-					from women received by Mrs. Sanger:</q></p>
+			<p>
+				<q who="CH">Here are some interesting excerpts from a few of the scores of similar
+					letters from women received by Mrs. Sanger:</q>
+			</p>
 			<p>"<q who="UNK">I am a young married woman, 23 years of age. I have a considerate and
 					good husband and the dearest little 30-month-old boy. I would like to know a
 					safe and legitimate manner of controlling the size of my family. I wish to have
 					more children, but for a year or two I will not be in condition physically or
 					financially to bear or educate more children. At the same time I wish to be as
 					nearly a perfect mother, wife and loving companion as it is possible for a woman
-			to be.</q>"</p>
+					to be.</q>"</p>
 		</div>
 		<div type="section">
 			<head type="sub">ASKS FOR INFORMATION.</head>
 			<p>"<q who="UNK">"Please tell me about this birth control, for I had a bad case with my
 					first baby and would not like to have them come very close. I want more than
 					one, but far apart. I am 20 years old.</q>"</p>
-			<p><q who="UNK">"I believe your work is worthy of the respect and help of all thoughtful
-					people, and that general knowledge of birth control will produce a better
-					generation."</q></p>
+			<p>
+				<q who="UNK">"I believe your work is worthy of the respect and help of all
+					thoughtful people, and that general knowledge of birth control will produce a
+					better generation."</q>
+			</p>
 
 		</div>
 	</docBody>
