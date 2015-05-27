@@ -7,7 +7,7 @@
         <docAuthor>
             <person reg="Sanger, Margaret">Margaret Sanger</person>
         </docAuthor>
-        <docDate value="1922-02-00"><supplied resp="MSPP">9 Feb. 1922</supplied></docDate>
+        <docDate value="1922-02-09"><supplied resp="MSPP">9 Feb. 1922</supplied></docDate>
         <docTitle>
             <titlePart><supplied resp="MSPP">Buffalo Speech Notes</supplied></titlePart>
         </docTitle>
@@ -25,7 +25,7 @@
         <p><person reg="Sanger, Margaret">Sanger</person> drew from these notes for a speech given
             in <place>Buffalo, NY</place> on Feb. 9, 1922 during a swing through upstate New York.
             For similar notes for speeches given in <xref from="422092.xml"><place>Cincinnati,
-                OH</place></xref> on Nov. 22, 1922 and <xref from="422090.xml">in
+                    OH</place></xref> on Nov. 22, 1922 and <xref from="422090.xml">in
                     <place>Vancouver, Canada</place></xref> on July 3, 1923.</p>
         <index level1="birth control" level2="socio-economic benefits"/>
         <index level1="birth control" level2="definitions of"/>
@@ -41,13 +41,13 @@
         <p>Early stages means evolution</p>
         <p>Savagery barbarism Early Civilization} infanticide abandonment foeticide</p>
         <p>Infanticide} <person>Plato</person> exposure elements condemned children
-            <unclear>depravity</unclear>. <person>Aristotle</person> State fix no. of children.
-            <person>Seneca</person> "we <unclear>drowned?</unclear> or detroy weakly deformed
-            <unclear>children."</unclear>
+                <unclear>depravity</unclear>. <person>Aristotle</person> State fix no. of children.
+                <person>Seneca</person> "we <unclear>drowned?</unclear> or detroy weakly deformed
+                <unclear>children."</unclear>
             <place reg="Rome, Italy">Rome</place> reared only healthy children.</p>
         <p>Infanticide greatest &amp; most common crime of <emph rend="underline"><place>Western
-            Europe</place></emph> middle ages during <add>end</add> 18 century. <place><emph
-                rend="underline">Germany</emph></place> 20,000 women.</p>
+                    Europe</place></emph> middle ages during <add>end</add> 18 century. <place><emph
+                    rend="underline">Germany</emph></place> 20,000 women.</p>
         <p>Threats of hell, torture, <unclear>punishments</unclear> did not avail to reduce crime of
             infanticide. It ceased only when skill in abortion became generally prevalent.</p>
         <p>So will <emph rend="underline">abortions</emph> cease when B.C. becomes generally
@@ -58,8 +58,9 @@
             <supplied>not only</supplied> injurious but dangerous to civilization. Charity today is
             a crime against future generation.</p>
         <p>Two groups effected By B.C.</p>
-        <p>Small family</p>      
-        <list><item>Paris 32 --116 health</item>
+        <p>Small family</p>
+        <list>
+            <item>Paris 32 --116 health</item>
             <item>Berlin 57 - 147 culture</item>
             <item>Vienna 71 - 200 leisure</item>
             <item>London 65- 197 Education colleges <unclear>opportunity</unclear></item>

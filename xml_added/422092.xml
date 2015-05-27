@@ -10,7 +10,7 @@
 		<docDate value="1922-11-22">22 Nov 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Birth Control--Not a New Idea</supplied>
+				<supplied resp="MSPP">A News Social Awakening</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422092</idno>
@@ -32,14 +32,26 @@
 				on Birth Control</org>, held at the <org>Hotel Gibson</org>. Other speakers included
 				<person reg="Rublee, Juliet Barrett">Juliet Barrett Rublee</person>, <person
 				reg="Wembridge, Eleanor Rowland">Eleanor Rowland Wembridge</person>, and <person
-				reg="Fisher, Jerome">Jerome Fisher</person>. Sanger's speech have been supplemented
-			with quotes from "<title type="article">Birth Control</title>," <title type="journal"
-				>Catholic Telegraph</title>, Nov. 23, 1922. To see very similar notes for speeches
-			given in <place reg="Buffalo, NY">Buffalo</place> on Feb. 9, 1922, <place
-				reg="Indianpolis, IN">Indianapolis</place> on Nov. 18, 1922, and <place>Vancouver,
-				Canada</place> on July 3, 1923 (Margaret Sanger Microfilm, Smith College Collections
-			S70:928, 946, and 1000).</p>
-		<index level1="xxxx"/>
+					reg="Fisher, Jerome">Jerome Fisher</person>. For similar notes for speeches, see
+			<xref from="422091.xml"><place reg="Buffalo, NY">Buffalo</place></xref> on Feb. 9,
+			1922 and <xref from="422090"><place reg="Vancouver, Canada">Vancouver</place></xref> on
+			July 3, 1923.</p>
+		<p>Sanger's speech was supplemented with quotes from "<title type="article">Birth Control</title>," <title type="journal"
+				>Catholic Telegraph</title>, Nov. 23, 1922.</p>
+		
+		<index level1="child spacing"/>
+		<index level1="birth control" level2="history of"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="abortion" level2="MS on"/>
+		<index level1="infanticide"/>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="Jukes family"/>
+		<index level1="Kallikak family"/>
+		<index level1="population growth" level2="impact of"/>
+		<index level1="population size" level2="MS on"/>
+		<index level1="physically diseased or disabled" level2="and birth control"/>
+		<index level1="mentally diseased or disabled" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<dateline>
@@ -47,102 +59,88 @@
 			<place reg="Cincinnati, OH">Cincinnati Ohio</place>
 		</dateline>
 		<div type="section">
-			<p>Thank citizen stand.</p>
-			<p>B.C. keynote of a new social awakening.</p>
-			<p>Not a new idea--Nature, <person>Plato</person>. <del>abortion</del> Infanticide
-				greatest crime of <place>Western Europe</place> middle ages 18 century</p>
-			<p>German 10,000 mothers</p>
-			<p>Infanticide ceased only when skill in abortion <supplied resp="MSPP"
-					>prevalent</supplied> Abortion will cease when B.C.</p>
-			<p>B.C. <emph rend="underline">key</emph> to greatest of human problems reconciling
-				Democracy <unclear>Hum Christianity to race Im</unclear></p>
-			<p>Intelligence slow growth; reproductive powers far in advance.</p>
-			<p>Sentiment, development sympathetic, nervous system rescue, diseased, feebleminded etc
-				erect institutions encourage reproduce their kind</p>
-			<p>Small family} <place reg="Paris, France">Paris</place> 16-132 <place
+			<p>Thank citizens stand.</p>
+			<p>B.C. keynote new social awakening.</p>
+			<p>Not a new idea--Nature, <person>Plato</person>. <del>abortion</del> <add>Infanticide
+				greatest crime of <place>Western Europe</place> middle ages 18 century.</add></p>
+			<p><add>German 20,000 mothers</add></p>
+			<p>{Infanticide ceased only when skill in abortion prevalent abortion will cease when B.C.</p>
+			<p>B.C. <emph rend="underline">key</emph> to greatest of human problems reconciling,}
+				Democracy <unclear>Humanity Christianity to race Improvement</unclear></p>
+			<p>Intelligence slow growth; reproductive powers far in advance. Sentiment, development sympathetic nervous system rescue, diseased, feebleminded etc
+				erect institutions <add>encourage reproduce their kind</add>.</p>
+			<p>Small Family 2 children} <del>health</del> <place reg="Paris, France">Paris</place> 16-132 <place
 					reg="Berlin, Germany">Berlin</place> 47-157 <place reg="Vienna, Austria"
-					>Vienna</place> 71-200} health, happiness leisure colleges best positions body
-				politics.</p>
-			<p>large family} ignorance poverty disease infant mortality maternal <supplied
-					resp="MSPP">mortality</supplied> overcrowding slums child labor</p>
-			<p>How do we meet these problems?</p>
-			<p>Legislative &amp; charities alleviate</p>
-			<p>Try to reduce infant mortality by welfare work after birth</p>
-			<p>300,000 infants die } too frequent pregnancies-- children too close together. drugs
-				&amp; poisonous nostrums Inform parents how to prevent coming 300000 <add>3,000000
-					child laborers sunrise to sunset</add></p>
-			<p>22,000 mothers <rs reg="tuberculosis">T.B.</rs> 7-4 die--heart disease kidney
-				disease</p>
-			<p>abortions 10000 east side <unclear>possessions</unclear> 89% <place
-					reg="Fall River, MA">Fall River</place>
-				<org reg="Unknown">Prevention cruelty children Society</org> 25,000 deaths, U.S.A.
+					>Vienna</place> 71-200} health happiness leisure colleges</p>
+			<p>Best positions body politic.</p>
+			<p>Large Family} ignorance poverty disease infant mortality maternal mortality overcrowding slums--child labor</p>
+			<p>How do we meet these problems? Legislative &amp; charities--alleviate.</p>
+			<p>Try to reduce infant mortality by welfare work after birth.</p>
+			<p>300,000 infants die} </p>
+			<p>22,000 mothers <rs reg="tuberculosis">T.B.</rs> 7--4 die--heart disease kidney
+				disease too frequent pregnancies--children too close together drugs
+				&amp; poisonous nostrums Inform parents how to prevent coming 300000 3,000000 child laborers (sunrise to sunset) 89% <place
+					reg="Fall River, MA">Fall River</place>.</p>
+			<p><org reg="Society for the Prevention of Cruelty to Children">Prevention cruelty children Society</org> 25,000 deaths, U.S.A.
 				largest number.</p>
-			<p/>
-			<p>feeble minded 400,000 -- <person reg="Goddard, Henry Herbert">Goddard</person> 34,000
-				85% prostitutes</p>
-			<p>
-				<emph rend="underline">Insane overcrowded</emph>
-			</p>
+				<p>Abortions 10000 east side <unclear>possessions</unclear> feeble minded 400,000 -- <person reg="Goddard, Henry Herbert">Goddard</person> 34,000
+				85% prostitutes.</p>
+		<p><emph rend="underline">Insane overcrowded.</emph></p>
 			<p>What are we doing? quacks curing a cancer.</p>
 			<p><person reg="Jukes Family">Jukes</person> &amp; <person reg="Kallikak Family"
-					>Kallicaks</person>--in every State</p>
-			<p>Do Mothers want larger families?</p>
-			<p>Read letters from <place>Ohio</place></p>
-			<p>When should all <del>mothers</del>
-				<add>women not</add> have children?</p>
+					>Kallikaks</person>--in every State.</p>
+			<p>Do Mothers want large families?</p>
+			<p>Read letters from <place>Ohio</place>. <add>When</add> should all <del>mothers</del>
+				<add>women <emph rend="underline">not</emph></add> have children?</p>
 			<list>
-				<item>1 transmissible disease</item>
-				<item>2 diseases of mother-T.B.</item>
-				<item>3 when children not healthy</item>
-				<item>4 at least 2 years apart</item>
-				<item>not before 22 or 23 years</item>
-				<item>6 at least 1 year after marriage</item>
-				<item>Economic</item>
+				<item>1 transmissible disease</item><lb/>
+				<item>2 diseases of mother-T.B.</item><lb/>
+				<item>3 when children not healthy</item><lb/>
+				<item>4 at least 2 years apart</item><lb/>
+				<item>5 not before 22 or 23 years</item><lb/>
+				<item>6 at least 1 year after marriage</item><lb/>
+				<item>7 Economic.</item>
 			</list>
 			<p>Mothers who would rather die--</p>
-			<p><emph rend="underline">Objections</emph> race suicide polygamy, promiscuity,
-				illegitimacy, 19th Century birth rate decreased against laws of Nature--to bring
-					life--<emph rend="underline">self preservation</emph> Injurious to health <emph
+			<p><emph rend="underline">Objections</emph> race suicide Polygamy, promiscuity,
+				illegitimacy. 19th Century birth rate decreased against laws of Nature--taking
+					life--<emph rend="underline">self preservation</emph>.</p>
+			<p>Injurious to health (<emph
 					rend="underline">ignorance destructive</emph> to health--<emph rend="underline"
-					>fear</emph> Lead to Immorality. early marriage--cold wives-- Self Control (case
-				of woman) l act year <gap extent="two letters" reason="illegible"/> children
-				Breaking the law <emph rend="underline">continence</emph>!!</p>
-			<p><place reg="Netherlands">Holland</place>, <place>England</place>,
-					<place>France</place>, <place reg="United States">U.S.A.</place></p>
-			<p>after 8 months trip around the world. people ready accept practice</p>
-			<p>officials of governments <emph rend="underline">blind</emph> to its importance</p>
-			<p>Church timid <person reg="Inge, William Ralph">Dean Inge</person>, <person
-					reg="Dawson, Bertrand E.">Lord Dawson</person>, People everywhere
+					>fear</emph>).</p>
+			<p>Lead to Immorality. early marriage--cold wives--</p>
+			<p>Self Control <add>1 act a year <gap extent="two letters" reason="illegible"/> children</add> (case
+				of woman)--Social worker.) Breaking the law <emph rend="underline">Continence</emph>!!</p>
+			<p><place reg="Netherlands, the">Holland</place>, <place>England</place>,
+					<place>France</place> <place reg="United States">U.S.A.</place></p>
+			<p>After 8 months trip around the world people ready accept practice officials of governments <emph rend="underline">blind</emph> to its importance. Church timid <person reg="Inge, William Ralph">Dean Inge</person>, <person
+					reg="Dawson, Bertrand E.">Lord Dawson</person>, people everywhere
 				deliverence.</p>
-			<p>Not only Individual--world poblem. <person reg="Wells, H. G.">H. G. Wells</person>
+			<p>Not only Individual--world problem. <person reg="Wells, H. G.">H. G. Wells</person>
 				world swarming.</p>
-			<p>You cannot measure Greatness County size of population.</p>
-			<p>B.C. in 1 generation-- directed feeble diseased</p>
+			<p>You cannot measure <emph rend="underline">greatness Country</emph>  size of population. B.C. in 1 generation--directed feeble--diseased</p>
 			<p>Objects BC League arouse public dangers promiscuous breeding fighting women &amp;
 				children-- Establish clinics.</p>
-		</div>
-		<div>
-			<head> Birth Control </head>
-
-			<p>
-				<q who="CT">Mrs. Sanger rang the changes on the deplorable conditions brought about
+		</div>	
+		<div type="section">
+		<head type="sub">Birth Control</head>
+			<p><supplied resp="MSPP">From the <title type="journal">Catholic Telegraph</title></supplied></p> 
+		
+			<p>"<q who="CT">Mrs. Sanger rang the changes on the deplorable conditions brought about
 					by the reproduction of the insane, the feeble-minded, the tubercular, the very
-					poor, and the dependant. She told touching stories of young couples, struggling
+					poor, and the dependant. She told touching stories of young couples struggling
 					with adversity and babies during the first years of their married life. She
 					described the hardships of poor mothers with large families. She said that it
 					was cruel to deny the means of preventing conception to a woman, who does not
-					want children; and she stated that abortion is very commonly practiced.</q>
-			</p>
-			<p>
-				<q who="CT">As an alleged panacea for all this and much more, Mrs. Sanger prescribes
-					a system of birth control, which would provide physicians and nurses to intrust
+					want children; and she stated that abortion is very commonly practiced.</q>"</p>
+			<p>"<q who="CT">As an alleged panacea for all this and much more, Mrs. Sanger prescribes
+					a system of birth control, which would provide physicians and nurses to instruct
 					females in the ways and means of preventing conception. She claims these as some
-					of the advantages of her system:</q>
-			</p>
-			<p><q who="CT">Newly-weds could enjoy marital life a year or so without fear of
-					pregnancy. Women, who want children, can have children when they wish; and
+					of the advantages of her system:</q>"</p>
+			<p>"<q who="CT">Newly-weds could enjoy marital life a year or so without fear of
+					pregnancy. Women, who want children, can have them when they wish; and
 					women, who do not like babies, need not have any. Parents can put more into the
-					raising of a few children; and</q> "we want a race of thoroughbreds."</p>
+					raising of a few children; and 'we want a race of thoroughbreds.'</q>"</p>
 		</div>
 	</docBody>
 </doc>
