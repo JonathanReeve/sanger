@@ -25,8 +25,11 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Margaret Sanger gave a speech at the <org>Washington Audtiorium</org> in
-				<place>Washington, DC</place>, on May 12, 1935. No final version was found.</p>
+		<p>Margaret Sanger gave a speech at the <org>Washington Auditiorium</org> in
+				<place>Washington, DC</place>, on May 12, 1935. No final version was found. Sanger
+			told this audience that "a birth control clinic in the nation's capital will be
+			organized in the near future." (<title type="article">Birth Control Clinic</title>,
+				<title type="journal">Bend Bulletin</title>, May 13, 1931.)</p>
 		<index level1="conferences" level2="White House Conference on Child health and Protection"
 			level3="1930"/>
 		<index level1="eugenics" level2="MS on"/>
@@ -44,7 +47,7 @@
 			deeply.</p>
 		<p><person reg="Hugo, Victor">Hugo</person>’s no force in the world so great as that of an
 			idea.</p>
-		<p>Anglican bishops at <org reg="Lambeth Confernce of Anglican Bishops">Lambeth</org> last
+		<p>Anglican bishops at <org reg="Lambeth Conference of Anglican Bishops">Lambeth</org> last
 			July.</p>
 		<p>
 			<org reg="British Medical Association">British Medical Ass.</org>
@@ -80,7 +83,8 @@
 			<item>(a) Pressure of population on means of sustenance</item>
 			<item> (b) Reconciling humanitarian efforts with race [improvement]</item>
 		</list>
-		<p>[Carathmitics] the Science of Numbers. Eugenics the Science of quality of life.</p>
+		<p><unclear resp="MSPP">Carathmitics</unclear> the Science of Numbers. Eugenics the Science
+			of quality of life.</p>
 		<p>Birth control or contraception could or so directed &amp; used that it solves both
 			problems. <person reg="Ross, Edward Alsworth">Prof. Ross</person> tells us that over
 			200,000,000 new souls form into the world last year--50,000 each day.</p>
@@ -94,7 +98,7 @@
 			&amp; weak were thrust to the wall.</p>
 		<p> Today we protest the weak &amp; diseased &amp; allow them to increase endangering
 			civilization which is measured by the increasing hands of diseased &amp; damaged.</p>
-		<p>Differential birth rate--85 [---] population mental.</p>
+		<p>Differential birth rate--85 -- population mental.</p>
 		<p>equipment of juveniles under 14 years--(15 mil feeble</p>
 		<p> 15% intellectual--45 subnormal, 15 feeble minded, 25 mediocre</p>
 		<p> birth rate low--birth rate high</p>
@@ -109,10 +113,11 @@
 			<org reg="White House Conference on Child Health and Protection">White House Conference,
 				1930</org>
 		</p>
-		<p><unclear>[unclear number]</unclear> million handicapped children in <place
+		<p><gap extent="one number" reason="illegible"/> million handicapped children in <place
 				reg="United States">U.S.A.</place></p>
-		<p><unclear>[unclear number]</unclear> infant deaths. 90% poverty &amp; neglect</p>
-		<p><unclear>[unclear]</unclear> nurseries, milk stations, mental, post natal clinics. </p>
+		<p><gap extent="number" reason="illegible"/> infant deaths. 90% poverty &amp; neglect</p>
+		<p><gap extent="one word" reason="illegible"/> nurseries, milk stations, mental, post natal
+			clinics. </p>
 		<p>nurses &amp; social workers to deal with environment.</p>
 		<p><unclear>[unclear]</unclear> effort to instruct mothers often how to avoid the 11th.</p>
 		<p> 200,000 infants 90% poverty &amp; neglect</p>
@@ -135,18 +140,18 @@
 		<p> see indications that parents are unequal to the tasks of producing proper guidance for
 			their own uncontrolled fertility.</p>
 		<p><org reg="New York Society for the Prevention of Cruelty to Children">Prevention of
-				Cruelty to Children</org>--form in disease, want, form of
-				<unclear>[unclear]</unclear> damaged &amp; unfit vehicles to carry the precious
-			sparks of life.</p>
+				Cruelty to Children</org>--form in disease, want, form of <gap extent="one word"
+				reason="illegible"/> damaged &amp; unfit vehicles to carry the precious sparks of
+			life.</p>
 		<p>Anyone can have children - animal function</p>
 		<p> Cruelty, feebleminded, ignorant, animals protected</p>
 		<p> Passports for babies, Bureau for Parents</p>
-		<p>U.S. [Immigration] laws 1924.</p>
+		<p>U.S. Immigration laws 1924.</p>
 		<p>7 Reasons or conditions necessitate BC practice</p>
 		<p> 3 means continued, sterilization, chemical &amp; [mechanical]</p>
 		<p>Laws - Federal - Clinics Medical Profession</p>
-		<p><unclear>[unclear] </unclear>in <person reg="Keith, Arthur">Arthur Keith</person>,
-			anthropologist, unfolding in America. greatest experiment for race building the world
-			has ever seen.</p>
+		<p><gap extent="one word" reason="illegible"/> in <person reg="Keith, Arthur">Arthur
+				Keith</person>, anthropologist, unfolding in America. greatest experiment for race
+			building the world has ever seen.</p>
 	</docBody>
 </doc>

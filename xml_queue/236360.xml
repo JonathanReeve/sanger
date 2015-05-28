@@ -3,13 +3,15 @@
 <doc type="Autograph Draft Speech">
 	<mepHeader>
 		<prepDate>2014/05/02 YG</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-05-28 CH added details from newspaper coverage to title and headNote.</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1942-03-21">21 Mar 1942</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Tucson Negro Meeting Notes</supplied></titlePart>
+			<titlePart>
+				Plan Parenthood and National Defense
+			</titlePart>
 		</docTitle>
 		<idno>msp236360</idno>
 		<sourceDesc>
@@ -23,15 +25,18 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>No final version was found. No further details on the event were found.</p>
+		<p>No final version was found. Sanger gave this speech before the <org>Mount Calvary Missionary Baptist Church</org>; the title was taken from newspaper coverage in the Tucson Daily Citizen, Mar. 18, 1942.</p>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rates" level2="maternal"/>
 		<index level1="parenthood"/>
 	</headNote>
 	<docBody>
 		<head>Negro Meeting Notes</head>
-		<dateline><place reg="Tucson, AZ">Tucson</place><lb/><date value="1942-03-21">March
-				21/42</date></dateline>
+		<dateline>
+			<place reg="Tucson, AZ">Tucson</place>
+			<lb/>
+			<date value="1942-03-21">March 21/42</date>
+		</dateline>
 		<p>Early history of BC--nursing mothers--rich &amp; poor, birth rates 1/3 in rich homes</p>
 		<p>Three factors--fathers wage mothers health, Standards of living-- </p>
 		<p>Another quality of inheritance </p>

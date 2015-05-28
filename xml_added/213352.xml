@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2014/06/1947 YG</prepDate>
 		<prepDate>2015-04-08 CH check tags again</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-05-28 CH added new text to bottom</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1947-06-30">30 June 1947</docDate>
 		<docDate value="1947-07-01">01 July 1947</docDate>
 		<docTitle>
@@ -21,6 +24,8 @@
 			<bibl>
 				<title type="article">American Birth Control Pioneer Stirs British Anger</title>,
 					<title type="journal">Evening Independent</title>, July 2, 1947</bibl>
+			<bibl><title type="article">London Condemns No-Baby Plan of Margaret Sanger</title>,
+					<title type="journal">Neosho Daily-News</title>, July 2, 1947, p. 4. </bibl>
 
 		</sourceDesc>
 		<respStmt>
@@ -62,20 +67,25 @@
 					who="NYDN">she said.</q> "They should do all in their power to help keep women
 				from having children for that period-until the food and economic situations are
 				adjusted there.</p>
-			<p><q who="NYDN">She said her plan “definitely” includes England. </q></p>
+			<p>
+				<q who="NYDN">She said her plan “definitely” includes England. </q>
+			</p>
 			<p>"I think the adults who are living today could be moved into those countries where
 				they need labor,"<q who="NYDN">she continued.</q> "Use the manpower that’s there
 				today, and don’t bring any more children into the world to starve." </p>
 			<p><q who="NYDN">Somebody asked who would fight the wars, and Mrs. Slee replied,</q> "At
 				least there would be fewer people to be battered to death."</p>
-			<p><q who="NYDN">Mrs. Slee left on the American Overseas Flagship Eire.</q></p>
+			<p>
+				<q who="NYDN">Mrs. Slee left on the American Overseas Flagship Eire.</q>
+			</p>
 			<p>
 				<q who="NYDN">She said that while abroad she also will work on arrangements for an
 					international population conference to be held in <place reg="Oxford, England"
 						>Oxford</place>next year. This will deal with the problem of populations in
 					relation to the food supplies and natural resources of countries. She said all
 					overpopulated countries, including <place>India</place>, <place>China</place>,
-					and <place>Japan</place>, would be invited to send representatives.</q></p>
+					and <place>Japan</place>, would be invited to send representatives.</q>
+			</p>
 			<p>"In this country we have achieved a favorable balance of population and resources,<q
 					who="NYDN">she stated.</q> "This situation has contributed greatly to the
 				raising of our national standard of living."</p>
@@ -101,6 +111,20 @@
 					especially. She wanted <org>the United Nations</org>to recommend baby quotas for
 					all countries.</q></p>
 
+		</div>
+		<div type="section">
+			<head>10-Yr Moratorium On Babies Proposed</head>
+			<p><q who="NDN">Say Miss Sanger:</q> "If we went 10 years without children we would have
+				fewer with malnutrition and more with a semblance of adjustment."</p>
+			<p><q who="NDN">And she goes on</q> "you don't want to be swamped with babies while this
+				uncertainty regarding the future exists."</p>
+			<p><q who="NDN">Mrs. Sanger arrived in England to organize an international conference
+					on population and family problems. She says the Catholic Church is the greatest
+					single obstacle to her proposal because of its diametric opposition to birth
+					control.</q></p>
+			<p><q who="NDN">She says she's making public her ideas because she'd like to know what
+					mothers in England think of it. And, she adds,</q> "I am prepared for attacks on
+				it."</p>
 		</div>
 	</docBody>
 </doc>
