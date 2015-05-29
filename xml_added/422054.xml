@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-21 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-26 C proof
+			tags</prepDate>
+		<prepDate>2015-05-27 LH correct tags</prepDate>
+		<prepDate>2015-05-29 CH clean up tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1936-11-16">11 Nov 1936</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Statement on Toronto Baby Derby</supplied></titlePart>
+		</docTitle>
+		<idno>msp422054</idno>
+		<sourceDesc>	
+		<bibl><title type="article">Mrs. Sanger Calls Toronto Baby Derby "Utterly Revolting"</title>,
+			<title type="journal">The Gazette and Daily York</title>, Nov. 17, 1936, p. 7</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="GDY">Gazette and Daily York</name>
+		</respStmt>
+		
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="better babies"></index>
+		<index level1="birth rate"></index>
+	</headNote>
+	<docBody>
+		<head>MRS. SANGER CALLS TORONTO BABY DERBY "UTTERLY REVOLTING"</head>
+		<dateline> <place reg="Buffalo, NY">Buffalo, N.Y.</place>, <date value="1936-11-16">Nov. 16 </date>. (<org reg="Associated
+			Press">AP</org>)</dateline>
+		<p><q who="GDY"> Mrs. Margaret Sanger, birth control advocate, called the <place
+			reg="Toronto, Canada">Toronto</place> baby derby</q> "utterly revolting" <q who="GDY"> in an interview here today.</q></p>
+		<p><q who="GDY">The race for the $500,000 prize offered the mother who more most children in a ten year period, she said</q>, "reduced woman to an animal and is deplorable."</p>
+		<p> "There has been no consideration of the quality of the children," <q who="GDY"> she said.</q> "I think it is sordid."</p>
+		<p> <q who="GDY"> A reporter asked her opinion of the <person reg="Dionne Family"> Dionne</person> quintuplets.</q></p>
+		<p> "their care is an admirable piece of work," <q who="GDY"> Mrs. Sanger answered.</q></p>
+	</docBody>
+</doc>
