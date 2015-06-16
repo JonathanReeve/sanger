@@ -8,6 +8,7 @@
 		<prepDate>2011/03/10 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-06-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,16 +18,16 @@
 		</docTitle>
 		<idno>msp420036</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 7, Sept.-Oct. 1914, p.
-				53</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Sept.-Oct. 1914, p. 53</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:567</bibl>
+				C16:0567</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="working classes" level2="and revolution"/>
 		<index level1="law breaking and direct action"/>
-		<index level1="labor movement" level2="MS on"/>
-		<index level1="Woman Rebel" level2="legal case"/>
+		<index level1="Woman Rebel, The" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>NO DEFENSE FUND</head>

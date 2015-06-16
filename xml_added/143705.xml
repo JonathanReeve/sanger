@@ -8,17 +8,19 @@
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-11 CH clearn regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-06-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1914-11-00"><supplied resp="MSPP">Nov</supplied> 1914</docDate>
+		<docDate value="1914-11-00"><supplied resp="MSPP">Nov</supplied> or <supplied resp="MSPP"
+				>Dec</supplied> 1914</docDate>
 		<docTitle>
 			<titlePart>Frederick Nietzsche</titlePart>
 		</docTitle>
 		<idno>msp143705</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 130:356</bibl>
+			<bibl>Library of Congress Microfilm 130:0356</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,9 +30,14 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>No final version was found. Quotes at the end are mostly by <person reg="Blake, William"
-				>William Blake</person>.</p>
+		<p>This is a rough draft of a speech Sanger intended to give shortly after she heard a
+			lecture on Nietzsche in <place reg="Liverpool, England">Liverpool</place> in November
+			1914. No final version has been found. Most of the quotes at the end of the documment
+			are by poet and artist <person reg="Blake, William">William Blake</person></p>
+		<index level1="anarchism and anarchists" level2="MS on"/>
 		<index level1="Nietzsche, Frederick"/>
+		<index level1="Sanger, Margaret" level2="philosophy"/>
+		<index level1="working classes" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<head>Frederick Nietzsche.</head>
@@ -63,16 +70,17 @@
 			<add>a</add> personality, <add>a</add> character &amp; of a temperament-- But
 			nevertheless we have a right to extract from this or any philosophy that which we can
 			use for our own purpose &amp; so I claim <unclear>the</unclear> right of the worker to
-			deduce <unclear>in</unclear> Nietzsches philosophy as much as they can use for their
+			deduce <unclear>in</unclear> Nietzsche's philosophy as much as they can use for their
 			own.</p>
 		<p>It is impossible to apply his philosophy of Nietzsche or to study or know him before
 			first getting an insight into the tremendous personality which so strongly reveals
 			itself through every line of his work in every aphorism of his mind.</p>
 		<p>Sincerity &amp; heroism are the two characteristics of Nietzsches personality and a third
 			may be added a delicacy of sentiment &amp; refinement. These characteristics give us a
-			clue to his rupture with his once dearest friend Wagner. They give us a clue to his
-			hatred of the democratic &amp; plebian movement to his hatred of the Christian religion.
-				"<q who="NIEFR">All or nothing</q>" was his motto &amp; he lived up to it.</p>
+			clue to his rupture with his once dearest friend <person reg="Wagner, Richard"
+				>Wagner</person>. They give us a clue to his hatred of the democratic &amp; plebian
+			movement to his hatred of the Christian religion. "<q who="NIEFR">All or nothing</q>"
+			was his motto &amp; he lived up to it.</p>
 		<p>As one of his biographers (<person reg="Chatterton-Hill, Georges">Hill</person>) has said
 			of him</p>
 		<p>
@@ -116,7 +124,7 @@
 		<p>Already many writers might be named who owe if not half their ideas, at least half their
 			courage to their ideas to Nietzsche. No other man is more representative of the spirit
 			of his age (<person reg="Emerson, Ralph Waldo ">Emerson</person>, Blake, <person
-				reg=" Ibsen, Henrik">Ibsen</person>--) he was his age for he understood the mind of
+				reg="Ibsen, Henrik">Ibsen</person>--) he was his age for he understood the mind of
 			Europe.</p>
 		<p>Its significant that his main attack should be leveled against the foundations of
 			European morality. The greatest immoralist the modern world has seen--he needed the
@@ -163,9 +171,9 @@
 		<p>3 He tried to trace the origin of our present day morals, &amp; found that we must create
 			a new ethics which are beyond good &amp; evil.</p>
 		<p>4. He attacked the <add>morality of</add> Christianity perhaps more vigorously than any
-			previous writer (<person>Voltaire</person>). He
-			claims it teaches a slave morality &amp; teaches a Master morality is higher to aim at.
-			Yea to life in its fullness &amp; all that is high, beautiful &amp; daring.</p>
+			previous writer (<person>Voltaire</person>). He claims it teaches a slave morality &amp;
+			teaches a Master morality is higher to aim at. Yea to life in its fullness &amp; all
+			that is high, beautiful &amp; daring.</p>
 		<p><person reg="Schopenhauer, Arthur ">Schopenhauer</person> his <add>first</add> great
 			teacher. He found a book &amp; read it &amp; became charmed &amp; captivated, a devoted
 			follower personality &amp; his teachings.</p>

@@ -6,6 +6,7 @@
 		<prepDate>2014-08-26 CH proof and enter tags</prepDate>
 		<prepDate>2015-1-13 clean regs and correct proofreading EK</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-06-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -26,10 +27,11 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Sanger drafted this screenplay around 1914-15. No final version has been found.</p>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="Sanger, Margaret" level2="films by"/>
-		<index level1="love"/>
-		<index level1="spirituality"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="Sanger, Margaret" level2="films"/>
+		<index level1="love" level2="concept of"/>
+		<index level1="Sanger, Margaret" level2="spirituality and"/>
+		<index level1="Sanger, Margaret" level2="philosophy"/>
 	</headNote>
 	<docBody>
 		<head>Superwoman: An Idea of a Movie</head>
@@ -107,8 +109,8 @@
 				<del>went</del>
 			<add>was taken</add> to consult with higher powers--leaders of mens affairs--here she
 			sought advice &amp; council--&amp; strength and light. Here she counseled with great men
-			who had once lived upon the earth &amp; suffered for the
-				truth--<person reg="Socrates (Greek)">Socrates</person>, <person>Plato</person>, <name type="deity"
+			who had once lived upon the earth &amp; suffered for the truth--<person
+				reg="Socrates (Greek)">Socrates</person>, <person>Plato</person>, <name type="deity"
 				reg="Christ, Jesus">Christ</name>, <person reg="Lincoln, Abraham">Lincoln</person>,
 				<person reg="Bruno, Giordano">Bruno</person>, and others who were waiting in turn
 			for the world to be <add>made</add> a fit place that they might return to earth &amp;

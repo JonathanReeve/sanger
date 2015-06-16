@@ -5,9 +5,10 @@
 		<prepDate>2014/01/09 CH</prepDate>
 		<prepDate>2014/03/27 EK Clean regs and correct proof</prepDate>
 		<prepDate>2014-04-21 CH renumbered from 321900 to 143476--we had a version on
-			film</prepDate><prepDate>2015-03-17 CH made a small change, want to upload again</prepDate>
+			film</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<prepDate>2015-03-17 EK correct index</prepDate>
+		<prepDate>2015-03-17 CH made a small change, want to upload again</prepDate>
+		<prepDate></prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,7 +16,7 @@
 			<supplied resp="MSPP">1914</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart>What Every Mother Should Know, Conclusion</titlePart>
+			<titlePart type="article">What Every Mother Should Know, Conclusion</titlePart>
 		</docTitle>
 		<idno>msp143476</idno>
 		<sourceDesc>
@@ -32,17 +33,16 @@
 		<p>Margaret Sanger compiled her <title type="journal">New York Call</title> series, "<title
 				type="article">How Six Little Children Were Taught the Truth</title>," and published
 			them as <title type="book">What Every Mother Should Know</title> (<org>Rablelais
-				Press</org>, 1914) and added a new conclusion. The first edition may have been
+				Press</org>, 1914). She also added this new conclusion. The first edition may have been
 			published in 1911 by the <org>Eugenics Publishing Company</org>, but this 1914 edition
 			is the earliest located.</p>
 		<index level1="sex education"/>
 		<index level1="motherhood"/>
 		<index level1="parenthood"/>
-		<index level1="sex and sexuality"/>
 		<index level1="men and boys" level2="sex and sexuality"/>
 		<index level1="masturbation"/>
 		<index level1="Sanger, Margaret" level2="books" level3="What Every Mother Should Know"/>
-	</headNote>
+		</headNote>
 	<docBody>
 		<head>CHAPTER VIII</head>
 		<head>Conclusion.</head>

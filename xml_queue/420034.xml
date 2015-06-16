@@ -7,6 +7,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-06-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -16,16 +17,16 @@
 		</docTitle>
 		<idno>msp420034</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 7, Sept.-Oct. 1914,
+			<bibl><title type="journal">The Woman Rebel</title>, Sept.-Oct. 1914,
 				p. 56</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:570</bibl>
+				C16:0570</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
-		<index level1="radicals" level2="MS on"/>
-		<index level1="propaganda" level2="MS on"/>
-		<index level1="law breaking and direct action"/>
+		<index level1="radicals and radicalism"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="law breaking and direct action" level2="MS on"/>	
 	</headNote>
 	<docBody>
 		<head>WHAT MAKES PROPAGANDA</head>

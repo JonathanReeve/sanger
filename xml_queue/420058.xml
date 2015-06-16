@@ -7,6 +7,7 @@
 		<prepDate>2007-05-31 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-06-16 Ek update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -16,19 +17,18 @@
 		</docTitle>
 		<idno>msp420058</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 7, Sept.-Oct. 1914, p.
-				50</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Sept.-Oct. 1914, p. 50</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:564</bibl>
+				C16:0564</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp id="MSPP">MSPP</resp>
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<index level1="censorship"/>
-		<index level1="birth control laws and legislation" level3="Comstock Laws"/>
-		<index level1="Woman Rebel, The"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="censorship" level2="in United States"/>
 	</headNote>
 	<docBody>
 		<head>LEWD THINKERS</head>
@@ -51,7 +51,7 @@
 			<lb/>
 			<person reg="Rousseau, Jean-Jacques">ROUSSEAU</person>
 			<lb/>
-			<person reg="Montesquieu">MONTESQUIEU</person>
+			<person reg="Montesquieu, Charles de">MONTESQUIEU</person>
 			<lb/>
 			<person reg="Mill, John Stuart">JOHN STUART MILL</person>
 			<lb/>
