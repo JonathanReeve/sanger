@@ -8,7 +8,7 @@
 		<prepDate>2014-11-10 CH cleanup</prepDate>
 		<prepDate>2015-03-03 EK update index</prepDate>
 		<prepDate>2015-03-11 EK corrected indexes</prepDate>
-		<prepDate>2015-06-16 EK updated index</prepDate>
+		<prepDate>2015-06-16 EK updated Index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -33,6 +33,7 @@
 		<index level1="evolution"/>
 		<index level1="reproduction"/>
 		<index level1="Sanger, Margaret" level2="books" level3="What Every Mother Should Know"/>
+		<index level1="Sanger, Margaret" level2="fictional writing"/>
 		<index level1="sex education"/>
 	</headNote>
 	<docBody>
