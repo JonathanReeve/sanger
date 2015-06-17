@@ -28,19 +28,29 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger published this pamphlet in England around January 1915. It was preceded by <xref
-				from="301756.xml">Family Limition</xref>, Sept. 1914 and followed by <xref
-				from="101920.xml">Dutch Methods of Birth Control</xref>, ca. Mar.-Apr. 1915, and
-				<xref from="129014.xml">Magnetation Methods of Birth Control</xref>, ca. Aug.
+		<p>Sanger published this pamphlet in <place>England</place> around January 1915. It was preceded by <xref
+			from="301756.xml"><title type="book">Family Limition</title></xref>, Sept. 1914 and followed by <xref
+				from="101920.xml"><title type="book">Dutch Methods of Birth Control</title></xref>, ca. Mar.-Apr. 1915, and
+			<xref from="129014.xml"><title type="book">Magnetation Methods of Birth Control</title></xref>, ca. Aug.
 			1915.</p>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="frequency of"/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="birth control" level2="methods" level3="pessaries"/>
-		<index level1="birth control" level2="methods" level3="douches"/>
-		<index level1="birth control" level2="methods" level3="withdrawal"/>
-		<index level1="birth control" level2="methods" level3="efficacy of"/>
-		<index level1="birth control" level2="health benefits and risks of"/>
-		<index level1="abortion" level2="MS on"/>
-	</headNote>
+		<index level1="birth control methods" level2="pessaries"/>
+		<index level1="birth control methods" level2="douche"/>
+		<index level1="birth control methods" level2="withdrawal"/>
+		<index level1="birth control methods" level2="efficacy of"/>
+		<index level1="birth control methods" level2="safe period"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="Sanger, Margaret" level2="books" level3="//English Methods of Birth Control//"/>
+		<index level1="child spacing"/>
+		<index level1="reproduction"/>
+		<index level1="working classes" level2="and birth control"/>
+		<index level1="family size" level2="MS on"/>
+		<index level1="family size" level2="and poverty"/>
+</headNote>
 	<docBody>
 		<head>ENGLISH METHODS OF BIRTH CONTROL</head>
 		<byline>By MARGARET H. SANGER</byline>
@@ -421,6 +431,5 @@
 					type="pamphlet">Hygienic Methods of Family Limitation.</title>” adopted by the
 				British <org>Malthusian League</org>. </p>
 		</div>
-
 	</docBody>
 </doc>
