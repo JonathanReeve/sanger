@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
-	<mepHeader>
+<mepHeader>
 		<prepDate>2001-10-23 MH</prepDate>
 		<prepDate>2002-08-20 KH</prepDate>
 		<prepDate>2003-10-14 NS</prepDate>
@@ -9,8 +9,7 @@
 		<prepDate>2014-11-10 CH cleanup regs</prepDate>
 		<prepDate>2015-03-10 EK update index</prepDate>
 		<prepDate>2015-03-11 EK correct indexes</prepDate>
-		<prepDate>2015-03-12 CH trying to get this thing to load--needed to change file
-			somewhere.</prepDate>
+		<prepDate>2015-03-12 CH trying to get this thing to load--needed to change file somewhere.</prepDate>
 		<prepDate>2015-06-16 EK Update Index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
