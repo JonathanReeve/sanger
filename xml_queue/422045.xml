@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-05-15 JC transcribed and encoding</prepDate>
 		<prepDate>2015-05-27 CH proof and enter tags</prepDate>
+		<prepDate>2015-06-24 MC correct transcript</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -22,6 +23,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
+		<p>This article is part of a longer piece on "How Will Troubled Old World Take Step Century
+			Hence?"</p>
 		<index level1="birth control" level2="mainstreaming of"/>
 		<index level1="marriage" level2="and birth control"/>
 		<index level1="marriage" level2="MS on"/>
@@ -34,14 +37,14 @@
 			especially will be keen in demanding it. They will realize that it is a foundation of
 			freedom and intellectual development for them. Women cannot make real progress today so
 			long as they are haunted by the fear of undesired pregnancy.</p>
-		<p>The results, in much shorter time than for or five generations, will be happier homes,
+		<p>The results, in much shorter time than four or five generations, will be happier homes,
 			greater mutual respect between husband and wife, honeymoons lasting two or three years
 			before children arrive, with husband and wife thoroughly equilibrated to one another,
-			because there has been for mutual understanding and development before parenthood is
-			entered upon. There will be far more consideration for the mother and more understanding
-			of her needs, with the result of better health and development for the infant, as well
-			as greater comfort for the mother. Four or five generations will develop new men and
-			women with finer susceptibilities, nobler sentiments toward each other and a worthier
-			sense of responsibility toward the race.</p>
+			because there has been time for mutual understanding and development before parenthood
+			is entered upon. There will be far more consideration for the mother and more
+			understanding of her needs, with the result of better health and development for the
+			infant, as well as greater comfort for the mother. Four or five generations will develop
+			new men and women with finer susceptibilities, nobler sentiments toward each other and a
+			worthier sense of responsibility toward the race.</p>
 	</docBody>
 </doc>

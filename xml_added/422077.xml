@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+	<mepHeader>
+		<prepDate>2015-05-27 MC encoded and transcribed</prepDate>
+		<prepDate>2015-06-10 CH proof tags</prepDate><prepDate>2015-06-24 MC entered corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-02-07">7 Feb 1921</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied>Birth Control</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422077</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger Lectures Here</title>, <title type="journal"
+					>Reading Times</title>, Feb. 8, 1921, p. 1</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="RT">Reading Times</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger's speech was not found; newspaper coverage was used instead.</p>
+		<index level1="United States" level2="birth control in"/>
+		<index level1="woman and girls" level2="and birth control"/>
+	</headNote>
+	<docBody>
+		<head> Mrs. Sanger Lectures Here</head>
+		<q who="RT">
+			<p>Mrs. Margaret Sanger lectured at <org>Odd Fellows Hall</org> last evening. It was for
+				women only. The subject announced at the box office was "Birth Control." It was an
+				account of the lecturer's written and spoken efforts upon this much discussed
+				question that she gained a great deal of both notoriety and publicity. </p>
+			<p>Last December Mrs. Sanger lectured <place reg="Reading, PA">here</place> before a
+				large mixed audience and her remarks at the time met with such approval and interest
+				that her return last night was requested by the new women's organization -- the
+					<org>Berks County Association of Women Workers</org>. </p>
+			<p>The strong point in her birth control advocacy is based upon the physical condition
+				of the mother. Mrs. Sanger is opposed to the childless marriage, being the mother of
+				four children herself. Before marriage she was a trained nurse.</p>
+		</q>
+
+	</docBody>
+</doc>

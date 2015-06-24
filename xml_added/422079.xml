@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+	<mepHeader>
+		<prepDate>2015-05-28 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-29 CH proof
+			tags</prepDate><prepDate>2015-06-09 LH edit</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-03-29">29 Mar 1921</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Is Modern Marriage Conducive to Happiness?</supplied></titlePart>
+		</docTitle>
+		<idno>msp422078</idno>
+		<sourceDesc>
+			<bibl><title type="article">Finds Men Shy in Love Affairs</title>, <title type="journal"
+					>Brooklyn Daily Eagle</title>, Mar 30, 1921, p. 23</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE">The Brooklyn Daily Eagle</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This speech was not found; newspaper coverage was used instead. For another speech of the same
+			title, see <xref from="422079.xml">Is Modern Marriage Conducive to Happiness</xref>, Jan. 19,
+				1921</p>
+		<index level1="marriage"/>
+		<index level1="marriage" level2="age at"/>
+		<index level1="marriage" level2="and procreation"/>
+		<index level1="marriage" level2="and birth control"/>
+		<index level1="marriage" level2="MS on"/>
+		<index level1="marriage" level2="reforms"/>
+		
+	</headNote>
+	<docBody>
+		<head>FINDS MEN SHY IN LOVE AFFAIRS</head>
+		<p>"Men of today are more shy than women in their love affairs," <q who="BDE"> said Mrs. Margaret
+			Sanger last night at the <place>Broadway Casino</place>, 790 Broadway. This shyness of men was
+			not evident in the forum that followed her lecture on the subject, "Is Modern Marriage
+			Conducive to Happiness?" All the questions were asked by young men.</q></p>
+		<p> "The women of <place reg="United States">America</place>today differ very much organically from their mothers, grandmothers and
+			great-grandmothers," <q who="BDE"> Mrs. Sanger continued.</q> "They are more temperamental and
+			more fundamental in their primitive desires. They can't bear as much pain as their mothers. All
+			the bubbling, joyous nature of a girl of 18 is but a part of her development."</p>
+		<p> "A love of pretty clothes and of color is a natural expression. Oftentimes a girl who is
+			deprived of the frivolity of this age by early marriage and motherhood at the age of 30 or 35,
+			shocks her neighbors by doing all kinds of things ordinarily done by a girl of 18. This is just
+			nature having its innings. Women are mothers only to their children. If we lived in a real
+			civilized social state we would make parenthood a great privilege. The last fight of all the
+			freedom of women will be that of freeing her from the slavery of married life that as it is at
+			present." </p>
+		<p><q who="BDE"> In birth control lies much of the solution for the unhappiness of marriages,
+			according to Mrs. Sanger. Lack of art in love making, crudeness on the part of men, and too early
+		marriages were all given as reasons by her for the failure of many marriages.</q></p>
+	</docBody>
+</doc>

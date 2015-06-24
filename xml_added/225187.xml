@@ -5,7 +5,7 @@
 		<prepDate>2003/07/22 SR</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-04-15 CH regularized title</prepDate>
+		<prepDate>2015-04-15 CH regularized title</prepDate><prepDate>2015-06-24 CH enter proof corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -37,15 +37,18 @@
 		<p>This article is the first of a four-part series of the same title. For following articles
 			see <xref from="219520">Aug. 1923</xref>, <xref from="239148">Sep. 1923</xref>, and
 				<xref from="2111447">Oct. 1923</xref>.</p>
-		<index level1="xxxx"/>
+		<index level1="Drysdale, George"/>
+		<index level1="England" level2="Malthusian League"/>
+		<index level1="England" level2="birth control in"/>
+		<index level1="birth control movement" level2="history of"/>
 	</headNote>
 	<docBody>
 		<head>The Vision of George Drysdale</head>
-		<byline>By Margaret Sanger</byline>
-		<p><person reg="Drysdale, George">George Drysdale</person> is perhaps the greatest
-			pioneer of our modern conception of Birth Control, because he was the first to approach
-			this great problem from the point of view of individual and social psychology. He saw,
-			more clearly than any of his predecessors, the great necessity of a new science and
+		<byline><hi rend="italics">By</hi> MARGARET SANGER</byline>
+		<p><person reg="Drysdale, George">George Drysdale</person> is perhaps the greatest pioneer
+			of our modern conception of Birth Control, because he was the first to approach this
+			great problem from the point of view of individual and social psychology. He saw, more
+			clearly than any of his predecessors, the great necessity of a new science and
 			psychology of sex. He revitalized the theory of <person reg="Malthus, Thomas Robert"
 				>Malthus</person> by lifting it out of the sphere of political economy, and
 			vindicating Birth Control from the point of view of human and individual need. He
@@ -153,11 +156,11 @@
 			social science. He aimed instead to be suggestive and stimulating. He acknowledged his
 			indebtedness to Mill's "<title type="book">Logic</title>" and to <person
 				reg="Comte, Auguste">Comte</person>'s "<title type="book">Positive
-			Philosophy</title>." He dissented from Comte on most of the vital points of moral and
-			social doctrine, but he expressed the profoundest admiration for the manner in which the
-			French Positivist carried out the leading ideas of his great work. He agreed that the
-			first need was to emancipate the human mind from supernaturalism, to prepare the way for
-			a great intellectual regeneration, when human life might be governed by sincere and
+				Philosophy</title>." He dissented from Comte on most of the vital points of moral
+			and social doctrine, but he expressed the profoundest admiration for the manner in which
+			the French Positivist carried out the leading ideas of his great work. He agreed that
+			the first need was to emancipate the human mind from supernaturalism, to prepare the way
+			for a great intellectual regeneration, when human life might be governed by sincere and
 			openly expressed convictions.</p>
 		<p>In the years following its first appearance, this anonymously published book gained a
 			wide European reputation; but due perhaps to its anonymous publication, this reputation
