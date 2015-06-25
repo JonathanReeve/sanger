@@ -26,10 +26,10 @@
 			<name id="JC">Japan Chronicle</name>
 		</respStmt>
 	</mepHeader>
-	<headNote><p>An editorial note preceding the article indicated that this was the first
-			installment of Sanger's accounts of her trip to Japan; no other installments were found.
-			The note also explained that Sanger was not allowed to speak directly on birth
-			control.</p>
+	<headNote>
+		<p>An editorial note preceding the article indicated that this was the first installment of
+			Sanger's accounts of her trip to Japan; no other installments were found. The note also
+			explained that Sanger was not allowed to speak directly on birth control.</p>
 		<index level1="Japan" level2="birth control in"/>
 		<index level1="Japan" level2="MS on"/>
 		<index level1="Japan" level2="MS in"/>
@@ -45,7 +45,7 @@
 	<docBody>
 		<head>Margaret Sanger in Japan</head>
 		<p>As soon as the <name type="ship">Taiyo Maru</name> came in sight of <place
-				reg="Yokahama, Japan">Yokohama</place> and before I had even a glimpse of the shore,
+				reg="Yokohama, Japan">Yokohama</place> and before I had even a glimpse of the shore,
 			I was overwhelmed by interviewers and photographers.</p>
 		<p>My first visitors with whom I was privately closeted for an hour were Japanese government
 			officials, stenographers and interpreters. I was asked various questions concerning my

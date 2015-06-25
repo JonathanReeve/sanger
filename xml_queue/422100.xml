@@ -2,7 +2,8 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published statement">
 	<mepHeader>
-		<prepDate>2015-06-09 CH transcribed and encoded</prepDate><prepDate>20-15-06-25 CH proof and enter tags</prepDate>
+		<prepDate>2015-06-09 CH transcribed and encoded</prepDate>
+		<prepDate>20-15-06-25 CH proof and enter tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -29,9 +30,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This text was taken from two newspaper articles. For a draft of Sanger's speech see <xref from="128168.xml">Excerpt from the Hotel
-				Commodore Speech</xref>, Dec. 8, 1920. For other draft versions, see Margaret Sanger
-			Microfilm, Smith College Collections, S70:862-866.</p>
+		<p>This text was taken from two newspaper articles. For a draft of Sanger's speech see <xref
+				from="128168.xml">Excerpt from the Hotel Commodore Speech</xref>, Dec. 8, 1920. For
+			other draft versions, see Margaret Sanger Microfilm, Smith College Collections,
+			S70:862-866.</p>
 		<index level1="birth control laws and legislation" level2="state"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
 	</headNote>
@@ -55,8 +57,11 @@
 			<p>"We agree with the advocates of birth control that no world peace is possible without
 				a reduction of the birth rate and immediate action toward its international
 				accomplishment."</p>
-			<p><q who="MCI">A bill legalizing dissemination of birth control information will be introduced at
-				the next session of the <org reg="New York State Legislature">legislature</org>.</q></p>
+			<p>
+				<q who="MCI">A bill legalizing dissemination of birth control information will be
+					introduced at the next session of the <org reg="New York State Legislature"
+						>legislature</org>.</q>
+			</p>
 		</div>
 		<div type="section">
 			<head>ADVOCATES OF BIRTH CONTROL OPEN FIGHT FOR CHANGE IN LAW</head>

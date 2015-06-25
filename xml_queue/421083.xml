@@ -6,11 +6,14 @@
 		<prepDate>2014/02/11 CH proof tags</prepDate>
 		<prepDate>2014-11-11 CH clean regs</prepDate>
 		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1936-05-04">4 May 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the New York
-				Times</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the New York Times</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421083</idno>
 		<sourceDesc>
@@ -62,12 +65,16 @@
 				will see that a change is inevitable. It is the job of the voters and the taxpayers
 				to make Congress hurry up.” </p>
 
-			<p><q who="NYT">In <place>India</place>, <place>Burma</place> and <place>Malaya</place>,
-					as well as in the more modern communities of <place>England</place> and
-						<place>Japan</place>, the birth-control movement is making rapid headway,
-					Mrs. Sanger reported. </q></p>
-			<p><q who="NYT">While in India, she established fifty centers for teaching birth control
-					and gained the endorsement of the <org>All-India Women’s Conference</org>.</q>
+			<p>
+				<q who="NYT">In <place>India</place>, <place>Burma</place> and
+					<place reg="British Malaya">Malaya</place>, as well as in the more modern communities of
+						<place>England</place> and <place>Japan</place>, the birth-control movement
+					is making rapid headway, Mrs. Sanger reported. </q>
+			</p>
+			<p>
+				<q who="NYT">While in India, she established fifty centers for teaching birth
+					control and gained the endorsement of the <org>All-India Women’s
+						Conference</org>.</q>
 			</p>
 
 		</div>

@@ -1,130 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Autograph draft speech">
-    <mepHeader>
-        <prepDate>2015-05-28 EKCH initial encoding and transcription</prepDate>
-        <docAuthor>
-            <person reg="Sanger, Margaret">Margaret Sanger</person>
-        </docAuthor>
-        <docDate value="1923-07-03">3 July 1923</docDate>
-        <docTitle>
-            <titlePart>
-                <supplied resp="MSPP">Vancouver Speech Notes</supplied>
-            </titlePart>
-        </docTitle>
-        <idno>msp422090</idno>
-        <sourceDesc>
-            <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-            <bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
-                S70:1003</bibl>
-        </sourceDesc>
-        <respStmt>
-            <resp/>
-            <name id="HUGVI">Victor Hugo</name>
-            <name id="SENEC">Seneca</name>
-        </respStmt>
-    </mepHeader>
-    <headNote resp="MSPP">
-        <p>Sanger, who went to Vancouver at the invitation of <person reg="Jamieson, Laura">Laura
-                Jamieson</person> of the <org>Women's International League for Freedom and
-                Peace</org> and <person reg="Gutteridge, Helen">Helen Gutteridge</person> of
-            Vancouver's <org>Tribes and Labour Council</org>, delivered this speech at the Hotel
-            Vancouver. She had stopped in Canada on her way to Alaska. No final version found. For
-            similar notes for speeches, see <xref from="422092.xml"><place>Cincinnati,
-                OH</place></xref> on Nov. 22, 1922 and <xref from="422091.xml"><place>Buffalo,
-                    NY</place></xref> on Feb. 9, 1922. Handwritten intelineations by Margaret
-            Sanger</p>
-        <index level1="birth control" level2="socio-economic benefits"/>
-        <index level1="birth control" level2="and natural law"/>
-        <index level1="birth control" level2="definitions of"/>
-        <index level1="population size" level2="regulation of"/>
-        <index level1="abortion" level2="birth control and"/>
-        <index level1="abortion" level2="MS on"/>
-        <index level1="abortion"/>
-        <index level1="infanticide"/>
-        <index level1="mentally diseased or disabled"/>
-        <index level1="physically diseased or disabled"/>
-        <index level1="women and girls” level2=”enslavement of"/>
-        <index level1="birth control" level2="psychological and emotional benefits"/>
-        <index level1="birth control methods"/>
-        <index level1="Netherlands, the" level2="birth control clinics"/>
-        <index level1="birth rate" level2="differential"/>
-        <index level1="birth control" level2="as a term"/>
-        <index level1="birth control laws and legislation" level2="Comstock Laws"/>
-        <index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
-    </headNote>
-    <docBody>
-        <p><dateline><place reg="Vancouver, Canada">Vancouver</place>
-                <date>July 3 --1923</date></dateline></p>
-        <p>1. <add>reln <person reg="Hugo, Victor">Hugo</person></add></p>
-        <p><add>"<q who="HUGVI">There is no force in the world so great as that of an idea whose
-                    time has come.</q>"</add></p>
-        <p>Birth Control Keynote New Social awakening--health, economic</p>
-        <p>Not a new idea. Nature. early stages mankind (Control through)}</p>
-        <list>
-            <item>famine</item>
-            <item>floods</item>
-            <item>disease</item>
-            <item>pestilence</item>
-            <item>war</item>
-        </list>
-        <p>Savagery, Barbarism, Infanticide, Abandonment, Foeticide.</p>
-        <p>Early Civilization Infanticide} <list>
-                <item><person>Plato</person>--exposure elements condemned to death children born
-                    depraved</item>
-                <item><person>Aristotle</person>--State fix no. children pair should live</item>
-                <item><person>Seneca</person>--"<q who="SENEC">We drown or destroy weakly or
-                        deformed children.</q>"</item>
-                <item><place reg="Rome Italy">Rome</place>--militaristic nation living conquest
-                    people reared only healthy children.</item>
-            </list></p>
-        <p>Infanticide greatest and most come crime <place>Western Europe</place>, middle ages down
-            to end 18th century.</p>
-        <p>20,000 women put to death <place>Germany</place> torture, later beheaded.</p>
-        <p>Threats of Hell, punishments, tortures availed to reduce the crime of infanticide. It
-            ceased only when <del>skill abortion</del>
-            <add>practice of foeticide</add> became generally prevalent.</p>
-        <p>Abortions will cease and become unnecessary when B.C. generally practiced.</p>
-        <p>For B.C. is key to greatest human problems that of reocniling} sentiment generosity
-            humanitarianism Christianity Democracy to Race Improvement</p>
-        <p><add>BC control of the birth rate by scientific means that prevent conception.</add></p>
-        <p>Biological fact} Intelligence slow growth Reproductive power unlimited.</p>
-        <p>Development of sympatheitc nervous system, charity, sentiment, <gap reason="torn"
-                extent="two words"/> reproduce kind.</p>
-        <p><gap reason="torn" extent="3-4 words"/>against finest flowering <gap reason="torn"
-                extent="3-5 words"/></p>
-        <p><add>Make our bodies holy temples perfect instruments in the service of the Soul we
-                    <unclear>Survived</unclear> to take its part in the mystery of material
-                being.</add></p>
-        <p>Through B.C. we can remove untold misery for it can free mothers from fear of unwanted
-            pregnancy. It can free children from toil in shop &amp; factory. Thrpugh it offspring
-            may be conceived in love &amp; reared bt the aid of <gap reason="torn"
-                extent="two words"/> humanity.</p>
-        <p><gap reason="torn" extent="one sentence"/></p>
-        <p>Early marriage--practice contraception. <emph rend="underline">Educate</emph> the
-            Educators <emph rend="underline">spread theory.</emph></p>
-        <p><place reg="Netherlands, the">Holland</place>
-            <emph rend="underline">practice</emph> clinics. <place>France</place>
-            <person reg="Bonaparte, Napoleon">Napolean</person> Syndicalists} Wee to-do Edcated
-            Classes practice B.C. Birth rate less.</p>
-        <p>Germany (<person reg="Marx, Karl">Marx</person>)</p>
-        <p>Paternalistic</p>
-        <p><place>Norway</place> &amp; <place>Sweden</place>} marriage viz death old people.</p>
-        <p><place>Australia</place>
-            <place>New Zealand</place>--<place reg="United States">U.S.A.</place></p>
-        <p><place>China</place>
-            <place>Japan</place>
-            <add>57 million</add>
-            <place>India</place>, <place>Russia</place>--birth rate 50&percnt; death rate
-            36&percnt;. U.S.A. <add>coined B.C. word</add> 1912--<person reg="Knowlton, Charles"
-                >Knowlton</person> pamphlet Comstock laws--aroused nation--challenged
-                laws--<del>Jail</del> fled to <place>England</place>--<person reg="Wells, H.G."
-                >Wells</person>, <person reg="Bennett, Arnold">Bennett</person>, <person
-                reg="Murray, Gilbert">Gilbert Murray</person>--Returned trial--refused to cease
-            work. Jail sentence 30 days hunger strike--magazine==clinic--circled globe-Japan--<place
-                reg="Honolulu, HI">Honolulu</place>, <place>South America</place> 50,000 letters
-            last year--</p>
-        <p>Read letters--Society, Church, Science has ignored <add>rest of letter missing</add>.</p>
+	<mepHeader>
+		<prepDate>2015-05-28 EKCH initial encoding and transcription</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1923-07-03">3 July 1923</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Vancouver Speech Notes</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422090</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:1003</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="HUGVI">Victor Hugo</name>
+			<name id="SENEC">Seneca</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger, who went to Vancouver at the invitation of <person reg="Jamieson, Laura">Laura
+				Jamieson</person> of the <org>Women's International League for Freedom and
+				Peace</org> and <person reg="Gutteridge, Helen">Helen Gutteridge</person> of
+			Vancouver's <org>Tribes and Labour Council</org>, delivered this speech at the Hotel
+			Vancouver. She had stopped in Canada on her way to Alaska. No final version found. For
+			similar notes for speeches, see <xref from="422092.xml"><place>Cincinnati,
+				OH</place></xref> on Nov. 22, 1922 and <xref from="422091.xml"><place>Buffalo,
+					NY</place></xref> on Feb. 9, 1922. Handwritten intelineations by Margaret
+			Sanger</p>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="and natural law"/>
+		<index level1="birth control" level2="definitions of"/>
+		<index level1="population size" level2="regulation of"/>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="MS on"/>
+		<index level1="abortion"/>
+		<index level1="infanticide"/>
+		<index level1="mentally diseased or disabled"/>
+		<index level1="physically diseased or disabled"/>
+		<index level1="women and girls” level2=”enslavement of"/>
+		<index level1="birth control" level2="psychological and emotional benefits"/>
+		<index level1="birth control methods"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
+		<index level1="birth rate" level2="differential"/>
+		<index level1="birth control" level2="as a term"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+	</headNote>
+	<docBody>
+		<p>
+			<dateline>
+				<place reg="Vancouver, Canada">Vancouver</place>
+				<date>July 3 --1923</date>
+			</dateline>
+		</p>
+		<p>1. <add>reln <person reg="Hugo, Victor">Hugo</person></add></p>
+		<p>
+			<add>"<q who="HUGVI">There is no force in the world so great as that of an idea whose
+					time has come.</q>"</add>
+		</p>
+		<p>Birth Control Keynote New Social awakening--health, economic</p>
+		<p>Not a new idea. Nature. early stages mankind (Control through)}</p>
+		<list>
+			<item>famine</item>
+			<item>floods</item>
+			<item>disease</item>
+			<item>pestilence</item>
+			<item>war</item>
+		</list>
+		<p>Savagery, Barbarism, Infanticide, Abandonment, Foeticide.</p>
+		<p>Early Civilization Infanticide} <list>
+				<item><person>Plato</person>--exposure elements condemned to death children born
+					depraved</item>
+				<item><person>Aristotle</person>--State fix no. children pair should live</item>
+				<item><person>Seneca</person>--"<q who="SENEC">We drown or destroy weakly or
+						deformed children.</q>"</item>
+				<item><org reg="Roman Empire">Rome</org>--militaristic nation living conquest
+					people reared only healthy children.</item>
+			</list></p>
+		<p>Infanticide greatest and most come crime <place>Western Europe</place>, middle ages down
+			to end 18th century.</p>
+		<p>20,000 women put to death <place>Germany</place> torture, later beheaded.</p>
+		<p>Threats of Hell, punishments, tortures availed to reduce the crime of infanticide. It
+			ceased only when <del>skill abortion</del>
+			<add>practice of foeticide</add> became generally prevalent.</p>
+		<p>Abortions will cease and become unnecessary when B.C. generally practiced.</p>
+		<p>For B.C. is key to greatest human problems that of reocniling} sentiment generosity
+			humanitarianism Christianity Democracy to Race Improvement</p>
+		<p>
+			<add>BC control of the birth rate by scientific means that prevent conception.</add>
+		</p>
+		<p>Biological fact} Intelligence slow growth Reproductive power unlimited.</p>
+		<p>Development of sympatheitc nervous system, charity, sentiment, <gap reason="torn"
+				extent="two words"/> reproduce kind.</p>
+		<p><gap reason="torn" extent="3-4 words"/>against finest flowering <gap reason="torn"
+				extent="3-5 words"/></p>
+		<p>
+			<add>Make our bodies holy temples perfect instruments in the service of the Soul we
+					<unclear>Survived</unclear> to take its part in the mystery of material
+				being.</add>
+		</p>
+		<p>Through B.C. we can remove untold misery for it can free mothers from fear of unwanted
+			pregnancy. It can free children from toil in shop &amp; factory. Thrpugh it offspring
+			may be conceived in love &amp; reared bt the aid of <gap reason="torn"
+				extent="two words"/> humanity.</p>
+		<p>
+			<gap reason="torn" extent="one sentence"/>
+		</p>
+		<p>Early marriage--practice contraception. <emph rend="underline">Educate</emph> the
+			Educators <emph rend="underline">spread theory.</emph></p>
+		<p><place reg="Netherlands">Holland</place>
+			<emph rend="underline">practice</emph> clinics. <place>France</place>
+			<person reg="Bonaparte, Napoleon">Napolean</person> Syndicalists} Wee to-do Edcated
+			Classes practice B.C. Birth rate less.</p>
+		<p>Germany (<person reg="Marx, Karl">Marx</person>)</p>
+		<p>Paternalistic</p>
+		<p><place>Norway</place> &amp; <place>Sweden</place>} marriage viz death old people.</p>
+		<p><place>Australia</place>
+			<place>New Zealand</place>--<place reg="United States">U.S.A.</place></p>
+		<p><place>China</place>
+			<place>Japan</place>
+			<add>57 million</add>
+			<place>India</place>, <place>Russia</place>--birth rate 50&percnt; death rate
+			36&percnt;. U.S.A. <add>coined B.C. word</add> 1912--<person reg="Knowlton, Charles"
+				>Knowlton</person> pamphlet Comstock laws--aroused nation--challenged
+				laws--<del>Jail</del> fled to <place>England</place>--<person reg="Wells, H.G."
+				>Wells</person>, <person reg="Bennett, Arnold">Bennett</person>, <person
+				reg="Murray, Gilbert">Gilbert Murray</person>--Returned trial--refused to cease
+			work. Jail sentence 30 days hunger strike--magazine==clinic--circled globe-Japan--<place
+				reg="Honolulu, HI">Honolulu</place>, <place>South America</place> 50,000 letters
+			last year--</p>
+		<p>Read letters--Society, Church, Science has ignored <add>rest of letter missing</add>.</p>
 
-    </docBody>
+	</docBody>
 </doc>
