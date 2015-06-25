@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-26 MC encoded and transcribed</prepDate>
+		<prepDate>2015-05-29 CH proof tags</prepDate>
+		<prepDate>2015-06-09 MC enter corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1922-10-11">11 Oct 1922</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Return to the United States</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422069</idno>
+		<sourceDesc>
+			<bibl><title type="article">Japs Formed Birth Control Clinics, Says Mrs. Sanger </title>
+				<title type="journal">Brooklyn Daily Eagle</title>, Oct. 11, 1922, p. 24</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE">Brooklyn Daily Eagle</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Japan" level2="birth control clinics"/>
+		<index level1="conferences" level2="international0"/>
+	</headNote>
+	<docBody>
+		<head>Japs Formed Birth Control Clinics, Says Mrs. Sanger</head>
+		<p>"American missionaries of all religious denominations are practicing birth control in
+			<place>Japan</place>, but in <place>China</place> they have large families," <q who="BDE">declared Mrs. Margaret
+				Sanger, founder of the <org>American Birth Control League</org>, who has just
+				returned from a propaganda trip of several months, during which she visited
+					<place>Hawaii</place>, Japan, China,<place>
+					Egypt</place>, <place>Arabia</place>, <place>Austria</place>,
+					<place>Italy</place>, <place>France</place> and <place>England</place></q>.</p>
+		<p>"I was warmly welcomed everywhere, especially in Japan, once I obtained admission to the
+			country," <q who="BDE">said Mrs. Sanger.</q> "My lectures were well attended and
+			committees on birth control established. I established a league in <place
+				reg="Tokyo, Japan">Tokyo</place> with a clinic and branches in <place
+				reg="Kobe, Japan">Kobe</place> and <place reg="Kyoto, Japan">Kyoto</place>; also in
+				<place reg="Peking, China">Peking</place> and <place reg="Honolulu, HI"
+				>Honolulu</place>.</p>
+		<p>"The difficulty I had in entering Japan was due to the fact that the government had an
+			idea I was sent by the <place>United States</place> to reduce Japan's birth rate and so
+			weaken her army. The present population of Japan is 57,000,000 and the military wants a
+			population of 100,000,000. However, when I made it clear that my own government took the
+			same attitude towards me and that my object was to reduce the birth rate in every
+			country in the world, they let me in. My meetings were called under the auspices of the
+			best educated and most cultivated Japanese and through an interpreter I lectured on the
+			population in Japan and all nations.</p>
+		<p>"In <place reg="London, England">London</place> I acted as president of the general
+			section of the <org reg="International Neo-Malthusian and Birth Control Conference, 5th"
+				>International Conference on Birth Control</org>, where delegates from all countries
+			assembled to discuss ways and means to make birth control a legal and social factor in
+			family life in every country in the world.</p>
+		<p>"<person reg="Wells, H.G.">H. G. Wells</person> presided at the public meeting of the
+			Conference, and others who took a prominent part were <person reg="Dawson, Bertrand"
+				>Lord Dawson</person>, the <person reg="George V (England)">King</person>'s
+			physician; <person reg="Cox, Harold">Harold Cox</person>, former M.P.; Prof. <person
+				reg="Keynes, John Maynard">John Maynard Keynes</person>, the well-known economist,
+			and Prof. <person reg="Macbride, Ernest William.">E. W. MacBride</person>, who officially
+			represented the <org>British Eugenics Society</org>."</p>
+		<p><q who="BDE">Mrs. Sanger will be welcomed home at a meeting in <org>Carnegie Hall</org>,
+					<place reg="New York, NY">Manhattan</place>, on Oct. 30</q>.</p>
+	</docBody>
+</doc>
