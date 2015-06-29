@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
+		<prepDate>2015-06-10 CH proof tags</prepDate>
+		<prepDate>2015-06-29 CH enter corrected tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1935-04-22">22 Apr 1935</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on the Rhythm Method</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422088</idno>
+		<sourceDesc>
+			<bibl><title type="article">Margaret Sanger Raps 'Rhythm' Birth Control</title>, <title
+					type="journal">Fresno Bee/Republican</title>, Apr. 22, 1935, p. 5</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="FBR">Fresno Bee/Republican </name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control methods"/>
+		<index level1="birth control methods" level2="efficacy of"/>
+		<index level1="birth control methods" level2="research"/>
+		<index level1="birth control methods" level2="rhythm"/>
+	</headNote>
+
+	<docBody>
+		<head>Margaret Sanger Raps 'Rhythm' Birth Control </head>
+		<dateline><place reg="San Francisco, CA">SAN FRANCISCO</place>, <date value="1935-04-22">
+				April 22</date>.--(<org reg="Associated Press">AP</org>)</dateline>
+		<p>
+			<q who="FBR">The <person reg="Ogino, Kyusaku">Ogino</person>-<person
+					reg="Knaus, Hermann">Knaus</person> "rhythm" method of birth control was
+				declared basically unsound by Mrs. Margaret Sanger of <place reg="New York, NY"> New
+					York</place>, noted advocate of birth control.</q>
+		</p>
+		<p>
+			<q who="FBR">Its fault, she said was chiefly one of vitamins, and shock, worry, hunger
+				and change of climate are factors entering into the method which render it unsound.
+				The method was found effective in <place>Austria</place> during the war when the
+				women of that country were under-nourished, she declared.</q>
+		</p>
+		<p>
+			<q who="FBR">Mrs. Sanger is confident federal laws against dissemination of birth
+				control legislation will be repealed and urges research in medical schools to make
+				birth control absolutely certain.</q>
+		</p>
+		<p>
+			<q who="FBR"> Mrs. Sanger is here to visit her son, <person reg="Sanger,
+			Stuart"
+					>Stuart</person>.</q>
+		</p>
+	</docBody>
+</doc>

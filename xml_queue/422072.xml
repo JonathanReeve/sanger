@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview">
+	<mepHeader>
+		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
+		<prepDate>2015-06-10 CH proof tags</prepDate>
+		<prepDate>2015-06-29 CH enter corrected tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person><person reg="Wold, Clara">Clara Wold</person>
+		</docAuthor>
+		<docDate value="1922-08-03">3 Aug 1922</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Interview with International News Service</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422072</idno>
+		<sourceDesc>
+			<bibl><title type="article">Says English Women Behind Sisters of U.S.</title>, <title type="journal"
+					>Springfield Missouri Republican</title>, Aug 3, 1922, p. 3</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="SMR">Springfield Missouri Republican</name>
+			<name id="WOLCL">Wold, Clara</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="England" level2="MS on"/>
+		<index level1="England" level2="birth control in"/>
+		<index level1="birth control movement" level2="international"/>
+		<index level1="birth control movement" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>SAYS ENGLISH WOMEN BEHIND SISTERS OF U.S.</head>
+		<byline>by CLARA WOLD <lb/><org>International News Service</org> Staff Correspondent.</byline>
+		<dateline><place reg="London, England">LONDON</place>, <date value="1922-08-02">Aug. 2</date>.--</dateline>
+		<div type="section">
+			<p>"The English woman is one hundred years behind the American woman in her human and scientific attitude
+				towards sex," <q who="SMR">declared Mrs. Margaret Sanger, leader of the <org
+						reg="American Birth Control League">American Birth Control league</org>, today. We had been
+					listening to vigorous statements made by <person reg="Wells, H. G.">H. G. Wells</person> concerning
+					the liberty with which Birth control is regarded and discussed in <place>England</place> and the
+					narrowness of <place reg="United States">America</place> is her attitude to the entire
+				question.</q></p>
+			<p>"It is true," <q who="SMR"> said Mrs. Sanger,</q> "that in America we still have laws that forbid
+				educational propaganda concerning birth control, but American women have broken absolutely from the
+				antiquated domination of the man over woman and are able to regard and discuss sex scientifically."</p>
+			<p>"English women are so prudish in the free expression of opinion on sex subjects that it will take at
+				least one hundred years for them to get out from under the influence of unclean and unscientific
+				education."</p>
+			<p>
+				<q who="WOLCL">I asked her if this education came from the individual men of English homes. </q>
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub"> Church Teaches Passivity</head>
+			<p>"I should say that it comes from the teaching in the church of dutiful passivity on the part of women,
+				and also from the traditional belief that woman is the accessory of man. American women will not accept
+				such an idea. Not even the American man will stand for such an attitude of mind. And this is true no
+				less of the working class man than of intellectuals. The younger Americans have never even considered
+				such an idea as the subordination of woman to man and even the foreigners who come to America quickly
+				imbibe the American feminist attitude."</p>
+			<p>"The strange thing about this attitude is that it does not permit free public discussion by specialists
+				that we can hope for. This is probably because the laws of England do not forbid such discussion. Anyway
+				it is notable that even the women who take part in an English discussion are fundamentally puritanical
+				in their expression."</p>
+			<p><q who="WOLCL">"And what about the attitude of the English men towards the free discussion of sex
+					questions?"</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">English Men Ahead</head>
+			<p>"Well, one might say that the men of England are just as far ahead of the American men as the women are
+				behind. It is true that the English birth control movement and every part of English life, is dominated
+				by men, whereas in America the birth control movement has always been led by women and it has been most
+				difficult to get man to take any part in it."</p>
+			<p>"In the <place reg="Asia">Orient</place> too, it is the men who will lead the movement. Our meetings in
+					<place>Japan</place> and <place>China</place>, where I spent three months, were attended by
+				thousands of men--scientists, psychologists, medical men, students, intellectuals, rickshaw men, the
+				communist laborers--and only a handful of women. The attitude from the first has been scientific and the
+				Oriental man is preparing to introduce the ideas of birth control as the most expedient solution of
+				their present economic situation."</p>
+			<p>"In England the medical profession has devoted much time to the study and discussion of birth control.
+				Such men as <person reg="Dawson, Bertrand E."> Lord Dawson</person>, one of the most notable British
+				physicians, and Sir <person reg="Barr, James">James Barr</person>, leader of the <org
+					reg="British Medical Association">British Medical association</org>, have come out frankly as
+				supporters of the birth control movement in the face on condemnation of the majority of their
+				profession."</p>
+		</div>
+		<div type="section">
+			<head type="sub">American Men Sheep-Like</head>
+			<p>"In America the men of the medical profession, characteristically, are more sheep-like. They will follow
+				an idea, but they have not the courage to be leaders against popular opinion."</p>
+			<p>"I have asked men like H. G. Wells and <person reg="Cox,	Harold"> Harold Cox</person> and other brilliant
+				thinkers of England why their women are so puritanical--and let me say right here that I do not think
+				Americans are ever half so puritanical as the English--and I have always been told that the expression
+				of the women on sex questions is 'half hypothetical.' The other half is, I suppose, traditional."</p>
+			<p>
+				<q who="WOLCL">"And what will you do to change the attitude of the medical profession in America?" I
+					asked Mrs. Sanger. </q>
+			</p>
+			<p>"It has been a long struggle of our organization to get medical men who believe in birth control to act
+				courageously in dealing with the question. In 1916 I opened a <org reg="Brownsville Clinic">clinic</org>
+				in <place reg="Brooklyn, NY">New York</place> for the spread of information could be freely given by any
+				one of the medical profession. Ever since then we have waited for the medical men to open a clinic."
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub">She Awaits Action.</head>
+			<p>"A year ago I promised my board of directors to wait another year for some action from the medical men.
+				That year is nearly over and if nothing happens soon I am sure the women of America will rise up and
+				begin a new campaign for clinics." </p>
+			<p>"America does not follow passive propaganda. We are an aggressive people who like aggressive methods,
+				most of all when they are directed against ourselves. And for that reason I am sure that unless the
+				medical men take this matter up at once the women of America will open clinics, beginning in New York.
+				The first woman arrested will be followed by another and another, and it will take America as long to
+				arrest all the women who are willing to fight for birth control as it did to arrest all those who wanted
+				suffrage."</p>
+		</div>
+	</docBody>
+</doc>
