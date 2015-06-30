@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-09-21 MC transcribed and encoded</prepDate>
+		<prepDate>2015-06-25 CH proof tags</prepDate>
+		<prepDate>2015-06-30 MC enter corrections</prepDate>
+		<docAuthor>
+			<person>Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="2015-09-21">
+			<supplied resp="MSPP">21 Sept 1932</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Activities in Italy</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422085</idno>
+		<sourceDesc>
+			<bibl><title type="article">Operatic Stars Back From Europe On the Saturnia </title>,
+					<title type="journal">Brooklyn Daily Eagle</title>, Sept. 22, 1932, p. 17</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE">Brooklyn Daily Eagle</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>No other versions were found. The first four and last four paragraphs of this article,
+			describing other arrivals, were omitted.</p>
+		<index level1="Italy" level2="birth control in"/>
+		<index level1="Italy" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>Operatic Stars Back From Europe On the Saturnia</head>
+		<div>
+			<head type="sub">Margaret Sanger Returns</head>
+			<p>
+				<q who="BDE">Arriving late yesterday on the <org reg="White Star Lines">White
+						Star</org> liner <name type="ship">Majestic</name> was Margaret Sanger, who
+					said that if her birth control activities in <place>Italy</place> had become
+					known recently she believed she would have been deported.</q>
+			</p>
+			<p>"By traveling under my married name, Mrs. M. S. Slee, I managed to hold many private
+				meetings on birth control while in Italy,"<q who="BDE"> she said.</q> "In <place
+					reg="Venice, Italy">Venice</place> and <place reg="Milan, Italy">Milan</place> I
+				had more demand for secret lectures before women's clubs than I could supply." </p>
+			<p>"In spite of <person reg="Mussolini, Benito">Mussolini</person>'s opposition to birth
+				control I noticed a great underground movement for it in his country, which has
+				undoubtedly been responsible for the astonishing face that the birth rate has fallen
+				here this year."</p>
+			<p>
+				<q who="BDE">Miss Sanger said she would fight for passage of a bill now before the
+						<org reg="United States Senate Committee on the Judiciary">Judiciary
+						Committee</org> in <org reg="United States Congress">Congress</org> which
+					would permit instruction in birth control by physicians.</q>
+			</p>
+		</div>
+	</docBody>
+</doc>

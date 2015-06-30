@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-06-09 MC transcribed and encoded</prepDate>
+		<prepDate>2015-06-25 CH proof tags</prepDate>
+		<prepDate>2015-06-30 MC enter corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1932-05-19">19 May 1932</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Comments at House Testimony on HR 11082</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422095</idno>
+		<sourceDesc>
+			<bibl><title type="article">Seeks Birth Control</title>, <title type="journal">Elwood
+					Call-Leader</title>, May 19, 1932, p. 1</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="ECL">Elwood Call-Leader </name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>The comments below do not appear in Sanger's <xref from="300444.xml">Testimony Before the
+				House of Representatives on H.R. 11082 </xref>, May 19, 1932.</p>
+		<index level1="birth control laws and legislation" level2="Federal"/>
+		<index level1="population size" level2="and birth control"/>
+		<index level1="United States" level2="government and birth control"/>
+	</headNote>
+	<docBody>
+		<head>Seeks Birth Control</head>
+		<p><q who="ECL">Limitation of population is needed at this time</q> "when poverty and
+			unemployment are rampant over the country," <q who="ECL">Mrs. Margaret Sanger asserted
+				today in urging the House ways and means committee
+				to approve dissemination of birth control information.</q></p>
+		<p>
+			<q who="ECL">Mrs. Sanger commended a bill by <person reg="Hancock, Franklin Wills Jr."
+					>Rep. Hancock</person>, <org reg="United States Democratic Party"
+					>Dem</org>., <place reg="North Carolina">N. C.</place>, which would remove
+				long-standing Federal restrictions against transmission of birth control information
+				through the mails. The bill would enable licensed medical centers to disseminate
+				such information.</q>
+		</p>
+		<p>
+			<q who="ECL">Today's hearing was the first a <org
+					reg="United States House of Representatives, Ways and Means Committee">House
+					committee</org> had given to birth control advocates since 1873.</q>
+		</p>
+		<p><q who="ECL">Passage of the measure</q> "would directly benefit the large army of women
+			whose husbands are unemployed," <q who="ECL">Mrs. Sanger said</q>.</p>
+
+
+	</docBody>
+</doc>
