@@ -31,8 +31,9 @@
 			</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>For Sanger's testimony, see <xref from="300446.xml">Testimony Before
-				the United States Senate on Senate Bill 4436</xref>, May 12, 1932.</p>
+	<headNote resp="MSPP">
+		<p>For Sanger's testimony, see <xref from="300446.xml">Testimony Before the United States
+				Senate on Senate Bill 4436</xref>, May 12, 1932.</p>
 		<index level1="birth control laws and legislation" level2="Congressional Bills"/>
 		<index level1="birth control laws and legislation" level2="Comstock  Laws"/>
 		<index level1="United States Congress" level2="Senate"/>
@@ -73,7 +74,7 @@
 				intelligence."</q>
 		</p>
 		<p>
-			<q who="IN">Professor <person reg="Bossard, James H.">James H. Bossard</person>, of
+			<q who="IN">Professor <person reg="Bossard, James H. S.">James H. Bossard</person>, of
 					<place reg="Philadelphia, PA">Philadelphia</place>, endorsed the measure, as did
 				the following: Rabbi <person reg="Israel, Edward S.">Edward S. Israel</person> of
 					<place reg="Baltimore,
