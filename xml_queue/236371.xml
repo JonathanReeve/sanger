@@ -34,7 +34,9 @@
 	</headNote>
 	<docBody>
 
-		<dateline><place reg="Milwaukee, WI">Milwaukee</place><lb/>
+		<dateline>
+			<place reg="Milwaukee, WI">Milwaukee</place>
+			<lb/>
 			<date value="1923-11-06">Nov 6--1923</date>
 		</dateline>
 
@@ -91,7 +93,7 @@
 		<p>clinics to help</p>
 		<p>When <emph rend="underline">not</emph> to have chidlren. 3 kinds of B.C.} continence
 			sterilization mechanical contraception</p>
-		<p><person reg="Epicurus">Epicitus</person> said of <place reg="Athens, Greece"
+		<p><person reg="Epicurus (Greek)">Epicitus</person> said of <place reg="Athens, Greece"
 				>Athens</place> "<q who="PERI">The spring time went out of her year</q>."</p>
 		<p>58,432 letters. What do they ask? Church, Society, Science, no place for her. Push her
 			into <unclear resp="MSPP">wine</unclear>.</p>
