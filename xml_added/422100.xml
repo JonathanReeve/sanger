@@ -4,10 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-06-09 CH transcribed and encoded</prepDate>
 		<prepDate>20-15-06-25 CH proof and enter tags</prepDate>
-<<<<<<< HEAD
 		<prepDate>2015-07-02 EK correct proof and update index</prepDate>
-=======
->>>>>>> origin/master
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -22,17 +19,10 @@
 		<idno>msp422100</idno>
 		<sourceDesc>
 			<bibl><title type="article">Birth Control is Advocated</title>, <title type="journal"
-<<<<<<< HEAD
 					>Mount Carmel Item</title>, Dec. 9, 1920, p. 3;</bibl>
-			<bibl>Excerpts from <title type="article">Advocates of Birth Control Open Fight for Change in
-					Law</title>, <title type="journal">Brooklyn Daily Eagle"</title>, Dec. 9, 1920,
-				p. 18</bibl>
-=======
-					>Mount Carmel Item</title>, Dec. 9, 1920, p. 3.</bibl>
-			<bibl><title type="journal">Advocates of Birth Control Open Fight for Change in
-					Law</title>, <title type="journal">Brooklyn Daily Eagle"</title>, Dec. 9, 1920,
-				p. 18.</bibl>
->>>>>>> origin/master
+			<bibl>Excerpts from <title type="article">Advocates of Birth Control Open Fight for
+					Change in Law</title>, <title type="journal">Brooklyn Daily Eagle"</title>, Dec.
+				9, 1920, p. 18</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -41,10 +31,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-<<<<<<< HEAD
-		<p>This text was drawn from the above two newspaper articles. For a draft of Sanger's speech see <xref from="128168.xml">Excerpt from the Hotel
-				Commodore Speech</xref>, Dec. 8, 1920. For other draft versions, see Margaret Sanger
-			Microfilm, Smith College Collections, S70:862 and 866.</p>
+		<p>This text was drawn from the above two newspaper articles. For a draft of Sanger's speech
+			see <xref from="128168.xml">Excerpt from the Hotel Commodore Speech</xref>, Dec. 8,
+			1920. For other draft versions, see Margaret Sanger Microfilm, Smith College
+			Collections, S70:862 and 866.</p>
 		<index level1="birth control laws and legislation" level2="state"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="New York" level2="birth control laws"/>
@@ -54,60 +44,30 @@
 		<index level1="population size" level2="and birth control"/>
 		<index level1="New York Women's Publishing Co."/>
 		<index level1="birth control methods" level2="chemical contraceptives"/>
-		
-=======
-		<p>This text was taken from two newspaper articles. For a draft of Sanger's speech see <xref
-				from="128168.xml">Excerpt from the Hotel Commodore Speech</xref>, Dec. 8, 1920. For
-			other draft versions, see Margaret Sanger Microfilm, Smith College Collections,
-			S70:862-866.</p>
-		<index level1="birth control laws and legislation" level2="state"/>
-		<index level1="birth control" level2="lack of knowledge of"/>
->>>>>>> origin/master
 	</headNote>
 	<docBody>
 		<div type="section">
 			<head>BIRTH CONTROL IS ADVOCATED</head>
-<<<<<<< HEAD
 			<dateline><place>NEW YORK</place>, <date>Dec. 9</date>.</dateline>
 			<p>"<q>Diplomats may form leagues of nations but so long as women continue to produce
-				explosive populations all the leagues in the world will be merely proverbial scraps
-				of paper.</q>" <q who="MCI">Mrs. Margaret Sanger, birth control advocate, declared in commenting on the new campaign to legalize dissemination of birth control
-=======
-			<dateline><place>NEW YORK</place>, <date value="1920-12-09">Dec. 9</date>.</dateline>
-			<p>"Diplomats may form leagues of nations but so long as women continue to produce
-				explosive populations all the leagues in the world will be merely proverbial scraps
-				of paper." <q who="MCI">Mrs. Margaret Sanger, birth control advocate, declared in a
-					commenting on the new campaign to legalize dissemination of birth control
->>>>>>> origin/master
-					information in this <place reg="New York, NY">state</place>.</q></p>
+					explosive populations all the leagues in the world will be merely proverbial
+					scraps of paper.</q>" <q who="MCI">Mrs. Margaret Sanger, birth control advocate,
+					declared in commenting on the new campaign to legalize dissemination of birth
+					control information in this <place reg="New York, NY">state</place>.</q></p>
 			<p>
 				<q who="MCI">The campaign was launched at a meeting of 500 women under auspices of
 					the <org>New York Women's Publishing Company</org>, publishers of the <title
 						type="journal">Birth Control Review</title>. Mrs. Sanger, who just returned
-<<<<<<< HEAD
 					from studying social conditions in <place>Europe</place>, bore the following
 					message to American women from European scientists, diplomats and
 					economists:</q>
 			</p>
-			<p>"<q>We agree with the advocates of birth control that no world peace is possible without
-				a reduction of the birth rate and immediate action toward its international
-				accomplishment.</q>"</p>
-			<p><q who="MCI">A bill legalizing dissemination of birth control information will be introduced at
-				the next session of the <org reg="New York State Legislature">legislature</org>.</q></p>
-=======
-					from studying social condition in <place>Europe</place>, bore the following
-					message to American women from European scientists, diplomats and
-					economists:</q>
-			</p>
-			<p>"We agree with the advocates of birth control that no world peace is possible without
-				a reduction of the birth rate and immediate action toward its international
-				accomplishment."</p>
-			<p>
-				<q who="MCI">A bill legalizing dissemination of birth control information will be
+			<p>"<q>We agree with the advocates of birth control that no world peace is possible
+					without a reduction of the birth rate and immediate action toward its
+					international accomplishment.</q>"</p>
+			<p><q who="MCI">A bill legalizing dissemination of birth control information will be
 					introduced at the next session of the <org reg="New York State Legislature"
-						>legislature</org>.</q>
-			</p>
->>>>>>> origin/master
+						>legislature</org>.</q></p>
 		</div>
 		<div type="section">
 			<head>ADVOCATES OF BIRTH CONTROL OPEN FIGHT FOR CHANGE IN LAW</head>
@@ -118,48 +78,29 @@
 					black cloth gown edged with fur at the throat and a close-fitting turban of ecru
 					and black feathers.</q>
 			</p>
-<<<<<<< HEAD
-			<p>"<q>I understood,</q>" <q who="BDE">she said,</q> "<q>that a scientific contraceptive has been
-				invented in <place>Germany</place> which would solve the problem for all time. I did not find it,
-				but I got in touch with scientists in <place>Germany</place>, <place
-					reg="Netherlands, the">Holland</place> and <place>England</place>, and owing to
-				communications established between these countries I believe such an ideal thing
-				will be here, possibly within the year, for our benefit.</q>"</p>
-			<p>"<q>The time has come to apply fundamentals to the world's wounds. Birth control is the
-				step which we must take to ensure world peace. Women who continue to produce
-				explosive populations will make all pledges of peace between nations become so many
-				scraps of paper.</q>"</p>
-			<p>"<q>Birth control is not a new idea. It is as old as Nature itself. Nature has used famine
-				and pestilence and disease to wipe out the unfit. But today we protect the unfit in
-				our hospitals and seek to use science rather than Nature's cruel method. Today,
-				because we have checked Nature's method and are not using the scientific method of
-				birth control the world is in a condition of congestion, misery and poverty.</q>"</p>
+			<p>"<q>I understood,</q>" <q who="BDE">she said,</q> "<q>that a scientific contraceptive
+					has been invented in <place>Germany</place> which would solve the problem for
+					all time. I did not find it, but I got in touch with scientists in
+						<place>Germany</place>, <place reg="Netherlands, the">Holland</place> and
+						<place>England</place>, and owing to communications established between
+					these countries I believe such an ideal thing will be here, possibly within the
+					year, for our benefit.</q>"</p>
+			<p>"<q>The time has come to apply fundamentals to the world's wounds. Birth control is
+					the step which we must take to ensure world peace. Women who continue to produce
+					explosive populations will make all pledges of peace between nations become so
+					many scraps of paper.</q>"</p>
+			<p>"<q>Birth control is not a new idea. It is as old as Nature itself. Nature has used
+					famine and pestilence and disease to wipe out the unfit. But today we protect
+					the unfit in our hospitals and seek to use science rather than Nature's cruel
+					method. Today, because we have checked Nature's method and are not using the
+					scientific method of birth control the world is in a condition of congestion,
+					misery and poverty.</q>"</p>
 		</div>
 		<div>
-			<head type="sub">Problem of Congestion.</head>	
+			<head type="sub">Problem of Congestion.</head>
 			<p>"<q>Scientists, diplomats, statesmen and reformers--we are disappointed in them all.
-				There is not a nation today which is not dissatisfied with its government. We must
-				attack this problem of congestion fundamentally.</q>"</p>
-=======
-			<p>"I understood," <q who="BDE">she said.</q> "that a scientific contraceptive has been
-				invented in Germany which would solve the problem for all time. I did not find it,
-				but I got in touch with scientists in <place>Germany</place>, <place
-					reg="Netherlands">Holland</place>, and <place>England</place>, and owing to
-				communications established between these countries I believe such and ideal things
-				will be here, possibly within the year, for our benefit."</p>
-			<p>"The time has come to apply fundamentals to the world's wounds. Birth control is the
-				step which we must take to ensure world peace. Women who continue to produce
-				explosive populations will make all pledges of peace between nations become so many
-				scraps of paper."</p>
-			<p>"Birth control is not new idea. It is as old as Nature itself. Nature has used famine
-				and pestilence and disease to wipe out the unfit. But today we protect the unfit in
-				our hospitals and seek to use science rather than Nature's cruel method. Today,
-				because we have checked Nature's method and are not using the scientific method of
-				birth control the world is in a condition of congestion, misery and poverty."</p>
-			<p>"Scientists, diplomats, statesmen and reformers--we are disappointed in them all.
-				There is not a nation today which is not dissatisfied with its government. We must
-				attack this problem of congestion fundamentally."</p>
->>>>>>> origin/master
+					There is not a nation today which is not dissatisfied with its government. We
+					must attack this problem of congestion fundamentally.</q>"</p>
 			<p>
 				<q who="BDE">About three-fourths of the audience left at the conclusion of Mrs.
 					Sanger's speech.</q>
