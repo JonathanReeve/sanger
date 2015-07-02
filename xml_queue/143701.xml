@@ -27,7 +27,7 @@
 			<name id="PAITH">Paine, Thomas</name>
 			<name id="PLA">Plato</name>
 			<name id="ARI">Aristotle</name>
-			<name id="ZEN">Zenophon</name>
+			<name id="XEN">Xenophon</name>
 			<name id="CICMA">Cicero, Marcus Tullius</name>
 			<name id="TERQU">Tertullian, Quintus Septimus</name>
 			<name id="AUG">Augustine (St.)</name>
@@ -510,7 +510,7 @@
 					reg="Roman Empire">Rome</org>, whose opinions are supported by authorities from
 				the <title type="book">Bible</title> and which, I trust, will fully exculpate me
 				from the charge upon the record.</p>
-			<p><person>Plato</person>, in his plan for a <title type="book">Republic</title> (a
+			<p><person reg="Plato (Greek)">Plato</person>, in his plan for a <title type="book">Republic</title> (a
 				volume which may be purchased at <org>Brentano's</org> on Fifth Ave and sent through
 				the U.S. Mails to your address for the sum of $2.00) says, in part:-</p>
 			<p>"<q who="PLA">The longer a tyrant lives, the more tyrannical humor increases in him,
@@ -518,16 +518,16 @@
 					"<q who="PLA">The ordinary course they took with tyrants in Greece was to
 					dispatch them secretly, if there was no opportunity of expelling them by
 					accusations before the citizens</q>".</p>
-			<p><person>Aristotle</person> also says:-"<q who="ARI">Tyranny is against the law of
+			<p><person reg="Aristotle (Greek)">Aristotle</person> also says:-"<q who="ARI">Tyranny is against the law of
 					human society, in which human nature is preserved.</q>"</p>
-			<p><person>Zenophon</person> says:-"<q who="ZEN">The Grecians would not allow murderers
+			<p><person reg="Xenophon (Greek)">Zenophon</person> says:-"<q who="XEN">The Grecians would not allow murderers
 					to come into their temples yet in those very temples they erected statues to
 					those who killed tyrants thinking their deliverers fit companions for their
 					gods.</q></p>
 			<p>Then there is that beautiful book on <gap extent="four words" reason="illegible"/>
 				written by <gap extent="two words" reason="illegible"/> the great <unclear>scholar
 					and prophet</unclear> of freedom.</p>
-			<p> Cicero, in extolling the assassination of <person reg="Julius Caesar"
+			<p> <person reg="Cicero, Marcus Tullius (Roman)">Cicero</person>, in extolling the assassination of <person reg="Julius Caesar (Roman)"
 					>Caesar</person> says:-"<q who="CICMA">What act, O <name type="deity"
 						>Jupiter</name>, more glorious; more worthy of eternal memory hath been
 					done, not only in this city but in the whole world. All good men killed Caesar.
@@ -536,11 +536,11 @@
 			<p><person>Tertullian</person>:- (who was one of the Fathers of the Church, says) "<q
 					who="TERQU">Against common enemies and those who are enemies of the
 					commonwealth, every man is a soldier.</q>"</p>
-			<p><person reg="Augustine (St.)">St. Augustine</person> says:- "<q who="AUG">Is it not incongruous that the
-					laws of Nature and society as well permit a man to kill a thief if he be found
-					breaking into his house at night and that a tyrant who is a common robber of
-					mankind, to whom nothing is sacred, and whom no law can bind, should be
-					considered inviolable.</q>"</p>
+			<p><person reg="Augustine (St.)">St. Augustine</person> says:- "<q who="AUG">Is it not
+					incongruous that the laws of Nature and society as well permit a man to kill a
+					thief if he be found breaking into his house at night and that a tyrant who is a
+					common robber of mankind, to whom nothing is sacred, and whom no law can bind,
+					should be considered inviolable.</q>"</p>
 			<p>I will conclude with an approval of <del>tyrannists</del> assassination written by
 				Theodore Roosevelt in his "<title type="book">Life of Cromwell</title>" published by
 					<add>Scribner &amp; Son</add>Quote. . . . . </p>

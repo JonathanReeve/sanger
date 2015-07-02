@@ -12,13 +12,15 @@
 		</docAuthor>
 		<docDate value="1929-04-30">30 Apr 1929</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on New Birth Control
-				Formula</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on New Birth Control Formula</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp422050</idno>
 		<sourceDesc>
 			<bibl><title type="article"> Mrs. Sanger Tells About New Birth Control Drive</title>,
-					<title type="journal">The San Bernardino County Sun</title>, May 15 1936, p. 3</bibl>
+					<title type="journal">The San Bernardino County Sun</title>, May 15 1936, p.
+				3</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -34,51 +36,60 @@
 		<head>Mrs. Sanger Tells About New Birth Control Drive</head>
 		<byline>by Frederick C. Othman</byline>
 		<dateline>
-			<place reg="Washington,DC"> WASHINGTON</place>, <date value="1936-05-14">May
+			<place reg="Washington, DC"> WASHINGTON</place>, <date value="1936-05-14">May
 			14</date>.--</dateline>
 		<p/>
 
-		<p><q who="SBCS"> Mrs. Margaret Sanger gave us a cookie today, a dish of
-				raspberry ice and all the latest news concerning birth control.</q></p>
+		<p>
+			<q who="SBCS"> Mrs. Margaret Sanger gave us a cookie today, a dish of raspberry ice and
+				all the latest news concerning birth control.</q>
+		</p>
 		<p>
 			<q who="SBCS"> The idea now is to tell here as much as possible about developments in
 				birth control circles and yet not enough to get either Mrs. Sanger or ourself
 				jailed. The law is tricky (Mrs. Sanger says it's foolish), the developments are of
-				world-wide importance- and prison doors are yawning. Woe is us!</q></p>
+				world-wide importance- and prison doors are yawning. Woe is us!</q>
+		</p>
 		<p>
 			<q who="SBCS"> The newest thing in birth control (Mrs. Sanger said) is a chemical
 				formula, with rice flour as its basic ingredient. After fighting for 20 years in a
 				vain effort to liberalize American birth control laws, Mrs. Sanger recently took her
 				formula to <place>Japan</place>, <place> China</place>, and
-				<place>India</place>.</q></p>
+				<place>India</place>.</q>
+		</p>
 		<div>
 			<head> DEVELOPED IN FLORIDA</head>
 			<p> "I was welcomed in those countries," <q who="SB"> she said, recalling the almost
 					innumerable times she has been arrested in the <place>United States</place>.</q>
-				"The governments in the <place reg="Asia">East</place> were interested and the physicians were
-				enthusiastic."</p>
+				"The governments in the <place reg="Asia">East</place> were interested and the
+				physicians were enthusiastic."</p>
 			<p>
-				<q who="SBCS"> The new contraceptive was developed by Mrs. Sanger's technicians in 
+				<q who="SBCS"> The new contraceptive was developed by Mrs. Sanger's technicians in
 						<place>Florida</place>, where there are no state laws banning birth control
 					information. It underwent extended tests there, she said and worked perfectly.
 					She has not broadcast the formula in this country yet, but intends to soon,
 					maybe even in <place> Connecticut</place>, where the use of contraceptives is
 					illegal, and in <place> Mississippi</place>, where it is against the law for a
 					physician to give a patient information about birth control under any
-					circumstances.</q></p>
+					circumstances.</q>
+			</p>
 			<p> "The fine thing about this new formula," <q who="SB"> Mrs. Sanger continued,</q> "is
 				that it will not cost more than 35 cents for a whole year's supply. The big trouble
 				with present day birth control devices is their expense. They are to costly for poor
 				people to afford. They have babies instead." </p>
-			<p><q who="SBCS"> Mrs. Sanger said meantime that the laws, both Federal and state, were
-					being evaded throughout the country.</q></p>
+			<p>
+				<q who="SBCS"> Mrs. Sanger said meantime that the laws, both Federal and state, were
+					being evaded throughout the country.</q>
+			</p>
 			<p> "contraceptive devices now are sold not only in drug store," <q who="SB"> she
 					said,</q> "but in filling stations and news stands. It is a sorry
 				situation."</p>
-			<p><q who="SBCS"> The fact that the <org reg="American Medical Association"> American
+			<p>
+				<q who="SBCS"> The fact that the <org reg="American Medical Association"> American
 						Medical association </org> at its convention in <place reg="Kansas City, MO"
 						>Kansas City</place> turned thumbs down on widespread dissemination of birth
-					control information makes it even sorrier, she added.</q></p>
+					control information makes it even sorrier, she added.</q>
+			</p>
 		</div>
 		<div>
 			<head>'SHORT SIGHTED'</head>
@@ -93,7 +104,8 @@
 			<p>
 				<q who="SBCS"> She told us some other things too, but Mrs. Sanger wants to stay out
 					of prison as much as we do. So that's all we can tell about developments in the
-					birth control world until-and if-the laws are amended. </q></p>
+					birth control world until-and if-the laws are amended. </q>
+			</p>
 
 		</div>
 	</docBody>

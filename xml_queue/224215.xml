@@ -27,7 +27,7 @@
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="LATLE">Latz Leo</name>
+			<name id="LATLE">Latz Leo J.</name>
 			<name id="CRAFR">Crane, Frederick </name>
 			<name id="AMAOGAS">American Medical Association, Obstetrical, Gynecology and Abdominal
 				Surgery Section</name>
@@ -36,7 +36,8 @@
 			<name id="NMAS">New Masses</name>
 		</respStmt>
 	</mepHeader>
-	<headNote><p>A subtitle added by the editor reads: "<q who="NMAS"><emph rend="italics">A veteran
+	<headNote>
+		<p>A subtitle added by the editor reads: "<q who="NMAS"><emph rend="italics">A veteran
 					crusader for birth control reflects on the campaign in terms of the medical
 					association's action</emph></q>.</p>
 		<index level1="Catholic church"/>
@@ -77,7 +78,7 @@
 			and courage came first. Support from leading religious denominations soon followed. Even
 			the <org reg="Roman Catholic Church">Catholic Church</org>, previously the outstanding
 			enemy of birth control, was forced to recognize the need for family limitation when it
-			sponsored the rhythm, or so-called safe period, method. Dr. <person reg="Latz, Leo">Leo
+			sponsored the rhythm, or so-called safe period, method. Dr. <person reg="Latz, Leo J.">Leo
 				Latz</person>'s book, <title type="book">The Rhythm</title>, which carries on its
 			fly-leaf the phrase "<q who="LATLE">Published With Ecclesiastical Approbation,</q>"
 			gives reasons for family limitation which agree point for point with those advocated in

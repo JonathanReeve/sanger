@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
+		<prepDate>2015-06-10 CH proofread tags</prepDate>
+		<prepDate>2015-06029 CH enter corrected tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1922-07-12">12 Jul 1922</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Press Statement at Fifth International Neo-Malthusian and
+					Birth Control Conference</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422073</idno>
+		<sourceDesc>
+			<bibl><title type="article">American Males Bad Influences</title>, <title type="journal"
+					>Morning Tulsa Daily World</title>, July 12, 1922, p. 7</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="MTDW">Morning Tulsa Daily World</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="men" level2="and birth control"/>
+		<index level1="men" level2="and family size"/>
+		<index level1="men" level2="reproductive choices and decisions"/>
+		<index level1="birth control movement"/>
+		<index level1="birth control movement" level2="American"/>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="Japan" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>AMERICAN MALES BAD INFLUENCES</head>
+		<dateline>
+			<place reg="London, England">LONDON</place>, <date value="1922-07-11">July
+			11</date>.--</dateline>
+		<p>"American husbands are just big babies so far as the welfare of their wives is concerned,
+			and therefore most of the converts to birth control are influenced in their decisions by
+			the deleterious effect of large families upon the health of their wives," <q who="MTDW">
+				Margaret Sanger, of <place reg="New York, NY"> New York</place>, <place
+					reg="United States"> America's</place> chief exponent of limitation of births,
+				told the <org reg="International Neo-Malthusian and Birth Control Conference, 5th">
+					International Birth Control conference</org> today. </q></p>
+		<p>
+			<q who="MTDW"> Mrs. Sanger, who has just returned from a tour of <place>China</place>
+				and <place>Japan</place> said that her Oriental trip had been a great success. The
+				only opposition she encountered, she said, was from the military officials in Japan
+				and the supporters if the Japanese military party.</q>
+		</p>
+		<p>"The Japanese military men want a large population for cannon fodder for the war which I
+			am convinced is coming," <q who="MTDW"> continued the birth control leader.</q> "It is
+			necessary for Japan to find an outlet for her growing population. Everyone in Japan
+			talks war. It is obvious why the military men, who are already making preparations for
+			this war, want large families."</p>
+		<p>
+			<q who="MTDW"> Others participating in the conference include <person reg="Wells, H. G."
+					>H. G. Wells</person>, the novelist; <person reg="Keynes, John Maynard">John
+					Maynard Keynes</person>, British economic expert; Dr. <person
+					reg="Hart, Hornell"> Hornell Hart</person>; Professor <person
+					reg="Whiting, Lyman">Whiting</person> of the <org>University of Iowa</org> and
+					<person reg="Winsor,
+				Mary">Mary Winsor</person> of <place
+					reg="Philadelphia, PA">Philadelphia</place>.</q>
+		</p>
+	</docBody>
+</doc>

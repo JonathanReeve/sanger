@@ -1,54 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
-<doc type="Published Article">
+<doc type="Published Speech">
 	<mepHeader>
-		<prepDate>2015-05-20 LH input </prepDate>
-		<prepDate> CH 2015-05-21 proof tags</prepDate>
-		<prepDate> 2015-05-21 LH corrections </prepDate>
-		<prepDate>2015-05-27 CH cleaned up more</prepDate>
+		<prepDate>2015-05-27 MC encoded and transcribed</prepDate>
+		<prepDate>2015-05-29 CH proof tags</prepDate>
+		<prepDate>2015-06-09 MC correct tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1921-11-15">15 Nov 1921</docDate>
+		<docDate value="1922-01-10">
+			<supplied resp="MSPP">10 Jan 1922</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart>Letter to the Editor of the New York Times</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Over-Population</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp422081</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The New York Times</title>, Nov. 19, 1921, p. 12</bibl>
+			<bibl><title type="article">Mrs. Sanger on Birth Control</title>, <title type="journal"
+					>Reading Times</title>, Jan. 11, 1922, p 2</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name/>
+			<name id="RT">Reading Times</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="Birth Control Clinical Research Bureau" level2="raid"/>
-		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
-		<index level1="birth control" level2="arrests, trials and imprisonment"/>
+		<p>Sanger also gave this speech at an afternoon meeting on Jan. 10th at the residence of
+			Mrs. A.D. Nelson. The evening speech was sponsored by the Labor Lyceum.</p>
+		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="child labor"/>
 	</headNote>
 	<docBody>
-		<head>Mrs. Sanger's Opinion</head>
-		<p> To the Editor of the <title type="journal">New York Times</title></p>
-		<p>In your editorial this morning, Nov. 15, you criticize the action of the birth control
-			advocates who were arrested Sunday night at the <org reg="Town Hall">Town Hall</org> for
-			not obeying the police when they told them to leave the hall. You further state that
-			there is a legal way to adjust these matters, and that one has redress in the
-			courts.</p>
-		<p> Do you realize in making such statements that they are inconsistent with the facts of
-			the case? Do you realize that the <person reg="Gaine, Thomas">officer</person> who
-			placed me under arrest had absolutely no right or reason to enter that hall and to
-			prohibit my addressing an audience? This was verified by the dismissal f the case before
-			the <person reg="Corrigan, Joseph E."> Judge</person> the following morning.</p>
-		<p> Had I left the hall in obedience to the deputy command. I would have had nothing upon
-			which to go into the courts for a decision. It was necessary for the deputy to make an
-			arrest in order to get a right interpretation of the law in this case.</p>
-		<p> I think your criticism of our meeting was very unjust and does not stand at all for the
-			principle of right which is the essential thing that this <org
-				reg="United States Government">Government </org> is based upon.</p>
-		<signed>Margaret Sanger</signed>
-		<dateline>
-			<place reg="New York, NY"> New York </place>, <date> Nov. 15, 1921</date>. </dateline>
+		<head>Mrs. Sanger on Birth Control</head>
+		<p>
+			<q who="RT">Mrs. Margaret Sanger made two addresses in <place reg="Reading, PA"
+					>Reading</place> yesterday on "birth control." The first was of a semi-private
+				nature. The second was open to all. </q>
+		</p>
+		<p>
+			<q who="RT">A goodly company of women gathered in the afternoon at the residence of
+					<person reg="Nelson, Mary B.">Mrs. A. D. Nelson</person>, 1025 Fairview avenue,
+				Wyomossing, to hear Mrs. Margaret Sanger.</q>
+		</p>
+		<p>"This is what we call an organization meeting," <q who="BT">she said in opening. It seems
+				to me from the interest that has been shown here in Reading at the three previous
+				meetings that there is a great deal of interest in the subject of birth
+			control.</q></p>
+		<p>"We come here, and we have large overflowing meetings, and then we go away and there is
+			nothing left and nothing done. It is not just right to arouse interest in a great cause
+			like this without following it up with some further steps, practical knowledge and
+			setting minds straight toward the right goal of idealism.</p>
+		<p>"The whole subject of this movement is to direct the forces of motherhood in the right
+			direction. We not only want to control birth and to decrease the quantity among the
+			unfit and the diseased and the poor, but we also want to improve the quality of the
+			human race. Let us never forget that we have a two-fold object in this work. </p>
+		<p>"It is going to be the object of the <org>American Birth Control League</org> to
+			formulate and establish birth control clinics throughout this country. We want to go
+			into the south where in those states the white people are numerous and in many ways more
+			badly treated than the colored people.</p>
+		<div>
+			<head type="sub">Oppose Child Labor</head>
+			<p>"We want to go into these states in which child labor still exists, and we want to
+				make child labor an unnecessary thing in these states within a very few years. We
+				are going to do that, not by passing laws against child labor, which are prolific.
+				We are going to give those mothers instruction in means of preventing conception, so
+				that the mother will not have more children than she can take care of. We want to go
+				into the industrial sections of every state in this nation and organize the interest
+				that is already there. </p>
+			<p>"Now we do not want to do it from outside. We want the aid of those members of the
+				community who are in sympathy with us, who believe in birth control, and who believe
+				that the application of this information when directed properly will be a good thing
+				for that community."</p>
+			<p>
+				<q who="RT">Mrs. Sanger claims that her plan will reduce the infant mortality rate,
+					as the mother will have only the number of children she can take care of, first
+					accordance with the mother's health, second in accordance with the father's
+					income. She also says it will encourage young people to marry earlier, to work
+					together, to consider the responsibilities of parenthood before they bring a
+					child into the world. It will automatically reduce prostitution and venereal
+					diseases, as it has done in <place reg="Netherlands">Holland</place> and
+						<place>New Zealand</place> and in countries where there has been organized
+					effort to give instruction in birth control.</q>
+			</p>
+		</div>
+		<div>
+			<head type="sub">Branch Organized</head>
+			<p>
+				<q who="RT">Prominent local people showed their interest in the subject of birth
+					control by forming a branch of the American Birth Control League at the home of
+					Mrs. Nelson, Wyomissing. A <org
+						reg="Berks Country Birth Control Federation">temporary organization</org>
+					was formed which will be followed by a month of educational work after which a
+					permanent organization will be formed with the purpose of establishing clinics
+					in Reading to instruct parents in this subject.</q>
+			</p>
+			<p>
+				<q who="RT">Rev.<person reg="Williams, L. Griswold"> L. Griswold Williams</person>
+					pastor of the <org>Universalist Church of Our Father</org>, was elected
+					president of the temporary organization. The other officers are: Vice president,
+					Mrs. <person reg="Welfy, Ella A.">Ella Welfy</person>; recording secretary, Mrs.
+						<person reg="Stuber, Adda J.">Raymond Stuber</person>; executive secretary,
+					Mrs. A.D. Nelson; treasurer, <person reg="Nelson, Albert D.">A.D.
+						Nelson</person>.</q>
+			</p>
+			<p>
+				<q who="RT">The organization will conduct its work along educational lines for
+					community betterment until Monday, Feb. 6, when a public meeting will be held at
+					which time the permanent organization will be formed. Mayor <person
+						reg="Stauffer, John">Stauffer</person>, who has shown interest in work along
+					the lines of medical help, was present at the meeting yesterday.</q>
+			</p>
+		</div>
+		<div>
+			<head type="sub">The Evening Meeting</head>
+			<p>
+				<q who="RT">Rev. Mr. Williams opened the public meeting in <org>Odd Fellows
+						hall</org> last night at which Mrs. Sanger was the speaker. Mr. Williams
+					stated that as representative of a liberal Christian church he could heartily
+					approve of the movement as a deeply religious and essentially moral
+					movement.</q>
+			</p>
+			<p>
+				<q who="RT">Mrs. Sanger, who was in Reading before and drew large audiences, was
+					well received by the audience which completely filled the auditorium and
+					balconies. She explained the purposes of the league and the necessity for birth
+					control. Then she told of the arguments used by those opposed to the movement
+					and refuted them.</q>
+			</p>
 
+		</div>
 	</docBody>
 </doc>

@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014-05-02 JK initial tags</prepDate>
 		<prepDate>2015-04-08 CH check tags again</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1947-01-07">07 Jan 1947</docDate>
 		<docTitle>
 			<titlePart>
@@ -15,7 +17,7 @@
 		<sourceDesc>
 			<bibl>Sripati Chandrasekhar Papers, Ward M. Canady Center for Special Collections,
 				University of Toledo.</bibl>
-			
+
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -23,7 +25,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This document was likely written by Sanger, despite the title. No final version was found.</p>
+		<p>This document was likely written by Sanger, despite the title. No final version was
+			found.</p>
 		<index level1="Gandhi, Mohandas K."/>
 		<index level1="India" level2="MS on"/>
 		<index level1="India" level2="population policies of"/>
@@ -60,7 +63,7 @@
 			forthright honesty. </p>
 
 		<p>At the Conference three Catholic European women missionaries in India wanted to walk out
-			of the conference. Her <person reg="Bayi, Setu Parvati">Highness the Maharani of <person
+			of the conference. Her <person reg="Bayi, Sethu Parvathi">Highness the Maharani of <person
 					reg="Travancore, India">Travancore</person></person> was upset but the Birth
 			Control Resolution was passed and the Catholic women who never married and never
 			understood walked out. </p>
@@ -107,9 +110,10 @@
 				>Kipling</person> sang about. he is perhaps one of the few great minds who
 			understands both the East and the West.</p>
 
-		<p><place reg="Soviet Union">Russia</place> devised the method of injecting the woman once every six months and
-			rendering them temporarily sterile. Didn’t really work out though. I was told in Russia
-			it was working with Russian women at that time. I brought the formula but it failed. </p>
+		<p><place reg="Soviet Union">Russia</place> devised the method of injecting the woman once
+			every six months and rendering them temporarily sterile. Didn’t really work out though.
+			I was told in Russia it was working with Russian women at that time. I brought the
+			formula but it failed. </p>
 		<p>Shall be glad to donate some money if some Indian biochemist would like to pursue
 			research in evolving a simple foolproof and indigenous contraceptive for Indian women. </p>
 

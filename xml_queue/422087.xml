@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+	<mepHeader>
+		<prepDate>2015-05-28 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-29 CH proof tag</prepDate>
+		<prepDate>2015-06-09 LH entered corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1933-02-16">16 Feb 1922</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Letter to the Brooklyn Daily Eagle</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422087</idno>
+		<sourceDesc>
+			<bibl><title type="article">Margaret Sanger Comments On Our 'Overabundance'</title>,
+					<title type="journal">The Brooklyn Daily Eagle</title>, Feb. 16, 1922, p.
+				16</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE">The Brooklyn Daily Eagle</name>
+			<name id="BLEWI">Blehl, William A.</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control laws and legislation" level2="Congressional Bills"/>
+		<index level1="birth control movement" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>Margaret Sanger Comments On Our 'Overabundance'</head>
+		<p>"Editor Brooklyn Daily Eagle:"</p>
+		<p>"In your issue of <date value="1933-02-13">Feb. 13</date> a letter from Mr. <person
+				reg="Blehl,
+			William A.">William A. Blehl</person> needs correction.</p>
+		<p>"The birth control bill S.4436 aims to allow physicians, hospitals and clinics only to
+			use the <place reg="United States">U.S.</place> mails and common carriers to send and
+			receive such contraceptive articles, books and supplies as are needed."</p>
+		<p>"It is an error to say the bill aims to reduce the population to overcome the present
+			economic condition. The fact of the matter is that the passage of this bill would
+			decrease tremendous misery, worry and anxiety in the lives of the poor mothers who go to
+			hospitals and clinics for their medical advice, because they can seldom afford to
+			consult a private doctor." </p>
+		<p>"Mr. Blehls's childish announcement,<q who="BLEWI">there is an overabundance of food
+				supplies and a further depletion of and a further depletion in population would only
+				result in a still more overabundance</q> does not ring true. If there is an
+			overabundance of food what good does it do the millions of hungry men and women walking
+			the streets looking for jobs to buy it?"</p>
+		<p>"Large populations have not thus far in the history of mankind done more for civilization
+			then plunge humanity into wars, hunger, disease, plunder, and crime. To talk nonsense at
+			this time, with the economic facts of history before us is not only an expression of
+			ignorance-- it is malicious! Let those who want a big population make it possible for
+			every child born and alive today to have a chance to live before they pratter about
+			'overabundance' and increase.'" </p>
+		<signed>MARGARET SANGER Nat. Chairman, <org
+				reg="National Committee on Federal Legislation for
+			Birth Control"
+				>N.C.F.L.B.C.</org></signed>
+		<dateline><place reg="New York, NY">New York</place>,<date value="1933-02-20">Feb.
+			16</date></dateline>
+	</docBody>
+</doc>

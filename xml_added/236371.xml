@@ -4,82 +4,114 @@
 	<mepHeader>
 		<prepDate>2014-12-19 LF</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-06-25 CH proof tags and enter</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-11-06">6 Nov 1923</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Milwaukee Open Forum Notes</supplied>
+				<supplied resp="MSPP">Speech Notes for the Milwaukee Open Forum</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236371</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection,Smith College</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:1023</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:1023</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name/>
+			<name id="HUGVI">Hugo, Victor</name>
+			<name id="PERI">Pericles</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger used these notes for a speech at an evening meeting of the <org>Milwaukee Open Forum</org> on
-			November 6, 1923 at Junea Hall, <org>Milwaukee Auditorium</org>, 5th Street at Kilborun, <place reg="Milwaukee, WI">Milwaukee,
-			Wisconsin</place> 53202.</p>
-		<index level1="xxxx"/>
+		<p>Sanger used these notes for a speech at an evening meeting of the <org>Milwaukee Open
+				Forum</org> on November 6, 1923 at Junea Hall, <org>Milwaukee Auditorium</org>, 5th
+			Street at Kilborun, Milwaukee, Wisconsin.</p>
+		<index level1="birth control" level2="socio-economic benefits"/>
 	</headNote>
 	<docBody>
-		<head>Milwaukee</head>
+
 		<dateline>
+			<place reg="Milwaukee, WI">Milwaukee</place>
+			<lb/>
 			<date value="1923-11-06">Nov 6--1923</date>
 		</dateline>
-		<p/>
-		<p><person reg="Hugo, Victor">Victor Hugo</person> says "There is no force in the world like that of an <emph rend="underline"
-				>idea</emph> whose hour has come."</p>
-		<p>B.C has come to solve mothers</p>
-		<p><add>Conflict</add> Intelligence <unclear>us</unclear> reproduction - all lower species
-			as they ascend ___ Evolution &plus; become more intelligent agents to reproduce so
-			abundantly the</p>
-		<p>Responsible parenthood signs of intelligence</p>
-		<p>Excessive races cared not wait so infanticide &plus; abortion</p>
-		<p>prevailed Savagery, Barbarianism &plus; Early Civilization</p>
-		<p><person reg="Sutherland, ?">Sutherland</person>s remarks an origin &plus; growth of</p>
-		<p>Read Moral Instinct</p>
-		<p>This for the biological aspect! <add>Will to do few children</add> Not for the</p>
-		<p>Racial, Social &plus; Individual</p>
-		<p><add>Conflict</add><del>Population</del><add>reproduction</add> us subistentive theory
-			constant pressure of population against measure substitute </p>
-		<p>population 2,48,16,32,64</p>
-		<p>food 2,4,6,8,10</p>
-		<p><person reg="Malthus, Thomas Robert">Malthus</person> lived in a world with no telephone, telegraph, locomotive, steamboat o0r motor
-			cars</p>
-		<p>Could not forsee improvements -nor doubled population</p>
-		<p>birthrate was lowered - population increased</p>
-		<p>50% interest on $1000 or @% on 1,000,000</p>
-		<p>Small population old countries overcrowded</p>
-		<p><place reg="United States">U.S.A.</place> <place>Canada</place> <place>China</place>, <place>India</place></p>
-		<p>Whole world overcrowded double population last century</p>
-		<p>intelligence, social &plus; Economic systems, equipment, houses, schools, poverty,
-			ignorances, slums, disease, wars</p>
-		<p>Malthus advocated late marriage &plus; cont__</p>
-		<p>B.C. Organization advocate Early marriage &plus; knowledge</p>
-		<p>Conscious control birthrate--not abortion or infanticide</p>
-		<p>Individual problem - health, economic, racial</p>
-		<p>4 Critical Stages adult life</p>
-		<p>1 adolscent--14-22--building, strong, energizing, women in l___</p>
-		<p>2 marriage, love life--adjustment, magnitizing, interetsing</p>
-		<p>3 motherhood, child life, sympathetic</p>
-		<p>4 menopause reflective, spiritualizing</p>
-		<p>B.C. will help adolescent live clean lives, Early Marriage</p>
-		<p>Married life--love life, 2 years, play, read, cultural - clued life--conceived love,
-			space bashes, 4 children</p>
-		<p> B.C. part married happiness</p>
-		<p>Causes for unhappiness in marriage--health or disease--maturity, flirt, giddy</p>
-		<p>Too early pregnancy, too frequent pregnancy, fear of pregnancy</p>
-		<p>Mans ignorance in art of love obligatory &plus; a violent meeting for men only</p>
-		<p>women's nature &plus; eccentricities, pregnancy &plus; disturbing influences, anxiety, sex
-			crimes, frigidity</p>
 
+		<p><person reg="Hugo, Victor">Victor Hugo</person> says "<q who="HUGVI">There is no force in
+				the world like that of an <emph rend="underline">idea</emph> whose hour has
+				come.</q>"</p>
+		<p>B.C has come to solve mothers</p>
+		<p><add>Conflict</add> Intelligence viz reproduction}all lower species as they ascend scale
+			Evolution &amp; become more intelligent agents reproduce so abundantly the</p>
+		<p>Responsible parenthood sign of intelligence</p>
+		<p>Excessive Races could not wait so infanticide &amp; abortion prevailed. Savagery,
+			Barbarism &amp; Early Civilization</p>
+		<p><person reg="Sutherland, Alexander">Sutherland</person>s remarks an <title type="book"
+				>origin &amp; growth of Moral Instinct</title>. <emph rend="underline">Read</emph>
+			<add>Well to do few children</add></p>
+		<p>This for the biological aspect! Now for the Racial, Social &amp; Individual</p>
+		<p><add>Conflict</add>
+			<del>Population</del><add>reproduction</add> viz subsistence} Malthus theory constant
+			pressure of population against means-subsistence.</p>
+		<p>population 2, 4, 8, 16, 32, 64</p>
+		<p>food 2, 4, 6, 8, 10</p>
+		<p><person reg="Malthus, Thomas Robert">Malthus</person> lived in a world with no telephone,
+			telegraph, locomotive, steam boat or motor cars could not foresee improvements--nor
+			doubled population birth rate has lowered--population increased.</p>
+		<p>50&percnt; interest on $1000 or 2&percnt; on 1,000,000</p>
+		<p>Small population.} old countries overcrowded</p>
+		<p><place reg="United States">U.S.A.</place>
+			<place>Canada</place>} <place>China</place>, <place>India</place></p>
+		<p>Whole world overcrowded double population last century} intelligence social &amp;
+			Economic systems equipment, houses, schools, poverty, ignorance, slums, disease,
+			wars</p>
+		<p>Malthus advocated late marriage &amp; continence.</p>
+		<p>B.C. Organization advocate Early marriage &amp; knowledge.</p>
+		<p>Conscious control birth rate--not abortion nor infanticide.</p>
+		<p>Individual problem} health, economic, racial</p>
+		<p> 4 Critical Stages adult life<list>
+				<item>1 adolscent--14-22--building, strong, <add>money in bank,</add>
+					energizing,</item>
+				<item>2 marriage, love life--adjustment, magnetizing, <unclear resp="MSPP"
+						>interesting</unclear></item>
+				<item>3 motherhood, child life, sympathetic</item>
+				<item>4 menopause reflective, spiritualizing</item>
+			</list></p>
+		<p>B.C. will help adolescent live clean lives, Early Marriage</p>
+		<p>Married life} love life, 2 years, play, read, cultural--child life, conceived love, space
+			babies, 4 children</p>
+		<p> B.C. <emph rend="underline">pivot</emph> married happiness</p>
+		<p>Causes for unhappiness in marriage} health or disease--maturity, flirt, giddy.</p>
+		<p>Too early pregnancy, too frequent pregnancy, fear of pregnancy}</p>
+		<p>Mans ignorance in art of love-- Orangutang &amp; a violin. meeting for men only} womans
+			nature &amp; eccentricities. pregnancy &amp; disturbing influences, anxiety, sex curves,
+			frigidity--</p>
+		<p>mans nature simple &amp; direct womans complex.</p>
+		<p>clinics to help</p>
+		<p>When <emph rend="underline">not</emph> to have chidlren. 3 kinds of B.C.} continence
+			sterilization mechanical contraception</p>
+		<p><person reg="Epicurus (Greek)">Epicitus</person> said of <place reg="Athens, Greece"
+				>Athens</place> "<q who="PERI">The spring time went out of her year</q>."</p>
+		<p>58,432 letters. What do they ask? Church, Society, Science, no place for her. Push her
+			into <unclear resp="MSPP">wine</unclear>.</p>
+		<p><person reg="Dillingham, Della (fictional)">Della</person>s story <place
+				reg="Chicago, IL">Chicago</place>
+			<emph rend="underline">men helped</emph>.</p>
+		<p>Can b.c help these women} Chicago case high grade imbecile.</p>
+		<p>Western States Clinics--<name type="law" reg="United States Penal Code, Section 211"
+				>Federal law</name> Chicago, <place reg="Denver, CO">Denver</place>, <place
+				reg="Netherlands">Holland</place>, <place>Mexico</place>
+			<place>China</place>, <place>England</place>
+			<place reg="Vienna, Austria">Vienna</place>
+			<place>Iowa</place> Dollar</p>
+		<p>Womens Enslavement upon fruits of her womb has all been founded--} armies navies kingdoms
+			Oligarchies, Democracies--</p>
+		<p>She has made life cheap. Children by chance--now by choice.</p>
+		<p>Perfect bodies--beautiful as can be made. Temple of the Soul and a perfect instrument for
+			its use during its journey through <add>its various</add> stages <add>vicissitudes</add>
+			of material <add>development</add> existence.</p>
 	</docBody>
 </doc>

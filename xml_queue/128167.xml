@@ -40,7 +40,9 @@
 	</headNote>
 	<docBody>
 		<head>
-			<add><org>Hotel Brevoort</org></add>
+			<add>
+				<org>Hotel Brevoort</org>
+			</add>
 			<add>Maiden Speech</add>
 		</head>
 		<p>It seems to me that this evening and this gathering are significant and important, not
@@ -60,9 +62,9 @@
 			all of you are better able to cope with the subject than I am. I know that physicians
 			and scientists have a great technical fund of information--greater than I had on the
 			subject of family limitation.</p>
-		<p>THERE is nothing new, nothing radical in birth control. <person>Aristotle</person>
-			advocated it; <person>Plato</person> advocated it; all our great <del>and</del> modern
-			thinkers have advocated it!</p>
+		<p>THERE is nothing new, nothing radical in birth control. <person reg="Aristotle (Greek)"
+				>Aristotle</person> advocated it; <person reg="Plato (Greek)">Plato</person>
+			advocated it; all our great <del>and</del> modern thinkers have advocated it!</p>
 		<p>It is an idea that must appeal to any mature intelligence.</p>
 		<p><del>But</del>
 			<add>Yet</add> all this scientific and technical discussion has <add>only</add> had the
@@ -110,8 +112,8 @@
 			you consider and organize this interest.</p>
 		<p>THIS IS THE MOST NEXT IMPORTANT STEP AND ONLY IN THIS WAY CAN I BE VINDICATED!!</p>
 		<p>
-			<add>Let us put <place reg="United States">U S. of A</place> upon the map of
-				the civilized world!</add>
+			<add>Let us put <place reg="United States">U S. of A</place> upon the map of the
+				civilized world!</add>
 		</p>
 	</docBody>
 </doc>

@@ -5,6 +5,7 @@
 		<prepDate>2015-05-28 LH encoded and transcribed</prepDate>
 		<prepDate>2015-05-29 CH proof tags</prepDate>
 		<prepDate>2015-06-10 LH edits></prepDate>
+		<prepDate>2015-06-24 MC correct transcript</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -34,7 +35,11 @@
 			<q who="BDE"> Appearing remarkably fresh, despite what she described as a night long
 				fight against rats and vermin in the <org>Raymond Street Jail</org>, Mrs. Margaret
 				Sanger, the birth-control advocate whose <org reg="Brownsville Clinic">clinic</org>
-				at 46 Amboy street was raided yesterday and who was placed under arrest.</q>
+				at 46 Amboy street was raided yesterday and who was placed under arrest for
+				violating <name type="law" reg="New York State Penal Code, Section 1142">section
+					1-142 of the Penal Laws,</name> today voiced her defiance of the police and her
+				somewhat uncomplimentary opinion of Mrs. Margaret Whitehurst, the detective who
+				placed her under arrest.</q>
 		</p>
 		<p>
 			<q who="BDE"> Mrs. Sanger has just begun to fight, she says. As soon as the present

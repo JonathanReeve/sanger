@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2015-06-09 LH transcribed and encoded</prepDate>
+		<prepDate>2015-06-25 CH proofed tags and entered</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1932-05-12">
+			<supplied resp="MSPP">12 May 1932</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Comments on Senate Testimony on S. 4436</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422096</idno>
+		<sourceDesc>
+			<bibl><title type="article">Margaret Sanger Urges Law for Birth Control</title>, <title
+					type="journal">Indianapolis News</title>, May 12, 1932, p. 3</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="IN">Indianapolis News</name>
+			<name id="MCGED">
+				<person reg="McGrady, Edward F.">Edward F. McGrady</person>
+			</name>
+			<name id="FAIHE">
+				<person reg="Fairchild, Henry Pratt">Henry Pratt Fairchild</person>
+			</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>For Sanger's testimony, see <xref from="300446.xml">Testimony Before the United States
+				Senate on Senate Bill 4436</xref>, May 12, 1932.</p>
+		<index level1="birth control laws and legislation" level2="Congressional Bills"/>
+		<index level1="birth control laws and legislation" level2="Comstock  Laws"/>
+		<index level1="United States Congress" level2="Senate"/>
+	</headNote>
+	<docBody>
+		<head>MARGARET SANGER URGES LAW FOR BIRTH CONTROL</head>
+		<dateline><place>WASHINGTON</place>, <date value="1932-05-12">May 12</date> (<org
+				reg="Associated
+			Press">A.P.</org>)--</dateline>
+		<p>
+			<q who="IN">Margaret Sanger, internationally-known birth control advocate, today renewed
+				her fight against laws prohibiting dissemination of such information.</q>
+		</p>
+		<p>
+			<q who="IN">Appearing before a <org reg="United States Senate Judiciary Committee"
+					>senate judiciary</org> subcommittee, she urged approval of the bill by Senator
+					<person reg="Hatfield,
+				Henry D.">Henry D. Hatfield</person> (Rep. <place
+					reg="West Virginia">W. Va.</place>) to exempt physicians, hospitals, licensed
+				clinics and others in the medical fraternity from existing bans.</q>
+		</p>
+		<p>"These laws we are trying to amend are as archaic as they are ridiculous," <q who="IN">
+				she said.</q> "They are relics of an outworn concept of morality which tries to make
+			people moral by legislating against knowledge."</p>
+		<p>
+			<q who="IN"><person reg="McGrady, Edward F.">Edward F. McGrady</person>, of the
+					<org>American Federation of Labor</org>, presented a statement saying <person
+					reg="Green, William">William Green</person>, president of the federation,</q>
+			<q who="MCGED"> "does not feel that we can support this bill nor no we believe that we
+				will be able to support any bill that leaders of the church denounce as conducive to
+				bad morals and that does not receive the support of the medical profession of our
+				country."</q>
+		</p>
+		<p>
+			<q who="IN">Professor <person reg="Fairchild, Henry Pratt"> Henry P. Fairchild,</person>
+				of <place reg="New York, NY">New York</place>, told the committee the</q>
+			<q who="FAIHE">"main justification of the birth control movement is the human reason and
+				intelligence."</q>
+		</p>
+		<p>
+			<q who="IN">Professor <person reg="Bossard, James H. S.">James H. Bossard</person>, of
+					<place reg="Philadelphia, PA">Philadelphia</place>, endorsed the measure, as did
+				the following: Rabbi <person reg="Israel, Edward S.">Edward S. Israel</person> of
+					<place reg="Baltimore,
+				MD">Baltimore</place>; Dr. <person
+					reg="Klumpp, James S.">James S. Klumpp</person>, <place reg="Huntington, WV"
+					>Huntington, W. Va.</place>; Dr. <person reg="Stokes, John H.">John H.
+					Stokes</person>, <org>University of Pennsylvania</org>, and Dr. <person
+					reg="Zentay, Paul
+							J.">Paul J. Zentay</person>, <place reg="St. Louis, MO"
+					> St. Louis.</place></q>
+		</p>
+
+
+	</docBody>
+</doc>

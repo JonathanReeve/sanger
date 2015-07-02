@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+	<mepHeader>
+		<prepDate>2015-06-10 LH encoded and transcribed</prepDate>
+		<prepDate>2015-06-25 CH proof and enter tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1931-04-30">30 Apr 1931</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP"/>Brooklyn Assembly of Jewish Women Organizations
+				Address</titlePart>
+		</docTitle>
+		<idno>msp422048</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control Clinic Is Urged for Brooklyn</title>, <title
+					type="journal">Brooklyn Daily Eagle</title>, May 1, 1931, p. 21</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE">Brooklyn Daily Eagle</name>
+			<name id="PETDO">Petchesky, Dora D.</name>
+			<name id="MCGRI">McGoldrick, Rita Connell</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger's speech was not found; newspaper coverage was used instead.</p>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+	</headNote>
+	<docBody>
+		<head>Birth Control Is Urged For Brooklyn</head>
+		<div type="section">
+			<p>
+				<q who="BDE">A birth-control clinic for <place reg="Brooklyn, NY">Brooklyn</place>,
+					similar to that in <place reg="New York, NY">Manhattan</place>, was urged
+					yesterday by Mrs. Margaret Sanger, director of the New York clinic.</q>
+			</p>
+			<p>
+				<q who="BDE">Mrs. Sanger spoke of the need of the Brooklyn women, many of whom are
+					now being treated in Manhattan.</q>
+			</p>
+			<p>
+				<q who="BDE">Her address followed a meeting of the <org>Assembly of Jewish Women's
+						Organizations</org> at the <org>Union Temple</org>, 17 Eastern Parkway.</q>
+			</p>
+			<p>
+				<q who="PETDO">"We are planning to take the matter under consideration,"</q>
+				<q who="BDE">said <person reg="Petchesky, Dora D.">Mrs. Louis Petchesky </person>,
+					president of the organization.</q>
+			</p>
+			<p>
+				<q who="PETDO">"In our next meetings we are going to investigate the possibility of
+					starting such a clinic with our assistance."</q>
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub">Cites Church Action</head>
+			<p>"We won the greatest victory so far," <q who="BDE"> said Mrs. Sanger, remarking on
+					the recent victories of the movement,</q> "When the <org>Presbyterian General
+					Assembly</org> and the <org>Federal Council of Churches of Christ in <place
+						reg="United States">America</place></org> both issued statements favoring
+				birth control."</p>
+			<p>
+				<q who="BDE">Mrs. Sanger debated the question with <person
+						reg="McGoldrick, Rita Connell">Mrs. Thomas A. McGoldrick</person>, former
+					president of the <org>Catholic Alumnae Association</org>, who took the negative
+					side.</q>
+			</p>
+			<p>
+				<q who="BDE">The right to spiritual health and progress of women and of the family
+					was pointed out by Mrs. Sanger as she drew a picture of the early years of
+					married life.</q>
+			</p>
+			<p>"We owe to those starting out in life leisure in which to become acquainted, to make
+				as much as possible out of their marriage."</p>
+		</div>
+		<div type="section">
+			<head type="sub">'To Blunder Along'</head>
+			<p>"Instead we do what we would never do with a traveler in any other unknown country.
+				We send them out with no directions to blunder along as best they can."</p>
+			<p>
+				<q who="BDE">Too often, Mrs. Sanger thought, marriage means only parenthood. The
+					wife has no sooner left her girlhood behind than she finds herself a mother with
+					all a mother's cares.</q>
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub">Stresses Practical Side</head>
+			<p>
+				<q who="BDE">The practical side of birth control, she added, was purely a medical
+					one, which should be treated as an individual problem by properly qualified
+					persons.</q>
+			</p>
+			<p>
+				<q who="BDE">There are many, Mrs. Sanger believed, who should not have more or any
+					children. She said communicable disease and subnormal children as barriers.</q>
+			</p>
+			<p>
+				<q who="BDE">While she considers early marriage desirable, she does not believe that
+					a girl under 22 years or a boy under 25 should be parents.</q>
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub">Cites Intellectual Control</head>
+			<p>"The intellectual class, the artisan and skilled workmen all have a controlled birth
+				rate. Of their fewer children the greater majority grow to maturity and fill the
+				best places in society."</p>
+			<p>"It is from their pockets that the costs of maintaining the children who should never
+				have been born must come. We are today piling up huge debts fro our children and our
+				children's children to pay."</p>
+			<p>
+				<q who="BDE">Mrs. McGoldrick, mother of seven children, attacked the problem as that
+					of a citizen looking ahead.</q>
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub">More Buried than Born</head>
+			<p>
+				<q who="MCGRI">"America,"</q>
+				<q who="BDE">she said,</q>
+				<q who="MCGRI">"has become a decaying nation, burying more humans than it
+					produces."</q>
+			</p>
+			<p>
+				<q who="BDE"> She warned of an</q>
+				<q who="MCGRI">imminently serious social problem facing us"</q>
+				<q who="BDE">because of the widespread acceptance of birth control and she said the
+					so-called intellectual group is shunning children.</q>
+			</p>
+			<p>
+				<q who="BDE">Declaring her attitude was not entirely due to the dogmas of her
+					family, she asserted</q>
+				<q who="MCGRI">widespread birth control has a destructive influence and is tearing
+					down something tangible that should not be disturbed."</q>
+			</p>
+			<p>
+				<q who="BDE">Mrs. McGoldrick brought out the mingled joys and hardships of
+					parenthood and touched on the more practical side of the question.</q>
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub">Cites <place>France</place>, <place reg="Netherlands"
+				>Holland</place></head>
+			<p>
+				<q who="BDE">She spoke of the compensation which overshadowed the physical and
+					economic strain of a large family. No mother, she believed, would be willing to
+					part with one of her family, no matter how numerous it might be.</q>
+			</p>
+			<p>
+				<q who="MCGRI">"The problems of France and Holland,"</q>
+				<q who="BDE"> she said,</q>
+				<q who="MCGRI"> "both of which have had birth control, show what happens when a
+					country concurs in the movement."</q>
+			</p>
+			<p>
+				<q who="MCGRI"> "In France they are seriously worried over the drop in birth rate.
+					In Holland they have rescinded the ten-year-old law because of the spread of
+					disease and immortality and the grave drop in the birth rate."</q>
+			</p>
+			<p>
+				<q who="BDE">She also stated that birth control would open wide the door of</q>
+				<q who="MCGRI">"lack of control"</q>
+				<q who="BDE">to the youth of the nation.</q>
+			</p>
+			<p>
+				<q who="BDE">In answer to the point that many children were an unfair burden to the
+					poor, she explained that many were</q>
+				<q who="MCGRI">"gift-edged investments"</q>
+				<q who="BDE"> to them.</q>
+			</p>
+		</div>
+	</docBody>
+</doc>

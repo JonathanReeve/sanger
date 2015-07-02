@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published interview">
+	<mepHeader>
+		<prepDate>2015-11-13 MC transcribed and encoded</prepDate>
+<<<<<<< HEAD
+		<prepDate>2015-06-25 CH proof tags</prepDate>
+		<prepDate>2015-06-30 MC enter corrections</prepDate>
+		<prepDate>2015-07-02 EK correct proof and update index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1916-11-13">13 Nov 1916</docDate>
+=======
+		<prepDate>2015-06-25 CH proof tags</prepDate><prepDate>2015-06-30 MC enter corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1916-11-13">
+			<supplied resp="MSPP">13 Nov 1916</supplied>
+		</docDate>
+>>>>>>> origin/master
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the Brooklyn Daily Eagle</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422083</idno>
+		<sourceDesc>
+<<<<<<< HEAD
+			<bibl><title type="article">'Wide Open Again' Says Mrs. Sanger; Defies the
+=======
+			<bibl><title type="article">"Wide Open Again" Says Mrs. Sanger; Defies the
+>>>>>>> origin/master
+					Police</title>, <title type="journal">Brooklyn Daily Eagle</title>, Nov. 13,
+				1916, p. 3</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE">Brooklyn Daily Eagle</name>
+			<name id="BOYED">Boylan, Edward</name>
+			<name id="GOLJO">Goldstein, Jonah J.</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control clinics and leagues" level2="need for"/>
+<<<<<<< HEAD
+		<index level1="Brownsville Clinic"/>
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="New York" level2="birth control laws"/>
+		<index level1="birth control laws and legislation" level2="state"
+			level3="NYS Criminal Code, Section 1142"/>
+		<index level1="law breaking and direct action"/>
+		<index level1="Sanger, Margaret" level2="on jails and prisons"/>
+=======
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="New York" level2="birth control laws"/>
+>>>>>>> origin/master
+	</headNote>
+	<docBody>
+		<head>"WIDE OPEN AGAIN" SAYS MRS. SANGER; DEFIES THE POLICE</head>
+		<p>
+			<q who="BDE">Mrs. Margaret Sanger, the birth-control champion, who was arrested for a
+				violation of the <name type="law" reg="New York State Penal Code, Section 1142">
+					Penal law</name> in that she imparted birth-control knowledge to women, and
+				whose case has not yet been disposed of, bade defiance to the police and Section
+				1142 of the Penal law today by reopening her <org reg="Brownsville Clinic"
+					>clinic</org> at 46 Amboy Street. Mrs. Sanger is out on bail and now awaits
+				trial in the <org reg="Kings County Court of Special Sessions">Court of Special
+					Sessions</org>. Her defense is that any law forbidding the imparting of
+<<<<<<< HEAD
+				information on the subject of birth control is unconstitutional. So far, the <org
+					reg="King's County District Attorney">District Attorney's office</org> has not
+				specified whether she is under arrest on a charge of violating Section 1142 of the
+				Penal law or not. The failure to do so before <person reg="Steers, Alfred"
+					>Magistrate Steers</person> in the <org reg="Tenth District Court, King County"
+					>New Jersey avenue court</org>, and later in the <org
+					reg="Kings County Court of Special Sessions">Adams street court</org>, resulted
+				in several bitter arguments between <person reg="Kellogg, Herbert"> Assistant
+					District Attorney Kellogg</person> and <person reg="Goldstein, Jonah J.">Jonah
+					J. Goldstein</person>, her counsel. As yet the section violated has not been
+				specified and she is held simply on information.</q>
+		</p>
+		<p>`
+=======
+				information on the subject of birth control is unconstitutional. So far the <org
+					reg="King's County District Attorney">District Attorney's office</org> has not
+				specified whether she is under arrest on a charge of violating Section 1142 of the
+				Penal law or not. The failure to do so before <person reg="Steers, Alfred"
+					>Magistrate Steers</person> in the New Jersey avenue court, and later in the
+				Adams street court, resulted in several bitter arguments between <person
+					reg="Kellogg, Herbert"> Assistant District Attorney Kellogg</person> and <person
+					reg="Goldstein, Jonah J.">Jonah J. Goldstein</person>, her counsel. As yet the
+				section violated has not been specified and she is held simply on information.</q>
+		</p>
+		<p>
+>>>>>>> origin/master
+			<q who="BDE">She received twelve visitors today between the hours of 11 and 12. She
+				opened her clinic at 10 o'clock, but it required an hour, she said, for the
+				information to spread through <place reg="Brooklyn, NY">Brownsville</place>.</q>
+		</p>
+<<<<<<< HEAD
+		<p>"<q>I am back again,</q>" <q who="BDE">she said to an <emph rend="italic">Eagle</emph>
+				man and she smiled as she said it.</q> "<q>They may arrest me any moment, but what
+				is the use. I shall return to this place and openly carry out the purpose of my
+				clinic. That law is unconstitutional. The poor women of Brownsville need me. The
+				poor women of <place reg="New York, NY">Greater New York</place> and the
+					<place>United States</place> need me. I am only Margaret Sanger, but someone is
+				destined to find out that Margaret Sanger will not be frightened off. They will also
+				learn that a woman fighting for what she believes and knows is right does not know
+				the meaning of fear or defeat.</q>"</p>
+=======
+		<p>"I am back again," <q who="BDE">she said to an Eagle man and she smiled as she said it.
+			</q>"They may arrest me any moment, but what is the use. I shall return to this place
+			and openly carry out the purpose of my clinic. That law is unconstitutional. The poor
+			women of Brownsville need me. The poor women of <place reg="New York, NY">Greater New
+				York</place> and the <place>United States</place> need me. I am only Margaret
+			Sanger, but someone is destined to find out that Margaret Sanger will not be frightened
+			off. They will also learn that a woman fighting for what she believes and knows is right
+			does not know the meaning of fear or defeat.</p>
+>>>>>>> origin/master
+		<p>"The <org>Raymond Street Jail</org>, with its varied assortment of weird and awesome
+			vermin, I'll admit, is enough to frighten anyone, but my mission and my work can even
+			bid defiance to seven Raymond street jails."</p>
+		<p>
+			<q who="BDE">"What are you doing here this morning?" was asked.</q>
+		</p>
+<<<<<<< HEAD
+		<p>"<q>Doing? What would you suppose I am doing. I am giving the women who come to my place the
+			information they desire--the information they need.</q>"</p>
+		<p>"<q>You may say for me that I intend to stay here as long as the police will let me. If they
+			take me out, it will be under arrest and against my protest. When I regain my liberty, I
+			will come right back. That is Margaret Sanger's message to the thousands of women who
+			need her.</q>"</p>
+=======
+		<p>"Doing? What would you suppose I am doing. I am giving the women who come to my place the
+			information they desire--the information they need."</p>
+		<p>"You may say for me that I intend to stay here as long as the police will let me. If they
+			take me out, it will be under arrest and against my protest. When I regain my liberty, I
+			will come right back. That is Margaret Sanger's message to the thousands of women who
+			need her."</p>
+>>>>>>> origin/master
+		<p>
+			<q who="BDE">Although she is back in her clinic, and admits she has again violated the
+				law, conditions are somewhat changed. The <org reg="New York City Police Department"
+					>police</org> have confiscated the various things she had in the clinic before
+				her arrest. Conditions also differ in that, today, the front door, previously
+				unlatched and smooth-moving on its well-oiled hinges, is locked. To enter the women
+				go in through the hall at the side and gain entrance to the clinic through a side
+				door. Asked if this was a precaution against a sudden raid, Mrs. Sanger, said Miss
+					<person reg="Mindell, Fania">Fannie Mindell</person>, her assistant, had gone to
+				the printers to order some hand bills and signs inviting the women of the section to
+				come to the clinic, and there register their protest against Section 1142, and that
+<<<<<<< HEAD
+				she had carelessly locked the door--from outside.</q>
+=======
+				she had carelessly locked the door-from outside.</q>
+>>>>>>> origin/master
+		</p>
+		<p>
+			<q who="BDE">When it was called to her attention that Miss Mindell did not look as
+				though she needed a guardian to keep her from doing needless things and was not at
+				all absent-minded, she laughed and declared she had given her reason for having the
+				side door locked.</q>
+		</p>
+		<p>
+			<q who="BDE">Officially, the <org>Eleventh Inspection District</org> and <person
+					reg="McElroy, William">Inspector McElroy </person> did not know the clinic was
+				again in operation. A man who said he was <person reg="Kelly, Thomas">Lieutenant
+					Kelly</person> declared he had no record of the clinic being open and that
+				Inspector McElroy was out on a tour of the district.</q>
+		</p>
+		<p>
+			<q who="BDE">However, <person reg="Boylan, Edward">Detective Boylan</person>, who
+				figured in the arrest with <person reg="Barry, Edward">Sergeant Barry</person> and
+				Mrs. <person reg="Whitehurst, Margaret">Margaret Whithurst</person>, knew all about
+				it. Boylan called at the clinic shortly before 12 o'clock. He did not appear at
+				ease, Mrs. Sanger said.</q>
+		</p>
+		<p>
+			<q who="BOYED">"Are you at it again, Mrs. Sanger?"</q>
+			<q who="BDE">he asked.</q>
+		</p>
+<<<<<<< HEAD
+		<p>"<q>What does this look like?</q>" <q who="BDE">was her questioning reply.</q>
+		</p>
+		<p><q who="BOYED">"What are you doing here?"</q> <q who="BDE">was his next question.</q>
+		</p>
+		<p>"<q>What do you think?</q>" <q who="BDE">responded Mrs. Sanger.</q> "<q>I am here--wide open and
+			intend to remain here as long as I can.</q>"</p>
+		<p>
+			<q who="BOYED">"Oh!"</q> <q who="BDE">gasped Boylan as he backed out of the place.</q>
+		</p>
+		<p>
+			<q who="BDE">The district attorney's office would make no comment today beyond saying
+				that the matter was entirely up to the police. <person reg="Goldstein, Jonah J.">Jonah J. Goldstein</person>, counsel for Mrs.
+				Sanger, did not know she had resumed operations until informed by The Eagle man.</q>
+		</p>
+		<p>
+			<q who="GOLJO">"Well I'll be ---. You have to admire that woman's pluck. She did not consult
+				me,"</q> 
+=======
+		<p>"What does this look like?" <q who="BDE"> was her questioning reply.</q>
+		</p>
+		<p>
+			<q who="BOYED">"What are you doing here?"</q>
+			<q who="BOYED">was his next question.</q>
+		</p>
+		<p>"What do you think?" <q who="BDE">responded Mrs. Sanger.</q> "I am here--wide open and
+			intend to remain here as long as I can."</p>
+		<p>
+			<q who="BOYED">"Oh!"</q>
+			<q who="BDE">gasped Boylan as he backed out of the place.</q>
+		</p>
+		<p>
+			<q who="BDE">The district attorney's office would make no comment today beyond saying
+				that the matter was entirely up to the police. Jonah J. Goldstein, counsel for Mrs.
+				Sanger, did not know she had resumed operations until informed by The Eagle man.</q>
+		</p>
+		<p>
+			<q who="GOLJO">"Well I'll be -----. You have to admire that pluck. She did not consult
+				me,"</q>
+>>>>>>> origin/master
+			<q who="BDE">he said.</q>
+			<q who="GOLJO">"I presume she believes the law is unconstitutional and intends to go
+				right on with her work. My job is to show the unconstitutionality of the law and
+				that I will do if I possibly can. Mrs. Sanger is a woman of great determination. She
+				believes in herself. Say, don't you admire her grit? Open again. Well, I'll be
+<<<<<<< HEAD
+				---. Open again."</q>
+=======
+				-----. Open again."</q>
+>>>>>>> origin/master
+		</p>
+	</docBody>
+</doc>
