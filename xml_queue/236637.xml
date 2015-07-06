@@ -34,8 +34,8 @@
 			<name id="FOSHA">Fosdick, Harry Emerson</name>
 			<name id="GILFR">Gillett, Frederick Huntington</name>
 			<name id="DARCL">Darrow, Clarence</name>
-			<name id="MATST">Matthew the Apostle (St.)</name>
-			<name id="MARST">Mark the Evangelist (St.)</name>
+			<name id="MATST">Matthew the Apostle (Biblical)</name>
+			<name id="MARST">Mark the Evangelist (Biblical)</name>
 			<name id="sec211">United States Criminal Code, Section 211</name>
 		</respStmt>
 	</mepHeader>
@@ -402,11 +402,11 @@
 		<div type="section">
 			<head type="sub">What Did Jesus Say?</head>
 			<p>That is what the Pope says. Now let us see what Jesus says. <person
-					reg="Matthew the Apostle (St.)">St. Matthew</person> quotes Him thus: “<q who="MATST">Have
-					ye not read that he which made them at the beginning made them male and female,
-					and said, For this cause shall a man leave father and mother, and shall cleave
-					to his wife: and they twain shall be one flesh?</q>” <person
-					reg="Mark the Evangelist (St.)">St. Mark</person> quotes the same statement. But
+					reg="Matthew the Apostle (Biblical)">St. Matthew</person> quotes Him thus: “<q
+					who="MATST">Have ye not read that he which made them at the beginning made them
+					male and female, and said, For this cause shall a man leave father and mother,
+					and shall cleave to his wife: and they twain shall be one flesh?</q>” <person
+					reg="Mark the Evangelist (Biblical)">St. Mark</person> quotes the same statement. But
 				did Jesus say that every wife had to bear children as fast as they would come? Did
 				He ever advocate rearing large families as a duty toward God? Did He ever say
 				anything against the limitation of offspring? Did He ever say anything that by any

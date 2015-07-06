@@ -21,7 +21,7 @@
 		<respStmt>
 			<resp/>
 			<name id="ML">Malthusian League</name>
-			<name id="MARHE">Marcuse, Herbert</name>
+			<name id="MARJU">Marcuse, Julian</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -90,9 +90,9 @@
 			<q who="ML">"The January issue of <title type="journal">Maternity
 					and Child Welfare</title>, in an editorial article in favor
 				of birth control, quote as follows from <person
-					reg="Marcuse, Herbert">Dr. Marcuse</person> who had
+					reg="Marcuse, Julian">Dr. Marcuse</person> who had
 				discussed the subject with hundreds of sick German soldiers: </q>
-			<q who="MARHE">The large proportion of them do not wish to ever have
+			<q who="MARJU">The large proportion of them do not wish to ever have
 				children again. They said in effect that factory-food and
 				cannon-food, all that kind of thing, has got to go, and only
 				after our women have proclaimed a general birth strike will
@@ -100,7 +100,7 @@
 		</p>
 
 		<p>
-			<q who="MARHE">"It seems certain that Germany, though its birth-rate
+			<q who="MARJU">"It seems certain that Germany, though its birth-rate
 				like ours will probably rise for a year or two after the war,
 				will soon become a very low birth rate country. Unfortunately,
 					<place reg="Soviet Union">Russia</place> and the

@@ -28,11 +28,12 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger published this pamphlet in <place>England</place> around January 1915. It was preceded by <xref
-			from="301756.xml"><title type="book">Family Limition</title></xref>, Sept. 1914 and followed by <xref
-				from="101920.xml"><title type="book">Dutch Methods of Birth Control</title></xref>, ca. Mar.-Apr. 1915, and
-			<xref from="129014.xml"><title type="book">Magnetation Methods of Birth Control</title></xref>, ca. Aug.
-			1915.</p>
+		<p>Sanger published this pamphlet in <place>England</place> around January 1915. It was
+			preceded by <xref from="301756.xml"><title type="book">Family Limition</title></xref>,
+			Sept. 1914 and followed by <xref from="101920.xml"><title type="book">Dutch Methods of
+					Birth Control</title></xref>, ca. Mar.-Apr. 1915, and <xref from="129014.xml"
+					><title type="book">Magnetation Methods of Birth Control</title></xref>, ca.
+			Aug. 1915.</p>
 		<index level1="abortion" level2="birth control and"/>
 		<index level1="abortion" level2="frequency of"/>
 		<index level1="abortion" level2="health risks"/>
@@ -44,13 +45,14 @@
 		<index level1="birth control methods" level2="efficacy of"/>
 		<index level1="birth control methods" level2="safe period"/>
 		<index level1="birth control" level2="health benefits and risks"/>
-		<index level1="Sanger, Margaret" level2="books" level3="//English Methods of Birth Control//"/>
+		<index level1="Sanger, Margaret" level2="books"
+			level3="//English Methods of Birth Control//"/>
 		<index level1="child spacing"/>
 		<index level1="reproduction"/>
 		<index level1="working classes" level2="and birth control"/>
 		<index level1="family size" level2="MS on"/>
 		<index level1="family size" level2="and poverty"/>
-</headNote>
+	</headNote>
 	<docBody>
 		<head>ENGLISH METHODS OF BIRTH CONTROL</head>
 		<byline>By MARGARET H. SANGER</byline>
@@ -137,7 +139,7 @@
 					Forel</person>, Heinrich Kisch, <person reg="von Krafft-Ebing, Richard">Von
 					Krafft-Ebing</person>, <person reg="Mensinga, Wilhelm">Mensinga</person>,
 					<person reg="Hirt, Ludwig">Hirt</person>, <person reg="Freud, Sigmund"
-					>Freud</person>, <person reg="L&ouml;wenfeld, Leopold">Löwenfeld</person>,
+					>Freud</person>, <person reg="Lowenfeld, Leopold">Löwenfeld</person>,
 					<person reg="Elischer, Julius">Elischer,</person>
 				<person reg="Ellis, Havelock">Havelock Ellis</person>, and many others.</p>
 			<p>In the preceding pamphlet on "<title type="book">Family Limitation,</title>” I have
