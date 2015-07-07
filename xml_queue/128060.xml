@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2011/05/23 CE</prepDate>
@@ -83,7 +82,7 @@
 		</div>
 		<div type="section">
 			<head type="sub"><place>England</place>.</head>
-			<p>Branch clinics of the <org>Family Planning association</org> in the worst bombed
+			<p>Branch clinics of the <org reg="Family Plannig Association">Family Planning association</org> in the worst bombed
 				areas of the provinces had extraordinary escapes from serious damage and were
 				carrying on at the close of 1941. Some of the centres in or near London and the
 				southeastern districts were temporarily suspended. Headquarters of the association
@@ -139,7 +138,7 @@
 		</div>
 		<div type="section">
 			<head type="sub"><place>Sweden</place>.--</head>
-			<p>The <org reg="Riksf&ouml;rbundet fur Sexuell Upplysning">Swedish Society for Sexual
+			<p>The <org reg="Riksforbundet fur Sexuell Upplysning">Swedish Society for Sexual
 					Enlightenment</org> continued work during the year and its <org>Stockholm Birth
 					Control</org> clinic advised many women. The society collected funds to open a
 				home for deserted mothers and provide relief for them.</p>

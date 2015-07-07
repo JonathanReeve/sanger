@@ -7,7 +7,9 @@
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1936-04-00">Apr 1936</docDate>
 		<docTitle>
 			<titlePart>Does the Public Want Birth Control?</titlePart>
@@ -308,7 +310,7 @@
 				and by ministers, by social workers, nurses, thoughtful and intelligent men and
 				women the world over. The list of national groups, who have endorsed this work, runs
 				to over a thousand. The most recent endorsements of birth control and of our efforts
-				to change the Federal law are from the <org>General Federation of Women’s
+				to change the Federal law are from the <org>General Federation of Women's
 					Clubs</org>, and the <org>American Association of University Women</org>. The
 				General Federation represents 2,000,000 women and the University group 450,000.</p>
 			<p>The East side clinic, about which I have told you, was closed as a “public nuisance”

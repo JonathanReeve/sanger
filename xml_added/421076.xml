@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014-04-09 JK initial tag</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1957-00-00">1957</docDate>
 		<docTitle>
 			<titlePart>

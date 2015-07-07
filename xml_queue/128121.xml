@@ -9,10 +9,14 @@
 		<prepDate>2011/ 07/07 EK Corrections/index </prepDate>
 		<prepDate>2014-03-21 CH clean regs</prepDate>
 		<prepDate>2015-03-27 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1937-01-27">27 Jan 1937</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Woman and the Future</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Woman and the Future</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp128121</idno>
 		<sourceDesc>
@@ -51,7 +55,7 @@
 			convention I am speaking today, went on record in support of the legalization of birth
 			control. It is in great measure due to the active help of this organization and other
 			groups of courageous women, such as the <org>National Council of Jewish Women</org>, the
-				<org>General Federation of Women’s Clubs</org>, the <org
+				<org>General Federation of Women's Clubs</org>, the <org
 				reg="Young Women's Christian Association">Y.W.C.A.</org>, that the birth control
 			movement is today celebrating a glorious victory and looking forward to the inspiring
 			and constructive work which lies ahead.</p>

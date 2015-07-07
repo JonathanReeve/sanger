@@ -66,7 +66,8 @@
 				specified and she is held simply on information.</q>
 		</p>
 
-		<p><q who="BDE">She received twelve visitors today between the hours of 11 and 12. She
+		<p>
+			<q who="BDE">She received twelve visitors today between the hours of 11 and 12. She
 				opened her clinic at 10 o'clock, but it required an hour, she said, for the
 				information to spread through <place reg="Brooklyn, NY">Brownsville</place>.</q>
 		</p>
@@ -111,7 +112,7 @@
 				side door locked.</q>
 		</p>
 		<p>
-			<q who="BDE">Officially, the <org>Eleventh Inspection District</org> and <person
+			<q who="BDE">Officially, the <org reg="New York City Police Department">Eleventh Inspection District</org> and <person
 					reg="McElroy, William">Inspector McElroy </person> did not know the clinic was
 				again in operation. A man who said he was <person reg="Kelly, Thomas">Lieutenant
 					Kelly</person> declared he had no record of the clinic being open and that
@@ -130,7 +131,8 @@
 		</p>
 		<p>"<q>What does this look like?</q>" <q who="BDE">was her questioning reply.</q>
 		</p>
-		<p><q who="BOYED">"What are you doing here?"</q>
+		<p>
+			<q who="BOYED">"What are you doing here?"</q>
 			<q who="BDE">was his next question.</q>
 		</p>
 		<p>"<q>What do you think?</q>" <q who="BDE">responded Mrs. Sanger.</q> "<q>I am here--wide
