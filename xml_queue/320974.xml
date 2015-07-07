@@ -28,22 +28,22 @@
 	<headNote resp="MSPP">
 		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
 			see <xref from="320973.xml"><title type="article">Birth Control, 1941</title></xref>;
-			<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
-			<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
-			<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
-			<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
-			<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
-			<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
-			<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
-			<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
-			<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
-			<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
-			<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
-			<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
-			<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
-			<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
-			<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
-			<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
+				<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
+				<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
+				<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
+				<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
+				<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
+				<xref from="321981.xml"><title type="article">Birth Control, 1948</title></xref>;
+				<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
+				<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
+				<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
+				<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
+				<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
+				<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
+				<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
+				<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
+				<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
+				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
 		<p>For typewritten drafts see Margaret Sanger Microfilm, Smith College Collections S72:368
 			and Library of Congress Microfilm 129:94, 99B and 101.</p>
 		<index level1="African Americans" level2="birth control and"/>
@@ -135,13 +135,12 @@
 				sponge seemed to give adequate protection when regularly used. the non-use of a
 				method, occasionally, was the human factor which faced doctors in all branches of
 				preventive medicine.</p>
-			<p>The <org reg="American Medical Association, Council on Chemistry and Pharmacy"
-					>Council on chemistry and Pharmacy of the American Medical Association</org>
-				appointed a Committee on contraceptives to study drugs used in this field and to
-				report on contraceptive preparations, and the Medical Sub-Committee of the
-					<org>Family Planning Association</org> of Great Britain appointed a special
-				Ad-Hoc Committee to conduct a clinical investigation of the efficiency of certain
-				chemical contraceptives.</p>
+			<p>The Council on chemistry and Pharmacy of the American Medical Association appointed a
+				Committee on contraceptives to study drugs used in this field and to report on
+				contraceptive preparations, and the Medical Sub-Committee of the <org>Family
+					Planning Association</org> of Great Britain appointed a special Ad-Hoc Committee
+				to conduct a clinical investigation of the efficiency of certain chemical
+				contraceptives.</p>
 		</div>
 		<div type="section">
 			<head type="sub">(4) Public Education.</head>
@@ -154,7 +153,7 @@
 				campaign.</p>
 			<div type="section">
 				<head type="sub">Legal Decisions, U.S.</head>
-				<p>The <org reg="Connecticut State Supreme Court of Errors">Supreme Court of
+				<p>The <org reg="Connecticut State Supreme Court">Supreme Court of
 						Errors</org>, of <place>Connecticut</place>, by a vote of 3 to 2, on the
 						<person reg="Tileston, Wilder">Tileston</person> case in June, ruled that
 					the State law on contraception was constitutional and that under it no doctor

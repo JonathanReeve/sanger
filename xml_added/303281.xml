@@ -5,7 +5,9 @@
 		<prepDate>2012-03-27 AW</prepDate>
 		<prepDate>2014-04/04 EK clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1960-02-00">Feb 1960</docDate>
 		<docTitle>
 			<titlePart>Why I Went to Jail</titlePart>
@@ -174,7 +176,7 @@
 			strikes, and also with popular demonstrations in our behalf. As I reached the depth of
 			despair and public humiliation, something like a miracle occurred. Help and sympathy
 			sprang up on all sides. Legal aid was proffered. Doctors now rallied to my aid. A group
-			of sympathetic and wealthy women in New York promptly formed a <org>Committee of
+			of sympathetic and wealthy women in New York promptly formed a <org reg="Committee of One Hundred">Committee of
 				100</org> for our defense. Sympathizers even held a mass meeting in <org>Carnegie
 				Hall</org>.</p>
 		<p> My trial began in Brooklyn on January 29, 1917. About 50 mothers, some equipped with
