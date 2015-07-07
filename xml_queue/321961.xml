@@ -4,7 +4,8 @@
 	<mepHeader>
 		<prepDate>2012-06-29 AW Initial Tag</prepDate>
 		<prepDate>2014-04-17 EK clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-07-07 CH clean tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1916-10-21">21 Oct 1916</docDate>
 		<docTitle>
 			<titlePart>
@@ -13,7 +14,8 @@
 		</docTitle>
 		<idno>msp321961</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Wilkes-Barre Times</title>, Oct 21, 1916, p. 1.</bibl>
+			<bibl><title type="article">Secret Clinics in New York and the Country</title>, <title
+					type="journal">Wilkes-Barre Times</title>, Oct 21, 1916, p. 1</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="UNK">Unknown</name>
@@ -61,7 +63,7 @@
 			<p>Do the women like it? Say, you ought to go down in the neighborhood we have canvassed
 				with secret circulars the last 48 hours. The women have been coming in by the
 				dozens. You can hear them calling from house to house in the congested districts:
-					“<q who="UNK">Oh, Mrs. <person>Rosenbaum</person>, you ought to see this, this
+				“<q who="UNK">Oh, <person reg="Rosenbaum, Mrs.">Mrs. Rosenbaum</person>, you ought to see this, this
 					is something fine</q>.”</p>
 			<p>Within two years every man and woman in this country will know how many children they
 				can afford to have. And when they know that I predict that two generations of birth

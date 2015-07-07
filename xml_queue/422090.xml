@@ -21,21 +21,20 @@
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="HUGVI">Victor Hugo</name>
-			<name id="SENEC">Seneca</name>
+			<name id="HUGVI">Hugo, Victor</name>
+			<name id="SENEC">Seneca, Lucius Annaeus</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger, who went to <place reg="Vancouver, ca">Vancouver</place> at the invitation of
-				<person reg="Jamieson, Laura">Laura Jamieson</person> of the <org>Women's
-				International League for Peace and Freedom</org> and <person reg="Gutteridge, Helen"
-				>Helen Gutteridge</person> of Vancouver's <org>Tribes and Labour Council</org>,
-			delivered this speech at the <org>Hotel Vancouver</org>. She had stopped in
-				<place>Canada</place> on her way to <place>Alaska</place>. No final version found.
-			For similar speech notes, see <xref from="422092.xml"><place>Cincinnati,
-				OH</place></xref> on Nov. 22, 1922 and <xref from="422091.xml"><place>Buffalo,
-					NY</place></xref> on Feb. 9, 1922. Handwritten interlineations by Margaret
-			Sanger</p>
+		<p>Sanger, who went to Vancouver at the invitation of <person reg="Jamieson, Laura">Laura
+				Jamieson</person> of the <org>Women's International League for Peace and
+				Freedom</org> and <person reg="Gutteridge, Helen">Helen Gutteridge</person> of
+			Vancouver's <org>Tribes and Labour Council</org>, delivered this speech at the
+				<org>Hotel Vancouver</org>. She had stopped in <place>Canada</place> on her way to
+				<place>Alaska</place>. No final version found. For similar speech notes, see <xref
+				from="422092.xml"><place>Cincinnati, OH</place></xref> on Nov. 22, 1922 and <xref
+				from="422091.xml"><place>Buffalo, NY</place></xref> on Feb. 9, 1922. Handwritten
+			interlineations by Margaret Sanger</p>
 		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="birth control" level2="and natural law"/>
 		<index level1="birth control" level2="definitions of"/>
@@ -56,11 +55,19 @@
 		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
 	</headNote>
 	<docBody>
-		<p><add><dateline><place reg="Vancouver, Canada">Vancouver</place>
-					<date>July 3 --1923</date></dateline></add></p>
+		<p>
+			<add>
+				<dateline>
+					<place reg="Vancouver, Canada">Vancouver</place>
+					<date>July 3 --1923</date>
+				</dateline>
+			</add>
+		</p>
 		<p>1. <add>reln <person reg="Hugo, Victor">Hugo</person></add></p>
-		<p><add>"<q who="HUGVI">There is no force in the world so great as that of an <emph
-						rend="underline">idea</emph> whose time has come.</q>"</add></p>
+		<p>
+			<add>"<q who="HUGVI">There is no force in the world so great as that of an <emph
+						rend="underline">idea</emph> whose time has come.</q>"</add>
+		</p>
 		<p>Birth Control Keynote New Social awakening--health, economic.</p>
 		<p>Not a new idea. Nature}</p>
 		<list>
@@ -74,12 +81,13 @@
 			Foeticide.</p>
 		<p>Early Civilization Infanticide}</p>
 		<list>
-			<item><person>Plato</person>--exposure elements condemned to death children born
-				depraved.</item>
-			<item><person>Aristotle</person>--State fix no. children pair should have.</item>
-			<item><person>Seneca</person>--"<q who="SENEC">We drown or destroy weakly or deformed
-					children.</q>"</item>
-			<item><place reg="Rome Italy">Rome</place> militaristic nation living conquest people
+			<item><person reg="Plato (Greek)">Plato</person>--exposure elements condemned to death
+				children born depraved.</item>
+			<item><person reg="Aristotle (Greek)">Aristotle</person>--State fix no. children pair
+				should have.</item>
+			<item><person reg="Seneca, Lucius Annaeus (Roman)">Seneca</person>--"<q who="SENEC">We
+					drown or destroy weakly or deformed children.</q>"</item>
+			<item><org reg="Roman Empire">Rome</org> militaristic nation living conquest people
 				reared only healthy children.</item>
 		</list>
 		<p>Infanticide greatest and most common crime <place>Western Europe</place>, middle ages
@@ -97,7 +105,9 @@
 			<item>Christianity</item>
 			<item>Democracy to Race Improvement</item>
 		</list>
-		<p><add>BC control of the birth rate by scientific means that prevent conception.</add></p>
+		<p>
+			<add>BC control of the birth rate by scientific means that prevent conception.</add>
+		</p>
 		<p>Biological fact}</p>
 		<list>
 			<item>Intelligence slow growth</item>
@@ -107,34 +117,48 @@
 			feebleminded, weak, erect institutions <gap reason="torn" extent="one to two words"/>
 			reproduce kind. <gap reason="torn" extent="three to five words"/> against finest
 			flowering <gap reason="torn" extent="rest of page"/></p>
-		<p><add>Make our bodies holy temples perfect instruments in the service of the Soul we
+		<p>
+			<add>Make our bodies holy temples perfect instruments in the service of the Soul we
 					<unclear>Survived</unclear> to take its part in the mystery of material
-				being.</add></p>
-		<p><add>Through B.C. we can remove untold misery for it can free mothers from fear of
+				being.</add>
+		</p>
+		<p>
+			<add>Through B.C. we can remove untold misery for it can free mothers from fear of
 				unwanted pregnancy. It can free children from toil in shop, field &amp; factory.
 				Through it offspring may be conceived in love &amp; reared by the aid of <gap
 					reason="torn" extent="two to three words"/> humanity's.</add>
-			<gap reason="torn" extent="rest of page"/></p>
-		<p><add>Early marriages--practice contraception. <emph rend="underline">Educate</emph> the
-				Educators <emph rend="underline">spread theory.</emph></add></p>
-		<p><add><place reg="Netherlands, the">Holland</place>
+			<gap reason="torn" extent="rest of page"/>
+		</p>
+		<p>
+			<add>Early marriages--practice contraception. <emph rend="underline">Educate</emph> the
+				Educators <emph rend="underline">spread theory.</emph></add>
+		</p>
+		<p>
+			<add><place reg="Netherlands">Holland</place>
 				<add>
-					<emph rend="underline">practice</emph></add> clinics.</add></p>
-		<p><add><place>France</place>--<person reg="Bonaparte, Napoleon">Napolean</person>
-				Syndicalists} Well to-do Educated Classes practice B.C. Birth rate less--</add></p>
+					<emph rend="underline">practice</emph></add> clinics.</add>
+		</p>
+		<p>
+			<add><place>France</place>--<person reg="Bonaparte, Napoleon">Napolean</person>
+				Syndicalists} Well to-do Educated Classes practice B.C. Birth rate less--</add>
+		</p>
 		<p><add>Germany (<person reg="Marx, Karl">Marx</person>)</add>}.</p>
 		<p><add>Paternalistic</add>--</p>
-		<p><add><place>Norway</place> &amp; <place>Sweden</place>} marriage viz death old people.
+		<p>
+			<add><place>Norway</place> &amp; <place>Sweden</place>} marriage viz death old people.
 					<place>Australia</place>
-				<place>New Zealand</place>--<place reg="United States">U.S.A.</place></add></p>
-		<p><add><place>China</place>
+				<place>New Zealand</place>--<place reg="United States">U.S.A.</place></add>
+		</p>
+		<p>
+			<add><place>China</place>
 				<place>Japan</place>
 				<add>57 million</add>
 				<place>India</place>, <place>Russia</place>--birth rate 55&percnt; death rate
-				36&percnt;.</add></p>
+				36&percnt;.</add>
+		</p>
 		<p><add>U.S.A. 1912 <add>coined B.C. word</add>} <person reg="Knowlton, Charles"
 					>Knowlton</person> pamphlet Comstock laws--aroused nation--challenged
-					laws--<del>Jail</del> fled to <place>England</place>--<person reg="Wells, H.G."
+					laws--<del>Jail</del> fled to <place>England</place>--<person reg="Wells, H. G."
 					>Wells</person>, <person reg="Bennett, Arnold">Bennett</person>, <person
 					reg="Murray, Gilbert">Gilbert Murray</person>-- Returned trial--<add>refused to
 					cease work.</add> Jail sentence 30 days hunger strike--magazine--clinic--circled
