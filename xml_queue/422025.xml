@@ -5,7 +5,9 @@
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-02-00">Feb 1928</docDate>
 		<docTitle>
 			<titlePart>Editorial</titlePart>
@@ -44,8 +46,8 @@
 				reg="Smith, Thomas Vernor">Thomas Vernor Smith,</person> in "<title type="book">The
 				Democratic Way of Life</title>" and of <person reg="Huntington, Ellsworth"
 				>Huntington</person> and <person reg="Whitney, Leon Fradley">Whitney</person> in
-				"<title type="book">The Builders of America</title>."
-			<person reg="Ross, Edward Alsworth">Professor E. A. Ross</person> makes a more definite
+				"<title type="book">The Builders of America</title>." <person
+				reg="Ross, Edward Alsworth">Professor E. A. Ross</person> makes a more definite
 			appeal for Birth Control in "<title type="book">Standing Room Only</title>," but one
 			could cite book after book, among those recently published, where Birth Control is
 			accepted as essential, rather than advocated as a reform. Many magazines and periodicals
@@ -69,17 +71,17 @@
 				reasons, or because of excessive child-bearing poverty."</q> It also recommended the
 			giving of such information by medical practitioners and at hospitals. The time seems to
 			be speedily coming when the medical profession, forgetting its long reluctance, will
-			unhesitatingly claim contraception as a necessary part of medical practice. They will not
-			be allowed the whole field without protests from the Economists, who were out in favor
-			of Birth Control while the doctors, in general, were still hesitant. It is worth noting
-			in this review of progress in 1927 that Birth Control and its Relation to the Food
-			Supply was one of the questions suggested for those who wished to compete for the
+			unhesitatingly claim contraception as a necessary part of medical practice. They will
+			not be allowed the whole field without protests from the Economists, who were out in
+			favor of Birth Control while the doctors, in general, were still hesitant. It is worth
+			noting in this review of progress in 1927 that Birth Control and its Relation to the
+			Food Supply was one of the questions suggested for those who wished to compete for the
 			Thousand Dollar Economic prize, offered for the 24th time, through the generosity of
 				<org reg="Hart Schaffner &amp; Marx">Hart Schaffner and Marx</org> of <place
 				reg="Chicago, IL">Chicago,</place> and supervised by the Committee of which <person
 				reg="Laughlin, James Lawrence">J. Lawrence Laughlin</person> of the <org>University
 				of Chicago</org> is chairman.</p>
-		<p>The recent <org reg="National Conference on Race Betterment, 3rd">Race Betterment
+		<p>The recent <org reg="National Conference on Race Betterment">Race Betterment
 				Conference,</org> held at <place reg="Battle Creek, MI">Battle Creek,
 				Michigan,</place> January 2-6, is an example of the universal acceptance of Birth
 			Control. We have no story of the Conference to publish in the <title type="journal"

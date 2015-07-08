@@ -93,12 +93,12 @@
 				established with headquarters in <place reg="London, England">London</place>. Its
 				purpose was “<q who="ICPP">to promote research and education for the furthering of
 					human welfare through planned parenthood and progressive sex education</q>.”
-				Members were the national <org
-					reg="Family Planning Association">Planned Parenthood organizations</org> of <place>Great Britain</place>, the <org
+				Members were the national <org reg="Family Planning Association">Planned Parenthood
+					organizations</org> of <place>Great Britain</place>, the <org
 					reg="Nederlandse Vereniging voor Sexuele Hervorming"
 					><place>Netherlands</place></org>, <place><org
-						reg="Riksforbundet for Sexeull Upplysning">Sweden</org></place>
-				and the <place>United States</place>, the only four nations where such agencies
+						reg="Riksforbundet for Sexeull Upplysning">Sweden</org></place> and the
+					<place>United States</place>, the only four nations where such agencies
 				existed.</p>
 		</div>
 		<div type="section">
@@ -136,9 +136,10 @@
 				physician, required it, was defeated by 200,000 votes in the Massachusetts
 				election.</p>
 			<p>The measure, which aimed to place contraceptive advice in the hands of the medical
-				profession, was endorsed by a majority of resident members of the <org>Massachusetts
-					Medical society</org> and by more than 1,000 Protestant and Jewish clergymen.
-				Four thousand voters in 300 local committees campaigned to repeal the state law.</p>
+				profession, was endorsed by a majority of resident members of the <org
+					reg="Massachusetts Medical Society">Massachusetts Medical society</org> and by
+				more than 1,000 Protestant and Jewish clergymen. Four thousand voters in 300 local
+				committees campaigned to repeal the state law.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Organization.–</head>
@@ -148,7 +149,7 @@
 				clinics, 210 extramural clinics and 43 referral services. Of the 58 fertility
 				clinics in the U.S. listed with the federation, 13 were under Planned Parenthood
 				direction.</p>
-			<byline>(<person reg="Sanger, Margaret">M.SR</person>.)</byline>
+			<byline>(M.SR.)</byline>
 		</div>
 	</docBody>
 </doc>
