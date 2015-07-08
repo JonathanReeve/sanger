@@ -5,8 +5,9 @@
 		<prepDate>2011-08-05 NC</prepDate>
 		<prepDate>2012-04-04 CH Proofed Tags</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-04-09">9 Apr 1954</docDate>
 		<docTitle>
 			<titlePart>Japan</titlePart>
@@ -25,7 +26,7 @@
 	<headNote resp="MSPP">
 		<p>Sanger likely gave these remarks at one of the meetings she attended
 			in <place reg="Tokyo, Japan">Tokyo</place> to help organize the
-				Japan Planned Parenthood Federation and the <org
+			Japan Planned Parenthood Federation and the <org
 				reg="International Conference on Planned
 					Parenthood, 5th"
 				>Fifth International Conference on Planned Parenthood</org>, to
@@ -41,8 +42,8 @@
 			<dateline>
 				<date value="1954-04-09">April 9, 1954</date>
 			</dateline>
-			<byline>Mrs. Margaret Sanger, President,
-				<org>International Planned Parenthood Federation</org></byline>
+			<byline>Mrs. Margaret Sanger, President, <org>International Planned
+					Parenthood Federation</org></byline>
 		</opener>
 		<p>I have come back (like the spring) to <place>Japan</place>. It is
 			going to be a renewed experience for me to be here in April, for
@@ -50,20 +51,20 @@
 			country, through an invitation of a most distinguished group of
 			intellectuals. </p>
 		<p>I bring today cordial greetings from the International Planned
-				Parenthood Federation, who have honored me in <place
+			Parenthood Federation, who have honored me in <place
 				reg="Stockholm, Sweden">Stockholm</place> last August by
 			electing me their President. This Federation now consists of
 				<del>8</del>
 			<add>9</add> national organizations: <place>United Kingdom</place> -
 				<place>England</place>, <place>Scotland</place> &amp;
 				<place>Wales</place>- <place>Sweden</place>, <place
-				reg="Netherlands">Holland</place>, <place
-				reg="West Germany">Western Germany</place>,
-			<place>India</place>, <place>Hong Kong</place>,
-				<place>Singapore</place>, Japan. Several other national groups
-			are organizing their forces to make application as affiliates. </p>
+				reg="Netherlands">Holland</place>, <place reg="West Germany"
+				>Western Germany</place>, <place>India</place>, <place>Hong
+				Kong</place>, <place>Singapore</place>, Japan. Several other
+			national groups are organizing their forces to make application as
+			affiliates. </p>
 		<p>It is also my pleasure to personally accept the invitation the
-				<org>Japanese Family Planning Federation</org> had extended to
+				<org reg="Japan Family Planning Federation">Japanese Family Planning Federation</org> had extended to
 			the International Planned Parenthood Federation to hold the next
 			conference in this country in 1955! We are grateful for this
 			invitation, and I am here in person, as President, to accept it with
