@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-06-24 MM transcribe and encode </prepDate>
 		<prepDate>2015-01-08 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-07-08 MC transcribed and encoded</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,8 +17,8 @@
 		<idno>msp422014</idno>
 		<sourceDesc>
 			<bibl><title type="article">Mrs. Sanger Makes Plea For Birth Control Before A Large
-					Audience Here </title>, <title type="journal">Morning Herald
-					(Hagerstown)</title>, Jan. 27, 1923</bibl>
+					Audience Here </title>, <title type="journal">Hagerstown Morning Herald</title>, Jan. 27,
+				1923</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,13 +26,12 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger spoke to the <org reg="Hagerstown Woman's Club">Woman's Club</org> in <place
-				reg="Hagerstown, MD">Hagerstown, Maryland</place> at the <org>Stouffer's Dance
-				Academy</org> after the <org reg="Young Women's Christian Association">YWCA</org>
-			refused her. Over one thousand attended the event, Sanger was introduced by <person
-				reg="Morningstar, Mary E.">Mary E. Morningstar</person>. For a quote likely given at
-			the meeting see <xref from="422013.xml">"Statement on Flappers</xref>," Jan. 27,
-			1923.</p>
+		<p>Sanger spoke to the Woman's Club in <place reg="Hagerstown, MD">Hagerstown,
+				Maryland</place> at the <org>Stouffer's Dance Academy</org> after the
+				<org>YWCA</org> refused her. Over one thousand attended the event, Sanger was
+			introduced by Mary E. Morningstar. For a
+			quote likely given at the meeting see <xref from="422013.xml">"Statement on
+				Flappers</xref>," Jan. 27, 1923.</p>
 		<index level1="birth rate"/>
 		<index level1="family size" level2="class-based"/>
 		<index level1="birth control" level2="religion and"/>
@@ -40,17 +39,33 @@
 	<docBody>
 		<head>Mrs. Sanger Makes Plea For Birth Control Before A Large Audience Here</head>
 		<p>"Don't let prejudice and ignorance wipe out civilization," <q who="HMH">was the plea made
-				by Margaret Sanger, <place reg="New York, NY">New York</place>, President of the
+				by Mrs. Margaret Sanger, <place reg="New York, NY">New York</place>, President of the
 					<org>American Birth Control League</org>, speaking to one thousand and 88 men
 				and women who packed Stouffer's Academy last night to hear her speak.</q></p>
+		<p><q who="HMH">The "special officers" who <person reg="Bowman, Charles">Mayor
+					Bowman</person> said he would have placed in the audience to safeguard the
+				morals of the community by what Mrs. Sanger might say on rational parenthood, hid
+				themselves as well. If any special officers</q> "chaperones"<q who="HMH"> as Mrs.
+				Sanger laughingly referred to them, were present they were in plain clothes, and no
+				one in the audience was sufficiently offended to start a riot, the officers did not
+				make themselves conspicuous.</q></p>
+		<p>
+			<q who="HMH">Only one disturbance occurred during the lecture. Shortly after Mrs. Sanger
+				started speaking a young lady was overcome by the closeness of the air and fainted.
+				She was quickly revived however and there was no excitement.</q>
+		</p>
+		<p>
+			<q who="HMH">Don't let prejudice and ignorance wipe out civilization was Mrs. Sanger's
+				plea.</q>
+		</p>
 		<p>"Countries having highest birth rates are those which have not increased in population
 			while those having low birth rates--such as <place>Australia</place>--have increased in
 			population. Control of the birth rate is an aid to increased population because higher
-			death rates always accompany large birth rates, the speaker explained. Prejudice and
+			death rates always acompany large birth rates, the speaker explained. Prejudice and
 			ignorance are the two factors fighting the movement to allow control of the birth rate,
 			and eventually will lead back to a degenerate civilization.</p>
 		<p>"The world is divided into two groups--not the rich and the poor--but the small family
-			group and the large family group. In small families is found self-reliance,
+			group and the the large family group. In small families is found self-reliance,
 			self-respect, happiness, leisure, comfort: the children in small families attend school
 			and college and usually fill the highest positions in church and state.</p>
 		<p>"On the other hand is the large family group where is found misery, ignorance, poverty,
@@ -72,6 +87,10 @@
 		<p>"No wonder the world is in this state of chaos. We have got to put a check upon the
 			growing population of the feeble minded, insane and diseased, until the world catches
 			up. </p>
+		<p>
+			<q who="HMH">Answering the arguments put forth by opponents of the move, Mrs. Sanger
+				said:</q>
+		</p>
 		<p>"They say it is 'against the laws of nature.' So is shaving against the laws of nature
 			(much laughter from the audience.) So is walking on two feet instead of fours against
 			the laws of nature. So is sailing in boats, and flying in the air, against the laws of
@@ -88,6 +107,24 @@
 			Christian teachings have failed. It is a weak morality that is moral because of fear of
 			the consequences. People have to be taught the proper use of knowledge. They can be
 			safeguarded only by the firmness, the intelligence, the strength within them.</p>
+		<p>
+			<q who="HMH">Mrs. Sanger was introduced by <person reg="Morningstar, Marie E.">Mrs.
+					Morningstar</person>, president of the <org>Women's Club of Halfway</org>, under
+				whose auspices she spoke. The lecturer carried a corsage of violets and roses
+				presented by the Club of Halfway.</q>
+		</p>
+		<p>
+			<q who="HMH">During the speech there was strict attention and hearty applause. People
+				sat in the benches which line the walls of the <org>Stouffer's Academy</org>, they
+				crowded into the tiny balcony where Prof. Stouffer keeps pianos and old records and
+				victrolas, they stood in the back of the hall and sat on the steps. <person>Prof.
+					Stouffer</person>, who offered his dancing academy after the <org
+					reg="Young Women's Christian Association">Y.W.C.A.</org> had refused to allow
+				Mrs. Sanger to speak, said that there had been exactly 1068 admission. The crowd
+				lined the street before the First Hose Company building long before the doors were
+				open, and in the audience were representative men and women of the cultured,
+				intelligent type.</q>
+		</p>
 		<p>"Are people interested in the subject" <q who="HMH">Mrs. Sanger was asked.</q></p>
 		<p>
 			<q who="HMH">In reply, she told of letters received by her from women all over the
