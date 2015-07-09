@@ -113,14 +113,15 @@
 				<add>first</add>started out to <del>invade</del>
 			<add>search</add> the medical libraries <add>for practical information.</add> It was a
 			shock and surprise to find almost nothing available for practical purposes. I went to
-				<place reg="Boston, MA">Boston</place> and then to <place reg="Washington, DC">Washington, D.C.</place>,
-			even to the <org reg="Library of Congress">Congressional library</org>. I employed
-				<add>French &amp; German</add>translators to help me. But after an almost fruitless
-			search <add>of several months</add>I decided to go to <place>France</place> and there I
-			got <add>Knowlton's Pamphlets &amp;</add>information sufficiently practical to <add>help
-				me</add>start a challenge to <add><name type="law"
-					reg="United States Criminal Code, Section 211">Sec 211</name> of</add>the
-			Federal law. <add>name birth control not limitation</add></p>
+				<place reg="Boston, MA">Boston</place> and then to <place reg="Washington, DC"
+				>Washington, D.C.</place>, even to the <org reg="Library of Congress">Congressional
+				library</org>. I employed <add>French &amp; German</add>translators to help me. But
+			after an almost fruitless search <add>of several months</add>I decided to go to
+				<place>France</place> and there I got <add>Knowlton's Pamphlets
+			&amp;</add>information sufficiently practical to <add>help me</add>start a challenge to
+					<add><name type="law" reg="United States Criminal Code, Section 211">Sec
+					211</name> of</add>the Federal law. <add>name birth control not
+			limitation</add></p>
 		<p>It was just about 100 years before this, <del>when</del>
 			<add>that</add>the possibilities of a controlled population first seized the minds and
 			imaginations of the Anglo-Saxon world<add>.</add>
@@ -213,7 +214,7 @@
 		<p>26 clinics in U.S.A.</p>
 		<p>$150,000 lately bequeathed to <org reg="Los Angeles Mothers' Clinic"><place
 					reg="Los Angeles, CA">Los Angeles</place> clinic</org>.</p>
-		<p>500 physicians visited <org>New York clinic</org>. <add>10,000 expressed interest &amp;
+		<p>500 physicians visited <org reg="Birth Control Clinical Research Bureau">New York clinic</org>. <add>10,000 expressed interest &amp;
 				solicited information</add></p>
 		<p>
 			<del>Medical Societies and Universities discussing subject.</del>
