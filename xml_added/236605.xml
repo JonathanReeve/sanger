@@ -9,13 +9,15 @@
 		<prepDate>2007/06/15 CH Oxygen update</prepDate>
 		<prepDate>2014-03-05 CH cleaning regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-10 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1915-08-01">1 Aug 1915</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Magentation Methods of Birth Control Closing Statement</supplied>
+				<supplied resp="MSPP">Magnetation Methods of Birth Control, Closing
+					Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236605</idno>
@@ -34,8 +36,18 @@
 		<p>This letter was printed at the end of <xref from="129014.xml">Magnetation Methods of
 				Birth Control</xref>.</p>
 		<index level1="censorship"/>
-		<index level1="physicians" level2="birth control and"/>
+		<index level1="physicians" level2="and birth control"/>
+		<index level1="birth control methods" level2="condom"/>
+		<index level1="birth control methods" level2="withdrawal"/>
+		<index level1="birth control movement" level2="American"/>
+		<index level1="Woman Rebel, The" level2="and birth control"/>
 		<index level1="Woman Rebel" level2="suppression of"/>
+		<index level1="Sanger, Margaret" level2="books"
+			level3="Magnetation Methods of Birth Control"/>
+		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
+		<index level1="Sanger, William" level2="arrests, trial and imprisonment"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="birth control clinics and leagues"/>
 	</headNote>
 	<docBody>
 		<dateline><place reg="London, England">London</place>, <date value="1915-08-01">August 1,
@@ -75,9 +87,10 @@
 			my work unmolested here? It has been difficult to decide, but the feeling within me is
 			that my work is not done until I have the liberty of conducting a Birth Control clinic
 			in <place reg="New York, NY">New York City</place>, just as free from Government
-			interference as I can conduct one in London. This feeling has prompted me to return. I
-			hope to establish a free clinic in the Lower East Side in New York, where poor women can
-			come for advice and instruction concerning Birth Control.</p>
+			interference as I can conduct one in <place reg="London, England">London</place>. This
+			feeling has prompted me to return. I hope to establish a free clinic in the Lower East
+			Side in New York, where poor women can come for advice and instruction concerning Birth
+			Control.</p>
 		<p>Of course, this cannot be done until the indictments now pending against me are
 			dismissed.</p>
 		<p>I call upon you all to help in this fight, <emph rend="italics">one of the most important
