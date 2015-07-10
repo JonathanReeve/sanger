@@ -5,7 +5,9 @@
 		<prepDate>2012-03-27 AW</prepDate>
 		<prepDate>2014-04/04 EK clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1960-02-00">Feb 1960</docDate>
 		<docTitle>
 			<titlePart>Why I Went to Jail</titlePart>
@@ -138,7 +140,7 @@
 			$2 bill, payment for <title type="book">What Every Girl Should Know</title>, and
 			demanded immediate attention. My colleague had a hunch she might be a detective, and
 			pinned the bill on the wall and wrote: “<q who="MINFA">Received from Mrs. --------- of
-				the <org reg="New York Police Department">Police Department</org>, as her
+				the <org reg="New York City Police Department">Police Department</org>, as her
 				contribution</q>.”</p>
 		<p>Hourly after that we expected trouble. it came the following afternoon at closing hour.
 			The policewoman again pushed her way through the group of patiently waiting women and,
@@ -174,9 +176,9 @@
 			strikes, and also with popular demonstrations in our behalf. As I reached the depth of
 			despair and public humiliation, something like a miracle occurred. Help and sympathy
 			sprang up on all sides. Legal aid was proffered. Doctors now rallied to my aid. A group
-			of sympathetic and wealthy women in New York promptly formed a <org>Committee of
-				100</org> for our defense. Sympathizers even held a mass meeting in <org>Carnegie
-				Hall</org>.</p>
+			of sympathetic and wealthy women in New York promptly formed a <org
+				reg="Committee of One Hundred">Committee of 100</org> for our defense. Sympathizers
+			even held a mass meeting in <org>Carnegie Hall</org>.</p>
 		<p> My trial began in Brooklyn on January 29, 1917. About 50 mothers, some equipped with
 			food and pacifiers and extra diapers for their babies, came to court. Timid and
 			distressed, they smiled and nodded, trying to reassure me. Mingled with them were the

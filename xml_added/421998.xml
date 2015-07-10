@@ -10,7 +10,9 @@
 		</docAuthor>
 		<docDate value="1916-01-10">10 Jan 1916</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview on Woman Rebel Case</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview on Woman Rebel Case</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421998</idno>
 		<sourceDesc>
@@ -41,19 +43,19 @@
 		<head>FIGHTS TO TEACH BIRTH CONTROL</head>
 		<div>
 			<dateline>
-				<date value="1916-01-10">Jan. 10</date> 
+				<date value="1916-01-10">Jan. 10</date>
 				<place reg="New York, NY">New York</place>
 			</dateline>
 			<p>
-				<q who="CDT">The trial of Mrs. Margaret H.
-					Sanger will begin Tuesday in the federal building before Federal <person
-						reg="Clayton, Henry DeLamar">Judge Clayton</person>, where she will
-					be called upon to answer the charges of disseminating literature advocating
-					birth control. Mrs. Sanger has refused to have any counsel, despite the advice
-					of her friends, and is going to plead her own case.</q>
+				<q who="CDT">The trial of Mrs. Margaret H. Sanger will begin Tuesday in the federal
+					building before Federal <person reg="Clayton, Henry DeLamar">Judge
+						Clayton</person>, where she will be called upon to answer the charges of
+					disseminating literature advocating birth control. Mrs. Sanger has refused to
+					have any counsel, despite the advice of her friends, and is going to plead her
+					own case.</q>
 			</p>
 			<p>
-				<q who="CDT">At a dinner Monday at the <org>Hotel Brevoort,</org> at which will be
+				<q who="CDT">At a dinner Monday at the <org>Hotel Brevoort</org>, at which will be
 					present a number of her friends, Mrs. Sanger expects to explain what her case
 					will be in the trial. At her home at 26 Post avenue Mrs. Sanger gave a history
 					of the case and told what she intends to do.</q>
@@ -87,8 +89,8 @@
 		<div type="section">
 			<head type="sub">Would Change the Law.</head>
 			<p>"If, as charged, my discussion of the subject comes under <name type="law"
-					reg="United States Criminal Code, Section 211">section 211</name> of the obscenity
-				law, then that section should be done away with.</p>
+					reg="United States Criminal Code, Section 211">section 211</name> of the
+				obscenity law, then that section should be done away with.</p>
 			<p>"I believe sincerely that the double standard of morals for men and women is due
 				primarily to ignorance of birth control. Men are afraid of having large families;
 				therefore, they do not feel that they can marry young and have children. The result

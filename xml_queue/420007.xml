@@ -19,7 +19,9 @@
 		</docTitle>
 		<idno>msp420007</idno>
 		<respStmt>
-			<resp><name id="MARKA">Marx, Karl</name></resp>
+			<resp>
+				<name id="MARKA">Marx, Karl</name>
+			</resp>
 		</respStmt>
 		<sourceDesc>
 			<bibl><title type="journal">The Woman Rebel,</title> May 1914, p. 24</bibl>
@@ -36,10 +38,10 @@
 	</headNote>
 	<docBody>
 		<head>WATCHFUL WAITING</head>
-		<p>Forty thousand women belonging to the <org reg="Socialist Party">Socialist
-				party of the <place>United States</place></org> wired their protest against the
-			brutalities of the militia in <place>Colorado</place> to <person reg="Wilson, Woodrow"
-				>President Wilson</person>.</p>
+		<p>Forty thousand women belonging to the <org reg="Socialist Party">Socialist party of the
+					<place>United States</place></org> wired their protest against the brutalities
+			of the militia in <place>Colorado</place> to <person reg="Wilson, Woodrow">President
+				Wilson</person>.</p>
 		<p>Forty thousand women! A splendid army this. An army of women supposed to represent the
 			class spirit and class consciousness of America.</p>
 		<p>Is there nothing more fitting to the occasion that these women can do, than protest?
@@ -53,8 +55,8 @@
 		<p>Women of the Socialist party! If there is no fighting spirit among you impelling
 			initiative other than to imitate the gentle suffragists, then at least take your
 			cue--follow the lead of those whom you would represent. The protests of the <org>Cigar
-				Makers</org> and <org>Typographical Union</org> and the <org>Miners of
-					<place>Wyoming</place></org> consisted in sending arms and ammunition to the
+				Makers</org> and <org>Typographical Union</org> and the <org reg="Miners of Wyoming">Miners of</org>
+					<place>Wyoming</place> consisted in sending arms and ammunition to the
 			striking miners of Colorado, and these are good enough examples of working-class
 			solidarity for all to follow.</p>
 		<p>When 40,000 women cannot follow up a protest by action, then truly it would appear that

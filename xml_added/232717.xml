@@ -7,7 +7,9 @@
 		<prepDate>2013-04-30 CH proof and enter tags</prepDate>
 		<prepDate>2014-07-03 CH clean regs</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-12-06">6 Dec 1954</docDate>
 		<docTitle>
 			<titlePart>Message to the Second All India Conference on Family Planning</titlePart>
@@ -19,8 +21,9 @@
 				S77:71</bibl>
 		</sourceDesc>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger's message was sent to Lady <person reg="Rama Rau, Dhanvanthi"
-				>Rama Rau</person> and likely read at the meeting.</p>
+	<headNote resp="MSPP">
+		<p>Sanger's message was sent to Lady <person reg="Rama Rau, Dhanvanthi">Rama Rau</person>
+			and likely read at the meeting.</p>
 		<index level1="birth control" level2="clinics and leagues" level3="in India"/>
 		<index level1="conferences" level2="All India Conference on Family Planning" level3="1954"/>
 		<index level1="birth control" level2="international conferences on"/>
@@ -37,7 +40,7 @@
 		<p>What <place>India</place> has accomplished relative to family planning centers and the
 			spread of this educational reform has been a great surprise and inspiration to many of
 			us who have labored through the years. What has taken us twenty years to accomplish,
-			India has done in two years. Yours is the first <org reg="Government of India"
+			India has done in two years. Yours is the first <org reg="India Government"
 				>Government</org> to have contributed to the spread of this work, and now with
 			reports from some of your scientists in the scientific laboratories they are on their
 			way to develop simple cheap contraceptives, which is indeed much to be desired. And

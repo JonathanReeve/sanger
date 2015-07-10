@@ -7,7 +7,9 @@
 		<prepDate>2011/07/13 CH final edit</prepDate>
 		<prepDate>2014-03-21 CH </prepDate>
 		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1940-09-28">28 Sept 1940</docDate>
 		<docTitle>
 			<titlePart>
@@ -42,8 +44,11 @@
 	</headNote>
 	<docBody>
 		<head rend="underline">MANUSCRIPT OF ADDRESS BY MRS. MARGARET SANGER</head>
-		<dateline><place reg="New Beford, MA">New Bedford, Massachusetts</place><lb/><date
-				value="1940-10-14">6:00-6:15 p.m. October 14, 1940</date></dateline>
+		<dateline>
+			<place reg="New Beford, MA">New Bedford, Massachusetts</place>
+			<lb/>
+			<date value="1940-10-14">6:00-6:15 p.m. October 14, 1940</date>
+		</dateline>
 		<p>A few years ago the people of the world, for the first time in the history of man, were
 				<emph rend="underline">confident</emph> that <add>at last</add> an enduring peace
 			could be achieved. But today the world is swept by the most brutal war that man has
@@ -67,7 +72,8 @@
 			in years of peace, it is the <emph rend="underline">children</emph>, and the <emph
 				rend="underline">women</emph> who bear <del>them</del>
 			<add>the children</add>, that suffer the heaviest toll.</p>
-		<p><list>
+		<p>
+			<list>
 				<item>Fourteen thousand mothers lost in childbirth!</item>
 				<item>Seventy-five thousand babies born dead!</item>
 				<item>Seventy thousand babies lost in the first month of life!</item>
@@ -86,7 +92,8 @@
 				<item>300,000, crippled</item>
 				<item>400,000, Tubercular</item>
 				<item>50,000, partially blind</item>
-			</list></p>
+			</list>
+		</p>
 		<p>And the cause of this?</p>
 		<p>Mothers dying needlessly, in giving birth to children who might better not have been
 			born; <del>fighters</del>
@@ -184,7 +191,7 @@
 			expressed, result in a change in this outmoded law.</p>
 		<p>You will want to help in this campaign, and in saying that I know that I am speaking to
 			the great majority of those who are listening.</p>
-		<p>All that you need do is to register your will. Write to the <org>Massachusetts Mother’s
+		<p>All that you need do is to register your will. Write to the <org>Massachusetts Mothers
 				Health Council</org>, 143 Newbury Street, <place reg="Boston, MA">Boston</place>, or
 			in care of this station, and say that you want to sign the petition to the legislature
 			for restoration of medical rights in Massachusetts. You will be sent a blank. Your

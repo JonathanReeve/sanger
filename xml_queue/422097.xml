@@ -9,8 +9,9 @@
 		</docAuthor>
 		<docDate value="1934-06-02"><supplied resp="MSPP"/>2 June 1934</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on the United States Birth
-				Rate</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on the United States Birth Rate</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp422097</idno>
 		<sourceDesc>
@@ -20,7 +21,9 @@
 		<respStmt>
 			<resp/>
 			<name reg="MMI">Moberly Monitor-Index</name>
-			<name><person reg="MURTI">Murphy, Timothy F.</person></name>
+			<name>
+				<person reg="MURTI">Murphy, Timothy F.</person>
+			</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -34,26 +37,37 @@
 		<dateline><place reg="Washington, DC">WASHINGTON</place>, <date value="1934-06-02">June
 				2</date>
 			<org reg="Associated Press">AP</org>--</dateline>
-		<p><q who="MMI">A plunge in the <place>United States</place>' birth rate--certain to carry
+		<p>
+			<q who="MMI">A plunge in the <place>United States</place>' birth rate--certain to carry
 				the 1933 figure to a new low, and still dropping--was disclosed today by the <org
 					reg="United States Bureau of Vital Statistics">Bureau of Vital
-				Statistics</org>.</q></p>
-		<p><q who="MURTI">"We did not expect a decrease as rapid as it is,"</q>
+				Statistics</org>.</q>
+		</p>
+		<p>
+			<q who="MURTI">"We did not expect a decrease as rapid as it is,"</q>
 			<q who="MMI">said Dr. Timothy F. Murphy, chief of the bureau, reporting of the
-				plummet-like movement. </q><q who="MURTI"> "A situation though to have extended over
-				a long period of years has been hastened."</q></p>
-		<p><q who="MMI"> Margaret Sanger, veteran birth control exponent, was quick to call the
-				declining birth rate a general boon as well as a triumph for her cause.</q></p>
+				plummet-like movement. </q>
+			<q who="MURTI"> "A situation though to have extended over a long period of years has
+				been hastened."</q>
+		</p>
+		<p>
+			<q who="MMI"> Margaret Sanger, veteran birth control exponent, was quick to call the
+				declining birth rate a general boon as well as a triumph for her cause.</q>
+		</p>
 		<p>"The birth rate can well afford to go down," <q who="MMI">she said.</q> "On the basis of
 			the enormous population increase of the past, the birth rate must be lowered. A
 			decreased birth rate doesn't mean a population decrease. Fewer babies are born, but with
 			much less infant mortality, there is a better rate of survival." </p>
-		<p><q who="MMI">The drop has been from 25.1 births per 1,000 population in <date>1915</date>
-				to 17.4 in <date>1932</date>.</q></p>
-		<p><q who="MMI">Dr. Murphy partly agreed with the theory put before the <org
-					reg="National Conference of Social Work, 61st">social workers convention</org>
+		<p>
+			<q who="MMI">The drop has been from 25.1 births per 1,000 population in
+					<date>1915</date> to 17.4 in <date>1932</date>.</q>
+		</p>
+		<p>
+			<q who="MMI">Dr. Murphy partly agreed with the theory put before the <org
+					reg="National Conference of Social Work">social workers convention</org>
 				in <place reg="Kansas City, MO">Kansas City</place> last week--that the decline was
-				due to voluntary control of conception.</q></p>
+				due to voluntary control of conception.</q>
+		</p>
 		<p><q who="MURTI">"But there are other important factors, too,"</q>
 			<q who="MMI">he said.</q><q who="MURTI">"The number of marriages goes down in a
 				depression. Parents are separated by economic pressure. Immigration restrictions

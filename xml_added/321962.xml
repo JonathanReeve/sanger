@@ -5,7 +5,8 @@
 		<prepDate>2015-03-02 JC encoding</prepDate>
 		<prepDate>2015-03-13 CH proof tags</prepDate>
 		<prepDate>2015-03-20 CH recheck tags</prepDate>
-		<prepDate>2015-03-27 JC corrections made</prepDate><prepDate>2015-03-30 CH proof and enter tags</prepDate>
+		<prepDate>2015-03-27 JC corrections made</prepDate>
+		<prepDate>2015-03-30 CH proof and enter tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,7 +18,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on American Woman's Association Award</supplied>
+				<supplied resp="MSPP">Statement on American Women's Association Award</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321962</idno>
@@ -32,7 +33,7 @@
 			<name id="MILHO">Miller, Hope Ridings</name>
 			<name id="WELHG">Wells, H. G.</name>
 			<name id="UNK">Unknown</name>
-			<name id="AWA">American Woman's Association</name>
+			<name id="AWA">American Women's Association</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -49,7 +50,7 @@
 		<div type="section">
 			<p>
 				<q who="MILHO">Who is this woman who won the first award for achievement given by
-					the <org>American Woman’s Association</org> as one who has <q who="AWA">“fought
+					the <org>American Women’s Association</org> as one who has <q who="AWA">“fought
 						against almost every influence which in the past was considered necessary
 						for the success of a cause?”</q> Who is this woman of whom <person
 						reg="Wells, H. G.">H. G. Wells</person> said,</q>

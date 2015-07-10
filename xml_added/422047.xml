@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-05-20 CH encoded and transcribed</prepDate>
 		<prepDate>2015-05-27 CH proof and enter tags</prepDate>
+		<prepDate>2015-07-08 MC correct transcript</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -33,16 +34,15 @@
 	</headNote>
 	<docBody>
 		<head>WOMEN JAM HALL TO HEAR ADDRESS ON BIRTH CONTROL</head>
-		<p><q who="BT">The <place>Connecticut</place> law that holds it to be a crime to be a crime
-				for any person to use drugs, any article or any other means to prevent conception
-				was attacked as</q> "perfectly absurd"<q who="BT"> by Mrs. Sanger, of <place
-					reg="New York, NY">New York</place> internationally famous birth control
-				advocate, in lecturing last night under the auspices of the <org>Council of Jewish
-					Women</org> before several hundred women who crowded all available space in the
-				assembly room of the <org reg="Business and Professional Women's Clubs">Business and
-					Professional Women's club</org> in the Liberty Building. She advised that every
-				woman, individually and each organization as a unit, work to have the law
-				repealed.</q></p>
+		<p><q who="BT">The <place>Connecticut</place> law that holds it to be a crime for any person
+				to use drugs, any article or other means to prevent conception, was attacked as</q>
+			"perfectly absurd"<q who="BT"> by Mrs. Sanger, of <place reg="New York, NY">New
+					York</place> internationally famous birth control advocate, in lecturing last
+				night under the auspices of the <org>Council of Jewish Women</org> before several
+				hundred women who crowded all available space in the assembly room of the <org
+					reg="Business and Professional Women's Clubs">Business and Professional Women's
+					club</org> in the Liberty building. She advised that every woman, individually,
+				and each organization, as a unit, work to have the law repealed.</q></p>
 		<p><q who="BT">Poverty, feeble-mindedness, disease, child labor, human suffering in many
 				forms and other social problems would be solved, Mrs. Sanger argued if women had
 			</q>the "right kind of information" <q who="BT">that they could control the number of
@@ -53,7 +53,7 @@
 			control, no one method being applicable to different individuals. There should be such a
 			clinic in Bridgeport, she said.</p>
 		<div>
-			<head type="sub">Speaks without Permit.</head>
+			<head type="sub">Speaks Without Permit.</head>
 			<p>
 				<q who="BT">Introduced by <person reg="Capitman, Frances">Mrs. Samuel
 						Capitman</person>, the president of the council, who presided over the
@@ -66,13 +66,13 @@
 					consulting with him prior to her speaking last night</q>.</p>
 			<p>
 				<q who="BT">Mrs. Sanger was arrested during the scenes of turbulence before and in
-					the <org>Town Hall</org>, New York, and not permitted to
-					deliver the same lecture. The <person reg="Hackett, William Stormont">Mayor of
-						Albany</person> refused to allow her to address a body of women in that
-					city, even after he had read her speech in manuscript. Her appearance in <place
-						reg="New Haven, CT">New Haven</place>, scheduled recently, was blocked. She
-					has visited <place>Japan</place>, <place>China</place>, and <place reg="Europe"
-						>European countries</place>, lecturing on birth control.</q>
+					the <org>Town Hall</org>, New York, and not permitted to deliver the same
+					lecture. The <person reg="Hackett, William Stormont">Mayor of Albany</person>
+					refused to allow her to address a body of women in that city, even after he had
+					read her speech in manuscript. Her appearance in <place reg="New Haven, CT">New
+						Haven</place>, scheduled recently, was blocked. She has visited
+						<place>Japan</place>, <place>China</place>, and <place reg="Europe">European
+						countries</place>, lecturing on birth control.</q>
 			</p>
 			<p><q who="BT">In striving to make this a</q> "cleaner, healthier, saner" <q who="BT"
 					>world, Mrs. Sanger said, a number of suggestions were put out by friends of
@@ -82,9 +82,9 @@
 				<q who="BT">A couple should not have children when either parent has a <supplied
 						resp="MSPP">transmissible</supplied> disease, nor should woman permit
 					pregnancy when suffering from a temporary disease that would tend to injure the
-					child or wreck her own health, and the parents of feeble minded and
-					disease-wrecked children should not permit the birth of any more children even
-					though they themselves are healthy, as </q>
+					child or wreck her own health, and parents of feeble minded and disease-wrecked
+					children should not permit the birth of any more children even though they
+					themselves are healthy, as </q>
 			</p>
 			<gap extent="rest of article" reason="missing"/>
 		</div>

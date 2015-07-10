@@ -4,7 +4,8 @@
 	<mepHeader>
 		<prepDate>2011/06/10 RT initial tag</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<prepDate>2015-03-27 CH recheck tags</prepDate><prepDate>2015-03-30 CH didn't load new title</prepDate>
+		<prepDate>2015-03-27 CH recheck tags</prepDate>
+		<prepDate>2015-03-30 CH didn't load new title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -71,7 +72,7 @@
 			years, preferably three, between births. In this way a mother can fully regain her
 			strength after childbirth and give the best that she has to the children already born
 			and those to come.</p>
-		<p>Studies made by the <org>United States Children’s Bureau</org> show that children born
+		<p>Studies made by the <org>United States Children's Bureau</org> show that children born
 			one year apart die at the rate of 147 per thousand, while children born two years apart
 			have a far greater chance of survival. Their death rate drops to 92 per thousand. As the
 			interval between births increases, the infant death rate drops. So also mothers are more
@@ -97,8 +98,8 @@
 			restrictions of the statute.</p>
 		<p>Here in the United States we too are rejoicing in a recent wise and far reaching court
 			decision. The organization of which I am the president, the <org>National Committee on
-				Federal Legislation for the Birth Control</org> has been seeking an amendment to the
-			so-called <name>Comstock law</name>. This Federal statute, passed over sixty years ago,
+				Federal Legislation for Birth Control</org> has been seeking an amendment to the
+			so-called <name type="law" reg="United States Criminal Code, Section 211">Comstock law</name>. This Federal statute, passed over sixty years ago,
 			classed prevention of conception with obscenity and made it a crime to send birth
 			control information or supplies by mail or by express. It also forbade importation. I
 			saw many years ago that this law was the chief stumbling block to progress; doctors were
@@ -111,7 +112,7 @@
 				Circuit Court of Appeals</org> for the second Circuit interpreted and clarified the
 			law and gave to the medical profession what we were trying to secure through
 			legislation. It gave physicians a bill of rights in the field of contraception. The case
-			involved the seizure by the <org reg="United States Customs">Customs</org> of birth
+			involved the seizure by the <org reg="United States Customs Department">Customs</org> of birth
 			control materials sent to a physician here in <place reg="United States">America</place>
 			by a physician in <place>Japan</place>. I will read just one sentence from the decision.
 				“<q who="USCCA">We are satisfied,</q>” said the judges, “<q who="USCCA">that this

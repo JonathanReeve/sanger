@@ -22,8 +22,9 @@
 			<name id="CLIRU">Clinchy, Russell J.</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This draft was prepared for Sanger by <person reg="Hanau, Stella Bloch"
-				>Stella Bloch Hanau</person>. No final version has been found. </p>
+	<headNote resp="MSPP">
+		<p>This draft was prepared for Sanger by <person reg="Hanau, Stella Bloch">Stella Bloch
+				Hanau</person>. No final version has been found. </p>
 		<index level1="birth control" level2="religion and"/>
 		<index level1="child spacing"/>
 		<index level1="family planning"/>
@@ -40,7 +41,7 @@
 			principles of birth control are the <org reg="Episcopal House of Bishops">House of
 				Bishops</org> and the <org reg="Episcopal House of Deputies">House of Deputies</org>
 			of the <org>Episcopal Church</org>, the <org
-				reg="Federal Council of the Church of Christ in America, Committee on Marriage and the Family"
+				reg="Federal Council of Church of Christ in America"
 				>Committee on Marriage and the Home of the Federal Council of the Churches of Christ
 				in America</org>, the <org>Unitarian Associations</org>, the <org>Universalist
 				General Convention</org>, <org reg="Methodist Church Regional Conferences">Regional

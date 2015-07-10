@@ -5,7 +5,9 @@
 		<prepDate>2009/07/21 LL</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-17 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-04-00">Apr 1931</docDate>
 		<docTitle>
 			<titlePart>Committee on Federal Legislation for Birth Control</titlePart>
@@ -19,14 +21,15 @@
 				C16:316</bibl>
 		</sourceDesc>
 		<respStmt>
-			<name id="AGS">American Gynecological Society</name>
+			<name id="AGOS">American Gynecological and Obstetrical Society</name>
 			<name id="UNK">Unknown</name>
 			<name id="AMAOG">American Medical Association, Obstetrics, Gynecology, and Abdominal
 				Surgery Section</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>For additional information, see <xref from="303736.xml">Sanger's
-				testimony on S. 4582</xref>, Feb. 13, 1931.</p>
+	<headNote resp="MSPP">
+		<p>For additional information, see <xref from="303736.xml">Sanger's testimony on S.
+				4582</xref>, Feb. 13, 1931.</p>
 		<index level1="birth control" level2="laws and legislation" level3="doctors-only bills"/>
 		<index level1="birth control" level2="laws and legislation"
 			level3="Postal Code and Regulations"/>
@@ -144,8 +147,8 @@
 				authorization of existing laws wherever necessary so that physicians may legally
 				give contraceptive information to their patients in the regular course of
 				practice</q>.”</p>
-		<p>Further, the <org>American Gynecological Society</org> at the same time indorsed the
-			following amendment to the existing Federal laws: “<q who="AGS">Standard medical works,
+		<p>Further, the <org reg="American Gynecological and Obstetrical Society">American Gynecological Society</org> at the same time indorsed the
+			following amendment to the existing Federal laws: “<q who="AGOS">Standard medical works,
 				standard medical and scientific journals, and reprints therefrom, which contain
 				information with reference to the prevention of conception are not nonmailable under
 				this section.</q>”</p>

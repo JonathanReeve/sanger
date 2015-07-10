@@ -81,8 +81,8 @@
 				sleep--have had such a welcome in America. Our work is international. We are allied
 				with Leagues in England, <place reg="Netherlands">Holland</place> and
 					<place>France</place>."</p>
-			<p>Mrs. Sanger will speak tonight at the <org>West Side auditorium</org>, Taylor street
-				and Racine avenue, and next Sunday evening at the <org>Little theater</org>.</p>
+			<p>Mrs. Sanger will speak tonight at the <org reg="West Side Auditorium">West Side auditorium</org>, Taylor street
+				and Racine avenue, and next Sunday evening at the <org reg="Little Theater of Chicago">Little theater</org>.</p>
 			<p/>
 		</div>
 	</docBody>

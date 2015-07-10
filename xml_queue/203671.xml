@@ -6,10 +6,14 @@
 		<prepDate>2012-03-28 AW</prepDate>
 		<prepDate>2014-04-04 CH clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1959-07-21">21 July 1959</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Eulogy for Abraham Stone, M.D.</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Eulogy for Abraham Stone, M.D.</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp203671</idno>
 		<sourceDesc>
@@ -27,7 +31,9 @@
 	</headNote>
 	<docBody>
 		<head rend="underline">ABRAHAM STONE, M.D., 1891-1959</head>
-		<dateline><date value="1959-07-21">21 July 1959</date></dateline>
+		<dateline>
+			<date value="1959-07-21">21 July 1959</date>
+		</dateline>
 		<p>The extent of the shock and grief we feel at the sudden passing of our co-worker, Dr.
 				<person reg="Stone, Abraham">Abraham Stone</person>, cannot be told in writing. He
 			came early into the Birth Control Movement, accompanying his wife, Dr. <person
@@ -44,7 +50,7 @@
 			Consultant to the <org reg="United Nations World Health Organization">World Health
 				Organization</org> on Family Planning, a member of the General Council of the
 				<org>International Union of Family Organizations</org>, and Vice-Chairman of the
-			Council of the <org rend="International Planned Parenthood Foundation">IPPF</org>.</p>
+			Council of the <org reg="International Planned Parenthood Foundation">IPPF</org>.</p>
 		<p>He received the <org reg="Albert D. and Mary Lasker Foundation">Lasker</org> Award for
 			Planned Parenthood in <place reg="United States">America</place> in 1947. His writings
 			for professional publications and popular periodicals were numerous. He wrote

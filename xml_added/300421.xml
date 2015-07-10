@@ -7,7 +7,10 @@
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1912-03-05"> 5 Mar. 1912</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Testimony Before the House of Representatives on the Strike at Lawrence</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Testimony Before the House of Representatives on the Strike at
+					Lawrence</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp300421</idno>
 		<sourceDesc>
@@ -65,7 +68,7 @@
 				your own way what took place.</q></p>
 		<p>MISS SANGER. <q who="SANMA">Well, I helped to take the first section of children, when
 				there was no difficulty in getting them away. We brought them to New York and gave
-				them supper; we took them to the <org>Labor Temple,</org> where people were waiting
+				them supper; we took them to the <org>Labor Temple</org>, where people were waiting
 				to take them to their homes; there they had a supper and they were distributed, and
 				that was all there was to think about.</q></p>
 		<p>MR. POU. <q who="POUWI">How long was that before the day we have been talking about, the

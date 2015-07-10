@@ -7,7 +7,9 @@
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-02-24 CH clean error</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-00-00">
 			<supplied resp="MSPP">1954</supplied>
 		</docDate>
@@ -28,7 +30,8 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No published version was found.</p>
+	<headNote resp="MSPP">
+		<p>No published version was found.</p>
 		<index level1="infertility"/>
 		<index level1="Margaret Sanger Research Bureau"/>
 	</headNote>
@@ -49,7 +52,7 @@
 			and Dr. <person reg="Shields, Frances A.">Frances A. Shields</person>, and is now one of
 			the most active centers of its kind in this country. Only patients referred by
 			physicians are accepted at the <org
-				reg="Margaret Sanger Research Bureau, Infertility Services">Infertility
+				reg="Margaret Sanger Research Bureau">Infertility
 				Service</org> of the Bureau, but already more than 2500 couples have received
 			medical care for their childlessness at the Bureau.</p>
 		<p>At our Service we regard barrenness as a problem not of the wife or of the husband, but

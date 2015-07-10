@@ -6,7 +6,9 @@
 		<prepDate>2012-03-28 CH proofed tags</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-04-19">
 			<supplied resp="MSPP">19 Apr 1954</supplied>
 		</docDate>
@@ -39,7 +41,7 @@
 			experiments where the <org reg="Japan Institute of Public Health">Institute of Public
 				Health</org> has sent nurses and midwives to the homes to teach the parents methods
 			of Birth Control. The results while not conclusive are encouraging. The <org
-				reg="Japan Ministry of Health and Welfare">Health and Welfare Departments</org>
+				reg="Japan Ministry of Public Health and Welfare">Health and Welfare Departments</org>
 			should be encouraged to expand their guidance to many more villages and help mothers to
 			avoid the necessity of abortion. </p>
 		<p>The most encouraging impression I have had is the overwhelming desire on the part of

@@ -130,9 +130,9 @@
 				the Surgeon General, Dr. <person reg="Parran, Thomas, Jr.">Thomas Parran</person>,
 				stated that "<q who="PARTH">approximately one million children are born each year in
 					families on relief or with an annual income of less than $1,000.00.</q>" </p>
-			<p>These findings are backed by the studies of Dr. <person reg="Stouffer, Sameul Andrew">S. A.
-					Stouffer</person> of the <org>University of Wisconsin</org>, in the <title
-					type="journal">Journal of the American Statistical Association</title>,
+			<p>These findings are backed by the studies of Dr. <person reg="Stouffer, Samuel Andrew"
+					>S. A. Stouffer</person> of the <org>University of Wisconsin</org>, in the
+					<title type="journal">Journal of the American Statistical Association</title>,
 				September, 1934, showing that in 5,520 families on relief in <place
 					reg="Milwaukee, WI">Milwaukee</place>, the rate of confinements, taking place
 				nine months or more after the families went on relief, exceeded the non-relief
@@ -150,7 +150,7 @@
 					for jobs, brought about by the depression."</q> The high birth rate, they found,
 				was largely in families who "<q who="SYDED">could least afford, from any point of
 					view, to assume this responsibility.</q>"</p>
-			<p><person reg="Paul Popenoe">Popenoe</person> &amp; <person
+			<p><person reg="Popenoe, Paul">Popenoe</person> &amp; <person
 					reg="Williams, Ellen Morton">Williams</person>, in an article, "<title>Fecundity
 					of Families Dependent on Public Charity</title>",(<title type="journal">American
 					Journal of Sociology</title> 40:214-220, September, 1934) found that in 504
@@ -166,7 +166,7 @@
 			<p><org>The Charity Organization Society in New York</org> in testing 451 representative
 				children under its care found the median I.Q. 86. That of 821 children in <place
 					reg="Indianapolis, IN">Indianapolis</place> was the same, while of 1,500 women
-				admitted as charity obstetrical patients at <org>Johns Hopkins Hospital</org>,
+				admitted as charity obstetrical patients at <org reg="Johns Hopkins University Hospital">Johns Hopkins Hospital</org>,
 					<place reg="Baltimore, MD">Baltimore</place>, 39% o the whites and 70% of the
 				negroes were found to have a mental age of 11 years or less. (Popenoe &amp; Williams
 				p. 220)</p>
@@ -219,12 +219,13 @@
 				recreation for children, with another 2 billion on their health. </p>
 			<p>Much of this load is borne by all the people in taxes for public schools and state
 				universities; in contributions for up-keep of hospitals and health agencies; in
-				donations to <org>Community Chests</org> for every kind of activity, health and
-				recreational. No one would grudge this money if it brought results. But we are
-				constantly appalled by reading of the increase in crime--a large proportion of it by
-				young criminals--by the low physical an mental standards of so many of our people.
-				And if we ask why so little progress is made we are told that it is because we don't
-				spend enough money--we need billions more if the needs are to be properly met. </p>
+				donations to <org reg="Community Chest">Community Chests</org> for every kind of
+				activity, health and recreational. No one would grudge this money if it brought
+				results. But we are constantly appalled by reading of the increase in crime--a large
+				proportion of it by young criminals--by the low physical an mental standards of so
+				many of our people. And if we ask why so little progress is made we are told that it
+				is because we don't spend enough money--we need billions more if the needs are to be
+				properly met. </p>
 			<p>In all this frantic struggle to get more money to take care of the hordes of the
 				unfit, few voices have been heard asking why the people of this country should be
 				asked to drag this increasingly heavy ball and chain forever; why something cannot

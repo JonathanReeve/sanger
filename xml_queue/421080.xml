@@ -53,11 +53,12 @@
 					reg="New York, NY">New York</place>, in reply to a question
 				put to her at a meeting held in the <place reg="Bombay, India"
 					>Bombay</place>
-				<org>Municipal Corporation hall</org>, on Friday evening. The
-				theme of her lecture was “What Municipalities in the West have
-				been doing to promote birth control.” She was accompanied by
-				Mrs. <person reg="How-Martyn, Edith">Edith How-Martyn</person>,
-				Honorary Director, <org>Birth Control International Information
+				<org reg="Bombay Municipal Corporation Hall">Municipal
+					Corporation hall</org>, on Friday evening. The theme of her
+				lecture was “What Municipalities in the West have been doing to
+				promote birth control.” She was accompanied by Mrs. <person
+					reg="How-Martyn, Edith">Edith How-Martyn</person>, Honorary
+				Director, <org>Birth Control International Information
 					Centre</org>, <place reg="London, England">London</place>,
 				who also addressed the meeting. There was a large gathering.</q>
 		</p>
@@ -87,16 +88,15 @@
 			</p>
 
 			<p>
-				<q who="ToI">Mrs. Sanger asked the <org
-						reg="Bombay Muncipal Corporation">Bombay
-						Municipality</org> to take the lead in the movement by
-					starting birth control clinics, as other western
-					municipalities had already done. If the knowledge of birth
-					control were systematically and scientifically spread among
-					the masses, it would do them enormous good, and within a
-					hundred years the people would appreciate the efforts of the
-					municipality and raise a statue to the Mayor for having
-					successfully launched the movement. (Laughter.) </q>
+				<q who="ToI">Mrs. Sanger asked the Bombay Municipality to take
+					the lead in the movement by starting birth control clinics,
+					as other western municipalities had already done. If the
+					knowledge of birth control were systematically and
+					scientifically spread among the masses, it would do them
+					enormous good, and within a hundred years the people would
+					appreciate the efforts of the municipality and raise a
+					statue to the Mayor for having successfully launched the
+					movement. (Laughter.) </q>
 			</p>
 			<p>
 				<q who="ToI">Mrs. How-Martyn explained how attention was being
