@@ -8,8 +8,12 @@
 		<prepDate>2013-07-23 CH corrected type</prepDate>
 		<prepDate>2014-07-10 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1953-08-22"><supplied resp="MSPP">22 Aug 1953</supplied></docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1953-08-22">
+			<supplied resp="MSPP">22 Aug 1953</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">International Planned Parenthood Federation Presidential
@@ -37,37 +41,38 @@
 	<docBody>
 		<p>This nomination as First President of the <del>Fourth</del>International PP Federation is
 			indeed a great honor. I had hoped &amp; prayed since the <org
-				reg="International Conference on Planned Parenthood, 3rd"><place
-					reg="Bombay, India">Bombay</place> Conference</org> that the Presidency would be
-			accepted by that charming, able woman Lady <person reg="Rama Rau, Dhanvanthi">Rama
-				Rau</person>. </p>
+				reg="International Conference on Planned Parenthood, 3rd"><place reg="Bombay, India"
+					>Bombay</place> Conference</org> that the Presidency would be accepted by that
+			charming, able woman Lady <person reg="Rama Rau, Dhanvanthi">Rama Rau</person>. </p>
 		<p>She has given her reason why she can not accept the position &amp; hope that in the next
 			two years when we meet again that these difficulties will evaporate &amp; be gone
 			forever. </p>
 		<p>This had been a splendid conference. I appreciate &amp; congratulate the German delegates
 			for their presence here. I know what difficulties they must overcome to speak out on the
 			subject. But it is not easy to keep truth buried behind laws forever &amp; I believe
-			that when the general people get on their feet again--time movement will gain
-			strength. I also thank the Dutch delegation for their splendid cooperation. Their
-			understanding has indeed made the work of the <org
+			that when the general people get on their feet again--time movement will gain strength.
+			I also thank the Dutch delegation for their splendid cooperation. Their understanding
+			has indeed made the work of the <org
 				reg="International Planned Parenthood Federation, Steering Committee">Steering
 				Committee</org> a pleasure. </p>
 		<p>We must also thank the delegates from <place>Greece</place>, <place>Turkey</place>,
 				<place>Japan</place> for their presence here. </p>
-		<p>The splendid accommodations that the <org reg="Riksf&ouml;rbundet f&ouml;r Sexeull Upplysning"
-				>Swedish League</org> has made for us. Their hospitality, their organizing ability
-			give us hope that one day there may be a cooperative well ordered world where PP becomes
-			a pattern of our civilization--<person reg="Ottesen-Jensen, Elise">Mrs. Ottensen
-				Jensen</person>’s great heart &amp; love has made us all feel equal to the task
-			which is ahead of us as we separate &amp; return to our homes to carry on. </p>
+		<p>The splendid accommodations that the <org
+				reg="Riksforbundet fur Sexeull Upplysning">Swedish League</org> has made
+			for us. Their hospitality, their organizing ability give us hope that one day there may
+			be a cooperative well ordered world where PP becomes a pattern of our
+				civilization--<person reg="Ottesen-Jensen, Elise">Mrs. Ottensen Jensen</person>’s
+			great heart &amp; love has made us all feel equal to the task which is ahead of us as we
+			separate &amp; return to our homes to carry on. </p>
 		<p>Last may I say that we all owe a debt of gratitude for the skilled &amp; able
-			demonstrations of fairness. Chairman Dr. <person reg="Blacker, C. P.">Blacker</person>,--Dr. Blacker has worked long hours on the Constitution I wrote him &amp; requested
-			that he &amp; the <org
+			demonstrations of fairness. Chairman Dr. <person reg="Blacker, C. P."
+			>Blacker</person>,--Dr. Blacker has worked long hours on the Constitution I wrote him
+			&amp; requested that he &amp; the <org
 				reg="International Planned Parenthood Federation, British Committee">English
 				Committee</org> set up the form of an <title>International Constitution</title> for
-			this Conference which could be passed around to the various nationals for their
-			opinions &amp; comments. This was done &amp; I know it took the midnight time to set it
-			forth in so splendid a form for our discussions. </p>
+			this Conference which could be passed around to the various nationals for their opinions
+			&amp; comments. This was done &amp; I know it took the midnight time to set it forth in
+			so splendid a form for our discussions. </p>
 		<p>We have all discussed every point &amp; with a few changes or additions I am pleased that
 			this Constitution has been accepted. As to myself--I can only say that my heart is too
 			full to express my gratitude for this confidence &amp; honor--that you have bestowed

@@ -23,7 +23,8 @@
 			<name id="ADC">Arizona Daily Citizen</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This article was published as a guest editorial.</p>
+	<headNote resp="MSPP">
+		<p>This article was published as a guest editorial.</p>
 		<index level1="population" level2="war and"/>
 		<index level1="population growth" level2="regulation of"/>
 	</headNote>
@@ -99,15 +100,17 @@
 				the father’s earning capacity and the standards of living they are able to maintain.
 				Let us give proper information in regard to methods of birth control and <org
 					reg="Planned Parenthood Federation of America">Planned Parenthood</org>. <place
-					reg="Tucson, AZ">Tuscon</place> has for the past 10 years provided this
-				information to parents at the <org reg="Planned Parenthood Clinic of Tuscon">Planned
+					reg="Tucson, AZ">Tucson</place> has for the past 10 years provided this
+				information to parents at the <org reg="Planned Parenthood Clinic of Tucson">Planned
 					Parenthood Clinic</org>, 28 East Corral st. The records give proof that this
 				public utility has been of great service in the community and should be supported.
 				They need $10,000.</p>
 			<p>This is a basic humane investment, an investment in health for the family and the
 				community.</p>
-			<p><q who="ADC">(Margaret Sanger Slee is the founder of the modern birth control
-					movement.)</q></p>
+			<p>
+				<q who="ADC">(Margaret Sanger Slee is the founder of the modern birth control
+					movement.)</q>
+			</p>
 		</div>
 	</docBody>
 </doc>

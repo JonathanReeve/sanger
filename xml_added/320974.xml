@@ -84,7 +84,8 @@
 					reg="Upham, John H. J.">John H. J. Upham</person>, M.D., former President of the
 					<org>American Medical Association</org>, was elected Chairman of the Board, and
 					<person reg="Eastman, Nicholson J.">Nicholson J. Eastman</person>, M.D., head of
-				the Department of Obstetrics and Gynecology, <org reg="Johns Hopkins University Medical School">Johns Hopkins Medical
+				the Department of Obstetrics and Gynecology, <org
+					reg="Johns Hopkins University Medical School">Johns Hopkins Medical
 				School</org>, became Chairman of the <org>National Medical Council on Birth
 					Control</org>.</p>
 		</div>
@@ -109,9 +110,9 @@
 				consideration to heads of these institutions.</p>
 			<div type="sub">
 				<head type="sub">Medical Endorsements.</head>
-				<p>The <org><place>Florida</place> State Medical Association</org>, the
-							<org><place>Tennessee</place> State Medical Society</org> and the
-							<org><place>West Virginia</place> State Medical Association</org>, all
+				<p>The <org reg="Florida State Medical Association"><place>Florida</place> State Medical Association</org>, the
+							<org reg="Tennessee State Medical Society"><place>Tennessee</place> State Medical Society</org> and the
+							<org reg="West Virginia State Medical Association"><place>West Virginia</place> State Medical Association</org>, all
 					passed resolutions approving child-spacing, or Planned Parenthood, as part of
 					public health activities and medical practice.</p>
 			</div>
