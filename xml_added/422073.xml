@@ -5,14 +5,15 @@
 		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
 		<prepDate>2015-06-10 CH proofread tags</prepDate>
 		<prepDate>2015-06029 CH enter corrected tags</prepDate>
+		<prepDate>2015-07-14 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1922-07-12">12 Jul 1922</docDate>
+		<docDate value="1922-07-11">11 Jul 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Press Statement at Fifth International Neo-Malthusian and
-					Birth Control Conference</supplied>
+				<supplied resp="MSPP">Statement from Fifth International Neo-Malthusian and Birth
+					Control Conference</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422073</idno>
@@ -26,13 +27,18 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="men" level2="and birth control"/>
-		<index level1="men" level2="and family size"/>
-		<index level1="men" level2="reproductive choices and decisions"/>
-		<index level1="birth control movement"/>
-		<index level1="birth control movement" level2="American"/>
-		<index level1="Japan" level2="birth control in"/>
-		<index level1="Japan" level2="MS on"/>
+		<p>For additional speeches made by Margaret Sanger at this conference see, <xref
+				from="213557.xml">"Individual and Family Aspects of Birth Control"</xref>, July 11,
+			1922 and <xref from="400080.xml">"Speech to the Fifth International Neo-Malthusian and
+				Birth Control Conference"</xref>, July 13, 1922.</p>
+		<index level1="conferences" level2="International Neo-Malthusian and Birth Control Conference" level3="1922 (5th)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="family size" level2="MS on"/>
+		<index level1="Japan" level2="politics in"/>
+		<index level1="Japan" level2="overpopulation"/>
+		<index level1="overpopulation" level2="and war"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+	
 	</headNote>
 	<docBody>
 		<head>AMERICAN MALES BAD INFLUENCES</head>
@@ -41,7 +47,7 @@
 			11</date>.--</dateline>
 		<p>"American husbands are just big babies so far as the welfare of their wives is concerned,
 			and therefore most of the converts to birth control are influenced in their decisions by
-			the deleterious effect of large families upon the health of their wives," <q who="MTDW">
+			the deleterious effect of large families upon the health of their wives." <q who="MTDW">
 				Margaret Sanger, of <place reg="New York, NY"> New York</place>, <place
 					reg="United States"> America's</place> chief exponent of limitation of births,
 				told the <org reg="International Neo-Malthusian and Birth Control Conference, 5th">
@@ -50,7 +56,7 @@
 			<q who="MTDW"> Mrs. Sanger, who has just returned from a tour of <place>China</place>
 				and <place>Japan</place> said that her Oriental trip had been a great success. The
 				only opposition she encountered, she said, was from the military officials in Japan
-				and the supporters if the Japanese military party.</q>
+				and the supporters of the Japanese military party.</q>
 		</p>
 		<p>"The Japanese military men want a large population for cannon fodder for the war which I
 			am convinced is coming," <q who="MTDW"> continued the birth control leader.</q> "It is

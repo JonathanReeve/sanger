@@ -9,18 +9,19 @@
 		<prepDate>2014-03-04 CH checking regs</prepDate>
 		<prepDate>2014-11-12 CH more regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-07-14 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1921-12-20">
-			<supplied resp="MSPP">20 Jan 1921</supplied>
+		<docDate value="1921-12-19">
+			<supplied resp="MSPP">19 Dec 1921</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>Reply by Margaret Sanger to Archbishop Hayes' Statement</titlePart>
 		</docTitle>
 		<idno>msp237427</idno>
 		<sourceDesc>
-			<bibl> Margaret Sanger Papers, Sophia Smith Collection, Smith College.</bibl>
+			<bibl> Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
 			<bibl><title type="mf">Margaret Sanger Micriofilm, Smith College Collections</title>,
 				S76:1165</bibl>
 		</sourceDesc>
@@ -32,15 +33,14 @@
 	<headNote resp="MSPP">
 		<p>Sanger drafted this statement in response to a Christmas pastoral letter issued by New
 			York Archbishop <person reg="Hayes, Patrick J.">Patrick J. Hayes</person> on December
-			17, 1921. For published version see <title type="journal">New York Times</title>, Dec.
-			20, 1921.</p>
+			17, 1921. For published version see <title type="article">"Mrs. SangerReplies to Archbishop Hayes,"</title> <title type="journal">New York Times</title>, Dec.
+			20, 1921, p. 24.</p>
 		<index level1="birth control" level2="opposition to"/>
-		<index level1="Catholic Church" level2="birth control and abortion and"/>
-		<index level1="Catholic Church" level2="MS on"/>
-		<index level1="Hayes, Patrick J. (Archbishop)"/>
-	</headNote>
+		<index level1="Catholic Church" level2="and birth control"/>
+		<index level1="Catholic Church" level2="political influence of"/>
+			</headNote>
 	<docBody>
-		<head>Reply by Margaret Sanger to Archbishop Hayes' Statement</head>
+		<head>REPLY BY MARGAREt SANGER TO ARCHBISHOP HAYES' STATEMENT.</head>
 		<p>I am glad to learn from Archbishop Hayes' Christmas pastoral that the church has a clear
 			understanding of Birth Control separating it definitely from taking life after
 			conception has occurred.</p>

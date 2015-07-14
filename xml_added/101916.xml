@@ -7,6 +7,7 @@
 		<prepDate>2007/06/15 CH Oxygen update</prepDate>
 		<prepDate>2014/03/05 EK cleanup</prepDate>
 		<prepDate>2015/01/13 EK correct proofreading</prepDate>
+		<prepDate>2015-07-14 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1915-10-24">24 Oct 1915</docDate>
 		<docTitle>
@@ -14,7 +15,7 @@
 		</docTitle>
 		<idno>msp101916</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The New York Sunday Call</title>, Oct. 24, 1915, p. 3</bibl>
+			<bibl><title type="journal">New York Sunday Call</title>, Oct. 24, 1915, p. 3</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -23,9 +24,10 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
-		<index level1="World War I" level2="passports"/>
-		<index level1="Europe" level2="travel in"/>
-		<index level1="England" level2="views of America"/>
+		<index level1="World War I" level2="and travel"/>
+		<index level1="England" level2="MS on"/>
+		<index level1="Europe" level2="MS on"/>
+		<index level1="World War I" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<head>THE DANGER OF CARRYING AN AMERICAN PASSPORT</head>

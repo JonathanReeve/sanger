@@ -5,6 +5,7 @@
 		<prepDate>2015-05-27 MC encoded and transcribed</prepDate>
 		<prepDate>2015-05-29 CH proof tags</prepDate>
 		<prepDate>2015-06-09 MC correct tags</prepDate>
+		<prepDate>2015-07-14 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,8 +19,8 @@
 		</docTitle>
 		<idno>msp422081</idno>
 		<sourceDesc>
-			<bibl><title type="article">Mrs. Sanger on Birth Control</title>, <title type="journal"
-					>Reading Times</title>, Jan. 11, 1922, p 2</bibl>
+			<bibl><title type="article">"Mrs. Sanger on Birth Control"</title>, <title
+					type="journal">Reading (PA) Times</title>, Jan. 11, 1922, p. 2</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,13 +29,17 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger also gave this speech at an afternoon meeting on Jan. 10th at the residence of
-			Mrs. A.D. Nelson. The evening speech was sponsored by the Labor Lyceum.</p>
 		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="Pennsylvania" level2="birth control in"/>
+		<index level1="American Birth Control League"/>
+		<index level1="Southern states"/>
+		<index level1="birth control movement" level2="goals and strategies"/>
 		<index level1="child labor"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
 	</headNote>
 	<docBody>
-		<head>Mrs. Sanger on Birth Control</head>
+		<head>MRS. SANGER ON BIRTH CONTROL</head>
 		<p>
 			<q who="RT">Mrs. Margaret Sanger made two addresses in <place reg="Reading, PA"
 					>Reading</place> yesterday on "birth control." The first was of a semi-private
@@ -43,51 +48,51 @@
 		<p>
 			<q who="RT">A goodly company of women gathered in the afternoon at the residence of
 					<person reg="Nelson, Mary B.">Mrs. A. D. Nelson</person>, 1025 Fairview avenue,
-				Wyomossing, to hear Mrs. Margaret Sanger.</q>
+				Wyomissing, to hear Mrs. Margaret Sanger.</q>
 		</p>
-		<p>"This is what we call an organization meeting," <q who="BT">she said in opening. It seems
-				to me from the interest that has been shown here in Reading at the three previous
-				meetings that there is a great deal of interest in the subject of birth
-			control.</q></p>
+		<p>"This is what we call an organization meeting," <q who="RT">she said in opening.</q> "It
+			seems to me from the interest that has been shown here in Reading at the three previous
+			meetings that there is a great deal of interest in the subject of birth control."</p>
 		<p>"We come here, and we have large overflowing meetings, and then we go away and there is
 			nothing left and nothing done. It is not just right to arouse interest in a great cause
 			like this without following it up with some further steps, practical knowledge and
-			setting minds straight toward the right goal of idealism.</p>
+			setting minds straight toward the right goal of idealism."</p>
 		<p>"The whole subject of this movement is to direct the forces of motherhood in the right
 			direction. We not only want to control birth and to decrease the quantity among the
 			unfit and the diseased and the poor, but we also want to improve the quality of the
-			human race. Let us never forget that we have a two-fold object in this work. </p>
+			human race. Let us never forget that we have a two-fold object in this work."</p>
+
 		<p>"It is going to be the object of the <org>American Birth Control League</org> to
 			formulate and establish birth control clinics throughout this country. We want to go
-			into the south where in those states the white people are numerous and in many ways more
-			badly treated than the colored people.</p>
+			into the south where in those states the white people are more numerous and in many ways
+			more badly treated than the colored people."</p>
 		<div>
-			<head type="sub">Oppose Child Labor</head>
+			<head type="sub">OPPOSE CHILD LABOR</head>
 			<p>"We want to go into these states in which child labor still exists, and we want to
 				make child labor an unnecessary thing in these states within a very few years. We
-				are going to do that, not by passing laws against child labor, which are prolific.
-				We are going to give those mothers instruction in means of preventing conception, so
-				that the mother will not have more children than she can take care of. We want to go
-				into the industrial sections of every state in this nation and organize the interest
-				that is already there. </p>
+				are going to do that, not by passing laws against child labor, but by removing the
+				causes of child labor, which are prolific. We are going to give those mothers
+				instruction in means of preventing conception, so that the mother will not have more
+				children than she can take care of. We want to go into the industrial sections of
+				every state in this nation and organize the interest that is already there.'</p>
 			<p>"Now we do not want to do it from outside. We want the aid of those members of the
 				community who are in sympathy with us, who believe in birth control, and who believe
 				that the application of this information when directed properly will be a good thing
 				for that community."</p>
 			<p>
-				<q who="RT">Mrs. Sanger claims that her plan will reduce the infant mortality rate,
-					as the mother will have only the number of children she can take care of, first
+				<q who="RT">Mrs. Sanger claims her plan will reduce the infant mortality rate, as
+					the mother will have only the number of children she can take care of, first in
 					accordance with the mother's health, second in accordance with the father's
 					income. She also says it will encourage young people to marry earlier, to work
 					together, to consider the responsibilities of parenthood before they bring a
 					child into the world. It will automatically reduce prostitution and venereal
-					diseases, as it has done in <place reg="Netherlands">Holland</place> and
+					diseases, as it has done in <place reg="Netherlands, the">Holland</place> and
 						<place>New Zealand</place> and in countries where there has been organized
 					effort to give instruction in birth control.</q>
 			</p>
 		</div>
 		<div>
-			<head type="sub">Branch Organized</head>
+			<head type="sub">BRANCH ORGANIZED</head>
 			<p>
 				<q who="RT">Prominent local people showed their interest in the subject of birth
 					control by forming a branch of the American Birth Control League at the home of
@@ -98,12 +103,12 @@
 					subject.</q>
 			</p>
 			<p>
-				<q who="RT">Rev.<person reg="Williams, L. Griswold"> L. Griswold Williams</person>
+				<q who="RT">Rev.<person reg="Williams, L. Griswold"> L. Griswold Williams</person>, 
 					pastor of the <org>Universalist Church of Our Father</org>, was elected
 					president of the temporary organization. The other officers are: Vice president,
 					Mrs. <person reg="Welfy, Ella A.">Ella Welfy</person>; recording secretary, Mrs.
 						<person reg="Stuber, Adda J.">Raymond Stuber</person>; executive secretary,
-					Mrs. A.D. Nelson; treasurer, <person reg="Nelson, Albert D.">A.D.
+					Mrs. A. D. Nelson; treasurer, <person reg="Nelson, Albert D.">A. D.
 						Nelson</person>.</q>
 			</p>
 			<p>
@@ -115,7 +120,7 @@
 			</p>
 		</div>
 		<div>
-			<head type="sub">The Evening Meeting</head>
+			<head type="sub">THE EVENING MEETING</head>
 			<p>
 				<q who="RT">Rev. Mr. Williams opened the public meeting in <org>Odd Fellows
 						hall</org> last night at which Mrs. Sanger was the speaker. Mr. Williams
