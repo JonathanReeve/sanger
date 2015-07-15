@@ -5,6 +5,7 @@
 		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
 		<prepDate>2015-06-10 CH proofed tags</prepDate>
 		<prepDate>2015-06-29 CH entered tag corrections</prepDate>
+		<prepDate>correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -27,16 +28,21 @@
 	<headNote resp="MSPP">
 		<p>For a similar statement, see "<xref from="422070.xml">Interview with the International
 				News Service</xref>," Sept. 5, 1922.</p>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (World)"/>
 		<index level1="Japan" level2="birth control in"/>
 		<index level1="Japan" level2="politics in"/>
-		<index level1="Sanger, Margaret" level2="tours" level3="1922(Japan)"/>
 		<index level1="Japan" level2="overpopulation"/>
+		<index level1="Japan" level2="birth control clinics and leagues"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="overpopulation" level2="and war"/>
 	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL ADVOCATE FINDS JAPS TALK WAR</head>
 
-		<dateline><place reg="London, U.K."> London </place>, <date value="1922-08-09">Aug.
-			9</date>.--</dateline>
+		<dateline><place reg="London, England">London</place>, <date value="1922-08-09">Aug.
+				9</date>.--</dateline>
 		<div type="section">
 			<p>"They talk war and nothing but war in <place>Japan</place>."</p>
 			<p>
@@ -55,10 +61,10 @@
 			</p>
 		</div>
 		<div type="section">
-			<head type="sub">Japanese Are Interested</head>
+			<head type="sub">Japanese Are Interested.</head>
 			<p>"I found the Japanese most interested in the subject," <q who="KCK"> said Mrs.
-					Margaret Sanger.</q> "At first they were skeptical. I had to grope my way to
-				find what angle of the situation most appealed to them. It was different from the
+					Sanger.</q> "At first they were skeptical. I had to grope my way to find what
+				angle of the situation most appealed to them. It was different from the
 				American."</p>
 			<p> "You know in America the American husband is just a big baby where the health of his
 				wife is concerned, and therefore it was easy to get the sympathy of every American
@@ -70,10 +76,10 @@
 				species."</p>
 		</div>
 		<div>
-			<head>Family Costs Vital</head>
+			<head>Family Costs Vital.</head>
 			<p>"But on the questions of economics they were all agog. It is just as expensive to
 				rear and educate a large family in Japan as it is in <place>New York</place>, and
-				the matter of cost roused he Oriental conscience to a great degree."</p>
+				the matter of cost roused the Oriental conscience to a great degree."</p>
 			<p> "Then they became most interested in the subject. They questioned me on all angles
 				of the problem. The most delicate points they wanted discussed to the most academic
 				degree. With me they were very frank, but never objectionable, and afterward when I
@@ -81,7 +87,7 @@
 				husbandly restraint they were with me to a man."</p>
 			<p>"The result was that before I left Japan we had formed an <org
 					reg="Japan Birth Control League">association</org> with branches in every big
-				city and clinics in the process before I left."</p>
+				city and clinics were in the process before I left."</p>
 		</div>
 	</docBody>
 </doc>
