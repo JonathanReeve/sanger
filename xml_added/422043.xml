@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014-08-07 AS encoded</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1926-07-00">July 1926</docDate>
 		<docTitle>
 			<titlePart>Editorial</titlePart>
@@ -76,8 +78,8 @@
 			retribution and punishment. Only thus can we build up to the new morality, which must
 			characterize the Century of the Child.</p>
 		<p>Over eighty million dollars a year are spent in <place reg="New York, NY">New York
-				City</place> for welfare work. Such is the estimate of the <org>Welfare
-				Council,</org> as described in the <title type="journal">New York Times</title> for
+				City</place> for welfare work. Such is the estimate of the <org reg="Welfare Council for New York">Welfare
+				Council</org>, as described in the <title type="journal">New York Times</title> for
 			June 6th. Of this amount $30,000,000 comes from taxation, and the other $50,000,000 from
 			private donors. Every kind of agency for the relief of suffering is included under the
 			survey of the Welfare Council. There are 247 organizations in the field of Child
