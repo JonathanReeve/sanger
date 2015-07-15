@@ -31,8 +31,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger released a press statement to coincide with an NCFLBC report. Quotes were drawn from news coverage,
-			duplicated portions not quoting Sanger were omitted.</p>
+		<p>Sanger released a press statement to coincide with an NCFLBC report.
+			Quotes were drawn from news coverage, duplicated portions not
+			quoting Sanger were omitted.</p>
 		<index
 			level1="National Committee on Federal Legislation for Birth Control"/>
 		<index level1="Comstock Laws"/>
@@ -51,16 +52,16 @@
 					birth-control leader, in a report on the seven years' work
 					of the <org
 						reg="National Committee on Federal Legislation for Birth Control"
-						>National Committee for Federal Legislation on
-						Birth Control</org>, which will be issued today by the
+						>National Committee for Federal Legislation on Birth
+						Control</org>, which will be issued today by the
 					organization's executive committee.</q>
 			</p>
 			<p>
 				<q who="NYT">Mrs. Sanger recommends also that visiting nurses
 					should be sent into isolated homes remote from medical
 					service to teach birth-control measures. The committee
-					making the report recently was dissolved after the United
-					States Circuit Court of Appeals upheld birth control under
+					making the report recently was dissolved after the <org>United
+					States Circuit Court of Appeals</org> upheld birth control under
 					medical direction. The executive committee comprises <person
 						reg="Timme, Ida Haar">Mrs. Walter Timme</person>,
 						<person reg="Hepburn, Katharine Houghton">Mrs. Thomas N.
@@ -70,9 +71,7 @@
 						Dick</person>.</q>
 			</p>
 			<p>“This decision,” <q who="NYT">wrote Mrs. Sanger, referring to the
-						<org
-						reg="United States Court of Appeals For the Second Circuit"
-						>Circuit Court ruling,</org>
+						Circuit Court ruling,
 				</q>“has opened the way to a far more fundamental goal--the
 				inclusion of birth control in public health programs and the
 				carrying of contraceptive information to neglected mothers in

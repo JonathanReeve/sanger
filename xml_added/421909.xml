@@ -34,8 +34,8 @@
 			<name id="WP">Washington Post</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke under the auspices of the <place reg="Washington, DC"
-				>Washington</place>
+	<headNote resp="MSPP">
+		<p>Sanger spoke under the auspices of the <place reg="Washington, DC">Washington</place>
 			<org reg="Washington Mothers' Health Association">Mothers' Health Association</org> at
 			the <org reg="Young Women's Christian Association">YWCA</org>'s <org>Barker Hall</org>.
 			Also appearing was Dr. <person reg="Willson, Prentiss">Prentiss Willson</person>, Rev.
@@ -62,7 +62,7 @@
 		<p>“But when the matter is put up squarely to <org reg="United States Government">government
 				officials</org> who should properly inaugurate birth-control services on a
 			nationwide scale, we run into an impenetrable wall of inertia and subterfuge.” </p>
-		<p>“The <org reg="United States Works Progress Association">W. P. A.</org> was asked to
+		<p>“The <org reg="United States Works Progress Administration">W. P. A.</org> was asked to
 			include birth-control information to mothers in the home-nursing service and medical
 			clinics carried on under its public health program,” Mrs. Sanger recalled. </p>
 		<div>
@@ -108,10 +108,10 @@
 		</div>
 		<div>
 			<head>U.S. Urged to Aid in Birth Control </head>
-						<p> “As an American citizen I demand--and I hope that this organization joins with me in
-				demanding-- that Government agencies charged with the responsibility of caring for the
-				health and welfare of the American people should provide birth control service for
-				all mothers who wish it and are too poor to pay the fees of private physicians. </p>
+			<p> “As an American citizen I demand--and I hope that this organization joins with me in
+				demanding-- that Government agencies charged with the responsibility of caring for
+				the health and welfare of the American people should provide birth control service
+				for all mothers who wish it and are too poor to pay the fees of private physicians. </p>
 			<p>“To do less is not only a denial of democracy, it is cruel and inhuman.” </p>
 		</div>
 	</docBody>

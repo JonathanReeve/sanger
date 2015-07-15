@@ -9,7 +9,9 @@
 		<prepDate>2013/05/07 CH corrected subject formatting</prepDate>
 		<prepDate>2014-07-03 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1919-11-00">Nov 1919</docDate>
 		<docTitle>
 			<titlePart>A Law Breaking Policeman</titlePart>
@@ -17,7 +19,8 @@
 		<idno>msp223299</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Nov. 1919, p. 17</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S70:828</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:828</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -56,7 +59,8 @@
 				<person reg="Marion, Kitty">Kitty Marion</person> and myself were arrested last
 			December by a police sergeant who said that he wished to make a test case to get a court
 			decision, it was hoped that the decision would set at rest all questions as to the legal
-			right of the publication. The <org reg="United States Post Office">Post Office
+			right of the publication. The <org
+				reg="United States Postal Service">Post Office
 				Department</org> had already decided that The <title type="journal">Birth Control
 				Review</title> was a lawful publication and it was enjoying second class mailing
 			privileges. The magistrate who passed upon the case of Miss Marion and myself found that
