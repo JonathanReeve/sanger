@@ -10,6 +10,7 @@
 		<prepDate>2007/06/25 CH Oxygen update</prepDate>
 		<prepDate>2015/01/14 clean regs + correct proof EK</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -22,7 +23,7 @@
 		<idno>msp128167</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 129:588</bibl>
+			<bibl>Library of Congress Microfilm 129:0588</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp id="MSPP">MSPP</resp>
@@ -32,11 +33,13 @@
 		<p>Margaret Sanger gave this speech on the evening before her <title type="journal">Woman
 				Rebel</title> trial was to begin. Handwritten corrections by Margaret Sanger.</p>
 		<index level1="abortion"/>
-		<index level1="birth control movement" level2="MS on"/>
+		<index level1="birth control movement" level2="goals and strategies"/>
+		<index level1="childbirth" level2="health risks"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
-		<index level1="Woman Rebel, The" level2="arrests and trials"/>
+		<index level1="Woman Rebel, The" level2="legal case"/>
 		<index level1="birth control" level2="propaganda and publicity"/>
 		<index level1="birth control" level2="class-based"/>
+		<index level1="working classes" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>

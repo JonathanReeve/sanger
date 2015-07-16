@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>    
+<?xml version="1.0" encoding="UTF-8"?> 
+
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed draft speech">
 	<mepHeader>
@@ -33,51 +34,56 @@
 				Meyer</person>, <title type="book">Birth Control Facts and Responsibilities</title>,
 			(Baltimore, 1925), pp. 11-49.</p>
 		<index level1="abortion"/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="Anglican Church" level2="and birth control"/>
+		<index level1="birth control" level2="and natural law"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="birth control" level2="clinics and leagues"/>
+		<index level1="birth control" level2="definitions of"/>
 		<index level1="birth control" level2="health benefits and risks"/>
-		<index level1="birth control" level2="history of"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="birth control" level2="methods" level3="continence"/>
-		<index level1="birth control" level2="methods" level3="safe period"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="history of"/>
 		<index level1="birth control" level2="morality of"/>
-		<index level1="birth control" level2="opposition to"/>
-		<index level1="birth control" level2="prostitution and"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
-		<index level1="birth rate"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+		<index level1="birth control methods" level2="continence"/>
+		<index level1="birth control methods" level2="safe period"/>
+		<index level1="birth control methods" level2="sterilization"/>
+		<index level1="birth control methods" level2="sterilization" level3="methods of"/>
+		<index level1="birth rate" level2="differential"/>
 		<index level1="child spacing"/>
-		<index level1="children" level2="rights of"/>
+		<index level1="child abandonment"/>
+		<index level1="China" level2="birth control in"/>
+		<index level1="China" level2="birth rate in"/>
 		<index level1="client letters"/>
-		<index level1="England" level2="birth control in"/>
-		<index level1="eugenics" level2="birth control and"/>
-		<index level1="family size"/>
-		<index level1="&quot;feeble-minded&quot; persons" level2="allowed to reproduce"/>
-		<index level1="fertility rates"/>
-		<index level1="heredity" level2="MS on"/>
-		<index level1="immigration" level2="MS on"/>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="family size" level2="class-based"/>
 		<index level1="infanticide"/>
 		<index level1="Jukes family"/>
 		<index level1="Kallikak family"/>
-		<index level1="Keynes, John Maynard"/>
-		<index level1="marriage"/>
-		<index level1="men" level2="reproductive choices and decisions"/>
-		<index level1="men" level2="sexual fulfillment of"/>
+		<index level1="marriage" level2="age at"/>
+		<index level1="marriage" level2="and birth control"/>
+		<index level1="marriage" level2="MS on"/>
+		<index level1="mentally diseased or disabled" level2="unfit to reproduce"/>
+		<index level1="mentally diseased or disabled" level2="as social burdens"/>
 		<index level1="mentally disabled and diseased" level2="fertility of"/>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rates" level2="maternal"/>
-		<index level1="Netherlands" level2="birth control in"/>
-		<index level1="parenthood"/>
-		<index level1="population growth"/>
-		<index level1="pregnancy" level2="fears of"/>
-		<index level1="prostitution" level2="MS on"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
+		<index level1="birth control" level2="lack of knowledge of"/>
+		<index level1="Netherlands, the" level2="population policies"/>
 		<index level1="race suicide"/>
-		<index level1="Scotland" level2="MS on"/>
-		<index level1="sexuality"/>
-		<index level1="sterilization" level2="methods of"/>
-		<index level1="&quot;unfit&quot; to reproduce"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="pregnancy" level2="health risks"/>
+		<index level1="pregnancy" level2="tuberculosis and"/>
+		<index level1="prostitution" level2="and birth control"/>
+		<index level1="race suicide"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="sex and sexuality" level2="and marriage"/>
+		<index level1="sex and sexuality" level2="MS on"/>
+		<index level1="tuberculosis"/>
+		<index level1="unfit to reproduce" level2="definitions of"/>
+		<index level1="women and girls" level2="maternal feelings"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
 		<head>The Need of Birth Control in America</head>

@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-04-02 JK initial tags</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -25,15 +26,14 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="Woman Rebel, The"/>
 		<index level1="Woman Rebel, The" level2="birth control and"/>
 		<index level1="Woman Rebel, The" level2="legal case"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
-		<index level1="birth control" level2="arrests and imprisonment"/>
-		<index level1="birth control" level2="distribution of information about"/>
-		<index level1="birth control laws and legislation" level2="Comstock law"/>
-		<index level1="Europe" level2="women in"/>
-		<index level1="Sanger, Margaret" level2="arrests and trials"/>
+		<index level1="birth control" level2="distribution of information"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="birth control laws and legislation" level2="Postal Codes"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
 	</headNote>
 	<docBody>
 		<head>THREAT OF PRISON WON’T STOP “WOMAN REBEL” FROM ADVOCATING “BIRTH CONTROL”</head>

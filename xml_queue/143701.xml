@@ -8,6 +8,7 @@
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2014/12/11 EK Correct Proofs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -23,7 +24,7 @@
 			<bibl>Library of Congress Microfilm 130:0342</bibl>
 		</sourceDesc>
 		<respStmt>
-			<name id="EB">The Encyclopedia Britannica</name>
+			<name id="EB">Encyclopedia Britannica</name>
 			<name id="PAITH">Paine, Thomas</name>
 			<name id="PLA">Plato</name>
 			<name id="ARI">Aristotle</name>
@@ -34,30 +35,42 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>A handwritten note by Sanger reads: "Notes on address when contemplating trial re <title
+		<p>Handwritten note by Sanger reads: "Notes on address when contemplating trial re <title
 				type="journal">Woman Rebel</title> 1916." At the top of the 4th page, Sanger wrote
 			"buck up." Portions of this text were used again in the stump speech she gave on her
-			1916 national tour. For an example see <xref from="128003.xml">Condemnation is
-				Misunderstanding</xref> Apr.-July, 1916.</p>
-		<index level1="abortion" level2="MS on"/>
+			1916 national tour. For an example see <title type="article"><xref from="128003.xml">Condemnation is
+				Misunderstanding</xref></title>, Apr.-July, 1916.</p>
+		<index level1="abortion" level2="frequency of"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="working classes" level2="MS on"/>
-		<index level1="Sanger, Margaret" level2="biography"/>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="birth control" level2="opposition to"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="birth control laws and legislation" level2="Postal Codes"/>
+		<index level1="child labor"/>
 		<index level1="censorship"/>
+		<index level1="England" level2="MS on"/>
 		<index level1="family size" level2="class-based"/>
 		<index level1="free speech and free press"/>
 		<index level1="law-breaking and direct action"/>
+		<index level1="marriage" level2="and birth control"/>
+		<index level1="marriage" level2="MS on"/>
 		<index level1="mortality rates" level2="infant"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
 		<index level1="obscenity"/>
+		<index level1="prostitution" level2="and birth control"/>
 		<index level1="Scotland" level2="birth control in"/>
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
 		<index level1="Woman Rebel, The" level2="legal case"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="working classes" level2="MS on"/>
 		<index level1="working classes" level2="women and girls"/>
-		<index level1="United States government" level2="birth control and"/>
-		<index level1="United States Postal Service"/>
+		<index level1="United States Post Office"/>
+		
 	</headNote>
 	<docBody>
 		<div>
@@ -335,7 +348,7 @@
 				as a national issue and has brought to the notice of all social workers the
 				much-neglected question of large families. (Articles have appeared in <title
 					type="journal">Harper's</title>, <title type="journal">The New Republic</title>,
-					<title type="journal">The N.Y. American</title> and the <title type="journal"
+				<title type="journal">The <place reg="New York">N.Y.</place> American</title> and the <title type="journal"
 					>Tribune</title>). <del>Those</del>
 				<add>My</add> articles on Birth Control have received the approval and support of
 				the most eminent authorities in <place reg="England">Great Britain</place>

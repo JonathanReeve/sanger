@@ -5,6 +5,7 @@
 		<prepDate>2014-06-25 CH proofed </prepDate>
 		<prepDate>2015-02-05 Proof tags and enter.</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,21 +31,22 @@
 		<p>Sanger gave an interview at her home, 26 Post Avenue, on her upcoming obscenity trial.
 			For the speech she gave the next day, see <xref from="128167.xml">Hotel Brevoort
 				Speech</xref>, Jan. 17, 1916.</p>
-		<index level1="birth control" level2="distribution of information about"/>
-		<index level1="birth control" level2="lack of knowledge of"
-			level3="negative consequences of"/>
-		<index level1="birth control" level2="morality of"/>
-		<index level1="Woman Rebelm The" level2="legal case"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="censorship"/>
+		<index level1="free speech and free press"/>
+		<index level1="marriage" level2="age at"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
 		<index level1="Woman Rebel, The" level2="birth control and"/>
-		<index level1="obscenity"/>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="working classes" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>FIGHTS TO TEACH BIRTH CONTROL</head>
 		<div>
 			<dateline>
-				<date value="1916-01-10">Jan. 10</date>
-				<place reg="New York, NY">New York</place>
+				<place reg="New York, NY">New York,</place>, <date value="1916-01-10">Jan. 10</date>--
 			</dateline>
 			<p>
 				<q who="CDT">The trial of Mrs. Margaret H. Sanger will begin Tuesday in the federal
