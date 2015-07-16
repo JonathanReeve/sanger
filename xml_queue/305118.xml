@@ -10,6 +10,7 @@
 		<prepDate>2011/12/7 CH proof tags</prepDate>
 		<prepDate>2014-04-02 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -29,26 +30,24 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
+		<index level1="birth control" level2="opposition to"/>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="birth control movement" level2="history of"/>
+		<index level1="birth control movement" level2="MS on"/>
 		<index level1="Comstock, Anthony"/>
 		<index level1="censorship"/>
-		<index level1="birth control movement" level2="MS on"/>
-		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
-		<index level1="birth control clinic  s and leagues"/>
+		<index level1="Family Limitation"/>
+		<index level1="Family Limitation" level2="suppression of"/>
+		<index level1="free speech and free press"/>
+		<index level1="law breaking and direct action"/> 
 		<index level1="Birth Control League of America"/>
-		<index level1="birth control clinics and leagues" level2="National Birth Control League"/>
+		<index level1="National Birth Control League"/>
+		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
+		<index level1="Sanger, William" level2="arrests, trial and imprisonment"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
 		<index level1="Woman Rebel" level2="legal case"/>
-		<index level1="free speech"/>
-		<index level1="free press"/>
-		<index level1="birth control" level2="opposition to"/>
-		<index level1="Sanger, Margaret" level2="arrests"/>
-		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
-		<index level1="Sanger, Margaret" level2="descriptions of"/>
-		<index level1="Sanger, William" level2="trial and imprisonment"/>
-		<index level1="United States Congress"/>
-		<index level1="Family Limitation"/>
-		<index level1="Family Limitation" level2="censorship of"/>
-	</headNote>
+		</headNote>
 	<docBody>
 		<head>BIRTH CONTROL IN AMERICA.</head>
 		<p>There appears to be a movement on foot at present in <place reg="United States"
@@ -93,10 +92,10 @@
 			writers. The following week he was arrested, dragged off to jail, and confronted by a
 			woman, a Comstock spy, as the one who had written to him in both cases. He was tried,
 			found guilty, and sentenced to five years in the <org
-				reg="United States Penitentiary, Leavenworth">Leavenworth
-				Penitentiary</org> for <emph rend="italics">each</emph> letter, and a ten-thousand
-			dollar fine. He got the limit of the law. He served six years, but through some
-			agitation recently aroused, he has been "pardoned," and allowed to go free.</p>
+				reg="United States Penitentiary, Leavenworth">Leavenworth Penitentiary</org> for
+				<emph rend="italics">each</emph> letter, and a ten-thousand dollar fine. He got the
+			limit of the law. He served six years, but through some agitation recently aroused, he
+			has been "pardoned," and allowed to go free.</p>
 		<p>Broken in health and spirit, with his professional standing practically gone, his case
 			has stood like a giant rock for the authorities, and held the medical profession and
 			others alike at bay.</p>
