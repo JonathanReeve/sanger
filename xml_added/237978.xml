@@ -12,7 +12,10 @@
 		</docAuthor>
 		<docDate value="1925-01-00">Jan 1925</docDate>
 		<docTitle>
-			<titlePart>Book Review, Contraception: A Medical Review of the Situation</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Book Review of CONTRACEPTION: A MEDICAL REVIEW OF THE
+					SITUATION</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp237978</idno>
 		<sourceDesc>
@@ -65,7 +68,8 @@
 				As, since my visit to Holland in 1915, I have been guilty of making these statements
 				again and again I feel called upon here to say something in defense of them.
 				Although in person I visited only five of these clinics, I would refer those
-				interested in this matter to the Annual Report of the <org reg="Nieuw Malthusiaansche Bond">Nieuw-Malthusian Band</org> for the year 1920.
+				interested in this matter to the Annual Report of the <org
+					reg="Nieuw Malthusiaansche Bond">Nieuw-Malthusian Band</org> for the year 1920.
 				Dr. <person reg="Rutgers, Johannes">Rutgers</person> was then president of the Dutch
 				League, and in his report stated that a new board of directors had been formed. Dr.
 				Rutgers at that time relinquished the presidency and the new board of directors,

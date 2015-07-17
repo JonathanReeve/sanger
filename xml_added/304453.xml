@@ -15,7 +15,7 @@
 		</docAuthor>
 		<docDate value="1919-10-04">4 Oct 1919</docDate>
 		<docTitle>
-			<titlePart>Prudence or Prudery in Sex Matters</titlePart>
+			<titlePart><supplied resp="MSPP">Prudence or Prudery in Sex Matters, Part III</supplied></titlePart>
 		</docTitle>
 		<idno>msp304453</idno>
 		<sourceDesc>
@@ -28,10 +28,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is the third article by Sanger in this series. For the first article see "<xref
-				from="302881.xml">Prudence and Purity in Sex Matters</xref>," Aug. 23, 1919 and its
-			conclusion "<xref from="302878.xml">Birth Control Yes or No?</xref>," Sept. 20, 1919.
-			The other articles in the series were written by different authors.</p>
+		<p>This is the third article by Sanger in this series. For the previous articles see "<xref
+				from="302881.xml">Prudence and Purity in Sex Matters</xref>," Aug. 23, 1919 and "<xref from="302878.xml">Birth Control Yes or No?</xref>," Sept. 20, 1919. The other articles in the series were written by different authors.</p>
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="eugenics" level2="birth control and"/>
 		<index level1="eugenics" level2="MS on"/>

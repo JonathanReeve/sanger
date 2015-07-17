@@ -11,7 +11,7 @@
 		<docDate value="1936-00-00">1936</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Response to 'My Gandhi' by J. H. Holmes</supplied>
+				<supplied resp="MSPP">Response to MY GANDHI by J. H. Holmes</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236724</idno>
@@ -27,7 +27,8 @@
 		</respStmt>
 	</mepHeader>
 
-	<headNote resp="MSPP"><p>No final version was found.</p>
+	<headNote resp="MSPP">
+		<p>No final version was found.</p>
 		<index level1="birth control"/>
 		<index level1="India"/>
 		<index level1="Gandhi, Mahatma"/>

@@ -10,16 +10,20 @@
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-03-31 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-07-17 CH removed extraneous title from doc title because it wasn't showing in
+			results. </prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1913-10-05">5 Oct 1913</docDate>
 		<docTitle>
-			<titlePart>Review of the <title type="book">The Eugenic Mother and
-				Baby</title></titlePart>
+			<titlePart>Review of THE EUGENIC MOTHER AND BABY</titlePart>
 		</docTitle>
 		<idno>msp304930</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Oct. 5, 1913, p. 5</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:66</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:66</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -36,9 +40,7 @@
 		<index level1="women" level2="enslavement of"/>
 	</headNote>
 	<docBody>
-		<head>
-			<title>THE EUGENIC MOTHER AND BABY</title>
-		</head>
+		<head> THE EUGENIC MOTHER AND BABY </head>
 		<byline>Reviewed by MARGARET H. SANGER.</byline>
 		<p><title type="book">THE EUGENIC MOTHER AND BABY</title> By Dr. <person
 				reg="Hague, W. Grant">W. Grant Hague</person>. Published by the <org>Hague

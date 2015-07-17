@@ -7,8 +7,7 @@
 		<prepDate>2014-12-11 CH enter corrections</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-05-21 EK correct proof and update index</prepDate>
-		<docAuthor>Margaret Sanger
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-12-26">26 Dec 1922</docDate>
 		<docTitle>
@@ -39,21 +38,26 @@
 	<docBody>
 		<head>BREAKING OF ENGAGEMENTS IS DEFENDED</head>
 		<byline>by <person reg="Bahn, Chester D.">CHESTER D. BAIN</person></byline>
-		<p>><dateline><place reg="Syracuse, NY">Syracuse, N.Y.</place>, <date>Dec. 26--</date></dateline></p>
+		<p><dateline><place reg="Syracuse, NY">Syracuse, N.Y.</place>, <date>Dec.
+				26--</date></dateline></p>
 		<p>“Women have claimed and won equality with men before the law. They should grant men the
 			same privilege of breaking the engagement that they have claimed and used.”</p>
-		<p><q who="BND">That is the way Mrs. <person reg="Sanger, Margaret">Margaret
-				Sanger</person>, birth control advocate, answered <person reg="Bowen, Marjorie"
+		<p>
+			<q who="BND">That is the way Mrs. Margaret
+					Sanger, birth control advocate, answered <person reg="Bowen, Marjorie"
 					>Marjorie Bowen</person>, famous British novelist, who recently declared that
 				men should be required to keep marriage engagements and women should retain the
-				right, under law, to sue for breach of promise damages.</q></p>
-		<p><q who="BND">Mrs. Sanger fired her answering broadside at the British writer while here
-				to lecture before the Women’s Congress in Syracuse.</q></p>
+				right, under law, to sue for breach of promise damages.</q>
+		</p>
+		<p>
+			<q who="BND">Mrs. Sanger fired her answering broadside at the British writer while here
+				to lecture before the Women’s Congress in Syracuse.</q>
+		</p>
 		<p>"It is far better to break before than after marriage,” <q who="BND">warned Mrs.
 				Sanger.</q> “It is of the utmost importance for both that the man be madly in love
-			with the girl. If he changes hismind, or if he learns that he has ceased to care, both are
-			happier if he breaks it off. So far as legal action is concerned, I fail to see why the
-			man should not have the same privilege that women frequently exercise. It hurts a
+			with the girl. If he changes hismind, or if he learns that he has ceased to care, both
+			are happier if he breaks it off. So far as legal action is concerned, I fail to see why
+			the man should not have the same privilege that women frequently exercise. It hurts a
 			woman’s vanity--just that--to loser her fianc&eacute;. It would hurt her far more to
 			seek divorce."</p>
 		<p>"Women have claimed and won equality with men before the law. They should grant men the

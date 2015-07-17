@@ -9,11 +9,13 @@
 		<prepDate>2012-05-30 AW Corrected tags</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1960-03-20">20 Mar 1960</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">World Population Emergency Campaign Meeting Address</supplied>
+				<supplied resp="MSPP">Speech to the World Population Emergency Campaign Meeting</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp303823</idno>

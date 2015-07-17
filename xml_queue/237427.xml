@@ -22,7 +22,7 @@
 		<idno>msp237427</idno>
 		<sourceDesc>
 			<bibl> Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title type="mf">Margaret Sanger Micriofilm, Smith College Collections</title>,
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>,
 				S76:1165</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -33,12 +33,13 @@
 	<headNote resp="MSPP">
 		<p>Sanger drafted this statement in response to a Christmas pastoral letter issued by New
 			York Archbishop <person reg="Hayes, Patrick J.">Patrick J. Hayes</person> on December
-			17, 1921. For published version see <title type="article">"Mrs. SangerReplies to Archbishop Hayes,"</title> <title type="journal">New York Times</title>, Dec.
-			20, 1921, p. 24.</p>
+			17, 1921. For published version see <title type="article">"Mrs. SangerReplies to
+				Archbishop Hayes,"</title>
+			<title type="journal">New York Times</title>, Dec. 20, 1921, p. 24.</p>
 		<index level1="birth control" level2="opposition to"/>
 		<index level1="Catholic Church" level2="and birth control"/>
 		<index level1="Catholic Church" level2="political influence of"/>
-			</headNote>
+	</headNote>
 	<docBody>
 		<head>REPLY BY MARGAREt SANGER TO ARCHBISHOP HAYES' STATEMENT.</head>
 		<p>I am glad to learn from Archbishop Hayes' Christmas pastoral that the church has a clear

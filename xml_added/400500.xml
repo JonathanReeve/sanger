@@ -27,7 +27,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>The actual speech was not found, but this transcript was published. For shorter versions
-			see, <title type="article">War and Population</title>, <title type="journal">Birth
+			see, <title type="article"><xref from="226793.xml">War and Population</xref></title>, <title type="journal">Birth
 				Control Review</title>, June 1922, pp. 106-7 and <title type="article"
 				>Overpopulation is Cause of War</title>, <title type="journal">Japan Times and
 				Mail</title>, Mar. 15, 1922.</p>
@@ -61,10 +61,10 @@
 					<org reg="Young Men's Christian Association">Y.M.C.A.</org> auditorium yesterday
 					afternoon. It was Mrs. Sanger's first public meeting and among her most
 					attentive listeneres were a liberal sprinkling of "plain clothes men" of the
-						<org reg="Tokyo Bureau of the Metropolitan Police">Metropolitan Police</org> who were
-					there to see that the speaker did not overstep the bounds permitted into a
-					discussion of birth control--a subject officially banned as "dangerous" to Japan
-					morals.</q>
+						<org reg="Tokyo Bureau of the Metropolitan Police">Metropolitan Police</org>
+					who were there to see that the speaker did not overstep the bounds permitted
+					into a discussion of birth control--a subject officially banned as "dangerous"
+					to Japan morals.</q>
 			</p>
 			<p>
 				<q who="JA">The late date at which yesterday afternoon's meeting was announced was

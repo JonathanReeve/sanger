@@ -10,10 +10,12 @@
 		<prepDate>2014-03-05 CH cleaning regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-17 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
-			<titlePart>How It Works</titlePart>
+			<titlePart>How It Works!</titlePart>
 		</docTitle>
 		<idno>msp420067</idno>
 		<sourceDesc>
@@ -26,7 +28,7 @@
 		<index level1="working classes"/>
 		<index level1="labor movement" level2="MS on"/>
 		<index level1="Woman Rebel, The" level2="articles"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<head>HOW IT WORKS!</head>
 		<p>How much longer will the working class be led to slaughter by the legal defense

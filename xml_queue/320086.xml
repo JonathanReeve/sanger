@@ -7,11 +7,12 @@
 		<prepDate>2003/11/25 CH cleaned up tags and xref</prepDate>
 		<prepDate>2007-05-30 CH Oxygen/cleanup</prepDate>
 		<prepDate>2014-11-10 CH reg cleanup</prepDate>
-		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1911-12-03">03 Dec 1911</docDate>
+		<prepDate>2015-02-20 EK correct index</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1911-12-03">03 Dec. 1911</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">How Six Little Children Were Taught The Truth, Part VI, cont'd</supplied></titlePart>
+			<titlePart><supplied resp="MSPP">How Six Little Children Were Taught The Truth, Part
+					VI</supplied></titlePart>
 		</docTitle>
 		<idno>msp320086</idno>
 		<sourceDesc>
@@ -19,21 +20,22 @@
 		</sourceDesc>
 	</mepHeader>
 	<headNote>
-		<p>This is the second half of Part 6 of an eight-part series of the same title. For Part 1,
-			see <xref from="320081.xml">Oct. 19, 1911</xref>, for Part 2, see <xref
-				from="320082.xml">Nov. 5, 1911</xref>, for Part 3 see <xref from="320083.xml">Nov.
-				12, 1911</xref>, for Part 4 see <xref from="320084.xml">Nov. 19, 1911</xref>, for
-			the first half of Part 5 see <xref from="320085.xml">Nov. 26, 1911</xref>, for Part 6
-			see <xref from="320087.xml">Dec. 10, 1911.</xref>, and for Part 7, see <xref
+		<p>This is the second half of Part 5 of an eight-part series of the same title. For Part I,
+			see <xref from="320081.xml">Oct. 19, 1911</xref>, for Part II, see <xref
+				from="320082.xml">Nov. 5, 1911</xref>, for Part III see <xref from="320083.xml">Nov.
+				12, 1911</xref>, for Part IV see <xref from="320084.xml">Nov. 19, 1911</xref>, for
+			the first half of Part V see <xref from="320085.xml">Nov. 26, 1911</xref>, for Part VI
+			see <xref from="320087.xml">Dec. 10, 1911.</xref>, and for Part VII, see <xref
 				from="320088.xml">Dec. 17, 1911.</xref></p>
 		<p>This series was compiled and published as <title type="book">What Every Mother Should
 				Know</title>, (New York, 1912).</p>
 		<index level1="sex education"/>
+		<index level1="reproduction"/>
 		<index level1="love" level2="concept of"/>
 	</headNote>
 	<docBody>
 		<head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>
-		<byline>By Margaret H. Sanger</byline>
+		<byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person></byline>
 		<head type="sub">Part V--The Birds and Their Family. (Concluded.)</head>
 		<p>Now that the nest in the horse chestnut tree was completed, Mr. Thrush sat near by
 			waiting to hear the glad news that one egg had come. So the next time Mrs. Thrush went
@@ -130,6 +132,6 @@
 			protect and care for his offspring after their creation.</p>
 		<p>It was not until all the familiar birds had gone that their thoughts of higher stage, the
 			mammals.</p>
-		<p>And these you shall hear in the next lesson.</p><p>test</p>
+		<p>And these you shall hear in the next lesson.</p>
 	</docBody>
 </doc>

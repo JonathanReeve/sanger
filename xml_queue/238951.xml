@@ -14,7 +14,9 @@
 		</docAuthor>
 		<docDate value="1921-01-00">Jan 1921</docDate>
 		<docTitle>
-			<titlePart>Women in Germany</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Women in Germany, Part II</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp238951</idno>
 		<sourceDesc>
@@ -29,7 +31,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>For an earlier article of the same title, see <xref from="238950.xml">Women in
-			Germany</xref>, Dec. 1920.</p>
+				Germany</xref>, Dec. 1920.</p>
 		<index level1="Germany" level2="socio-economic conditions in"/>
 		<index level1="Germany" level2="birth control in"/>
 		<index level1="Germany" level2="women"/>

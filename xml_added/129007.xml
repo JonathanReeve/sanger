@@ -7,11 +7,14 @@
 		<prepDate>2014/02/11 CH changed title</prepDate>
 		<prepDate>2014-11-12 CH clean regs</prepDate>
 		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1939-07-17">17 July 1939</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Lets Talk it Over Radio
-				Interview</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Lets Talk It Over Radio Interview</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp129007</idno>
 		<sourceDesc>

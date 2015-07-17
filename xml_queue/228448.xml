@@ -5,13 +5,15 @@
 		<prepDate>2011-08-05 NC</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1952-02-08">
 			<supplied resp="MSPP">08 Feb 1952</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Message to Planned Parenthood Association Chicago
+				<supplied resp="MSPP">Message to the Planned Parenthood Association Chicago
 					Area</supplied>
 			</titlePart>
 		</docTitle>

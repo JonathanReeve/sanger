@@ -12,7 +12,7 @@
 		</docAuthor>
 		<docDate value="1941-08-00">Aug 1941</docDate>
 		<docTitle>
-			<titlePart>In Memoriam -Hannah Mayer Stone</titlePart>
+			<titlePart>In Memoriam--Hannah Mayer Stone</titlePart>
 		</docTitle>
 		<idno>msp222736</idno>
 		<sourceDesc>
@@ -25,7 +25,8 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">
+	<headNote resp="MSPP"><p>For the eulogy Sanger gave at a service, see "<xref from="238616.xml"
+				>Eulogy for Hannah Stone</xref>," Oct. 28, 1941.</p>
 		<index level1="birth control" level2="movement" level3="history of"/>
 		<index level1="New York" level2="sex education in"/>
 		<index level1="New York City" level2="birth control in"/>
@@ -35,9 +36,7 @@
 		<index level1="Stone, Hannah Mayer" level2="MS on"/>
 	</headNote>
 	<docBody>
-		<byline>
-			MARGARET SANGER
-		</byline>
+		<byline> MARGARET SANGER </byline>
 		<dateline>
 			<place reg="New York, NY" rend="italics">New York, N.Y.</place>
 		</dateline>
@@ -49,21 +48,21 @@
 			attempted in <place>New York</place>. Few doctors wanted to take the risk of identifying
 			themselves with the birth control cause, the risk of becoming a martyr, of losing
 			professional license or standing, of being expelled from their medical societies.</p>
-		<p>Dr. Stone saw this situation clearly, but her spirit, her courage, and her vision
-			decided the issue. In 1925 she became Medical Director of the <org>Birth Control
-				Clinical Research Bureau</org>, a post which she held until her passing, serving
-			during all these years as a volunteer, without any other remuneration than the
-			satisfaction of seeing her efforts bear rich fruit.</p>
+		<p>Dr. Stone saw this situation clearly, but her spirit, her courage, and her vision decided
+			the issue. In 1925 she became Medical Director of the <org>Birth Control Clinical
+				Research Bureau</org>, a post which she held until her passing, serving during all
+			these years as a volunteer, without any other remuneration than the satisfaction of
+			seeing her efforts bear rich fruit.</p>
 		<p>When on July 10, she passed over to the Great Beyond, her going was not only a tragic
 			loss to the birth control movement, but also to the thousands of women whose personal
 			problems she had studied and helped to solve. Many of these women came again and again
 			to the Bureau to see her and to seek her guidance, and to them her loss is irreparable.
 			It was to her infinite patience, her attention to details, her understanding of human
-			frailties, her sympathy, her gentleness--to all these qualities of mind and
-			personality, that these thousands of mothers owed their peace of mind, marital harmony,
-			health, and yes, in many cases, life itself. She was indefatigable in her efforts to
-			work out special methods of contraception for the very difficult cases, methods suited
-			to their individual peculiarities. Thousands caller her blessed.</p>
+			frailties, her sympathy, her gentleness--to all these qualities of mind and personality,
+			that these thousands of mothers owed their peace of mind, marital harmony, health, and
+			yes, in many cases, life itself. She was indefatigable in her efforts to work out
+			special methods of contraception for the very difficult cases, methods suited to their
+			individual peculiarities. Thousands caller her blessed.</p>
 		<p>On looking back over these many years of her comradeship, one sees the landmarks she has
 			set. No one, certainly, had more thoroughly explored the clinical aspects of
 			contraception. From 1923 to 1941, we have assembled at the Bureau nearly 100,000 medical

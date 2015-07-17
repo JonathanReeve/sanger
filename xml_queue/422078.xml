@@ -11,18 +11,15 @@
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1921-01-29">19 Jan 1921</docDate>
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
-		<docDate value="1921-01-29">29 Jan 1921</docDate>
-		<docTitle>
+				<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Is Modern Marriage Conducive to Happiness?</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422078</idno>
 		<sourceDesc>
-			<bibl><title type="article">Mrs. Sanger Wary of U.S. Agents</title>, <title type="journal">Brooklyn Daily Eagle</title>, Jan 20, 1921, p. 22</bibl>
+			<bibl><title type="article">Mrs. Sanger Wary of U.S. Agents</title>, <title
+					type="journal">Brooklyn Daily Eagle</title>, Jan 20, 1921, p. 22</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -30,8 +27,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>As the actual speech was not found, a newspaper summary was used as the copy text. For a similar speech of the same
-			name, see <xref from="422079.xml.">"Is Modern Marriage Conducive to Happiness?"</xref> Mar. 29, 1921.</p>
+		<p>As the actual speech was not found, a newspaper summary was used as the copy text. For a
+			similar speech of the same name, see <xref from="422079.xml.">"Is Modern Marriage
+				Conducive to Happiness?"</xref> Mar. 29, 1921.</p>
 		<index level1="adolescence"/>
 		<index level1="marriage"/>
 		<index level1="marriage" level2="age at"/>
@@ -41,50 +39,56 @@
 		<index level1="marriage" level2="reforms"/>
 		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
 		<index level1="sex and sexuality" level2="and marriage"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<head>MRS. SANGER WARY OF U.S. AGENTS</head>
-		<p><q who="BDE">From 25 to 65 is the marrying age for man, according to Mrs. Margaret
+		<p>
+			<q who="BDE">From 25 to 65 is the marrying age for man, according to Mrs. Margaret
 				Sanger, birth control expert, who expressed her opinion on the question "Is Modern
 				Marriage Conducive to Happiness?" in the <org>Brownsville Labor Lyceum</org>, 225
-				Sackman st., last night.</q></p>
+				Sackman st., last night.</q>
+		</p>
 		<p>
 			<q who="BDE">Young women who swarmed the hall in a seething mass of humanity besieged
 				Mrs. Sanger with questions as to how birth control may be effected. Her answer was
 				that several years ago she maintained "open house" in the <place reg="Brookyln, NY"
 					>Brownsville</place> section for the express purpose of making birth control a
 				tenet in the creed of every housewife and business girl in the community, only to
-				find herself in jail as the outcome.</q></p>
-		<p>"<q>Though it was wholly worth while,</q>" <q who="BDE"> Mrs. Sanger declared,</q> "<q>I do not
-			care to repeat the experiment; and as agents of the <org
-				reg="United States Department of Justice">Department of Justice</org> are always out
-			to hear me, I shall refrain from telling you these things.</q>"</p>
+				find herself in jail as the outcome.</q>
+		</p>
+		<p>"<q>Though it was wholly worth while,</q>" <q who="BDE"> Mrs. Sanger declared,</q> "<q>I
+				do not care to repeat the experiment; and as agents of the <org
+					reg="United States Department of Justice">Department of Justice</org> are always
+				out to hear me, I shall refrain from telling you these things.</q>"</p>
 		<p>
-			<q who="BDE">There are five "distinct reasons," the speaker pointed
-				out, why</q> "<q>marriage today is almost universally a failure."</q> <q who="BDE">These,
-				she said, were</q> "<q>Marrying entirely too young in life, the coming of children too
-			quickly, venereal diseases, fear of pregnancy and lack of birth control knowledge, and
-			the crudeness of man.</q>" <q who="BDE">That even barbarians are more tender in their
-		treatment of women than American men was one of the charges which Mrs. Sanger made.</q></p>
-    <p>	
-    	<q who="BDE"> Dancing, giddiness, giggling are but the natural inclinations of
+			<q who="BDE">There are five "distinct reasons," the speaker pointed out, why</q>
+				"<q>marriage today is almost universally a failure."</q>
+			<q who="BDE">These, she said, were</q> "<q>Marrying entirely too young in life, the
+				coming of children too quickly, venereal diseases, fear of pregnancy and lack of
+				birth control knowledge, and the crudeness of man.</q>" <q who="BDE">That even
+				barbarians are more tender in their treatment of women than American men was one of
+				the charges which Mrs. Sanger made.</q></p>
+		<p>
+			<q who="BDE"> Dancing, giddiness, giggling are but the natural inclinations of
 				adolescence which run well into the twenty-second year of any girl, the speaker
 				explained. To allow her to marry before she has completed that period, she said, was
 				for the pent-up nature to rebel at 30, to exercise her natural inclination to dance
-				and to play and, consequently, to set gossiping tongues in motion.</q></p>
-		<p><q who="BDE">The marriage vow</q> "<q>to love until death do us part</q>" <q who="BDE">was
-				scoffed at by Mrs. Sanger.</q> "<q>It is as absolutely impossible for two persons to
-			promise to love forever as it would be for them to promise to live forever. Love must be
-			nurtured and tended as a flower,</q>" <q who="BDE">she claimed.</q></p>
+				and to play and, consequently, to set gossiping tongues in motion.</q>
+		</p>
+		<p><q who="BDE">The marriage vow</q> "<q>to love until death do us part</q>" <q who="BDE"
+				>was scoffed at by Mrs. Sanger.</q> "<q>It is as absolutely impossible for two
+				persons to promise to love forever as it would be for them to promise to live
+				forever. Love must be nurtured and tended as a flower,</q>" <q who="BDE">she
+				claimed.</q></p>
 		<p>
 			<q who="BDE">The third cause for marital unhappiness in her list Mrs. Sanger
-				characterized as </q> "<q>that haunting dread in the lives of women,</q>" <q who="BDE">and
-				declared that </q> "<q>most divorces may be traced down to this constant fear of child
-					birth.</q>" <q who="BDE">The most important cause of all, Mrs. Sanger claims, is</q> "<q>man's
-			crudeness.</q>"</p>
+				characterized as </q> "<q>that haunting dread in the lives of women,</q>" <q
+				who="BDE">and declared that </q> "<q>most divorces may be traced down to this
+				constant fear of child birth.</q>" <q who="BDE">The most important cause of all,
+				Mrs. Sanger claims, is</q> "<q>man's crudeness.</q>"</p>
 		<p>
-			<q who="BDE">The reasons for marriage, Mrs. Sanger holds, are</q> "<q>for convenience and
-			sex attraction. Sex attraction plus mutual understanding is the only sure foundation for
-			happiness,</q>" <q who="BDE"> she concluded.</q></p>
+			<q who="BDE">The reasons for marriage, Mrs. Sanger holds, are</q> "<q>for convenience
+				and sex attraction. Sex attraction plus mutual understanding is the only sure
+				foundation for happiness,</q>" <q who="BDE"> she concluded.</q></p>
 	</docBody>
 </doc>

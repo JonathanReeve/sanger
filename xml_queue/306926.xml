@@ -11,7 +11,7 @@
 		</docAuthor>
 		<docDate value="1925-02-00"> Feb 1925</docDate>
 		<docTitle>
-			<titlePart>Book Review: Impressions and Comments</titlePart>
+			<titlePart><supplied resp="MSPP">Book Review of IMPRESSIONS AND COMMENTS</supplied></titlePart>
 		</docTitle>
 		<idno>msp306920</idno>
 		<sourceDesc>
@@ -32,8 +32,8 @@
 	</headNote>
 	<docBody>
 		<head>Book Reviews</head>
-		<head type="sub" rend="italics">MARGARET SANGER on
-				<title type="book">IMPRESSIONS AND COMMENTS</title></head>
+		<head type="sub" rend="italics">MARGARET SANGER on <title type="book">IMPRESSIONS AND
+				COMMENTS</title></head>
 		<div type="section">
 			<p><title type="book">IMPRESSIONS AND COMMENTS: Third (and Final) Series,
 					1920-1923</title>. By <person reg="Ellis, Havelock">Havelock Ellis</person>.
