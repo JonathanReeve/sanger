@@ -3,11 +3,14 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014-04-15 JK initial tag</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-07-17 CH trying to figure out why this one won't load in Cloud</prepDate>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<prepDate>2015-07-17 CH trying to figure out why this one won't load in
+			Cloud</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1938-00-00">1938</docDate>
 		<docTitle>
-			<titlePart>Foreword to LAWS RELATING TO BIRTH CONTROL IN THE UNITED STATES AND ITS TERRITORIES</titlePart>
+			<titlePart>Foreword to LAWS RELATING TO BIRTH CONTROL IN THE UNITED
+				STATES AND ITS TERRITORIES</titlePart>
 		</docTitle>
 		<idno>msp302933</idno>
 		<sourceDesc>
@@ -16,7 +19,7 @@
 				1938).</bibl>
 			<bibl>
 				<title>Margaret Sanger Microfilm, Collected Documents
-					Series</title> C16:422</bibl>
+					Series</title> C16:0422</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -33,7 +36,6 @@
 	</headNote>
 	<docBody>
 		<head>Foreword</head>
-
 		<p>Only those among us who have had intimate contact for years with the
 			problems of women who want, need, and cannot get authentic
 			information on birth control can realize the misery that has
@@ -70,8 +72,8 @@
 		<p>As we read these statutes and realize how carefully their framers
 			thought out ways and means to block any knowledge of the prevention
 			of conception, we are more than ever grateful to the Justices of the
-				<org reg="United States Circuit Court of Appeals">Circuit Court of
-				Appeals for the Second Circuit</org> whose sane and liberal
+				<org reg="United States Circuit Court of Appeals">Circuit Court
+				of Appeals for the Second Circuit</org> whose sane and liberal
 			interpretation of the Federal law in 1936 now makes it possible to
 			incorporate birth control in programs of public health and
 			preventive medicine in almost every state in the <place
