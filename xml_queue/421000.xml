@@ -6,7 +6,8 @@
 		<prepDate>2012/03/28 CH proofed tags</prepDate>
 		<prepDate>2014-04-08 EK clean regs</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-07-20 EK index updates</prepDate>	
+	<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1928-03-00">
 			<supplied resp="MSPP">Mar 1928</supplied>
 		</docDate>
@@ -19,7 +20,8 @@
 		</sourceDesc>
 		<respStmt>
 			<resp>
-				<name id="UNK">Unknown</name><name id="HC">Homecrofter</name>
+				<name id="UNK">Unknown</name>
+				<name id="HC">Homecrofter</name>
 			</resp>
 			<name/>
 		</respStmt>
@@ -32,12 +34,13 @@
 				matrimonial career, have done considerable mischief by almost destroying the
 				happiness which should continue through the married state.</q>"</p>
 		<index level1="marriage" level2="MS on"/>
-		<index level1="love" level2="concept of"/>
-		<index level1="love" level2="and sex"/>
+		<index level1="love" level2="MS on"/>
 		<index level1="sex education"/>
-		<index level1="men" level2="sexual fulfillment of"/>
-		<index level1="women" level2="sexual fulfillment of"/>
-		<index level1="sex" level2="and marriage"/>
+		<index level1="men and boys" level2="sex and sexuality"/>
+		<index level1="women and girls" level2="sexuality of"/>
+		<index level1="sex and sexuality" level2="and marriage"/>
+		<index level1="sex and sexuality" level2="MS on"/>
+		
 	</headNote>
 	<docBody>
 		<head>What Margaret Sanger Thinks About Marriage</head>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed draft speech">
 	<mepHeader>
@@ -8,6 +7,7 @@
 		<prepDate>2012-05-03 AW</prepDate>
 		<prepDate>2014-05-06 CH corrected title and others</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-07-20 EK index updates</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -69,10 +69,15 @@
 		<index level1="mentally disabled and diseased" level2="fertility of"/>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rates" level2="maternal"/>
+		<index level1="mortality rates" level2="infant" level3="Netherlands, the"/>
+		<index level1="mortality rates" level2="infant" level3="China"/>
+		<index level1="motherhood" level2="MS on"/>
 		<index level1="Netherlands, the" level2="birth control in"/>
-		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="Netherlands, the" level2="population policies"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
+		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="race suicide"/>
+		<index level1="mortality rates" level2="infant" level3="China"/>
 		<index level1="pregnancy" level2="health risks"/>
 		<index level1="pregnancy" level2="tuberculosis and"/>
 		<index level1="prostitution" level2="and birth control"/>
