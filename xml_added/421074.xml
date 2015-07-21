@@ -7,7 +7,9 @@
 		<prepDate>2014-02-19 JK corrected tag</prepDate>
 		<prepDate>2014-11-14 CH clean regs</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1926-03-27">27 Mar 1926</docDate>
 		<docTitle>
 			<titlePart>
@@ -45,8 +47,8 @@
 				which I will not attempt to take up here.</p>
 			<p>
 				<q who="BG">She then referred to the book by Professor <person
-						reg="East, Edward Murray">East</person>, <title type="book">"Mankind at the
-						Crossroads"</title>.</q>
+						reg="East, Edward Murray">East</person>, "<title type="book">Mankind at the
+						Crossroads</title>."</q>
 			</p>
 			<p> The other side of the problem concerns the reconciling humanitarianism with the
 				races of men. There are two ways of controlling population--by increasing the death
