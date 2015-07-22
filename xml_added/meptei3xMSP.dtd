@@ -365,7 +365,8 @@ to use all the standard TEI element classes and parameter entities.-->
      id ID #IMPLIED
      n CDATA #IMPLIED
      lang IDREF #IMPLIED
-     rend CDATA #IMPLIED >
+     rend CDATA #IMPLIED
+     type CDATA #IMPLIED>
 
 
 <!ELEMENT enclosure 
@@ -1963,6 +1964,7 @@ website at http://www.tei-c.org-->
      id ID #IMPLIED
      n CDATA #IMPLIED
      lang IDREF #IMPLIED
+     reg CDATA #IMPLIED
      rend CDATA #IMPLIED
      TEIform CDATA "titleStmt" >
 
@@ -3559,7 +3561,7 @@ are defined in file teicore2.dtd.-->
      lang IDREF #IMPLIED
      rend CDATA #IMPLIED
      reason CDATA #IMPLIED
-     resp CDATA #IMPLIED
+     resp CDATA #REQUIRED
      cert CDATA #IMPLIED
      hand IDREF #IMPLIED
      agent CDATA #IMPLIED
@@ -4074,10 +4076,12 @@ using the general purpose NAME element-->
      id ID #IMPLIED
      n CDATA #IMPLIED
      lang IDREF #IMPLIED
+     reg CDATA #IMPLIED
      rend CDATA #IMPLIED
      level (a | m | j | s | u) #IMPLIED
      type CDATA #IMPLIED
      TEIform CDATA "title" >
+     <!-- MSPP added reg attribute for titles -->
 
 <!-- end of [DCOBICOR]  6.10.2.2-->
 <!-- [DCOPUB] 6.10.2.3: Bibliographic subelements -->
