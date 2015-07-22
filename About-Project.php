@@ -5,7 +5,8 @@
 <head>
 	<title>The Public Writings of Margaret Sanger: Web Edition</title> 
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-	<link href="http://sangerpapers.org/sanger/app/documents/styles.css" rel="stylesheet" type="text/css" />
+		<link href="app/documents/styles.css" rel="stylesheet" type="text/css" /> 
+rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="http://sangerpapers.org/sanger/app/documents/global.js"></script> 
 </head>
 
@@ -19,31 +20,33 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <body>
-<center>
-  <div id="top">
-  <center>
+  <div id="top" align="left">
  <div style="width: 1000px;">
- 	<a href="https://www.facebook.com/pages/Friends-of-the-Margaret-Sanger-Papers/53274104181"><img src="https://sangerpapers.org/sanger/app/images/facebook.png" title="Facebook"></a>
-	<a href="https://twitter.com/sangerpapers"><img src="https://sangerpapers.org/sanger/app/images/twitter_bird_RGB.png" title="Twitter"></a>
-  
-  <div style="float:right">
-   <a href="//www.nyu.edu"><img src="https://sangerpapers.org/sanger/app/images/nyu_short_white.png" title="New York University" style="float: left;"></a>
+ <a href="//www.nyu.edu" title="New York University"><img src="app/images/nyu_short_white.png" style="float: left;"></a>
+ </div>
+ <div id="top" align="right">
+ <a href="https://www.facebook.com/pages/Friends-of-the-Margaret-Sanger-Papers/53274104181" title="Facebook"><img src="app/images/Facebook-Blue-64.png" style="float: right;"></a>
+	<a href="https://twitter.com/sangerpapers" title="Twitter"><img src="app/images/.png" style="float: right;"></a>
+	 </div>
   </div>
-  </div>
-   </div>
+</div>
 
-   
-<div id="sidebar"><div align="right"></div>
-<div style="width: 1000px;">
-  <div align="right"><h2>MSPP on the Web</h2></div>
-  <p align="right"><a href="https://sangerpapers.wordpress.com/">MSPP Research Blog</a></p>
-   <p align="right"><a href="http://www.nyu.edu/projects/sanger/newsletter">MSPP Newsletter</a>
-		   
+   <p>&nbsp;</p>
+    <p>			  <br>
+    </p>
+	<div align="right">
+	  <div id="researchsidebar">
+              <a href="https://sangerpapers.wordpress.com" title="Research"><img src="app/images/Research.png"></a>
+    </div>
+	<br> 
+      <div align="right"><a href="http://www.nyu.edu/projects/sanger/newsletter" title="Newsletter"><img src="app/images/Newsletter.png"></a>
 		
+      </div>
 </div>	
 <body
  onload="MM_preloadImages('../images/header_r2_c1_f2.gif','../images/header_r2_c2_f2.gif','../images/header_r2_c3_f2.gif','../images/header_r2_c4_f2.gif','../images/header_r2_c5_f2.gif');">
 <div id="container" style="width: 626px; margin: 0px auto;"> 
+<p>&nbsp;</p>
 <p align="center" style="margin-top: 0px; margin-bottom: 0px;">	<img id="header_r1_c1" src="http://sangerpapers.org/sanger/app/images/header_r2_c1.gif" width="625" height="95" alt="" /><img src="file:///C|/Users/Esther%20Katz/images/spacer.gif" width="1" height="95" alt="" /> 
 </p>
 <p align="center" style="margin-top: 0px; /*\*/margin-top: -3px;/**/">
