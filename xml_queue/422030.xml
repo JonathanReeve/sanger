@@ -24,7 +24,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="Marion, Kitty"/>
-		<index level1="Birth Control Review, The"/>
+		<index level1="Birth Control Review"/>
 		<index level1="Bamberger, Charles J."/>
 		<index level1="birth control movement" level2="goals and strategies"/>
 		<index level1="birth control" level2="distribution of information about"/>
@@ -33,14 +33,16 @@
 	</headNote>
 	<docBody>
 		<head>Judges With Small Families Jail Kitty Marion</head>
-		<p>IF YOU BUY this number of <title type="journal">THE BIRTH CONTROL REVIEW</title> from a
-			woman whom you are unaccustomed to see selling magazines on the street, it is because
-				<person reg="Marion, Kitty">Kitty Marion,</person> of THE REVIEW staff is in jail
-			for her convictions.</p>
+		<p>IF YOU BUY this number of THE <title type="journal" reg="Birth Control Review">BIRTH
+				CONTROL REVIEW</title> from a woman whom you are unaccustomed to see selling
+			magazines on the street, it is because <person reg="Marion, Kitty">Kitty
+				Marion,</person> of <title type="journal" reg="Birth Control Review">THE
+				REVIEW</title> staff is in jail for her convictions.</p>
 		<p>In a recent issue we told the authorities that for every woman jailed for her activities
 			in the movement for Birth Control, ten women would rise up to do her work. We
 			underestimated the vitality of our own cause. Instead of ten, fifteen women have
-			volunteered to sell THE REVIEW on the street.</p>
+			volunteered to sell <title type="journal" reg="Birth Control Review">THE REVIEW</title>
+			on the street.</p>
 		<p>That was only the beginning. Wherever the news of Miss Marion's arrest and imprisonment
 			has spread it has brought wider, deeper interest in the cause for which she is
 			suffering. Words of encouragement come from every side. Proffers of cooperation
@@ -50,7 +52,7 @@
 			of women, should through her dauntless courage and cheerful martyrdom, be the means of
 			bringing home once more to the women of <place reg="United States">America</place> the
 			vital fact that they and they alone can win and establish their liberties.</p>
-		<p>FORTY YEARS AGO, in the dock of an English prison stood Kitty Marion's countrywoman,
+		<p>Forty years ago, in the dock of an English prison stood Kitty Marion's countrywoman,
 				<person reg="Besant, Annie">Annie Besant,</person> and uttered words which awoke the
 			women of the British Empire to the brutality of the laws which prevented them from
 			attaining a knowledge of their own beings. That first martyr to the cause of Birth
@@ -59,27 +61,29 @@
 			contraceptives and today it is not unlawful in the British Empire to impart information
 			concerning Birth Control.</p>
 		<p>Woman's martyrdom bears abundant fruit for woman's freedom. Miss Marion is a member of
-			the staff of The Birth Control REVIEW. No member of that staff pauses at anything which
-			will further this battle for the freedom of woman. Hence it came that every afternoon
-			and every night, Miss Marion went among the Broadway crowds to sell and thereby
-			advertise THE REVIEW and the Birth Control movement. Other women, inspired by her
-			example, have come forward to do this work. Still others have volunteered to do her work
-			in the office.</p>
+			the staff of The <title type="journal" reg="Birth Control Review">Birth Control
+				REVIEW</title>. No member of that staff pauses at anything which will further this
+			battle for the freedom of woman. Hence it came that every afternoon and every night,
+			Miss Marion went among the Broadway crowds to sell and thereby advertise <title
+				type="journal" reg="Birth Control Review">THE REVIEW</title> and the Birth Control
+			movement. Other women, inspired by her example, have come forward to do this work. Still
+			others have volunteered to do her work in the office.</p>
 		<p>We beg to revise our previous statement. For every woman jailed for the sake of Birth
 			Control, twenty will rise up to do her work. Miss Marion was given her choice by the
 				<org reg="New York City Court of Special Sessions">court of Special Sessions.</org>
 			She could pay a $500 fine, or go to jail for thirty days. Instantly she choose the
 			latter.</p>
-		<p>Whatever improvement you may note in THE REVIEW in the next few issues is due in great
-			part to that decision upon Miss Marion's part. Money is not plentiful in the Birth
-			Control movement, but had Miss Marion so chosen, her fine would have been paid instantly
-			by contributors to this cause. She chose, rather, to give another proof of her great
-			devotion.</p>
+		<p>Whatever improvement you may note in <title type="journal" reg="Birth Control Review">THE
+				REVIEW</title> in the next few issues is due in great part to that decision upon
+			Miss Marion's part. Money is not plentiful in the Birth Control movement, but had Miss
+			Marion so chosen, her fine would have been paid instantly by contributors to this cause.
+			She chose, rather, to give another proof of her great devotion.</p>
 		<q who="MARKI">
-			<p>"Put the money into THE BIRTH CONTROL REVIEW," said she, "I'll stay in jail."</p>
+			<p>"Put the money into THE <title type="journal" reg="Birth Control Review">BIRTH
+					CONTROL REVIEW</title>," said she, "I'll stay in jail."</p>
 		</q>
 		<q who="BCR">
-			<p>THE TRIAL OF Kitty Marion, October 14th, was very brief.</p>
+			<p>The trial of Kitty Marion, October 14th, was very brief.</p>
 			<p>She did not deny that she had imparted the specified in formation to <person
 					reg="Bamberger, Charles J.">Agent Bamberger</person> of the so called <org
 					reg="New York Society for the Suppression of Vice">Society for the Prevention of
@@ -88,11 +92,11 @@
 				to procure and give him that humane knowledge which it is still unlawful to
 				communicate in <place reg="New York, NY">New York.</place></p>
 			<p>She did not apologize. She did not promise "never to do it again." She admitted the
-				facts and received her sentence. <person reg="Freschi, John J.">Judge Freschi</person>
-				favored a fine of $250 instead of $500. Judges <person reg="Kernochan, Frederic"
-					>Kernochan</person> and <person reg="Murphy, Daniel F.">Murphy</person> over
-				ruled him. Judge Kernochan was particularly insistent upon punishment of women who
-				dare <q who="KERFR">"to break the law."</q></p>
+				facts and received her sentence. <person reg="Freschi, John J.">Judge
+					Freschi</person> favored a fine of $250 instead of $500. Judges <person
+					reg="Kernochan, Frederic">Kernochan</person> and <person reg="Murphy, Daniel F."
+					>Murphy</person> over ruled him. Judge Kernochan was particularly insistent upon
+				punishment of women who dare <q who="KERFR">"to break the law."</q></p>
 			<p>One of the ironical features of the case is that while all three of the judges are
 				married, one is childless, and two have but small families.</p>
 			<p>One wonders why, Your Honors of the court of Special Sessions, if you think it your

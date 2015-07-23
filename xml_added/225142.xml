@@ -9,16 +9,17 @@
 		<prepDate>2007/06/27 CH Oxygen Update</prepDate>
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014/03/12 EK clean regs</prepDate>
-
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-07-23 CH clean tags</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1918-10-00">Oct 1918</docDate>
 		<docTitle>
 			<titlePart>All Together--Now!</titlePart>
 		</docTitle>
 		<idno>msp225142</idno>
 		<sourceDesc>
-			<bibl><title>Birth Control Review, The</title> Oct. 1918, 7</bibl>
-			<bibl><title>Margaret Sanger Microfilm</title> S70:801</bibl>
+			<bibl><title type="journal">Birth Control Review</title> Oct. 1918, 7</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:801</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -31,8 +32,8 @@
 		<head>ALL TOGETHER–-NOW!</head>
 		<p rend="italics">Dear Co-Workers:--</p>
 		<p rend="">Birth Control is breaking through. The barriers against which we have been
-			dashing ourselves are beginning to fall. No one who has read the last few issues of
-				<title rend="italics">The Birth Control Review</title> can doubt that we have made
+			dashing ourselves are beginning to fall. No one who has read the last few issues of The 
+				<title rend="italics" type="journal">Birth Control Review</title> can doubt that we have made
 			even greater progress than we had realized toward the emancipation of woman.</p>
 		<p>This number is the record of a significant success and of a strong counter attack. You
 			will find in it the stories of the unprecedented endorsement of our movement by staid
@@ -44,13 +45,13 @@
 			that interference with the declaration that instead of receding we would issue a bigger,
 			better and more fearless magazine. With your help, we are making good. </p>
 		<p>In this issue we are saying to that odorous organization left behind him by <person
-				reg="Comstock, Anthony" rend="italics">Anthony Comstock</person> that
-			for every woman jailed, we will raise up ten women to devote their lives to this fight
-			for free womanhood. With your help we can keep this promise too. </p>
+				reg="Comstock, Anthony" rend="italics">Anthony Comstock</person> that for every
+			woman jailed, we will raise up ten women to devote their lives to this fight for free
+			womanhood. With your help we can keep this promise too. </p>
 		<p>We need more women – more women actively and consciously at work for this cause. Two out
-			of five wives in the <place>United States</place> now
-			practise and privately approve of Birth Control. We want these women to come into the
-			open and stand courageously for the liberation of their less fortunate sisters. </p>
+			of five wives in the <place>United States</place> now practise and privately approve of
+			Birth Control. We want these women to come into the open and stand courageously for the
+			liberation of their less fortunate sisters. </p>
 		<p>The quickest way, the best available way to enlist new champions of this movement is to
 			place in the hands of your neighbors <emph rend="italics">The Birth Control
 				Review</emph></p>

@@ -5,7 +5,9 @@
 		<prepDate>2015-02-04 VV Transcribe and encode</prepDate>
 		<prepDate>2015-02-04 CH proof tags and enter</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-10-05">05 Oct 1954</docDate>
 		<docTitle>
 			<titlePart>

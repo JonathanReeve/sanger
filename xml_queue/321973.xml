@@ -7,7 +7,9 @@
 		<prepDate>2014-12-18 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-05-13 EK correct proof and update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1920-02-00">Feb 1920</docDate>
 		<docTitle>
 			<titlePart>Light for Mexico and South America</titlePart>
@@ -50,7 +52,7 @@
 				This is terrible, Mrs. Sanger, and I wish I could use all my power, money and
 				knowledge to help those poor women of this beloved but unhappy country of
 			mine.</q>"</p>
-		<p>A birth control group in Colombia is also planning to translate <title type="journal">THE
+		<p>A birth control group in Colombia is also planning to translate <title type="journal" reg="Birth Control Review">THE
 				BIRTH CONTROL REVIEW</title> into Spanish for the benefit of the native populations
 			of all Latin American countries. It is needless to say that all available information
 			concerning contraceptive methods has already been translated and is in circulation. A
