@@ -14,11 +14,11 @@
 		<sourceDesc>
 			<bibl><title type="book">Britannica Book of the Year</title>, 1940,
 				pp. 94-95</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="YBAJE">Ybarnegaray, Jean</name>
+			<name id="FRE">French</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -109,7 +109,7 @@
 			1939, not only provided new and drastic regulations against
 			abortion, but prohibited the advertising of contraception. Because
 			of censorship of everything published, including even a discussion
-			of contraception, <title type="journal">La Grande Reforme</title>,
+			of contraception, <title type="journal"><foreign lang="FRE">La Grande Reforme</foreign></title>,
 			the French Neo-Malthusian journal, edited by <person
 				reg="Humbert, Eugene">Eugene Humbert</person>, suspended
 			publication late in that year. </p>
@@ -117,9 +117,9 @@
 				>Jean Ybarnegaray</person>, minister of youth in the <place
 				reg="French State (Vichy)">Vichy government</place>, announced a
 			new policy to stimulate the birth rate. The young women of France
-			will be educated for one purpose only! <q who="YBAJE">“To return to
+			will be educated for one purpose only! <q who="YBAJE">"To return to
 				their traditional purpose of life- being in their homes and
-				living only to raise strong useful men.” </q>Fathers of families
+				living only to raise strong useful men." </q>Fathers of families
 			will be given preference over bachelors in both public and private
 			employment and will be paid in proportion to the size of their
 			families. </p>
@@ -157,10 +157,12 @@
 			rate of infant mortality. Coupled with the demand for an increase in
 			population, as a patriotic duty during the war, suppression of birth
 			control clinics and of discussion of birth control continued. </p>
-		<p><place>New Zealand</place>. - <org reg="Sex Hygiene and Birth Regulation Society of New Zealand">The Sex Hygiene and Birth
-				Regulation society of New Zealand</org> dissolved during 1940 to
-			re-form as the <org reg="Family Planning Association of New Zealand"
-				>Family Planning Association</org>, affiliated with the <org
+		<p><place>New Zealand</place>. - <org
+				reg="Sex Hygiene and Birth Regulation Society of New Zealand"
+				>The Sex Hygiene and Birth Regulation society of New
+				Zealand</org> dissolved during 1940 to re-form as the <org
+				reg="Family Planning Association of New Zealand">Family Planning
+				Association</org>, affiliated with the <org
 				reg="Family Planning Association">British organization</org>. A
 			deputation of workers from the association in conference with the
 			ministry of health requested that contraceptive advice be given by
@@ -211,10 +213,10 @@
 			contraceptives were advised. </p>
 		<p>U.S. Population Policies. - Wide attention was given to a report by
 			the Population committee of the <org>National Economic and Social
-				Planning association </org>which advocated “Provision for
+				Planning association </org>which advocated "Provision for
 			scientific information concerning appropriate methods of
 			contraception for all potential parents is an essential measure for
-			sound population policy.”</p>
+			sound population policy."</p>
 		<p>Special Negro Project. - The federation, through a special grant of
 			funds, established a division of Negro service, sponsored by a
 			National Advisory council which included Negro leadership in all
@@ -254,8 +256,8 @@
 				reg="Unknown">druggist in Iowa</person>, in 1937, was handed
 			down by the <org reg="Iowa State Supreme Court">supreme court of
 				that state</org> in 1939. The druggist was accused of violating
-			the law by distributing a pamphlet entitled <title type="pamphlet"
-				>“Birth Control.”</title> The court ruled him not guilty because
+			the law by distributing a pamphlet entitled "<title type="pamphlet"
+				>Birth Control</title>." The court ruled him not guilty because
 			the code of laws of the state specifically exempted medical schools,
 			physicians and druggists from the provisions of the act governing
 			distribution of contraceptive literature or materials. </p>

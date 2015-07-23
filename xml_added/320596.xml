@@ -18,7 +18,7 @@
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="EDGTH"/>
+			<name id="EDGTH">Edgar, Thomas Webster</name>
 			<name id="UNK">Unknown</name>
 			<name id="INMBC5">International Neo-Malthusian and Birth Control Conference, 5th
 				(1922)</name>
@@ -58,15 +58,17 @@
 	<docBody>
 		<head>The Physician and Birth Control</head>
 		<byline>Thomas Webster Edgar, M.D., and Margaret Sanger</byline>
-		<dateline><place>320 West 82nd Street.</place></dateline>
-		<div>
+		<dateline>
+			<place>320 West 82nd Street.</place>
+		</dateline>
+		<div type="section">
 			<head type="sub">Foreword.</head>
 			<p><q who="EDGTH">Due to my great interest in birth control, legitimately sponsored and
 					properly advocated, I have collaborated with Margaret Sanger in presenting this
 					article. My interest in the subject is purely humanitarian.</q>--Thomas W.
 				Edgar.</p>
 		</div>
-		<div>
+		<div type="section">
 			<p>Although it is only in the last few years that the doctrine of Birth Control has
 				assumed the proportions of a definitely crystallized world movement, its history is
 				ancient. This history began with the first crude efforts to control and direct the
@@ -136,21 +138,22 @@
 					<place>England</place> those valiant pioneer Doctors <person
 					reg="Drysdale, George">George</person> and <person reg="Drysdale, Charles R."
 					>Charles R. Drysdale</person> fought for years against the momentum of Victorian
-				opinion. In <place reg="Netherlands, the">Holland</place>, where the First Birth
-				Control Clinic in the world was opened in <place reg="Amsterdam, Netherlands, the"
-					>Amsterdam </place>in 1881, it has been mainly due to the efforts of two
-				physicians, Dr. <person reg="Jacobs, Aletta">Aletta Jacobs</person> and Dr. <person
+				opinion. In <place reg="Netherlands">Holland</place>, where the First Birth Control
+				Clinic in the world was opened in <place reg="Amsterdam, Netherlands">Amsterdam
+				</place>in 1881, it has been mainly due to the efforts of two physicians, Dr.
+					<person reg="Jacobs, Aletta">Aletta Jacobs</person> and Dr. <person
 					reg="Rutgers, Johannes">J. Rutgers</person> that we have that splendid example
 				of what the practice of Birth Control and the establishment of clinics under the
 				direction of trained specialists may accomplish for a nation.</p>
 			<p>We present hereith authentic tables indicating the results in <place
-					reg="Netherlands, the">Holland</place>, where fifty-two clinics are in operation
+					reg="Netherlands">Holland</place>, where fifty-two clinics are in operation
 				among a population of some 6,000,000 people:</p>
 			<p>
-				<table rows="4" cols="4">
+				<table rows="6" cols="4">
 					<head>Amsterdam (Malthusian [Birth Control] League started 1881; Dr. Aletta
 						Jacobs gave advice to poor women, 1885.)</head>
-					<row role="Birth Rate per 1,000 of populations">
+					<row role="label">
+						<cell>Birth Rate per 1,000 of populations</cell>
 						<cell>1881-1889</cell>
 						<cell>1906-10</cell>
 						<cell>1912</cell>
@@ -161,13 +164,20 @@
 						<cell>24.1</cell>
 						<cell>23.3</cell>
 					</row>
-					<row role="Death Rate per 1,000 of population">
+					<row>
+						<cell>Death Rate per 1,000 of population</cell>
+					</row>
+					<row>
 						<cell> </cell>
 						<cell>25.1</cell>
 						<cell>13.1</cell>
 						<cell>11.2</cell>
 					</row>
-					<row role="Infantile Mortality: Deaths in first year per 1,000 living births">
+					<row role="label">
+						<cell>Infantile Mortality: Deaths in first year per 1,000 living
+							births</cell>
+					</row>
+					<row>
 						<cell/>
 						<cell>203</cell>
 						<cell>90</cell>
@@ -176,10 +186,11 @@
 				</table>
 			</p>
 			<p>
-				<table rows="4" cols="4">
+				<table rows="6" cols="4">
 					<head>The Hague (now headquarters of the Neo-Malthusian [Birth Control]
 						League)</head>
-					<row role="Birth Rate per 1,000 of populations">
+					<row role="label">
+						<cell>Birth Rate per 1,000 of populations</cell>
 						<cell>1881-1889</cell>
 						<cell>1906-10</cell>
 						<cell>1912</cell>
@@ -190,13 +201,20 @@
 						<cell>27.5</cell>
 						<cell>23.6</cell>
 					</row>
-					<row role="Death Rate per 1,000 of population">
+					<row role="label">
+						<cell>Rate per 1,000 of population</cell>
+					</row>
+					<row>
 						<cell> </cell>
 						<cell>23.3</cell>
 						<cell>13.2</cell>
 						<cell>10.9</cell>
 					</row>
-					<row role="Infantile Mortality: Deaths in first year per 1,000 living births">
+					<row role="label">
+						<cell>Infantile Mortality: Deaths in first year per 1,000 living
+							births</cell>
+					</row>
+					<row>
 						<cell> </cell>
 						<cell>214</cell>
 						<cell>99</cell>
@@ -205,9 +223,10 @@
 				</table>
 			</p>
 			<p>
-				<table rows="4" cols="4">
+				<table rows="6" cols="4">
 					<head>Rotterdam</head>
-					<row role="Birth Rate per 1,000 of population">
+					<row role="label">
+						<cell>Birth Rate per 1,000 of population</cell>
 						<cell>1881-1889</cell>
 						<cell>1906-10</cell>
 						<cell>1912</cell>
@@ -218,13 +237,20 @@
 						<cell>32.0</cell>
 						<cell>29.0</cell>
 					</row>
-					<row role="Death Rate per 1,000 of population">
+					<row role="label">
+						<cell>Death Rate per 1,000 of population</cell>
+					</row>
+					<row>
 						<cell> </cell>
 						<cell>24.2</cell>
 						<cell>13.4</cell>
 						<cell>11.3</cell>
 					</row>
-					<row role="Infantile Mortality: Deaths in first year per 1,000 living births">
+					<row role="label">
+						<cell>Infantile Mortality: Deaths in first year per 1,000 living
+							births</cell>
+					</row>
+					<row>
 						<cell> </cell>
 						<cell>209</cell>
 						<cell>105</cell>
@@ -233,10 +259,13 @@
 				</table>
 			</p>
 			<p>
-				<table rows="4" cols="4">
+				<table rows="5" cols="4">
 					<head>Fertility and Illegitimacy Rates</head>
-					<row
-						role="Legitmate fertility: Legitimate birth per 1,000 married women aged 15 to 45">
+					<row role="label">
+						<cell>Legitimate fertility: Legitimate birth per 1,000 married women aged 15
+							to 45</cell>
+					</row>
+					<row>
 						<cell>1880-2</cell>
 						<cell>1890-2</cell>
 						<cell>1900-02</cell>
@@ -247,8 +276,11 @@
 						<cell>296.5</cell>
 						<cell>252.7</cell>
 					</row>
-					<row
-						role="Illegitimate fertility: Illegitimate birth per 1,000 unmarried women aged 15 to 45">
+					<row role="label">
+						<cell>Illegitimate fertility: Illegitimate birth per 1,000 unmarried women
+							aged 15 to 45</cell>
+					</row>
+					<row>
 						<cell/>
 						<cell>16.1</cell>
 						<cell>16.3</cell>
@@ -257,9 +289,12 @@
 				</table>
 			</p>
 			<p>
-				<table rows="4" cols="4">
+				<table rows="5" cols="4">
 					<head>The Hague</head>
-					<row role="Legitimate fertility">
+					<row role="label">
+						<cell>Legitimate fertility</cell>
+					</row>
+					<row>
 						<cell>1880-2</cell>
 						<cell>1890-2</cell>
 						<cell>1900-02</cell>
@@ -270,7 +305,10 @@
 						<cell>303.9</cell>
 						<cell>255.0</cell>
 					</row>
-					<row role="Illegitimate fertility">
+					<row role="label">
+						<cell>Illegitimate fertility</cell>
+					</row>
+					<row>
 						<cell/>
 						<cell>13.4></cell>
 						<cell>13.6</cell>
@@ -281,7 +319,8 @@
 			<p>
 				<table rows="4" cols="4">
 					<head>Rotterdam</head>
-					<row role="Legitimate fertility">
+					<row role="label">
+						<cell>Legitimate fertility</cell>
 						<cell>1880-2</cell>
 						<cell>1890-2</cell>
 						<cell>1900-02</cell>
@@ -292,7 +331,10 @@
 						<cell>312.0</cell>
 						<cell>299.0</cell>
 					</row>
-					<row role="Illegitimate fertility">
+					<row role="label">
+						<cell>Illegitimate fertility</cell>
+					</row>
+					<row>
 						<cell/>
 						<cell>17.4</cell>
 						<cell>16.5</cell>
@@ -302,7 +344,7 @@
 			</p>
 			<p>At the present moment, <place>England</place> offers a brilliant illustration of the
 				interest of physicians in the problem of Birth Control. The sensational address on
-					"<title type="book">Married Love</title>" of <person reg="Dawson, Bertrand E."
+					"<title type="book">Married Love</title>" of <person reg="Dawson, Bertrand"
 					>Lord Dawson</person>, the <person reg="George V (England)">King</person>'s
 				physician, at the <org reg="Lambeth Conference of Anglican Bishops">Lambeth
 					Conference of the Bishop of the Church of England</org>, in which he defended
@@ -370,8 +412,8 @@
 				the significant truths of his experiences are seldom conveyed to the general public.
 				Thus, Dr. <person reg="Yawger, Nathaniel Shurtz">N. S. Yawger</person> read a
 				compelling paper before the <org>Philadelphia Neurological Society</org> (Footnote:
-				January 27, 1922, <title type="journal">
-					<place reg="New York">N. Y.</place> Med. Jour.</title>, Vol. CXVI, No. 6, p.
+				January 27, 1922, <title type="journal" reg="New York Medical Journal">
+					N. Y. Med. Jour.</title>, Vol. CXVI, No. 6, p.
 				334), dealing with an epileptic and her sixteen children, a study "<q who="YAWNA">of
 					a family that was rendered distressingly poor through the circumstances of a
 					blind father, and of an epileptic mother who scouted race suicide by living up
