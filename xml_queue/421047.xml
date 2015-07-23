@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2013/12/11 JK encoded</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
-		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<prepDate>2015-03-13 CH recheck tags</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -23,7 +23,7 @@
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="MHN">The Mount Holyoke News</name>
+			<name id="MHN">Mt. Holyoke News</name>
 			<name id="HEAAR">Heath, Arthur (Sir)</name>
 		</respStmt>
 	</mepHeader>

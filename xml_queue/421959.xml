@@ -3,7 +3,7 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014/04/30 VS initial tagging</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docTitle>
 		<idno>msp421959</idno>
 		<sourceDesc>
-			<bibl><title type="journal"> Salt Lake News</title> Mar. 3, 1942, p. 5</bibl>
+			<bibl><title type="journal">Salt Lake News</title> Mar. 3, 1942, p. 5</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -21,9 +21,10 @@
 			<name id="GRUSI">Gruenberg, Sidonie</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger debated Sidonie Greunberg over whether the time was right to
-			increase the size of families. The article was also published in the Hutchinson Kansas
-			News, on Mar. 24, 1942. </p>
+	<headNote resp="MSPP">
+		<p>Sanger debated Sidonie Gruenberg over whether the time was right to increase the size of
+			families. The article was also published in the <title type="journal">Hutchinson Kansas News</title>, on Mar. 24,
+			1942.</p>
 		<index level1="birth control" level2="and war"/>
 		<index level1="birth control" level2="war and"/>
 		<index level1="Birth Control Federation of America"/>
@@ -45,54 +46,70 @@
 		<div type="section">
 			<p>
 				<q who="SLN">Should American parents fear to have more children now because of the
-					danger and insecurity caused by the greatest of history’s wars?</q></p>
+					danger and insecurity caused by the greatest of history’s wars?</q>
+			</p>
 			<p>
 				<q who="SLN">From coast to coast they are raising that query.</q>
 			</p>
 			<p>
-				<q who="SLN">So the question was laid before two well known authorities. </q></p>
+				<q who="SLN">So the question was laid before two well known authorities. </q>
+			</p>
 
-			<p><q who="SLN"> First was Mrs. <person reg="Gruenberg, Sidonie">Sidonie
+			<p>
+				<q who="SLN"> First was Mrs. <person reg="Gruenberg, Sidonie Matsner">Sidonie
 						Gruenberg</person>, head of the <org>Child Study Association</org> and
-					author of <title type="article">“We, the Parents,”</title> which won the 1940
+					author of "<title type="article">We, the Parents</title>," which won the 1940
 						<title type="journal">Parent’s Magazine</title> award for outstanding
 					service to parents and the home.</q>
 			</p>
-			<p><q who="SLN"> Second was Mrs. <person reg="Sanger, Margaret">Margaret
-					Sanger</person>, head of the <org reg="Birth Control Federation of America"
-						>American Federation of Birth Control</org>, who has battled for years - and
-					even been in jail - for her beliefs that women should have the freedom to
-					control the size of their families. </q></p>
+			<p>
+				<q who="SLN"> Second was Mrs. <person reg="Sanger, Margaret">Margaret
+						Sanger</person>, head of the <org reg="Birth Control Federation of America"
+						>American Federation of Birth Control</org>, who has battled for years--and
+					even been in jail--for her beliefs that women should have the freedom to
+					control the size of their families. </q>
+			</p>
 
 		</div>
 		<div type="section">
 			<head type="sub">Here's the Result</head>
-			<p><q who="SLN">They swung to bat on the question, with answers diametrically
-					opposed.</q></p>
-			<p><q who="GRUSI">"There are more reasons than ever for having children now,"</q>
+			<p>
+				<q who="SLN">They swung to bat on the question, with answers diametrically
+					opposed.</q>
+			</p>
+			<p>
+				<q who="GRUSI">"There are more reasons than ever for having children now,"</q>
 				<q who="SLN">said Mrs. Gruenberg, who is the mother of four (two sons are
 					physicians) and the grandmother of two.</q>
 				<q who="GRUSI">"Children are going to build the future--and it must be good. The
 					world is ill now, but that does not mean it cannot recover. Much of the recovery
-					depends on a strong youth, which will help to build a better world."</q></p>
-			<p><q who="GRUSI">"<person reg="Hitler, Adolf">Hitler</person> never could have come to
+					depends on a strong youth, which will help to build a better world."</q>
+			</p>
+			<p>
+				<q who="GRUSI">"<person reg="Hitler, Adolf">Hitler</person> never could have come to
 					power if it had not been for the restlessness and despair of the youth of
 						<place>Germany</place> over the bleak outlook it faced following the last
 					war. Hitler has taught us that the earth cannot have sick spots and remain well.
 					If we don't have children and build up a strong youth for the future, we shall
-					be a sick spot ourselves."</q></p>
-			<p><q who="GRUSI">"Besides I don't believe there is a valid reason for swinging away
+					be a sick spot ourselves."</q>
+			</p>
+			<p>
+				<q who="GRUSI">"Besides I don't believe there is a valid reason for swinging away
 					from normal. My children were born about the time of the first World War, when
 					we believed the world was being made safe for democracy. Twenty-five years have
 					shown that we were wrong in that assumption. It's just as reasonable to assume
 					that the black outlook which many people see now is not a correct calculation
-					either. So I see no valid reason for fearing to have children now."</q></p>
-			<p><q who="GRUSI">"I want to make it quite clear that I am not talking about breeding
+					either. So I see no valid reason for fearing to have children now."</q>
+			</p>
+			<p>
+				<q who="GRUSI">"I want to make it quite clear that I am not talking about breeding
 					just to increase the race. I believe that married people who are able bodied,
 					intelligent and resourceful should have children and I am talking to those who
 					want to, but are afraid. Children are a fulfilment and a long range stake in the
-					future.</q></p>
-			<p><q who="SLN"> Mrs. Sanger, child of a large family, the mother of two physician sons
+					future.</q>
+			</p>
+			<p>
+				<q who="SLN"> Mrs. Sanger, child of a large family, the mother of two physician sons
 					and a daughter who died at five, gave her views on the question by long distance
 					telephone from <place reg="Tucson, AZ">Tucson, Arizona</place>.</q>
 			</p>
@@ -127,7 +144,8 @@
 		<div>
 			<head type="sub"> World Outlook </head>
 
-			<p><q who="SLN"> Meanwhile, let’s see how many babies are actually being born. Figures
+			<p>
+				<q who="SLN"> Meanwhile, let’s see how many babies are actually being born. Figures
 					on the birthrate (the numbers of live births per 1,000 population) show there
 					has been a steady decrease in the birthrate in all civilized nations since 1880
 					until the last few years. In the <place>United States</place> (after a long
@@ -135,9 +153,11 @@
 					showed a marked increase to 19.0, said to be largely due to wartime marriages
 					and business upswing. <place>England</place>’s birthrate has shown a very small
 					decrease since 1938, when it was 15.1 and provisional records show still more
-					decline- to about 14.2- for 1941. </q></p>
+					decline- to about 14.2- for 1941. </q>
+			</p>
 
-			<p><q who="SLN">
+			<p>
+				<q who="SLN">
 					<place>Germany</place>’s birthrate fell like a waterfall in a record low of 14.7
 					in 1933, spurted upward to 18.0 in 1934 and continued the increase to 20.4 in
 					1940- a rise credited to Hitler’s steps to encourage the birth of more children.
@@ -147,7 +167,8 @@
 					in 1936 to 23.7 in 1938 and back to 23.4 in 1939. <place>Japan</place>, with the
 					largest birthrate of all (averaging from 30.6 in 1937 to 26.7 in 1938-) an
 					unusually long skid for so short a time. No later figures are available on Japan
-					now. </q></p>
+					now. </q>
+			</p>
 
 		</div>
 	</docBody>

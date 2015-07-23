@@ -8,7 +8,9 @@
 		<prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1911-12-24">24 Dec 1911</docDate>
 		<docTitle>
 			<titlePart>Dirt, Smell and Sweat</titlePart>

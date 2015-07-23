@@ -78,9 +78,9 @@
 			and courage came first. Support from leading religious denominations soon followed. Even
 			the <org reg="Roman Catholic Church">Catholic Church</org>, previously the outstanding
 			enemy of birth control, was forced to recognize the need for family limitation when it
-			sponsored the rhythm, or so-called safe period, method. Dr. <person reg="Latz, Leo J.">Leo
-				Latz</person>'s book, <title type="book">The Rhythm</title>, which carries on its
-			fly-leaf the phrase "<q who="LATLE">Published With Ecclesiastical Approbation,</q>"
+			sponsored the rhythm, or so-called safe period, method. Dr. <person reg="Latz, Leo J."
+				>Leo Latz</person>'s book, <title type="book">The Rhythm</title>, which carries on
+			its fly-leaf the phrase "<q who="LATLE">Published With Ecclesiastical Approbation,</q>"
 			gives reasons for family limitation which agree point for point with those advocated in
 			birth-control literature. The Catholic Church has wriggled out of its absurd and
 			inconsistent position by conceding the truth of the <emph rend="italics"
@@ -154,17 +154,17 @@
 		<p>Its second report, adopted in <place reg="Atlantic City, NJ">Atlantic City</place> on
 			June 8, 1937, brings the story, finally, to a "happy ending." Birth control was
 			recognized, at long last, by the medical profession as a whole. The report recommends:
-			(1) that the American Medical Association take such action as may be necessary to make
-			clear to physicians their legal rights in relation to the use of contraceptives; (2)
-			that the Association undertake the investigation of materials, devices and methods; (3)
-			that through instruction with respect to the various factors pertaining to fertility and
-			sterility, be promoted in medical schools.</p>
+			(1) that the <org>American Medical Association</org> take such action as may be
+			necessary to make clear to physicians their legal rights in relation to the use of
+			contraceptives; (2) that the Association undertake the investigation of materials,
+			devices and methods; (3) that through instruction with respect to the various factors
+			pertaining to fertility and sterility, be promoted in medical schools.</p>
 		<p>Thus the Association has sanctioned the legality of birth control, medical control of
 			methods and materials, and medical education.</p>
 		<p>The full report and further findings on the subject are to be printed in the <title
-				type="journal">Journal of the <org reg="American Medical Association"
-					>Association</org></title>, thus making them accessible to all physicians, and,
-			indeed, to any interested member of the general public.</p>
+				type="journal" reg="Journal of the American Medical Association">Journal of the
+				Association</title>, thus making them accessible to all physicians, and, indeed, to
+			any interested member of the general public.</p>
 		<p>"<q who="AMA">Information concerning contraception,</q>" says the report, "<q who="AMA"
 				>is admittedly available to persons in favorable economic circumstances.</q>" This
 			has been my contention for years. Women who have the fee to pay private physicians can
@@ -182,7 +182,7 @@
 			the facts, I fear. This rosy picture still lies in the future. But it can and should
 			exist, and we, the public, can make it come to pass. For birth control is today a part
 			of human knowledge, which must not be denied to all who want it and need it.</p>
-		<p>The <title type="journal">NEW MASSES</title>--and the "old"--can proudly celebrate the
+		<p>The <title type="journal" reg="New Masses">NEW MASSES</title>--and the "old"--can proudly celebrate the
 			1937 birth-control victories, for through the long years they have given fearless
 			support to the movement. In 1914, when I launched the first birth-control magazine in
 			America, The <title type="journal">Woman Rebel></title>, the <title rend="italics"

@@ -5,7 +5,7 @@
 		<prepDate>2011/06/28 CE</prepDate>
 		<prepDate>2011/11/30 CH Correct typo</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-30 CH proof and enter</prepDate>
+		<prepDate>2015-03-30 CH proof and enter</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -36,9 +36,9 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p> Handwritten insertions and emphasis added by Margaret Sanger. For draft versions, see
-			Margaret Sanger Microfilm, Smith College Collections S71:1064, 1070, 1082, and 1091. For
-			excerpts see Library of Congress Microfilm 130:509 and Margaret Sanger Microfilm, Smith
-			College Collections S71:1014.</p>
+			<title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:1064, 1070, 1082, and 1091. For
+			excerpts see Library of Congress Microfilm 130:509 and <title type="mf">Margaret Sanger Microfilm, Smith
+			College Collections</title> S71:1014.</p>
 		<index level1="birth rate" level2="population growth and"/>
 		<index level1="Europe" level2="MS on"/>
 		<index level1="Germany" level2="population policies of"/>
@@ -70,15 +70,15 @@
 					men</add> have been slain in battles, while cities, towns, even countries of
 				beauty and wealth have been sacked and destroyed.</p>
 			<p>The reasons given (if given at all) for this wholesale mad destruction are usually
-				“blinds” or “leads” for popular prejudice to inflame the masses into action.</p>
-			<p>Reasons for “wars of defense” are manipulated by diplomats.</p>
+				"blinds" or "leads" for popular prejudice to inflame the masses into action.</p>
+			<p>Reasons for "wars of defense" are manipulated by diplomats.</p>
 			<p>Wars to end wars become an occasion and a pretext.</p>
 			<p>Wars of Idealistic and Religious motives seem more righteous and worthy than motives
 				of economic rivalry for markets and world trade. So these sordid motives are kept in
 				the background.</p>
 			<p>We acknowledge that racial and religious differences have been the cause of war, and
-				though religion teaches the duty of loving our neighbors as ourselves, “religious
-				wars” have continued unabated.</p>
+				though religion teaches the duty of loving our neighbors as ourselves, "religious
+				wars" have continued unabated.</p>
 			<p>In <place>Ireland</place> it is the Catholics against the Protestants.</p>
 			<p>In <place>India</place> the Mohammedans against the Hindus who continue to attack
 				each other in savage fury, and while we realize that religious and racial
@@ -94,33 +94,33 @@
 				expansion were dominating her every political and economic move.</p>
 		</div>
 		<div type="Section">
-			<p> 1901--“<title type="book">In Conquest and Kultur</title>” by <person
+			<p> 1901--"<title type="book" reg="In Conquest and Kultur: Aims of the Germans in Their Own Words">In Conquest and Kultur</title>" by <person
 					reg="Dix, Arthur">Arthur Dix</person>:</p>
 		</div>
 		<div type="Section">
-			<p>“<q who="DIXAR">Because the German people nowadays increase at the rate of 800,000
+			<p>"<q who="DIXAR">Because the German people nowadays increase at the rate of 800,000
 					inhabitants in a year, they need both room and nourishment for the surplus</q>.
 				. . .</p>
-			<p>“<q who="DIXAR">As a world power in the world market we must assert our place and
+			<p>"<q who="DIXAR">As a world power in the world market we must assert our place and
 					make it secure in order that the younger hands may find room and opportunity for
-					employment</q>.”</p>
+					employment</q>."</p>
 			<div type="section">
-				<p><person reg="von Bernhardi, Friedrich">Von Bernhardi</person> in his “<title
-						type="book">Germany and the Next War</title>” published in 1911 states:</p>
-				<p> “<q who="BERFR">Strong, healthy, flourishing nations increase in number. From a
+				<p><person reg="von Bernhardi, Friedrich">Von Bernhardi</person> in his "<title
+						type="book">Germany and the Next War</title>" published in 1911 states:</p>
+				<p> "<q who="BERFR">Strong, healthy, flourishing nations increase in number. From a
 						given moment they require a continual expansion of their frontiers</q>.</p>
-				<p>“<q who="BERFR">They require new territory for the accommodation of their surplus
+				<p>"<q who="BERFR">They require new territory for the accommodation of their surplus
 						population</q>.</p>
-				<p>“<q who="BERFR">Since almost every part of the globe is inhabited, new territory
+				<p>"<q who="BERFR">Since almost every part of the globe is inhabited, new territory
 						must be obtained at a cost <emph rend="underline">to its possessors</emph>
 						-- that is to say <emph rend="underline">by conquest</emph> which thus
 						becomes a law of necessity.</q> Again in 1912 -- <emph rend="underline">von
 						Bernhardi wrote:</emph></p>
-				<p>“<q who="BERFR">We must endeavor to acquire new territories throughout the world
+				<p>"<q who="BERFR">We must endeavor to acquire new territories throughout the world
 							<emph rend="underline">by all means in our power</emph>, because we must
 						preserve to <place>Germany</place> the millions of Germans who will be born
 						in the future, and we must provide for them food and employment. They ought
-						to be able to live under a German sky, and to lead a German life</q>.”</p>
+						to be able to live under a German sky, and to lead a German life</q>."</p>
 			</div>
 			<div type="section">
 				<p>These statements by German writers and statesmen <add>express</add> a simple,
@@ -165,12 +165,12 @@
 							>underestimate</unclear></add>.</p>
 			</div>
 			<div type="section">
-				<p>“<title>MULTIPLYING MAN</title>” by <person reg="Pearl, Raymond"
+				<p>"<title type="article" reg="Multiplying Man">MULTIPLYING MAN</title>" by <person reg="Pearl, Raymond"
 					>Pearl</person></p>
-				<p>“<q who="PEARA">In the last analysis the living of every human being must come
+				<p>"<q who="PEARA">In the last analysis the living of every human being must come
 						out of the earth</q></p>
-				<p>“<q who="PEARA">Each individual now living has available about 16 acres of land,
-						half of which is useless</q>.”</p>
+				<p>"<q who="PEARA">Each individual now living has available about 16 acres of land,
+						half of which is useless</q>."</p>
 				<p>Pearl then turns to the chemical aspect of the population problem-- Carbon, the
 					most important element for the maintenance of life-- The most serious aspect of
 					the problem is not food production but the rapid rate at which industrial and
@@ -217,14 +217,14 @@
 				<p>We must know that the majority of the population of the world, especially in
 					countries like India and <place>China</place>. <add>Even</add>
 					<place reg="Soviet Union">Russia</place> with high birth rates, live permanently
-					on the lowest standard, which only “low pressure” countries like the United
+					on the lowest standard, which only "low pressure" countries like the United
 					States, France, England, New Zealand, Australia, Canada, low birth rate
 					countries, can maintain the ideal diet.</p>
 				<p>So much for the diet and the food possibilities and the land!</p>
 				<p>And now let us take <add>up</add> some of the vital factors in our population
 					growth:</p>
 				<p>Population experts have recently been shedding crocodile tears and issuing grave
-					warnings to the people of the “low pressure” population countries, because the
+					warnings to the people of the "low pressure" population countries, because the
 					birth rates of these countries <emph rend="underline">are declining</emph>.</p>
 				<p>They emphasize the declining birth rate but they fail to tell us that the
 					population of these countries are nevertheless increasing.</p>
@@ -233,13 +233,13 @@
 				<p>Interest 2% on $1,000,000 would give you $20,000.</p>
 			</div>
 			<div type="section">
-				<head type="sub">“High Pressure”--“Low Pressure” Countries</head>
+				<head type="sub">"High Pressure"--"Low Pressure" Countries</head>
 				<p><add>High</add> Germany, <place>Italy</place> and <place>Japan</place> constitute
-					what is now termed the “<emph rend="underline">high pressure</emph>”
+					what is now termed the "<emph rend="underline">high pressure</emph>"
 					nations.</p>
 				<p><add>Low</add> England, United States, <place>South America</place>, Australia,
 					Canada, <place reg="Scandinavia">Scandinavian countries</place> constitute the
-					“low pressure” nations.</p>
+					"low pressure" nations.</p>
 				<p>In 43 years or from the end of the <name type="war">Franco-Prussian war</name> to
 					1910, Germany’s population increased 24,000,000.</p>
 				<p>At the beginning of the World War in 1914 her population was approximately
@@ -344,10 +344,10 @@
 				</head>
 				<p>In November, 1936, <person reg="Goering, Hermann Wilhelm">General
 						Goering</person> stated:</p>
-				<p>“<q who="GOEHE">The territory in which the Germans live is too small for the
+				<p>"<q who="GOEHE">The territory in which the Germans live is too small for the
 						66,000,000 inhabitants and will soon be too small for the 70,000,000,
 						80,000,000, 90,000,000 which we <emph rend="underline">want</emph> to
-						become</q>.”</p>
+						become</q>."</p>
 				<p>Where is the League of Nations and what is their reply to this challenge to
 					International Peace?</p>
 				<p>
@@ -373,7 +373,7 @@
 				<head type="sub">
 					<emph rend="underline">ITALY</emph>
 				</head>
-				<p>Italy became a “high pressure” zone as soon as the United States and other
+				<p>Italy became a "high pressure" zone as soon as the United States and other
 					nations raised barriers against emigration.</p>
 			</div>
 			<div type="section">
@@ -398,8 +398,8 @@
 				<head type="sub">EMBITTERED</head>
 				<p>Italy <del>thru >Mussolini</del> was embittered by <del>its</del>
 					<add>small</add> spoils of the World War. She wanted much more territory from
-					the Allies and like Japan decided to become a military force where “<emph
-						rend="underline">might would make right</emph>.”</p>
+					the Allies and like Japan decided to become a military force where "<emph
+						rend="underline">might would make right</emph>."</p>
 			</div>
 			<div type="section">
 				<head type="sub">MARRIAGE</head>
@@ -526,14 +526,14 @@
 				<head type="sub">POPE PIUS</head>
 				<p><person reg="Pius XI (Pope)">Pope Pius XI</person>, great champion of Peace,
 					defending Italy’s action in Ethiopia, is quoted as saying in August, 1935:</p>
-				<p>“<q who="PIUPO">We cannot think of an unjust war. We cannot envisage this
+				<p>"<q who="PIUPO">We cannot think of an unjust war. We cannot envisage this
 						possibility and we discard it deliberately ------ On the other hand, in
 						Italy there is a question of a <emph rend="underline">just war of
 							defense</emph> to secure frontiers against continual and incessant
 						dangers -- <emph rend="underline">a war made necessary by a population which
 							increases day by day</emph>--a war undertaken to defend or assure <emph
 							rend="underline">material security</emph> of a country -- such a war is
-						justifiable</q>.”</p>
+						justifiable</q>."</p>
 				<p>Intellectual dishonest is <emph rend="underline">unworthy</emph> of one, in so
 					exaulted a position.</p>
 				<p>
@@ -548,35 +548,36 @@
 				</p>
 				<p><emph rend="underline">Italy</emph>--quote from <person reg="Thompson, Warren"
 							><emph rend="underline">Warren Thompson</emph></person>, <add><title
-							type="book">Danger Spots World and Population</title>, 1925</add>.</p>
-				<p>“<q who="THOWA">It appears then, that Italy has neither the agricultural nor
+							type="book" reg="Danger Spots in World Population">Danger Spots World and Population</title>, 1925</add>.</p>
+				<p>"<q who="THOWA">It appears then, that Italy has neither the agricultural nor
 						industrial resources to care for the present growth of population for more
 						than a few years</q>.</p>
 				<p>"<q who="THOWA">If they must remain at home the pressure of population will
 						shortly become intolerant and we may look for some kind of an
-					explosion</q>.”</p>
-				<p><person reg="Coppola, Francesco">Francesco Coppola</person> “<title>Land of
-						Italy</title>”--1931. <org reg="Harvard University">Harvard</org>.</p>
-				<p>“<q who="COPFR">There is only one solution for Italy’s problem--<emph
+					explosion</q>."</p>
+				<p><person reg="Coppola, Francesco">Francesco Coppola</person> "<title>Land of
+						Italy</title>"--1931. <org reg="Harvard University">Harvard</org>.</p>
+				<p>"<q who="COPFR">There is only one solution for Italy’s problem--<emph
 							rend="underline">Land</emph>. Colonial land for Italy or at least land
 						under Italy’s political control--land for Italian people who are too crowded
 						in their own country; land for her power; <emph rend="underline">land for
-							her freedom</emph> on the Mediterranean</q>.”</p>
+							her freedom</emph> on the Mediterranean</q>."</p>
 				<p>1927 -- Mussolini before the <org reg="Italy Chamber of Deputies">Chamber of
 						Deputies</org> outlined his plans for Greater Italy: (<place
 						reg="Geneva, Switzerland">Geneva</place>
-					<org reg="World Population Conference, 1927">World Population Conference</org>)</p>
-				<p> “<q who="MUSBE">If Italy is to amount to anything it must enter into the second
+					<org reg="World Population Conference, 1927">World Population
+					Conference</org>)</p>
+				<p> "<q who="MUSBE">If Italy is to amount to anything it must enter into the second
 						half of this century with a population of at least 60,000,000
-						inhabitants</q>.”</p>
-				<p>“<q who="MUSBE">We must at a given moment be able to mobilize 5,000,000 men <emph
+						inhabitants</q>."</p>
+				<p>"<q who="MUSBE">We must at a given moment be able to mobilize 5,000,000 men <emph
 							rend="underline">thoroughly</emph> armed. We must strengthen our Navy,
 						while aviation must be on such a large scale, and <emph rend="underline">so
 							powerful</emph> that the noise of its motors <emph rend="underline">must
 							surpass any other noise</emph> and the are of the wings of our airplanes
-						must obscure the sun from our land</q>.”</p>
-				<p>“<q who="MUSBE">Then between 1935 and 1940 we will be able to make our voice
-						heard</q>.”</p>
+						must obscure the sun from our land</q>."</p>
+				<p>"<q who="MUSBE">Then between 1935 and 1940 we will be able to make our voice
+						heard</q>."</p>
 			</div>
 			<div type="section">
 				<head type="sub">JAPAN</head>
@@ -650,7 +651,7 @@
 					<head type="sub" rend="underline">Import</head>
 					<p>--Not sufficient food for increasing population 1,000,000 a year.</p>
 					<p>
-						<add>”Bandits” in <place reg="Manchuria, China">Manchuria</place></add>
+						<add>"Bandits" in <place reg="Manchuria, China">Manchuria</place></add>
 					</p>
 				</div>
 				<div type="section">
@@ -664,8 +665,8 @@
 				</div>
 				<div type="section">
 					<head type="sub" rend="underline">1931 Manchuria</head>
-					<p>-- Japanese statesmen “<q who="UNK">viewed with alarm</q>” the doings of “<q
-							who="UNK"><emph rend="underline">bandits</emph></q>”--walked in to form
+					<p>-- Japanese statesmen "<q who="UNK">viewed with alarm</q>" the doings of "<q
+							who="UNK"><emph rend="underline">bandits</emph></q>"--walked in to form
 						to puppet state of <place>Manchukuo</place>.</p>
 					<p>This action was supposed to</p>
 					<list>
@@ -719,21 +720,21 @@
 						growing population. <add>Manchuria, China, This means Tyranny, Despotism,
 							&amp; War</add>.</item>
 				</list>
-				<p>“<q who="UNK"><emph rend="underline">Foreign trade</emph> is the way out; <emph
+				<p>"<q who="UNK"><emph rend="underline">Foreign trade</emph> is the way out; <emph
 							rend="underline">foreign markets</emph> will be open to our
-						manufacturers</q>.”</p>
-				<p>“<q who="UNK">We need not decrease our numbers but must be able to provide
-						employment for our increasing population</q>..”</p>
+						manufacturers</q>."</p>
+				<p>"<q who="UNK">We need not decrease our numbers but must be able to provide
+						employment for our increasing population</q>.."</p>
 				<p>1933 <person reg="Nyeda, Professor">Prof. Nyeda</person>, Professor of Economics
 					at <org>Tokyo University</org>, <org>Institute of Pacific Relations</org>, says
 					--</p>
-				<p>“<q who="NYEDA">It is unfortunate for our country which is so thickly populated,
+				<p>"<q who="NYEDA">It is unfortunate for our country which is so thickly populated,
 						and whose inhabitants are increasing so rapidly that no suitable territory
 						lies open to which we can send a large number of emigrants, while to the
 						more thinly populated countries entrance is refused despite the fact that
 						these countries are in no danger of becoming over-populated by their own
-						people</q>.”</p>
-				<p>“<q who="NYEDA">To bottle up a growing nation, such as the Japanese, in narrow
+						people</q>."</p>
+				<p>"<q who="NYEDA">To bottle up a growing nation, such as the Japanese, in narrow
 						islands and to refuse them to expand overseas is not only unreasonable but
 						also to court <emph rend="underline">danger for the world</emph>, for if the
 						lack of food and other raw materials should <emph rend="underline">become
@@ -760,19 +761,19 @@
 					over-populated countries is the first and surest method whereby the balance may
 					be peacefully restored.</p>
 				<p><emph rend="underline">Consequently</emph>--</p>
-				<p>There must be action on the part of “low pressure” nations.</p>
+				<p>There must be action on the part of "low pressure" nations.</p>
 			</div>
 			<div type="section">
-				<head type="sub" rend="underline">Way Out for “Low Pressure” Nations</head>
+				<head type="sub" rend="underline">Way Out for "Low Pressure" Nations</head>
 				<p>For immediate action:</p>
 				<list>
-					<item>1. Open gates of “low pressure” countries for selected quotas. U.S.A.
+					<item>1. Open gates of "low pressure" countries for selected quotas. U.S.A.
 						Russia South America New Zealand Canada Australia</item>
-					<item>2. <add>Allow</add> the purchase of unused lands by “high pressure”
+					<item>2. <add>Allow</add> the purchase of unused lands by "high pressure"
 						countries for surplus, not only land but natural resources are
 						essential.</item>
-					<item>3. Raise tariff bars and encourage exchange of products-- Thus “Live and
-						Let Live.”</item>
+					<item>3. Raise tariff bars and encourage exchange of products-- Thus "Live and
+						Let Live."</item>
 					<item>4. Also form a League of low birth rate countries to create cultural
 						interests and defend intellectual entities <del>as</del>
 						<add>who are</add> a product of civilization which no one nation has a right

@@ -4,7 +4,10 @@
 	<mepHeader>
 		<prepDate>2011/06/29 NC</prepDate>
 		<prepDate>2014-03-21 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-07-22 CH clean regs titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1939-00-00">
 			<supplied resp="MSPP">1939</supplied>
 		</docDate>
@@ -14,7 +17,7 @@
 		<idno>msp222668</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm</title> S72:117</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S72:117</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -22,8 +25,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For additional versions see Library of Congress Microfilm 130:32 and Margaret
-				Sanger Microfilm S72:1128</p>
+		<p>For additional versions see Library of Congress Microfilm 130:32 and <title type="mf">Margaret Sanger
+			Microfilm, Smith College Collections</title> S72:1128.</p>
 		<index level1="Ellis, Havelock"/>
 	</headNote>
 	<docBody>

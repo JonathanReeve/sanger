@@ -11,7 +11,9 @@
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1912-00-00">
 			<supplied resp="MSPP">1912</supplied>
 		</docDate>
@@ -29,7 +31,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>For a draft version of this article see <title type="article">"A Crying Need for a
+		<p>For a draft version of this article see "<title type="article">A Crying Need for a
 				Greater Motherhood</title>," ca. 1912 on Library of Congress Microfilm 131:46.</p>
 		<index level1="child labor"/>
 		<index level1="prostitution"/>
@@ -40,7 +42,7 @@
 	<docBody>
 		<head>Wanted--a Bigger Motherhood.</head>
 		<epigraph>
-			<q who="ANON">"<unclear>O</unclear> friends and sisters gliding down the
+			<q who="ANON">"<unclear resp="MSPP">O</unclear> friends and sisters gliding down the
 				years-<lb/>Humanity is calling each and all;<lb/>In tender accents, born of grief
 				&amp; tears:<lb/>I pray you listen to the thrilling call;<lb/>you can not in your
 				cold &amp; selfish pride <lb/>Pass guiltlessly upon 'the other side'"</q>
@@ -68,10 +70,10 @@
 			<add>lunch</add> as best they can out of garbage pails or gutter until the parents come
 			home at night. After I had related a few such stories which had come directly under my
 			care, tears glistened in her eyes, she drew both her children close to her and said "<q
-				who="UNK">Oh City Woman Im so glad my children have their mother, &amp; good food,
-				&amp; plenty of air &amp; sunshine, Im so happy that they are out of those harried
+				who="UNK">Oh City Woman I'm so glad my children have their mother, &amp; good food,
+				&amp; plenty of air &amp; sunshine, I'm so happy that they are out of those harried
 				cities &amp; here where they can chase the butterflies gather daisies &amp; romp
-				&amp; play to their hearts desire</q>"--She dashed a tear from off her nose, braced
+				&amp; play to their hearts desire</q>"-- She dashed a tear from off her nose, braced
 			herself in her chair and began, "<q who="UNK">but after all its no use in our worrying
 				about these things, they are there, &amp; they can't be helped &amp; I just won't
 				think about them.</q>"</p>

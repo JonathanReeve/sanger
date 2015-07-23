@@ -4,16 +4,18 @@
 	<mepHeader>
 		<prepDate>2012-04-11 AW Initial Tag</prepDate>
 		<prepDate>2014-04-13 EK clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
-		<docDate value="0000-00-00">n.d.</docDate>
+		<prepDate>2015-07-22 CH clean regs titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="0000-00-00"><supplied resp="MSPP">no date</supplied></docDate>
 		<docTitle>
 			<titlePart>Causes Back of Social Programs</titlePart>
 		</docTitle>
 		<idno>msp236398</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf"
-				>Margaret Sanger Microfilm</title> S73:0029</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S73:0029</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -53,8 +55,8 @@
 		</list>
 		<p> All have roots in the increasing battalions of unwanted babies coming into a world whose
 			system of society is not adequate to sustain 75% population in poverty ($1,000)</p>
-		<p>Women bearing our future race from this stock--<person reg="Jukes Family">Jukes</person> and
-				<person reg="Kallikak Family">Kallikak</person> families.</p>
+		<p>Women bearing our future race from this stock--<person reg="Jukes Family">Jukes</person>
+			and <person reg="Kallikak Family">Kallikak</person> families.</p>
 		<p>Consequences of breeding from <emph rend="underline">stock lacking human vitality</emph>
 			always will give us social problems and perpetuate institutions of charity and
 			crime.</p>

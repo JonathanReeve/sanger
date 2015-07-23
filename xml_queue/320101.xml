@@ -8,7 +8,9 @@
 		<prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
 		<prepDate>2014-03-05 CH correcting regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1911-12-19">19 Dec 1911</docDate>
 		<docTitle>
 			<titlePart>Meeting of Women's Committee</titlePart>
@@ -31,7 +33,6 @@
 				<org>Labor Temple</org>. Every member is urged to attend this meeting. There were
 			not sufficient members present at the last meeting to hold a meeting. Consequently work
 			is piling up to be passed upon. Please be prompt, 8 o'clock.</p>
-		<byline>Margaret H. Sanger, Women's
-			Organizer.</byline>
+		<byline>Margaret H. Sanger, Women's Organizer.</byline>
 	</docBody>
 </doc>

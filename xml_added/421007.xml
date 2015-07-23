@@ -6,7 +6,7 @@
 		<prepDate>2014/02/27 CH proof</prepDate>
 		<prepDate>2014/03/07 YG correct</prepDate>
 		<prepDate>2015/02/12 EK correct proof and index</prepDate>
-		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,7 +19,7 @@
 		<idno>msp421007</idno>
 		<sourceDesc>
 			<bibl><title type="article">Mrs. Sanger Flays Miss Davis's Plans</title>, <title
-					type="journal">New York Times,</title> Mar. 7, 1917, p. 13</bibl>
+					type="journal">New York Times</title>, Mar. 7, 1917, p. 13</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -125,12 +125,12 @@
 					humane persons, who made the duties of their offices as little unpleasant to the
 					inmates as possible. </q>
 			</p>
-			<p>“I ought to say that of them,” <q who="New York Times">said Mrs. Sanger,</q> “for
+			<p>"I ought to say that of them," <q who="New York Times">said Mrs. Sanger,</q> "for
 				other prisoners told me that they were the rare exception. But even they would not
 				permit me to lecture to the girls. I offered to talk on any subject, but they said
 				it was impossible. Just think! And those girls had practically nothing to do. There
 				is no provision to educate the prisoners, so that an opportunity for real reform
-				work is lost.” </p>
+				work is lost." </p>
 			<p>
 				<q who="NYT">Mrs. Sanger's only real trouble while a prisoner arose over her refusal
 					to be fingerprinted. Throughout her stay in jail Warden McCann tried to get her
@@ -140,7 +140,7 @@
 			</p>
 			<p>"I was bruised and exhausted," <q who="NYT">said Mrs. Sanger,</q> "though they tried
 				to be as gentle as they could, and at last they went to ask Mr. McCann if they
-				should persist. He told them to do so, but after more resistence they abandoned the
+				should persist. He told them to do so, but after more resistance they abandoned the
 				attempt. I cautioned them that they had no right to lay hands on me." </p>
 		</div>
 		<div type="section">
@@ -150,7 +150,7 @@
 					longer, while some forty persons were waiting for her outside. Meantime <person
 						reg="Marion, Kitty">Miss Kitty Marion</person>, an English militant
 					suffragette, stood in the prison courtyard and sang suffragette words to the air
-					of <title type="song">“The Marseillaise</title>,” the inmates joining in the
+					of "<title type="song">The Marseillaise</title>," the inmates joining in the
 					chorus from the windows.</q>
 			</p>
 			<p>
