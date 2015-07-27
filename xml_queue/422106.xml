@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+	<mepHeader>
+		<prepDate>2015-07-27 CH transcribed and encoded</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1930-06-18">
+			<supplied resp="MSPP">18 Jun 1930</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Bennington Mothers' Club Speech</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422106</idno>
+		<sourceDesc>
+			<bibl><title type="article">200 Hear Talk By Margaret Sanger</title>, <title
+					type="journal">Bennington Herald</title>, June 18, 1930</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BH">Bennington Herald</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="marriage" level2="age at"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+	</headNote>
+	<docBody>
+		<head>200 HEAR TALK BY MARGARET SANGER</head>
+		<dateline><place reg="Bennington, NH">BENNINGTON</place>, <date value="1930-06-18">June
+				18</date>.--</dateline>
+		<p><q who="BH">The aims of the national <org
+				reg="National Committe on Federal Legislation for Birth Control">committee on
+				Federal Legislation for Birth Control</org> were explained this evening by Mrs.
+			Margaret Sanger of <place reg="New York, NY">New York city</place> to an audience of 200
+			in the Baptist church here, when she spoke under the auspices of the <org
+				reg="Bennington Mothers' Club">Bennington Mothers' club</org>.</q></p>
+		<p><q who="BH">Mrs. Sanger declared that the committee is working to prevent transmission of diseases
+			such as tuberculosis and other incurable maladies from mother to child. It favors the
+			establishment of clinics where reputable and accredited physicians may give to
+			responsible mothers such contraceptive knowledge and advice as applies to individual
+			cases. She stated that 40 such clinics are now being conducted in the <place>United
+				States</place> besides practically all the larger hospitals in New York city, where
+			they are conducted by the staff physicians.</q></p>
+		<p><q who="BH">Prevention of the marriage of immature or adolescent youths is another aim of the
+			organization and the deferment of raising families until married people become adjusted
+			to wedded life is also advised. The economic question is considered in the aims of the
+			committee, as well as the health of mothers.</q></p>
+		<p><q who="BH">Mrs. Sanger declared that <place>Vermont</place> is one of the most liberal states in its
+			laws regarding these matters, although the <org reg="Vermont State Legislature">state
+				Legislature</org> refused to pass a sterilization law several years ago. She pointed
+			out the social problems involved when the birth rate is unlimited in the families of
+			those who are mentally, physically, morally and economically unfit to raise families.
+			She stressed the point that the organization does not advocate destroying life, but the
+			prevention or limitation of the birth rate under certain conditions.</q></p>
+	</docBody>
+</doc>

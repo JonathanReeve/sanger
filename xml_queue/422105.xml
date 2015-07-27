@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+	<mepHeader>
+		<prepDate>2015-07-27 CH transcribe and encode</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1959-08-12">12 Aug 1959</docDate>
+		<docTitle>
+			<titlePart>The Church and Birth Control</titlePart>
+		</docTitle>
+		<idno>msp422105</idno>
+		<sourceDesc>
+			<bibl><title type="article">Contraception Called Major Need in U.S.</title>, <title type="journal">Unidentified Newspaper</title>, <supplied>Aug. 13, 1959</supplied></bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="EHRAR">Ehrenstrom, Art</name>
+			<name id="LINSA">Lindamood, Samuel, Jr.</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>No newspaper information was found on this clipping.</p>
+		<index level1="overpopulation"/>
+	</headNote>
+	<docBody>
+		<head>Contraception Called Major Need in U.S.</head>
+		<byline>By ART EHRENSTROM</byline>
+		<p><q who="EHRAR"><place reg="United States">This country</place> will become</q>"the slum nation of the world" <q who="EHRAR">in 25 years if the population continues to grow at the present prolific rate, the mother of planned parenthood warned last night.</q></p>
+		<p><q who="EHRAR">Margaret Sanger Slee spoke before more than 100 adults in the patio of the <org>Mountain View Presbyterian Church</org>, her first public appearance in <place reg="Tucson, AZ">Tucson</place> since returning from a trip to <place>Japan</place>.</q></p>
+		<p><q who="EHRAR">Although also overpopulated, Japan may surpass the United States in the next quarter of a century in birth control</q> "if we continue to increase our numbers at the present rate" <q who="EHRAR">by raising more children that it is possible to feed, educate and clothe, Mrs. Slee said.</q></p>
+		<p><q who="EHRAR">This generation, she added, needs</q> "better, safer and cheaper contraceptives, and biologists are just beginning to meet this need."</p>
+		<p><q who="EHRAR">In Japan, Mrs. Slee pointed out, the birth rate is being successfully controlled--more so than in the United States--not only by the use of contraceptive devices but also</q> "a good deal by abortion."</p>
+		<p><q who="EHRAR">Mrs. Slee, who made a trip to <place>New Delhi, India</place>, last February for an <org reg="International Conference on Planned Parenthood, 6th">international conference on planned parenthood</org>, said Japan also is far ahead of <place>India</place> in controlling the birth rate. She explained 80 per cent of India's population is illiterate, but there is little or not illiteracy in Japan.</q></p>
+		<p><q who="EHRAR"><place>China</place> was beginning to make progress before the mainland went Communist, Mrs. Slee declared.</q></p>
+		<p>"<place reg="Soviet Union">Russia</place> has given Red China the high sign," <q who="EHRAR">the internationally famous birth control crusader said,</q> "and now the people of that country are being urged to produce more children."</p>
+		<p><q who="EHRAR">Mrs. Slee said planned parenthood groups of this country have taken no stand on legalized abortion but </q>"they are are against it in principal, preferring contraception.</p>
+		<p>"It is not healthy,<q who="EHRAR"> she said. Contraceptive pills have proven highly effective in tests, Mrs. Slee said, although they are not yet ready for popular use. In <place>Puerto Rico</place>, she added 500 married women were given 20 such pills over a 30-day period and none became pregnant.</q></p>
+		<p><q who="EHRAR">The call for more widespread birth control measures is seldom mentioned in the <org>United Nations</org> when the cry for peace is heard, Mrs. Slee said in commenting on occasions when the subject of both control has been removed from UN agendas in deference to predominately Catholic countries.</q></p>
+		<p><q who="EHRAR">Mrs. Slee, looking fashionable in a small white hat and a dark knee-length dress adorned with white carnations, shared the platform with Rev. Mr. <person reg="Lindamood, Samuel, J., Jr.">Samuel J. Lindamood Jr.</person>, assistant minister of the church, and Mrs. <person>Lois Nelson</person>, a member of the board of the <org reg="Tucson Planned Parenthood Association">Tucson Planned Parenthood Assn</org>.</q></p>
+		<p><q who="EHRAR">The Rev. Mr. Lindamood said the <org>Presbyterian General Assembly</org> in 1869 went on records irrevocably as being opposed to abortion but subsequently endorsed the use of contraceptives in planned parenthood as long as they are not used to </q><q who="LINSA">"totally prevent families.</q>
+			<q who="EHRAR">He said 35,000 babies will be born in Tucson in the next year, describing an area east of Wilmont Rd. and south of Broadway as</q>
+			<q who="LINSA">"Fertile Valley</q></p>
+	</docBody>
+</doc>
