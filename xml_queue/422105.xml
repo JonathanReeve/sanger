@@ -6,7 +6,9 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1959-08-12"><supplied resp="MSPP">11 Aug 1959</supplied></docDate>
+		<docDate value="1959-08-11">
+			<supplied resp="MSPP">11 Aug 1959</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>The Church and Birth Control</titlePart>
 		</docTitle>
@@ -23,7 +25,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>No newspaper information was found on this clipping. For another newspaper version of this event, held in <place>Scottsboro, AZ</place>, see <xref from="421986.xml">The Church and Birth Control</xref>, Aug. 11, 1959.</p>
+		<p>No newspaper information was found on this clipping. For another newspaper version of
+			this event, held in <place>Scottsboro, AZ</place>, see <xref from="421986.xml">The
+				Church and Birth Control</xref>, Aug. 11, 1959.</p>
 		<index level1="overpopulation"/>
 	</headNote>
 	<docBody>
