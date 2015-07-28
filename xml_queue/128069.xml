@@ -2,43 +2,36 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 	<mepHeader>
-		<prepDate>2015-03-06 JC transcribed and encoding</prepDate>
-		<prepDate>2015-03-09 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-17 EK correct proof and update index</prepDate>
-		<prepDate>2015-07-28 CH correct typos in the headnote</prepDate>
+		<prepDate>2015-07-28 CH transcribe and encode--used the proofread copy of the 1st edition
+			and edited for changes.</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1914-11-00">Nov 1914</docDate>
+		<docDate value="1915-00-00">
+			<supplied resp="MSPP">1915</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart>Family Limitation</titlePart>
+			<titlePart>Family Limitation, Third or Fourth Edition</titlePart>
 		</docTitle>
-		<idno>msp301756</idno>
+		<idno>msp128069</idno>
 		<sourceDesc>
-			<bibl>Leland Loveless Collection, Special Collections, Cline Library</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections,</title>
-				S76:0850:0710</bibl>
+			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
+			<bibl>Library of Congress Microfilm, 129:189</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name/>
+			<name id="LAT">Latin</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is the first edition of <title type="book">Family Limitation</title>. For other
-			versions included in the digital edition, see <xref from="320146.xml">Family
-				Limitation</xref>, 8th edition, 1918, <xref from="320179.xml">Family
-				Limitation</xref>, 9th edition, 1919, <xref from="238150.xml">Family
-				Limitation</xref>, 12th edition, ca. 1922, <xref from="238155.xml">Family
-				Limitation</xref>, 17th edition, ca. 1927, and a draft of revisions for <xref
-				from="129001.xml">Family Limitation</xref>, ca. 1936. For additional editions, see
-			the Margaret Sanger Microfilm, Smith College Collections, Collected Documents Series and
-			Library of Congress Microfilm.</p>
-		<p>For related pamphlets on methods, see <xref from="128063.xml">English Methods of Birth
-				Control</xref>, 1915, <xref from="101920.xml">Dutch Methods of Birth Control</xref>,
-			Mar.-Apr. 1915, and <xref from="129014.xml">Magnetation Methods of Birth Control</xref>,
-			Aug. 1915. Handwritten note by Margaret Sanger on cover page reads: "First Edition
-			1914."</p>
+		<p>This is the first substantial revision of Sanger's 1914 <xref from="238157.xml">Family
+				Limitation</xref>; likely published in 1915. For other versions included in the
+			digital edition, see <xref from="320146.xml">Family Limitation</xref>, 8th edition,
+			1918, <xref from="320179.xml">Family Limitation</xref>, 9th edition, 1919, <xref
+				from="238150.xml">Family Limitation</xref>, 12th edition, ca. 1922, and a draft of
+			revisions for <xref from="129001.xml">Family Limitation</xref>, ca. 1936. For additional
+			editions, see the Margaret Sanger Microfilm, Smith College Collections, Collected
+			Documents Series and Library of Congress Microfilm.</p>
 		<index level1="abortion"/>
 		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="birth control" level2="health benefits and risks"/>
@@ -85,7 +78,7 @@
 				trouble about the date of the menstrual period. It seems inartistic and sordid to
 				insert a pessary or a suppository in anticipation of the sexual act. But it is far
 				more sordid to find yourself several years later burdened down with half a dozen
-				unwished for children, helpless, starved, shoddily clothed, dragging at your skirt,
+				unwanted children, helpless, starved, shoddily clothed, dragging at your skirt,
 				yourself a dragged out shadow of the woman you once were.</p>
 			<p>Don't be over sentimental in this important phase of hygiene. The inevitable fact is
 				that unless you prevent the male sperm from entering the womb, you are going to
@@ -115,11 +108,11 @@
 			<p>If you are due to be "sick" on the eighth of August, do not wait until the eighth to
 				see, but begin as early as the fourth to take a good laxative for the bowels, and
 				continue this each night until the eighth.</p>
-			<p>If there is the slightest possibility that conception may have taken place, take on
-				these same nights before retiring, five or ten grams of quinine, with a hot drink.
-				The quinine in capsule form is considered fresher, but if this is taken do not use
-				alcoholic drinks directly after, as it hardens the capsules, thus delaying the
-				action of the quinine.</p>
+			<p>If there is the slightest possibility that the male fluid has entered the vagina,
+				take on these same nights before retiring, five or ten grams of quinine, with a hot
+				drink. The quinine in capsule form is considered fresher, but if this is taken do
+				not use alcoholic drinks directly after, as it hardens the capsules, thus delaying
+				the action of the quinine.</p>
 			<p>By taking the above precautions you will prevent the ovum from making its nest in the
 				lining of the womb.</p>
 			<p>Women of intelligence who refuse to have children until they are ready for them, keep
@@ -135,29 +128,29 @@
 				matter.</p>
 			<p>A very good laxative (though it is a patent medicine) is Beechams Pills. Two of these
 				taken night and morning, four days before menstruation, will give a good cleansing
-				of the bowels, and assist with the menstrual flow.</p>
+				of the bowels, and assist with the menstrual flow. Castor oil is also a good
+				laxative.</p>
 			<p>The American physicians may object to this advice because Beechams Pills are a patent
 				medicine. But until they are willing to give open advice on this subject, we must
 				resort to such as the least harmful, until such time as they do.</p>
 			<p>If a woman will give herself attention BEFORE the menstrual period arrives, she will
 				almost never have any trouble, but if she neglects herself and waits to see if she
 				"comes around," she is likely to have difficulty.</p>
-			<p>It takes quinine from four to six days to bring about the desired results, and if one
-				finds a longer time has elapsed and the flow is not brought on, then the only remedy
-				is an abortion. When once one has been convinced that an abortion is necessary, do
-				not indulge in medicines of any kind. They only weaken the system, and require a
-				much greater length of time to recuperate. Never allow a pregnancy to run over a
-				month.</p>
-			<p>If you are going to have an abortion, make up your mind to it in the first stages,
-				and have it done. On the other hand, there is often a feeling of the strongest
-				desire to continue with the pregnancy. It is for each woman to decide this for
-				herself, but act at once, whichever way you decide.</p>
+			<p>If the action of the quinine has not expelled the semen from the uterus, and a week
+				has elapsed with no signs of the menstrual flow, then it is safe to say conception
+				has taken place. </p>
+			<p>Any attempt to interfere with the development of the fertilized ovum is called an
+				abortion.</p>
+			<p>No one can doubt that there are times when an abortion is justifiable but they will
+				become <emph rend="italics">unnecessary when care is taken to prevent
+					conception.</emph></p>
+			<p>This is the only cure for abortions.</p>
 			<p>There is current among people an idea that conception can take place at only certain
-				times of the month. For instance: ten days after the menstrual period, and ten or
-				fourteen days before the next period. This is not to be relied upon at all, for it
-				has been proven again and again that a woman can conceive at any time in the month.
-				Do not depend upon this belief, for there is not reliable foundation for it. There
-				is also the knowledge that nursing after childbirth prevents the return of the
+				times of the month. For instance: ten days after the menstrual period, and four or
+				five days before the next period. This is not to be relied upon at all, for it has
+				been proven again and again that a woman can conceive at any time in the month. Do
+				not depend upon this belief, for there is not reliable foundation for it. There is
+				also the knowledge that nursing after childbirth prevents the return of the
 				menstrual flow for several months and conception does not take place. It is well not
 				to depend upon this too much, especially after the fifth or sixth month, for often a
 				woman becomes pregnant again without having "seen anything" or without her realizing
@@ -166,29 +159,30 @@
 			<p>Again, it is believed that conception cannot take place if the woman lies upon her
 				left side at the time of the act. It makes no difference which side she lies upon;
 				she can become pregnant if the semen is not prevented from entering the womb.</p>
-			<p>Perhaps the commonest preventive excepting the use of the condom is "coitus
-				interruptus," or withdrawal of the penis from the vagina shortly before the
-				ejaculation of the semen. No one can doubt that this is a perfectly safe method; and
-				it is not considered so dangerous to the man as some authorities have formerly
-				viewed it, but it requires a man of the strongest will-power to be certain that he
-				has withdrawn before any of the semen has been deposited in the vagina. It is very
-				difficult to determine exactly whether this has been done. The greatest objection to
-				this is the evil effect upon the woman's nervous condition. She has not completed
-				her desire, she is under a highly nervous tension, her whole being is perhaps on the
-				verge of satisfaction. She is then left in this dissatisfied state, which is far
-				from humane. This does her injury. A mutual and satisfied sexual act is of great
-				benefit to the average woman, the magnetism of it is health giving, and acts as a
-				beautifier and tonic. When it is not desired on the part of the woman and she has no
-				response, it should not take place. This is an act of prostitution and is degrading
-				to the woman's finer sensibility, all the marriage certificates on earth to the
-				contrary notwithstanding. When a woman desires the sexual act, and is completely
-				satisfied, her whole being is built up and beautified through it, her form develops,
-				her eyes become brighter, her health improves, color comes in to her cheeks. All
-				life is changed for her and would continue thus if it were not for the fact that she
-				allows intercourse when she has no natural desire for it, and then allowing it, she
-				is without means for prevention of conception, and is so throughout the act
-				conscious and fearful of its consequences. Withdrawal on the part of the man should
-				be substituted by some other means that does not injure the woman.</p>
+			<p>Perhaps the commonest preventive excepting the use of the condom is "<foreign
+					lang="LAT">coitus interruptus</foreign>," or withdrawal of the penis from the
+				vagina shortly before the ejaculation of the semen. No one can doubt that this is a
+				perfectly safe method; and it is not considered so dangerous to the man as some
+				authorities have formerly viewed it, but it requires a man of the strongest
+				will-power to be certain that he has withdrawn before any of the semen has been
+				deposited in the vagina. It is very difficult to determine exactly whether this has
+				been done. The greatest objection to this is the evil effect upon the woman's
+				nervous condition. She has not completed her desire, she is under a highly nervous
+				tension, her whole being is perhaps on the verge of satisfaction. She is then left
+				in this dissatisfied state, which is far from humane. This does her injury. A mutual
+				and satisfied sexual act is of great benefit to the average woman, the magnetism of
+				it is health giving, and acts as a beautifier and tonic. When it is not desired on
+				the part of the woman and she has no response, it should not take place. This is an
+				act of prostitution and is degrading to the woman's finer sensibility, all the
+				marriage certificates on earth to the contrary notwithstanding. When a woman desires
+				the sexual act, and is completely satisfied, her whole being is built up and
+				beautified through it, her form develops, her eyes become brighter, her health
+				improves, color comes in to her cheeks. All life is changed for her and would
+				continue thus if it were not for the fact that she allows intercourse when she has
+				no natural desire for it, and then allowing it, she is without means for prevention
+				of conception, and is so throughout the act conscious and fearful of its
+				consequences. Withdrawal on the part of the man should be substituted by some other
+				means that does not injure the woman.</p>
 		</div>
 		<div type="section">
 			<head type="sub">DOUCHES AND THEIR IMPORTANCE.</head>
@@ -218,12 +212,8 @@
 				vaginal discharge. The special objection to this is that it stains the skin and
 				clothing. This can be purchased in crystal form, and one teaspoonful dissolved in
 				two quarts of water is the proper strength.</p>
-			<p>Carbolic acid solution is also used, but it is difficult to opbtain this without a
-				physician's prescription. It is no better than others herein mentioned, not so
-				difficult to obtain. </p>
 			<p>Chinosol is highly recommended as a vaginal douche, as being less injurious to the
-				membranes than bichloride. It can be obtained from Parmele Pharmacal Co., 54 South
-				St., <place reg="New York, NY">New York</place>.</p>
+				membranes than bichloride. </p>
 			<p>Salt solution--Mix four tablespoonsful of table salt in two quarts of warm or cold
 				water and dissolve thoroughly.</p>
 			<p>Vinegar solution--Many peasants in <place>Europe</place> use vinegar as an antiseptic
@@ -236,6 +226,7 @@
 				journey to meet the ovum.</p>
 			<p>Every woman should possess a good two quart rubber douche bag called fountain
 				syringe. Hang it high enough to insure a steady direct flow.</p>
+
 			<p>Figure 1-- Fountain Syringe</p>
 
 			<p>Some women use the douche before the sexual act as a preventive. Any astringent such
@@ -245,7 +236,7 @@
 				douche.</p>
 		</div>
 		<div type="section">
-			<head type="sub">THE USE OF THE CONDOM OR "COTS."</head>
+			<head type="sub">THE USE OF THE CONDOM OR "COTS".</head>
 			<p>There is little doubt that a thorough douching of the genital passage with an
 				antiseptic solution performed by skilled hands immediately after the sexual act
 				would destroy the male sperm, and nothing else would be necessary. But there is
@@ -301,8 +292,8 @@
 				middle and upper class in America. At one time the cost of these ranged up to seven
 				dollars, as they were imported into this country from France. Today they are
 				manufactured in this country, and may be had from fifty cents up to two dollars. The
-				Mizpah is the name of one of the best and costs one dollar and a half at the
-				reliable drugstores.</p>
+				Mizpah is the name of one of the best and costs one dollar and a half at any
+				reliable drug store.</p>
 			<p>They come in three sizes--large, medium, and small. It is well to get the medium
 				size, as the small ones are only for very small boned women and easily get out of
 				place.</p>
@@ -339,17 +330,17 @@
 		</div>
 		<div type="section">
 			<head type="sub">SPONGES.</head>
-			<p>Sponges can also be had at the drugstore. They have a tape attached to them to be
+			<p>Sponges can also be had at the drug store. They have a tape attached to them to be
 				conveniently removed. They should be soaked in an antiseptic solution for a few
 				minutes before coitus and then introduced into the vagina as far up as they can be
 				placed. Some physicians have recommended the use of the cotton plug, instead of the
 				sponge, to be soaked in a solution of three per cent carbolic and glycerine, before
 				the act. The male sperm is destroyed by the weakest solution of carbolic acid. Some
-				of the peasants in <place>Europe</place> use the cotton plug soaked in vinegar for
-				the same purpose, and find it satisfactory. In this country a boric acid solution
-				has been used for the same purpose and with satisfactory results. Of course this
-				requires a saturated solution, as, for instance, one teaspoonful of the powder to a
-				cup of water stirred until dissolved.</p>
+				of the peasants in Europe use the cotton plug soaked in vinegar for the same
+				purpose, and find it satisfactory. In this country a boric acid solution has been
+				used for the same purpose and with satisfactory results. Of course this requires a
+				saturated solution, as, for instance, one teaspoonful of the powder to a cup of
+				water stirred until dissolved.</p>
 			<p>Sponges and plugs can be recommended as perfectly safe, if followed by an antiseptic
 				douche before the removal of the plug or sponge, thus preventing the sperm from
 				entering the womb. The problem is: to kill the male sperm upon entering the vagina,
@@ -364,33 +355,26 @@
 				negate the effect of the male seed.</p>
 			<p>Any reliable druggist will make this up for you:</p>
 			<list>
-				<item>Boric acid, 1 gram</item>
-				<item>Salicylic acid, 10 grains</item>
-				<item>Quinine bisulphate, 2 grams</item>
-				<item>Chondrus jelly (KY), 2 oz.</item>
-				<item>Dispense in a collapsible tube.</item>
-			</list>
-			<p>Among other suppositories are the following: </p>
-			<list>
 				<item>Boric acid, 0.6 grams</item>
 				<item>Salicylic acid, 0.12 grams</item>
 				<item>Quinine bisulphate, 0.2 grams</item>
-				<item>>Chinosol, 0.12 grams</item>
+				<item>Chinosol, 0.12 grams</item>
 				<item>Glycerine gelatine, 6.0 grams</item>
 				<item>Allow twenty minutes for melting.</item>
 			</list>
 			<p>Another form of suppository, which was recommended by a physician who charged a fee
-				of $10 for the prescription, is the following:</p>
+				of $10 for the prescription, is the following: </p>
 			<list>
 				<item>Boric acid, 10 grains</item>
 				<item>Cocoa butter, 20 grains</item>
 			</list>
+
 			<p>Another suppository, which is the same as the well-known Aseptikon, is the
 				following:</p>
 			<list>
 				<item>Salicylic acid, 2 grains</item>
 				<item>Boric acid, 10 grains</item>
-				<item>Quin. purol (alkal). 1 grain</item>
+				<item>Quin. purol (alkal), 1 grain</item>
 				<item>Chinosol, 2 grains</item>
 				<item>Cocoa butter, 90 grains</item>
 				<item>M. f. suppos. glob No. 1</item>
@@ -413,11 +397,9 @@
 			</list>
 			<p>Make this into a paste. Allow to spread out and solidify, then cut into pieces of 2
 				grams each wrap separately and put in a cool place (air-tight).</p>
-			<p>In some countries, preventive pastille are used commonly. A type is composed of boric
-				acid and metaborate of soda compressed into pastilles. Injected into the vagine a
-				few minutes before coitus (the sexual act), the pastille melts into the secretions
-				and forms an antiseptic preventive. Personal advice on any of these is necessary
-				before beginning to use them.</p>
+			<p>I have given in the foregoing pages the most commonly known means of prevention.
+				Personally I recdommend every woman use a well fitted pessary and learn to adjust
+				it.</p>
 		</div>
 	</docBody>
 </doc>

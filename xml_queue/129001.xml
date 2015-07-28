@@ -21,7 +21,14 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">
+	<headNote resp="MSPP"><p>This is a revision of Sanger's 1914 <xref from="238157.xml">Family
+				Limitation</xref>. For other versions included in the digital edition, see <xref
+				from="128069.xml">Family Limitation</xref>, 3rd or 4th edition, ca., 1915, <xref
+				from="320146.xml">Family Limitation</xref>, 8th edition, 1918, <xref
+				from="320179.xml">Family Limitation</xref>, 9th edition, 1919, and <xref
+				from="238150.xml">Family Limitation</xref>, 12th edition, ca. 1922. For additional
+			editions, see the Margaret Sanger Microfilm, Smith College Collections, Collected
+			Documents Series and Library of Congress Microfilm.</p>
 		<index level1="birth control" level2="in marriages"/>
 		<index level1="birth control" level2="methods" level3="condom"/>
 		<index level1="birth control" level2="methods" level3="continence"/>
@@ -127,12 +134,12 @@
 			<head type="sub">The use of the <del>[cervical]</del> diaphragm pessary. </head>
 			<p>One of the most reliable means of prevention is the diaphragm. These come in various
 				sizes ranging from 50 to 100 mm. There are different makes and names, such as
-					Ramses, <org reg="Holland Rantos Company">H.R. Clinical</org>,
-					<org reg="London Rubber Company">Durex</org>, Dutch, <person reg="Mensinga, Wilhelm">Mensinga</person>,
-					<person reg="Haire, Norman">Haire</person> and numerous other trade names. Some
-				made of coil and others the flat watch spring. It is the diaphragm pessary that is
-				largely used in the clinics in U.S.A. and England. It has stood the test of time for
-					<del>nearly</del>
+				Ramses, <org reg="Holland Rantos Company">H.R. Clinical</org>, <org
+					reg="London Rubber Company">Durex</org>, Dutch, <person reg="Mensinga, Wilhelm"
+					>Mensinga</person>, <person reg="Haire, Norman">Haire</person> and numerous
+				other trade names. Some made of coil and others the flat watch spring. It is the
+				diaphragm pessary that is largely used in the clinics in U.S.A. and England. It has
+				stood the test of time for <del>nearly</del>
 				<add>over</add> fifty years. It was invented in Holland by Dr. Mensinga and <person
 					reg="Jacobs, Aletta">Dr. Jacob</person> in 1879, but remodeled in U.S.A. by
 					<org>Julius Schmid <add>Co.</add></org> in 1918 with a coil spring and more
