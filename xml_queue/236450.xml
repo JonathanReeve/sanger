@@ -37,11 +37,13 @@
 			<place reg="Trenton, NJ">Trenton</place>
 			<date value="1935-03-25">35</date>
 		</dateline>
-		<p>Federal laws--62 years ago <name reg="United States Criminal Code, Section 211" type="law"
-				>Sec 211</name>, <name reg="United States Criminal Code, Section 245" type="law"
-				>245</name>: 5 years $5000. <emph rend="underline">Where</emph>--Clinics 162.</p>
+		<p>Federal laws--62 years ago <name reg="United States Criminal Code, Section 211"
+				type="law">Sec 211</name>, <name reg="United States Criminal Code, Section 245"
+				type="law">245</name>: 5 years $5000. <emph rend="underline">Where</emph>--Clinics
+			162.</p>
 		<p>Caused deaths of 15,000,000 children. We have paid--Women paying.</p>
-		<p><org reg="United States Federal Reserve">Fed Reserve Board</org> Industrial Production.</p>
+		<p><org reg="United States Federal Reserve">Fed Reserve Board</org> Industrial
+			Production.</p>
 		<p><org reg="United States National Emergency Council">Nat Emergency Council</org>
 			10,830,000 unemployed.</p>
 		<p><org reg="United States Federal Emergency Relief Administration">FERA</org>. 22,375,000
@@ -51,8 +53,8 @@
 			largely attained &amp; we still have nearly 11,000,000 unemployed. Then we find
 			ourselves <add>confronted</add> with far greater problems than turning our Set of
 			politicians out of office &amp; voting another set in.</p>
-		<p>On March 10/1935 <title type="journal">NY Times</title> carried a headline--<title
-				type="article">$58 a Second cost of relief in Nation</title>. 22,375,000 persons now
+		<p>On March 10/1935 <title type="journal" reg="New York Times">NY Times</title> carried a headline--<title
+				type="article" reg="$58 A Second Cost of Relief in Nation">$58 a Second cost of relief in Nation</title>. 22,375,000 persons now
 			on relief rolls &amp; trend continues to be upward. Federal Reserve Board announced on
 			Feb 26 1935 that industrial production in <place reg="United States">USA</place>
 			<del>rose</del> in January rose to 90% of the 1923-25 average. This is within a close

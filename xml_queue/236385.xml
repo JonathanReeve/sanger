@@ -39,7 +39,8 @@
 				reg="Indianpolis, IN">Indianapolis</place> on Nov. 18, 1922, and <place>Vancouver,
 				Canada</place> on July 3, 1923 (Margaret Sanger Microfilm, Smith College Collections
 			S70:928, 946, and 1000).</p>
-		<index level1="xxxx"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="mentally diseased or disabled" level2="unfit to reproduce"/>
 	</headNote>
 	<docBody>
 		<dateline>
@@ -56,7 +57,7 @@
 			<p>Infanticide ceased only when skill in abortion <supplied resp="MSPP"
 					>prevalent</supplied> Abortion will cease when B.C.</p>
 			<p>B.C. <emph rend="underline">key</emph> to greatest of human problems reconciling
-				Democracy <unclear>Hum Christianity to race Im</unclear></p>
+				Democracy <unclear resp="MSPP">Hum Christianity to race Im</unclear></p>
 			<p>Intelligence slow growth; reproductive powers far in advance.</p>
 			<p>Sentiment, development sympathetic, nervous system rescue, diseased, feebleminded etc
 				erect institutions encourage reproduce their kind</p>
@@ -74,10 +75,10 @@
 					child laborers sunrise to sunset</add></p>
 			<p>22,000 mothers <rs reg="tuberculosis">T.B.</rs> 7-4 die--heart disease kidney
 				disease</p>
-			<p>abortions 10000 east side <unclear>possessions</unclear> 89% <place
+			<p>abortions 10000 east side <unclear resp="MSPP">possessions</unclear> 89% <place
 					reg="Fall River, MA">Fall River</place>
-				<org reg="New York Society for the Prevention of Cruelty to Children">Prevention cruelty children Society</org> 25,000 deaths, U.S.A.
-				largest number.</p>
+				<org reg="New York Society for the Prevention of Cruelty to Children">Prevention
+					cruelty children Society</org> 25,000 deaths, U.S.A. largest number.</p>
 			<p/>
 			<p>feeble minded 400,000 -- <person reg="Goddard, Henry Herbert">Goddard</person> 34,000
 				85% prostitutes</p>
@@ -115,7 +116,7 @@
 			<p>Church timid <person reg="Inge, William Ralph">Dean Inge</person>, <person
 					reg="Dawson, Bertrand E.">Lord Dawson</person>, People everywhere
 				deliverence.</p>
-			<p>Not only Individual--world poblem. <person reg="Wells, H. G.">H. G. Wells</person>
+			<p>Not only Individual--world problem. <person reg="Wells, H. G.">H. G. Wells</person>
 				world swarming.</p>
 			<p>You cannot measure Greatness County size of population.</p>
 			<p>B.C. in 1 generation-- directed feeble diseased</p>
