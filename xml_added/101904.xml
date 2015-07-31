@@ -14,7 +14,9 @@
 			<supplied resp="MSPP">1920</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">PROBLEMS OF POPULATION AND PARENTHOOD: A Review by Margaret Sanger</supplied>
+			<titlePart>
+				<supplied resp="MSPP">PROBLEMS OF POPULATION AND PARENTHOOD: A Review by Margaret
+					Sanger</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp101904</idno>
@@ -55,7 +57,7 @@
 			Commission is <emph rend="underline">self-appointed.</emph> One would imagine that
 				<del>if</del>this Commission had <del>not</del> been appointed by the <org
 				reg="United Kingdom Government">British Government</org>, <del>
-				<unclear>at least it</unclear>
+				<unclear resp="MSPP">at least it</unclear>
 			</del>and operated and functioned under <del>some indirect</del><add>direct</add>
 			sanction of official interest. <del>But such is not the case.</del> The people involved
 			gathered together under this <del>distinctly Anglo-Saxon</del>title on their own
