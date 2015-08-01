@@ -7,6 +7,7 @@
 		<prepDate>2014-11-10 CH clean regs</prepDate>
 		<prepDate>2015-02-20 EK correct indezx</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<prepDate>2015-06-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -32,15 +33,16 @@
 				>Nov. 26, 1911</xref> and for V-b <xref from="320086.xml">Dec. 3, 1911</xref>, for
 			Part VI see <xref from="320087.xml">Dec. 10, 1911.</xref>, and for Part VII, see <xref
 				from="320088.xml">Dec. 17, 1911.</xref></p>
-		<p>This series was compiled and published as <title type="book">What Every Mother Should
-				Know</title>, (New York, 1912). This part was retitled Chapter 7, "<title
+		<p>When this series was compiled and published as <title type="book">What Every Mother Should
+				Know</title>, (New York, 1912), this part was retitled Chapter 7, "<title
 				type="article">Man's Development</title>." For the new conclusion written for the
-			book publication, see "<xref from="321900.xml">Conclusion</xref>."</p>
+			book publication, see "<xref from="143476.xml">What Every Mother Should Know: Conclusion</xref>."</p>
 		<index level1="evolution"/>
 		<index level1="marriage" level2="MS on"/>
 		<index level1="sex education"/>
 		<index level1="reproduction"/>
 		<index level1="women and girl" level2="enslavement of"/>
+		<index level1="Sanger, Margaret" level2="books" level3="What Every Mother Should Know"/>
 	</headNote>
 	<docBody>
 		<head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>

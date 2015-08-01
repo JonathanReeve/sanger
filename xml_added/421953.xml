@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-05-02 JK initial tag</prepDate>
 		<prepDate>2015-04-08 CH proof tags again</prepDate>
+		<prepDate>2015-07-22 CH correct titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -53,25 +54,25 @@
 				<place>Massachusetts</place>. These were in 1945 the only states retaining legal
 			barriers which prevented physicians prescribing birth control under any condition.</p>
 		<p>
-			<emph rend="bold">Legal Decisions.-</emph> Two pertinent decisions were handed down in
+			<emph rend="bold">Legal Decisions.--</emph> Two pertinent decisions were handed down in
 			1945 by the district court of appeals in <place reg="Washington, DC">Washington,
 				D.C.</place> The first, a permanent injunction barring the postmaster general from
-			interfering with the mailing of the <org>Consumer’s Union</org>
-			<title type="book">“Report on Contraceptive Material</title>”; the second, overruling
+			interfering with the mailing of the <org reg="Consumers Union">Consumer's Union</org>
+			<title type="book">"Report on Contraceptive Material</title>"; the second, overruling
 			the postmaster general’s mailing ban on <person reg="Popenoe, Paul">Paul
-				Popenoe</person>'s pamphlet, <title type="book">“Preparing for
-			Marriage.”</title></p>
+				Popenoe</person>'s pamphlet, "<title type="book">Preparing for
+			Marriage</title>."</p>
 		<p> In Connecticut a bill to permit physicians to prescribe birth control for patients in
 			poor health was killed in committee, although a <org
 				reg="Roper Center for Public Opinion Research">Roper</org> survey made just previous
 			to the bill’s introduction revealed that 85% of the state’s adult voters were in favor
 			of changing existing laws.</p>
 		<p>
-			<emph rend="bold">Medical and Public Health.- </emph><person reg="Herrick, William W."
+			<emph rend="bold">Medical and Public Health.-- </emph><person reg="Herrick, William W."
 				>Dr. William W. Herrick</person>, president of the <org>New York Academy of
 				Medicine</org>, <place reg="New York, NY">New York city</place>, headed a committee
-			of 40 of the city’s distinguished physicians who presented a program on “Responsibility
-			for the Health of Tomorrow’s Family” at the federation’s 24th annual dinner. Dinner
+			of 40 of the city’s distinguished physicians who presented a program on "Responsibility
+			for the Health of Tomorrow’s Family" at the federation’s 24th annual dinner. Dinner
 			speakers included <person reg="Williams, R. C.">Dr. R. C. Williams</person>, assistant
 			U.S. surgeon-general, <org reg="United States Public Health Service">U.S. public health
 				service</org>; <person reg="Schumann, Edward A.">Dr. Edward A. Schumann</person>;
@@ -90,7 +91,7 @@
 			published a report advocating an optimum interval between births to decrease the number
 			of stillbirths.</p>
 		<p>
-			<emph rend="bold">Research. - </emph>To stimulate research in the field of human
+			<emph rend="bold">Research.-- </emph>To stimulate research in the field of human
 			fertility, the <org reg="Lasker Foundation"><person reg="Lasker, Albert D."
 					>Albert</person> and <person reg="Lasker, Mary">Mary Lasker</person>
 				foundation</org> made the first of its two annual awards of $500 each to the
@@ -99,27 +100,28 @@
 				MacLeod</person>, department of anatomy, <org
 				reg="Cornell University Medical College">Cornell University Medical college</org>,
 				<place reg="Ithaca, NY">Ithaca, N.Y.</place>, for research in the motility of the
-				<org>Mississippi state board of health</org> for including planned parenthood in his
-			state’s public health program to improve infant and maternal health. </p>
-		<p><emph rend="bold">Education. - </emph>The publication of two new patient pamphlets,
-				<title type="book">“Planning to Have a Baby?”</title> and <title type="book">“The
-				Soldier Takes a Wife”</title> contributed materially to the large amount of
-			literature requested during the year. <title type="book">“To Those Denied a
-				Child”</title> and <title type="book">“Population and Peace,”</title> a reprint of
+				<org reg="Mississippi State Board of Health">Mississippi state board of health</org>
+			for including planned parenthood in his state’s public health program to improve infant
+			and maternal health. </p>
+		<p><emph rend="bold">Education.-- </emph>The publication of two new patient pamphlets,
+				"<title type="book">Planning to Have a Baby?</title>" and "<title type="book">The
+				Soldier Takes a Wife</title>" contributed materially to the large amount of
+			literature requested during the year. "<title type="book">To Those Denied a
+				Child</title>" and "<title type="book">Population and Peace</title>," a reprint of
 			an address by Dr. <person reg="Fairchild, Henry Pratt">Henry Pratt Fairchild</person> at
 			the <org>University of Virginia</org>, were also in great demand. Quantities of
 			technical manuals and other planned parenthood literature were sent on request to
 			physicians, educators, health officer, clergymen and social workers.</p>
 		<p>
-			<emph rend="bold">Social Work. -</emph>
+			<emph rend="bold">Social Work.--</emph>
 			<org reg="National Association of Social Workers">National Social Work Advisory
 			</org>committee was organized to give professional advice on the social work program.
 			The <org reg="Young Women's Christian Association">Y.W.C.A.</org> announced its
-			resolution favouring “the principles of planned parenthood.” Planned parenthood
-			literature was included by the <org>National Publicity council</org> in its mailings to
-			social agencies throughout the country, many of which ordered further literature for
-			distribution. </p>
-		<p><emph rend="bold">Work With Negroes. -</emph> A second consultant on work with Negroes
+			resolution favouring "the principles of planned parenthood." Planned parenthood
+			literature was included by the <org reg="National Publicity Council">National Publicity
+				council</org> in its mailings to social agencies throughout the country, many of
+			which ordered further literature for distribution. </p>
+		<p><emph rend="bold">Work With Negroes.--</emph> A second consultant on work with Negroes
 			was added to the national staff, and several state organizations employed Negro field
 			workers and included Negro members in their executive committees. A model clinic, the
 				<org reg="Hannah Stone Planned Parenthood Centre">Hannah Stone Planned Parenthood
@@ -130,15 +132,17 @@
 			planned parenthood to be distributed to Negro community groups.</p>
 		<p>
 			<emph rend="bold">Religion.-</emph> A syllabus on marriage and family counseling was
-			published by the federation’s <org> National Clergyman’s Advisory council </org>and made
-			available for us in seminaries, community training schools and to individual clergymen.
-			Army and navy chaplains made wide use of the G.I. pamphlet, <title type="book">“The
-				Soldier Takes a Wife,”</title> and the library of congress translated the pamphlet
-			into braille for blinded veterans. The <place>Illinois</place> league for planned
-			parenthood added 500 ministers and rabbis to its Clergyman’s Advisory committee and a
-			number of other state organizations established similar committees.</p>
+			published by the federation’s <org
+				reg="Planned Parenthood Federation of America, National Clergyman's Advisory Council"
+				>National Clergyman's Advisory council </org>and made available for us in
+			seminaries, community training schools and to individual clergymen. Army and navy
+			chaplains made wide use of the G.I. pamphlet, "<title type="book">The Soldier Takes a
+				Wife</title>," and the library of congress translated the pamphlet into braille for
+			blinded veterans. The <place>Illinois</place> league for planned parenthood added 500
+			ministers and rabbis to its Clergyman’s Advisory committee and a number of other state
+			organizations established similar committees.</p>
 		<p>
-			<emph rend="bold">Press and Radio. -</emph> Eighty articles reflecting favourable
+			<emph rend="bold">Press and Radio.--</emph> Eighty articles reflecting favourable
 			planned parenthood attitudes appeared in national popular and technical magazines during
 			1945. The announcement of the federation’s two new pamphlets, (see <emph rend="italics"
 				>Education</emph>, above) attracted considerable newspaper comment, and wire
@@ -146,7 +150,7 @@
 			radio stations were strengthened and both <org>National Broadcasting Company</org> and
 			org system carried important annual meeting speakers. The <org
 				reg="Mutual Broadcasting System">Mutual Broadcasting system</org> requested a
-			speaker to discuss <title type="book">“The Soldier Takes a Wife”</title> during a
+			speaker to discuss "<title type="book">The Soldier Takes a Wife</title>" during a
 			national news cast. The <org reg="Houston Maternal Health Center"><place
 					reg="Houston, TX">Houston (Texas)</place> Maternal health centre</org> produced
 			a 15 minute transcription which is available to all planned parenthood groups for local
@@ -161,6 +165,7 @@
 			infant and maternal mortality was to be reduced. The western world learned of a ruling
 			of the <person reg="al-Husseini, Haj Amin">grand mufti of <place>Egypt
 			</place></person>in 1937 grating legal and religious permission for the practice of
-			birth control. (See also <title type="article">BIRTH STATISTICS</title>.) (M. Sr.)</p>
+			birth control. (See also <title type="article" reg="Birth Statistics">BIRTH
+				STATISTICS</title>.) (M. Sr.)</p>
 	</docBody>
 </doc>

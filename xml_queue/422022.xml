@@ -57,11 +57,11 @@
 
 		<div>
 			<head type="sub">Simply Oral Clinic.</head>
-			<p>"The police are hunting my clinic today," <q who="WP">she went on.</q> "They can't find it. If they
-				should, they can't hurt it. It is an oral clinic, and the law says nothing about not
-				spreading birth control information orally. If they do try to interfere I am legally
-				prepared to carry a hard and bitter fight to the highest tribunal in the land with
-				the best legal talent there is."</p>
+			<p>"The police are hunting my clinic today," <q who="WP">she went on.</q> "They can't
+				find it. If they should, they can't hurt it. It is an oral clinic, and the law says
+				nothing about not spreading birth control information orally. If they do try to
+				interfere I am legally prepared to carry a hard and bitter fight to the highest
+				tribunal in the land with the best legal talent there is."</p>
 			<p>"Four more secret clinics will be running in New York within a week. In less than a
 				year there will be clinics in <place reg="Washington, DC">Washington</place>, <place
 					reg="Cleveland, OH">Cleveland</place>, <place reg="Detroit, MI">Detroit</place>,
@@ -80,7 +80,7 @@
 			<p>"Do the women like it? Say, you ought to go down in the neighborhood we have
 				canvassed with secret circulars in the last 48 hours. The women have been coming in
 				by the dozens. You can hear them calling from house to house in the congested
-				districts: <q who="UNK">'Oh, Mrs. Rosenbaum, you ought to see this, this is
+				districts: <q who="UNK">'Oh, <person reg="Rosenbaum, Mrs.">Mrs. Rosenbaum</person>, you ought to see this, this is
 					something fine.'</q>"</p>
 			<p>"Within two years every man and woman in this country will know how many children
 				they can afford to have. And when they know that, I predict that two generations of
@@ -121,9 +121,8 @@
 			</p>
 			<p>
 				<q who="WP">So long as they do not circulate printed matter, the officer said, they
-					will be within the law. And they are conducting a fight for the repeal of the</q>
-					"laws which put this country about a century behind the time."
-			</p>
+					will be within the law. And they are conducting a fight for the repeal of
+					the</q> "laws which put this country about a century behind the time." </p>
 		</div>
 	</docBody>
 </doc>

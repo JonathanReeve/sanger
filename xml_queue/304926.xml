@@ -9,8 +9,10 @@
 		<prepDate>2013-04-30 CH fix links</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<prepDate>2015-03-17 EK update indexes</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-17 EK update index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1913-01-26">26 Jan 1913</docDate>
 		<docTitle>
 			<titlePart>What Every Girl Should Know, Part X</titlePart>
@@ -18,7 +20,8 @@
 		<idno>msp304926</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Jan. 26, 1913</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0055</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:0055</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,18 +31,19 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>This is the tenth article in an 12-part series. 
-			for Part I, "Introduction" see<xref from="304533.xml">Nov. 17, 1912</xref>,
-			for Part II, "Girlhood, 1," see <xref from="300177.xml">Nov. 24, 1912</xref>,
-			for Part III, "Girlhood, 2" see <xref from="303438.xml">Dec. 1, 1912</xref>, 
-			for Part IV, "Puberty, 1" see<xref from="304920.xml"> Dec. 8, 1912</xref>, 
-			for Part V,"Puberty 2" see <xref from="304921.xml"> Dec. 15, 1912</xref>, 
-			for Part VI "Sexual Impulse, 1" see <xref from="304922.xml">Dec. 22, 1912,</xref>,
-			for Part VII, "Sexual Impulse, 2" see <xref from="304923.xml"> Dec. 29, 1912</xref>, 
-			for Part VIII, "Reproduction, 1" see <xref from="304924.xml">Jan. 2, 1913</xref>, 
-			for Part IX, "Reproduction, 2" see <xref from="304925.xml">Jan. 19, 1913</xref>,
-			for Part XI, "Some Consequences of Ignorance and Silence, 2" see <xref from="304927.xml">Feb. 2, 1913</xref>, and,
-			for Part XII, "Some Consequences of Ignorance and Silence, 3" see <xref from="304928.xml">Mar. 2, 1913.</xref></p>
+		<p>This is the tenth article in an 12-part series. for Part I, "Introduction" see<xref
+				from="304533.xml">Nov. 17, 1912</xref>, for Part II, "Girlhood, 1," see <xref
+				from="300177.xml">Nov. 24, 1912</xref>, for Part III, "Girlhood, 2" see <xref
+				from="303438.xml">Dec. 1, 1912</xref>, for Part IV, "Puberty, 1" see<xref
+				from="304920.xml"> Dec. 8, 1912</xref>, for Part V,"Puberty 2" see <xref
+				from="304921.xml"> Dec. 15, 1912</xref>, for Part VI "Sexual Impulse, 1" see <xref
+				from="304922.xml">Dec. 22, 1912,</xref>, for Part VII, "Sexual Impulse, 2" see <xref
+				from="304923.xml"> Dec. 29, 1912</xref>, for Part VIII, "Reproduction, 1" see <xref
+				from="304924.xml">Jan. 2, 1913</xref>, for Part IX, "Reproduction, 2" see <xref
+				from="304925.xml">Jan. 19, 1913</xref>, for Part XI, "Some Consequences of Ignorance
+			and Silence, 2" see <xref from="304927.xml">Feb. 2, 1913</xref>, and, for Part XII,
+			"Some Consequences of Ignorance and Silence, 3" see <xref from="304928.xml">Mar. 2,
+				1913.</xref></p>
 		<index level1="censorship"/>
 		<index level1="sex education"/>
 		<index level1="adolescence"/>
@@ -99,7 +103,7 @@
 		<p><person reg="Hutchinson, Woods">Hutchinson</person> says: "<q who="HUTWO">The belief that
 				the exercise of the sex functions is necessary to the health of the male at any age
 				is a pure delusion, while before full maturity it is highly injurious.</q>"</p>
-		<p><person reg="Lydston Ruggles">Ruggles</person> says:"<q who="RUGLY">Sexual abstinence is
+		<p><person reg="Ruggles, Lydston">Ruggles</person> says:"<q who="RUGLY">Sexual abstinence is
 				compatible with perfect health and tends to increase virility (which means manhood)
 				through the reabsorption of the semen.</q>"</p>
 		<p>The ancient Teutons were aware of this for it is said that it was considered a most

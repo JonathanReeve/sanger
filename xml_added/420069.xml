@@ -9,14 +9,16 @@
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-13 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
-			<titlePart>Short Pieces from the April 1914 <title type="journal">The Woman Rebel</title></titlePart>
+			<titlePart>Short Pieces from the April 1914 WOMAN REBEL</titlePart>
 		</docTitle>
 		<idno>msp420069</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, April 1914, p.	11</bibl>
+			<bibl><title type="journal">Woman Rebel</title>, Apr. 1914, p. 11</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0525</bibl>
 		</sourceDesc>

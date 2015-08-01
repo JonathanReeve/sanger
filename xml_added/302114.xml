@@ -7,7 +7,9 @@
 		<prepDate>2011/06/21 CE Corrections</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-07-00">Jul 1928</docDate>
 		<docTitle>
 			<titlePart>
@@ -34,9 +36,7 @@
 			<p>Those with a scientific trend of thought will enjoy is fully, but it is good reading
 				for all. The conflict of science and religion goes on in a family of biologists, the
 				father of which is married to the daughter of a clergyman.</p>
-			<byline>
-				M.S.
-			</byline>
+			<byline> M.S. </byline>
 		</div>
 		<div type="notes">
 			<note><title type="book">The Age of Reason</title>, Sir <person reg="Gibbs, Phillip"

@@ -8,15 +8,18 @@
 		<prepDate>2003/11/25 CH cleaned up tags, added page number and xref</prepDate>
 		<prepDate>2007/05/07 CH added DOC type, checked tags</prepDate>
 		<prepDate>2014-03-04 CH corrected regs</prepDate>
-		<prepDate>2015-02-18 EK correct index</prepDate><prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-02-18 EK correct index</prepDate>
+		<prepDate>2015-03-02 CH recheck tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1911-09-03">03 Sept 1911</docDate>
 		<docTitle>
-			<titlePart>Impressions of the East Side</titlePart>
+			<titlePart><supplied resp="MSPP">Impressions of the East Side, Part I</supplied></titlePart>
 		</docTitle>
 		<idno>msp320121</idno>
 		<sourceDesc>
-			<bibl><title type="article">Impressions of the East Side</title>, <title type="journal"
+			<bibl><title type="journal"
 					>New York Call</title>, Sept. 3, 1911, p. 15</bibl>
 			<bibl><title type="mf">Library of Congress Microfilm,</title> 135:172</bibl>
 		</sourceDesc>
@@ -26,8 +29,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>For Part II of this article see <xref from="320122.xml">"Impressions of the East
-				Side"</xref>, Sept. 10, 1911.</p>
+		<p>For Part II of this article see "<xref from="320122.xml">Impressions of the East
+				Side, Part II</xref>," Sept. 10, 1911.</p>
 		<index level1="child labor"/>
 		<index level1="family size" level2="and poverty"/>
 		<index level1="milk stations"/>
@@ -122,9 +125,9 @@
 			are loathe to send them to work, but each added baby makes it harder for them to fight
 			off starvation, and anything which offers relief from worry and debt is acceptable to
 			even the most loving parents. And as they watch these little toilers join hands with the
-			other children and sing "Sweet Land of Liberty" the hope
-			springs up in their breasts that perhaps some "luck" will come to them, and the children
-			be able to go to school again.</p>
+			other children and sing "Sweet Land of Liberty" the hope springs up in their breasts
+			that perhaps some "luck" will come to them, and the children be able to go to school
+			again.</p>
 		<p>The younger generation of women are no more anxious than their uptown sisters to have
 			large families, and these young women are easy victims for the many fake and quack
 			physicians who inhabit the East Side. One woman aged 72, said she would gladly have

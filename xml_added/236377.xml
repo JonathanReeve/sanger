@@ -19,17 +19,20 @@
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Sophia Smith Collection</title>
 				S70:0854</bibl>
+			<bibl><title type="article">An Address on Birth Control</title>, <title type="journal"
+					>Reading Times</title>, Dec. 4, 1920, p. 1</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name/>
+			<name id="RT">Reading Times</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Sanger used these notes for a speech given at the <org>Berkshire Hotel</org> in
 				<place>Reading, PA</place> on Dec 3, 1920. For a typed draft see S70:856. Note
 			handwritten by Sanger at top of first page reads:"1919--deaths 302 under 1 year--
-				<lb/><supplied resp="MSPP">"1919--deaths</supplied> 154 still born.</p>
+				<lb/><supplied resp="MSPP">"1919--deaths</supplied> 154 still born. Quotes from
+			newspaper coverage have been added at the bottom.</p>
 		<index level1="birth control" level2="and public health"/>
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="birth control clinics and leagues" level2="need for"/>
@@ -42,59 +45,83 @@
 		<index level1="women" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
-		<dateline> Reading, Pa. <date value="1920-12-03">Dec. 3--1920</date>
-		</dateline>
-		<p>Woman must be protected from incessant child bearing before she can actively participate
-			in social life.</p>
-		<p>She must triumph over natures laws which have kept her in bondage.</p>
-		<p>She must triumph over these as man has in electricity ship building--etc. She must
-			challenge these laws which have made her a child bearing machine. Only then can she
-			develop her personality &amp; individuality &amp; prepare with man for that greatest of
-			all goals--the emancipation of the human race.</p>
-		<p>
-			<del>
-				<person reg="Stevenson, Robert Louis">Robert Louis Stevenson</person>
-			</del>
-			<del>Condemnation is misunderstanding</del>
-		</p>
-		<p><person reg="Wells, H. G.">H. G.</person> intelligence slow to develop--</p>
-		<p>Definition of birth control--</p>
-		<p>Nature--</p>
-		<p>Two kinds of people Large &amp; small families} <list>
-				<item>Poverty</item>
-				<item>disease</item>
-				<item>misery</item>
-				<item>overcrowding</item>
-				<item>unemployment</item>
-				<item>unemployment</item>
-				<item>child labor</item>
-				<item>infant mortality</item>
-			</list></p>
-		<p>Two <del>kinds of</del> women start alike}</p>
-		<list>
-			<item>prudery on sex subjects</item>
-			<item>inventions</item>
-			<item>discoveries</item>
-			<item>vegetable</item>
-			<item>&amp; animal kingdom</item>
-		</list>
-		<p>Legislative palliatives} 8 hour day-for mothers</p>
-		<p>&amp; charities not fundamental}</p>
-		<list>
-			<item>7 million child laborers</item>
-			<item>300,000 babies under 1 year die</item>
-			<item>23,000 mothers die a year</item>
-			<item>25,0000 illegal abortions</item>
-			<item>feeble minded &amp; prostitutes</item>
-		</list>
-		<p>T.B. 7--4--heart disease-kidney disease</p>
-		<p>{Insane &amp; <emph rend="underline">T.B.</emph> syphilitic woman case</p>
-		<p><emph rend="underline">Abortions</emph>--my last case--quacks</p>
-		<p><place>England</place>--<place reg="Netherlands"
-			>Holland</place>--<place>Germany</place>--new movement) clinics--young people marry.
-				<place>Russia</place>.</p>
-		<p><place reg="United States">U.S.A.</place> laws--none in <place reg="Pennsylvania"
-				>Pa.</place>--<emph rend="underline">Peace Treaty</emph></p>
-		<p>Clinics--keynote of new social awakening.</p>
+		<div type="section">
+			<dateline> Reading, Pa. <date value="1920-12-03">Dec. 3--1920</date>
+			</dateline>
+			<p>Woman must be protected from incessant child bearing before she can actively
+				participate in social life.</p>
+			<p>She must triumph over natures laws which have kept her in bondage.</p>
+			<p>She must triumph over these as man has in electricity ship building--etc. She must
+				challenge these laws which have made her a child bearing machine. Only then can she
+				develop her personality &amp; individuality &amp; prepare with man for that greatest
+				of all goals--the emancipation of the human race.</p>
+			<p>
+				<del>
+					<person reg="Stevenson, Robert Louis">Robert Louis Stevenson</person>
+				</del>
+				<del>Condemnation is misunderstanding</del>
+			</p>
+			<p><person reg="Wells, H. G.">H. G.</person> intelligence slow to develop--</p>
+			<p>Definition of birth control--</p>
+			<p>Nature--</p>
+			<p>Two kinds of people Large &amp; small families} <list>
+					<item>Poverty</item>
+					<item>disease</item>
+					<item>misery</item>
+					<item>overcrowding</item>
+					<item>unemployment</item>
+					<item>unemployment</item>
+					<item>child labor</item>
+					<item>infant mortality</item>
+				</list></p>
+			<p>Two <del>kinds of</del> women start alike}</p>
+			<list>
+				<item>prudery on sex subjects</item>
+				<item>inventions</item>
+				<item>discoveries</item>
+				<item>vegetable</item>
+				<item>&amp; animal kingdom</item>
+			</list>
+			<p>Legislative palliatives} 8 hour day-for mothers</p>
+			<p>&amp; charities not fundamental}</p>
+			<list>
+				<item>7 million child laborers</item>
+				<item>300,000 babies under 1 year die</item>
+				<item>23,000 mothers die a year</item>
+				<item>25,0000 illegal abortions</item>
+				<item>feeble minded &amp; prostitutes</item>
+			</list>
+			<p>T.B. 7--4--heart disease-kidney disease</p>
+			<p>{Insane &amp; <emph rend="underline">T.B.</emph> syphilitic woman case</p>
+			<p><emph rend="underline">Abortions</emph>--my last case--quacks</p>
+			<p><place>England</place>--<place reg="Netherlands"
+					>Holland</place>--<place>Germany</place>--new movement) clinics--young people
+				marry. <place>Russia</place>.</p>
+			<p><place reg="United States">U.S.A.</place> laws--none in <place reg="Pennsylvania"
+					>Pa.</place>--<emph rend="underline">Peace Treaty</emph></p>
+			<p>Clinics--keynote of new social awakening.</p>
+		</div>
+		<div type="section">
+			<head>AN ADDRESS ON BIRTH CONTROL</head>
+			<p><q who="RT">Mrs. Margaret Sanger, of New York, addressed an audience of 1,000 persons
+					in the auditorium last night on the subject of birth control. She strongly
+					advocated the dissemination of knowledge along this line and urged women to
+					insist upon such information being public. The lecture was held under the
+					auspices of the <org>Berks County Association of Women Workers</org>.</q></p>
+			<p>"Out of seven women who have tuberculosis," <q who="RT">said the speaker,</q> "four
+				die. If these women were granted the knowledge concerning birth control much of this
+				fatality would be prevented."</p>
+			<p><q who="RT">She cited instances where women appealed to physicians to aid them, but
+					the doctors were forced by the law to turn the women away knowing that the woman
+					would either die or the child would be mentally or physically incapable of
+					assuming its share of the responsibility of life.</q></p>
+			<p>"The natural instinct of the mother is to cherish and protect her child."<q who="RT">
+					she said.</q> "If a woman knows she cannot do this properly she should be
+				conversant with the subject of child control."</p>
+			<p>"Women are becoming sick and tired of being but child bearing slaves and are
+				demanding that they be released from this bondage. I would like to see a clinic
+				established in every community where the women who desire it could secure
+				information regarding the subject."</p>
+		</div>
 	</docBody>
 </doc>

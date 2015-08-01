@@ -11,7 +11,10 @@
 		</docAuthor>
 		<docDate value="1935-12-31">31 Dec 1935</docDate>
 		<docTitle>
-			<titlePart>Address to the All-India Women's Conference</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Speech to the All-India Women's
+					Conference</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421905</idno>
 		<sourceDesc>
@@ -94,7 +97,8 @@
 		<div>
 			<head type="sub">OPPOSITION VIEW</head>
 			<p>
-				<q who="TH">Miss <person reg="Watts, Dorothia Henriett">D. H. Watts</person>(Travancore) opposing, said
+				<q who="TH">Miss <person reg="Watts, Dorothia Henriett">D. H.
+						Watts</person> (Travancore) opposing, said
 						<place>India</place> was on the threshold of new life
 					and to start extreme measures would be harmful to the
 					country and the State. The Conference was nine years old and
@@ -109,7 +113,7 @@
 					self-indulgence.</q>
 			</p>
 			<p><q who="TH"/><person reg="Menon, Lakshmi N.">Mrs. Lakshmi N.
-					Menon</person><place reg="Lucknow, India">(Lucknow)</place>
+					Menon</person> (<place reg="Lucknow, India">Lucknow</place>)
 				answered the objections raised by Miss Watts and said that there
 				was no hope of improving the lives of people if the population
 				was not limited. Control did not mean prevention. Continence was
@@ -118,27 +122,28 @@
 				children.</p>
 			<p>
 				<q who="TH"><person reg="Rosemeyer, M. I.">Miss
-						Rosemeyer</person>(Travancore), opposing, said that
+						Rosemeyer</person> (Travancore), opposing, said that
 					contraception was used as a method to escape control.
 						<person reg="Roosevelt, Franklin Delano">President
 						Roosevelt</person>had called it racial suicide.</q>
 			</p>
 			<p>
 				<q who="TH"><person reg="Sukthankar, Malini B.">Dr.
-						Sukthankar</person><place reg="Bombay, India"
-						>(Bombay)</place> said that the resolution was innocent
+						Sukthankar</person> (<place reg="Bombay, India"
+						>Bombay</place>) said that the resolution was innocent
 					and it wanted only centres opened for those who needed it.
-					The <org>Bombay Municipality</org>had failed to pass a
-					resolution for the establishment of clinics. But men were
-					responsible for this and women suffered. She pleaded for a
-					rationalistic consideration of the matter.</q>
+					The <org reg="Bombay Municipal Council">Bombay
+						Municipality</org>had failed to pass a resolution for
+					the establishment of clinics. But men were responsible for
+					this and women suffered. She pleaded for a rationalistic
+					consideration of the matter.</q>
 			</p>
 			<p>
 				<q who="TH"><person reg="Damodaran, Mrs.">Mrs.
-						Damodaran</person><place reg="Madras, India"
-						>(Madras)</place> said she would go even as far as to
-					say that even unmarried girls adopted these methods, they
-					were better than the methods at present in use.</q>
+						Damodaran</person> (<place reg="Madras, India"
+						>Madras</place>) said she would go even as far as to say
+					that even unmarried girls adopted these methods, they were
+					better than the methods at present in use.</q>
 			</p>
 			<p>
 				<q who="TH">Children were god's gifts and how could they be
@@ -146,8 +151,8 @@
 			</p>
 			<p>
 				<q who="TH"><person reg="Nair, Kochattil Kalyanikutty Amma">Mrs.
-						Kutten Nair</person><place reg="Cochin, India"
-						>(Cochin)</place>, supporting the motion, emphasised
+						Kutten Nair</person> (<place reg="Cochin, India"
+						>Cochin</place>), supporting the motion, emphasised
 					that birth control was next to self-control. Was it morality
 					to bring for weaklings? Religious leaders must have courage
 					to protest against <person reg="Mussolini, Benito"
@@ -156,7 +161,7 @@
 			</p>
 			<p>
 				<q who="TH"><person reg="Mistri, Jerbanoo E.">Miss
-						Mistri</person>(Bombay) pleaded for moderation and said
+						Mistri</person> (Bombay) pleaded for moderation and said
 					that medical opinion was in favour of giving advice to those
 					in real need on medical grounds.</q>
 			</p>
@@ -181,8 +186,8 @@
 					to immorality.</q>
 			</p>
 			<p>
-				<q who="TH"><person reg="Kale, Mrs.">Mrs. Kale </person><place
-						reg="Nagpur, India">(Nagpur)</place> quoting Sir <person
+				<q who="TH"><person reg="Kale, Mrs.">Mrs. Kale </person> (<place
+						reg="Nagpur, India">Nagpur</place>) quoting Sir <person
 						reg="Viswesvarayya, M.">M. Viswesvarayya</person>
 					pleaded for birth control.</q>
 			</p>
@@ -196,11 +201,11 @@
 			</p>
 			<p>
 				<q who="TH"><person reg="Gomez, E.">Miss
-					Gomez</person>(Travancore) disapproved of birth control.</q>
+					Gomez</person> (Travancore) disapproved of birth control.</q>
 			</p>
 			<p>
 				<q who="TH"><person reg="Cherian, Accamma">Mrs.
-						Cheriyan</person>(Travancore) wanted that the standard
+						Cheriyan</person> (Travancore) wanted that the standard
 					of life of the masses should be raised.</q>
 			</p>
 			<p>
@@ -269,8 +274,8 @@
 				to make demands beyond human nature and beyond human powers to
 				endure."</p>
 			<p>
-				<q who="TH">The name of the book was <title type="book">"Rhythm
-						babies when parents are ready"</title> by <person
+				<q who="TH">The name of the book was "<title type="book">Rhythm
+						babies when parents are ready</title>" by <person
 						reg="Latz, Leo J.">Leo J. Latz</person>.</q>
 			</p>
 			<p>

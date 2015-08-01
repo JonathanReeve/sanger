@@ -17,7 +17,7 @@
 		</docTitle>
 		<idno>msp226794</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title> Jun 1922, pp. 101-3</bibl>
+			<bibl><title type="journal">Birth Control Review,</title> June 1922, pp. 101-3</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S70:934</bibl>
 		</sourceDesc>
@@ -26,10 +26,10 @@
 			<name id="JC">Japan Chronicle</name>
 		</respStmt>
 	</mepHeader>
-	<headNote><p>An editorial note preceding the article indicated that this was the first
-			installment of Sanger's accounts of her trip to Japan; no other installments were found.
-			The note also explained that Sanger was not allowed to speak directly on birth
-			control.</p>
+	<headNote>
+		<p>An editorial note preceding the article indicated that this was the first installment of
+			Sanger's accounts of her trip to Japan; no other installments were found. The note also
+			explained that Sanger was not allowed to speak directly on birth control.</p>
 		<index level1="Japan" level2="birth control in"/>
 		<index level1="Japan" level2="MS on"/>
 		<index level1="Japan" level2="MS in"/>
@@ -45,7 +45,7 @@
 	<docBody>
 		<head>Margaret Sanger in Japan</head>
 		<p>As soon as the <name type="ship">Taiyo Maru</name> came in sight of <place
-				reg="Yokahama, Japan">Yokohama</place> and before I had even a glimpse of the shore,
+				reg="Yokohama, Japan">Yokohama</place> and before I had even a glimpse of the shore,
 			I was overwhelmed by interviewers and photographers.</p>
 		<p>My first visitors with whom I was privately closeted for an hour were Japanese government
 			officials, stenographers and interpreters. I was asked various questions concerning my
@@ -61,7 +61,7 @@
 			time was well occupied with interviewers and in receiving delegations from various
 			organizations and clubs.</p>
 		<p>One of the most interesting groups, who sent seven women to welcome me, represented the
-				<org reg="Shin Fujin Ky&omacr;kai">New Women's Movement of Japan</org>. These little
+				<org reg="Shin Fujin Kyokai">New Women's Movement of Japan</org>. These little
 			doll-like women came in native costume to present their greetings and to extend their
 			welcome. Their pale faces, gorgeous costumes, white stockinged feet, absorbed one's
 			attention. I felt I was being ushered into a new world of womankind. I was deeply
@@ -202,16 +202,18 @@
 				tangle over the question of Birth Control. Mrs. Sanger is to be allowed to address
 				private gatherings but not public meetings. That is to say she is to be allowed to
 				address the well-to-do classes, but not the "lower" classes. Yet Mr. Yuchi, the
-				Director of the Police Affairs <org>Bureau of the Metropolitan Police
-					Department</org>, stated to the press that personally he thought there was every
-				reason for encouraging Birth Control among people of the "lower classes"; what they
-				were afraid of was that the propagation of the methods advocated by her would
-				encourage Birth Control in the "well-to-do" classes. Mrs. Sanger must feel very
-				perplexed. The only point which is clear is that the authorities regard her as an
-				inculcator of dangerous thoughts, but do not know exactly in what way they are
-				dangerous. Evidently a case of intuition. It is the opinion of everyone in Japan
-				today that Birth Control has been more prominently discussed because of the action
-				of the Police than it otherwise would have been.</q>"</p>
+				Director of the Police Affairs <org
+					reg="Tokyo Bureau of the Metropolitan Police Department">Bureau of the
+					Metropolitan Police Department</org>, stated to the press that personally he
+				thought there was every reason for encouraging Birth Control among people of the
+				"lower classes"; what they were afraid of was that the propagation of the methods
+				advocated by her would encourage Birth Control in the "well-to-do" classes. Mrs.
+				Sanger must feel very perplexed. The only point which is clear is that the
+				authorities regard her as an inculcator of dangerous thoughts, but do not know
+				exactly in what way they are dangerous. Evidently a case of intuition. It is the
+				opinion of everyone in Japan today that Birth Control has been more prominently
+				discussed because of the action of the Police than it otherwise would have
+			been.</q>"</p>
 		<p>The two principal reasons I have been able to find, upon which the Police Department
 			based its objection were first, that the Police in <place reg="New York, NY">New
 				York</place> forbade my speaking in that city, as cabled here concerning the Town
@@ -225,7 +227,7 @@
 			has not been passed up to the present time, but it was under discussion at the time of
 			my arrival and was backed by the same reactionary group as influenced the Police
 			Department.</p>
-		<p>Nevertheless Japan has now a <org reg="Nihon Sanji Ch&ocirc;setsu Renmei">Birth Control
+		<p>Nevertheless Japan has now a <org reg="Nihon Sanji Chosetsu Renmei">Birth Control
 				League</org>. It had for its officers four most intelligent men representing four
 			branches of civic life, Medicine, Science, Labor and Commerce.</p>
 		<p>From Yokohama to Kobe, and again across the Inland Sea to <place reg="Fusan, Japan"

@@ -43,8 +43,8 @@
 		<dateline><date value="1936-03-00">March, 1936</date>.</dateline>
 		<div type="section">
 			<p>After ten weeks in <place>India</place>
-				<place>Ceylon</place>, <place>Burma</place> and <place>Malaya</place> we are now
-				speeding on our way to <place>China</place>.</p>
+				<place>Ceylon</place>, <place>Burma</place> and <place reg="British Malaya"
+					>Malaya</place> we are now speeding on our way to <place>China</place>.</p>
 			<p>In the short interval of leisure on <name type="ship" reg="S. S. Corfu">this
 					China-bound ship</name>, I want to give the friends who have helped with the
 				tour in India a brief account of the outstanding events of the ten crowded weeks
@@ -173,17 +173,18 @@
 				Judge of no small vision, has immediately availed himself of every opportunity to
 				tie up this new interest with the organized group for future activity.</p>
 			<p>At <place reg="Calicut, India">Calicut</place>, on the southwest coast, the local
-				organization is known as the <org>Birth Control Information Centre</org>, with
-					Dr.<person reg="Sundaram, Manjeri"> Manjeri Sundaram</person> as its medical
-				director. This centre has fine future possibilities. It has real interest and
-				enthusiasm behind it. It serves not only as an educational centre for the general
-				public but with the establishment of a clinic will become a valuable asset to the
-				Indian movement.</p>
+				organization is known as the <org
+					reg="Birth Control International Information Centre">Birth Control Information
+					Centre</org>, with Dr.<person reg="Sundaram, Manjeri"> Manjeri Sundaram</person>
+				as its medical director. This centre has fine future possibilities. It has real
+				interest and enthusiasm behind it. It serves not only as an educational centre for
+				the general public but with the establishment of a clinic will become a valuable
+				asset to the Indian movement.</p>
 			<p>Besides these major centres, <place reg="Calcutta, India">Calcutta</place>, <place
-					reg="Poona, India">Poona</place>, <place reg="Mysore City, India">Mysore
-					City</place> and <place reg="Bangalore, India">Bangalore</place> have clinics
-				which are working along, perhaps with not the same rapidity, but with great promise
-				of future development.</p>
+					reg="Poona, India">Poona</place>, <place reg="Mysore, India">Mysore City</place>
+				and <place reg="Bangalore, India">Bangalore</place> have clinics which are working
+				along, perhaps with not the same rapidity, but with great promise of future
+				development.</p>
 			<p>During my tour I left fifty gynaeplaques, along with supplies, in places where
 				information will be given out. Each of these centres, I am promised will form a
 				centre for the dissemination of birth control information.</p>
@@ -268,16 +269,17 @@
 		</div>
 		<div type="section">
 			<head type="sub">MALAYA</head>
-			<p>The welcome to Malaya at <place reg="Penang, Malaya">Penang</place> was a most
-				enthusiastic one. We had no previous contacts on the island and few in all Malaya so
-				that this was entirely new territory. Miss Phillips went on a few days before I did.
-				Consequently I was immediately greeted by the <person reg="Brodie, W. Hugh"
-					>director</person> of <org reg="Penang Municipal Health Work">Municipal Health
-					Work</org> who had arranged a meeting with the Penang branch of the <org
-					reg="British Medical Society">British Medical Society</org>. We had been warned
-				that interest in meetings in Penang was slight so that I, as well as the health
-				director, were surprised when every prominent physician on the island, Chinese as
-				well as British, attended the meeting. The film was shown.</p>
+			<p>The welcome to Malaya at <place reg="Penang, British Malaya">Penang</place> was a
+				most enthusiastic one. We had no previous contacts on the island and few in all
+				Malaya so that this was entirely new territory. Miss Phillips went on a few days
+				before I did. Consequently I was immediately greeted by the <person
+					reg="Brodie, W. Hugh">director</person> of <org
+					reg="Penang Municipal Health Work">Municipal Health Work</org> who had arranged
+				a meeting with the Penang branch of the <org reg="British Medical Association"
+					>British Medical Society</org>. We had been warned that interest in meetings in
+				Penang was slight so that I, as well as the health director, were surprised when
+				every prominent physician on the island, Chinese as well as British, attended the
+				meeting. The film was shown.</p>
 			<p>The <person reg="Evans, Leonard Wynne">chief medical officer</person> of Penang then
 				arranged another meeting for the following day with the nurses of the <org
 					reg="Penang General Hospital">General Hospital</org> and of the <org

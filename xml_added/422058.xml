@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-26 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-29</prepDate>
+		<prepDate>2015-06-10 LH edits</prepDate>
+		<prepDate>2015-06-25 CH clean up </prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1938-02-21">21 Feb 1938</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Message to the El Paso Mothers Health Center</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422058</idno>
+		<sourceDesc>
+			<bibl><title type="article">Message to the El Paso Mothers Health Center</title>, <title
+					type="journal"> El Paso Herald-Post</title>, Feb. 21, 1938, pp. 1 and 7 </bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="EPH"> El Paso Herald-Post</name>
+			<name id="TUCHE">Tucker, Helen</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control clinics and leagues"/>
+		<index level1="birth control clinics and leagues" level2="and physicians"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+	</headNote>
+	<docBody>
+		<head>Birth Control Clinic on Southside Urged </head>
+		<div type="section">
+			<p>
+				<q who="EPH"> The <org>El Paso Mother's Health Center</org> board of directors,
+					affiliate of the <org>Birth Control Clinical Research Bureau</org> of <place
+						reg="New York, NY">New York</place>, today opened its formal campaign for
+					funds for the second fiscal year.</q>
+			</p>
+			<p>
+				<q who="EPH"> Part of the fund will be used to open a South Side clinic, <person
+						reg="Goetting,
+			Mary Betty"> Mrs. Charles A. Goetting</person>, board
+					chairman, announced.</q>
+			</p>
+			<p>
+				<q who="EPH">The Mother's Health Center at 1820 Rio Grande street, organized under
+					the direction of Margaret Sanger, internationally known birth control advocate,
+					will celebrate the first anniversary April 1 with the annual meeting of the
+					board and contributing members. Mrs. Sanger will be here for the meeting. </q>
+			</p>
+			<p>
+				<q who="EPH"> The board will have a tea today at the clinic for workers. Membership
+					blanks will be distributed and the campaign outlined by <person
+						reg="Rawlings, Laura Boynton">Mrs. J. Mott Rawlings</person>. Workers will
+					seek funds from El Pasoans for the next two weeks.</q>
+			</p>
+			<p>
+				<q who="EPH"> Mmes. <person reg="Hensely, Emma">Emma Hensley</person>, resident
+					nurse, and <person reg="Tucker, Helen">Calvert C. Tucker</person>, member of the
+					educational committee, will give brief talks on the progress of the work.</q>
+			</p>
+			<p>
+				<q who="EPH"> Mmes. <person reg="Harvey, Maude P.">Charles M. Harvey</person> and
+						<person reg="Schwartz, Hedwig M.">Maurice Schwartz</person> will pour
+					tea.</q>
+			</p>
+			<p>
+				<q who="EPH"> Mrs. Goetting will read the following message to the directors from
+					Mrs. Sanger, ill in <place reg="Tucson, AZ">Tucson</place>, who planned to
+					attend the meeting today:</q>
+			</p>
+			<p>"Please accept my deep regret on my inability to be with you and help raise money for
+				your campaign. Only doctors' strict orders prevent same. Your report of achievement
+				put many older clinics to shame. Naturally, I am proud of you all because I
+				witnessed your initiation in first battle for motherhood for mothers of El Paso.
+				Your undaunted courage and vision inspires me. I wish more women in this country had
+				your spirit. Can you not get a far-sighted philanthropist in you vicinity to buy a
+				house as a permanent headquarters for your organization to which mothers of El Paso
+				may look as a temple of Hope? Congratulations and best wished for your continued
+				success." </p>
+		</div>
+		<div type="section">
+			<head type="sub"> Asks Further Aid</head>
+			<p>
+				<q who="EPA"> Mrs. Goetting today for the board thanked the doctors who have donated
+					their time, business concerns, for their contributions and "others who have
+					helped the charity to prevent charity."</q>
+			</p>
+			<p>
+				<q who="EPH"> She asked for continued co-operation "in a project which will lessen
+					the relief burden in El Paso and aid married women desiring contraceptive advice
+					who are financially unable to pay a doctor."</q>
+			</p>
+			<p>
+				<q who="EPH"> Total number of patients in the clinic since April are 604, new
+					patients advised, 308, and revisits, 365, the board reported. New patients are
+					not advised on account of sickness, pregnancy, or reference to a private
+					physician, 31.</q>
+			</p>
+			<p>
+				<q who="EPH"> Mrs. Tucker in her talk today emphasized the birth control movement is
+					not an effort to limit the number of children to a one-child or two-child family
+					system.</q>
+			</p>
+		</div>
+		<div type="sub">
+			<head> Directors</head>
+			<p>
+				<q who="TUCHE">"It means making it possible for a woman to have the number of
+					children consistent with and in consideration of four things,"</q>
+				<q who="EPH"> said Mrs. Tucker.</q>
+				<q who="TUCHE">"Those things are: the mother's health, the child's possible
+					heritage, physical and mental, the father's earning capacity and the standards
+					of living desirable to maintain." </q>
+			</p>
+			<p>
+				<q who="EPH"> Directors include: <person reg="McAlmon, Katherine">Mrs. George C.
+						McAlmon</person>, first vice chairman; <person reg="Ratburn, Beatrice P.">
+						Mrs. Donald Ratburn</person>, second vice chairman; <person
+						reg="Perrenot, Jane R.">Mrs. Preston Perrenot</person>, secretary; <person
+						reg="Howell, Romaine">Mrs. Ben R. Howell</person>, corresponding secretary;
+						<person reg="Matkin, George">George Matkin</person>, treasurer; <person
+						reg="Safford, Helen">Mmes. Henry T. Safford</person>, <person
+						reg="Alexander, Vance">Frank O. Alexander</person>, <person
+						reg="Dutton, Edna">L. O. Dutton</person>, <person reg="Matkin, Rebecca"
+						>George Matkin</person>, <person reg="Norwald, Mrs. Otto">Mrs. Otto
+						Norwald</person>; advisory board, <person reg="Blair, Mrs. W. R."> W. R.
+						Blair</person>, <person reg="Burges, Ethel S.">Richard Burges</person>,
+						<person reg="Evans, Macie B.">Joe Evans</person>, <person
+						reg="Hardie, Mary T.">Mrs. Bradford Hardie</person>, <person
+						reg="Norton, Clara M.">Fred W. Norton</person>, <person reg="Scott, Lillian"
+						>Louis A. Scott</person>, <person reg="Staten, Lillie M.">Mrs. Buleson
+						Staten</person>; medical advisory board, Drs. <person reg="Black, Arthur P."
+						>Arthur P. Black</person>, <person reg="Green, J. Leighton">J. Leighton
+						Green</person>, <person reg="Jordan, Gerald H."> Gerald H. Jordan</person>,
+						<person reg="McCamant, T. J."> T.J. McCamant</person>, <person
+						reg="Rawlings, J. Mott"> J. Mott Rawlings</person> and <person
+						reg="Rogers, Will P.">Will P. Rogers</person>. </q>
+			</p>
+
+		</div>
+	</docBody>
+</doc>

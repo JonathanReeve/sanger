@@ -35,8 +35,8 @@
 				reg="Planned Parenthood Clinic of Tucscon">Planned Parenthood of Tuscon</org>
 			members Rev. <person reg="Lindamood, Samuel J. Jr">Samuel J. Lindamood</person>, Jr.,
 				<person reg="Nelson, Lois">Lois Nelson</person>, and <person reg="Kincaid, Della"
-				>Della Kincaid</person>. The speech's title comes from newspaper coverage announcing
-			the speech. </p>
+				>Della Kincaid</person>. For additional newspaper coverage of this speech, see <xref
+				from="422105.xml">The Church and Birth Control</xref>, Aug. 11, 1959.</p>
 		<index level1="birth control methods" level2="pill"/>
 		<index level1="birth control movement" level2="international"/>
 		<index level1="Japan" level2="birth control in"/>
@@ -67,8 +67,7 @@
 					reg="Planned Parenthood Clinic of Tucson">local association</org>, and Mrs.
 				Delia Kincaid, executive secretary.</q>
 		</p>
-		<p>Mrs. Sanger said she was a nurse in <place reg="New York, NY">New York
-			City</place>.</p>
+		<p>Mrs. Sanger said she was a nurse in <place reg="New York, NY">New York City</place>.</p>
 		<p>
 			<q who="TDC">Mrs. Sanger appeared on the platform and answered a dozen questions put to
 				her, but attempted no speech.</q>

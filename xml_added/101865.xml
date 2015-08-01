@@ -12,10 +12,11 @@
 		<prepDate>2004/08/13 CH</prepDate>
 		<prepDate>2014/03/05 EK Cleanup</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-05-21 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1922-10-31">31 Oct 1922</docDate>
+		<docDate value="1922-10-31">30 Oct <supplied resp="MSPP">1922</supplied></docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Birth Control in China and Japan</supplied>
@@ -35,26 +36,40 @@
 	</mepHeader>
 	<headNote>
 		<p>Sanger gave this address at a Welcome Home Mass Meeting, held at <org>Carnegie Hall</org>
-			in <place reg="New York, NY">New York</place> on the occasion of her return from a World
-			Tour. Other speakers included <person reg="Broun, Heywood">Heywood Broun</person>, Rabbi
-				<person reg="Goldstein, Sidney E.">Sidney Goldstein</person>, <person
+			in <place reg="New York, NY">New York</place> on the occasion of her return from her
+			World Tour. Other speakers included <person reg="Broun, Heywood">Heywood Broun</person>,
+			Rabbi <person reg="Goldstein, Sidney E.">Sidney Goldstein</person>, <person
 				reg="Bennett, Josephine">Josephine Bennet</person>, and <person
 				reg="DeVilbiss, Lydia Allen">Lydia Allen DeVilbiss</person>. Handwritten corrections
-			were made to the typed draft by Margaret Sanger. For earlier version, see Library of
-			Congress Microfilm 128:0481</p>
+			were made to the typed draft by Margaret Sanger. For an earlier version, see Library of
+			Congress Microfilm 128:0481. Last pages missing; text supplied from the earlier
+			draft.</p>
 		<index level1="Japan" level2="birth control clinics and leagues"/>
-		<index level1="China" level2="birth control clinics and leagues"/>
-		<index level1="population" level2="control of"/>
-		<index level1="population" level2="excess"/>
-		<index level1="birth control" level2="opposition to"/>
-		<index level1="birth control" level2="propaganda and publicity"/>
-		<index level1="birth control" level2="movement"/>
-		<index level1="birth control" level2="class-based"/>
+		<index level1="China" level2="birth control clinics"/>
+		<index level1="Japan" level2="censorship"/>
+		<index level1="Japan" level2="government"/>
+		<index level1="Japan" level2="MS in"/>
+		<index level1="Japan" level2="MS on"/>
+		<index level1="Japan" level2="women"/>
+		<index level1="Japan" level2="overpopulation"/>
+		<index level1="Korea" level2="MS in"/>
+		<index level1="China" level2="birth control in"/>
+		<index level1="China" level2="MS in"/>
+		<index level1="China" level2="MS on"/>
+		<index level1="China" level2="overpopulation in"/>
+		<index level1="China" level2="women in"/>
 		<index level1="Family Limitation"/>
-		<index level1="birth control" level2="war and"/>
-		<index level1="Sanger, Margaret" level2="autobiographical"/>
-		<index level1="Japan" level2="modernization of"/>
-		<index level1="censorship"/>
+		<index level1="birth control" level2="opposition to"/>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="birth control" level2="international"/>
+		<index level1="birth control movement" level2="goals and strategies"/>
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="race progress"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Korea)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (China)"/>
+		<index level1="war" level2="and population"/>
+		<index level1="unfit to reproduce" level2="as social burdens"/>
 	</headNote>
 	<docBody>
 		<head>
@@ -86,10 +101,9 @@
 			me in good company.</p>
 		<p>I agreed to visit Japan to deliver five addresses, under the auspices of the Kaizo group.
 			With great joy I set forth last February to carry the message of birth control into the
-			Orient. I booked passage on the <name type="ship"><foreign lang="JAP">Taiyo
-					Maru</foreign></name>, and, escorted by my thirteen year old son <person
-				reg="Sanger, Grant">Grant</person>, crossed the continent to <place
-				reg="San Francisco, CA">San Francisco</place>. Two days before my sailing, the
+			Orient. I booked passage on the <name type="ship">Taiyo Maru</name>, and, escorted by my
+			thirteen year old son <person reg="Sanger, Grant">Grant</person>, crossed the continent
+			to <place reg="San Francisco, CA">San Francisco</place>. Two days before my sailing, the
 			Japanese Consul refused to visa my passport. With many apologies and great regret he
 			informed me that the Imperial Government had cabled directions that, if she applied for
 			permission to visit Japan to lecture on Birth Control, Mrs. Sanger should be refused.
@@ -116,7 +130,7 @@
 		<p>Aboard the Taiyo, I discovered as fellow passengers more than one hundred and fifty
 			Japanese returning from the <name reg="Washington Naval Conference">Washington Peace
 				Conference</name>, including the two delegates Admiral Baron <person
-				reg="Kato, Tomosaburo">Katonow</person> Prime Minister of Japan, and Mr. <person
+				reg="Kato, Tomosaburo">Kato</person>--now Prime Minister of Japan, and Mr. <person
 				reg="Hanihara, Masanao">Hanihara</person>, who at that time was vice-minister of
 				<org reg="Japan Ministry of Foreign Affairs">Foreign Affairs</org>. Besides these
 			distinguished Japanese, there was another party of delegates, under the leadership of
@@ -150,8 +164,8 @@
 			passed.</p>
 		<p>Then I began to receive radio messages from Japan--one reading: "<q who="UNK">Thousands
 				disciples welcome you.</q>" The next: "<q who="UNK">Possible both land <place
-					reg="Yokohama, Japan">Yokahoma</place>, Welcome discourse.</q>" The next day:
-				"<q who="UNK">Possible land Yokahama Impossible discourse.</q>" Radio messages from
+					reg="Yokohama, Japan">Yokohoma</place>. Welcome discourse.</q>" The next day:
+				"<q who="UNK">Possible land Yokohama. Impossible discourse.</q>" Radio messages from
 			all sorts of organizations asking me to lecture; a radio message from the medical
 			association of <place reg="Kyoto, Japan">Kyoto</place>; a radio message from the "<org
 				reg="Kobe Cultural Socierty">Cultural Society of <place reg="Kobe, Japan"
@@ -179,13 +193,12 @@
 			propagandist, at least as a private citizen. And so, after this conference, I hurried
 			off another cable telling him I was awaiting his assistance. During this time, I was
 			besieged by reporters and photographers. I waited for the reply of our American Consul.
-			It did not come. Not only did the representatives of my government refuse to make a
+			It did not come. Not only did the representative of my government refuse to make a
 			formal request for my admittance, he did not even condescend to the courtesy of a reply
 			to either of my messages. <del>He did not explain the reasons for his indifference to
-				the rights of an American citizen.</del>
-			<add>representing</add></p>
+				the rights of an American citizen.</del></p>
 		<p>At seven thirty that evening, without the sponsorship of the American Consul, but due to
-			great popular pressure and protest, it was an individual that the Imperial Japanese
+			great popular pressure and protest, it was as an individual that the Imperial Japanese
 			Government opened its gates to me.</p>
 		<p>I am sorry that I cannot thank the American Consul. I must thank intelligent wide-awake
 			young Japan, expressing itself in agitation and protest, that show the power of
@@ -198,9 +211,9 @@
 		<p>Just as I finished this inspection and was at last free, I was approached by several
 			rickshaw men who came to welcome me to Japan as representatives of the <org>Rickshaw
 				Men's Union</org>. One spoke a little English and courteously apologized for the
-			unwarranted action of the Home Office. "<q who="UNK">You do not mind</q>, he said." "<q
-				who="UNK">Sometime Japanese Government, he little autocratic.</q>"</p>
-		<p>I did not mind. I felt almost at home.</p>
+			unwarranted action of the Home Office. "<q who="UNK">You do not mind</q>", he said. "<q
+				who="UNK">Sometime Japanese Government, he little autocratic.</q>" I did not mind. I
+			felt almost at home.</p>
 		<p>Today, the first impression one gets of Japan is that the old order has been swept away
 			by modern industrialism. In Yokohama and Kobe one hears factory whistles and sees the
 			tall smokestacks of industrial plants. There are tall cranes in new shipyards. The
@@ -250,7 +263,7 @@
 			land. She is dependent more and more upon imports for food and clothing. She may
 			increase her shipping and her foreign trade, but she cannot keep pace with her growing
 			population. Thus there are two alternate policies; expansion, <del>exigration</del>
-			<add>emmigration</add> aggression, imperialism, enforced by armament and militarism. On
+			<add>emigration</add>, aggression, imperialism, enforced by armament and militarism. On
 			the other hand, a drastic national policy of birth control limiting the numbers,
 			improving living conditions and aiming at the perpetuation of peace and the development
 			of art and science. As for the first policy, that of emigration and expansion, we must
@@ -282,7 +295,7 @@
 			name had created confusion and amusement, owing to the similarity between Sanger and
 				"<foreign lang="JAP">Sangai San</foreign>" which means "destructive to production."
 			The chief of police and assistants had read my books. They had been translated and
-			published without my permission, and were already making convert even in the police
+			published without my permission, and were already making converts even in the police
 			department. The outcome of this interview was that I was permitted to speak in
 			public--not on Birth Control, but on population, to private groups and before clubs and
 			such organizations, on the subject of birth control, without police interference.</p>
@@ -306,23 +319,23 @@
 		<p>After battling in this country and in this city with gross wholesale, unthinking
 			stupidity, cloaking itself with the name of religion and Democracy, it is a joy to be
 			received even by one's opponents with intelligent respect and courtesy. I did not meet
-			with prurient and vulgar leers and ribald laughs. At the <org>Peers Club</org>, I spoke
-			to a gathering of twenty-five of the most eminent dignitaries of the country. They were
-			highly educated gentlemen, so familiar with the English language that no interpreter was
-			necessary. In this exalted atmosphere of keen sophisticated intelligence, I could speak
-			with perfect freedom without misunderstanding or misinterpretation. I could not help
-			comparing the breadth and subtlety of the minds of these officials of the Imperial
-			Japanese Government with the unspeakable vulgarity and leering crudity of the
-			politicians of <place reg="New York, NY">New York</place>, when we tried to bring the
-			problem of Birth Control to the attention of our state legislators at <place
-				reg="Albany, NY">Albany</place>.</p>
+			with prurient and vulgar leers and ribald laughs. At the <org reg="Peers' Club">Peers
+				Club</org>, I spoke to a gathering of twenty-five of the most eminent dignitaries of
+			the country. They were highly educated gentlemen, so familiar with the English language
+			that no interpreter was necessary. In this exalted atmosphere of keen sophisticated
+			intelligence, I could speak with perfect freedom without misunderstanding or
+			misinterpretation. I could not help comparing the breadth and subtlety of the minds of
+			these officials of the Imperial Japanese Government with the unspeakable vulgarity and
+			leering crudity of the politicians of <place reg="New York, NY">New York</place>, when
+			we tried to bring the problem of Birth Control to the attention of our state legislators
+			at <place reg="Albany, NY">Albany</place>.</p>
 		<p>From Japan I went to <place>Korea</place> and addressed a group at <place
 				reg="Seoul, Korea">Seoul</place>, consisting of bankers, missionaries, physicians,
 			business men. There was a great opportunity for one to settle down in Korea, for the
 			Koreans are alert, ambitious and are anxious to partake in the new thought of the
 			western world.</p>
 		<p>From Korea I went to Peking and there was able to address 2500 students in the <org
-				reg="Peking University">Government University of Peking</org>. I also spoke at the
+				reg="Peking National University">Government University of Peking</org>. I also spoke at the
 				<org>Rockefeller Institute</org> as well as at a gathering of bankers, who gave a
 			luncheon in my honor.</p>
 		<p>I was particularly interested in the method of the Chinese in their grasp of the subject,
@@ -354,7 +367,7 @@
 			think that she has done so today, but we cannot interfere with her in the way we have
 			been interfering without making her problems more difficult and complex.</p>
 		<p>The women of China in my estimation <del>are</del>
-			<add>have an</add> intelligently <add>grasp of life</add> beyond the women of Japan. In
+			<add>have an</add> intelligent <add>grasp of life</add> beyond the women of Japan. In
 			some ways I found them superior to the women of the occidental world, for though they
 			may still bind their feet, and many of them are suffering from the habit of foot
 			binding, they are not to be so much deplored not pitied as some of our English and
@@ -389,13 +402,13 @@
 			human. Go through those narrow, choked streets, as I did one day last April, and you may
 			see these wretched creatures pawing over piles of garbage and refuse. There in these
 			quarters, the incurably diseased and leprous breed with the profligacy and
-			thoughtlessness of flies. I recall on unforgettable, unspeakable picture I saw in the
-			native quarters of Shanghai--the prostrate body of a leper woman, covered with rags; her
+			thoughtlessness of flies. I recall one unforgettable, unspeakable picture I saw in the
+			native quarters of Shanghai; the prostrate body of a leper woman, covered with rags; her
 			naked diseased children climbing over this inert figure, from a hole in the darkness
 			above the rays of the sun beat down in a single shaft. Horrified by this spectacle we
-			moved on, followed by a crowd of starving, naked children, some <add>of them</add>
-			blind, all unspeakably diseased, crying in pitiful voices for coppers. Such are the
-			results of obeying the age-old injunction to increase and multiply, carried to a literal
+			moved on, followed by a crowd of starving, naked children, some of them blind, all
+			unspeakably diseased, crying in pitiful voices for coppers. Such are the results of
+			obeying the age-old injunction to increase and multiply, carried to a literal
 			conclusion. Such is the punishment of a herdlike obedience to blind instinct, of
 			non-interference with the course of Nature.</p>
 		<p>Many of us have the greatest respect and reverence for the ancient culture of China. We
@@ -404,12 +417,12 @@
 			human wisdom. Therefore all the greater is the tragedy of China. The fine flame of the
 			ancient Asiatic spirit there is flickering. It is threatened with extinction. There is
 			the rising tide of famine, of wretchedness and the epidemic of transmissible diseases, a
-			flood which, because of the incessant fertility of those millions, spreads like a human
+			flood which, because of the incessant fertility of these millions, spreads like a human
 			plague.</p>
 		<p>How does that concern us in America? you may ask. Very directly is it the concern of
 			every one of us. We must keep alive the finer achievement of the spirit, in all parts of
 			the world. But it is our concern in an even more direct manner. Not a day, not a month,
-			no a year passes but that we are asked to contribute to famine funds, to the support of
+			not a year passes but that we are asked to contribute to famine funds, to the support of
 			Christian missions in China and Japan, and to other Far Eastern philanthropies. It is an
 			obvious fact that the great part of these funds is not devoted to the aid of what I
 			consider the finer things of China, but to the never-ending task of temporarily
@@ -425,7 +438,7 @@
 		<p>But as long as the American public prefers sentimentality to Science, this waste of funds
 			to throw into the bottomless pit of charities and philanthropies may be expected to
 			continue. Meanwhile the work of cleaning up our own national house is neglected, and the
-			millions which should go into American research, American Science and to the cultivation
+			millions which should go into American research, American science and to the cultivation
 			and refinement of American life are diverted to this mad carnival of sloppy
 			sentimentality.</p>
 		<p>China does not need our religion. And in exporting our religions to Asia, we are not
@@ -436,32 +449,31 @@
 			cannot gauge civilization merely in terms of industrial expansion and growth. National
 			greatness is not a matter of large standing armies and invincible navies. Is a country
 			breeding great men? Will they leave for the generations of the future a record of
-			immortal poetry and art and philosophy? Then it is a great country, for it has attained
-			the only immortality worth striving for. <del>And in holding this as our ideal, in
-				striving upward the human race should first of all be freed of the millstones of
-				disease, famine, and the fatal burden of inherited disease. There are other
-				hindrances in the endless march toward our unknown goal. We are not helping
-				ourselves by adding to them the blight of inherited disease, bad breeding and
-				blasted childhood.</del></p>
+			immortal poetry, art and philosophy? Then it is a great country, for it has attained the
+			only immortality worth striving for. <del>And in holding this as our ideal, in striving
+				upward the human race should first of all be freed of the millstones of disease,
+				famine, and the fatal burden of inherited disease. There are other hindrances in the
+				endless march toward our unknown goal. We are not helping ourselves by adding to
+				them the blight of inherited disease, bad breeding and blasted childhood.</del></p>
 		<p>After my eight months tour of the world, I am led to agree with H. G. Wells when he says
 			that the whole world at present is swarming with cramped, dreary, meaningless lives,
 			lives which amount to nothing and which use up the resources and surplus energies of the
 			world. <del>Our world is overcrowded with masses who are merely the breeding crowd of
 				admitted misery and wretchedness.</del> They do nothing to carry life forward. They
-			are just the vain, defective imperfect repetitions of all that has gone before. Our
-				<del>charity to these masses is in reality a crime against future generations,
-				against the finest blossoming of the human spirit.</del> Upon these docile, herdlike
-			masses, the sinister evil demagogues of the church and nation fatten. We cannot shirk
-			the inevitable duty of descending, like <person reg="Socrates (Greek)">Socrates</person>, into the market place
-			and to the utmost of our ability to undo the work of these blind leaders of the blind
-			who are urging <add>the</add> unfit "full speed" ahead in these mad spawning and
-			swarming.</p>
+			are just the vain, defective imperfect repetitions of all that has gone before. <del>Our
+				charity to these masses is in reality a crime against future generations, against
+				the finest blossoming of the human spirit.</del> Upon these docile, herdlike masses,
+			the sinister evil demagogues of the church and nation fatten. We cannot shirk the
+			inevitable duty of descending, like <person reg="Socrates (Greek)">Socrates</person>,
+			into the market place and to the utmost of our ability to undo the work of these blind
+			leaders of the blind who are urging the unfit "full speed" ahead in these mad spawning
+			and swarming.</p>
 		<p>The world is overpopulated in more ways than one. There are too many people for our
 			limited intelligence. There are too many people for the social systems evolved. There
 			are too many people for our present equipment, transportation, housing,
 			schools--everything which should help to advance our civilization; and there are too
 			many people for the means of subsistence in a great majority of countries.</p>
-		<p>I come back from my eight months trip around the world more convinced than ever that the
+		<p>I came back from my eight months trip around the world more convinced than ever that the
 			people of the world are ready and eager for the practice of Birth Control. The officials
 			of all governments are blind to its importance. The leaders of the churches are opposed
 			to Birth Control. But as a whole, the masses themselves are looking to it as to a
@@ -474,6 +486,26 @@
 			arouses some of the deepest instincts and emotions. Feelings are running, as Mr. Keynes
 			suggested, as passionately as in the earlier struggles between religions. We stand today
 			at one of the great transition points in human history. If civilization is to survive,
-			men and women must grasp control away from the blind instinct of Nature </p>
+			men and women must grasp control away from the blind instinct of Nature <supplied
+				resp="MSPP">remainder of this document is drawn from the previous draft</supplied>
+			and they must develop the intelligence and the wisdom to direct the energies of life
+			into the realms of the Spirit.</p>
+		<p>This is a problem that requires every ounce of courage and bravery of which we are
+			capable. Our enemies are not sleeping. they are aggressive, bold, insulting. Have the
+			courage to back us up. But above all, have the courage of your convictions. It is the
+			duty of every one of us, not merely to give a passive assent to this new vision, this
+			new morality, but to do everything in our power to extend and strengthen the growing
+			current of public opinion in favor of Birth Control for the individual, for the nation
+			and for the world. We are fighting for the women and the children of the present
+			generation; we are fighting for the children, women and the men of the next generation.
+			We want a world freer, happier, cleaner. We want a race of thoroughbreds. Remember that
+			no historical movement can attain maturity in one generation. Remember that it took two
+			hundred and eighty years for Christianity to be accepted in the Roman Empire. Remember
+			that one hundred and fifteen years elapsed after the discovery of the New World before
+			the first english colony was planted here. No one who saw the beginning of these great
+			historic movements could grasp their full import. Nor shall we, who are advocating the
+			cause of Birth Control, ever witness its culmination. But it is good to remember that
+			the first step toward international peace has at last been taken, <del>because</del>
+			<add>for</add> the idea of birth control has now triumphantly girdled the globe. </p>
 	</docBody>
 </doc>

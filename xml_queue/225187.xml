@@ -6,6 +6,7 @@
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-04-15 CH regularized title</prepDate>
+		<prepDate>2015-06-24 CH enter proof corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -37,15 +38,18 @@
 		<p>This article is the first of a four-part series of the same title. For following articles
 			see <xref from="219520">Aug. 1923</xref>, <xref from="239148">Sep. 1923</xref>, and
 				<xref from="2111447">Oct. 1923</xref>.</p>
-		<index level1="xxxx"/>
+		<index level1="Drysdale, George"/>
+		<index level1="England" level2="Malthusian League"/>
+		<index level1="England" level2="birth control in"/>
+		<index level1="birth control movement" level2="history of"/>
 	</headNote>
 	<docBody>
 		<head>The Vision of George Drysdale</head>
-		<byline>By Margaret Sanger</byline>
-		<p><person reg="Drysdale, George">George Drysdale</person> is perhaps the greatest
-			pioneer of our modern conception of Birth Control, because he was the first to approach
-			this great problem from the point of view of individual and social psychology. He saw,
-			more clearly than any of his predecessors, the great necessity of a new science and
+		<byline><hi rend="italics">By</hi> MARGARET SANGER</byline>
+		<p><person reg="Drysdale, George">George Drysdale</person> is perhaps the greatest pioneer
+			of our modern conception of Birth Control, because he was the first to approach this
+			great problem from the point of view of individual and social psychology. He saw, more
+			clearly than any of his predecessors, the great necessity of a new science and
 			psychology of sex. He revitalized the theory of <person reg="Malthus, Thomas Robert"
 				>Malthus</person> by lifting it out of the sphere of political economy, and
 			vindicating Birth Control from the point of view of human and individual need. He
@@ -66,27 +70,27 @@
 			nineteenth century.</p>
 		<p><person reg="Nietzsche, Friedrich">Nietzsche</person> remarks that every philosophy is,
 			in a certain sense, a confession or an autobiography. If this is true, the "<title
-				type="book">Elements of Social Science</title>" reveals an unusually attractive,
-			vigorous personality, uninhibited by the restraints and repression of the harsh and
-			Puritanical environment in which he was born and brought up. Born in <place
-				reg="Edinburgh, Scotland">Edinburgh</place> in 1825, the son of the Treasurer of the
-			City of Edinburgh, Drysdale revealed from childhood all those exceptional qualities that
-			we are accustomed to associate with the term "genius." He evinced such great power of
-			intellect that his teacher, <person reg="Musgrave, Mr.">Mr. Musgrave</person>, in the
-				<org>Circus Place School</org>, named him, for his rapid progress in elementary
-			studies, "King." He passed seven years at the <org>Edinburgh Royal Academy</org>,
-			obtaining the highest prizes in all his classes. At the time of his death, November 19,
-			1904, his brother, Dr. <person reg="Drysdale, Charles R.">Charles R. Drysdale</person>,
-			declared that the medals and books given to his brother for merit formed a collection
-			and a library in themselves. After seven years at the Edinburgh Royal Academy, George
-			Drysdale studied at the <org>University of Glasgow</org>, and obtained honors equally
-			from all the professors there. Shortly after the death of his <person
-				reg="Drysdale, William">father</person>, George, with Charles Drysdale and their
-				<person reg="Lane, Edward Wickstead">brother-in-law</person>, made a tour through
-				<place>France</place> and <place>Switzerland</place>. The younger brother speaks of
-			George's pre-eminence in all physical and outdoor sports, just as he was pre-eminent in
-			his studies. This splendid love of physical perfection and activity, combined with
-			intellectual pursuits, is expressed throughout his book.</p>
+				type="book" reg="The Elements of Social Science">Elements of Social Science</title>"
+			reveals an unusually attractive, vigorous personality, uninhibited by the restraints and
+			repression of the harsh and Puritanical environment in which he was born and brought up.
+			Born in <place reg="Edinburgh, Scotland">Edinburgh</place> in 1825, the son of the
+			Treasurer of the City of Edinburgh, Drysdale revealed from childhood all those
+			exceptional qualities that we are accustomed to associate with the term "genius." He
+			evinced such great power of intellect that his teacher, <person reg="Musgrave, Mr.">Mr.
+				Musgrave</person>, in the <org>Circus Place School</org>, named him, for his rapid
+			progress in elementary studies, "King." He passed seven years at the <org>Edinburgh
+				Royal Academy</org>, obtaining the highest prizes in all his classes. At the time of
+			his death, November 19, 1904, his brother, Dr. <person reg="Drysdale, Charles R."
+				>Charles R. Drysdale</person>, declared that the medals and books given to his
+			brother for merit formed a collection and a library in themselves. After seven years at
+			the Edinburgh Royal Academy, George Drysdale studied at the <org>University of
+				Glasgow</org>, and obtained honors equally from all the professors there. Shortly
+			after the death of his <person reg="Drysdale, William">father</person>, George, with
+			Charles Drysdale and their <person reg="Lane, Edward Wickstead">brother-in-law</person>,
+			made a tour through <place>France</place> and <place>Switzerland</place>. The younger
+			brother speaks of George's pre-eminence in all physical and outdoor sports, just as he
+			was pre-eminent in his studies. This splendid love of physical perfection and activity,
+			combined with intellectual pursuits, is expressed throughout his book.</p>
 		<p>Like all of the young thinkers of the early half of the nineteenth century, the Drysdales
 			became interested in the study of political economy, which had become the center of most
 			of the intellectual activity of that time. George Drysdale took copious notes of the
@@ -108,38 +112,41 @@
 			his own book that made him do this; he did it in a truly visionary spirit. He felt he
 			had expressed the truths of which humanity was in dire need. Perhaps he did not realize
 			the extent of his own iconoclasm. He felt that he was truly following in the footsteps
-			of the great Malthus and the two Mills. A good deal of the "<title type="book">Elements
-				of Social Science</title>," it is true, is a restatement of the principles and
-			convictions of those early pioneers in social reform. But imbedded in the closely
-			printed pages of this astonishing book there is ample evidence of George Drysdale's
-			realization of the great fundamental and central truths of human nature.</p>
+			of the great Malthus and the two Mills. A good deal of the "<title type="book"
+				reg="The Elements of Social Science">Elements of Social Science</title>," it is
+			true, is a restatement of the principles and convictions of those early pioneers in
+			social reform. But imbedded in the closely printed pages of this astonishing book there
+			is ample evidence of George Drysdale's realization of the great fundamental and central
+			truths of human nature.</p>
 		<p>Needless to say, he found great difficulty in finding a publisher for his book. In 1853
 				<place>Great Britain</place> was laying the foundations of Victorian prudery; and it
-			is not surprising that such a book as the "<title type="book">Elements of Social
-				Science</title>" was refused by all reputable publishers. But at length, by a lucky
-			chance, Drysdale discovered <person reg="Truelove, Edward">Edward Truelove</person>, a
-			free-thought bookseller, living at that time near Temple Bar. Mr. Truelove undertook the
-			printing of the work. Edward Truelove, we may note in passing, possessed scarcely less
-			courage and bravery in his own particular field than the Drysdales themselves. He was
-			vitally interested in the neo-Malthusian movement. He suffered imprisonment for
-			publishing, not the "<title type="book">Elements of Social Science</title>," but other
-			works of the same character. The dauntless courage of the early English Malthusians
-			opens a fascinating chapter in the history of human thought.</p>
-		<p>The "<title type="book">Elements of Social Science</title>" was published anonymously,
-			not merely in its first edition, but in all the editions printed during George
-			Drysdale's lifetime. An edition appeared in 1905 with George Drysdale's name in
-			parenthesis under the pen-name of the author--"<q who="DRYGE">A Doctor of Medicine.</q>"
-			In his preface to the first edition, Drysdale confessed that "<q who="DRYGE">Had it not
-				been from fear of causing pain to a relation, I should have felt it my duty to put
-				my name to this work; in order that any censure passed upon it should fall upon
-				myself alone.</q>" The "<q who="DRYGE">relation,</q>" as we may guess, was his
-				<person reg="Drysdale, Elizabeth Copeland Pew">mother</person>. Charles R. Drysdale,
-			who inserted a brief memoir of his brother in the posthumous edition, tells us that
-			George wrote anonymously, at first on account of his dislike to give pain to his mother
-			by his avowal of heretical opinions in theology and traditional morality, and finally
-			because, his health becoming weaker, he disliked those wordy disputes which interfered
-			with "<q who="DRYGE">that philosophic tranquility so necessary for thinking out the
-				different problems of social life.</q>"</p>
+			is not surprising that such a book as the "<title type="book"
+				reg="The Elements of Social Science">Elements of Social Science</title>" was refused
+			by all reputable publishers. But at length, by a lucky chance, Drysdale discovered
+				<person reg="Truelove, Edward">Edward Truelove</person>, a free-thought bookseller,
+			living at that time near Temple Bar. Mr. Truelove undertook the printing of the work.
+			Edward Truelove, we may note in passing, possessed scarcely less courage and bravery in
+			his own particular field than the Drysdales themselves. He was vitally interested in the
+			neo-Malthusian movement. He suffered imprisonment for publishing, not the "<title
+				type="book" reg="The Elements of Social Science">Elements of Social
+			Science</title>," but other works of the same character. The dauntless courage of the
+			early English Malthusians opens a fascinating chapter in the history of human
+			thought.</p>
+		<p>The "<title type="book" reg="The Elements of Social Science">Elements of Social
+				Science</title>" was published anonymously, not merely in its first edition, but in
+			all the editions printed during George Drysdale's lifetime. An edition appeared in 1905
+			with George Drysdale's name in parenthesis under the pen-name of the author--"<q
+				who="DRYGE">A Doctor of Medicine.</q>" In his preface to the first edition, Drysdale
+			confessed that "<q who="DRYGE">Had it not been from fear of causing pain to a relation,
+				I should have felt it my duty to put my name to this work; in order that any censure
+				passed upon it should fall upon myself alone.</q>" The "<q who="DRYGE"
+			>relation,</q>" as we may guess, was his <person reg="Drysdale, Elizabeth Copeland Pew"
+				>mother</person>. Charles R. Drysdale, who inserted a brief memoir of his brother in
+			the posthumous edition, tells us that George wrote anonymously, at first on account of
+			his dislike to give pain to his mother by his avowal of heretical opinions in theology
+			and traditional morality, and finally because, his health becoming weaker, he disliked
+			those wordy disputes which interfered with "<q who="DRYGE">that philosophic tranquility
+				so necessary for thinking out the different problems of social life.</q>"</p>
 		<p>George Drysdale devoted all the remaining years of his life (he died at the age of
 			seventy-eight, November 19, 1904) to the translation of his book and its publication in
 			the other European countries. To do so, he made himself familiar with most of the
@@ -153,11 +160,11 @@
 			social science. He aimed instead to be suggestive and stimulating. He acknowledged his
 			indebtedness to Mill's "<title type="book">Logic</title>" and to <person
 				reg="Comte, Auguste">Comte</person>'s "<title type="book">Positive
-			Philosophy</title>." He dissented from Comte on most of the vital points of moral and
-			social doctrine, but he expressed the profoundest admiration for the manner in which the
-			French Positivist carried out the leading ideas of his great work. He agreed that the
-			first need was to emancipate the human mind from supernaturalism, to prepare the way for
-			a great intellectual regeneration, when human life might be governed by sincere and
+				Philosophy</title>." He dissented from Comte on most of the vital points of moral
+			and social doctrine, but he expressed the profoundest admiration for the manner in which
+			the French Positivist carried out the leading ideas of his great work. He agreed that
+			the first need was to emancipate the human mind from supernaturalism, to prepare the way
+			for a great intellectual regeneration, when human life might be governed by sincere and
 			openly expressed convictions.</p>
 		<p>In the years following its first appearance, this anonymously published book gained a
 			wide European reputation; but due perhaps to its anonymous publication, this reputation
@@ -193,8 +200,9 @@
 				Montegazza</person> of <place reg="Florence, Italy">Florence</place>. Montegazza
 			wrote of Drysdale in the <foreign lang="ITA"><title rend="italics">Medico Di
 					Casa</title></foreign>, 1874: "<q who="MONPA">Afoe to all hypocrisy and
-				prejudice, the author of the '<title type="book">Elements of Social Science</title>'
-				calls things by their real names, and shrinks only from the excessive sufferings and
+				prejudice, the author of the '<title type="book"
+					reg="The Elements of Social Science">Elements of Social Science</title>' calls
+				things by their real names, and shrinks only from the excessive sufferings and
 				privations to which the poor children of <person reg="Adam (Biblical)">Adam</person>
 				are condemned. He is firmly convinced that to measure human fecundity in accordance
 				with the economical production of families and nations is the most certain means of
@@ -206,17 +214,20 @@
 				of the most formidable problems of human society is most praiseworthy. Human
 				morality is gradually changing its centre of gravity to rest upon a more solid and
 				durable basis. In this new morality, the doctrines of Malthus and those of the
-				author of the '<title type="book">Elements of Social Science</title>' must also have
-				a large share. In the place of the alms-giving which humiliates, in the place of
-				that charity which caresses an evil that it does not know how to cure, there will be
-				substituted preventive philanthropy, which by studying want and suffering in their
-				most hidden and deep-seated springs, will be able radically to remove them.
-				Jurisprudence, medicine and morality follow the same movement, are aiming at the
-				same end--to prevent rather than to cure.</q>"</p>
+				author of the '<title type="book" reg="The Elements of Social Science">Elements of
+					Social Science</title>' must also have a large share. In the place of the
+				alms-giving which humiliates, in the place of that charity which caresses an evil
+				that it does not know how to cure, there will be substituted preventive
+				philanthropy, which by studying want and suffering in their most hidden and
+				deep-seated springs, will be able radically to remove them. Jurisprudence, medicine
+				and morality follow the same movement, are aiming at the same end--to prevent rather
+				than to cure.</q>"</p>
 		<p>In <place>Germany</place> and <place reg="Netherlands">Holland</place> likewise, the book
 			aroused much discussion, praise as well as adverse comment. Though little spoken of in
 			public, it was, nevertheless, to produce a quiet, lasting effect. The <foreign
-				lang="GER"><title rend="italics" type="journal">Königsberger Hartungsche
+				lang="GER"><title rend="italics" type="journal"
+					reg="Konigsberger Hartungsche
+					Zeitung">K&ouml;nigsberger Hartungsche
 					Zeitung</title></foreign> (December 4, 1871) confessed that "<q who="ZEIKO"
 				>whatever may be said against this fearless laying bare of the most intimate
 				relations of social life, and against his whole theory--purely and undisguisedly

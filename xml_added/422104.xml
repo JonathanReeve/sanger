@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2015-07-27 CH transcribe and encode</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1951-09-29">29 Sep 1951</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Statement on Government Subsidies for
+				Babies</supplied></titlePart>
+		</docTitle>
+		<idno>msp422104</idno>
+		<sourceDesc>
+			<bibl><title type="article">She's Telling the World We Have Babies to Get 3s. a
+					Week</title>, <title type="journal">News of the World</title>, Sept. 30,
+				1951</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="NOTW">News of the World</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="overpopulation"/>
+		<index level1="England" level2="population policies"/>
+		<index level1="England" level2="birth rate in"/>
+	</headNote>
+	<docBody>
+		<head>She's Telling the World We Have Babies to Get 3s. a Week</head>
+		<byline>From ARCH MACDONALD</byline>
+		<dateline><place>New York</place>, <date value="1951-09-29">Saturday</date>.</dateline>
+		<p><q who="NOTW">Mrs. Margaret Sanger, a leader of the birth control movement in <place
+					reg="United States">America</place>, said today that the </q>"old British habit"
+				<q who="NOTW">of having babies was placed on a mercenary basis by Government
+				Subsidies. She has just returned from a <place reg="London, England">London</place>
+				meeting of the <org>International Committee on Planned Parenthood</org>.</q></p>
+		<p><q who="NOTW">Presumably referring to the allowance of 5s. a week for each child after
+				the first, she complained that the subsidizing of large families was hampering the
+				objectives of the planned parenthood movement.</q></p>
+		<p>"While I heartily agree that food should be provided for babies and small children," <q
+				who="NOTW">she said,</q> "I think it is humiliating to parents to put parenthood on
+			a mercenary basis of subsidies.</p>
+		<p>"The measly two or three shillings a week is degrading and attracts only the most
+			undesirable parents who have more children to get the miserably low subsidy money which
+			they invariably squander."</p>
+		<p>"It is certainly a sad commentary if the parents can't earn money any other way."</p>
+		<p><q who="NOTW">Mrs. Sanger, who is honorary chairman of the <org>Planned Parenthood
+					Federation of America</org>, complained that though food shortages have made
+				British parents more conscious of family problems, they had not produced any
+				increased demand for birth control information.</q></p>
+		<p>"I think the <org reg="United Kingdom Government">Government</org> is short-sighted when
+			it does not stop to consider that <place reg="Great Britian">Britain</place> is already
+			overpopulated by some 20,000,000 people and that in five or 10 years the children of
+			today will be competing with the adults for meat and eggs,"<q who="NOTW"> she
+			added.</q></p>
+		<p>"From my observations most Britons already are underweight and hungry. They seem to eat a
+			vast quantity of buns for quick energy, but they need eggs, meat and cheese for a
+			balanced diet."</p>
+	</docBody>
+</doc>

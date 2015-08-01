@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+	<mepHeader>
+		<prepDate>2015-07-27 CH transcribe and encode</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1938-04-06">6 Apr 1938</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Phoenix Woman's Clubhouse Speech</supplied></titlePart>
+		</docTitle>
+		<idno>msp422107</idno>
+		<sourceDesc>
+			<bibl><title type="article">Capacity Crowd Attends Talk By Margaret Sanger,
+					Doctors</title>, <title type="journal">Unidentified Newspaper</title>, circa
+				Apr. 6, 1938. </bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="UN">Unidentified Newspaper</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This article was found in a scrapbook in the Arizona Historical Foundation and is likely
+			from a Phoenix-based newspaper. Sanger's speech was given on April 6, 1938.</p>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="mentally diseased or disabled" level2="unfit to reproduce"/>
+		<index level1="Arizona" level2="birth control in"/>
+	</headNote>
+	<docBody>
+		<head>Capacity Crowd Attends Talk By Margaret Sanger, Doctors</head>
+		<p><q who="UN">Birth control as a method of lessening the relief burden and raising the
+				health standard of the nation, or, indeed of the world, was the theme of address
+				delivered Wednesday night in the <org>Phoenix Woman's Clubhouse</org> by Mrs.
+				Margaret Sanger, whose efforts have been responsible for the success of the
+				movement; Dr. <person reg="Mayer, Edgar">Edgar Mayer</person> of <place
+					reg="Rye, NY">Rye, N.Y.</place>, associate professor of medicine at <org>Cornell
+					University</org>; and Dr. <person reg="Baldwin, Louis">Louis Baldwin</person>,
+					<place reg="Phoenix, AZ">Phoenix</place>, former head of the <org>Desert
+					Sanatorium</org> at <place reg="Tucson, AZ">Tucson</place>. They were introduced
+				by <person reg="Cuthbert, Hugh T.">Hugh T. Cuthbert</person>.</q></p>
+		<p><q who="UN">The meeting, attended by a crowd which overflowed the clubhouse so that many
+				were turned away, was arranged by the <org reg="Phoenix Mothers' Health Clinic"
+					>Mothers' Health Clinic</org>, 711 East Adams street, whose board of directors
+				is headed by <person reg="Cuthbert, Lucy S.">Mrs. Cuthbert</person>. Interest in the
+				clinic, where birth control information is disseminated without cost if the
+				circumstances of the family asking it make it desirable, was augmented by the
+				meeting last night, it was apparent in a deluge of telephone calls yesterday, Mrs.
+				Cuthbert revealed.</q></p>
+		<p><q who="UN">The clinic organization of which was completed since Mrs. Sanger's visit here
+				last spring, has been made possible through private subscriptions of prominent women
+				and organizations. Ten prominent local physicians are on its advisory staff.</q></p>
+		<p><q who="UN">Stressing the need of birth control information, Mrs. Sanger pointed out the
+				fallacy which permits persons unfit for parenthood to bring children bearing the
+				taint of mental defectiveness and other hereditary weaknesses into the work for lack
+				of such information.</q> "Unfitness begets unfitness, and the mental defectives,
+			such as morons, imbeciles, and idiots are begotten by parents or progenitors whose blood
+			stream carries the taint,"<q who="UN"> she declared.</q>
+		</p>
+		<p><q who="UN">Pointing to the <place>United States</place>' exceptionally-high maternal
+				death rate, she stated that science has gained control of all other causes of
+				fatality more rapidly than this one.</q> "Too many mothers die in childbirth--and
+			every child has the right to be born a wanted child," <q who="UN">she declared.</q>
+		</p>
+		<p>Dr. Mayer stressed the need for birth control information so that mothers having
+			tuberculosis, heart disease and other ailments which would make child bearing for them
+			dangerous, or which might cause the mother to pass along a weak constitution to the
+			child, need not bear children.</p>
+		<p><q who="UN">The goal of educating mothers in this important phase of living has been
+				brought much closer by the <org>American Medical Association</org>'s acceptance of
+				the idea, Dr. Baldwin said, and outlined the general public health aspect of the
+				campaign.</q>
+		</p>
+		<p><q who="UN">Four clinics have now been established in <place>Arizona</place>, the first
+				at <org reg="Tucson Mothers' Health Clinic">Tucson</org> several years ago. The
+				others are the one here, <org reg="Benson Mothers' Health Clinic">one</org> in
+					<place reg="Benson, AZ">Benson</place> and <org
+					reg="Casa Grande Hospital Maternal Aid Clinic">one</org> in <place
+					reg="Casa Grande, AZ">Casa Grande</place>. Mrs. Sanger's recently announced
+				plans are to inaugurate a campaign to have the clinics throughout the United States
+				subsidized through the government, in line with the general social welfare
+				program.</q></p>
+	</docBody>
+</doc>

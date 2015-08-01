@@ -12,7 +12,9 @@
 			<supplied resp="MSPP">1929</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Birth Control, 1928</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control, 1928</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp156569</idno>
 		<sourceDesc>
@@ -63,8 +65,7 @@
 				convicted for distributing that book among the working classes of Great Britain.
 				Their conviction led to the foundation of the <org>Malthusian League</org> in 1878
 				by <person reg="Drysdale, Charles R.">Dr. Charles Drysdale</person> and his wife,
-					<person reg="Vickery, Alice">Dr. Alice Vickery Drysdale</person>. A <org
-					reg="Nieuw Mathusiaansche Bond">Dutch League</org> was founded in 1881. The
+				<person reg="Vickery, Alice">Dr. Alice Vickery Drysdale</person>. A <org reg="Nieuw Malthusiaansche Bond">Dutch League</org> was founded in 1881. The
 				neo-malthusians differed from Malthus in advocating contraception to prevent
 				overpopulation and to reduce the birth rate. </p>
 			<p>The period between 1914 and 1921 in the <place>United States</place> was one of

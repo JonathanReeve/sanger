@@ -2,168 +2,136 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 	<mepHeader>
-		<prepDate>2001-11-07 MH</prepDate>
-		<prepDate>2002-08-22 KH</prepDate>
-		<prepDate>2003/12/08 CH</prepDate>
-		<prepDate>2007-05-30 CH Oxygen update</prepDate>
-		<prepDate>2013-04-30 CH fix links</prepDate>
-		<prepDate>2014-07-02 CH clean regs</prepDate>
-		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<prepDate>2015-0317 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1913-01-26">26 Jan 1913</docDate>
+		<prepDate>2001-10-25 MH</prepDate>
+		<prepDate>2002-08-20 KH</prepDate>
+		<prepDate>2003/11/25 CH cleaned up tags and xref</prepDate>
+		<prepDate>2007-05-30 CH Oxygen/cleanup</prepDate>
+		<prepDate>2014-11-10 CH reg cleanup</prepDate>
+		<prepDate>2015-02-20 EK correct index</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1911-12-03">03 Dec. 1911</docDate>
 		<docTitle>
-			<titlePart>What Every Girl Should Know, Part X</titlePart>
+			<titlePart><supplied resp="MSPP">How Six Little Children Were Taught The Truth, Part
+					VI</supplied></titlePart>
 		</docTitle>
-		<idno>msp304926</idno>
+		<idno>msp320086</idno>
 		<sourceDesc>
-			<bibl><title type="journal">New York Call</title>, Jan. 26, 1913</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0055</bibl>
+			<bibl><title type="journal">New York Call</title>, Dec. 3, 1911</bibl>
 		</sourceDesc>
-		<respStmt>
-			<resp/>
-			<name id="UNK">Unknown</name>
-			<name id="RUGLY">Ruggles, Lydston</name>
-			<name id="HUTWO">Hutchinson, Woods</name>
-		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>This is the tenth article in an 12-part series. 
-			for Part I, "Introduction" see<xref from="304533.xml">Nov. 17, 1912</xref>,
-			for Part II, "Girlhood, 1," see <xref from="300177.xml">Nov. 24, 1912</xref>,
-			for Part III, "Girlhood, 2" see <xref from="303438.xml">Dec. 1, 1912</xref>, 
-			for Part IV, "Puberty, 1" see<xref from="304920.xml"> Dec. 8, 1912</xref>, 
-			for Part V,"Puberty 2" see <xref from="304921.xml"> Dec. 15, 1912</xref>, 
-			for Part VI "Sexual Impulse, 1" see <xref from="304922.xml">Dec. 22, 1912,</xref>,
-			for Part VII, "Sexual Impulse, 2" see <xref from="304923.xml"> Dec. 29, 1912</xref>, 
-			for Part VIII, "Reproduction, 1" see <xref from="304924.xml">Jan. 2, 1913</xref>, 
-			for Part IX, "Reproduction, 2" see <xref from="304925.xml">Jan. 19, 1913</xref>,
-			for Part XI, "Some Consequences of Ignorance and Silence, 2" see <xref from="304927.xml">Feb. 2, 1913</xref>, and,
-			for Part XII, "Some Consequences of Ignorance and Silence, 3" see <xref from="304928.xml">Mar. 2, 1913.</xref></p>
-		<index level1="censorship"/>
+		<p>This is the second half of Part 5 of an eight-part series of the same title. For Part I,
+			see <xref from="320081.xml">Oct. 19, 1911</xref>, for Part II, see <xref
+				from="320082.xml">Nov. 5, 1911</xref>, for Part III see <xref from="320083.xml">Nov.
+				12, 1911</xref>, for Part IV see <xref from="320084.xml">Nov. 19, 1911</xref>, for
+			the first half of Part V see <xref from="320085.xml">Nov. 26, 1911</xref>, for Part VI
+			see <xref from="320087.xml">Dec. 10, 1911.</xref>, and for Part VII, see <xref
+				from="320088.xml">Dec. 17, 1911.</xref></p>
+		<p>This series was compiled and published as <title type="book">What Every Mother Should
+				Know</title>, (New York, 1912).</p>
 		<index level1="sex education"/>
-		<index level1="adolescence"/>
-		<index level1="Sanger, Margaret" level2="books" level3="What Every Girl Should Know"/>
-		<index level1="men and boys" level2="sex and sexuality"/>
-		<index level1="venereal disease"/>
+		<index level1="reproduction"/>
+		<index level1="love" level2="concept of"/>
 	</headNote>
 	<docBody>
-		<head>What Every Girl Should Know</head>
-		<byline>By MARGARET H. SANGER.</byline>
-		<head type="sub">Some Consequences of Ignorance and Silence.</head>
-		<p>When the boy arrives at the age of puberty, he is in greater danger than a girl of being
-			not only led astray by companions, but being actually sent into unclean living by those
-			nearest and most interested in his welfare--HIS PARENTS.</p>
-		<p>The reason of this is that there has been and still is a false idea clinging to many
-			parents that as soon as the boy has seminal emissions, it is a signal that he must have
-			sexual relations or suffer in health.</p>
-		<p>That the seminal emissions are not harmful and that they grow less frequent as the boy
-			grows older is a fact of which few mothers seem to be aware. </p>
-		<p>We cannot blame the mothers of the past for not informing their sons of this physical
-			condition, for few of them knew it themselves. Mothers have been as ignorant as the boys
-			of their sex functions as well as other functions of the body.</p>
-		<p>They accepted sickness, disease, and even death without a question, placing their faith
-			and confidence entirely in the hands of the medical profession, who, like the rabbis and
-			high priests made a church of their knowledge. </p>
-		<p>Fortunately this condition of affairs is changing, and the knowledge of the human body,
-			which for ages has been most carefully locked within the medical libraries, is fast
-			taking up its abode in the homes of the people--WHERE IT BELONGS.</p>
-		<p>It is said that in <place>Japan</place> the duty of a physician is to keep his patients
-			in good health, receiving payment only when they are well.</p>
-		<p>Certainly this sounds like civilization.</p>
-		<p>Only a few weeks ago I had occasion to talk to a woman about her oldest son, whom I
-			considered sick from overwork and lack of nourishment. She informed me, however, that
-			this was not so, and whispered confidentially that he was 16 years old and <q who="UNK"
-				>"in that age when he needs a woman</q>." She further remarked that she and "the
-			papa" had talked it over with the result that the father had told the boy, when he had
-				"<q who="UNK">the desire for a woman</q>," that he, the father, "<q who="UNK">would
-				give him money enough to get one</q>."</p>
-		<p>Think of the boy's attitude toward women. Yet both parents had the sincerest wish to do
-			their best for the boy; they gave the best advice they knew.</p>
-		<p>One of the most common errors I have found among people, even those educated in other
-			lines of thought, is that the sexual organs will become useless unless they are used in
-			early manhood. This is considered untrue by the best authorities on the subject, for it
-			is known that the essential organs of reproduction are glands, not unlike the tear
-			glands of the eyes or the milk glands of the breasts. The tear glands do not atrophy
-			even if one does not cry for years, nor the milk glands during the entire period of
-			reproduction. The same can be said of the sexual glands.</p>
-		<p>Another idea which is fast being uprooted is that the sexual act is an appetite, not
-			unlike that of hunger or thirst, which must be fed by the boy sowing his "wild oats"
-			first before settling down to marriage. It is now a recognized fact that it is no more
-			necessary for a boy to "sow wild oats" than it is for a girl, and women are today
-			demanding of men the same cleanliness of body and mind which men have heretofore
-			considered necessary only in women.</p>
-		<p>It is now the unreserved opinion of the foremost medical men of the day that a man does
-			not suffer in health from living a continent life, not is he a "mollycoddle" from so
-			doing.</p>
-		<p><person reg="Hutchinson, Woods">Hutchinson</person> says: "<q who="HUTWO">The belief that
-				the exercise of the sex functions is necessary to the health of the male at any age
-				is a pure delusion, while before full maturity it is highly injurious.</q>"</p>
-		<p><person reg="Lydston Ruggles">Ruggles</person> says:"<q who="RUGLY">Sexual abstinence is
-				compatible with perfect health and tends to increase virility (which means manhood)
-				through the reabsorption of the semen.</q>"</p>
-		<p>The ancient Teutons were aware of this for it is said that it was considered a most
-			shameful thing for their young men to have sexual relations with a woman before his
-			twenty-sixth year. From observation and experience they were convinced that men were not
-			sexually mature much before this age, and no one will dispute they were strong and
-			manly.</p>
-		<p>Statistics show that 65 per cent of men infected with venereal diseases (which means
-			diseases due to sexual intercourse) are contracted between the ages of 15 and 21 years;
-			and 25 per cent are contracted in the 21st and 23rd years.</p>
-		<p>Many writers claim that from statistics they have found men are not sexually mature
-			before the twenty-fifth year, and women not before the twentieth year. Yet we find them
-			both reeking with sexual diseases before this age.</p>
-		<p>According to <person reg="Sanger, William">Sanger</person>'s "<title type="book">History
-				of Prostitution</title>," it is claimed that three-eighths of the prostitutes enter
-			the life before the twentieth year in <place reg="New York, NY">New York City</place>.
-			It is safe to say this is a conservative estimate, for the more recent investigations in
-				<place reg="Chicago, IL">Chicago</place> and other cities show a very much higher
-			percentage. However, this, together with the statistics of venereal diseases mentioned
-			above, show that it is before the boy and girl are sexually mature, that there is the
-			greatest difficulty in directing the impulses and controlling the passions.</p>
-		<p><person reg="Chassaignac, Charles Louis">Chassaignac</person> says that the more healthy
-			and normal an individual is, the better can he not only control his passions, but the
-			less likely is he to be disturbed by continence.</p>
-		<p>Just one more word on the subject of continence, and that is that it is not at all
-			unusual to find men determined to remain continent until they find their ideal woman.
-			Nor for athletes in training engaged in contests, nor for sailors on long sea voyages,
-			and many others for long periods of time is continence impossible; in fact, they are the
-			better for it.</p>
-		<p>This knowledge was not lost sight of in ancient times. Reference is made to it in the
-				<title type="book">Bible</title>, in the sending of women prostitutes into the camps
-			of the enemy the night before an expected battle, in order to exhaust or decease the
-			vitality of the soldiers.</p>
-		<p>When one finds an individual who realizes the force of the sexual impulses and knows how
-			to conserve them, you usually find a person who does not drain or exhaust these forces,
-			but uses them in bigger work.</p>
-		<p>Every girl should look upon the man who indulges freely in the sexual relations as a
-			creature <emph>WITHOUT SOCIAL RESPONSIBILITY</emph>, as a prostitute far more degraded
-			than the unfortunate girl who is compelled to sell her body to sustain life.</p>
-		<p>Every girl should know something about the physical makeup of a boy as well as of her
-			own, for upon the well being of both does the future of the race depend. To be a real
-			mother, a woman must understand a boy's emotions and development, if she would
-			sympathize with him. And when she does understand, she will not send him to buy a woman
-			for physical satisfaction.</p>
-		<p>It is the ignorance of parents together with the silence of the medical profession, which
-			is largely responsible for the terrible spread of venereal diseases which exists
-			today.</p>
-		<p>When a few years ago Dr.<person reg="Morrow, Prince A.">Morrow</person> stated that there
-			is more venereal diseases among innocent virtuous wives, than among prostitutes, this
-			statement should have resounded throughout the walls of every home in the land, instead
-			of which it is kept intact within the covers of large volumes, where only those wearing
-			cap and gown have access to it.</p>
-		<p>It is claimed that out of 1,000 married men in New York 800 have gonorrhea, and 90 per
-			cent of these have not been cured and can infect their wives. The result is that at
-			least three out of every five married women in New York have gonorrhea.</p>
-		<p>This seems astounding and exaggerated, but the following quotation is taken from an
-			authority and is considered quite conservative: "<q who="UNK">Over 90 per cent of our
-				young men stray from the path of virtue before marriage; 60 per cent contract
-				venereal diseases which are difficult to cure; more wives than prostitutes have
-				venereal diseases; one-eighth of all diseases in New York hospitals are venereal;
-				20,000 infected persons walk the streets daily.</q>"</p>
-		<p>It seems to me that the above facts are sufficient to warrant every girl and boy knowing
-			something about these diseases. </p>
-		<p>I shall tell you something of them next week. </p>
-		<trailer>(To be continued.)</trailer>
+		<head>HOW SIX LITTLE CHILDREN WERE TAUGHT THE TRUTH</head>
+		<byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person></byline>
+		<head type="sub">Part V--The Birds and Their Family. (Concluded.)</head>
+		<p>Now that the nest in the horse chestnut tree was completed, Mr. Thrush sat near by
+			waiting to hear the glad news that one egg had come. So the next time Mrs. Thrush went
+			away from the nest for her bath the children pecked into the nest and there saw one
+			speckled egg! The next day another was there, and the next still another.</p>
+		<p>Mr. Thrush was a most interesting father for the children to observe, for he fought off
+			any bird who ventured too near Mrs. Thrush's nest. For birds there are who are too lazy
+			to build their own nests, and boldly take possession of any nest they can. Father Thrush
+			knowing this, was ever on the defensive and ready to fight to protect his wife and
+			little ones. He watched when she went for food--and when at sundown she went to the
+			stream to bathe, he also watched. </p>
+		<p>The Thrushes seemed to do most of their love-making at sundown in song. The song consists
+			of four notes, which the children interpreted as saying, "Do you love me?" And the
+			answer came in three notes, "I love you."</p>
+		<p>If singing meant happiness, Father Thrush was certainly very happy these days. For he
+			seemed to sing more than any of the other birds, except, perhaps, Father Song-Sparrow,
+			who, too, was overjoyed at the arrival of four youngsters.</p>
+		<p>Mother Thrush never answered Father Thrush's musical song while she was waiting for the
+			eggs to hatch--she was very still then always--but he must have taken her love for
+			granted, for he sang on just the same.</p>
+		<p>One day some time later when the children took their usual place under the tree, the air
+			was rent with shrieks and cries from both birds, who flew at them and scolded so shrilly
+			that the children decided it was best to go away, but on watching from a distance they
+			saw Mrs. Thrush bring food in her mouth, and three tiny heads, with open bills, stretch
+			themselves above the nest. They knew now why Mr. and Mrs. Thrush objected to their going
+			so near the nest that day. The children were so excited that it was difficult to keep
+			from going to the nest to see. But when they were reminded of the great care Mr. and
+			Mrs. Thrush had given the eggs, so that they might hatch into little birds, and were
+			told that it would trouble them greatly and excite them to have any one touch the nest,
+			they decided to wait for a better opportunity.</p>
+		<p>It did not come for several days, for Mr. Thrush was a most watchful father. But these
+			Thrush youngsters were developing so fast and had such husky appetites it took both Mr.
+			and Mrs. Thrush busy to keep them fed. So when the parents were off on their hunt for
+			food the children carefully looked into the nest. There they were, three featherless,
+			fearless, funny things, with only knowledge enough to stretch their necks for food.</p>
+		<p>The day that Mrs. Thrush first hurriedly told Mr. Thrush that one scrawny "imp" had come
+			out of its shell, he seemed overjoyed, for he sang all day long, even into the night.
+			This was, perhaps, the most vivid example of a father's joy the children saw. But
+			another case came to their notice of a father bird's devotion--and that was when Mrs.
+			Sparrow deserted her little ones.</p>
+		<p>There was an old apple tree at the back of the house, and in the trunk of this tree Mr.
+			and Mrs. Sparrow had made a home for their children.</p>
+		<p>One morning there was a call of distress from Mr. Sparrow. The children watched him as he
+			flew from tree to tree, and limb to limb, calling--calling in the most plaintive tones.
+			All day he called until the sun went down behind the Palisades, but no mother returned
+			to her children. It was quite decided that Mrs. Sparrow was hurt, or even killed, and
+			great was the excitement over this terrible possibility. After two days of calling and
+			calling Mrs. Sparrow returned--but not alone. The guilty partner of her flight came
+			along, too, and Father Sparrow promptly chased him away, but every time Father Sparrow
+			flew at him and chased him off, Mrs. Sparrow would fly away with him. Then poor Father
+			Sparrow would call and coax and tease and plead with her to return, and she would return
+			just long enough to see the little fledglings, and off she would go with the other
+			sparrow. Each day she returned to see the little ones and trouble the poor father, who
+			was trying so hard to provide for the motherless family.</p>
+		<p>The other birds seemed most sympathetic, and on one occasion Mr. Robin watched the
+			sparrow house while Mr. Sparrow chased the wooer at his wife. This was the last time,
+			for Mrs. Sparrow never returned to her family.</p>
+		<p>No other birds ever went near that tree wherein the lone widower <unclear resp="MSPP"
+				>awaited</unclear>. He seemed greatly respected by the other birds. He taught his
+			little ones to fly and where to find the choicest food in Bobby's garden. The children
+			insisted on caging the cats for a few weeks so that Father Sparrow could not have this
+			extra burden on him. They were of one decided opinion that father love and devotion save
+			that family, and all agreed that it was a most important factor in bringing up a
+			family.</p>
+		<p>This was a most unusual case, and the boys were made to realize its unusualness, for it
+			is VERY SELDOM that a mother ever deserts her young. </p>
+		<p>It was funny to watch the sentiment of these small tots. As soon as Mrs. Sparrow returned
+			for her short intervals the children got bread and worms and all kinds of tempting food
+			in hopes that she would remain with her family. They were willing like Father Sparrow to
+			forgive her, but as soon as she made her preparations to go away instinctively they
+			picked up stones to throw at her so intense was their interest, and it is feared that
+			had not a grown-up been with them something would have happened, for the air was full of
+			whispers, and words like <gap reason="illegible" extent="one word"/> shooters, air
+			rifles, etc. were heard occasionally.</p>
+		<p>However, their attention was diverted to Miss Oriole, who had two young Oriole
+			attendants. Each asked for her love--and she would not decide. How she teased them both,
+			and how desperately she flirted. Of course, the lovers despised each other, but how
+			wonderfully they told her in song of their great love for her, each trying to outdo the
+			other.</p>
+		<p>When no one was about she must have made up her mind to accept one, and it was noticed it
+			was he with the sweetest voice rather than the one with beautiful plumage who won her.
+			He was a most daring and fearless lover and took beautiful care of her while they were
+			waiting for the eggs to hatch.</p>
+		<p>The summer was one lovely long day watching the birds. As the cold weather came on, the
+			birds became fewer--new and strange birds on their way to the South came for food and
+			flew away again.</p>
+		<p>There was no more interesting and charming lesson of paternal love to be learned than
+			among the birds, and it was noticed that no longer was the mother of sole-interest, but
+			the father's habits and life became of interest. The children received their lesson of
+			father love, through the birds.</p>
+		<p>Where the father flowers, fish and frogs gave themselves no concern over the young, here
+			was a higher creature, whose love of offspring was not purely physical, but represented
+			something higher in his makeup. This was not only the desire to procreate, but to
+			protect and care for his offspring after their creation.</p>
+		<p>It was not until all the familiar birds had gone that their thoughts of higher stage, the
+			mammals.</p>
+		<p>And these you shall hear in the next lesson.</p>
 	</docBody>
 </doc>

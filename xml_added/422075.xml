@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+	<mepHeader>
+		<prepDate>2015-05-27 MC encoded and transcribed</prepDate>
+		<prepDate>2015-06-10 CH proofread tags</prepDate>
+		<prepDate>2015-07-14 EK correct proof and update index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1922-01-24">
+			<supplied resp="MSPP">24 Jan 1922</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Plans for Japan and China</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422075</idno>
+		<sourceDesc>
+			<bibl><title type="article">"Protection Planned at Birth Control Talk"</title>, <title
+					type="journal">New York Times</title>, Jan. 25, 1922, p. 36</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+			<name id="NYT">New York Times</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control" level2="opposition to"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (China)"/>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="Japan" level2="birth control clinics and leagues"/>
+		<index level1="China" level2="birth control in"/>
+	</headNote>
+	<docBody>
+		<head>PROTECTION PLANNED AT BIRTH CONTROL TALK</head>
+		<p>
+			<q who="NYT">When Mrs. Margaret Sanger speaks on birth control in the <org>Lexington
+					Avenue Opera House</org> on Feb. 5 she will be surrounded by a committee of men
+				and women who expect to see that she gets a hearing, that there is no unlawful
+				interference and who will be ready to qualify as witnesses in case of trouble. The
+				meeting will be a farewell demonstration for Mrs. Sanger, who announced yesterday
+				that she soon would sail on a three monthS lecture tour of <place>China</place> and
+					<place>Japan</place>. Arrangements were made yesterday at a meeting of those
+				interested in the subject at the home of Mrs. <person reg="Rublee, Juliet Barrett"
+					>Juliet B. Rublee</person>, 242 East Forty-ninth Street.</q>
+		</p>
+		<p>"My plans," <q who="NYT">said Mrs. Sanger,</q> "have been made for a three months' tour
+			of Japan. I am requested to lecture in several universities throughout both Japan and
+			China. There have been during the last year and a half more than twenty-five
+			representatives of the Japanese government who have made world tours, seeking solutions
+			for Japan's immediate problems. I am informed that twenty-one of the twenty-five
+			investigators have returned to Japan with the message that the birth control movement in
+				<place reg="United States">America</place> has a most important message in the world
+			today and one which Japan should listen to with open mind. </p>
+		<p>"I am, therefore, invited to come there under the auspices of a <org reg="Kaizo"
+				>group</org> of patriotic citizens. I am informed that there is a great deal of
+			interest and preparation being made for my coming. The <person
+				reg="Ishimoto, Shidzue Kato">Baroness Ishimoto</person> is anxious that I shall give
+			her instruction on how to open birth control clinics for the poor women of Japan.</p>
+		<p>"I am also requested to go to China, and arrangements are being made by some of the
+			officials who represented China at the <org reg="Washington Naval Conference"
+				>disarmament conference.</org>"</p>
+		<p><q who="NYT">The announcement by Commissioner of Accounts <person reg="Hirshfield, David"
+					>David Hirshfield</person> that he would investigate birth control along with
+				alleged police interference has pleased advocates of the plan, for they believe that
+				the Commissioner will accomplish what they are trying to do--get the subject before
+				the people</q>.</p>
+	</docBody>
+</doc>

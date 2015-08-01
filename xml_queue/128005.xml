@@ -4,13 +4,14 @@
 	<mepHeader>
 		<prepDate>2014-06-24 MM</prepDate>
 		<prepDate>2015-01-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-06-16 EK update index</prepDate>
 		<docAuthor>
 			<person rend="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1914-10-28">28 Oct 1914</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Letter to Women Rebel Subscribers</supplied>
+				<supplied resp="MSPP">Letter to Woman Rebel Subscribers</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp128005</idno>
@@ -28,11 +29,18 @@
 		<p>Sanger sent this letter to the subscribers of <title type="journal">The Woman
 				Rebel</title> before she fled the <place>United States</place> to avoid prosecution
 			for obscenity. </p>
+		<index level1="abortion" level2="frequency of"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
+		<index level1="censorship"/>
 		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
-		<index level1="United States" level2="Post Office"/>
-		<index level1="Comstock Laws"/>
+		<index level1="United States Postal Service"/>
+		<index level1="working classes" level2="and birth control"/>
+		<index level1="women and girls" level2="working class"/>
+		<index level1="women and girls" level2="and birth control"/>
 		<index level1="quackery"/>
+		<index level1="law breaking and direct action" level2="MS on"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
 	</headNote>
 	<docBody>
 		<dateline>
@@ -45,7 +53,7 @@
 			information of the prevention of conception. It was not the intention to labor on for
 			years advocating the idea, but to give the information directly to those who desired it.
 			The March, May, July, August, September, and October issues have been suppressed and
-			confiscated by the <org reg="United States Post Office">Post Office</org>. They have
+			confiscated by the <org reg="United States Postal Service">Post Office</org>. They have
 			been mailed regularly to all subscribers. If you have not received your copies, it has
 			been because the <org>U.S. Post Office</org> has refused to carry them on to you. </p>
 		<p>My work on the nursing field for the past fourteen years has convinced me that the

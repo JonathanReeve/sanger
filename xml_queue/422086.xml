@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-28 LH encoded and transcribed</prepDate>
+		<prepDate>2015-06-25 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1933-02-17">17 Feb 1933</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Senate Judiciary Committee</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422086</idno>
+		<sourceDesc>
+			<bibl><title type="article">Advocate of Birth Control Rejoices</title>, <title
+					type="journal">Bluefield Daily Telegraph</title>, Feb 18 1933</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDT">Bluefield Daily Telegraph</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="United States Congress" level2="Senate"/>
+		<index level1="birth control laws and legislation" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>ADVOCATE OF BIRTH CONTROL REJOICES</head>
+		<dateline><place reg="Washington, DC">Washington</place>, <date value="1933-02-17"> Feb.
+				17</date> 9<org reg="Associated Press">AP</org>)--</dateline>
+		<p><q who="BDE">Mrs. Margaret Sanger, campaigner for a law to legalize dissemination of
+				birth control information, today bailed the results of a poll of the <org
+					reg="United States Senate Committee on the Judiciary">senate judiciary
+					committee</org> as a big advance for her cause and</q> "the best showing thus
+			far made."</p>
+		<p>
+			<q who="BDE"> The result was nine against, six for, and two not voting.</q>
+		</p>
+		<p>
+			<q who="BDE">Listed as voting for such legislation were Chairman <person
+					reg="Norris, George
+			William">Norris</person>, and Senators <person
+					reg="Robinson, Arthur Raymond">Robinson</person> of <place>Indiana</place>;
+					<person reg="Hastings, Daniel O.">Hastings</person>, <person
+					reg="Schall, Thomas David">Schall</person>, <person
+					reg="Schuyler, Karl Cortlandt">Schuyler</person> and <person
+					reg="Black, Hugo L.">Black</person>. Against it were Senators <person
+					reg="H&eacute;bert, Felix">H&eacute;rbert</person>, <person
+					reg="Austin, Warren Robinson">Austin</person>, <person
+					reg="Ashurst, Henry Fountain">Ashurst</person>, <person
+					reg="Walsh, David Ignatius">Walsh</person>, <person reg="King, William Henry"
+					>King</person>, <person reg="Stephens, Hubert Durrett">Stephens</person>,
+					<person reg="Dill, Clarence Cleveland">Bill</person>, <person
+					reg="Bratton, Sam Gilbert">Bratton</person>, and <person
+					reg="Neely, Matthew Mansfield">Neely</person>. Those reported as not voting were
+				Senators <person reg="Borah, William Edgar">Borah</person> and <person
+					reg="Blaine, John James">Blaine</person>.</q>
+		</p>
+		<p> "The poll by the judiciary shows an increasing understanding of what the subject means,
+			and better than all it shows an increase of courage on the part of legislators to
+			publicly go on record for what they think in private," <q who="BDE">said Mrs.
+				Sanger.</q> "this is the best vote we ever had."</p>
+		<p>"I have made a most careful check of that committee, all married men, and find that among
+			the seventeen members are thirty-four children, an average of two children each." </p>
+		<p>"Some have more, several have none, but the low average is a point, I think, that bears
+			on the courage of public expression of personal opinion."</p>
+		<p><q who="BDE"> Mrs. Sanger said that in the </q> "long picture" <q who="BDE"> of her
+				cause, she counted the progress she felt she had made in congress the high point of
+				a</q> "most victorious year."</p>
+		<p>"No longer can there be a claim there is an overabundance in the land and we need an
+			increasing population to consume it, in the face of the <org>American Federation of
+				Labor</org> estimates that twelve million are jobless, forty five millions in
+			poverty."</p>
+		<p> "I confidently predict that within five years it will be unnecessary for physicians to
+			bootleg information and supplies on which the health and happiness of a whole nation
+			depends."</p>
+	</docBody>
+</doc>

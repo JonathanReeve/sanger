@@ -7,6 +7,7 @@
 		<prepDate>2014-05-05 CH cleaning confusing issues</prepDate>
 		<prepDate>2015-01-15 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-07-10 EK correct proof and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -20,9 +21,9 @@
 		</docTitle>
 		<idno>msp224706</idno>
 		<sourceDesc>
-			<bibl>Florence Rose Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
-				S70:0758</bibl>
+			<bibl>Florence Rose Papers, Sophia Smith Collection, Smith College,</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections,</title>
+				S70:0778</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -32,36 +33,53 @@
 	<headNote resp="MSPP">
 		<p>This is a partial draft of a speech Margaret Sanger likely gave in
 				<place>Connecticut</place>, possibly for the <org>Bridgeport Council of Jewish
-				Women</org>, at the <org>Liberty Building</org>'s Business and Professional Women's
-			Club Assembly Room. She was introduced by <person reg="Capitman, Frances N.">Frances N.
-				Capitman</person>, president of the Council. For a related document see "<xref
-				from="101790.xml">The ABC's of Birth Control</xref>," 1923. For coverage of this
-			speech see "<title type="article">Women Jam Hall to Hear Address on Birth
-				Control</title>," <title type="journal">Bridgeport Courier</title>, Mar. 6, 1923, p.
-			1.</p>
-		<index level1="abortion" level2="MS on"/>
-		<index level1="birth control" level2="economic benefits and risks of"/>
-		<index level1="birth control" level2="health benefits and risks"/>
-		<index level1="birth control" level2="in marriages"/>
+				Women</org>. at the <org>Liberty Building</org>'s Business and Professional Women's
+			Club Assembly Room. She was introduced by Council president <person
+				reg="Capitman, Frances N.">Frances N. Capitman</person>, president of the Council.
+			For a related document see "<xref from="101790.xml">The ABC's of Birth Control</xref>,"
+			1923. For coverage of this speech see "<title type="article">Women Jam Hall to Hear
+				Address on Birth Control</title>," <title type="journal">Bridgeport Courier</title>,
+			Mar. 6, 1923, p. 1-2.</p>
 		<index level1="birth control" level2="morality of"/>
-		<index level1="birth control" level2="movement" level3="American"/>
-		<index level1="children" level2="rights of"/>
-		<index level1="children" level2="unwanted"/>
-		<index level1="family planning"/>
-		<index level1="family size"/>
-		<index level1="family size" level2="class-based"/>
-		<index level1="family size" level2="men and"/>
-		<index level1="physicaly disabled and diseased" level2="birth control and"/>
-		<index level1="marriage age" level2="women"/>
-		<index level1="motherhood"/>
-		<index level1="motherhood" level2="consripted"/>
-		<index level1="unfit to reproduce" level2="descriptions of"/>
-		<index level1="venereal disease" level2="syphilis"/>
-		<index level1="women" level2="maternal feelings"/>
+		<index level1="adolescence"/>
+		<index level1="motherhood" level2="MS on"/>
+		<index level1="motherhood" level2="responsibilities of"/>
+		<index level1="abortion" level2="MS on"/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="abortion" level2="laws and legislation"/>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="infanticide"/>
+		<index level1="childbirth" level2="health risks"/>
+		<index level1="child spacing"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="birth control methods"/>
+		<index level1="birth control methods" level2="continence"/>
+		<index level1="marriage" level2="age at"/>
+		<index level1="marriage" level2="and birth control"/>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control movement" level2="American"/>
+		<index level1="unfit to reproduce" level2="as social burdens"/>
+		<index level1="unfit to reproduce" level2="definitions of"/>
+		<index level1="unfit to reproduce" level2="MS on"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="responsibilities of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="sex and sexuality" level2="and marriage"/>
+		<index level1="birth control" level2="propaganda and publicity"/>
+		<index level1="working classes" level2="and birth control"/>
+		<index level1="working classes" level2="and family size"/>
+		<index level1="labor movement" level2="MS on"/>
+		<index level1="World War I" level2="and population size"/>
+		<index level1="venereal disease"/>
+		<index level1="socialism and socialists" level2="MS on"/>
+		<index level1="eugenics" level2="negative"/>
+		<index level1="family size" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<p>
-			<gap reason="missing" extent="six pages"/>
+			<gap reason="missing" extent="First six pages"/>
 		</p>
 		<p>There are conditions in which a woman should not bear children at all. These conditions
 			may exist either in herself or in the man to whom she is married. Such conditions are
@@ -74,7 +92,7 @@
 			have died before parenthood. They do not bequeath tuberculosis to their children
 			directly, but the children probably inherit a greater liability to the disease than the
 			children of normal parents.</p>
-		<p>Syphilis can be inherited--“<q who="BIB">unto the third and fourth generation</q>”. There
+		<p>Syphilis can be inherited--“<q who="BIB">unto the third and fourth generation.</q>” There
 			is no prenatal force which is so murderous for infants as this dread form of venereal
 			disease. The babies in any syphilitic ward of a children’s hospital form a heart-rending
 			spectacle--quite sufficient to convince any reasonable creature that breeding from a
@@ -104,23 +122,22 @@
 			are again two points of view from which to judge the matter--the point of view of
 			society, and the point of view of the woman herself. Fortunately the decision from both
 			points of view is usually in close agreement; because what is bad for the woman is
-			usually bad for society; and society is only benefited by the addition to its numbers of
-			healthy, well nourished and well reared children.</p>
+			usually bad for society; and society is only benefitted by the addition to its numbers
+			of healthy, well nourished and well reared children.</p>
 		<p>The bearing of children by very young mothers is not <del>eugenic</del>
 			<add><del>wanted</del></add>
 			<add>desirable</add>. As soon as pregnancy begins the mother’s own development is
-			arrested. <del>A</del> The child mother is therefore stunted in growth <del>bothin</del>
-			<add>both in</add> mind and body. She remains a child and never attains to the level to
-			which her innate powers and inherited possibilities would have tended. Every breeder of
-			animals understands this natural law, and keeps his young heifers or mares from breeding
-			until they are grown and developed and ready for the strain. It is commonly asserted
-			that women mature earlier than men, and that in <place reg="Asia">oriental
-				countries</place> they are ready for marriage at a much younger age than in the
-				<place>United States</place>. But it should be remembered that maturity of a kind
-			comes with arrested development for either boy or girl, and the longer girlhood and
-			later maturity of the American boys and girls who are given longer education and freedom
-			from responsibility shed considerable light on the forcing process which <add>for so
-				long</add> has made women <del>for so long</del> out of really immature girls.</p>
+			arrested. The child mother is therefore stunted in growth <del>bothin</del> both in mind
+			and body. She remains a child and never attains to the level to which her innate powers
+			and inherited possibilities would have tended. Every breeder of animals understands this
+			natural law, and keeps his young heifers or mares from breeding until they are grown and
+			developed and ready for the strain. It is commonly asserted that women mature earlier
+			than men, and that in <place reg="Asia">oriental countries</place> they are ready for
+			marriage at a much younger age than in the <place>United States</place>. But it should
+			be remembered that maturity of a kind comes with arrested development for either boy or
+			girl, and the longer girlhood and later maturity of the American boys and girls who are
+			given longer education and freedom from responsibility shed considerable light on the
+			forcing process which has made women for so long out of really immature girls.</p>
 		<p>For the sake of the children, as well as for the sake of her own possibility of
 			developing all that is in her, a girl should not become a mother before she is
 			twenty-two years old. In America girls are not fully ready for motherhood before they
@@ -138,15 +155,15 @@
 			mother’s own body and this process, repeated time after time, makes a woman old long
 			before her years, drains her of health and strength and all capacity for enjoyment and
 			reduces her to the drudge who loses all her influence over her swarming brood of
-			children. The large families of such necessarily incompetent mothers are more
-				like<add>ly</add> to be a burden to society than an asset; and it is out of such
-			homes that we get our supply of criminals and prostitutes.</p>
+			children. The large families of such necessarily incompetent mothers are more likely to
+			be a burden to society than an asset; and it is out of such homes that we get our supply
+			of criminals and prostitutes.</p>
 		<p>So far we have considered only the health aspects. There remains the very important
 			question of the economic status of the family into which the child is to be born.
 			Overpopulation of a country is not at base a general or national question. It is the
 			definite result of too many children in the family of Mr. and Mrs. A and too many in the
 			family of Mr. and Mrs. B. It is <del>all</del>
-			<add>the sum of</add> these little “too manies” that make the problem for the statesmen
+			<add>the sum of</add> these little “too manys” that make the problem for the statesmen
 			who see that there is no longer room in a country for all the progeny of its people.</p>
 		<p>There would be no such problem if <add>each</add> Mr. and Mrs. X had limited the number
 			of their children to the few that they could afford to rear--to feed and clothe, to
@@ -177,7 +194,7 @@
 			weighs most heavily. It is she who has to make a home out of the sordid tenement, and to
 			find room for the living and sleeping of all the members of the family. It is she who
 			has to make the scanty wages cover the ever-increasing needs of the family. It is she
-			who first feels the pangs of hunger-- even though she may all the time be carrying
+			who first feels the pangs of hunger--even though she may all the time be carrying
 			another new life under her heart. The pregnant woman should be well fed, or both she and
 			the infant will suffer. But the mother will not and cannot feed herself sufficiently
 			while husband and children go hungry. The man’s hours of labor are probably protected by
@@ -193,9 +210,8 @@
 			willing to acknowledge that the only solution of its difficulties lies in the limitation
 			of families, and that until this done, and done by the workers themselves, other
 			remedies for low wages long hours, and oppressive conditions are palliatives. They may
-			do considerable good, but the incoming horde of workers is ever threatening
-				the<del>n</del><add>ir</add>
-			<add>stability</add> and labor can never be secure in its victories until it is safe
+			do considerable good, but the incoming horde of workers is ever threatening their
+				<add>stability</add> and labor can never be secure in its victories until it is safe
 			from this ever-increasing competition from its own children.</p>
 		<p>The theories of Socialists and the attacks upon capitalism have served to absorb the
 			minds of the Labor leaders and to distract their attention from the basal cause of their
@@ -205,14 +221,14 @@
 			to share them with ever-increasing numbers.</p>
 		<p>The trade unions, especially those of highly skilled workers recognize the relation
 			between high wages and small numbers. They have steadily fought for the limitation of
-			the number of apprentice, and for making conditions of entrance into their unions
+			the number of apprentices, and for making conditions of entrance into their unions
 			difficult. But these same men have apparently not recognized the general solidarity of
 			labor, nor the fact that the uncontrolled entry into the ranks of labor of the younger
 			generation makes ever more difficult the maintenance of the advantages they have secured
 			for themselves. Even if their policy secures their own livelihood, it does nothing to
 			open up opportunities for their children who must find places for themselves in the
 			working world.</p>
-		<p>As for “free” labor generally -- we have only to look at the state of the world after the
+		<p>As for “free” labor generally--we have only to look at the state of the world after the
 			close of the great war. Millions of the most perfect physically, the most capable and
 			most intelligent of the young men of all the belligerent countries were killed or
 			entirely disabled during the titanic struggle. There was a feeling during the war that
@@ -220,11 +236,10 @@
 			remained to produce more per man then ever before. Yet within three years unemployment
 			was the most striking fact that faced the workers, and in the winter of 1921-22, in
 				<place reg="United States">America</place>, the richest country in the world, and
-				<del>the</del>
-			<add>a </add>country which had suffered nothing from the ravages of war, there instances
-			of more than a hundred men applying for a single job of unskilled labor, and other
-			instances of men, highly skilled in some trade, who from no fault of their own were
-			begging the opportunity to earn a little by shoveling snow in the city streets.</p>
+				<del>the</del> a country which had suffered nothing from the ravages of war, there
+			instances of more than a hundred men applying for a single job of unskilled labor, and
+			other instances of men, highly skilled in some trade, who from no fault of their own
+			were begging the opportunity to earn a little by shoveling snow in the city streets.</p>
 		<p>It is not only men who are competing against each other, and making more difficult the
 			struggle for each of them. Large families mean child labor, and the children become the
 			means of forcing down the wages of their parents. With a family of two or three children
@@ -237,11 +252,11 @@
 			is also the necessity for her to go out and earn something to eke out the family income.
 			She is needed at home. The children will suffer from neglect if she goes to work. But
 			the family must eat, and the greater need takes precedence. If she is still of child
-			bearing age-- and it is the woman still bearing children, whose family, on account of
-			the youth of the elder children, most needs the earning power of the mother. <add>out
-				H</add>er health will probably break under the strain. Such a consideration cannot
-			deter her. She goes to work under the lash of absolute necessity.</p>
-		<p>These competitors in the labor market-- the women and the children-- are unskilled and
+			bearing age--and it is the woman still bearing children, whose family, on account of the
+			youth of the elder children, most needs the earning power of the mother. Her health will
+			probably break under the strain. Such a consideration cannot deter her. She goes to work
+			under the lash of absolute necessity.</p>
+		<p>These competitors in the labor market--the women and the children--are unskilled and
 			unorganized. They are obliged to take low wages, in most cases any wage that the
 			employer may offer, and thus their competition brings down the general level of
 			unskilled labor. So runs the vicious circle--large families forcing more workers into
@@ -286,16 +301,15 @@
 		<p>To claim that it is perfectly right to allow a thousand ova to go to waste naturally, but
 			wrong to prevent designedly the fertilization of the one thousand and first, is a
 			proposition too absurd for serious consideration. To avoid child bearing by preventing
-			the coming together of the male and female reproductive elements if what is done
+			the coming together of the male and female reproductive elements is what is done
 			continually by the unmarried and widowed and by faithful husbands and wives absent from
 			each other. To carry this process further and prevent conception when married people are
 			living together is the problem that science is now solving, and <del>in</del>
-			<add>with</add> the solution she is making man master of his own fate <del>as he is
-				already master</del>, as he is already master of almost every other natural
-			force.</p>
+			<add>with</add> the solution she is making man master of his own fate, as he is already
+			master of almost every other natural force.</p>
 		<p>Until modern science made known the exact nature of the vitalizing seminal fluid and of
 			the ova of the female, there seemed only one way in which the prevention of conception
-			could be carried out. That was by continence-- strict limitation of sexual relations to
+			could be carried out. That was by continence--strict limitation of sexual relations to
 			the very few occasions when procreation of a child was desired. There are still many
 			advocates of continence as the only really moral method of birth control. Such advocates
 			are making a demand of human nature which is beyond the power of the average man and
@@ -306,17 +320,16 @@
 			marriage and the closer the affection and sympathy between husband and wife, the more
 			intolerable the strain of continence enforced in order to avoid the bearing of too many
 			children. The restraint which is necessary for such continence produces the most
-				marked<add>ly</add> evil effects on both the man and woman. The man probably suffers
-			from such continence most severely, and there are few men of normally strong sexual
-			emotions who can stand it for any length of time without developing nervous or even
-			mental disorders. Continence may be possible and consistent with health for a very few
-			abnormal men, and a small proportion of women. But it offers no solution for the great
-			problem of the too-large family, because it is a course of conduct utterly impossible to
-			enforce, and highly detrimental to health and happiness if it could be consistently
-			adhered to.</p>
+			markedly evil effects on both the man and woman. The man probably suffers from such
+			continence most severely, and there are few men of normally strong sexual emotions who
+			can stand it for any length of time without developing nervous or even mental disorders.
+			Continence may be possible and consistent with health for a very few abnormal men, and a
+			small proportion of women. But it offers no solution for the great problem of the
+			too-large family, because it is a course of conduct utterly impossible to enforce, and
+			highly detrimental to health and happiness if it could be consistently adhered to.</p>
 		<p>Nor is it necessary to impose this hardship on married people in order that they may be
 			enabled to control the number of their children. The only thing necessary is to prevent
-			the coming together of the vitalizing male principle and the ovum, and means of
+			the coming together of the vitalizing male principle and the ovum, and means for 
 			preventing this are not beyond the reach of intelligent human beings. As yet there has
 			been little careful scientific research into the subject and it may be that the methods
 			hitherto used will soon appear crude and clumsy. The object of the advocates of Birth
@@ -333,7 +346,6 @@
 			to bring into the world a child who will cause her grief instead of joy, and be to her
 			the deepest humiliation that a human being can know instead of the crown of glory of
 			true and happy maternity.</p>
-
 
 	</docBody>
 </doc>

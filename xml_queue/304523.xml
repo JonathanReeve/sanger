@@ -21,7 +21,8 @@
 		<idno>msp304523</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, July 1919, pp. 3-4</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:123</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:123</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -46,8 +47,7 @@
 	<docBody>
 		<head>Vanderlip's Speech--A Warning Note</head>
 		<byline>
-			<emph rend="italics">An Editorial by Margaret
-					Sanger</emph>
+			<emph rend="italics">An Editorial by Margaret Sanger</emph>
 		</byline>
 		<p>The birth control movement in <place reg="United States">America</place> has heretofore
 			centered its interest upon two points. The first of these is woman's freedom. The other
@@ -88,7 +88,7 @@
 				She probably does not raise a very great amount more food than she did a hundred
 				years ago. How has she fed those people?...</q>"</p>
 		<p rend="blockquote">"<q who="VANFR"><emph rend="italics">The <org
-						reg="United Kingdom Goverment">British government</org> will have to get
+						reg="United Kingdom Government">British government</org> will have to get
 					five or six million Englishmen out of England and nearer to the source of the
 					food supply.</emph> It is that fact that we must grasp; that these industries
 				must be kept going in these highly industrialized European countries if the people
@@ -134,8 +134,8 @@
 			the <place>Philippines</place>, <place reg="Puerto Rico">Porto Rico</place>, and why
 			have we virtually held a protectorate over <place>Cuba</place>? Why is American capital
 			so interested in <place>Mexico</place>? Why is it that we go to <place>South
-				America</place> for much of our meat supply--and only within the past few years?
-			Why do American packers control much of the cattle and most of the packing industry in
+				America</place> for much of our meat supply--and only within the past few years? Why
+			do American packers control much of the cattle and most of the packing industry in
 				<place>South America</place>? What is the meaning of our heavy importations of rice?
 			Is our situation different from that of England, except in degree?</p>
 		<p>A look at our populations statistics may shed some light upon the question. In 1880 our

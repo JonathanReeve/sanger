@@ -26,22 +26,22 @@
 	<headNote resp="MSPP">
 		<p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
 			see <xref from="320973.xml"><title type="article">Birth Control, 1941</title></xref>;
-			<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
-			<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
-			<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
-			<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
-			<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
-			<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
-			<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
-			<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
-			<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
-			<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
-			<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
-			<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
-			<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
-			<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
-			<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
-			<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
+				<xref from="320974.xml"><title type="article">Birth Control, 1942</title></xref>;
+				<xref from="320975.xml"><title type="article">Birth Control, 1943</title></xref>;
+				<xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
+				<xref from="421953.xml"><title type="article">Birth Control, 1945</title></xref>;
+				<xref from="320978.xml"><title type="article">Birth Control, 1946</title></xref>;
+				<xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
+				<xref from="320981.xml"><title type="article">Birth Control, 1949</title></xref>;
+				<xref from="321980.xml"><title type="article">Birth Control, 1950</title></xref>;
+				<xref from="320983.xml"><title type="article">Birth Control, 1951</title></xref>;
+				<xref from="320984.xml"><title type="article">Birth Control, 1952</title></xref>;
+				<xref from="321984.xml"><title type="article">Birth Control, 1953</title></xref>;
+				<xref from="320985.xml"><title type="article">Birth Control, 1954</title></xref>;
+				<xref from="320986.xml"><title type="article">Birth Control, 1955</title></xref>;
+				<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
+				<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
+				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
 		<p>For a typed draft of the article, see <title>Margaret Sanger Microfilm</title>,
 			S72:575.</p>
 		<index level1="birth control" level2="American opinion on"/>
@@ -93,12 +93,12 @@
 				established with headquarters in <place reg="London, England">London</place>. Its
 				purpose was “<q who="ICPP">to promote research and education for the furthering of
 					human welfare through planned parenthood and progressive sex education</q>.”
-				Members were the national Planned Parenthood organizations of <place><org
-						reg="Family Planning Association">Great Britain</org></place>, the
-						<place><org reg="Nederlandse Vereniging voor Sexuele Hervorming"
-						>Netherlands</org></place>, <place><org
-						reg="Riksf&ouml;rbundet f&ouml;r Sexeull Upplysning">Sweden</org></place>
-				and the <place>United States</place>, the only four nations where such agencies
+				Members were the national <org reg="Family Planning Association">Planned Parenthood
+					organizations</org> of <place>Great Britain</place>, the <org
+					reg="Nederlandse Vereniging voor Sexuele Hervorming"
+					><place>Netherlands</place></org>, <place><org
+						reg="Riksforbundet for Sexeull Upplysning">Sweden</org></place> and the
+					<place>United States</place>, the only four nations where such agencies
 				existed.</p>
 		</div>
 		<div type="section">
@@ -136,9 +136,10 @@
 				physician, required it, was defeated by 200,000 votes in the Massachusetts
 				election.</p>
 			<p>The measure, which aimed to place contraceptive advice in the hands of the medical
-				profession, was endorsed by a majority of resident members of the <org>Massachusetts
-					Medical society</org> and by more than 1,000 Protestant and Jewish clergymen.
-				Four thousand voters in 300 local committees campaigned to repeal the state law.</p>
+				profession, was endorsed by a majority of resident members of the <org
+					reg="Massachusetts Medical Society">Massachusetts Medical society</org> and by
+				more than 1,000 Protestant and Jewish clergymen. Four thousand voters in 300 local
+				committees campaigned to repeal the state law.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Organization.–</head>
@@ -148,7 +149,7 @@
 				clinics, 210 extramural clinics and 43 referral services. Of the 58 fertility
 				clinics in the U.S. listed with the federation, 13 were under Planned Parenthood
 				direction.</p>
-			<byline>(<person reg="Sanger, Margaret">M.SR</person>.)</byline>
+			<byline>(M.SR.)</byline>
 		</div>
 	</docBody>
 </doc>

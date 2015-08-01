@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014/04/02 EK</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-10 EK update index</prepDate><prepDate>2015-07-22 CH clean up titles, quotes, and correct errors</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,37 +29,49 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger published this pamphlet in England around January 1915. It was preceded by <xref
-				from="301756.xml">Family Limition</xref>, Sept. 1914 and followed by <xref
-				from="101920.xml">Dutch Methods of Birth Control</xref>, ca. Mar.-Apr. 1915, and
-				<xref from="129014.xml">Magnetation Methods of Birth Control</xref>, ca. Aug.
-			1915.</p>
+		<p>Sanger published this pamphlet in <place>England</place> around January 1915. It was
+			preceded by <xref from="301756.xml"><title type="book">Family Limition</title></xref>,
+			Sept. 1914 and followed by <xref from="101920.xml"><title type="book">Dutch Methods of
+					Birth Control</title></xref>, ca. Mar.-Apr. 1915, and <xref from="129014.xml"
+					><title type="book">Magnetation Methods of Birth Control</title></xref>, ca.
+			Aug. 1915.</p>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="frequency of"/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="birth control" level2="methods" level3="pessaries"/>
-		<index level1="birth control" level2="methods" level3="douches"/>
-		<index level1="birth control" level2="methods" level3="withdrawal"/>
-		<index level1="birth control" level2="methods" level3="efficacy of"/>
-		<index level1="birth control" level2="health benefits and risks of"/>
-		<index level1="abortion" level2="MS on"/>
+		<index level1="birth control methods" level2="pessaries"/>
+		<index level1="birth control methods" level2="douche"/>
+		<index level1="birth control methods" level2="withdrawal"/>
+		<index level1="birth control methods" level2="efficacy of"/>
+		<index level1="birth control methods" level2="safe period"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="Sanger, Margaret" level2="books"
+			level3="//English Methods of Birth Control//"/>
+		<index level1="child spacing"/>
+		<index level1="reproduction"/>
+		<index level1="working classes" level2="and birth control"/>
+		<index level1="family size" level2="MS on"/>
+		<index level1="family size" level2="and poverty"/>
 	</headNote>
 	<docBody>
 		<head>ENGLISH METHODS OF BIRTH CONTROL</head>
 		<byline>By MARGARET H. SANGER</byline>
 		<div type="section">
-			<p>This pamphlet is drawn up on lines similar to the leaflet called <title type="book"
-					>“Hygienic Methods of Family Limitation,”</title> adopted by the <org>Malthusian
+			<p>This pamphlet is drawn up on lines similar to the leaflet called "<title type="book"
+				>Hygienic Methods of Family Limitation</title>," adopted by the <org>Malthusian
 					League</org> of <place>England</place>.</p>
 			<p>The League sends this leaflet to all persons married or about to be married, who
 				apply for it, in all countries of the world, except to applicants from the <place
 					reg="United States">United States of America</place>, where the Postal Laws will
 				not allow of its delivery.</p>
 			<p>The methods printed herein are taken from the League’s leaflet; they are to a great
-				extent a duplication of the methods contained in the preceding pamphlet, “<title
-					type="book">Family Limitation</title>”; but it is my desire to give the
-				subscribers of the <title type="journal">“Woman Rebel”</title> and other applicants
+				extent a duplication of the methods contained in the preceding pamphlet, "<title
+					type="book">Family Limitation</title>"; but it is my desire to give the
+				subscribers of the <title type="journal">"Woman Rebel"</title> and other applicants
 				for this knowledge, all known methods employed by the different Leagues in the
 				various countries of the world. </p>
-			<p>The <org>Malthusian League</org> had no knowledge of this pamphlet, nor is
+			<p>The Malthusian League had no knowledge of this pamphlet, nor is
 				responsible for its publication in any way.</p>
 			<p> M. H. S. </p>
 		</div>
@@ -93,11 +106,11 @@
 			<head type="sub">ARE PREVENTIVE METHODS INJURIOUS TO HEALTH?</head>
 			<p>One of the questions quite commonly asked by women and men who are fearful of using
 				preventives is: "<q who="UNK">Will preventive methods injure the health of either
-					the man or the woman?</q>” </p>
+					the man or the woman?</q>" </p>
 			<p>A prominent authority, <person reg="Wille, Bruno">Wille</person> (as quoted by
-					<person reg="Kisch, Heinrich">Kisch</person>), maintains “<q who="WILBE">that
+					<person reg="Kisch, Heinrich">Kisch</person>), maintains "<q who="WILBE">that
 					the continued fear of pregnancy will in most cases do more injury to the
-					feminine system than all the preventive measures in the world.</q>” </p>
+					feminine system than all the preventive measures in the world.</q>" </p>
 			<p>It is further claimed by some physicians that to a nervously weak woman a preventive
 				method is almost necessary, and even helpful in regaining her health; but that much
 				depends upon the kind of method employed is not doubted.</p>
@@ -111,14 +124,14 @@
 				cheapest, but as most beneficial.</p>
 			<p>Another question which has arisen in late years is the possibility that preventive
 				methods have caused cancer. There is very little foundation for this assertion.</p>
-			<p>The constant use of the pessary, worn from month to month, or the “<q>uterus
-					button</q>,” worn by women in the Western States, or any mechanical means worn
+			<p>The constant use of the pessary, worn from month to month, or the "<q>uterus
+					button</q>," worn by women in the Western States, or any mechanical means worn
 				constantly, might give rise to an irritation which could lead to the growth of
 				cancer. But the temporary use of either of these would without doubt be quite
 				harmless. By temporary use, I mean the use of either only when needed, followed by
 				their removal.</p>
 			<p>In employing any preventive measures there is almost no danger to the man at all,
-				even the habit of “<q>coitus interruptus,</q>” or withdrawal, which is the most
+				even the habit of "<q>coitus interruptus,</q>" or withdrawal, which is the most
 				common method practiced everywhere, is not considered as dangerous to the man’s
 				health, as some authorities formerly viewed it; but, on the other hand, is
 				considered by the most prominent authorities as injurious to the woman’s nervous
@@ -127,19 +140,19 @@
 					Forel</person>, Heinrich Kisch, <person reg="von Krafft-Ebing, Richard">Von
 					Krafft-Ebing</person>, <person reg="Mensinga, Wilhelm">Mensinga</person>,
 					<person reg="Hirt, Ludwig">Hirt</person>, <person reg="Freud, Sigmund"
-					>Freud</person>, <person reg="L&ouml;wenfeld, Leopold">Löwenfeld</person>,
-					<person reg="Elischer, Julius">Elischer,</person>
+					>Freud</person>, <person reg="Lowenfeld, Leopold">Löwenfeld</person>, <person
+					reg="Elischer, Julius">Elischer,</person>
 				<person reg="Ellis, Havelock">Havelock Ellis</person>, and many others.</p>
-			<p>In the preceding pamphlet on "<title type="book">Family Limitation,</title>” I have
+			<p>In the preceding pamphlet on "<title type="book">Family Limitation</title>," I have
 				explained this habit and the effects it has upon women, and shall not dwell upon it
-				here. It is sufficient to say that “<foreign lang="LAT">coitus
-				interruptus</foreign>” is considered as the cause of nervous disturbances and other
+				here. It is sufficient to say that "<foreign lang="LAT">coitus
+				interruptus</foreign>" is considered as the cause of nervous disturbances and other
 				serious conditions of the generative organs in woman by many prominent medical
 				authorities of the day.</p>
-			<p>“<q who="KISHE">The lack of sexual satisfaction,</q>” concludes Kisch, “<q
+			<p>"<q who="KISHE">The lack of sexual satisfaction,</q>" concludes Kisch, "<q
 					who="KISHE">aggravates nervous and hysterical trouble in women, while suitably
 					regulated intercourse with mutual satisfaction has an actively beneficial
-					effect.</q>”</p>
+					effect.</q>"</p>
 			<p>There has been among men a common idea that woman had little or no sex desire or
 				interest, and that marriage sanctioned a union which made of woman a recipient but
 				not a mutual partner in the sex life. Fortunately this idea is giving way, and men
@@ -242,7 +255,7 @@
 			<p>It is important that every adult should know and clearly understand what conception
 				means and how it takes place. </p>
 			<p> In one of the chapters in my little book, "<title type="book">What Every Girl Should
-					Know,</title>” I show the action of the cells and explain how the sexual impulse
+					Know</title>," I show the action of the cells and explain how the sexual impulse
 				in both boys and girls leads up to conception. </p>
 			<p>Here I shall go only briefly into the subject to give a general idea of what actually
 				occurs. </p>
@@ -289,7 +302,7 @@
 				and knowledge), of any country in the world, is also worthy of interest. </p>
 			<p>Abortion is the most common as well as one of the most serious disturbances of
 				pregnancy, yet it is said that one out of every five pregnancies terminates abruptly
-				in abortion. In what proportion “<q>criminal abortion</q>” is of this it is
+				in abortion. In what proportion "<q>criminal abortion</q>" is of this it is
 				difficult to state, but it is roughly estimated that at least 150,000 abortions
 				occur in the United States each year, and that 25,000 women die from its effects. </p>
 			<p>There is no doubt that women are apt to look upon an abortion as of little
@@ -337,18 +350,18 @@
 				rather than life and happiness from knowledge and prevention. </p>
 			<p> Nearly all authorities today agree that the necessity of abortions could be greatly
 				abolished by knowledge of prevention. One quotation from Havelock Ellis ("<title
-					type="book">Sex and Society</title>”) sums it up in a nutshell. "<q who="ELLHA"
+					type="book">Sex and Society</title>") sums it up in a nutshell. "<q who="ELLHA"
 					>In order to do away with the need for abortion, and to counteract the
 					propaganda in its favour, our main reliance must be placed, on the one hand, on
 					increased foresight in the determination of conception and increased knowledge
-					of the means for preventiing conception; and on the other hand, on a better
+					of the means for preventing conception; and on the other hand, on a better
 					provision by the State for the care of pregnant women, married and unmarried
 					alike, and a practical recognition of the qualified mother’s claim on society.
 					There can be no doubt that in many a charge of criminal abortion the real
 					offence lies at the door of those who failed to exercise their social and
 					professional duty of making known the more natural and harmless methods for
 					preventing conception, or else by their social attitude have made the pregnant
-					woman’s position intolerable.</q>” </p>
+					woman’s position intolerable.</q>" </p>
 		</div>
 
 		<div type="section">
@@ -417,10 +430,9 @@
 				workers should take in the struggle for their emancipation. </p>
 		</div>
 		<div type="section">
-			<p> (The Editors have omitted a section extracted from the leaflet, “<title
-					type="pamphlet">Hygienic Methods of Family Limitation.</title>” adopted by the
-				British <org>Malthusian League</org>. </p>
+			<p> (The Editors have omitted a section extracted from the leaflet, "<title
+					type="pamphlet">Hygienic Methods of Family Limitation</title>." adopted by the
+				British Malthusian League.</p>
 		</div>
-
 	</docBody>
 </doc>

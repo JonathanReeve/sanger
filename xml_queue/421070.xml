@@ -26,8 +26,9 @@
 			<name id="ON">Oklahoma News</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No final version of this speech was found. For a possible draft version
-			see "<xref from="129035.xml">My Way to Peace</xref>," Feb. 19, 1932.</p>
+	<headNote resp="MSPP">
+		<p>No final version of this speech was found. For a possible draft version see "<xref
+				from="129035.xml">My Way to Peace</xref>," Feb. 19, 1932.</p>
 		<index level1="war" level2="causes of"/>
 		<index level1="war" level2="overpopulation and"/>
 		<index level1="Italy" level2="overpopulation and"/>
@@ -41,7 +42,7 @@
 					reg="Sanger, Margaret">Margaret Sanger</person>, birth control advocate, said in
 				an address to 500 members of <org reg="Oklahoma City Town Hall">Town Hall</org>,
 					<org reg="Junior League of Oklahoma City">Junior League</org> lecture series,
-				today in the <org>Biltmore Hotel.</org></p>
+				today in the <org>Biltmore Hotel</org>.</p>
 			<p>
 				<place>Japan</place> has already burst her bounds and taken <place
 					reg="Manchuria, China">Manchuria</place>. The next will be <place>Italy</place>,

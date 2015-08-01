@@ -11,7 +11,7 @@
 		</docAuthor>
 		<docDate value="1934-00-00">1934</docDate>
 		<docTitle>
-			<titlePart>Foreword to For Legalized Birth Control</titlePart>
+			<titlePart><supplied resp="MSPP">Foreword to FOR LEGALIZED BIRTH CONTROL</supplied></titlePart>
 		</docTitle>
 		<idno>msp308022</idno>
 		<sourceDesc>
@@ -27,12 +27,11 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Margaret Sanger wrote the foreword to a pamphlet, published by the <title
-				type="journal">New Republic</title>, which reprinted two articles, "<title
-				type="article">Wasting Women's Lives</title>," by <person
-				reg="Smith, Helena Huntington">Helena Huntington Smith</person> and "<title
-				type="article">Birth Control's Business Baby</title>," by <person
-				reg="Garrett, Elizabeth H.">Elizabeth H. Garrett</person>.</p>
+		<p>Margaret Sanger wrote the foreword to a pamphlet, published by the <title type="journal"
+				>New Republic</title>, which reprinted two articles, "<title type="article">Wasting
+				Women's Lives</title>," by <person reg="Smith, Helena Huntington">Helena Huntington
+				Smith</person> and "<title type="article">Birth Control's Business Baby</title>," by
+				<person reg="Garrett, Elizabeth H.">Elizabeth H. Garrett</person>.</p>
 		<index level1="birth control" level2="effectiveness of"/>
 		<index level1="New York City" level2="birth control in"/>
 		<index level1="Free Speech League"/>
@@ -74,8 +73,8 @@
 			ranks of the Birth Control movement away from the so-called Free Speech aspects of the
 			campaign to the necessity of a scientific approach. Cooperation of the medical
 			profession was imperative if the women of America were to receive the best information
-			available--for even then the adulteration of drugs and the traffic in quack nostrums
-			was a scandal smelling to the heavens.</p>
+			available--for even then the adulteration of drugs and the traffic in quack nostrums was
+			a scandal smelling to the heavens.</p>
 		<p> We called upon the leaders of the medical profession to inaugurate modern research into
 			the whole problem of contraception from the physiological point of view, and to develop
 			from the resources of science a technique that would be harmless and unfailing.

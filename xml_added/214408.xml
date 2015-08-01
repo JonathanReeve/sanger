@@ -5,7 +5,9 @@
 		<prepDate>2011-07-29 NC</prepDate>
 		<prepDate>2014-03/24 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1952-11-26">
 			<supplied resp="MSPP">26 Nov 1952</supplied>
 		</docDate>
@@ -33,7 +35,9 @@
 			certain India is going to be one of our great moving forces of the future. She has not
 			the religious and political barriers we have, although some may crop up here and there,"
 				(<title type="article">World Unit Set Up for Birth Control</title>, <title
-				type="journal">New York Times</title>, Nov. 30, 1952. </p>
+				type="journal">New York Times</title>, Nov. 30, 1952. For other short comments, see
+				<xref from="422094.xml">Comments at the Third International Conference on Planned
+				Parenthood</xref>, Nov. 26, 1952.</p>
 		<index level1="family planning"/>
 		<index level1="India" level2="birth control in"/>
 		<index level1="Sanger, Margaret" level2="speaking tours" level3="1935-1936 (India)"/>
@@ -58,20 +62,21 @@
 			ahead with all the courage and understanding we possess to overcome their prejudices in
 			the interests of life, liberty, and the pursuit of happiness. </p>
 		<p>My first visit to <place>India</place> was from November, 1935 to March, 1936. I came at
-			the invitation of the <org reg="All-India Women's Conference">All India Women’s Conference</org>, requesting me to address
-			their Congress in <place reg="Travancore, India">Travancore</place>. Arrangements had
-			been made for me to visit your great leader and, to many, the world’s greatest living
-				Saint--<person reg="Gandhi, Mohandas K.">Mahatma Gandhi</person>--at <place
-				reg="Wardha, India">Wardha</place>. I spent three days there as a guest of the
-			Mahatma’s. Needless to say these three days were not ever to be forgotten or paralleled
-			in human experience. I could spend all the time allotted to me this evening relating our
-			conversation--enough for me to say that neither of us convinced the other that we were
-			wrong. Gandhi’s conclusions, however, were interesting and had already been given
-			publicity. He said that India was then (in 1935) overpopulated--“<q who="GANMO">it was
-				this condition of overpopulation that enslaved her</q>”--that four children should
-			be the limit born to a couple--after that, separation or continence. I am not going into
-			the birth and death rates of that period. The leaders of India are aware of a population
-			problem and will doubtless attempt in every way to solve it. </p>
+			the invitation of the <org reg="All-India Women's Conference">All India Women’s
+				Conference</org>, requesting me to address their Congress in <place
+				reg="Travancore, India">Travancore</place>. Arrangements had been made for me to
+			visit your great leader and, to many, the world’s greatest living Saint--<person
+				reg="Gandhi, Mohandas K.">Mahatma Gandhi</person>--at <place reg="Wardha, India"
+				>Wardha</place>. I spent three days there as a guest of the Mahatma’s. Needless to
+			say these three days were not ever to be forgotten or paralleled in human experience. I
+			could spend all the time allotted to me this evening relating our conversation--enough
+			for me to say that neither of us convinced the other that we were wrong. Gandhi’s
+			conclusions, however, were interesting and had already been given publicity. He said
+			that India was then (in 1935) overpopulated--“<q who="GANMO">it was this condition of
+				overpopulation that enslaved her</q>”--that four children should be the limit born
+			to a couple--after that, separation or continence. I am not going into the birth and
+			death rates of that period. The leaders of India are aware of a population problem and
+			will doubtless attempt in every way to solve it. </p>
 		<p>Every one who thinks will realize that people must and should be fed. When too many
 			people occupy the land and use up its resources faster than they can be replaced these
 			problems begin--and often increase at a faster rate than the solution to solve them.
@@ -141,37 +146,43 @@
 		<p>Third--co-operation in educating the population to consider the cultural qualities of
 			offspring and efface the egotistic desire to perpetuate the self in offspring.</p>
 		<p>Basic principles of the planned parenthood movement will help to achieve these results,
-			as follows:--</p><list>
-		<item>1. Any adult having a transmissible or hereditary disease should not have children.
-			Marriage may be contemplated, but only if the person submits willingly to sterilization
-			as a safeguard against propagating offspring carrying such diseases.</item>
-		<item>2. Women afflicted with temporary diseases, where cure is retarded because of pregnancy,
-			should practise contraception until cured. Tuberculosis, heart disease, kidney disease,
-			goitre, and other ailments not transmissible, put a definite strain on a woman’s health
-			when conception has taken place.</item>
-		<item>3. No more children when parents, though showing no affliction themselves, have given
-			birth to offspring with mental and nervous disease---morons, cleft palate, Mongolian
-			idiots. Somewhere in the heredity there is the cause of these conditions.</item>
-		<item>4. Spacing of children in a family where husband and wife are in good health should be
-			from two to three years. If the family is planned for four children, the first two could
-			be a year or 18 months apart. Then a spacing of two years before another pregnancy is
-			contemplated. Two more children 18 months apart. Then a spacing of two years before
-			another pregnancy is contemplated. Two more children 18 months apart bring both groups
-			together with fair spacing, to consider the mother’s health, the father’s earning
-			capacity, and the standards of living the parents are ambitious to maintain.</item>
-		<item>5. Early marriage can be helpful to young people with the postponement of parenthood.
-			Twenty-two years is a good age for a woman to bear her first child. Children born of
-			young mothers in the teen ages are more frequently neglected. Infant mortality is
-			highest where mothers are under twenty-two years of age.</item>
-		<item>6. Economic conditions should be seriously considered. Certainly the father whose
-			wage-earning power can properly feed, house and educate three, even four children,
-			should not have eight, ten or twelve children. Records for delinquency of children in
-			poor, large families fill the courts, jails and penitentiaries.</item>
-		<item>7. Parenthood should be considered a privilege, not a right. It should be considered an
-			assignment, and those about to, or desiring to be parents should be examined physically
-			and mentally as to their responsibility and knowledge of the care of infants. There
-			should be compulsory education by the State for parents to be able to cope with problem
-			children and the changes occurring yearly in childhood and puberty.</item></list>
+			as follows:--</p>
+		<list>
+			<item>1. Any adult having a transmissible or hereditary disease should not have
+				children. Marriage may be contemplated, but only if the person submits willingly to
+				sterilization as a safeguard against propagating offspring carrying such
+				diseases.</item>
+			<item>2. Women afflicted with temporary diseases, where cure is retarded because of
+				pregnancy, should practise contraception until cured. Tuberculosis, heart disease,
+				kidney disease, goitre, and other ailments not transmissible, put a definite strain
+				on a woman’s health when conception has taken place.</item>
+			<item>3. No more children when parents, though showing no affliction themselves, have
+				given birth to offspring with mental and nervous disease---morons, cleft palate,
+				Mongolian idiots. Somewhere in the heredity there is the cause of these
+				conditions.</item>
+			<item>4. Spacing of children in a family where husband and wife are in good health
+				should be from two to three years. If the family is planned for four children, the
+				first two could be a year or 18 months apart. Then a spacing of two years before
+				another pregnancy is contemplated. Two more children 18 months apart. Then a spacing
+				of two years before another pregnancy is contemplated. Two more children 18 months
+				apart bring both groups together with fair spacing, to consider the mother’s health,
+				the father’s earning capacity, and the standards of living the parents are ambitious
+				to maintain.</item>
+			<item>5. Early marriage can be helpful to young people with the postponement of
+				parenthood. Twenty-two years is a good age for a woman to bear her first child.
+				Children born of young mothers in the teen ages are more frequently neglected.
+				Infant mortality is highest where mothers are under twenty-two years of age.</item>
+			<item>6. Economic conditions should be seriously considered. Certainly the father whose
+				wage-earning power can properly feed, house and educate three, even four children,
+				should not have eight, ten or twelve children. Records for delinquency of children
+				in poor, large families fill the courts, jails and penitentiaries.</item>
+			<item>7. Parenthood should be considered a privilege, not a right. It should be
+				considered an assignment, and those about to, or desiring to be parents should be
+				examined physically and mentally as to their responsibility and knowledge of the
+				care of infants. There should be compulsory education by the State for parents to be
+				able to cope with problem children and the changes occurring yearly in childhood and
+				puberty.</item>
+		</list>
 		<p>In voicing the above principles it is well to realize that responsibilities are twofold.
 			First, the individual couple, who have the intelligence, insight and wisdom to plan the
 			number of children desired who can be cared for, can be considered the cultural group in

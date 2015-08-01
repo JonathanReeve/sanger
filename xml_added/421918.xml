@@ -30,43 +30,48 @@
 			<name id="NYHT">New York Herald Tribune</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger released a press statement to coincide with
-			an <org
-				reg="National Committee for Federal Legislation for Birth Control "
-				>NCFLBC</org> report. Quotes were drawn from news coverage,
-			duplicated portions not quoting Sanger were omitted.</p>
+	<headNote resp="MSPP">
+		<p>Sanger released a press statement to coincide with an NCFLBC report.
+			Quotes were drawn from news coverage, duplicated portions not
+			quoting Sanger were omitted.</p>
 		<index
-			level1="National Committee on Federal Legislation for Birth Control"
-			/><index level1="Comstock Laws"/><index
-			level1="birth control movement" level2="MS on"/><index
-			level1="birth control methods"/><index level1="birth control"
-			level2="distribution of information about"/></headNote>
+			level1="National Committee on Federal Legislation for Birth Control"/>
+		<index level1="Comstock Laws"/>
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="birth control methods"/>
+		<index level1="birth control" level2="distribution of information about"
+		/>
+	</headNote>
 	<docBody>
 
 		<head>MORE CLINICS URGED FOR BIRTH CONTROL</head>
 		<div type="section">
-			<p><q who="NYT">A ten-fold increase in existing birth-control
+			<p>
+				<q who="NYT">A ten-fold increase in existing birth-control
 					centers to 3,000 is recommended by Mrs. Margaret Sanger,
 					birth-control leader, in a report on the seven years' work
-					of the <org>National Committee for Federal Legislation on
-						Birth Control</org>, which will be issued today by the
-					organization's executive committee.</q></p>
-			<p><q who="NYT">Mrs. Sanger recommends also that visiting nurses
+					of the <org
+						reg="National Committee on Federal Legislation for Birth Control"
+						>National Committee for Federal Legislation on Birth
+						Control</org>, which will be issued today by the
+					organization's executive committee.</q>
+			</p>
+			<p>
+				<q who="NYT">Mrs. Sanger recommends also that visiting nurses
 					should be sent into isolated homes remote from medical
 					service to teach birth-control measures. The committee
-					making the report recently was dissolved after the United
-					States Circuit Court of Appeals upheld birth control under
+					making the report recently was dissolved after the <org>United
+					States Circuit Court of Appeals</org> upheld birth control under
 					medical direction. The executive committee comprises <person
 						reg="Timme, Ida Haar">Mrs. Walter Timme</person>,
 						<person reg="Hepburn, Katharine Houghton">Mrs. Thomas N.
 						Hepburn</person>, <person reg="Barker, Marion B.">Mrs.
 						Alexander C. Barker</person>, and <person
 						reg="Brush, Dorothy Hamilton">Mrs. Alexander C.
-						Dick</person>.</q></p>
+						Dick</person>.</q>
+			</p>
 			<p>“This decision,” <q who="NYT">wrote Mrs. Sanger, referring to the
-						<org
-						reg="United States Court of Appeals For the Second Circuit"
-						>Circuit Court ruling,</org>
+						Circuit Court ruling,
 				</q>“has opened the way to a far more fundamental goal--the
 				inclusion of birth control in public health programs and the
 				carrying of contraceptive information to neglected mothers in
@@ -90,20 +95,24 @@
 
 		<div type="section">
 			<head>Auto Caravans Urged to Help Birth Control</head>
-			<p><q who="NYHT">Extension of birth control clinical service by
+			<p>
+				<q who="NYHT">Extension of birth control clinical service by
 					motor caravans to women of the farms and mountain regions of
 					America was urged yesterday by Mrs. Margaret Sanger, birth
 					control leader, in a series of recommendations advocating a
 					ten-fold increase in birth control activities in the United
-					States in the next year.</q></p>
-			<p><q who="NYHT">Mrs. Sanger estimated that 320 birth control
+					States in the next year.</q>
+			</p>
+			<p>
+				<q who="NYHT">Mrs. Sanger estimated that 320 birth control
 					centers were functioning at present in America, nearly all
 					of them in large population centers. In addition,
 					approximately 7,000 hospitals and 10,000 other agencies
 					where medical aid is sought by mothers are now legally free
 					to give contraceptive advice and information as a result of
 					recent decision of the United States Circuit Court of
-					Appeals</q></p>
+					Appeals</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub">Caravans of Education</head>
@@ -117,11 +126,12 @@
 				mountain women, farm women, mothers on distant homesteads,
 				mothers in all districts, city and country, who are now
 				neglected."</p>
-			<p><q who="NYHT">Mrs. Sanger said letters received from rural
+			<p>
+				<q who="NYHT">Mrs. Sanger said letters received from rural
 					communities indicated there were tens of thousands, perhaps
 					millions of women unable to go to a clinic or obtain
-					contraceptive information from existing
-				organizations.</q></p>
+					contraceptive information from existing organizations.</q>
+			</p>
 			<p>"We should send an organization of birth control instructing
 				nurses to visit the homes of those underprivileged mothers,"<q
 					who="NYHT">Mrs. Sanger declared.</q> "Just as members of the
@@ -134,9 +144,11 @@
 		</div>
 		<div type="section">
 			<head type="sub">Advocates 3,000 Clinics</head>
-			<p><q who="NYHT">Expressing the belief that at least 3,000
+			<p>
+				<q who="NYHT">Expressing the belief that at least 3,000
 					contraceptive clinics were needed in the United States, Mrs.
-					Sanger stated:</q></p>
+					Sanger stated:</q>
+			</p>
 			<p>“Only by adequate effort to save the lives of women and to
 				promote maternal and child health can the community atone for
 				the deaths of a million mothers during the six decades while the

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-26 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-26 CH proof tags</prepDate>
+		<prepDate>2015-05-27 LH correct tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1952-10-12">12 Oct. 1952</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Japanese Population</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422062</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control Leader Enroute to Japan</title>, <title
+					type="journal"> The San Bernardino County Sun</title>, Oct. 12, 1952, p.1
+			</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="SBC">The San Bernardino County Sun </name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Asia" level2="overpopulation"/>
+		<index level1="Japan" level2="overpopulation"/>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1950 (Japan)"/>
+
+	</headNote>
+	<docBody>
+		<head>Birth Control Leader Enroute to Japan</head>
+		<dateline><place reg="Los Angeles, CA"/>LOS ANGELES</dateline>
+		<p>
+			<q who="SBC"> Margaret Sanger, 65-year-old grandmother and perennial advocate of birth
+				control, is en route to <place>Japan</place> to tell its residents of her ideas. She
+				left here on the <name type="ship" reg="SS Lurline"> Lurline</name>.</q>
+		</p>
+		<p>"Thirty years ago when I fist tried to give my message to <place>Japan</place> I was
+			allowed to land, but not to speak at public meetings," <q who="SBC"> she told
+				newsmen.</q> "Japan's population then was 61 million; today it is 84 million and the
+			problem is how to feed all those people."</p>
+	</docBody>
+</doc>

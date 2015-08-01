@@ -8,16 +8,19 @@
 		<prepDate>2002-08-15 KH</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2014-11-13 CH clean regs</prepDate>
-		<docAuthor>Margaret Sanger</docAuthor>
+		<prepDate>2015-07-22 CH clean regs titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-08-00">Aug 1928</docDate>
 		<docTitle>
 			<titlePart>The Need for Birth Control</titlePart>
 		</docTitle>
 		<idno>msp302115</idno>
 		<sourceDesc>
-			<bibl><title type="jouranl">Birth Control Review</title>, August 1928, pp.
-				227-228</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>, C16:293</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, Aug. 1928, pp. 227-228</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
+				C16:293</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,9 +28,9 @@
 			<name id="ita">Italian</name>
 		</respStmt>
 	</mepHeader>
-	<sourceNote>For an earlier draft see LCM 130:0235, a duplicate version appears on
-		S71:0144.</sourceNote>
-	<headNote>
+	<headNote><p>For an earlier draft see Library of Congress Microfilm 130:0235, a duplicate
+			version appears on <title type="mf">Margaret Sanger Microfilm Edition, Smith College
+				Collections</title> S71:0144.</p>
 		<index level1="Eugenics" level2="birth control and"/>
 		<index level1="population" level2="birth control and"/>
 		<index level1="birth control" level2="class-based"/>
@@ -41,7 +44,7 @@
 			<emph rend="italics">BY</emph>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</byline>
-		<p>THE population problem of the world is no longer a mere question of quantity. It involves
+		<p>The population problem of the world is no longer a mere question of quantity. It involves
 			quality as well. Civilization can no longer be estimated by mere numbers. More
 			important, from our modern point of view, is the <emph rend="italics">kind</emph> of
 			population a country or a century produces. The <place reg="Florence, Italy"
@@ -58,10 +61,10 @@
 			aside, as purely hypothetical and academic, all such questions as the ultimate
 			saturation point in world population, and attacking this problem in its immediate and
 			imperatively pressing aspects, we find ourselves here and now confronted with a tangibly
-			definite qualitative overpopulation. Any intelligent analyst must admit that tody there
+			definite qualitative overpopulation. Any intelligent analyst must admit that today there
 			are too many of the wrong kind of people in our world, and too few of the right kind.
 			Even the most compassionate and least snobbish of observers must admit this.</p>
-		<p>EDUCATION in Birth Control offers an immediate, practical and constructive method of
+		<p>Education in Birth Control offers an immediate, practical and constructive method of
 			combating this qualitative over-population. It is not proffered as a wholesale magic
 			panacea which would cure the evils of the world overnight. It is immediate and practical
 			because it can be taught--indeed, it is already taught--to the individuals involved
@@ -85,7 +88,7 @@
 			classes. Sterilization will undoubtedly become a necessity; but unsupported by the
 			practice of self-directive Birth Control a policy of arbitrary sterilization could not
 			without in justice be imposed upon the people at large.</p>
-		<p>THE first great need of modern society is the encouragement of Birth Control education
+		<p>The first great need of modern society is the encouragement of Birth Control education
 			among potential parents of those poorer strata of society where poverty is correlated
 			with disease, poor health, and physical or mental defect. It goes without saying that,
 			first of all, parenthood should be forbidden to the insane, the feeble-minded, the
@@ -101,7 +104,7 @@
 			a proper start in life, physically and psychically, before a new arrival takes central
 			place in the mother's care and attention. This system is of equal benefit to both
 			mothers and children.</p>
-		<p>FINANCIAL, economic and social conditions cannot be lightly swept aside as unimportant,
+		<p>Financial, economic and social conditions cannot be lightly swept aside as unimportant,
 			especially in the first years of marriage. These conditions should be courageously
 			analysed by young husbands and wives, particularly in relation to the potential child or
 			family. Surely it is injustice to an infant to be brought into a home that cannot

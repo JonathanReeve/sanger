@@ -61,7 +61,7 @@
 
 			<p>
 				<q who="HALMA"> The sixth of February, 1931, marked the beginning of a new epoch for
-					the women in Kansas City. On that day, in <org>All Souls’ Unitarian
+					the women in Kansas City. On that day, in <org>All Souls' Unitarian
 					Church</org>, which many of its members and friends prefer to call The Liberal
 					Center, Margaret Sanger, avoiding all ambiguity, gave a plain, straightforward
 					talk on the technique of contraception.</q>
@@ -193,8 +193,8 @@
 						sons</person></person> and <person reg="Sanger, Peggy">a daughter</person>.
 					Because money was none too plentiful in the little family, Mrs. Sanger continued
 					her nursing and she might have gone straight on with it had she not, logically
-					enough after her up-bringing, joined the <org>Socialist Party</org>. For a time
-					she was one of its women organizers.</q>
+					enough after her up-bringing, joined the <org reg="Socialist Party of America"
+						>Socialist Party</org>. For a time she was one of its women organizers.</q>
 			</p>
 			<p> Then, quite by chance, she was asked to be one of the three to bring down to <place
 					reg="New York, NY">New York</place> some of the destitute children of the <place
@@ -438,19 +438,19 @@
 					entirely up to her artist husband, settled to study.</q>
 			</p>
 			<p>
-				<q who="HALMA"> She went to the <org reg="New York Academy of Medicine Library">New
-						York medical library</org> to dig out some information on contraceptives,
-						<emph rend="italics">but in all that vast library she could not find one
-						single word on the subject</emph>. Then she traveled to <place
-						reg="Boston, MA">Boston</place> to search the library there, but again she
-					found nothing on the most vital subject in the world to women. From Boston she
-					went to the <org reg="Library of Congress">Congressional Library</org> at
-					Washington. At last she did find one article – just one and a left-handed one at
-					that, which had appeared in the <title type="journal">Atlantic Monthly</title>.
-					It was by <person reg="Ross, Edward Alsworth">E. A. Ross</person>, a professor
-					of Sociology, and was on “Race Suicide”-–on the other side of the question.
-					(Since then he has reversed his opinion and has written “<title type="book"
-						>Standing Room Only</title>”.)</q>
+				<q who="HALMA"> She went to the <org reg="New York Academy of Medicine">New York
+						medical library</org> to dig out some information on contraceptives, <emph
+						rend="italics">but in all that vast library she could not find one single
+						word on the subject</emph>. Then she traveled to <place reg="Boston, MA"
+						>Boston</place> to search the library there, but again she found nothing on
+					the most vital subject in the world to women. From Boston she went to the <org
+						reg="Library of Congress">Congressional Library</org> at Washington. At last
+					she did find one article – just one and a left-handed one at that, which had
+					appeared in the <title type="journal">Atlantic Monthly</title>. It was by
+						<person reg="Ross, Edward Alsworth">E. A. Ross</person>, a professor of
+					Sociology, and was on “Race Suicide”-–on the other side of the question. (Since
+					then he has reversed his opinion and has written “<title type="book">Standing
+						Room Only</title>”.)</q>
 			</p>
 
 			<p> “I thought,” <q who="HALMA">explained Mrs. Sanger to me, with a wise, whimsical
@@ -569,7 +569,7 @@
 					that year that Mrs. Sanger was indicted on nine counts because of nine different
 					articles in The Woman Rebel. She asked for a month’s postponement of her case
 					which was to be tried in the <org
-						reg="United States Court of Appeals for the Second Circuit">Federal Courts
+						reg="United States Circuit Court of Appeals">Federal Courts
 						of New York City</org>.</q>
 			</p>
 
@@ -789,20 +789,20 @@
 				<q who="HALMA"> Mrs. Sanger and Mrs. Byrne, thinking at the time they would be sent
 					to jail, together told the <title type="journal">New York World</title> that
 					they were going on a hunger strike. But Mrs. Byrne was sent first by herself to
-					the work-house on <org>Blackwell Island</org>. The <title type="journal">New
-						York World</title>’s <person reg="Unknown">reporter</person> was the only
-					one allowed to see her. He had an assistant attorney’s credentials and while the
-					other newspapers consistently misrepresented Mrs. Byrne’s case, he told the
-					truth about it from day to day--giving all the details of the long, terrible
-					eleven days she endured without food or water. By the end of that time she was
-					so ill that, in order to save her life, Governor <person
-						reg="Whitman, Charles S.">Whitman</person> granted her a full pardon and she
-					was taken from the work-house in an ambulance. But her sufferings had focused
-					public attention on the case and aroused lethargic public opinion. As the other
-					charge only was for selling “<title type="book">What Every Girl Should
-						Know</title>,” she was let off with only a $25 fine. When her case was
-					appealed the court ruled that there was no reason why the book should not be
-					sold.</q>
+					the work-house on <org reg="Blackwell's Island Penitentiary">Blackwell
+						Island</org>. The <title type="journal">New York World</title>’s <person
+						reg="Unknown">reporter</person> was the only one allowed to see her. He had
+					an assistant attorney’s credentials and while the other newspapers consistently
+					misrepresented Mrs. Byrne’s case, he told the truth about it from day to
+					day--giving all the details of the long, terrible eleven days she endured
+					without food or water. By the end of that time she was so ill that, in order to
+					save her life, Governor <person reg="Whitman, Charles S.">Whitman</person>
+					granted her a full pardon and she was taken from the work-house in an ambulance.
+					But her sufferings had focused public attention on the case and aroused
+					lethargic public opinion. As the other charge only was for selling “<title
+						type="book">What Every Girl Should Know</title>,” she was let off with only
+					a $25 fine. When her case was appealed the court ruled that there was no reason
+					why the book should not be sold.</q>
 			</p>
 			<p>
 				<q who="HALMA">Six years later, in April 1929, the New York Birth Control Clinic was
@@ -833,14 +833,14 @@
 
 			<p>
 				<q who="HALMA"> As a matter of fact, Mrs. Sullivan was demoted, and <person
-						reg="Whalen, Grover A.">Whalen</person>, the police commissioner, was
-					loud in his protests that she had acted without any order from him. When the
-					case came to trial, it was shown that although the decoy may have believed
-					herself to be in perfect health her condition was such that until it was
-					rectified a pregnancy and child-birth would have been very dangerous for her.
-					Furthermore, the press and public opinion were friendly to the clinic, and the
-						<org>New York Academy of Medicine</org>, incensed because their sacred
-					“cards” had been touched, took a firm attitude. The case was dismissed.</q>
+						reg="Whalen, Grover A.">Whalen</person>, the police commissioner, was loud
+					in his protests that she had acted without any order from him. When the case
+					came to trial, it was shown that although the decoy may have believed herself to
+					be in perfect health her condition was such that until it was rectified a
+					pregnancy and child-birth would have been very dangerous for her. Furthermore,
+					the press and public opinion were friendly to the clinic, and the <org>New York
+						Academy of Medicine</org>, incensed because their sacred “cards” had been
+					touched, took a firm attitude. The case was dismissed.</q>
 			</p>
 			<p>
 				<q who="HALMA"> It is a far cry from that first clinic, which only gave advice, to

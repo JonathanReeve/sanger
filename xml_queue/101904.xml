@@ -14,7 +14,9 @@
 			<supplied resp="MSPP">1920</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart> Problems of Population and Parenthood: A Review by Margaret Sanger
+			<titlePart>
+				<supplied resp="MSPP">PROBLEMS OF POPULATION AND PARENTHOOD: A Review by Margaret
+					Sanger</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp101904</idno>
@@ -34,7 +36,7 @@
 				<title type="journal">New York Tribune</title>; published version not found. For an
 			earlier draft of the review see Library of Congress Microfilm 128:634.</p>
 		<index level1="birth control" level2="opposition to"/>
-		<index level1="Cox, Harold J."/>
+		<index level1="Cox, Harold"/>
 		<index level1="England" level2="fertility rates"/>
 		<index level1="fertility rates" level2="in England"/>
 		<index level1="population" level2="birth control and"/>
@@ -55,7 +57,7 @@
 			Commission is <emph rend="underline">self-appointed.</emph> One would imagine that
 				<del>if</del>this Commission had <del>not</del> been appointed by the <org
 				reg="United Kingdom Government">British Government</org>, <del>
-				<unclear>at least it</unclear>
+				<unclear resp="MSPP">at least it</unclear>
 			</del>and operated and functioned under <del>some indirect</del><add>direct</add>
 			sanction of official interest. <del>But such is not the case.</del> The people involved
 			gathered together under this <del>distinctly Anglo-Saxon</del>title on their own
@@ -77,7 +79,7 @@
 			<add>of U.S.A</add> Sir <person reg="Doyle, Arthur Conan">Arthur Conan Doyle</person>,
 			Sir <person reg="Osler, William">William Osler</person>, Dr. <person
 				reg="Stopes, Marie C.">Marie Stopes</person>, Sir <person reg="Haggard, H. Rider"
-				>Rider Haggard</person>, Mr. <person reg="Cox, Harold J.">Harold Cox</person> the
+				>Rider Haggard</person>, Mr. <person reg="Cox, Harold">Harold Cox</person> the
 			editor of the <title type="journal">Edinburgh Review</title>, <add>Mrs. <person
 					reg="Booth, Evangeline">Booth</person>
 				<org>Salvation Army</org></add>, <person reg="Lloyd-George, William">W. L.

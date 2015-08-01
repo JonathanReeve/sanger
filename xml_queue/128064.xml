@@ -9,6 +9,7 @@
 		<prepDate>2014/03/27/EK correct proofs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
 		<prepDate>2015-04-16 CH clean up place regs and people regs</prepDate>
+		<prepDate>2015-07-10 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -21,7 +22,7 @@
 		<idno>msp128064</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 129:155</bibl>
+			<bibl>Library of Congress Microfilm 129:0155</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp>
@@ -33,18 +34,17 @@
 	<headNote resp="MSPP">
 		<p>A revised paragraph added on a separate page has been inserted into this
 			transcription.</p>
-		<index level1="England" level2="views of America"/>
-		<index level1="World War I" level2="U.S. Entry"/>
-		<index level1="World War I" level2="anti-war efforts"/>
-		<index level1="racial ethnic references" level2="to Irish"/>
-		<index level1="racial ethnic references" level2="to Dutch"/>
-		<index level1="racial ethnic references" level2="to Germans"/>
-		<index level1="racial ethnic references" level2="to Germans"/>
-		<index level1="France" level2="MS on"/>
+		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="United States" level2="MS on"/>
 		<index level1="England" level2="MS on"/>
+		<index level1="France" level2="MS on"/>
+		<index level1="racial/ethnic references" level2="Jews"/>
+		<index level1="free speech and free press"/>
+		<index level1="World War I" level2="causes"/>
+		<index level1="World War I" level2="MS on"/>
 		<index level1="women" level2="gender roles and"/>
-		<index level1="Europe" level2="travel in"/>
-	</headNote>
+		</headNote>
 	<docBody>
 		<head>An Englishman's Opinion of America</head>
 		<p>"<q who="UNK">The Americans will do anything for money</q>" said a <person reg="Unknown"

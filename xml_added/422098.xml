@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2015-06-09 LH transcribed and encoded</prepDate>
+		<prepDate>2015-06-25 CH proof and correct tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1934-01-15">
+			<supplied resp="MSPP">15 Jan 1934</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on the American Conference for Birth Control and
+					National Recovery</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422098</idno>
+		<sourceDesc>
+			<bibl><title type="article">Conference on Birth Control Launched</title>, <title
+					type="journal">Pottstown Mercury</title>, Jan. 16, 1934, p. 3</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="PM">Pottstown Mercury</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>For two versions of the address of welcome gave at this conference, see
+				<xref from="240449.xml">Birth Control and National Recovery</xref> and <xref
+				from="157434.xml">Address of Welcome</xref>, both Jan. 15, 1934.</p>
+		<index level1="conference"
+			level2="American Conference on Birth Control and National Recovery" level3="1934"/>
+	</headNote>
+	<docBody>
+		<head>CONFERENCE ON BIRTH CONTROL LAUNCHED</head>
+		<dateline><place reg="Washington, DC">WASHINGTON</place>, <date value="1934-01-15">Jan.
+				15</date> (<org reg="Associated Press">AP</org>)--</dateline>
+		<p>
+			<q who="PM">Before a banner which depicted the blue eagle's lighting bolt warring with
+				numerous storks, Margaret Sanger today launched the first "American conference on
+				birth control and national recovery."</q>
+		</p>
+		<p>
+			<q who="PM">The small, red-haired, veteran birth control crusader predicted:</q>
+		</p>
+		<p>"the time is not far off when this government will be called upon to face the question of
+			birth control and sterilization as well."</p>
+		<p><q who="PM">She called attention to the legend of the banner above her head:</q>"Six
+			million children in the <place>United States</place> on public relief. Two birth control
+			bills pending in <org reg="United States Congress">Congress</org>."</p>
+		<p>
+			<q who="PM"> She spoke to a well filled ball room, which had been hung with flags of
+				many nations.</q>
+		</p>
+		<p>"We can lay at the doors of the opponents of this movement a large part of the misery and
+			poverty arising from the huge array of unemployed."<q>she said.</q></p>
+		<p> "If the <org reg="United States Government">government</org> will give the same
+			consideration to the forgotten woman that it has to the forgotten man we may rectify the
+			deplorable situation created by our birth rate."</p>
+		<p>
+			<q who="PM">The birth control movement, Mrs. Sanger said, began just 20 years ago,
+				during which time eleven States, six regional and six international conferences have
+				been held.</q>
+		</p>
+	</docBody>
+</doc>

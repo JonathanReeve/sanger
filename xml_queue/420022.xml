@@ -17,14 +17,13 @@
 		</docTitle>
 		<idno>msp420022</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 6, Aug. 1914, p.
-				44</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, Aug. 1914, p. 44</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:558</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="SENEC">Seneca</name>
+			<name id="SENEC">Seneca, Lucius Annaeus</name>
 			<name id="PLUTA">Plutarch</name>
 			<name id="UNK">Unknown</name>
 		</respStmt>
@@ -32,14 +31,16 @@
 	<headNote>
 		<p>For previous articles in this series see "Class and Character," <xref from="420003.xml"
 				>June 1914</xref> and <xref from="420028.xml">July 1914.</xref>.</p>
-		<index level1="working classes" level2="women and girls"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="working classes" level2="alcohol and"/>
+		<index level1="Woman Rebel, The" level2="articles"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="employment of"/>
+		<index level1="women and girls" level2="sexuality of"/>
+		<index level1="sex and sexuality" level2="MS on"/>
+		<index level1="working classes" level2="and alcohol"/>
+		<index level1="women and girls" level2="working class"/>
 		<index level1="sex education"/>
-		<index level1="prostitution" level2="MS on"/>
-		<index level1="venereal disease" level2="alcohol and"/>
-		<index level1="working classes" level2="nutrition and"/>
-		<index level1="alcohol" level2="MS on"/>
+		<index level1="venereal disease"/>
+		<index level1="prostitution"/>
 	</headNote>
 	<docBody>
 		<head>CLASS AND CHARACTER</head>
@@ -123,15 +124,16 @@
 			abstains or who has never drunk or tasted alcohol in her life is necessarily the
 			superior woman. Usually she lacks a fine human understanding, and her superiority may be
 			narrowness and prejudice.</p>
-		<p><person reg="Seneca (Roman)">Seneca</person> recommended occasional drunkenness "<q who="SEN">even to the
-				point of intoxication, not for the purpose of drowning ourselves but of sinking
-				ourselves deep in wine. For it washes away cares and raises our spirits from the
-				lowest depths. The inventor of wine is called <name type="deity">Liber</name>
-				because he frees the soul from the servitude of care, releases it from slavery,
-				quickens it, and makes it bolder for all undertakings.</q>" In his essay on the
-				<title type="article">Training of Children</title>, <person reg="Plutarch (Roman)">Plutarch</person> says
-			that "<q who="PLU">even in bows and harps we loosen their strings that we may bend and
-				wind them up again.</q>"</p>
+		<p><person reg="Seneca, Lucius Annaeus (Roman)">Seneca</person> recommended occasional drunkenness "<q
+				who="SEN">even to the point of intoxication, not for the purpose of drowning
+				ourselves but of sinking ourselves deep in wine. For it washes away cares and raises
+				our spirits from the lowest depths. The inventor of wine is called <name
+					type="deity">Liber</name> because he frees the soul from the servitude of care,
+				releases it from slavery, quickens it, and makes it bolder for all
+			undertakings.</q>" In his essay on the <title type="article">Training of
+				Children</title>, <person reg="Plutarch (Roman)">Plutarch</person> says that "<q
+				who="PLU">even in bows and harps we loosen their strings that we may bend and wind
+				them up again.</q>"</p>
 		<p>And so with women who have never relieved their tension. They can have no realization or
 			understanding of those who do. They are less experienced and equipped with less sympathy
 			and human feeling for the battle of life. It all comes back to the girl herself: She

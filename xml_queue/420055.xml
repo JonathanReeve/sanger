@@ -10,7 +10,9 @@
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-16 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
 			<titlePart>Humble Pie</titlePart>
@@ -30,7 +32,7 @@
 		<index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
 		<index level1="women and girls" level2="reproductive choices and decisions"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<head>HUMBLE PIE</head>
 		<p>The <person reg="Morgan, Edward M.">Postmaster</person> did not like the first number of
@@ -47,7 +49,7 @@
 				REBEL</title> has not yet been informed which of her views were so displeasing to
 			the Postmaster, but whatever they were, she hastens to agree with the Postmaster that
 			she was absolutely mistaken in these views. She realizes that the <org
-				reg="United States Post Office">Postoffice</org> is always "right," since it has the
+				reg="United States Postal Service">Postoffice</org> is always "right," since it has the
 			monopolized POWER to enforce that "right." Therefore the <title type="journal">WOMAN
 				REBEL</title>, humbled and repentant, curtseys coyly to the Postmaster and
 			apologizes for the expression of any opinion that is unmailable under Section 211 of the

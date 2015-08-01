@@ -8,6 +8,7 @@
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2014/12/11 EK Correct Proofs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -23,41 +24,53 @@
 			<bibl>Library of Congress Microfilm 130:0342</bibl>
 		</sourceDesc>
 		<respStmt>
-			<name id="EB">The Encyclopedia Britannica</name>
+			<name id="EB">Encyclopedia Britannica</name>
 			<name id="PAITH">Paine, Thomas</name>
 			<name id="PLA">Plato</name>
 			<name id="ARI">Aristotle</name>
-			<name id="ZEN">Zenophon</name>
+			<name id="XEN">Xenophon</name>
 			<name id="CICMA">Cicero, Marcus Tullius</name>
 			<name id="TERQU">Tertullian, Quintus Septimus</name>
 			<name id="AUG">Augustine (St.)</name>
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>A handwritten note by Sanger reads: "Notes on address when contemplating trial re <title
+		<p>Handwritten note by Sanger reads: "Notes on address when contemplating trial re <title
 				type="journal">Woman Rebel</title> 1916." At the top of the 4th page, Sanger wrote
 			"buck up." Portions of this text were used again in the stump speech she gave on her
-			1916 national tour. For an example see <xref from="128003.xml">Condemnation is
-				Misunderstanding</xref> Apr.-July, 1916.</p>
-		<index level1="abortion" level2="MS on"/>
+			1916 national tour. For an example see <title type="article"><xref from="128003.xml">Condemnation is
+				Misunderstanding</xref></title>, Apr.-July, 1916.</p>
+		<index level1="abortion" level2="frequency of"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="working classes" level2="MS on"/>
-		<index level1="Sanger, Margaret" level2="biography"/>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="birth control" level2="opposition to"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="birth control laws and legislation" level2="Postal Codes"/>
+		<index level1="child labor"/>
 		<index level1="censorship"/>
+		<index level1="England" level2="MS on"/>
 		<index level1="family size" level2="class-based"/>
 		<index level1="free speech and free press"/>
 		<index level1="law-breaking and direct action"/>
+		<index level1="marriage" level2="and birth control"/>
+		<index level1="marriage" level2="MS on"/>
 		<index level1="mortality rates" level2="infant"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
 		<index level1="obscenity"/>
+		<index level1="prostitution" level2="and birth control"/>
 		<index level1="Scotland" level2="birth control in"/>
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
 		<index level1="Woman Rebel, The" level2="legal case"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="working classes" level2="MS on"/>
 		<index level1="working classes" level2="women and girls"/>
-		<index level1="United States government" level2="birth control and"/>
-		<index level1="United States" level2="Post Office"/>
+		<index level1="United States Post Office"/>
+		
 	</headNote>
 	<docBody>
 		<div>
@@ -76,7 +89,7 @@
 				publishing literature which was then deemed obscene. The results of her educative
 				work were to give the English people <add>and the English Press</add> the utmost
 				liberty for the free discussion of subjects which the <org
-					reg="United States Post Office">Post Office</org> authorities in this country
+					reg="United States Postal Service">Post Office</org> authorities in this country
 				deem to be <add>obscene</add>" <del>non-mailable matter.</del>" To what extent the
 				right of the press is <add>now</add> recognized in England may be seen by the
 				following extracts from the summing up of <del>immigrants</del>
@@ -270,9 +283,9 @@
 				in wealth while our law-makers were closing their virtuous eyes. What did I find
 				that Society was doing to alter these conditions. I found that it was treating with
 				the symptoms instead of the <del>disease</del>
-				<add>causes</add>. They founded the <org>Little Mother Leagues</org>, Babies
-				Nurseries, <org>Better Baby Leagues</org>, and hundreds of well-intentioned
-				philanthropic and charitable organizations <del>are trying to</del>
+				<add>causes</add>. They founded the <org reg="Little Mothers' Leagues">Little Mother
+					Leagues</org>, Babies Nurseries, <org>Better Baby Leagues</org>, and hundreds of
+				well-intentioned philanthropic and charitable organizations <del>are trying to</del>
 				<add>tried to</add> cure a social cancer by burning off the top instead of getting
 				at the root. These conditions I found resulting from ignorance and I decided to
 				arouse the people of this country to these conditions and to put into action some
@@ -335,7 +348,7 @@
 				as a national issue and has brought to the notice of all social workers the
 				much-neglected question of large families. (Articles have appeared in <title
 					type="journal">Harper's</title>, <title type="journal">The New Republic</title>,
-					<title type="journal">The N.Y. American</title> and the <title type="journal"
+				<title type="journal">The <place reg="New York">N.Y.</place> American</title> and the <title type="journal"
 					>Tribune</title>). <del>Those</del>
 				<add>My</add> articles on Birth Control have received the approval and support of
 				the most eminent authorities in <place reg="England">Great Britain</place>
@@ -510,37 +523,40 @@
 					reg="Roman Empire">Rome</org>, whose opinions are supported by authorities from
 				the <title type="book">Bible</title> and which, I trust, will fully exculpate me
 				from the charge upon the record.</p>
-			<p><person>Plato</person>, in his plan for a <title type="book">Republic</title> (a
-				volume which may be purchased at <org>Brentano's</org> on Fifth Ave and sent through
-				the U.S. Mails to your address for the sum of $2.00) says, in part:-</p>
+			<p><person reg="Plato (Greek)">Plato</person>, in his plan for a <title type="book"
+					>Republic</title> (a volume which may be purchased at <org>Brentano's</org> on
+				Fifth Ave and sent through the U.S. Mails to your address for the sum of $2.00)
+				says, in part:-</p>
 			<p>"<q who="PLA">The longer a tyrant lives, the more tyrannical humor increases in him,
 					like those beasts who grow more vicious as they grow older.</q>" Again he says:-
 					"<q who="PLA">The ordinary course they took with tyrants in Greece was to
 					dispatch them secretly, if there was no opportunity of expelling them by
 					accusations before the citizens</q>".</p>
-			<p><person>Aristotle</person> also says:-"<q who="ARI">Tyranny is against the law of
-					human society, in which human nature is preserved.</q>"</p>
-			<p><person>Zenophon</person> says:-"<q who="ZEN">The Grecians would not allow murderers
-					to come into their temples yet in those very temples they erected statues to
-					those who killed tyrants thinking their deliverers fit companions for their
-					gods.</q></p>
+			<p><person reg="Aristotle (Greek)">Aristotle</person> also says:-"<q who="ARI">Tyranny
+					is against the law of human society, in which human nature is
+				preserved.</q>"</p>
+			<p><person reg="Xenophon (Greek)">Zenophon</person> says:-"<q who="XEN">The Grecians
+					would not allow murderers to come into their temples yet in those very temples
+					they erected statues to those who killed tyrants thinking their deliverers fit
+					companions for their gods.</q></p>
 			<p>Then there is that beautiful book on <gap extent="four words" reason="illegible"/>
 				written by <gap extent="two words" reason="illegible"/> the great <unclear>scholar
 					and prophet</unclear> of freedom.</p>
-			<p> Cicero, in extolling the assassination of <person reg="Julius Caesar"
-					>Caesar</person> says:-"<q who="CICMA">What act, O <name type="deity"
-						>Jupiter</name>, more glorious; more worthy of eternal memory hath been
-					done, not only in this city but in the whole world. All good men killed Caesar.
-					Some wanted capacity, some courage, others opportunity but none wanted the will
-					to do it.</q>"</p>
-			<p><person>Tertullian</person>:- (who was one of the Fathers of the Church, says) "<q
-					who="TERQU">Against common enemies and those who are enemies of the
-					commonwealth, every man is a soldier.</q>"</p>
-			<p><person reg="Augustine (St.)">St. Augustine</person> says:- "<q who="AUG">Is it not incongruous that the
-					laws of Nature and society as well permit a man to kill a thief if he be found
-					breaking into his house at night and that a tyrant who is a common robber of
-					mankind, to whom nothing is sacred, and whom no law can bind, should be
-					considered inviolable.</q>"</p>
+			<p>
+				<person reg="Cicero, Marcus Tullius (Roman)">Cicero</person>, in extolling the
+				assassination of <person reg="Julius Caesar (Roman)">Caesar</person> says:-"<q
+					who="CICMA">What act, O <name type="deity">Jupiter</name>, more glorious; more
+					worthy of eternal memory hath been done, not only in this city but in the whole
+					world. All good men killed Caesar. Some wanted capacity, some courage, others
+					opportunity but none wanted the will to do it.</q>"</p>
+			<p><person reg="Tertulian, Quintus Septimius">Tertullian</person>:- (who was one of the
+				Fathers of the Church, says) "<q who="TERQU">Against common enemies and those who
+					are enemies of the commonwealth, every man is a soldier.</q>"</p>
+			<p><person reg="Augustine (St.)">St. Augustine</person> says:- "<q who="AUG">Is it not
+					incongruous that the laws of Nature and society as well permit a man to kill a
+					thief if he be found breaking into his house at night and that a tyrant who is a
+					common robber of mankind, to whom nothing is sacred, and whom no law can bind,
+					should be considered inviolable.</q>"</p>
 			<p>I will conclude with an approval of <del>tyrannists</del> assassination written by
 				Theodore Roosevelt in his "<title type="book">Life of Cromwell</title>" published by
 					<add>Scribner &amp; Son</add>Quote. . . . . </p>

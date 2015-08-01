@@ -5,19 +5,20 @@
 		<prepDate>2014-07-03 MM</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-03-18 EK correct proof and update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-04-11">
 			<supplied resp="MSPP">11 Apr 1914</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on <emph rend="italics">Woman Rebel</emph>
-					Case</supplied>
+				<supplied resp="MSPP">Statement on WOMAN REBEL Case</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422005</idno>
 		<sourceDesc>
-			<bibl><title type="journal">New York Evening Journal</title>
+			<bibl><title type="journal">New York Evening Journal</title>, 
 				<supplied resp="MSPP">April 11, 1914</supplied>, p. 1</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -66,6 +67,11 @@
 			conventions, by motherhood, by wage slavery, by middle-class morality, by superstition
 			and by custom. Too many children in a poor family mean starvation and children that are
 			of no account."</p>
-		<p><q who="NYEJ">Mrs. Sanger belongs to the <org reg="Industrial Workers of the World">I.W.W.</org> <person reg="Goldman, Emma">Emma Goldman</person> is one of the contributors to her paper.</q></p>
+		<p>
+			<q who="NYEJ">Mrs. Sanger belongs to the <org reg="Industrial Workers of the World"
+					>I.W.W.</org>
+				<person reg="Goldman, Emma">Emma Goldman</person> is one of the contributors to her
+				paper.</q>
+		</p>
 	</docBody>
 </doc>

@@ -12,8 +12,9 @@
 			<supplied resp="MSPP">10 Aug 1945</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the Daily
-				Collegian</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Interview with the Daily Collegian</supplied>
+			</titlePart>
 
 		</docTitle>
 		<idno>msp422034</idno>
@@ -28,8 +29,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger gave this interview to the college newspaper of the Pennsylvania State
-				College in State College, PA.</p>
+		<p>Sanger gave this interview to the college newspaper of the Pennsylvania State College in
+			State College, PA.</p>
 		<index level1="birth control" level2="conferences on"/>
 		<index level1="birth control" level2="as a term"/>
 		<index level1="Planned Parenthood Federation of America"/>
@@ -44,33 +45,45 @@
 				gives as her definition of the work she has been doing for more than 30
 			years.</q></p>
 
-		<p><q who="DC">Mrs. Sanger is in <place reg="State College, PA">State College</place>
+		<p>
+			<q who="DC">Mrs. Sanger is in <place reg="State College, PA">State College</place>
 				visiting her brother Coach <person reg="Higgins, Robert A.">Bob Higgins,</person>
-				professor of physical education.</q></p>
-		<p><q who="DC">She points out that birth control does not mean to limit or interfere with
+				professor of physical education.</q>
+		</p>
+		<p>
+			<q who="DC">She points out that birth control does not mean to limit or interfere with
 				life, because life is not there to destroy. Many people, Mrs. Sanger said, at first
-				believed that it advocates abortion, which is very far from the idea.</q></p>
-		<p><q who="DC">The first organization started in 1921. Now called "The <org>Planned
+				believed that it advocates abortion, which is very far from the idea.</q>
+		</p>
+		<p>
+			<q who="DC">The first organization started in 1921. Now called "The <org>Planned
 					Parenthood Federation of America</org>," it has its own <org
-					reg="Margaret Sanger Research Bureau">research bureau</org> which is the
-				largest of its kind in the world. It gives marriage counseling to more than 6,000
-				new patients each year.</q></p>
-		<p><q who="DC">Mrs. Sanger said that her first publication, "<title type="journal">The Woman
-					Rebel</title>" was published for the express purpose of exposing the <name
+					reg="Margaret Sanger Research Bureau">research bureau</org> which is the largest
+				of its kind in the world. It gives marriage counseling to more than 6,000 new
+				patients each year.</q>
+		</p>
+		<p>
+			<q who="DC">Mrs. Sanger said that her first publication, "<title type="journal">The
+					Woman Rebel</title>" was published for the express purpose of exposing the <name
 					type="law" reg="United States Criminal Code, Section 211">Comstock Law</name>.
 				It lasted almost a year, but each copy was suppressed almost immediately after
 				printing. Today the organization publishes the scientific "<title type="journal"
 					>Journal of Fertility</title>" and the "<title type="journal">Birth Control
-					News</title>," which is distributed to its members.</q></p>
-		<p><q who="DC">When asked about other hindrances that faced her and the organization, she
+					News</title>," which is distributed to its members.</q>
+		</p>
+		<p>
+			<q who="DC">When asked about other hindrances that faced her and the organization, she
 				said that the big trouble today is in getting religious leaders to see the value of
 				this movement and to secure their help. However, many clergymen have helped, and
-				more are pointing in that direction.</q></p>
-		<p><q who="DC">Mrs. Sanger said that she has many hobbies, but at the moment painting is
-				occupying her attention. While visiting at the <org
-					reg="Pennsylvania State College">College,</org> she is studying painting
-				under <person reg="Pittman, Hobson">Hobson Pittman,</person> nationally-known artist
-				and summer instructor at the College.</q></p>
+				more are pointing in that direction.</q>
+		</p>
+		<p>
+			<q who="DC">Mrs. Sanger said that she has many hobbies, but at the moment painting is
+				occupying her attention. While visiting at the <org reg="Pennsylvania State College"
+					>College,</org> she is studying painting under <person reg="Pittman, Hobson"
+					>Hobson Pittman,</person> nationally-known artist and summer instructor at the
+				College.</q>
+		</p>
 
 	</docBody>
 </doc>

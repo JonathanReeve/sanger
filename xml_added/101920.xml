@@ -12,17 +12,18 @@
 		<prepDate>2015-01-23 EK correct proof</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
 		<prepDate>2015-03-09 CH tag table</prepDate>
+		<prepDate>2015-07-10 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1915-03-00 ">Mar/Apr 1915</docDate>
 		<docTitle>
-			<titlePart>Introduction to Dutch Methods of Birth Control</titlePart>
+			<titlePart>Introduction to DUTCH METHODS OF BIRTH CONTROL</titlePart>
 		</docTitle>
 		<idno>msp101920</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 128:737</bibl>
+			<bibl>Library of Congress Microfilm 128:0737</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp>
@@ -39,24 +40,30 @@
 			and "<xref from="129014.xml">Magnetation Methods of Birth Control</xref>," 1915. We have
 			omitted the description of contraceptive methods reprinted from the pamphlet produced by
 			the <org><foreign lang="DUT">Nieuw Malthusiaanche Bond</foreign></org>; for entire
-			pamphlet, see Library of Congress Microfilm 128:737.</p>
-		<index level1="abortion"/>
-		<index level1="birth control" level2="class-based"/>
-		<index level1="birth control clinics and leagues"/>
-		<index level1="birth control" level2="health benefits and risks of"/>
-		<index level1="birth control methods"/>
-		<index level1="birth control" level2="opposition to"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
-		<index level1="mortality rates" level2="infant"/>
+			pamphlet, see Library of Congress Microfilm 128:0737.</p>
+		<index level1="Sanger, Margaret" level2="books" level3="Dutch Methods of Birth Control"/>
+		<index level1="birth control" level2="history of"/>
 		<index level1="neo-Malthusianism"/>
+		<index level1="England" level2="Malthusian League"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
 		<index level1="Netherlands, the" level2="birth control in"/>
-		<index level1="Netherlands, the" level2="conditions in"/>
-		<index level1="nurses" level2="birth control and"/>
-		<index level1="physicians" level2="birth control and"/>
+		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="birth control" level2="health benefits and risks of"/>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="birth control methods" level2="diaphragm"/>
+		<index level1="birth control methods" level2="pessaries"/>
+		<index level1="mortality rates" level2="infant" level3="Netherlands, the"/>	
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="nurses and nursing" level2="and birth control"/>
+		<index level1="physicians" level2="and birth control"/>
 		<index level1="population" level2="birth control and"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="sex education"/>
-		<index level1="venereal disease" level2="prevention of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="sex education" level2="and birth control"/>
+		<index level1="venereal disease"/>
+		<index level1="race suicide"/>
+		<index level1="women and girls" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>DUTCH METHODS OF BIRTH CONTROL.</head>

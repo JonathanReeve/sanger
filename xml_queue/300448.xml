@@ -27,7 +27,7 @@
 		</sourceDesc>
 		<respStmt>
 			<name id="SACSA">Sachs, Sadie</name>
-			<name id="SUMHA">Sumners, Hatton</name>
+			<name id="SUMHA">Sumners, Hatton W.</name>
 			<name id="HEPKA">Hepburn, Katharine Houghton</name>
 			<name id="HEAAR">Healey, Arthur Daniel</name>
 			<name id="COUCH">Coughlin, Charles E.</name>
@@ -75,8 +75,8 @@
 				reg="National Committee on Federal Legislation for Birth Control">COMMITTEE ON
 				FEDERAL LEGISLATION FOR BIRTH CONTROL INC.</org></head>
 		<div type="section">
-			<p> Mrs. Sanger. Mr. <person reg="Sumners, Hatton">Chairman</person> and members of the
-					<org reg="United States House of Representatives, Committee on the Judiciary"
+			<p> Mrs. Sanger. Mr. <person reg="Sumners, Hatton W.">Chairman</person> and members of
+				the <org reg="United States House of Representatives, Committee on the Judiciary"
 					>committee</org>, in the brief time allotted to me, I simply want to discuss the
 				effect of this <name type="law" reg="United States Criminal Code, Section 211"
 					>law</name> as it stands today on the various institutions and upon women
@@ -218,7 +218,7 @@
 				<p> Mrs. <person reg="Hepburn, Katharine Houghton">Hepburn</person>. All of this
 					applause, as the chairman said, is taken out of our time.</p>
 				<p> The next speaker is Dr. <person reg="Bossard, James H. S.">Bossard</person>, of
-					the <org>University of Pennsylvania, Department of Sociology</org>.</p>
+					the <org>University of Pennsylvania</org>, Department of Sociology.</p>
 			</q>
 
 			<p>
@@ -251,11 +251,10 @@
 			<p> Then the <org>League of Nations</org> has officially recognized contraception and
 				abortions as problems of public health. Under date of October 15, 1931, the health
 				organization of the League issued a report on maternal welfare and the hygiene of
-				infants of free-school age; and on February 1, 1933, the <org
-					reg="League of Nations Council">Council of the League of Nations</org> adopted
-				the report in its amended form. I would like also to submit for the record the
-				report of the League of Nations recommending contraception in the various health
-				center throughout the world.</p>
+				infants of free-school age; and on February 1, 1933, the Council of the League of
+				Nations adopted the report in its amended form. I would like also to submit for the
+				record the report of the League of Nations recommending contraception in the various
+				health center throughout the world.</p>
 			<p> Now, there is one other point that seems to me very interesting, and that is that it
 				may seem there has been a great deal of warfare practiced between the people who
 				oppose the bill and we who propose it, and that the people who have come here to
@@ -263,7 +262,7 @@
 				inform you that is not true.</p>
 			<p> There is a book that has recently bee published by the <org
 					reg="Berthold Latz Foundation Inc.">Latz Foundation</org> called “<title
-					type="book">The Rhythm of Sterility and Fertility in Women</title>.” This has
+					type="book" reg="The Rhythm">The Rhythm of Sterility and Fertility in Women</title>.” This has
 				been published with “ecclesiastical approval”, and this has been recommended by all
 				of the Catholic societies and Catholic publications.</p>
 
@@ -348,7 +347,7 @@
 				period for all women, as Dr. <person reg="Willson, Prentiss">Willson</person> has
 				suggested to you.</p>
 			<p> Now it comes down to a safe device or a safe period, and that is just about where
-				both sides are now. I can read to you out of this book, “<title type="book"
+				both sides are now. I can read to you out of this book, “<title type="book" reg="The Rhythm"
 					>Rhythm</title>,” answers to everything that has been said here. Out of this
 				book comes answers, and I will take up your time to read at least some of them. It
 				states here that Catholic doctors are not in agreement as to the serious physical
@@ -790,9 +789,9 @@
 				<q who="HEAAR"> Mr. Healey. You ought to know there is considerable opposition to it
 					from every state.</q>
 			</p>
-			<p> Mrs. Sanger. There is no organized opposition except from the <org>Catholic
-					Church</org>. A small group of Lutherans have opposed it, and they are the only
-				groups we have any record of.</p>
+			<p> Mrs. Sanger. There is no organized opposition except from the <org
+					reg="Roman Catholic Church">Catholic Church</org>. A small group of Lutherans
+				have opposed it, and they are the only groups we have any record of.</p>
 			<p>
 				<q who="HEAAR"> Mr. Healey. Have you tried to get resolutions from other churches
 					sponsoring your view?</q>

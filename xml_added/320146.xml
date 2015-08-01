@@ -29,7 +29,14 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For the first edition of <title type="book">Family Limitation,</title> published in 1914, see <xref from="238157.xml">Family Limitation</xref></p>
+		<p>This is a revision of Sanger's 1914 <xref from="238157.xml">Family Limitation</xref>. For
+			other versions included in the digital edition, see <xref from="128069.xml">Family
+				Limitation</xref>, 3rd or 4th edition, ca., 1915, <xref from="320179.xml">Family
+				Limitation</xref>, 9th edition, 1919, <xref from="238150.xml">Family
+				Limitation</xref>, 12th edition, ca. 1922, and a draft of revisions for <xref
+				from="129001.xml">Family Limitation</xref>, ca. 1936. For additional editions, see
+			the Margaret Sanger Microfilm, Smith College Collections, Collected Documents Series and
+			Library of Congress Microfilm.</p>
 		<index level1="abortion"/>
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="birth control" level2="socio-economic benefits"/>
@@ -52,7 +59,7 @@
 		<index level1="sex and sexuality" level2="MS on"/>
 		<index level1="sex education" level2="and birth control"/>
 		<index level1="working classes" level2="and birth control"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<head>Family Limitation</head>
 		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
@@ -176,7 +183,7 @@
 				then left in this dissatisfied state. This does her injury. A mutual and satisfied
 				sexual act is of great benefit to the average woman, the magnetism of it is health
 				giving. When it is not desired on the part of the woman and she has no response,
-					 <emph rend="italics">it should not take place</emph>. This is an act of
+					<emph rend="italics">it should not take place</emph>. This is an act of
 				prostitution and is degrading to the woman's finer sensibility, all the marriage
 				certificates on earth to the contrary notwithstanding. Withdrawal on the part of the
 				man should be substituted by some other means that does not injure the woman.</p>

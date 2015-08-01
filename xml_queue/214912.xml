@@ -6,8 +6,9 @@
 		<prepDate>2014-03-19 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
 		<prepDate>2015-03-27 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1937-02-24">24 Feb 1937</docDate>
 		<docTitle>
 			<titlePart>
@@ -28,9 +29,12 @@
 			<name id="EPT">El Paso Times</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke at the <org>Hotel Paso del
-			Norte</org>, after the original meeting location, the <org>Hotel
-				Hilton</org>, backed out.</p>
+	<headNote resp="MSPP">
+		<p>Sanger spoke at the <org>Hotel Paso del Norte</org>, after the
+			original meeting location, the <org>Hotel Hilton</org>, backed out.
+			For a statement on the rhythm method she gave before her speech, see
+				<xref from="422099.xml">Statement on the Rhythm Method</xref>,
+			Feb. 24, 1937.</p>
 		<index level1="population growth" level2="regulation of"/>
 		<index level1="Birth Control Clinical Research Bureau"/>
 		<index level1="birth control clinics and leagues"/>
@@ -42,7 +46,8 @@
 		<index level1="sex education" level2="birth control and"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
 		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
-		<index level1="transmissible disease"/></headNote>
+		<index level1="transmissible disease"/>
+	</headNote>
 	<docBody>
 		<head>350 El Pasoans Meet To Hear Mrs. Sanger On Birth Control</head>
 		<p>
@@ -56,7 +61,8 @@
 		<div type="section">
 			<head type="sub"> Ask Doctors To Help. </head>
 
-			<p><q who="EPT">A committee of physicians will be asked to work at
+			<p>
+				<q who="EPT">A committee of physicians will be asked to work at
 					the clinics, which Mrs. Sanger hopes will be established on
 					El Paso’s north and south side. Clinic equipments costs
 					little, and supplies are furnished by the demonstration
@@ -65,8 +71,7 @@
 						Control Clinical Research Bureau</org>, she said.</q>
 			</p>
 			<p>“El Paso people are the first in the <place>United States</place>
-				to take advantage of the December 7, <org
-					reg="United States Court of Appeals for the Federal Circuit"
+				to take advantage of the December 7, <org			
 					>United States Circuit Court of Appeals</org> ruling that
 				physicians might send contraceptives by mail--an act considered
 				hitherto illegal,”<q who="EPT"> Mrs. Sanger said.</q>
@@ -159,15 +164,18 @@
 					changed. When too many people inhabit a section of the
 					world, war cannot be avoided.</q>
 			</p>
-			<p><q who="EPT"> Mrs. Sanger will lecture and show a special film at
-					a meeting for all El Paso doctors Thursday at 8 p.m. in the
-					West Room of Hotel Paso del Norte.</q>
+			<p>
+				<q who="EPT"> Mrs. Sanger will lecture and show a special film
+					at a meeting for all El Paso doctors Thursday at 8 p.m. in
+					the West Room of Hotel Paso del Norte.</q>
 			</p>
 			<p>
 				<q who="EPT">The <org
 						reg=" El Paso Birth Control Clinic Committee">Birth
 						Control Clinic Committee </org>will meet Thursday at 10
-					a.m. at Hotel Paso del Norte.</q></p>
+					a.m. at Hotel Paso del Norte.</q>
+			</p>
 		</div>
+
 	</docBody>
 </doc>

@@ -13,8 +13,8 @@
 		<docDate value="1932-05-19">19 May 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Testimony Before the House of Representatives on H. R.
-					11082</supplied>
+				<supplied resp="MSPP">Testimony Before the United States House of Representatives on
+					H. R. 11082</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp300444</idno>
@@ -39,7 +39,9 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>The following is an excerpt from the hearings, including only Margaret Sanger's testimony
-			and speech she responded to directly.</p>
+			and speech she responded to directly. For additional comments made by Sanger, see <xref
+				from="422095.xml">Comments at House Testimony on H. R. 11082</xref>, May 19,
+			1932.</p>
 		<index level1="abortion" level2="birth control vs."/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="and marriage"/>
@@ -106,7 +108,7 @@
 			<p> I found everywhere women who were seeking some means, some knowledge of what they
 				could do to prevent the coming of other children whom they know, owing to their
 				physical defects, they were unable to bring into the world in a healthy condition;
-				or, owing to their husband’s economic circumstances, they would be unable to provide
+				or, owing to their husband's economic circumstances, they would be unable to provide
 				for.</p>
 			<p> So I began to wonder if we could not do something about this law, which was passed
 				by <org reg="United States Congress">Congress</org> in 1873, nearly 60 years ago.
@@ -130,9 +132,9 @@
 				according to the hour of the day or night. You control your motor car, but you do
 				not have to stop the engine.</p>
 			<p> So, in controlling the size of the family or controlling the birth rate, we control
-				it in accordance with the mother’s health, in consideration of the quality of
+				it in accordance with the mother's health, in consideration of the quality of
 				inheritance that we are going to pass on to our children, in consideration of the
-				father’s income and his earning capacity.</p>
+				father's income and his earning capacity.</p>
 			<p> This law, Mr. Chairman, was put upon the statute books at a time when there was very
 				little recognition of the value of the practice of family limitation, when there was
 				very little knowledge of the technique of contraception.</p>
@@ -165,7 +167,7 @@
 				transmissible disease, neither of those persons should consider being a parent.</p>
 			<p> Second. In conditions where the mother or the woman has a temporary disease, such as
 				tuberculosis or a heart or kidney disease, pelvic deformity, goiter, and various
-				other conditions, pregnancy becomes a great hazard to the woman’s life. We claim
+				other conditions, pregnancy becomes a great hazard to the woman's life. We claim
 				that the mother should be protected by having contraceptive information so that she
 				can regain her health before she takes upon herself the burden of pregnancy.</p>
 			<p> Third. Where parents though seemingly normal themselves, yet have already given
@@ -177,8 +179,8 @@
 				by spacing the births of children for a period of from two to three years.</p>
 			<p> Mr. Chairman and gentlemen, the days are past when it was a very easy matter for
 				women to give birth to children, as it was two or three generations ago. Today it is
-				known that the whole organism of a woman’s life, her nervous organism, is quite
-				different from what it was in her grandmother’s days, and child bearing is a greater
+				known that the whole organism of a woman's life, her nervous organism, is quite
+				different from what it was in her grandmother's days, and child bearing is a greater
 				hazard today than it ever was before. In many, many cases, it leaves her not only in
 				a precarious condition at the time, but often in a damaged condition for the
 				future.</p>
@@ -187,7 +189,7 @@
 				spiritually for the coming of the next child they may wish to have. That means a
 				spacing from two to three years between children.</p>
 			<p> Doctor <person reg="Woodbury, Robert Morse">Woodbury</person>, of the <org>United
-					States Children’s Bureau</org>, published some very interesting data where he
+					States Children's Bureau</org>, published some very interesting data where he
 				clearly shows that too short an interval between childbirths markedly affects the
 				infant death rate. Where the interval between births is three years, the infant
 				death rate is 86.5 (per 1,000 births); when the interval is two years, the rate is
@@ -197,7 +199,7 @@
 				not right, for people to have children for whom they cannot provide, and it is just
 				as unfair for a man and woman to have children that society or the community or
 				their older children have to provide for as it is for one country to spill over the
-				other country’s border. It is just the same morally.</p>
+				other country's border. It is just the same morally.</p>
 			<p> We know that in our work we have had women come to us who 10 years ago were unable
 				to provide for 4 or 6 children and who today have 12 or 15 which the community has
 				been providing for and taking care of.</p>
@@ -219,12 +221,12 @@
 			<p> This is illustrated by other findings of Doctor Woodbury. In homes, for instance,
 				where the average number of persons per room is less than 1, the infant death rate
 				is 52.1; where it is two or more per room, the death rate is 135.7. Furthermore, in
-				families where the per capita income from the father’s earnings was less than $50
+				families where the per capita income from the father's earnings was less than $50
 				the infant mortality rate was 215.9, as compared with a rate of only 60.5 where the
 				per capita amount averaged $400 or over. These figures clearly and strikingly
 				indicate the influence of family over-crowding upon family well being.</p>
 			<p> Seventh. Adjustment.-– A point on which many may disagree with us. I believe it is
-				very important to our young people’s future that they should take at least two or
+				very important to our young people's future that they should take at least two or
 				three years of marriage just to get acquainted. Marriage is more today than just a
 				question of providing for children. When there is a fine companionship in marriage
 				between men and women, a spiritual development results. We believe that if two
@@ -302,7 +304,7 @@
 				countries are <place>France</place> and <place>Italy</place>.</p>
 			<p> We have in this country nearly 100 clinics, birth-control clinics, that are legally
 				operating in the various States. Forty-seven States allow the physician to protect
-				the woman’s health and to give contraceptive advice as he sees fit. At the same time
+				the woman's health and to give contraceptive advice as he sees fit. At the same time
 				these physicians, while they may give information orally, have to bootleg their
 				supplies from New York or <place reg="Chicago, IL">Chicago</place> or some place
 				where they are manufactured in order to do what they should to protect the health of
@@ -311,7 +313,7 @@
 					Angeles</place>, under the county medical department 11 birth-control clinics
 				have been established. If I should write and tell a woman in Los Angeles where one
 				of those clinics is, or send her the address or name of the director of those
-				clinics, I subject myself to the possibility of five years’ imprisonment and $5,000
+				clinics, I subject myself to the possibility of five years' imprisonment and $5,000
 				fine under <name reg="United States Criminal Code, Section 211">section 211</name>;
 				even to write her where she may go to obtain that information.</p>
 			<p> It is preposterous; it is absurd. This whole situation is preposterous. Our laws are
@@ -359,24 +361,24 @@
 				<q who="UNK">I just passed my 21st birthday August 5th (this year). I am already the
 					mother of five little children, the oldest six, and the baby three months. My
 					husband has been out of work over a year and a half now. We would have starved
-					to death long ago but for our relatives who, among them, gave us $5 a week. It’s
+					to death long ago but for our relatives who, among them, gave us $5 a week. It's
 					awful hard, Mrs. Sanger, to live like this, and my husband got so down and blue
 					when he found I was that way last time, that he wanted to go away and live in
-					another place, but his folks wouldn’t let him do that. My children are well,
-					thank <name type="deity">God</name>, but I’m awfully weak, only weighing 90
+					another place, but his folks wouldn't let him do that. My children are well,
+					thank <name type="deity">God</name>, but I'm awfully weak, only weighing 90
 					pounds. I do all the work, and if only I could get strong and not have any more
-					babies, I’d take hope and so would my husband. Won’t you help me, please? I know
+					babies, I'd take hope and so would my husband. Won't you help me, please? I know
 					that God will bless you if you do.</q>
 			</p>
 			<p> One more. This is a classic:</p>
 			<p>
 				<q who="UNK">I am only 34 years old and have given birth to 12 children, only 3 of
-					them living. They die so quickly after they are born, it seems they don’t have
+					them living. They die so quickly after they are born, it seems they don't have
 					strength to live long. My husband is a good hard-working man, but the best he
-					ever made was $1.50, and never for long. We’re poor people, Mrs. Sanger, and the
-					coffins of the last two are not paid for yet. It’s hard on a woman to see them
+					ever made was $1.50, and never for long. We're poor people, Mrs. Sanger, and the
+					coffins of the last two are not paid for yet. It's hard on a woman to see them
 					go like that, and I think that if I did not have any for a while I could keep
-					the three I’ve got and give them better than we had.</q>
+					the three I've got and give them better than we had.</q>
 			</p>
 			<p> Is there any man in the world that would continue a business that shows a 75 per
 				cent loss? Of course not. And yet these mothers are not only losing live babies, but
@@ -452,7 +454,7 @@
 			<p> Mrs. Sanger. Of course we are going to give them a better chance to become
 				acquainted; far better than they have today. If I may just digress a moment, what
 				opportunity is there for young people to get acquainted? In the first year after
-				marriage a woman’s whole physiological condition is changed. There may be some
+				marriage a woman's whole physiological condition is changed. There may be some
 				opportunity for the man--he does not have to have his whole physiological condition
 				changed, but for the woman who comes back from her honeymoon with headaches, morning
 				nausea, and a new nervous strain-–not only is marriage a new condition for her, but
@@ -568,8 +570,8 @@
 				the merits of the bill, but on a defense of “morals.” That is amusing, particularly
 				when taken in conjunction with the statement of Dr. <person
 					reg="Ryan, John Augustine">John Ryan</person>, who is a theologian, a
-				representative of the <org>Catholic Church</org>, who comes to theorize on economics
-				and the population aspect of this question.</p>
+				representative of the <org reg="Roman Catholic Church">Catholic Church</org>, who
+				comes to theorize on economics and the population aspect of this question.</p>
 			<p> That is all very right and proper. They may express their opinions, but Mr.
 				Chairman, the merits of the bill have not been discussed by the opponents of the
 				bill.</p>
@@ -581,7 +583,7 @@
 			<p> That is the sum and substance of what this is all about.</p>
 			<p> Canon <person reg="Chase, William Sheafe">Chase</person> made a statement for which
 				I think he owes and apology to the Federal committee, when he said that this is a
-					“<q who="SHEWI">crook’s bill</q>.” I am not going to take the time to refute
+					“<q who="SHEWI">crook's bill</q>.” I am not going to take the time to refute
 				these stupid, senseless, futile, personal accusations. I want to say that he did say
 				one good thing. He said, “<q who="SHEWI">No sensible person can oppose giving the
 					trustworthy physician freedom to do what is necessary to protect the lives of
@@ -635,14 +637,12 @@
 			<p> There are 150,000 physicians in the United States who belong to the <org>American
 					Medical Association</org>. There is some difference of opinion among them. The
 				American Medical Association as a whole has never gone on record for or against this
-				measure, but a few years ago the <org
-					reg="American Medical Association Section on Obstetrics, Gynecology, and Abdominal Surgery"
-					>section on obstetrics and gynecology and abdominal surgery</org> did go on
-				record by a resolution to the effect that they recommended “the alteration of
-				existing laws whenever necessary so that physicians my legally give contraceptive
-				information to their patients in the regular course of their practice.” That
-				resolution, Mr. Chairman, was submitted in record yesterday and is printed elsewhere
-				in full.</p>
+				measure, but a few years ago the section on obstetrics and gynecology and abdominal
+				surgery did go on record by a resolution to the effect that they recommended “the
+				alteration of existing laws whenever necessary so that physicians my legally give
+				contraceptive information to their patients in the regular course of their
+				practice.” That resolution, Mr. Chairman, was submitted in record yesterday and is
+				printed elsewhere in full.</p>
 			<p> To give you a brief idea of how the medical profession regards this question, I
 				shall cite from a questionnaire sent out by the <title type="journal">Medical
 					Journal and Record</title> in 1927. Two hundred and seventy-three doctors
@@ -689,10 +689,11 @@
 				contraception can do; how it will relieve the tremendous and growing burdens of
 				charity now resting on society.</p>
 			<p> Here is a report by Dr. <person reg="Butler, Lily C.">Lily C. Butler</person>,
-				medical officer of the <org>Walworth Woman’s Welfare Center</org>, presented before
-				the <org reg="International Birth Control Conference, 7th">Seventh International
-					Birth Control Conference</org> held last September in <place
-					reg="Zurich, Switzerland">Zurich</place>, which reads as follows:</p>
+				medical officer of the <org reg="Walworth Women's Welfare Centre">Walworth Woman's
+					Welfare Center</org>, presented before the <org
+					reg="International Birth Control Conference, 7th">Seventh International Birth
+					Control Conference</org> held last September in <place reg="Zurich, Switzerland"
+					>Zurich</place>, which reads as follows:</p>
 			<p>
 				<q who="BUTLI">So much is stated by opponents of birth control as to contraceptive
 					subsequently producing sterility that the figures we have obtained on going
@@ -704,10 +705,11 @@
 			</p>
 			<p> That shows that when proper means are applied to protect the individual woman there
 				is no question that it is helpful to her and that it does not make her sterile.</p>
-			<p> To answer Mrs. Norton’s challenge regarding my statement that 1,500,000 women have
+			<p> To answer Mrs. Norton's challenge regarding my statement that 1,500,000 women have
 				died from causes due to childbearing since this Comstock law was passed, I wish to
-				state that this estimate was based on the figures of the <org>United States Census
-					Bureau, Department of Vital Statistics</org>.</p>
+				state that this estimate was based on the figures of the <org
+					reg="United States Census Bureau, Department of Vital Statistics">United States
+					Census Bureau, Department of Vital Statistics</org>.</p>
 			<p> I wish to refute directly one other statement made by Mrs. Norton. In a reference to
 				the sale of contraceptives, Mrs. Norton used the words “<q who="NORMA">commercially
 					profitable to their advocates</q>.” Never have I, nor to my knowledge have any
@@ -733,7 +735,7 @@
 					reg="Caruso, Enrico">Caruso</person> was the eighteenth, but a pitiful number of
 				the other children in these families had died in infancy.</p>
 			<p> There are only two or three among those men and women who can be classified as
-				“great” who were born late in the family’s life, while those that were second or
+				“great” who were born late in the family's life, while those that were second or
 				third make up a much larger portion.</p>
 			<p>
 				<supplied resp="MSPP">The document referred to has been omitted by the
@@ -746,15 +748,16 @@
 			<p><person reg="Isaac (Biblical)">Isaac</person>, in whose seed all the nations were to
 				be blessed, was an only child, born after long years of preparation. <person
 					reg="Sarah (Biblical)">Sarah</person>, his mother, was a beautiful, talented
-				woman, whose counsel was highly valued. Isaac’s only children were twins-–<person
+				woman, whose counsel was highly valued. Isaac's only children were twins-–<person
 					reg="Jacob (Biblical)"> Jacob</person>, the father of all of
-					<place>Israel</place>, and <person reg="Esau (Biblical)">Esau</person>. Isaac’s
+					<place>Israel</place>, and <person reg="Esau (Biblical)">Esau</person>. Isaac's
 				wife, <person reg="Rebekah (Biblical)">Rebecca</person>, was also a lovely woman of
 				fine character, whose opinion was sought and valued. <person reg="Joseph (Biblical)"
 					>Joseph</person>, the child of <person reg="Rachel (Biblical)">Rachel</person>,
-				was born late in her life, and she had but one other child. <person reg="Samuel (Biblical)">Samuel</person>,
-				who judged Israel for 40 years, was an only child, born after years of prayer and
-				supplication on the part of <person reg="Hannah (Biblical)">Hannah</person>. <person
+				was born late in her life, and she had but one other child. <person
+					reg="Samuel (Biblical)">Samuel</person>, who judged Israel for 40 years, was an
+				only child, born after years of prayer and supplication on the part of <person
+					reg="Hannah (Biblical)">Hannah</person>. <person
 					reg="John the Baptist (Biblical)">John the Baptist</person> was an only child
 				and his parents were well along in years when he was born.</p>
 			<p><person reg="Jesus Christ">Jesus</person> was the first born of Joseph and <person

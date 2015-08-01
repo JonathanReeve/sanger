@@ -3,7 +3,7 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/07/08 MM</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-05-27 CH clean up citation</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -20,7 +20,7 @@
 		<idno>msp421994</idno>
 		<sourceDesc>
 			<bibl><title type="article">Mrs. Sanger Lauds Birth Stand of Episcopalians</title>,
-					<title type="journal">Tuscon Daily Citizen</title>, Oct. 2, 1961</bibl>
+					<title type="journal">Tuscon Daily Citizen</title>, Oct. 2, 1961, p. 56</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -31,7 +31,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		
+
 		<index level1="Catholic Church" level2="birth control and"/>
 		<index level1="birth control" level2="international"/>
 		<index level1="India" level2="birth control in"/>

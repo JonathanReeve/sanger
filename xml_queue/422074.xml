@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-27 MC encoded and transcribed</prepDate>
+		<prepDate>2015-05-29 CH proof tags</prepDate>
+		<prepDate>2015-06-09 LH enter corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1922-02-18">18 Feb 1922</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Japanese Population Increase</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422074</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control or War, Claim</title>, <title type="journal"
+					>Oshkosh Daily Northwestern</title>, Feb. 18, 1922, p. 2</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+			<name id="ODN">Oshkosh Daily Northwestern</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>No complete version of the statement was found; newspaper coverage was used.</p>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="Japan" level2="politics in"/>
+	</headNote>
+	<docBody>
+		<head>Birth Control or War, Claim</head>
+		<p>"If <place>Japan</place> continues its current increase in population and does not resort
+			to birth control, there will be but one result--war."</p>
+		<p>
+			<q who="ODN">This was the declaration today of Mrs. Margaret Sanger, president of the
+					<org reg="American Birth Control League">American birth control league</org>,
+				who has been refused a passport visa by the <org reg="Japan Consulate">Japanese
+					consulate</org> here on orders from <place reg="Tokyo, Japan">Tokyo</place>.</q>
+		</p>
+		<p>"If in barring me from entering Japan the <org reg="Japan Government">Japanese
+				government</org> is signifying its refusal to consider the birth control idea, Japan
+			leaves herself open to the suspicion that she is preparing for war,"<q who="ODN"> she
+				added</q>.</p>
+		<div>
+			<head type="sub">"Invited" She Says</head>
+			<p>"I was invited by several members of the Japanese government and by the <org
+					reg="Kaizo">Kaizo group</org> to come to Japan and deliver five lectures on the
+				birth control movement.</p>
+			<p>"Then, with the aid of Baroness <person reg="Kato, Shidzue Ishimoto"
+					>Ishimoto</person>, who is in sympathy with my aims, I had planned to establish
+				a series of birth control clinics throughout Japan."</p>
+			<p>
+				<q who="ODN">Mrs. Sanger will continue her trip to <place reg="Asia">the
+						orient</place>. She hopes to be able to enter Japan merely as a traveller.
+					Following that, she will continue her trip to <place>China</place> and
+						<place>India</place>, where she has lecture engagements.</q>
+			</p>
+			<p>"The militaristic group in Japan," <q who="ODN">she said</q>, "is strongly opposed to
+				me and my principles.</p>
+			<p>A quota of 100,000,000 as the population of Japan has been set by this group. There
+				are 57,000,000 now. They say that with a population of 100,00,000 they will have the
+				right to speak in world affairs."</p>
+			<p>"The 'right to speak' as voiced by the militarists can be interpreted in but one way.
+				The power to speak in a way that with their immense population, will brook no
+				argument.</p>
+			<p>If Japan refuses to take birth control, if she will not accept it as her national
+				policy, I think her plans and intentions are obvious."</p>
+		</div>
+	</docBody>
+</doc>

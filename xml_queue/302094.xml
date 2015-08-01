@@ -6,7 +6,9 @@
 		<prepDate>2012-04-04 CH Proofed Tags</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1954-01-24">01 Jan 1954</docDate>
 		<docTitle>
 			<titlePart>Mrs. Slee Outlines Problems of Population</titlePart>
@@ -50,20 +52,21 @@
 			<head type="sub">Glimmering of Hope</head>
 			<p>Fortunately there is a glimmering of hope, at last an awakening on the part of some
 				governments like <place>Japan</place> and <place>India</place> to see the importance
-				of controlling population growth. The census report of 1951 by the <org reg="India Government">Government
-					of India</org> called upon the planning commission to undertake an intensive
-				campaign throughout India to control the birth rate, in order to avert national
-				disaster caused by the rapidly growing population, now 357,000,000, and soaring at
-				the rate of five million every year. Attention is called to the fact of the total
-				world population, estimated at 2,465,000,000 in 1951, increasing by 75,000 persons
-				every day, or 30,000,000 a year, all of which increases daily and yearly because of
-				the fact of medical science, improved satisfaction, which cuts down the death rate
-				in these countries, which otherwise would not be so rapidly increasing.</p>
+				of controlling population growth. The census report of 1951 by the <org
+					reg="India Government">Government of India</org> called upon the planning
+				commission to undertake an intensive campaign throughout India to control the birth
+				rate, in order to avert national disaster caused by the rapidly growing population,
+				now 357,000,000, and soaring at the rate of five million every year. Attention is
+				called to the fact of the total world population, estimated at 2,465,000,000 in
+				1951, increasing by 75,000 persons every day, or 30,000,000 a year, all of which
+				increases daily and yearly because of the fact of medical science, improved
+				satisfaction, which cuts down the death rate in these countries, which otherwise
+				would not be so rapidly increasing.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Chaos Predicted</head>
 			<p>A recent book by a distinguished demographer, Professor <person
-					reg="Osborne, Fairfield">Fairfield Osborne</person>, presents a persuasive
+					reg="Osborn, Henry Fairfield">Fairfield Osborn</person>, presents a persuasive
 				survey, in his recent book “<title type="book">The Limits of the Earth</title>”,
 				showing the connection throughout the ages between agricultural resources,
 				population increase and the advance and welfare of civilization. He, like other
@@ -98,13 +101,13 @@
 		<div type="section">
 			<head type="sub"><place reg="Tucson, AZ">Tucson</place> Lauded</head>
 			<p>We are fortunate in this city of Tucson to have such a <org
-					reg="Tucson Mother's Health Clinic">Planned Parenthood clinic</org>, which has for the
-				past 18 years has helped parents. It is a proud record where more than 6,430 parents
-				have availed themselves of proper knowledge and today can demonstrate the good
-				fortune of small healthy family units. The majority of the mothers who apply for
-				such information are often in poor health, usually financially unable to meet the
-				needs of the three or four, or six and eight children they already have. The clinic
-				does not charge for this information. </p>
+					reg="Tucson Mother's Health Clinic">Planned Parenthood clinic</org>, which has
+				for the past 18 years has helped parents. It is a proud record where more than 6,430
+				parents have availed themselves of proper knowledge and today can demonstrate the
+				good fortune of small healthy family units. The majority of the mothers who apply
+				for such information are often in poor health, usually financially unable to meet
+				the needs of the three or four, or six and eight children they already have. The
+				clinic does not charge for this information. </p>
 			<p>The board of directors are volunteers and must go to the people of Tucson to help
 				meet the cost of this service. Perhaps the greatest advancement as to the humanity
 				of this work is the fact that the overcrowded countries of the Orient are accepting

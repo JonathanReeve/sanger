@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-06-09 MC transcribed and encoded</prepDate>
+		<prepDate>2015-06-24 CH proof tags</prepDate>
+		<prepDate>2015-06-30 MC enter corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1952-11-26">26 Nov 1952</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Comments at the Third International Conference for Planned
+					Parenthood</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422094</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control Advocate Draws A-Bomb Contrast</title>, <title
+					type="journal">Pottstown Mercury</title>, Nov. 27, 1952, p. 5</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="PM">Pottstown Mercury</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>For Sanger's speech to the conference, see <xref from="214408.xml">The Humanity of Family
+				Planning</xref>, Nov. 26, 1952.</p>
+		<index level1="birth control" level2="international"/>
+		<index level1="conferences" level2="International Conference on Planned Parenthood"
+			level3="1952 (3rd)"/>
+		<index level1="India" level2="birth control in"/>
+	</headNote>
+	<docBody>
+		<head>Birth Control Advocate Draws A-Bomb Contrast</head>
+		<dateline><place reg="Bombay, India">BOMBAY, India</place>, <date value="1952-11-26">Nov.
+				26</date> (<org reg="Associated Press">AP</org>)</dateline>
+		<p>
+			<q who="PM">Mrs. Margaret Sanger of <place reg="Tucson, AZ">Tucson, Ariz.</place>,
+				prominent American advocate of birth control, said today it is a shame that mankind
+				can produce atom bombs but is unable to improve on contraceptives.</q>
+		</p>
+		<p>"We should really be ashamed of the situation," <q who="PM">she told the <org
+					reg="International Conference for Planned Parenthood, 3rd">International
+					Planned Parenthood conference</org></q>. "We produce atom bombs and cannot
+			improve upon modern contraceptives, first used in <place reg="Netherlands"
+				>Holland</place> decades ago."</p>
+		<p><q who="PM">Mrs. Sanger said she regarded the conference here as the culmination of her
+				life's work. </q>"I am proud of the popularization of family planning ideas in
+				<place>India</place>," <q who="PM">she added.</q></p>
+	</docBody>
+</doc>

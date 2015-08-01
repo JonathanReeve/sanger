@@ -161,14 +161,16 @@
 		</div>
 		<div>
 			<head rend="sub">Bibliography.</head>
-			<p>-- <person reg="Upham, John H. J.">Upham, J. H. J.</person>, M.D., <title type="article"
-					>Teaching of Contraceptive Measures in Small Colleges</title>, <title
-					type="journal">Jl. Assn. Med. Coll.</title> Sept. 1943.</p>
+			<p>-- <person reg="Upham, John H. J.">Upham, J. H. J.</person>, M.D., <title
+					type="article">Teaching of Contraceptive Measures in Small Colleges</title>,
+					<title type="journal"
+					reg="Journal of the Association of American Medical Colleges">Jl. Assn. Med.
+					Coll.</title> Sept. 1943.</p>
 			<p><org reg="Alabama State Board of Health">Alabama State Bd. Health.</org>
-				<title type="article">The Molly Pitchers of This War.</title> Ibid. <title
-					type="book">Employing the Married Woman Worker.</title></p>
+				<title type="article">The Molly Pitchers of This War</title>. Ibid. <title
+					type="book">Employing the Married Woman Worker</title>.</p>
 			<p>Planned Parenthood Federation. <title type="book">Better Health for
-					13,000,000.</title> Ibid. <title type="book">The Case Worker and Family
+					13,000,000</title>. Ibid. <title type="book">The Case Worker and Family
 					Planning</title>.</p>
 			<p><person>Brown, Royal L.</person>, M.D., and <person reg="Gamble, Clarence J.">Gamble,
 					C. J.</person>, M.D. <title type="article">Studies of Spermicidal Times of
@@ -183,13 +185,13 @@
 					Secured in 1942</title>. <title type="journal">Human Fertility</title> 8: Sept.
 				1943.</p>
 			<p><person>Ware, H. M.</person>, M.D. <title type="article">The physician’s
-					Responsibility in Planned Parenthood</title>, <title type="journal">Va. Medical
+					Responsibility in Planned Parenthood</title>, <title type="journal" reg="Virginia Medical Monthly">Va. Medical
 					Monthly</title>, May 1943.</p>
 			<p><person reg="Pierce, Claude C.">Pierce, C. C.</person>, M.D. <title type="article"
 					>Control of Conception as a Public Health Responsibility</title>. <title
 					type="journal">Mississippi Doctor</title> 21: June 1943.</p>
 			<p><person>Bent, M. J.</person>, M.D. <title type="article">Report of Sub-Committee on
-					Birth Control</title>, <title type="journal">Natl. Med. Assn. Jl</title>, 35:
+					Birth Control</title>, <title type="journal" reg="Journal of the National Medical Association">Natl. Med. Assn. Jl</title>, 35:
 				Jan. 1943.</p>
 		</div>
 	</docBody>

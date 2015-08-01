@@ -12,7 +12,7 @@
 		<docDate value="1934-01-15">15 Jan 1934</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Address of Welcome to the American Conference on Birth Control
+				<supplied resp="MSPP">Welcoming Address to the American Conference on Birth Control
 					and National Recovery</supplied>
 			</titlePart>
 		</docTitle>
@@ -27,9 +27,12 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For partial versions of this speech, delivered in Washington, see Library of Congress
-			Microfilm 131:64B, and Margaret Sanger Microfilm, Smith College Collections, S71:642,
-			645, and 647.</p>
+		<p>For another version of this address, see <xref from="157134.xml">Address of
+				Welcome</xref>, Jan. 15, 1934. For newspaper coverage of Sanger's comments at this
+			event, see <xref from="422098.xml">Statement on the American Conference on Birth Control
+				and National Recovery</xref>, Jan. 15, 1934. For partial versions of this speech,
+			delivered in Washington, see Library of Congress Microfilm 131:64B, and Margaret Sanger
+			Microfilm, Smith College Collections, S71:642, 645, and 647.</p>
 		<index level1="birth control movement" level2="American"/>
 		<index level1="birth control movement" level2="MS on"/>
 		<index level1="National Committee on Federal Legislation for Birth Control"/>
@@ -108,8 +111,9 @@
 				and sterilization <del>as well</del>
 				<add>for the feebleminded &amp; unfit</add>. We can lay at the doors of the
 				opponents of this movement a large part of the misery and poverty arising from the
-				huge <del>arrag</del> <add>army</add> of unemployed, whose suffering, hopelessness,
-				and loss of self respect have spread like an epidemic throughout the Nation.</p>
+				huge <del>arrag</del>
+				<add>army</add> of unemployed, whose suffering, hopelessness, and loss of self
+				respect have spread like an epidemic throughout the Nation.</p>
 			<p>We are gathered here today, workers in the field from 25 states, to discuss some of
 				the greatest problems that are now confronting a new world. Many <add>of us</add>
 				believe that the advance of the birth control movement, means the advance of

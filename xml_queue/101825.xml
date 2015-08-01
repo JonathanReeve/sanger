@@ -3,7 +3,7 @@
 <doc type="Typed article">
 	<mepHeader>
 		<prepDate>2009/07/08 LL</prepDate>
-		<prepDate>2009/07/16 CH deleted from edition-copyof 303109.</prepDate>
+		<prepDate>2009/07/16 CH deleted from edition-copy of 303109.</prepDate>
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
 		<prepDate>2015-03-13 CH recheck tags</prepDate>
@@ -75,7 +75,8 @@
 				type="journal">Woman Rebel</title> and created the term, 'birth control.' Seventeen
 			years have passed. Three weeks ago the movement for advocacy of which I was arrested by
 			the <org reg="United States Government">United States government</org> in 1914 and
-			ridiculed and insulted by individuals was endorsed by the <org>Federal Council of the
+			ridiculed and insulted by individuals was endorsed by the <org
+				reg="Federal Council of Churches of Christ in America">Federal Council of the
 				Churches of Christ in America</org>. There is no force in the world, it has been
 			said, like that of an idea whose hour has come.</p>
 		<p>It was my prosecution by the United States government for articles that appeared in the
@@ -96,7 +97,7 @@
 		<p>In <place>Europe</place> and <place reg="Asia">the Orient</place> the movement has had
 			fewer obstacles to overcome. Until the post-war period no country had laws prohibiting
 			the giving of contraceptive information. Holland, with its many clinics directed by the
-			Dutch <org reg="Nieuw-Malthusiaansche Bond">Neo-Malthusian League</org>, has carried on
+			Dutch <org reg="Nieuw Malthusiaansche Bond">Neo-Malthusian League</org>, has carried on
 			the most consistent education of the poor in birth control, with results already
 			perceptible in maternal health and in the physique of Dutch conscripts. There are now
 			clinics in <place>Germany</place>, <place>Austria</place>, <place reg="Soviet Union"
@@ -123,8 +124,9 @@
 			to Japan to present the subject there. The enthusiasm and publicity aroused in both
 			Japan and <place>China</place> was tremendous. Never has my calendar been so crowded
 			with lectures, conferences, interviews and social functions. Organizations were formed,
-			and clinics have since been started, and in 1930 the <org>Japanese government</org> sent
-			an official representative to the international conference at <del>
+			and clinics have since been started, and in 1930 the <org reg="Japan Government"
+				>Japanese government</org> sent an official representative to the international
+			conference at <del>
 				<place reg="Geneva, Switzerland">Geneva</place>
 			</del>
 			<place reg="Zurich, Switzerland">Zurich</place>.</p>
@@ -143,7 +145,7 @@
 				reg="International Federation of Neo-Malthusian and Birth Control Leagues"
 				>International <add>Federation of Birth Control</add> League</org>, reorganized at
 			that time.</p>
-		<p>A significant event was the <org>World Population Conference</org> in Geneva in 1927.
+		<p>A significant event was the <org reg="World Population Conference, 1927">World Population Conference</org> in Geneva in 1927.
 			While birth control had no direct place on its program, the connection was obvious. A
 			permanent body for the study of population was formed, <del>with Dr. <person
 					reg="East, Edward Murray">E.M. East</person> of <org>Johns Hopkins
@@ -157,13 +159,14 @@
 			London</del>.</p>
 		<p>The final step for breaking down the barriers in America remains to be taken. The battle
 			is not won while the present laws stand on our state and federal statute books. In 1929
-			I organized the <org>Federal Committee on Legislation for Birth Control</org>, believing
-			that the time had come to prepare for a vigorous campaign on Congress. Our “doctors
-			bill” was introduced in the last session of the Senate by Sen. <person
-				reg="Gillett, Frederick Huntington">Gillett</person>, and a most favorable impression was
-			made at the committee hearing. The bill will be re-introduced, we hope, at the next
-			session. This amendment would open up the mails to doctors for the transportation of
-			contraceptive literature and materials.</p>
+			I organized the <org reg="National Committee on Federal Legislation for Birth Control"
+				>Federal Committee on Legislation for Birth Control</org>, believing that the time
+			had come to prepare for a vigorous campaign on Congress. Our “doctors bill” was
+			introduced in the last session of the Senate by Sen. <person
+				reg="Gillett, Frederick Huntington">Gillett</person>, and a most favorable
+			impression was made at the committee hearing. The bill will be re-introduced, we hope,
+			at the next session. This amendment would open up the mails to doctors for the
+			transportation of contraceptive literature and materials.</p>
 		<p>There is no question but that there is an overwhelming sentiment in the country for birth
 			control, but until that sentiment becomes more articulate Congress will not act. Once a
 			matter like this is entrenched in law, only an avalanche of public opinion can free it.

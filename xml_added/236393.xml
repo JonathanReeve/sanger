@@ -5,8 +5,12 @@
 		<prepDate>2012-05-02 AW Initial Tag</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-04-15 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1929-00-00"><supplied resp="MSPP">early 1920s</supplied></docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1929-00-00">
+			<supplied resp="MSPP">early 1920s</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Facts of Sex</supplied>
@@ -22,8 +26,9 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No final version was found. This may be part of a longer article. This
-			draft was likely written in the early 1920s.</p>
+	<headNote resp="MSPP">
+		<p>No final version was found. This may be part of a longer article. This draft was likely
+			written in the early 1920s.</p>
 		<index level1="sex education"/>
 		<index level1="sexuality" level2="MS on"/>
 	</headNote>
@@ -67,7 +72,7 @@
 			turn to seek the help they desire.</p>
 		<p>There is need of frank honest discussion and I am glad that the Sex Education Movement is
 			at last taking its place in the world of Science.</p>
-		<p>In <place>Germany</place> there is now a <org reg="Institut für Sexualwissenschaft"
+		<p>In <place>Germany</place> there is now a <org reg="Institut fur Sexualwissenschaft"
 				>college for the Study of Sexual Science</org>--</p>
 		<p>In <place>England</place> there is a <org
 				reg="British Society for the Study of Sex Psychology">Society for the Study of Sex

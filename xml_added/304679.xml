@@ -10,7 +10,9 @@
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-12 CH clean regs </prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1912-02-18">18 Feb 1912</docDate>
 		<docTitle>
 			<titlePart>The Fighting Women of Lawrence</titlePart>
@@ -18,7 +20,8 @@
 		<idno>msp304679</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Feb. 18, 1912</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series </title>, C16:19</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series </title>,
+				C16:19</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,8 +29,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>An editor's note at the top of the article identified Sanger as one of the committee who brought the striker's children to
-				<place reg="New York, NY">New York</place>.</p>
+		<p>An editor's note at the top of the article identified Sanger as one of the committee who
+			brought the striker's children to <place reg="New York, NY">New York</place>.</p>
 		<index level1="working classes" level2="revolution and"/>
 		<index level1="working classes" level2="MS on"/>
 		<index level1="labor movement" level2="Lawrence, MA Strike, 1912"/>
@@ -56,9 +59,8 @@
 		<p>The children of these strikers have been reared in an atmosphere of class-consciousness
 			and solidarity. "THE INTERNATIONAL" IS THEIR SONG.</p>
 		<p>At <place reg="Boston, MA">Boston</place> while waiting for the train to New York, the
-			French children sang the "International" in their native
-			tongue. After they had finished the Italian children sang the same song in their
-			language with fervor and emphasis.</p>
+			French children sang the "International" in their native tongue. After they had finished
+			the Italian children sang the same song in their language with fervor and emphasis.</p>
 		<p>So sweet were their childish voices, so fervent was their singing, that hundreds of
 			people gathered about them to inquire what this song was and the meaning of it. </p>
 		<p>Here was the REAL demonstration, greater even of love, solidarity, class-consciousness,

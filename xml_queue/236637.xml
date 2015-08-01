@@ -34,8 +34,8 @@
 			<name id="FOSHA">Fosdick, Harry Emerson</name>
 			<name id="GILFR">Gillett, Frederick Huntington</name>
 			<name id="DARCL">Darrow, Clarence</name>
-			<name id="MATST">Matthew the Apostle (St.)</name>
-			<name id="MARST">Mark the Evangelist (St.)</name>
+			<name id="MATST">Matthew the Apostle (Biblical)</name>
+			<name id="MARST">Mark the Evangelist (Biblical)</name>
 			<name id="sec211">United States Criminal Code, Section 211</name>
 		</respStmt>
 	</mepHeader>
@@ -134,7 +134,7 @@
 				families is a phenomenon that has so impressed non-Catholic social and religious
 				leaders who were formerly opposed to the movement that they have been taking thought
 				individually and in groups. As a result they have been changing their conduct to fit
-				the new needs. Witness the <org>Church of <place>England</place></org>. The <org
+				the new needs. Witness the <org>Church of England</org>. The <org
 					reg="Lambeth Conference of Anglican Bishops"> Lambeth Conference</org> of 320
 				Anglican Bishops, from every quarter of the world, held during the summer of 1930,
 				gave sanction to the use of contraceptives under circumstances determined by moral
@@ -149,20 +149,22 @@
 					‘come to stay.’</q>”</p>
 			<p>Other religious and social groups that have expressed themselves, with more or less
 				reservation, as sanctioning scientific birth control are: the <org>Conference of
-					Congregational Churches of <place>Connecticut</place></org>; the <org>the
-					Conference of Methodist Episcopal Churches</org> (New York East); the <org>55th
-					Southern <place>California</place> Conference of the Methodist Episcopal
+					Congregational Churches of Connecticut</org>; the <org>Conference of Methodist
+					Episcopal Churches</org> (New York East); the <org
+					reg="Southern California Conference of the Methodist Episcopal Church, 55th"
+					>55th Southern <place>California</place> Conference of the Methodist Episcopal
 					Church</org>; the <org>Universalist General Convention</org>; <add>the
-					</add><org> American Unitarian Association</org>; <add>the</add>
-				<org>Community Church, <place>New York,</place></org>; the <org>Central Conference
-					of American Rabbis</org> (<place reg="Baltimore, MD">Baltimore</place>); the
-					<org reg="Ethical Culture Society, Legislative Committee">Legislative Committee
-					of the Ethical Culture Society</org>; <add>the</add><org>City Federation of
-					Women’s Clubs, New York</org>; <add>the </add><org>League of Women Voters, New
-					York City</org>; the <org>New York League of Women Workers</org>; the
-					<org>Junior League of New York</org>; <add>the </add><org><place>New
-						Jersey</place> Women’s Republican Club</org>; the <org
-					reg="Federation for Child Study Legislative Committee">Legislative Committee of
+					</add><org>American Unitarian Association</org>; <add>the</add>
+				<org reg="Community Church of New York">Community Church</org>, <place>New
+					York,</place>; the <org>Central Conference of American Rabbis</org> (<place
+					reg="Baltimore, MD">Baltimore</place>); the <org
+					reg="Ethical Culture Society, Legislative Committee">Legislative Committee of
+					the Ethical Culture Society</org>; <add>the</add><org>City Federation of Women's
+					Clubs, New York</org>; <add>the </add><org reg="New York League of Women Voters"
+					>League of Women Voters, New York City</org>; the <org>New York League of Women
+					Workers</org>; the <org>Junior League of New York</org>; <add>the
+						</add><org><place>New Jersey</place> Women's Republican Club</org>; the <org
+					reg="Federation for Child Study, Legislative Committee">Legislative Committee of
 					the Federation for Child Study</org>. Numerous medical societies, notably the
 					<org>British Medical Association</org>, have endorsed the birth control
 				movement.</p>
@@ -402,16 +404,16 @@
 		<div type="section">
 			<head type="sub">What Did Jesus Say?</head>
 			<p>That is what the Pope says. Now let us see what Jesus says. <person
-					reg="Matthew the Apostle (St.)">St. Matthew</person> quotes Him thus: “<q who="MATST">Have
-					ye not read that he which made them at the beginning made them male and female,
-					and said, For this cause shall a man leave father and mother, and shall cleave
-					to his wife: and they twain shall be one flesh?</q>” <person
-					reg="Mark the Evangelist (St.)">St. Mark</person> quotes the same statement. But
-				did Jesus say that every wife had to bear children as fast as they would come? Did
-				He ever advocate rearing large families as a duty toward God? Did He ever say
-				anything against the limitation of offspring? Did He ever say anything that by any
-				twist of argument can be interpreted to mean the He disapproved of contraception? If
-				He did, please cite me the chapter and verse.</p>
+					reg="Matthew the Apostle (Biblical)">St. Matthew</person> quotes Him thus: “<q
+					who="MATST">Have ye not read that he which made them at the beginning made them
+					male and female, and said, For this cause shall a man leave father and mother,
+					and shall cleave to his wife: and they twain shall be one flesh?</q>” <person
+					reg="Mark the Evangelist (Biblical)">St. Mark</person> quotes the same
+				statement. But did Jesus say that every wife had to bear children as fast as they
+				would come? Did He ever advocate rearing large families as a duty toward God? Did He
+				ever say anything against the limitation of offspring? Did He ever say anything that
+				by any twist of argument can be interpreted to mean the He disapproved of
+				contraception? If He did, please cite me the chapter and verse.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Summary of Reply to the Encyclical</head>
@@ -678,7 +680,7 @@
 				contraceptive materials and articles to bona fide dealers in medical supplies, to
 				physicians, hospitals, and clinics, and from physicians to their patients.</p>
 			<p>The bill was referred to the <org
-					reg="United States Senate, Committee on the Judiciary">Committee on the
+					reg="United States Senate Committee on the Judiciary">Committee on the
 					Judiciary</org>, before which public hearings were held on February 13 and 14.
 				The supporters of the measure, as was to be expected, met with stubborn opposition,
 				particularly on the part of religious interests.</p>

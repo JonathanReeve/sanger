@@ -6,7 +6,7 @@
 		<prepDate>2014/02/27 CH proof</prepDate>
 		<prepDate>2014/03/07 YG correct</prepDate>
 		<prepDate>2015/02/12 EK correct proof and index</prepDate>
-		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,7 +19,7 @@
 		<idno>msp421007</idno>
 		<sourceDesc>
 			<bibl><title type="article">Mrs. Sanger Flays Miss Davis's Plans</title>, <title
-					type="journal">New York Times,</title> Mar. 7, 1917, p. 13</bibl>
+					type="journal">New York Times</title>, Mar. 7, 1917, p. 13</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -41,18 +41,18 @@
 			PLANS</head>
 		<div type="section">
 			<p>
-				<q who="NYT">Mrs. Margaret Sanger, her term of thirty days’ imprisonment over, left
+				<q who="NYT">Mrs. Margaret Sanger, her term of thirty days' imprisonment over, left
 					the Queens County Jail yesterday bringing with her what she calls a "message in
 					trust" for the women of <place reg="New York, NY">New York</place> from the
 					women of the jail. The message has nothing to do with birth control, advocacy of
 					which sent Mrs. Sanger to jail, but, according to Mrs. Sanger, charges of
-					studied cruelty and heartlessness in the treatment of the jail’s population.
+					studied cruelty and heartlessness in the treatment of the jail's population.
 					Throughout the message occurs frequently the name of Katherine B. Davis, former
 					Commissioner of Correction and now Chairman of the Parole Board.</q>
 			</p>
 			<p>
 				<q who="NYT">Mrs. Sanger says she has determined to deliver her message at the
-					meeting next Tuesday of the <org>Women’s City Club</org>, which she has been
+					meeting next Tuesday of the <org>Women's City Club</org>, which she has been
 					invited to address and of which Miss Davis is an officer. Miss Davis may not be
 					present, but Mrs. Sanger hopes she will. Miss Davis was out of town yesterday,
 					and so an outline of the charges which Mrs. Sanger will make in her public
@@ -76,7 +76,7 @@
 				to live." </p>
 			<p>"These are such that every inmate of the jail learns to hate Miss Davis with a
 				bitterness and a depth of resentment that one would scarcely believe possible. Do
-				you know that she cannot enter the men’s mess hall? She has tried on one or two
+				you know that she cannot enter the men's mess hall? She has tried on one or two
 				occasions and each time has been greeted with cries of 'Get out. Get out.' A keeper
 				told me that, and he told me that Miss Davis got out, too." </p>
 			<p>"The girls complain that Miss Davis delights in the exercise of authority that
@@ -87,7 +87,7 @@
 				Davis laughed at her request and then the girl begged at least to be told about how
 				long she must remain in jail so that she might, if it were possible, make
 				arrangements to tide over matters until her release."</p>
-			<p>"<q who="DAVKA">'That’s one of the beauties of the system--that you don’t know,'</q>
+			<p>"<q who="DAVKA">'That's one of the beauties of the system--that you don't know,'</q>
 				Miss Davis replied."</p>
 			<p>"The poor girl told me the whole story. Another begged that her parents be not
 				informed of her plight, and she told me that Miss Davis replied: <q who="DAVKA">'Ha!
@@ -110,9 +110,9 @@
 				<q who="NYT">Mrs. Sanger said another girl, heartbroken, had told her how a member
 					of the <org reg="New York State Division of Parole">Parole Board</org> had gone
 					to the trouble of a long journey into <place>Connecticut</place> to tell the
-					girl’s mother the whole history of her case; how she had been convicted of theft
+					girl's mother the whole history of her case; how she had been convicted of theft
 					and how she was in jail. Recently, the girl had told Mrs. Sanger, word reached
-					her of her mother’s illness, brought on by this news, for the girl had always
+					her of her mother's illness, brought on by this news, for the girl had always
 					been enabled to keep from her parents all knowledge of her wrongdoing.</q>
 			</p>
 			<p>
@@ -120,27 +120,27 @@
 					address, Mrs. Sanger said, for she had a not unpleasant time, all things
 					considered. Shortage of material had kept the authorities from putting her in
 					the sewing squad, and so all she had to do was to care for her cell. <person
-						reg="McCann, John">John McCann,</person> the Warden, and <person
+						reg="McCann, Joseph">John McCann,</person> the Warden, and <person
 						reg="Whittaker, Mary">Matron Whittaker</person>, she said, were kindly,
 					humane persons, who made the duties of their offices as little unpleasant to the
 					inmates as possible. </q>
 			</p>
-			<p>“I ought to say that of them,” <q who="New York Times">said Mrs. Sanger,</q> “for
+			<p>"I ought to say that of them," <q who="New York Times">said Mrs. Sanger,</q> "for
 				other prisoners told me that they were the rare exception. But even they would not
 				permit me to lecture to the girls. I offered to talk on any subject, but they said
 				it was impossible. Just think! And those girls had practically nothing to do. There
 				is no provision to educate the prisoners, so that an opportunity for real reform
-				work is lost.” </p>
+				work is lost." </p>
 			<p>
-				<q who="NYT">Mrs. Sanger’s only real trouble while a prisoner arose over her refusal
+				<q who="NYT">Mrs. Sanger's only real trouble while a prisoner arose over her refusal
 					to be fingerprinted. Throughout her stay in jail Warden McCann tried to get her
 					to submit, and finally on Monday night two keepers tried to force her to submit.
 					They apologized for the necessity of using force, but they persisted, and for
-					more than an hour they tried to force Mrs. Sanger’s fingers on to the pad. </q>
+					more than an hour they tried to force Mrs. Sanger's fingers on to the pad. </q>
 			</p>
 			<p>"I was bruised and exhausted," <q who="NYT">said Mrs. Sanger,</q> "though they tried
 				to be as gentle as they could, and at last they went to ask Mr. McCann if they
-				should persist. He told them to do so, but after more resistence they abandoned the
+				should persist. He told them to do so, but after more resistance they abandoned the
 				attempt. I cautioned them that they had no right to lay hands on me." </p>
 		</div>
 		<div type="section">
@@ -150,7 +150,7 @@
 					longer, while some forty persons were waiting for her outside. Meantime <person
 						reg="Marion, Kitty">Miss Kitty Marion</person>, an English militant
 					suffragette, stood in the prison courtyard and sang suffragette words to the air
-					of <title type="song">“The Marseillaise</title>,” the inmates joining in the
+					of "<title type="song">The Marseillaise</title>," the inmates joining in the
 					chorus from the windows.</q>
 			</p>
 			<p>

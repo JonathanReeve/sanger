@@ -3,6 +3,7 @@
 	<mepHeader>
 		<prepDate>2014-05-07 JK initial tag</prepDate>
 		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-07-22 CH correct titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,11 +15,11 @@
 		<sourceDesc>
 			<bibl><title type="book">Britannica Book of the Year</title>, 1940,
 				pp. 94-95</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="YBAJE">Ybarnegaray, Jean</name>
+			<name id="FRE">French</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -96,7 +97,8 @@
 			interest in the birth control program of its neighbouring island,
 				<place>Puerto Rico</place>, where efforts to solve similar
 			problems of overpopulation have been under way for several years. </p>
-		<p><place>England</place>. - Activities of the <org>Family Planning
+		<p><place>England</place>. - Activities of the <org
+				reg="Family Planning Association">Family Planning
 				association</org> continued in <place>Great Britain</place> up
 			to the outbreak of the war. Birth control clinics still functioned.
 			The clinic of <person reg="Stopes, Marie C.">Dr. Marie
@@ -108,17 +110,17 @@
 			1939, not only provided new and drastic regulations against
 			abortion, but prohibited the advertising of contraception. Because
 			of censorship of everything published, including even a discussion
-			of contraception, <title type="journal">La Grande Reforme</title>,
-			the French Neo-Malthusian journal, edited by <person
-				reg="Humbert, Eug&eacute;ne">Eugene Humbert</person>, suspended
-			publication late in that year. </p>
+			of contraception, <title type="journal"><foreign lang="FRE">La
+					Grande Reforme</foreign></title>, the French Neo-Malthusian
+			journal, edited by <person reg="Humbert, Eugene">Eugene
+				Humbert</person>, suspended publication late in that year. </p>
 		<p> Following the conquest of France, <person reg="Ybarnegaray, Jean"
 				>Jean Ybarnegaray</person>, minister of youth in the <place
 				reg="French State (Vichy)">Vichy government</place>, announced a
 			new policy to stimulate the birth rate. The young women of France
-			will be educated for one purpose only! <q who="YBAJE">“To return to
+			will be educated for one purpose only! <q who="YBAJE">"To return to
 				their traditional purpose of life- being in their homes and
-				living only to raise strong useful men.” </q>Fathers of families
+				living only to raise strong useful men." </q>Fathers of families
 			will be given preference over bachelors in both public and private
 			employment and will be paid in proportion to the size of their
 			families. </p>
@@ -156,10 +158,12 @@
 			rate of infant mortality. Coupled with the demand for an increase in
 			population, as a patriotic duty during the war, suppression of birth
 			control clinics and of discussion of birth control continued. </p>
-		<p><place>New Zealand</place>. - <org>The Sex Hygiene and Birth
-				Regulation society of New Zealand</org> dissolved during 1940 to
-			re-form as the <org reg="Family Planning Association of New Zealand"
-				>Family Planning Association</org>, affiliated with the <org
+		<p><place>New Zealand</place>. - <org
+				reg="Sex Hygiene and Birth Regulation Society of New Zealand"
+				>The Sex Hygiene and Birth Regulation society of New
+				Zealand</org> dissolved during 1940 to re-form as the <org
+				reg="Family Planning Association of New Zealand">Family Planning
+				Association</org>, affiliated with the <org
 				reg="Family Planning Association">British organization</org>. A
 			deputation of workers from the association in conference with the
 			ministry of health requested that contraceptive advice be given by
@@ -210,20 +214,19 @@
 			contraceptives were advised. </p>
 		<p>U.S. Population Policies. - Wide attention was given to a report by
 			the Population committee of the <org>National Economic and Social
-				Planning association </org>which advocated “Provision for
+				Planning association </org>which advocated "Provision for
 			scientific information concerning appropriate methods of
 			contraception for all potential parents is an essential measure for
-			sound population policy.”</p>
+			sound population policy."</p>
 		<p>Special Negro Project. - The federation, through a special grant of
 			funds, established a division of Negro service, sponsored by a
-				<org>National Advisory council</org> which included Negro
-			leadership in all fields. Two special Demonstration projects were
-			established, one in <place reg="Nashville, TN">Nashville,
-				Tenn.</place> and one in <place reg="Berkeley County, SC"
-				>Berkeley county, S.C</place>., to study the effects of
-			medically directed contraception upon the health and welfare of the
-			Negro populations of those sections. The Urban project in Nashville
-			is under the direction of the <org
+			National Advisory council which included Negro leadership in all
+			fields. Two special Demonstration projects were established, one in
+				<place reg="Nashville, TN">Nashville, Tenn.</place> and one in
+				<place reg="Berkeley County, SC">Berkeley county, S.C</place>.,
+			to study the effects of medically directed contraception upon the
+			health and welfare of the Negro populations of those sections. The
+			Urban project in Nashville is under the direction of the <org
 				reg="National Association of County and City Health Officials"
 				>City Health officers</org> and the Rural project will be
 			supervised by the chairman of the <org
@@ -239,26 +242,26 @@
 			movement for birth control, as a step in regulation of the bootleg
 			traffic in undependable contraceptives. </p>
 		<p> Legal Decisions: <place>Connecticut</place>.- On March 21, 1940, the
-				<org reg="Connecticut State Supreme Court of Errors">Supreme
-				Court of Errors</org> of the State of Connecticut, by a vote of
-			3 to 2, handed down a decision patterned on that in
-				<place>Massachusetts </place>in 1938. The Connecticut decision
-			upheld the existing statute and ruled that under it, it was illegal
-			for a physician to prescribe, or a patient to use, contraceptives,
-			even where definite medical indications existed. Connecticut is now
-			one of the only two states in the Union where a doctor is forbidden
-			to advise a patient on contraception and remains the only state
-			where the use of contraceptives is illegal. </p>
+				<org reg="Connecticut State Supreme Court">Supreme Court of
+				Errors</org> of the State of Connecticut, by a vote of 3 to 2,
+			handed down a decision patterned on that in <place>Massachusetts
+			</place>in 1938. The Connecticut decision upheld the existing
+			statute and ruled that under it, it was illegal for a physician to
+			prescribe, or a patient to use, contraceptives, even where definite
+			medical indications existed. Connecticut is now one of the only two
+			states in the Union where a doctor is forbidden to advise a patient
+			on contraception and remains the only state where the use of
+			contraceptives is illegal. </p>
 		<p>
 			<place>Iowa</place>.- A decision in a suit brought against a <person
-				reg="Unidentified">druggist in Iowa</person>, in 1937, was
-			handed down by the <org reg="Iowa State Supreme Court">supreme court
-				of that state</org> in 1939. The druggist was accused of
-			violating the law by distributing a pamphlet entitled <title
-				type="pamphlet">“Birth Control.”</title> The court ruled him not
-			guilty because the code of laws of the state specifically exempted
-			medical schools, physicians and druggists from the provisions of the
-			act governing distribution of contraceptive literature or materials. </p>
+				reg="Unknown">druggist in Iowa</person>, in 1937, was handed
+			down by the <org reg="Iowa State Supreme Court">supreme court of
+				that state</org> in 1939. The druggist was accused of violating
+			the law by distributing a pamphlet entitled "<title type="pamphlet"
+				>Birth Control</title>." The court ruled him not guilty because
+			the code of laws of the state specifically exempted medical schools,
+			physicians and druggists from the provisions of the act governing
+			distribution of contraceptive literature or materials. </p>
 		<p> Massachusetts. - While previous court decisions declared it illegal
 			for a physician to give contraceptive information under any
 			conditions, the decision of the Massachusetts supreme court, Sept.

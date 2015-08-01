@@ -6,15 +6,18 @@
 		<prepDate>2014/03/30 EK clean regs + proof corrections </prepDate>
 		<prepDate>2015-01-07 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-31 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1913-12-00">Dec 1913</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on Women and
-				Capitalism</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Women and Capitalism</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp321986</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Conservator</title> Dec. 1913, p. 145</bibl>
+			<bibl><title type="journal">Conservator</title>, Dec. 1913, p. 145</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,7 +30,7 @@
 		<index level1="capitalism"/>
 		<index level1="physicians" level2="MS on"/>
 		<index level1="women and girls" level2="enslavement of"/>
-			</headNote>
+	</headNote>
 	<docBody>
 		<p>It is impossible to separate the ignorance of parents, prostitution, venereal diseases,
 			or the silence of the medical profession, from the great economic question that the

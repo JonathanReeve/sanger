@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2015-07-27 CH transcribe and encode</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1959-12-27"><supplied resp="MSPP">27 Dec 1959</supplied></docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Statement on President
+				Eisenhower</supplied></titlePart>
+		</docTitle>
+		<idno>msp422103</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger Challenges Ike on Birth Curb Issue</title>,
+					<title type="journal">Tucson Daily Citizen</title>, Dec. 28, 1959</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="TDC">Tucson Daily Citizen</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>For a typed press statement on the topic with different content, see <xref
+				from="237527.xml">Margaret Sanger on Television Channel 13 Tucson</xref>, Dec. 27,
+			1959.</p>
+		<index level1="United States" level2="population policies"/>
+		<index level1="United States" level2="foreign aid"/>
+		<index level1="Japan" level2="birth rate in"/>
+		<index level1="birth control" level2="opposition to"/>
+		<index level1="Catholic Church" level2="political influence of"/>
+	</headNote>
+	<docBody>
+		<head>Mrs. Sanger Challenges Ike on Birth Curb Issue</head>
+		<byline>By <person reg="Ernenwein, Leslie">LESLIE ERNENWEIN</person></byline>
+		<p><q>Mrs. Margaret Sanger, birth control advocate, challenged <person
+					reg="Eisenhower, Dwight D.">President Eisenhower</person> last night to debate
+				the question of governmental participation in planned parenthood for nations
+				requesting help.</q></p>
+		<p>"He needs to be straightened out on this," <q>Mrs. Sanger said,</q> "It is disgraceful
+			that <place reg="United States">our country</place> does not respond when a poor,
+			overpopulated country asks for aid."</p>
+		<p>"Such countries do not know what to do," <q>she said.</q> "They want our health and
+			welfare departments to show them what to do. If we are serious in wanting peace we
+			should be glad to help them.</p>
+		<p><q>Eisenhower, she said, knows only war.</q></p>
+		<p>"He doesn't realize that the question of war or peace is primarily a question of
+			population." <q>Mrs. Sanger said.</q> "He goes gallivanting off to various countries to
+			talk peace. But he knows nothing about population problems in those countries--
+			especially <place>India</place>."</p>
+		<p><q><place>Japan</place>, she said, has reduced the birthrate 50 per cent since 1957 be
+				practicing planned parenthood.</q></p>
+		<p>"The movement started there in 1920 and met great resistance by the warmongering
+			politicians. But the Japanese people kept at it even though some of them were jailed for
+			sponsoring birth control."</p>
+		<p><q>Does she believe the President will agree to a debate, or grant her an
+			interview?</q></p>
+		<p>"He certainly should, <q>Mrs. Sanger said.</q> "He's an intelligent man, but he just
+			doesn't know about this problem. He has been misinformed. He has been influenced by the
+			opposition--by the Irish-Catholic bishops."</p>
+		<p><q>She said that the <person reg="Draper, William H., Jr.">Draper</person> report,
+				requested by Eisenhower, had indicated that we should assist on request those
+				nations needing population control. But Eisenhower apparently has rejected the
+				report, after initially accepting it, she said.</q></p>
+		<p>"If he will debate the question and learn something about this problem, I am confidant
+			that he would change his views,"<q> Mrs. Sanger said.</q></p>
+		<p><q>"We cannot have peace without halting the population explosion which is currently
+				occurring in various countries such as India."</q></p>
+
+	</docBody>
+</doc>

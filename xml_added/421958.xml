@@ -9,7 +9,9 @@
 		</docAuthor>
 		<docDate value="1943-07-20">20 Jul 1943</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on Japan</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Japan</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421958</idno>
 		<sourceDesc>
@@ -23,7 +25,8 @@
 			<name id="EPHP">El Paso Herald Post</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger made this statement in El Paso while on a travel layover.</p>
+	<headNote resp="MSPP">
+		<p>Sanger made this statement in El Paso while on a travel layover.</p>
 		<index level1="birth control" level2="and war"/>
 		<index level1="Japan" level2="birth control in"/>
 		<index level1="Japan" level2="population policies of"/>
@@ -81,7 +84,7 @@
 				<q who="EPHP">she said</q>. <person reg="Wells, H. G.">H. G. Wells</person>said the
 			most intelligent people of America are on our board, and he’s right.</p>
 		<p>
-			<q who="EPHP">Mrs. Sanger was enthusiastic in her praise of the <org>El Paso Mothers’
+			<q who="EPHP">Mrs. Sanger was enthusiastic in her praise of the <org>El Paso Mother's
 					Health Center</org>, of which <person reg="Pogson, Catherine H.">Mrs. Percy W.
 					Pogson Jr.</person>, is president.</q>
 		</p>

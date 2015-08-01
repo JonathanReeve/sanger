@@ -9,6 +9,7 @@
 		<prepDate>2007/06/25 CH Oxygen update</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-16 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,7 +20,8 @@
 		<idno>msp309032</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Mother Earth</title> Jan. 1916, pp. 363-365</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:88</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:0088</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,16 +29,19 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>A postscript, added by <person reg="GOLEM">Emma Goldman</person>, informed readers of the
-			recent death of <person reg="Sanger, Peggy">Peggy Sanger</person>, Margaret Sanger's 5 year old daughter, exhorted
-			contributions in her defense, and listed the names of recent contributors. This article
-			was also published in <title type="journal">The Blast</title>, Vol. 1, No. 1. </p>
-		<index level1="Sanger, Margaret" level2="arrests"/>
-		<index level1="obscenity"/>
-		<index level1="Woman Rebel, The" level2="legal case"/>
+			recent death of <person reg="Sanger, Peggy">Peggy Sanger</person>, Margaret Sanger's five-
+			year-old daughter, exhorted contributions in her defense, and listed the names of recent
+			contributors. This article was also published in <title type="journal">The
+				Blast</title>, 1:1, January 15, 1916, p. 7.</p>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
+		<index level1="Woman Rebel, The" level2="and birth control"/>
+		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="radicals and radicalism"/>
 		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
-		<index level1="radicals" level2="MS on"/>
-		<index level1="Post Office (U.S.)"/>
+		<index level1="United States Postal Service"/>
 		<index level1="censorship"/>
+		<index level1="free speech and free press"/>
 	</headNote>
 	<docBody>
 		<head>NOT GUILTY!</head>
@@ -72,7 +77,8 @@
 		<p>To evade the issue in this case, as I have been advised, would mean to leave matters as
 			they have been since 1872. But it is time for the people of this country to find out if
 			the <place>United States</place> mails are to be available for their use, as they, in
-			their adult intelligence may desire, or is it possible for the <org>United States post
+			their adult intelligence may desire, or is it possible for the <org
+				reg="United States Postal Service">United States post
 				office</org> to constitute itself an institution for the promulgation of stupidity
 			and ignorant tyranny.</p>
 		<p>The first step in the birth control movement or any other propaganda requiring a free

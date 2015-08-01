@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-26 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-26 CH proof tags</prepDate>
+		<prepDate>2015-05-27 LH correct tags</prepDate>
+	    <prepDate>2015-05-29 CH correct tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1947-07-26">26 Jul 1947</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Short Statement on an International Placement Bureau</supplied></titlePart>
+		</docTitle>
+		<idno>msp422060</idno>
+		<sourceDesc>
+			<bibl><title type="article">Wants Skill Bureau</title>, <title type="journal"> Greenburg Daily
+				News </title>, July 26, 1947, p. 3</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="GDN">Greenburg Daily News</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="labor movement" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>Wants Skill Bureau</head>
+		<byline>By <org>International News Service</org> </byline>
+		<dateline><place reg="Boston, MA">Boston</place>, <date value="1947-07-26">July 26</date>.--</dateline>
+		<p><q who="GDN">Margaret Sanger, in a broadcast to
+			<place>Europe</place>:</q> "I'd like to see an international placement bureau- a labor pool of skills and
+		professions. Individuals from this pool could be sent to any part of the world where they are
+		needed. Just think of them highly trained people wasting away in displaced persons
+		camps."</p>
+	</docBody>
+</doc>

@@ -8,11 +8,11 @@
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1932-05-19">19-20 May 1932</docDate>
+		<docDate value="1932-05-12">12-20 May 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Testimony Before the United States Senate on Senate bill
-					4436</supplied>
+				<supplied resp="MSPP">Testimony Before the United States Senate on Senate Bill 4436,
+					initial</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp300446</idno>
@@ -37,7 +37,8 @@
 		<p>This excerpt from the complete headings includes only Margaret Sanger's testimony and
 			questions asked of her. For continued testimony on this bill, see <xref
 				from="300447.xml">Testimony before the United States Senate on Senate bill
-				4436</xref>, June 24 and 30, 1932.</p>
+				4436</xref>, June 24 and 30, 1932. For additional comments made by Sanger, see <xref
+				from="422096.xml">Comments at Senate Testimony for S. 4436</xref>, May 12, 1934.</p>
 		<index level1="American Medical Association"/>
 		<index level1="Europe" level2="MS on"/>
 		<index level1="birth control" level2="politicians and"/>
@@ -55,7 +56,7 @@
 	</headNote>
 	<docBody>
 		<head>Hearings Before a Subcommittee of the <org
-				reg="United States Senate, Committee on the Judiciary">Committee on the Judiciary
+				reg="United States Senate Committee on the Judiciary">Committee on the Judiciary
 				United States Senate</org> Seventy-Second Congress First Session in S.4436</head>
 		<head type="sub">Statement of Mrs. Margaret Sanger, National Chairman <org>Committee on
 				Federal Legislation for Birth Control</org></head>
@@ -171,7 +172,7 @@
 				usually come upon our social vista as permanent unemployable and dependants. It is
 				for this other 40 per cent, you might say, or half of the 80 per cent, that we are
 				talking to-day. It is these people that this bill will directly affect.</p>
-			<p> Mr. Chairman, you asked <person reg="Hatfield, Henry">Senator Hatfield </person>a
+			<p> Mr. Chairman, you asked <person reg="Hatfield, Henry D.">Senator Hatfield </person>a
 				few questions that I wonder if I may cover. These parents, if they can afford to go
 				to a private physician, if they have a family doctor, may get some kind of
 				information as to the means of controlling the size of their families. It may not be
@@ -294,7 +295,7 @@
 					physician at all. </q>
 			</p>
 			<p>Mrs. Sanger: No. According to that I would understand that a person must have a
-				physician’s prescription.</p>
+				physician's prescription.</p>
 			<p>
 				<q who="HASDA">Senator Hastings: I am anxious to find out what is your intent.</q>
 			</p>
@@ -356,7 +357,7 @@
 				been able to avail themselves of any information whatever. In the first group, we
 				have the educated, cultured, well-to-do citizens, professors, doctors, lawyers,
 				ministers, scientists, artisans, and skilled laborers. Here we find the spacing of
-				children an adopted rule, the mother’s health being the first consideration and the
+				children an adopted rule, the mother's health being the first consideration and the
 				earning power of the father a close second. From this group come almost all of our
 				social movements. Civilization is directly benefited and advanced through this low
 				birth rate group. In the other large family group we have overcrowding, illiteracy,
@@ -497,7 +498,7 @@
 				and the <title type="book">Bible</title>. One thought that this generation knows too
 				much about such things, and the poor would not avail themselves of this
 				information.</p>
-			<p> Another symposium appeared lated [later] in 1929, in the same <title type="journal"
+			<p> Another symposium appeared lated [later] in 1929, in the same <title type="journal" reg="Medical Journal and Record"
 					>Journal and Record</title>. One hundred and eighteen doctors replied to the
 				questionnaire. Of this number 99 said they were in favor of contraception. Four said
 				they were not informed sufficiently to express an opinion. Fifteen were opposed.</p>
@@ -591,10 +592,11 @@
 
 			<p>Mrs. Sanger: As for the other statement along the same line, that there is harm to
 				women, there is a report here by Dr. <person reg="Butler, Lily C.">Lily
-					Butler</person>, medical officer of the <org>Walworth Women’s Welfare
-					Center</org>, an English group, which has made a careful follow up for this
-				particular reason, to see what effect the use of contraceptives have upon the health
-				of women and to see if it caused sterility:</p>
+					Butler</person>, medical officer of the <org
+					reg="Walworth Women's Welfare Centre">Walworth Women's Welfare Center</org>, an
+				English group, which has made a careful follow up for this particular reason, to see
+				what effect the use of contraceptives have upon the health of women and to see if it
+				caused sterility:</p>
 			<p rend="blockquote">
 				<q who="BUTLI">We note that 101 patients have wanted another child after periods
 					varying from one to five years, and in 98 of those cases they have become
@@ -623,7 +625,7 @@
 				the very best method to be prescribed.</p>
 			<p> We have with us today a specialist who will dwell more upon this phase of the
 				subject, but I would like to say this: It is intimated that self-control refers to a
-				safe period, or a period in a woman’s life where she is immune to pregnancy. I think
+				safe period, or a period in a woman's life where she is immune to pregnancy. I think
 				the gynecologists and most of the experts in this field of medicine will say that
 				there is only a very small percentage of women– I have heard it stated that it is
 				not even 1 per cent– who could be said to have a safe period, when they are safe

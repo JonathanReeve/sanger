@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+	<mepHeader>
+		<prepDate>2015-06-09 HD transcribed and encoded</prepDate>
+		<prepDate>2015-06-25 CH proof tags</prepDate>
+		<prepDate>2015-06-30 HD enter corrections</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1925-12-03">3 Dec 1925</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Necessity of Birth Control</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422049</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger Addresses Social Problems Club</title>, <title
+					type="journal">Barnard Bulletin</title>, Dec. 11, 1925, p. 4</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BB">Barnard Bulletin</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger's speech was not found; newspaper coverage was used instead. The last paragraph,
+			regarding unrelated upcoming events, was not included.</p>
+		<index level1="mortality rates"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="mortality rates" level2="maternal"/>
+		<index level1="mortality rates" level2="maternal” level3=”American"/>
+		<index level1="overpopulation"/>
+		<index level1="overpopulation" level2="and war"/>
+	</headNote>
+	<docBody>
+		<head>MRS. SANGER ADDRESSES SOCIAL PROBLEMS CLUB</head>
+		<p>
+			<q who="BB"><org>Earl Hall</org> was filled to its capacity, and many people were turned
+				away on Thursday afternoon, December 3rd, when Margaret Sanger addressed the
+				audience on the necessity of Birth Control. Before introducing the speaker, <person
+					reg="Montague, William Peperell">Professor William Peperell Montague</person>,
+				who presided, remarked that Birth Control is essential to make parenthood voluntary,
+				not accidental; and to regulate the population--one of the greatest causes of war.
+			</q>
+		</p>
+		<p>
+			<q who="BB">Mrs. Sanger defined birth control as the conscious control of birth rate by
+				scientific means. According to the Malthusian theory, the natural increase of
+				population must be checked, and it is only logical to decrease the birth
+				rate--rather than increase the death rate--the only other alternative.</q>
+		</p>
+		<p>
+			<q who="BB">No census has been taken on the subject, but it is quite obvious that
+				poverty, disease, high percentage of infant and maternal mortality, slums, and
+				various other evils are most usually the outcome of large families; and small
+				families bear the burdens of taxation and charity of the larger ones.</q>
+		</p>
+		<p>
+			<q who="BB">In the <place>United States</place> last year, 200,000
+				infants died before one year old. Milk stations, visiting nurses,
+				clinics--everything conceivable to reduce the mortality of infants is being done
+				today and they do succeed--but at a terrible cost, for the basic reason is one of
+				ignorance. Year after year, these 200,000 mothers and fathers are kept
+				ignorant--with the result of an additional 200,000 infants dying the following
+				year.</q>
+		</p>
+		<p>
+			<q who="BB">Over-population is at the root of the problem of Child Labor; for in
+				families where the children come too fast, they are necessarily forced to feed and
+				clothe themselves. Until the population is regulated, there will never be peace
+				between nations. Over-population seems to be the root of all evil.</q>
+		</p>
+		<p>
+			<q who="BB">In answer to the argument that birth control would bring about race suicide,
+				Mrs. Sanger stated seven rules:</q>
+		</p>
+		<p>
+			<q who="BB">
+				<list>
+					<item>(1) No people who have transmissible diseases should have children.</item>
+					<item> (2) No woman suffering from temporary disease should bear children. </item>
+					<item> (3) If normal parents produce subnormal children, they should have no
+						more. </item>
+					<item> (4) There should be a space of at least three years between children. </item>
+					<item> (5) Maturity should be reached before motherhood. </item>
+					<item> (6) Parents should not have children they will not be able to support. </item>
+					<item> (7) Women should have no children until two years after marriage.</item>
+				</list>
+			</q>
+		</p>
+		<p>
+			<q>Birth Control is not a question to be generally decided upon, but one of individual
+				application. The only solution to the problem is the establishment of scientific
+				clinics where parents may come for advice (in existence in <place reg="Netherlands"
+					>Holland</place> and <place>England</place>). Mrs. Sanger concluded with the
+				statement that women must be free from the bondage of maternity before we can go
+				forward to the emancipation of human races. </q>
+		</p>
+	</docBody>
+</doc>

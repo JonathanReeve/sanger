@@ -7,7 +7,7 @@
 		<prepDate>2012-05-30 AW Corrected tags</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-04-13 EK correct proof and update index</prepDate>
+		<prepDate>2015-04-13 EK correct proof and update index</prepDate><prepDate>2015-06-09 CH fixed Netherland</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -166,10 +166,10 @@
 			</p>
 			<p>The birth rate, in spite of its decline in the last few decades, is still too high in
 				every country of Europe, with the possible exception of <place
-					reg="Holland, Netherlands">Holland</place>, to permit of adequate provision
-				for all the newcomers. Consequently the death rates continue high and there is a
-				greater or less proportion of the population in nearly every country in a state of
-				chronic destitution. In eastern nations such as <place>India</place> and
+					reg="Netherlands">Holland</place>, to permit of adequate provision for
+				all the newcomers. Consequently the death rates continue high and there is a greater
+				or less proportion of the population in nearly every country in a state of chronic
+				destitution. In eastern nations such as <place>India</place> and
 					<place>China</place>, with their enormous birth rates, the death rates are
 				appalling, indicating a constant state of semi-starvation in the great mass of the
 				people. </p>

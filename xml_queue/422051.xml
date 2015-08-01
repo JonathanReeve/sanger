@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2015-05-20 LH input </prepDate>
+		<prepDate> 2015-05-21 CH proof tags</prepDate>
+		<prepDate>2015-05-21 LH corrections made</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1929-06-11">6 Jun 1929</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied>Civic Club Dinner Speech</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422051</idno>
+		<sourceDesc>
+			<bibl>
+				<title type="article">To Fight Federal Birth Control Law</title>, <title
+					type="journal">Reading Times</title>, Jun. 12, 1929, p.3 </bibl>
+		</sourceDesc>
+		<respStmt>
+			<name id="RT">Reading Times</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Birth Control Clinical Research Bureau" level2="raid"/>
+		<index level1="birth control clinics and leagues" level2="raids"/>
+		<index level1="birth control laws and legislation" level2="Congressional bills"/>
+		<index level1="birth control" level2="distribution of information"/>
+		<index level1="birth control" level2="educational benefits"/>
+	</headNote>
+	<docBody>
+		<head>TO FIGHT FEDERAL BIRTH CONTROL LAW</head>
+		<p>
+			<dateline><place reg="New York, NY">NEW YORK</place>, <date>Jun. 11</date>--</dateline>
+		</p>
+		<p>
+			<q who="RT">The <org reg="National Committee on Federal Legislation for Birth Control"
+					>federal defense committee</org>, formed as a result of the recent police raid
+				on the <org reg="Birth Control Clinical Research Bureau">Birth Control Clinic
+					Research bureau</org>,is to</q> "go after <org reg="United States Congress"
+				>congress</org> strong and hard during the next year." <q who="RT"> in a determined
+				effort to secure the repeal of the <name type="law"
+					reg="United States Criminal Code, Section 211">federal birth control law</name>,
+				according to Mrs. Margaret Sanger who spoke last night at a dinner given in her
+				honor at the <org reg="New York Civic Club">Civic Club</org>.</q></p>
+		<p><q who="RT"> Mrs. Sanger said she believed the fight would be a difficult one since the
+				federal law also covers</q> pornography and so many things that are not decent, <q
+				who="RT">but the committee will carry on an energetic fight convinced, that the
+				child employment problem will never be worked out until birth control information
+				was at the disposal of the working class. An attack is also to be made on the <name
+					type="law" reg="New York State Criminal Code, Section 1145"> New York state
+					law</name> she declared.</q>
+		</p>
+		<div>
+			<head>Raid Helped Movement</head>
+			<p>
+				<q who="RT"> In commenting on the recent police raid, Mrs. Sanger said it had spared
+					the leaders of the movement at least 10 years' legislative effort since it had
+					aroused distinguished physicians and caused them to go on record favoring the
+					proper spacing of children.</q>
+			</p>
+			<p>
+				<q who="RT"> The only organized opposition, she added was from the <org
+						reg="Roman Catholic Church">Roman Catholic church</org>, which always has
+					combated the birth control program openly and emphatically. </q>
+			</p>
+			<p>
+				<q who="RT"> The meeting closed with the announcement of a committee to carry the
+					cause of Mrs.<name reg="Dennett, Mary Ware"> Mary Ware Dennett </name> to
+					congress. The personnel included <name reg="Hale, Ruth"> Ruth Hale </name>,
+						Mrs.<name reg="Laidlaw, Harriet Wright">James Laidlaw</name>, Mrs.<name
+						reg="Simon, Caroline Klein"> Leopold K. Simon</name>, Miss<name
+						reg="Brandeis, Susan"> Susan Brandeis</name>, Miss<name
+						reg="Pickenbach, Helen"> Helen Pickenbach</name>, and Miss <name
+						reg="Kaplan, Henriette M."> Henriette M. Kaplan</name>. </q>
+			</p>
+			<p>
+				<q who="RT">A petition has been prepared on behalf of Mrs. Dennett urging
+					modification of the obscenity clause in the postal censorship law in so far as
+					it touches on sex education. A million signatures will be sought.</q>
+			</p>
+		</div>
+	</docBody>
+</doc>

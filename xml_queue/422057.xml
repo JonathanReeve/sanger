@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-26 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-26 CH proof-tagging</prepDate>
+		<prepDate>2015-05-27 LH corrections </prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1937-07-22">22 Jul 1937</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Short Statement on Overpopulation</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422057</idno>
+		<sourceDesc>
+			<bibl><title type="article">What Noted People Say</title>, <title type="journal">
+					Greensburg Daily News</title>, Jul. 22, 1937, p.1</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="GDN">Greensburg Daily News </name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="overpopulation"/>
+		<index level1="overpopulation" level2="and war"/>
+		<index level1="overpopulation" level2="effects of"/>
+		<index level1="war" level2="and population"/>
+	</headNote>
+	<docBody>
+		<head>What Noted People Say</head>
+		<dateline>
+			<place reg="Los Angeles, CA"> LOS ANGELES</place>
+		</dateline>
+		<p><q who="GDN"> Margaret Sanger carries on and urges birth control as the key to world
+				peace:</q>"Overpopulation is the principal cause of war and the danger spots today
+			are synonymous with the population pressure areas."</p>
+	</docBody>
+</doc>

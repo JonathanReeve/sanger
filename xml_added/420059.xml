@@ -15,12 +15,12 @@
 		<docDate value="1914-06-00">Jun 1914</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Short Pieces from June 1914 Woman Rebel</supplied>
+				<supplied resp="MSPP">Short Pieces from June 1914 WOMAN REBEL</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp420059</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, June 1914, p. 32</bibl>
+			<bibl><title type="journal">Woman Rebel</title>, June 1914, p. 32</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:546</bibl>
 		</sourceDesc>
@@ -34,7 +34,7 @@
 		<index level1="Land and Liberty"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
 		<index level1="abortion"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<div type="section">
 			<head>Don't Miss It!</head>
@@ -55,16 +55,17 @@
 			<p>Here is a typical front-page "story" of those newspapers who pride themselves on
 				printing all the news that's "fit to print." It is from the <title type="journal">N.
 					Y. Evening Mail</title> of April 16, and was NOT suppressed by the <org
-					reg="United States Post Office">post-office</org> authorities. It is a "good
+					reg="United States Postal Service">post-office</org> authorities. It is a "good
 				story" and an every-day comment on American "civilization." </p>
-		<p rend="blockquote">
-		<q who="NYEM">"Mrs. <person reg="Vogel, Katherine">Katherine Vogel</person>,
+			<p rend="blockquote">
+				<q who="NYEM">"Mrs. <person reg="Vogel, Katherine">Katherine Vogel</person>,
 					sixty-one years old, committed suicide in her apartment at 34 First avenue
-					to-day by drinking carbolic acid.</q></p>
-			<p rend="blockquote">"<q who="NYEM">In the next room lay the body of a girl about twenty years old, the
-					victim of an operation alleged to have been performed by Mrs. Vogel. The
-					identity of the girl is not known. It is believed she was a professional
-					dancer.</q>" </p>
+					to-day by drinking carbolic acid.</q>
+			</p>
+			<p rend="blockquote">"<q who="NYEM">In the next room lay the body of a girl about twenty
+					years old, the victim of an operation alleged to have been performed by Mrs.
+					Vogel. The identity of the girl is not known. It is believed she was a
+					professional dancer.</q>" </p>
 		</div>
 	</docBody>
 </doc>

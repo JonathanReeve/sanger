@@ -9,7 +9,7 @@
 		</docAuthor>
 		<docDate value="1930-11-00">Nov 1930</docDate>
 		<docTitle>
-			<titlePart>Shall We have Birth Control</titlePart>
+			<titlePart>Shall We Have Birth Control</titlePart>
 		</docTitle>
 		<idno>msp400300</idno>
 		<sourceDesc>
@@ -19,7 +19,8 @@
 		<respStmt>
 			<resp/>
 			<name id="WHITJW">Williams, J. Whitbridge</name>
-			<name id="EDETH">Eden, Thomas Watts</name><name id="EBTN">Estes' Back to Nature</name>
+			<name id="EDETH">Eden, Thomas Watts</name>
+			<name id="EBTN">Estes' Back to Nature</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -45,12 +46,12 @@
 		<byline>By Margaret Sanger</byline>
 		<p>"The absurd cruelty of permitting thousands of women every year to go through abortions
 			to prevent the aggravation of diseases for which they are under treatment assuredly
-			cannot be much longer ignored by the medical profession," <q who="EBTN">said Mrs. Sanger.</q>
-			"Responsibility for the inestimable damage done by the practice of permitting patients
-			suffering from certain ailments to become pregnant, because of their ignorance of
-			contraceptives, when the physician knows that if pregnancy goes to its full term it will
-			hasten the disease and lead to the patient's death, must in all fairness be laid at his
-			door. </p>
+			cannot be much longer ignored by the medical profession," <q who="EBTN">said Mrs.
+				Sanger.</q> "Responsibility for the inestimable damage done by the practice of
+			permitting patients suffering from certain ailments to become pregnant, because of their
+			ignorance of contraceptives, when the physician knows that if pregnancy goes to its full
+			term it will hasten the disease and lead to the patient's death, must in all fairness be
+			laid at his door. </p>
 		<p>What these diseases are and what dangers are involved in pregnancy are known to every
 			practitioner of standing. Specialists have not been negligent in pointing out the
 			situation. Eager to enhance or protect their reputations in the profession, they
@@ -137,24 +138,24 @@
 			the lowest infant mortality rates of any cities in the world. </p>
 		<p>It is good to know that the first of the birth-control clinics of Holland followed
 			shortly after a thorough and enthusiastic discussion of the subject at an international
-			medical cognress in Amsterdam in 1878. The <org reg="Nieuw Malthusiaansce Bond">Dutch Neo-Malthusian League</org> was
-			founded in 1881. The first birth-control clinic in the world was opened in 1885 by Dr.
-				<name reg="Jacobs, Aletta">Aletta Jacobs</name> in Amsterdam. So great were the
-			results obtained that there has been a remarkable increase in the wealth, stamina,
-			stature and longevity of the people, as well as a gradual increase in the
-			population.</p>
+			medical cognress in Amsterdam in 1878. The <org reg="Nieuw Malthusiaansche Bond">Dutch
+				Neo-Malthusian League</org> was founded in 1881. The first birth-control clinic in
+			the world was opened in 1885 by Dr. <name reg="Jacobs, Aletta">Aletta Jacobs</name> in
+			Amsterdam. So great were the results obtained that there has been a remarkable increase
+			in the wealth, stamina, stature and longevity of the people, as well as a gradual
+			increase in the population.</p>
 		<p>These clinics must not be confused with the white enameled rooms which we associate with
-			the term in <place reg="United States">America</place>. They are ordinary
-			offices with the necessary equipment, or rooms in the homes of the nurses, fitted out for
-			the work. They are places for consultation and examination, opened by specially trainied
-			nurses who have been instructed by Dr. <person reg="Rutgers, Johannes">J.
-				Rutgers</person>, of The Hague, secretary of the Neo-Malthusian League, who has
-			devoted his life to this work. There have been more than fifty nurses trained specially
-			for the work by Dr. Rutgers. As a nurse completes her course of training, she
-			establishes herself in a community and her place of consultation is called a clinic. </p>
-		<p>The general results of this service are best judged by tables included in the
-				<title type="book">Annual Summary of Marriages, Births and Deaths in England, Wales</title>,
-			etc., for 1912.</p>
+			the term in <place reg="United States">America</place>. They are ordinary offices with
+			the necessary equipment, or rooms in the homes of the nurses, fitted out for the work.
+			They are places for consultation and examination, opened by specially trainied nurses
+			who have been instructed by Dr. <person reg="Rutgers, Johannes">J. Rutgers</person>, of
+			The Hague, secretary of the Neo-Malthusian League, who has devoted his life to this
+			work. There have been more than fifty nurses trained specially for the work by Dr.
+			Rutgers. As a nurse completes her course of training, she establishes herself in a
+			community and her place of consultation is called a clinic. </p>
+		<p>The general results of this service are best judged by tables included in the <title
+				type="book" reg="Annual Report of the Registrar General of Births, Deaths, and Marriages In England and Wales">Annual Summary of Marriages, Births and Deaths in England,
+			Wales</title>, etc., for 1912.</p>
 		<p>In Amsterdam, the birth rate dropped from 37.1 for the period of 1881-'85 to 24.7 for
 			1906, and 23.3 in 1912. During the same periods, the death rate fell from 25.1 to 13.1,
 			and in 1912, to 11.2. Infant mortality for the same period fell from 203 for each

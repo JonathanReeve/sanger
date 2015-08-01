@@ -172,10 +172,9 @@
 			principles of birth control and the movement to wipe out legal restrictions, which
 			latter was the major objective of the <org>National Committee on Federal Legislation for
 				Birth Control</org>. Nearly one hundred medical bodies took such action, among them
-			the <org>American Gynecological Society</org>; the <org>American Neurological
-				Association</org>; the <org
-				reg="American Medical Association, Section of Obstetrics, Gynecology and Abdominal Surgery"
-				>Section of Obstetrics, Gynecology and Abdominal Surgery of the American Medical
+			the <org reg="American Gynecological and Obstetrical Society">American Gynecological
+				Society</org>; the <org>American Neurological Association</org>; the Section of
+			Obstetrics, Gynecology and Abdominal Surgery of the <org>American Medical
 				Association</org>; the <org reg="American Medical Women's Association">Medical
 				Women’s National Association</org>; <org reg="Florida Medical Association">State
 				Medical Associations of <place>Florida</place></org>, <org
@@ -190,9 +189,10 @@
 			bills, and in their generous service in birth control centers and on medical advisory
 			boards of birth control organizations, have shown a keen awareness of the urgency of the
 			birth control problem. <person reg="Willson, Prentiss">Dr. Prentiss J. Willson</person>,
-			of <place reg="Washington, DC">Washington, D.C.</place>, chairman of the <org>National
-				Medical Committee on State and Federal Birth Control Legislation</org>, gave
-			testimony before a sub-committee of the <org
+			of <place reg="Washington, DC">Washington, D.C.</place>, chairman of the <org
+				reg="National Medical Committee on Federal and State Contraceptive Legislation"
+				>National Medical Committee on State and Federal Birth Control Legislation</org>,
+			gave testimony before a sub-committee of the <org
 				reg="United States Senate Committee on the Judiciary">U.S. Senate Judiciary
 				Committee</org> in 1934, which would, I think, be echoed by every thoughtful
 			physician. As such it merits detailed quotations:</p>
@@ -252,12 +252,12 @@
 				case</name> on the importation of contraceptive materials, sent to Dr. <person
 				reg="Stone, Hannah Mayer">Hannah M. Stone</person> from <place>Japan</place> for
 			research purposes, the <org
-				reg="United States Circuit Court of Appeals for the Second Circuit">U.S. Circuit
+				reg="United States Circuit Court of Appeals">U.S. Circuit
 				Court of Appeals for the Second Circuit</org> ruled that the intention of the
-			Comstock statue “<q who="USCCA">was not to prevent the importation, sale or carriage by
+			Comstock statue "<q who="USCCA">was not to prevent the importation, sale or carriage by
 				mail of things which might intelligently be employed by conscientious and competent
 				physicians for the purpose of saving life or promoting the well-being of their
-				patients</q>.” This decision marks a milestone in the birth control movement, and (I
+				patients</q>." This decision marks a milestone in the birth control movement, and (I
 			venture to say) in the history of preventive medicine. Contraceptive advice may now be
 			given by physicians in their public as well as their private practice. Every hospital
 			and dispensary, every Public Health Agency, every welfare organization may, and should,
@@ -276,14 +276,15 @@
 				labor and operation, the control of infection in obstetrics and surgery, and the
 				control of communicable diseases</q>,” said Dr. <person
 				reg="Dickinson, Robert Latou">Robert L. Dickinson</person> some years ago,
-			addressing the <org reg="New York Academy of Medicine"><place reg="New York, NY">New York</place> Academy of
-			Medicine</org>. “<q who="DICRO">These three advances, made in the face of opposition and
-				indifference on the part of the organized profession, are now its common pride and
-				glory. A fourth control, the control of conception, needed to safeguard life,
-				health, and happiness, though now suspect and maligned, will take its place of honor
-				with these others. Courage and wisdom were required to restrain the forces of
-				disease and death. A greater courage and a higher wisdom are called for within our
-				profession to undertake a guiding part in the control of life</q>.”</p>
+			addressing the <org reg="New York Academy of Medicine"><place reg="New York, NY">New
+					York</place> Academy of Medicine</org>. “<q who="DICRO">These three advances,
+				made in the face of opposition and indifference on the part of the organized
+				profession, are now its common pride and glory. A fourth control, the control of
+				conception, needed to safeguard life, health, and happiness, though now suspect and
+				maligned, will take its place of honor with these others. Courage and wisdom were
+				required to restrain the forces of disease and death. A greater courage and a higher
+				wisdom are called for within our profession to undertake a guiding part in the
+				control of life</q>.”</p>
 		<p>I know that the doctors of America, and particularly those young and eager newcomers who
 			this year enter the profession, will rise to the challenge of this greater courage and
 			higher wisdom.</p>

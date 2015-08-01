@@ -15,7 +15,8 @@
 		<idno>msp225202</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Mar. 1925, pp. 67-68</bibl>
-			<bibl><title>Margaret Sanger Papers Microfilm, Smith College Collections</title>
+			<bibl><title type="mf"
+				>Margaret Sanger Papers Microfilm, Smith College Collections</title>
 				S71:26</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -33,11 +34,9 @@
 	</headNote>
 	<docBody>
 		<head>Editorials</head>
-		<byline>
-			Margaret Sanger
-		</byline>
-		<p>AN editorial on the prevention of conception published in the <title type="journal"
-				>Journal of the <org>American Medical Association</org></title>, is especially
+		<byline> Margaret Sanger </byline>
+		<p>An editorial on the prevention of conception published in the <title type="journal"
+				>Journal of the American Medical Association</title>, is especially
 			gratifying to us as an indication that the protracted apathy of the medical profession
 			concerning Birth Control is being replaced by intense active interest. In the <place
 				reg="London, England">London</place> letter published in the same number we read:
@@ -51,11 +50,11 @@
 				who for economic or medical reasons should not produce a large number of children,
 				against the alternative of giving instruction in appropriate methods of
 				contraception</q>."</p>
-		<p>THAT Birth Control is being discussed in British and American medical journals is in no
+		<p>That Birth Control is being discussed in British and American medical journals is in no
 			small part due to the generous support given by such men as Lord <person
 				reg="Dawson, Bertrand E.">Dawson</person> in <place>England</place> and Dr. <person
-				reg="Pusey, William Allen">William Allen Pusey</person>, President of the American
-			Medical Association, in this country. These were not the first among medical men to
+				reg="Pusey, William Allen">William Allen Pusey</person>, President of the <org>American
+			Medical Association</org>, in this country. These were not the first among medical men to
 			express their opinion that the teaching of methods of contraception is a measure of
 			public health. There is a whole line of medical pioneers for Birth Control, among them
 			two great scientists now dead, Dr. <person reg="Jacobi, Abraham">Abraham Jacobi</person>
@@ -64,7 +63,7 @@
 			interest throughout the medical profession. Where there was one physician in support ten
 			years ago there are a score today. It is men belonging to this group of broadminded
 			physicians whom we thank this month for our Public Health Number of <title
-				type="journal">BIRTH CONTROL REVIEW</title>.</p>
+				type="journal" reg="Birth Control Review">BIRTH CONTROL REVIEW</title>.</p>
 		<p>No longer is it possible to discuss seriously the cause and cure of War without reference
 			to the world problem of over-population and its only permanent solution--Birth Control.
 			The recent conference in <place reg="Washington, DC">Washington, D.C.</place> on the

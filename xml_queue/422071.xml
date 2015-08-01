@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
+		<prepDate>2015-06-10 CH proofed tags</prepDate>
+		<prepDate>2015-06-29 CH entered tag corrections</prepDate>
+		<prepDate>correct proof and update index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1922-08-09">9 Aug 1922</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Japanese Trip</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422071</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control Advocate Finds Japs Talk War</title>, <title
+					type="journal">Kansas City Kansan</title>, Aug. 9, 1922, p. 1</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="KCK">Kansas City Kansan</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>For a similar statement, see "<xref from="422070.xml">Interview with the International
+				News Service</xref>," Sept. 5, 1922.</p>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (World)"/>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="Japan" level2="politics in"/>
+		<index level1="Japan" level2="overpopulation"/>
+		<index level1="Japan" level2="birth control clinics and leagues"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="overpopulation" level2="and war"/>
+	</headNote>
+	<docBody>
+		<head>BIRTH CONTROL ADVOCATE FINDS JAPS TALK WAR</head>
+
+		<dateline><place reg="London, England">London</place>, <date value="1922-08-09">Aug.
+				9</date>.--</dateline>
+		<div type="section">
+			<p>"They talk war and nothing but war in <place>Japan</place>."</p>
+			<p>
+				<q who="KCK">This was the lasting expression left on the mind of Mrs. Margaret
+					Sanger, who has returned to <place>Europe</place> en route for <place
+						reg="United States">America</place> after an extensive tour in the <place
+						reg="Asia">east</place> under the aegis of the <org
+						reg="International Birth Control Association">International Birth Control
+						association</org>.</q>
+			</p>
+			<p>
+				<q who="KCK">Mrs. Sanger traversed the east propagating an unknown and very delicate
+					subject and was accompanied only by her <person reg="Sanger, Grant"
+						>twelve-year-old son</person>. She returns to western civilization proud and
+					happy with her accomplishments.</q>
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub">Japanese Are Interested.</head>
+			<p>"I found the Japanese most interested in the subject," <q who="KCK"> said Mrs.
+					Sanger.</q> "At first they were skeptical. I had to grope my way to find what
+				angle of the situation most appealed to them. It was different from the
+				American."</p>
+			<p> "You know in America the American husband is just a big baby where the health of his
+				wife is concerned, and therefore it was easy to get the sympathy of every American
+				when it was pointed out to them that the health of their wives was impaired if they
+				bore over three babies."</p>
+			<p>"That angle was lost on the Japs. The health of their wives was nothing to them. They
+				were listless when I played on that point. They still have the old eastern idea that
+				the women are merely created for their pleasure and the reproduction of their
+				species."</p>
+		</div>
+		<div>
+			<head>Family Costs Vital.</head>
+			<p>"But on the questions of economics they were all agog. It is just as expensive to
+				rear and educate a large family in Japan as it is in <place>New York</place>, and
+				the matter of cost roused the Oriental conscience to a great degree."</p>
+			<p> "Then they became most interested in the subject. They questioned me on all angles
+				of the problem. The most delicate points they wanted discussed to the most academic
+				degree. With me they were very frank, but never objectionable, and afterward when I
+				convinced them that our methods neither meant the taking of life nor demanded
+				husbandly restraint they were with me to a man."</p>
+			<p>"The result was that before I left Japan we had formed an <org
+					reg="Japan Birth Control League">association</org> with branches in every big
+				city and clinics were in the process before I left."</p>
+		</div>
+	</docBody>
+</doc>

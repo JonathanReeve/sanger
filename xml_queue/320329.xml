@@ -13,7 +13,7 @@
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1916-05-00">May 1916</docDate>
 		<docTitle>
-			<titlePart>Modern Schools in Spain</titlePart>
+			<titlePart><supplied resp="MSPP">Modern Schools in Spain, Part I</supplied></titlePart>
 		</docTitle>
 		<idno>msp320329</idno>
 		<sourceDesc>
@@ -43,11 +43,12 @@
 	<docBody>
 		<head>MODERN SCHOOLS IN SPAIN.</head>
 		<div>
-			<p>When the Spanish Government, dominated by the <org>Catholic Church</org>, shot
-					<person reg="Ferrer i Gu&agrave;rdia, Francisco">Francisco Ferrer</person> in
-				the fortress of Montjuich at <place reg="Barcelona, Spain">Barcelona</place> on
-				October 13th 1909, and contemptuously threw his body into a ditch resembling a
-				rubbish heap, it knew well the innocence of the man it had murdered.</p>
+			<p>When the Spanish Government, dominated by the <org reg="Roman Catholic Church"
+					>Catholic Church</org>, shot <person reg="Ferrer i Guardia, Francisco">Francisco
+					Ferrer</person> in the fortress of Montjuich at <place reg="Barcelona, Spain"
+					>Barcelona</place> on October 13th 1909, and contemptuously threw his body into
+				a ditch resembling a rubbish heap, it knew well the innocence of the man it had
+				murdered.</p>
 			<p>The Spanish people knew that Ferrer was innocent. Ferrer's friends and comrades knew
 				that his death was a consequence of a well designed plot by both Church and State,
 				and they have not forgotten it.</p>

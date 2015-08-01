@@ -5,7 +5,9 @@
 		<prepDate>2011-09-12 KG</prepDate>
 		<prepDate>2011-11-16 CH update</prepDate>
 		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1955-05-12">
 			<supplied resp="MSPP">12 May 1955</supplied>
 		</docDate>
@@ -67,14 +69,14 @@
 		<byline> Margaret Sanger </byline>
 		<dateline><date value="1955-04-00">April, 1955</date><lb/>For <place>Puerto
 			Rico</place></dateline>
-		<p>Many years ago I wrote and published a book entitled “<title type="book">The Pivot of
-				Civilization</title>.” The point of this book was that the future of civilization
+		<p>Many years ago I wrote and published a book entitled "<title type="book">The Pivot of
+				Civilization</title>." The point of this book was that the future of civilization
 			is, in all its phases, dependent upon Planned Parenthood––or Birth Control, as we
 			expressed the idea of contraception in those pioneering days. I was brought to a new
 			realization of how swiftly we have moved in these past thirty years. Our civilization
 			has wrought miracles on one level, and plunged humanity into disaster and chaos on
 			another. Our civilization gives evidence of an <emph rend="underline">inner</emph>
-			conflict. It suffers from a “split personality”.</p>
+			conflict. It suffers from a "split personality".</p>
 		<p>First let us look at the miracles it has wrought. Its scientists and engineers have
 			harnessed and controlled the vast forces of external nature. Just glance at the vast
 			hydro-electric projects, furnishing millions upon millions of horsepower, by converting
@@ -111,7 +113,7 @@
 			causes of human miseries. Too often it has expended its energies in seeking to bridge
 			order out of chaos, instead of, with farseeing vision preventing the great human
 			catastrophes.</p>
-		<p>To my book <title type="book">“The Pivot of Civilization”</title>, my good friend, the
+		<p>To my book "<title type="book">The Pivot of Civilization</title>," my good friend, the
 			late <person reg="Wells, H. G.">H. G. Wells</person> contributed an introduction in
 			which he contrasted the new progressive, experimental ideal of civilization with that of
 			the old static, traditional way of life dominated by Mother Church and Father State. Mr.
@@ -123,29 +125,29 @@
 			not only ancient, but conservative and reactionary.</p>
 		<p>Contrasted with the older civilization we find that Mr. Wells calls the <add>new</add>
 			civilization <add>one</add> of inquiry, of experiment, knowledge and science. Creative
-			and progressive civilization says “<q who="TENAL">Let knowledge grow from more to more
-				and more of reverence in us dwell.</q>” “<q who="WELHG">Let man know and trust
-				him.</q>” These two forces today are at war upon a thousand issues. Ancient
+			and progressive civilization says "<q who="TENAL">Let knowledge grow from more to more
+				and more of reverence in us dwell.</q>" "<q who="WELHG">Let man know and trust
+				him.</q>" These two forces today are at war upon a thousand issues. Ancient
 			civilizations all encouraged unrestricted breeding to meet the catastrophic waste of
 			life through wars, pestilence, floods and periodic epidemics. The new civilization has
 			conquered to a large extent the scourges, floods and preventible diseases, but confronts
 			us with the explosive dangers of an overpopulated world. We find the old civilization
-			clamoring for more and more babies-–the cry “Our babies are dying,give us more babies.”
+			clamoring for more and more babies-–the cry "Our babies are dying,give us more babies."
 			They will eventually become consumers say the Communists. They put all the answers to
-			over-populated areas--“Let them emigrate. Let them expand their industry!” Under our
+			over-populated areas--"Let them emigrate. Let them expand their industry!" Under our
 			very eyes, as reported in the newspapers, we can watch the Soviets sending to the
 			steppes of Siberia thousands upon thousands of young men and women to breed and populate
-			a now barren territory. According to a special dispatch to the <title type="journal">New York
-				Times</title> for <place reg="Moscow, Soviet Union">Moscow</place>:</p>
-		<p>“<q who="DANCL">Last year 150,000 young men and women were sent out as pioneers to the
+			a now barren territory. According to a special dispatch to the <title type="journal">New
+				York Times</title> for <place reg="Moscow, Soviet Union">Moscow</place>:</p>
+		<p>"<q who="DANCL">Last year 150,000 young men and women were sent out as pioneers to the
 				new lands. This year, according to the <org>Komsomol</org>, Communist youth
 				organization, 620,000 others volunteered to join the first settlers. The Komsomol
 				has chosen 165,000 of whom 55,000 have already gone east. Every few days several
-				carloads of migrants leave from the big city stations.</q>”</p>
+				carloads of migrants leave from the big city stations.</q>"</p>
 		<p>This example illustrates the authoritarian despotism of the so-called Soviet civilization
 			(however much the Soviets may boast of their progressiveness). Population policies are
 			decided by Father State, or in <person reg="Orwell, George">Orwell</person>’s
-				satire-–“<q who="ORWGE">Big Brother knows best!</q>”</p>
+				satire-–"<q who="ORWGE">Big Brother knows best!</q>"</p>
 		<p>The new civilizing power of Planned Parenthood, in contrast, liberates the potential
 			mother and wife from the despotic decrees of Father State–-or Mother Church. It restores
 			self-direction, self-decision, self-determination of the parents to advance the family.
@@ -160,10 +162,10 @@
 			organization. But as far as I have been able to discover, the United Nations and its
 			subsidiary bodies have shied away from the basic problems of over-population, planned
 			parenthood and contraception. Its reports seem to be toned down to keep from offending
-			delegates from countries dominated by “Mother” Church. Yet how can the dangers to world
+			delegates from countries dominated by "Mother" Church. Yet how can the dangers to world
 			peace that always threaten to explode in over-populated areas be averted without
 			bringing the frank and open discussion of Planned Parenthood to the council table?</p>
-		<p>We hear much discussion of aid to “backward” and underdeveloped areas. But we fail to see
+		<p>We hear much discussion of aid to "backward" and underdeveloped areas. But we fail to see
 			that these under-developed areas are always <emph rend="underline">over-populated</emph>
 			zones. How long can the American people be expected to pay confiscatory taxes to support
 			these over-populated lands forever and ever? Yet we read in the well-informed <title
@@ -192,7 +194,7 @@
 		<p>If we define civilization as increased and increasing responsibility based upon vision
 			and foresight, it becomes evident (painfully so) that parenthood as practiced today by a
 			large percentage of our human race is in no sense civilized. In almost all countries
-			today there is one class, which is generally known as “upper class”. Women of this class
+			today there is one class, which is generally known as "upper class". Women of this class
 			have the most up-to-date maternal care, modern science and modern nursing. The maternal
 			and infant death rate is lowest in this class. It is from the class that women are able
 			to space the births of children in consideration of their health, the fathers earning
@@ -213,7 +215,7 @@
 			infants. In spite of laws, to deliberately kill infants, this slaughter was carried on
 			through the Middle Ages until the art of abortion became a practice. Mothers were
 			beaten, imprisoned, drowned as punishment, threatened with hellfire, but the crimes
-			continued as unwanted babies came into existence. The “survival of the fit” was perhaps
+			continued as unwanted babies came into existence. The "survival of the fit" was perhaps
 			the basic principle which brought our present civilization to flower. It may have seemed
 			to be a cruel and relentless policy, but the changes from the eugenic laws to feudal
 			system had certain values in balancing the birth and death rates. Family
@@ -223,7 +225,7 @@
 			clothed at the expense of the fit. They toiled not, neither did they spin, but were free
 			to breed, to increase, to multiply recklessly, not only progeny, but their idiocy,
 			mental and physical transmittable diseases. Thus the old civilization defying nature’s
-			balancing has created an overpopulated world, with “cold wars” threatening peaceful
+			balancing has created an overpopulated world, with "cold wars" threatening peaceful
 			existence, for the fit and intelligent adults of our present civilization.</p>
 		<p>In the program of the <org reg="Planned Parenthood Federation of America">Planned
 				Parenthood Federation</org> there are helpful clinics and physicians to advise
@@ -246,9 +248,9 @@
 			disturbance. On this subject we must agree with <person reg="Price, Marie Perry">Marie
 				Perry Price</person>, who in a recent letter to the <title type="journal">New York
 				Times</title> declared:</p>
-		<p>“<q who="PRIMA">A child has a right not to be conceived and born into a home, a family or
+		<p>"<q who="PRIMA">A child has a right not to be conceived and born into a home, a family or
 				a community that does not want him and makes so little provision for his
-			care.</q>”</p>
+			care.</q>"</p>
 		<p>If would-be parents were to apply as a test to their fitness for parenthood to any
 			adoption agency and reply to the questions that are asked by that agency to safeguard
 			the child’s life and to insure its health, happiness and development, I believe that
@@ -268,10 +270,10 @@
 			the program for planned parenthood. I can still agree with the <person
 				reg="H&ouml;lderlin, Friedrich">young poet</person> who write in the midst of the
 			French Revolution, nearly two centuries ago:</p>
-		<p>“<q who="HOLFR">....I love the generations of the centuries to come. For this is my most
+		<p>"<q who="HOLFR">....I love the generations of the centuries to come. For this is my most
 				blessed hope, the faith which keeps me strong and active, that our grandchildren
-				will be better than we. These seeds of enlightenment . . . for the improvement of the
-				human race will spread and grow strong and bear glorious fruit.</q>”</p>
+				will be better than we. These seeds of enlightenment . . . for the improvement of
+				the human race will spread and grow strong and bear glorious fruit.</q>"</p>
 		<p/>
 	</docBody>
 </doc>

@@ -8,17 +8,18 @@
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
 		<prepDate>2015-04-21 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-05-00">May 1914</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Short Pieces the May 1914 issue of <title type="journal">The Woman
-					Rebel</title></supplied>
+				<supplied resp="MSPP">Short Pieces the May 1914 WOMAN REBEL</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp420062</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, May 1914, pp. 19 and 24</bibl>
+			<bibl><title type="journal">Woman Rebel</title>, May 1914, pp. 19 and 24</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
 				C16:0533 and 0538</bibl>
 		</sourceDesc>
@@ -46,9 +47,9 @@
 				wealth; the murder of their wives and of their children, as well as the destruction
 				of their homes; when he is not even moved by the burning to death of little
 				children; it is evident that he belongs to that rare criminal type made famous in
-				history by such men as <person>Nero</person>, <person>Caligula</person>,
-					<person>Genghis Khan</person> and <person reg="Herod the Great (Biblical)"
-					>Herod</person>.</p>
+				history by such men as <person reg="Nero (Roman)">Nero</person>, <person
+					reg="Caligula (Roman)">Caligula</person>, <person>Genghis Khan</person> and
+					<person reg="Herod the Great (Biblical)">Herod</person>.</p>
 			<p>"<q who="SINUP">Streaks of good</q>" may interest the amiable Upton, but will they
 				bring the dead to life?</p>
 			<p>In any event, the workers of Colorado will find small comfort in Sinclair's
@@ -101,8 +102,8 @@
 				individual represents.</p>
 		</div>
 		<div type="section">
-				<head>A WOMAN'S DUTY</head>
-				<p><emph rend="bold">TO DESIRE THE BEST AND EXPERIENCE ITS FULFILMENT</emph>.</p>
+			<head>A WOMAN'S DUTY</head>
+			<p><emph rend="bold">TO DESIRE THE BEST AND EXPERIENCE ITS FULFILMENT</emph>.</p>
 		</div>
 	</docBody>
 </doc>

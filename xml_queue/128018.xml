@@ -7,7 +7,9 @@
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-12 CH clean errors and regs</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-04-00">Apr 1928</docDate>
 		<docTitle>
 			<titlePart>
@@ -37,12 +39,12 @@
 			<date value="1928-04-00">April--1928</date>
 		</dateline>
 		<p>Last December the <org>American Birth Control League</org> was invited to prepare an
-			exhibit for the <name type="conf">Parents’ Exposition</name>, which was held last month
+			exhibit for the <org>Parents' Exposition</org>, which was held last month
 			in the <org>Grand Central Palace</org>, in <place reg="New York, NY">New York
 				City</place>. A contract was signed in February; and great care and pains were taken
 			by our organization to prepare a dignified, instructive and inoffensive survey of our
 			work. On the eve of the opening we received a letter from <person reg="Simon, Robert E."
-				>Robert E. Simon</person>, president of the <org>Associated Parents’ Association of
+				>Robert E. Simon</person>, president of the <org>Associated Parents' Association of
 				Greater New York</org>, stating that Dr. <person reg="O'Shea, William J."
 				>O’Shea</person>, <add>the superintendent of public schools,</add> had threatened to
 			remove the exhibition prepared by the <org reg="New York Board of Education">Board of

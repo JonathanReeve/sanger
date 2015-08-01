@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2014-04-09 JK initial tag</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1957-00-00">1957</docDate>
 		<docTitle>
 			<titlePart>
@@ -86,7 +88,7 @@
 			means of fighting the country’s abortion menace early in the year. In
 				<place>Czechoslovakia</place>, a treatise on birth control <title type="article"
 				>Anticonception and the Fight Against Abortion</title>, was published by the <org
-				reg="State Health Publishing House Czechoslovakia">state Health Publishing
+				reg="Czechoslovakia State Health Publishing House">state Health Publishing
 				office</org>. </p>
 		<p>In Communist <place>China</place>, where the net daily increase in population was 34,000,
 			or more than a third of the entire world’s net daily increase, the government, in a

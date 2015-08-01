@@ -11,6 +11,7 @@
 		<prepDate>2011/12/02 EK corrections and Index</prepDate>
 		<prepDate>2014-04-02 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-10 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -37,20 +38,25 @@
 				American counterpart and imitator of the organization that played on human ignorance
 				here a century back. We do not endorse all our contributor's neo-Malthusian
 				reasoning, however.</q>"--ed.</p>
+		<index level1="United States Postal Service"/>
+		<index level1="United States Congress"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
 		<index level1="Comstock, Anthony"/>
 		<index level1="censorship"/>
-		<index level1="free speech"/>
+		<index level1="Society for the Suppression of Vice"/>
+		<index level1="free speech and free press"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
-		<index level1="working classes" level2="birth control and"/>
-		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
-		<index level1="New York Society for the Suppression of Vice"/>
 		<index level1="child labor"/>
-		<index level1="birth control" level2="opposition to"/>
+		<index level1="working classes" level2="birth control and"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="family size" level2="and poverty"/>
 		<index level1="family size" level2="class-based"/>
-		<index level1="labor movement" level2="birth control and"/>
-		<index level1="United States Congress"/>
+		<index level1="birth control" level2="opposition to"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="abortion" level2="frequency of"/>
+		<index level1="birth control" level2="propaganda and publicity"/>
 	</headNote>
 	<docBody>
 		<head>Should Women Know?</head>
@@ -69,7 +75,7 @@
 			passing of laws commonly known as the "Comstock laws," which prohibit the sending of any
 			matter through the mails, which, according to the opinion or judgement of <person
 				reg="Comstock, Anthony">Anthony Comstock</person>, the <org
-				reg="United States Post Office">Postal Authorities</org> see fit to call "obscene." </p>
+					reg="United States Postal Service">Postal Authorities</org> see fit to call "obscene." </p>
 		<p>Anthony Comstock was born in 1844, which makes him seventy-one years old next March. He
 			has been Secretary and special agent for the <org
 				reg="New York Society for the Suppression of Vice">Society for the Suppression of
@@ -80,10 +86,10 @@
 			special agent, Comstock. </p>
 		<p>Comstock records that he has destroyed 160 tons of literature, and brought 3,760
 			"criminals" to "justice." In 1878, considerable agitation was aroused, and a petition
-			presented to <org>Congress</org>, headed by the name of <person
-				reg="Ingersoll, Robert G.">Robert Green Ingersoll</person>, to which was added those
-			of 70,000 "freemen" to repeal the laws known as the "Comstock laws." The petition
-			measured over two-thousand feet in length, and was placed on file with the <org
+			presented to Congress, headed by the name of <person reg="Ingersoll, Robert G.">Robert
+				Green Ingersoll</person>, to which was added those of 70,000 "freemen" to repeal the
+			laws known as the "Comstock laws." The petition measured over two-thousand feet in
+			length, and was placed on file with the <org
 				reg="United States House of Representatives, Committee on the Revision of Laws"
 				>>House Committee on the Revision of Laws</org>. It prayed for the "<q who="INGRO">
 				repeal or modification of certain laws executed ostensibly to prevent the passage of
@@ -124,8 +130,8 @@
 			article, called "<title type="article">Open Discussion</title>," was suppressed for
 			discussing discussion of the subject. Another article, entitled "<title type="article"
 				>The Birth Control League</title>," which announced the organization of the <org
-				reg="Birth Control League"/>league,org>, and its outline of agitation, was
-			suppressed also.</p>
+				reg="Birth Control League of America"/>league,org>, and its outline of agitation,
+			was suppressed also.</p>
 		<p><title type="journal">The Woman Rebel</title> did not advocate this knowledge, or the
 			practice of this knowledge as a "cure all" for the workers from their present economic
 			enslavement, but it did urge the practice of it as the most important immediate step

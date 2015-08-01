@@ -12,6 +12,7 @@
 		<prepDate>2014/03/13 EK clean regs</prepDate>
 		<prepDate>2014-04-14 EK proofing corrections</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-20 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -24,7 +25,7 @@
 			<bibl><title type="journal">Physical Culture</title>, Apr. 1916, Vol 35: No 4, p.
 				15</bibl>
 			<bibl><title type="mf">Margaret Sanger Papers Microfilm: Collected Documents
-					Series</title> C16:99</bibl>
+					Series</title> C16:0099</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -33,11 +34,13 @@
 	<headNote resp="MSPP">
 		<p>A brief editorial note directing readers to an update on Sanger's trial that precedes
 			this article was omitted by the editors.</p>
-		<index level1="women" level2="reproductive choices and decisions"/>
 		<index level1="birth control" level2="propaganda and publicity"/>
-		<index level1="women" level2="enslavement of"/>
 		<index level1="birth control" level2="opposition to"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="enslavement of"/>
 		<index level1="motherhood" level2="MS on"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="working classes" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>A Message to Mothers</head>

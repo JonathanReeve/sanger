@@ -7,7 +7,9 @@
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and etner</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1927-11-29">29 Nov 1927</docDate>
 		<docTitle>
 			<titlePart>Social and Individual Need of Birth Control</titlePart>
@@ -75,7 +77,7 @@
 		<p> Modern civilization is confronted with two problems: 1) that of the pressure of
 			population upon the food supply of the world and, 2) that of reconciling humanitarian
 			and democratic practices with race improvement. Modern and progressive scientists say
-			that birth control is the solution of both. Lord <person reg="Dawson, Bertrand"
+			that birth control is the solution of both. Lord <person reg="Dawson, Bertrand E."
 				>Dawson</person>, that distinguished English surgeon, who had the courage to take
 			this question into the <org reg="Birmingham Church Congress">Church Congress of
 				Bishops</org> a few years ago, said that birth control was here and was here to

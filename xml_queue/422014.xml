@@ -5,20 +5,22 @@
 		<prepDate>2014-06-24 MM transcribe and encode </prepDate>
 		<prepDate>2015-01-08 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-07-10 EK correct proof and update index</prepDate>
+		<prepDate>2015-07-08 MC transcribed and encoded</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-01-26">26 Jan 1923</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Hagerstown Women's Club</supplied>
+				<supplied resp="MSPP">Excerpts from Speech to the Hagerstown Woman's Club</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422014</idno>
 		<sourceDesc>
 			<bibl><title type="article">Mrs. Sanger Makes Plea For Birth Control Before A Large
 					Audience Here </title>, <title type="journal">Morning Herald
-					(Hagerstown)</title>, Jan. 27, 1923</bibl>
+				(Hagerstown</title>, Jan. 27, 1923, pp. 1 and 3.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,76 +28,122 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger spoke to the <org reg="Hagerstown Woman's Club">Woman's Club</org> in <place
-				reg="Hagerstown, MD">Hagerstown, Maryland</place> at the <org>Stouffer's Dance
-				Academy</org> after the <org reg="Young Women's Christian Association">YWCA</org>
-			refused her. Over one thousand attended the event, Sanger was introduced by <person
-				reg="Morningstar, Mary E.">Mary E. Morningstar</person>. For a quote likely given at
-			the meeting see <xref from="422013.xml">"Statement on Flappers</xref>," Jan. 27,
-			1923.</p>
+		<p>Sanger spoke at <org>Stouffer's Dance Academy</org> on behalf of the <org>Woman's Club of
+				Halfway</org> after the <org reg="Young Women's Christian Association">YWCA</org>
+			refused to allow her. For a a statement likely drawn from this speech see <xref
+				from="422013.xml">"Statement on Flappers</xref>," Jan. 27, 1923.</p>
 		<index level1="birth rate"/>
+		<index level1="population size" level2="and birth control"/>
+		<index level1="population size" level2="and birth rate"/>
+		<index level1="family size" level2="and poverty"/>
 		<index level1="family size" level2="class-based"/>
-		<index level1="birth control" level2="religion and"/>
+		<index level1="family size" level2="MS on"/>
+		<index level1="birth control" level2="and natural law"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="client letters"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
 	</headNote>
 	<docBody>
 		<head>Mrs. Sanger Makes Plea For Birth Control Before A Large Audience Here</head>
 		<p>"Don't let prejudice and ignorance wipe out civilization," <q who="HMH">was the plea made
 				by Margaret Sanger, <place reg="New York, NY">New York</place>, President of the
-					<org>American Birth Control League</org>, speaking to one thousand and 88 men
-				and women who packed Stouffer's Academy last night to hear her speak.</q></p>
-		<p>"Countries having highest birth rates are those which have not increased in population
+					<org>American Birth Control League</org>, speaking to one thousand and 68 men
+				and women who packed <org reg="Stouffer's Dance Academy">Stouffer's Academy</org>
+				last night to hear her speak.</q></p>
+		<p><q who="HMH">The "special officers" who <person reg="Bowman, Charles">Mayor
+					Bowman</person> said he would have placed in the audience to safeguard the
+				morals of the community by what Mrs. Sanger might say on rational parenthood, hid
+				themselves well. If any special officers "chaperones" as Mrs. Sanger laughingly
+				referred to them, were present they were in plain clothes, and as no one in the
+				audience was sufficiently offended to start a riot, the officers did not make
+				themselves conspicuous.</q></p>
+		<p>
+			<q who="HMH">Only one disturbance occurred during the lecture. Shortly after Mrs. Sanger
+				started speaking a young lady was overcome by the closeness of the air and fainted.
+				She was quickly revived however and there was no excitement.</q>
+		</p>
+		<p> "Countries having highest birth rates are those which have not increased in population
 			while those having low birth rates--such as <place>Australia</place>--have increased in
 			population. Control of the birth rate is an aid to increased population because higher
-			death rates always accompany large birth rates, the speaker explained. Prejudice and
+			death rates always acompany large birth rates, the speaker explained. Prejudice and
 			ignorance are the two factors fighting the movement to allow control of the birth rate,
-			and eventually will lead back to a degenerate civilization.</p>
+			and eventually will lead back to a degenerate civilization."</p>
 		<p>"The world is divided into two groups--not the rich and the poor--but the small family
-			group and the large family group. In small families is found self-reliance,
+			group and the the large family group. In small families is found self-reliance,
 			self-respect, happiness, leisure, comfort: the children in small families attend school
-			and college and usually fill the highest positions in church and state.</p>
+			and college and usually fill the highest positions in church and state."</p>
 		<p>"On the other hand is the large family group where is found misery, ignorance, poverty,
-			sickness, child labor--this misery perpetuating itself in increasing numbers.</p>
+			sickness, child labor--this misery perpetuating itself in increasing numbers."</p>
 		<p>"For the alleviating of this suffering a whole social system has been erected, with
 			thousands of social service workers employed devoting their lives to trying to ease the
-			misery brought about by the unwise and endless reproduction.</p>
+			misery brought about by the unwise and endless reproduction."</p>
 		<p>"More than 90% of children who die in infancy are of poverty or neglect, and yet there
 			are no steps taken to prevent the parents of those children from bringing into the world
-			300,000 more children to die of poverty and neglect the next year.</p>
+			300,000 more children to die of poverty and neglect the next year."</p>
 		<p>"The trouble is," <q who="HMH">said Mrs. Sanger,</q> "we don't get at the real cause of
 			human misery. We are like an ostrich who sticks his head in the sand and refuses to face
-			facts.</p>
+			facts."</p>
 		<p>"I would like to see a civilization where parenthood is a privilege," <q who="HMH">she
 				said.</q></p>
 		<p>"Birth control is the keynote of a new social awakening. It is a principle interlocked
 			with the spiritual progress of the race. Nature has always been a most ruthless advocate
-			of birth control. Nature's methods are famine and pestilence and scourge and wars.</p>
+			of birth control. Nature's methods are famine and pestilence and scourge and wars."</p>
 		<p>"No wonder the world is in this state of chaos. We have got to put a check upon the
 			growing population of the feeble minded, insane and diseased, until the world catches
-			up. </p>
-		<p>"They say it is 'against the laws of nature.' So is shaving against the laws of nature
-			(much laughter from the audience.) So is walking on two feet instead of fours against
-			the laws of nature. So is sailing in boats, and flying in the air, against the laws of
-			nature.</p>
-		<p> "But, if self-preservation is the first law of nature, then birth control is within
-			nature's laws, for self-preservation depends on birth control."</p>
-		<p>
-			<q who="HMH">Answering the argument that birth control would increase immorality, Mrs.
-				Sanger said that of all the thousands of woman who have come to her for advice,
-				there has never been an unmarried girl ask for information.</q>
-		</p>
-		<p>"It is an insult to women, and an insult to Christianity to say that, if women are not
-			capable of standing on their own inner strength of character, the generations of
-			Christian teachings have failed. It is a weak morality that is moral because of fear of
-			the consequences. People have to be taught the proper use of knowledge. They can be
-			safeguarded only by the firmness, the intelligence, the strength within them.</p>
-		<p>"Are people interested in the subject" <q who="HMH">Mrs. Sanger was asked.</q></p>
-		<p>
-			<q who="HMH">In reply, she told of letters received by her from women all over the
-				country, averaging more than 1000 a day.</q>
-		</p>
-		<p>"These letters, coming for the most part from poor mothers of the tenements, the
-			factories and the workshops--have to go unanswered because a Federal statute forbids the
-			giving of such information through the mails."</p>
-
+			up."</p>
+		<p><q who="HMH">Answering the arguments put forth by opponents of the move, Mrs. Sanger
+				said:</q></p>
+		<div>
+			<head type="sub">Answer Arguments.</head>
+			<p>"They say it is 'against the laws of nature.' So is shaving against the laws of
+				nature." <q who="HMH">(much laughter from the audience.)</q> "So is walking on two
+				feet instead of all fours against the laws of nature. So is sailing in boats, and
+				flying in the air, against the laws of nature."</p>
+			<p> "But, if self-preservation is the first law of nature, then birth control is within
+				nature's laws, for self-preservation depends on birth control."</p>
+			<p>
+				<q who="HMH">Answering the argument that birth control would increase immorality,
+					Mrs. Sanger said that of all the thousands of woman who have come to her for
+					advice, there has never been an unmarried girl ask for information.</q>
+			</p>
+		</div>
+		<div>
+			<head type="sub">Morality From Character, Not Fear.</head>
+			<p>"It is an insult to women, and an insult to Christianity to say that, if women are
+				not capable of standing on their own inner strength of character, the generations of
+				Christian teachings have failed. It is a weak morality that is moral because of fear
+				of the consequences. People have to be taught the proper use of knowledge. They can
+				be safeguarded only by the firmness, the intelligence, the strength within
+				them."</p>
+			<p>
+				<q who="HMH">Mrs. Sanger was introduced by <person reg="Morningstar, Marie E.">Mrs.
+						Morningstar</person>, president of the <org>Woman's Club of Halfway</org>,
+					under whose auspices she spoke. The lecturer carried a corsage of violets and
+					roses presented by the Club of Halfway.</q></p>
+			<p>
+				<q who="HMH">During the speech there was strict attention and hearty applause.
+					People sat in the benches which line the walls of the <org>Stouffer's
+						Academy</org>, they crowded into the tiny balcony where Prof. <person
+						reg="Stouffer, Frank B.">Stouffer</person> keeps pianos and old records and
+					victrolas, they stood in the back of the hall and sat on the steps.
+						<person>Prof. Stouffer</person>, who offered his dancing academy after the
+						<org reg="Young Women's Christian Association">Y.W.C.A.</org> had refused to
+					allow Mrs. Sanger to speak, said that there had been exactly 1068 admission. The
+					crowd lined the street before the First Hose Company building long before the
+					doors were open, and in the audience were representative men and women of the
+					cultured, intelligent type.</q></p>
+		</div>
+		<div>
+			<head type="sub">Many Inquiries.</head>
+			<p>"Are people interested in the subject," <q who="HMH">Mrs. Sanger was asked.</q></p>
+			<p>
+				<q who="HMH">In reply, she told of letters received by her from women all over the
+					country, averaging more than 1000 a day.</q>
+			</p>
+			<p>"These letters, coming for the most part from poor mothers of the tenements, the
+				factories and the workshops--have to go unanswered because a Federal statute forbids
+				the giving of such information through the mails."</p>
+		</div>
 	</docBody>
 </doc>

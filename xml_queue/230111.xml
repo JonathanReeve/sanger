@@ -17,11 +17,13 @@
 		<idno>msp230111</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Jan. 1925, p. 4</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:14</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S71:14</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="ACLU">American Civil Liberties Union</name><name id="ITA">Italian</name>
+			<name id="ACLU">American Civil Liberties Union</name>
+			<name id="ITA">Italian</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -34,15 +36,15 @@
 	<docBody>
 		<head>An Urgent Appeal in the Tresca Case</head>
 		<p>On November 23, 1923, <person reg="Tresca, Carlo">Carlo Tresca</person>, editor of <title
-				type="journal"><foreign lang="ITA">Il Martello</foreign></title>, an Italian anti-Fascisti weekly, was convicted
-			of the crime of publishing in his paper a two-line advertisement of a book on Birth
-			Control. On November 10, 1924, the <org><place>United States</place> Circuit Court of
-				Appeals</org> affirmed his sentence of a year and a day in <org
-				reg="United States Penitentiary, Atlanta">Atlanta Penitentiary</org>. The
-			miscarriage of justice in this sentence is indicated in the endorsement by a number of
-			prominent people to Mr. Tresca's application to President <person reg="Coolidge, Calvin"
-				>Coolidge</person> for a commutation of sentence. The formal endorsement reads, in
-			part, as follows:</p>
+				type="journal"><foreign lang="ITA">Il Martello</foreign></title>, an Italian
+			anti-Fascisti weekly, was convicted of the crime of publishing in his paper a two-line
+			advertisement of a book on Birth Control. On November 10, 1924, the <org>United
+					States Circuit Court of Appeals</org> affirmed his sentence of a year
+			and a day in <org reg="United States Penitentiary, Atlanta">Atlanta Penitentiary</org>.
+			The miscarriage of justice in this sentence is indicated in the endorsement by a number
+			of prominent people to Mr. Tresca's application to President <person
+				reg="Coolidge, Calvin">Coolidge</person> for a commutation of sentence. The formal
+			endorsement reads, in part, as follows:</p>
 		<p>"<q who="ACLU">The petitioner was convicted upon one count only in an indictment
 				containing eight counts under <name type="law"
 					reg="United States Criminal Code, Section 211">Section 211 of the U.S. Criminal
@@ -76,8 +78,6 @@
 				sentence was 30 days, and the longest six months</q>."</p>
 		<p>We earnestly appeal to all our readers to join in this protest to President Coolidge
 			against the punishment of an innocent man.</p>
-		<byline>
-			MARGARET SANGER
-		</byline>
+		<byline> MARGARET SANGER </byline>
 	</docBody>
 </doc>

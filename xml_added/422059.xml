@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-05-26 MC encoded and transcribed</prepDate>
+		<prepDate>2015-05-26 CH proof tags</prepDate>
+		<prepDate>2015-05-27 MC correct tags</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1939-04-12">
+			<supplied resp="MSPP">12 Apr 1939</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Short Statement on Family Planning and World Peace</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422059</idno>
+		<sourceDesc>
+			<bibl><title type="article">What Noted People Say</title>, <title type="journal">New Castle News</title>, Apr. 12, 1939, p. 4</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+			<name id="NCN">New Castle News</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>No more complete version found.</p>
+		<index level1="birth control" level2="and world peace"/>
+		<index level1="population size” level2=”and birth control"/>
+	</headNote>
+	<docBody>
+		<head>What Noted People Say</head>
+		<p>
+			<q who="NCN">Margaret Sanger sees a hope for world peace in scientific birth
+				control:</q>
+		</p>
+		<p>"Intelligent planning of population increase among nation is as essential to world peace
+			and international welfare as family planning is essential to the welfare and happiness
+			of individuals."</p>
+	</docBody>
+</doc>

@@ -4,12 +4,13 @@
 	<mepHeader>
 		<prepDate>2014-04-09 JK initial tags</prepDate>
 		<prepDate>2015-03-18 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-11-09 ">09 Nov 1931</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with The San Antonio
+				<supplied resp="MSPP">Interview with the San Antonio
 					Light</supplied>
 			</titlePart>
 		</docTitle>
@@ -37,14 +38,19 @@
 		<head>NEW THINKING OF YOUNGER GENERATION PRAISED</head>
 
 
-		<p><q who="SAL">Definition of the American younger generation as the
+		<p>
+			<q who="SAL">Definition of the American younger generation as the
 				avenue to a solution of problems that have been ignored by
 				puritanical older people, was made by Margaret Sanger, birth
 				control crusader, who will lecture on the subject before the
-			<org><place reg="San Antonio, TX">San Antonio</place> Open Forum</org>
-				Monday night.</q></p>
-		<p><q who="SAL"> Mrs. Sanger, in her suite at the <org reg="Gunter Hotel">Gunter
-					hotel</org> Monday morning, said:</q></p>
+						<place reg="San Antonio, TX">San Antonio</place>
+				<org reg="San Antonio Open Forum">Open Forum</org> Monday night.</q>
+		</p>
+		<p>
+			<q who="SAL"> Mrs. Sanger, in her suite at the <org
+					reg="Gunter Hotel">Gunter hotel</org> Monday morning,
+				said:</q>
+		</p>
 
 		<p> “The younger generation has done away with hypocrisy. They are
 			directing a new manner of thinking towards morals in the right way.
@@ -67,8 +73,10 @@
 				charitable work within the last 10 years had been directed to
 				wiping out the slums by scientific methods such as birth control
 				and recreational facilities, the <place>United States</place>
-				would today be closer to solving its tenement problems.</q></p>
-		<p><q who="SAL"> Speaking of the large foreign population of San
+				would today be closer to solving its tenement problems.</q>
+		</p>
+		<p>
+			<q who="SAL"> Speaking of the large foreign population of San
 				Antonio, Mrs. Sanger said:</q>
 		</p>
 
@@ -79,11 +87,15 @@
 			the lackadaisical attitude of the more normally situated
 			natives.”</p>
 
-		<p><q who="SAL"> Mrs. Sanger remarked briefly on organized opposition to
-				her beliefs in most of the cities on her lecture tour, and
+		<p>
+			<q who="SAL"> Mrs. Sanger remarked briefly on organized opposition
+				to her beliefs in most of the cities on her lecture tour, and
 				lamented opposition to free discussion of knowledge and
-				beliefs.</q></p>
-		<p><q who="SAL">She said:</q></p>
+				beliefs.</q>
+		</p>
+		<p>
+			<q who="SAL">She said:</q>
+		</p>
 
 		<p> “Any opposition who may disagree in an opinion has the right to
 			adhere to their beliefs, and make reasonable statements of
@@ -95,7 +107,8 @@
 			should be an organized opposition to the free expression found in
 			them.”</p>
 
-		<p><q who="SAL"> Mrs. Sanger pointed out that at her birth control
+		<p>
+			<q who="SAL"> Mrs. Sanger pointed out that at her birth control
 				clinic in New York more than 25,000 women had received advice
 				and treatment within the last five years, and that one-third
 				were Protestants, one-third Catholics, and one-third Jews. She
@@ -107,10 +120,13 @@
 			problems of humanity. Birth control is one way of solving a very old
 			problem.”</p>
 
-		<p><q who="SAL"> Mrs. Sanger’s lecture will be given at the municipal
+		<p>
+			<q who="SAL"> Mrs. Sanger’s lecture will be given at the municipal
 				auditorium at 8:30 p.m. Monday. She is the second Open Forum
-				lecturer of the season. </q></p>
-		<p><q who="SAL">She was honored with a luncheon at the <org>St. Anthony
+				lecturer of the season. </q>
+		</p>
+		<p>
+			<q who="SAL">She was honored with a luncheon at the <org>St. Anthony
 					Hotel</org> Monday noon by officers and directors of the
 				forum. She came to this city from <place reg="Houston, TX"
 					>Houston</place>, where a crowd 4,000 people attended her

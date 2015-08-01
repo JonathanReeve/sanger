@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview">
+	<mepHeader>
+		<prepDate>2015-05-28 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-29 CH proof tags</prepDate>
+		<prepDate>2015-06-09 LH edits</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-02-03">3 Feb 1921</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Brownsville Labor Lyceum Questions and Answers</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422080</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger Evades Lyceum Hecklers</title>, <title
+					type="journal">Brooklyn Daily Eagle</title> Feb 3, 1921, p. 9</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE">Brooklyn Daily Eagle</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Christianity" level2="MS on"/>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="Brownsville Clinic"/>
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="Brownsville Clinic" level2="publicity"/>
+		<index level1="Catholic Church"/>
+		<index level1="Catholic Church" level2="and birth control"/>
+		<index level1="Catholic Church" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>MRS. SANGER EVADES LYCEUM HECKLERS</head>
+		<p><q who="BDE">"Were will the new birth control clinic be located?" was a question put to
+				Mrs. Margaret Sanger last night at the <org>Brownsville Labor Lyceum</org>,
+				following her lecture in which she had said it was hoped to open a clinic soon, </q>
+			"law or no law." </p>
+		<p> "That's an up-to-date questions," <q who="BDE"> she said.</q> "I don't think it will be
+			in <place reg="Brooklyn, NY"> Brownsville</place>. I don't like your police here." <q
+				who="BDE"> She announced that she would take the risk of giving information in
+				urgent cases, if those desiring it would call upon her at home in <place
+					reg="New York, NY">Manhattan</place>. </q></p>
+		<p><q who="BDE"> There were several hecklers in the audience. To these Mrs. Sanger gave but
+				scant attention. One questioner asked he if there were not an element of
+				perniciousness in placing birth control above all other social issues.</q> "Men
+			cannot work for the goal of their ideals, the emancipation of the human race, alone. No
+			free man was ever born of a slave mother. There is no greater slavery than maternal
+			slavery."</p>
+		<p> "The Church is as great a menace as legal barriers to birth control," <q who="BDE">
+				continued the speaker.</q> "Countries where birth control is legal still have the
+			Church to contend with. The Church's main job is saving souls, and it wants plenty of
+			souls to save. It is said by the Church that birth control is unnatural. Isn't celibacy
+			more unnatural? We have persons who talk in glowing terms of large families as honor
+			guests at our functions. Jails, the courts, and penitentiaries await those who wish to
+			perform a real service and who try to limit children." </p>
+		<p>"The upper and middle classes have done pretty well with birth control for 30 to 40
+			years. If we can't do better we might use their methods. Those who say the subject of
+			birth control is sordid and lacking in common sense."</p>
+	</docBody>
+</doc>

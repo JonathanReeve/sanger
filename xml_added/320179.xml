@@ -11,7 +11,9 @@
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-06 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1919-00-00">1919</docDate>
 		<docTitle>
 			<titlePart>Family Limitation, 9th ed.</titlePart>
@@ -27,8 +29,17 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Pages 18-19 of this text were missing from the original; the text has been replaced with
-			that of the 2nd English edition, which was based on the American 9th edition.</p>
+		<p>This is a revision of Sanger's 1914 <xref from="238157.xml">Family Limitation</xref>. For
+			other versions included in the digital edition, see <xref from="128069.xml">Family
+				Limitation</xref>, 3rd or 4th edition, ca., 1915, <xref from="320146.xml">Family
+				Limitation</xref>, 8th edition, 1918, <xref from="238150.xml">Family
+				Limitation</xref>, 12th edition, ca. 1922, <xref from="238155.xml">Family
+				Limitation</xref>, 17th edition, ca. 1927, and a draft of revisions for <xref
+				from="129001.xml">Family Limitation</xref>, ca. 1936. For additional editions, see
+			the Margaret Sanger Microfilm, Smith College Collections, Collected Documents Series and
+			Library of Congress Microfilm.</p><p>Pages 18-19 of this text were missing from the
+			original; the text has been replaced with that of the 2nd English edition, which was
+			based on the American 9th edition.</p>
 		<index level1="abortion" level2="birth control vs."/>
 		<index level1="abortion" level2="MS on"/>
 		<index level1="working classes" level2="birth control and"/>
@@ -55,7 +66,7 @@
 	<docBody>
 		<head>Family Limitation</head>
 		<byline>By MARGARET SANGER</byline>
-				<div type="section">
+		<div type="section">
 			<head type="sub">INTRODUCTION.</head>
 			<p>The need for information concerning birth control is more urgent today among the
 				working women of <place reg="United States">America</place> than it has ever been
@@ -205,8 +216,7 @@
 			<head type="sub">SOLUTIONS FOR DOUCHING.</head>
 			<p>Following are some of the solutions to be used for the douche, which, when carefully
 				used will kill the male sperm or prevent its entering the womb:</p>
-			<p>Lysol--is a brown oily liquid which added to water forms a clear soapy
-				solution.</p>
+			<p>Lysol--is a brown oily liquid which added to water forms a clear soapy solution.</p>
 			<p>One teaspoonful of lysol to 2 quarts of water (warm) makes a good solution for
 				douching. Mix into a pitcher or vessel before placing it in the bag.</p>
 			<p>Bichloride--Get the tablets blue or white from the druggist; the blue are less
@@ -218,16 +228,16 @@
 				vaginal discharge. The special objection to this is that it stains the skin and
 				clothing. This can be purchased in crystal form, and one-half teaspoonful dissolved
 				in two quarts of water is the proper strength.</p>
-			<p>Salt solution--Mix four tablespoons of table salt in one quart of warm or cold
-				water and dissolve thoroughly. This is good and cheap.</p>
+			<p>Salt solution--Mix four tablespoons of table salt in one quart of warm or cold water
+				and dissolve thoroughly. This is good and cheap.</p>
 			<p>Vinegar solution--Many peasants in Europe use vinegar as an antiseptic almost
 				exclusively. One glassful to two quarts of water is the strength usually desired.
 				Cider vinegar is preferred. Douche afterward with clear water.</p>
-			<p>Cold water douche--This will sometimes remove the semen quite effectively without
-				the aid of an antiseptic. But as the semen can hide itself away in the wrinkled
-				lining of the vaginal cavity, the cold water will only impede its progress for a
-				time. As soon as the warmth of the body revives its activity, the semen continues on
-				its journey to meet the ovum.</p>
+			<p>Cold water douche--This will sometimes remove the semen quite effectively without the
+				aid of an antiseptic. But as the semen can hide itself away in the wrinkled lining
+				of the vaginal cavity, the cold water will only impede its progress for a time. As
+				soon as the warmth of the body revives its activity, the semen continues on its
+				journey to meet the ovum.</p>
 			<p> Every woman should possess a good two quart rubber douche bag called fountain
 				syringe. Hang it high enough to insure a steady direct flow.</p>
 			<p>Bulb syringes, such as the whirling spray syringes, have been found satisfactory by

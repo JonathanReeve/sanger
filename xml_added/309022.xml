@@ -24,19 +24,19 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">Sanger likely drafted this short story outline in 1911. 
-		<index level1="Sanger, Margaret" level2="fictional writing"/>
-		<index 	level1="motherhood" level2="MS on"/>
+	<headNote resp="MSPP">Sanger likely drafted this short story outline in 1911. <index
+			level1="Sanger, Margaret" level2="fictional writing"/>
+		<index level1="motherhood" level2="MS on"/>
 		<index level1="marriage" level2="MS on"/>
 		<index level1="sex and sexuality" level2="MS on"/>
 	</headNote>
 	<docBody>
-		<head>
-			<title rend="underline">Does youth win the race</title>
+		<head><emph
+			 rend="underline">Does youth win the race</emph>
 		</head>
 		<head type="sub">Beauty or Brains?</head>
-		<p>Adoption of little Italian immigrant (slum) child by childless couple (show <place>Ellis
-				Island</place> with incoming family of several children).</p>
+		<p>Adoption of little Italian immigrant (slum) child by childless couple (show Ellis Island
+			with incoming family of several children).</p>
 		<p>Mother splendid type of American school teacher--big-brained &amp;
 			unselfish--intellectual in all current activities.</p>
 		<p>Her devotion &amp; intellect makes <add>weak</add> husband climb <del>for</del> step by
@@ -63,8 +63,8 @@
 		<p>Neenan falls in love with daughter--while still in love with the womans mind her big
 			grasp on the world affairs--her deep understanding her psychic &amp; intentional
 			qualities awe him--he needs them--but he loves Dorothy.</p>
-		<p>He comes to live in their home (flat) to live in touch with the inspiration of
-				Helen the Mother--</p>
+		<p>He comes to live in their home (flat) to live in touch with the inspiration of Helen the
+			Mother--</p>
 		<p>He does not tell Dora he loves her--</p>
 		<p>He tells Helen he can not love her as he would like to-- He is married &amp; can not get
 			divorced.</p>

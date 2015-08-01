@@ -8,6 +8,7 @@
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2014/03/20 EK proof</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-07-10 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,7 +20,7 @@
 		<idno>msp143711</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 130:427</bibl>
+			<bibl>Library of Congress Microfilm 130:0427</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp id="MSPP">MSPP</resp>
@@ -27,11 +28,14 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
+		<index level1="World War I" level2="and travel"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="gender roles"/>
+		<index level1="women and girls" level2="rights of"/>
 		<index level1="Europe" level2="MS on"/>
-		<index level1="Europe" level2="travel in"/>
+		<index level1="France" level2="women in"/>
+		<index level1="England" level2="women in"/>
 		<index level1="Sanger, Margaret" level3="exile, 1914-15"/>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="women" level2="gender roles"/>
 		<index level1="Netherlands, the" level2="women in"/>
 		<index level1="United States" level2="women in"/>" </headNote>
 	<docBody>

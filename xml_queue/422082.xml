@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview">
+	<mepHeader>
+		<prepDate>2015-05-28 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-29 CH proof tags</prepDate>
+		<prepDate>2015-06-10 LH edits></prepDate>
+		<prepDate>2015-06-24 MC correct transcript</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1916-10-27">27 Oct 1916</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Jail Interview with the Brooklyn Daily Eagle</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422082</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger, After Night in Jail, Has New Worries</title>,
+					<title type="journal">Brooklyn Daily Eagle</title>, Oct 27, 1916, p. 22</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BDE"> Brooklyn Daily Eagle</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Brownsville Clinic" level2="raid"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials, and imprisonment"/>
+	</headNote>
+	<docBody>
+		<head>Mrs. Sanger, After Night in Jail, Has New Worries</head>
+		<p>
+			<q who="BDE"> Appearing remarkably fresh, despite what she described as a night long
+				fight against rats and vermin in the <org>Raymond Street Jail</org>, Mrs. Margaret
+				Sanger, the birth-control advocate whose <org reg="Brownsville Clinic">clinic</org>
+				at 46 Amboy street was raided yesterday and who was placed under arrest for
+				violating section 1-142 of the <name type="law">Penal Laws,</name> today voiced her
+				defiance of the police and her somewhat uncomplimentary opinion of Mrs. Margaret
+				Whitehurst, the detective who placed her under arrest.</q>
+		</p>
+		<p>
+			<q who="BDE"> Mrs. Sanger has just begun to fight, she says. As soon as the present
+				charge against her is disposed of, she intends to return to her clinic and continue
+				in her work of spreading birth-control information among women.</q>
+		</p>
+		<p>
+			<q who="BDE"> Mrs. Sanger was interviewed in a small room just off the tier on which her
+				cell is located. She is in cell No. 1.</q>
+		</p>
+		<p>"I'm glad you came," <q who="BDE"> she said,</q> "but before we begin to discuss my
+			arrest I wish to tell you something. Please- for my sake and for the sakes of the other
+			women detained here- let me describe the horrible conditions of this jail. I do not see
+			how the people of <place reg="Brooklyn, NY"> Kings County</place> can tolerate such
+			conditions. The blanket which covers my iron cot is dirty. Creatures of all manners and
+			kinds invaded my cell. They came in vast numbers. There is no soap with which to wash my
+			hands. I am only mentioning a few of the defects. Put me on record, please, as saying
+			the women of Kings County should invade this place and clean it out."</p>
+		<p>"Now I can talk of my arrest. How do I regard it? As an invasion of my personal rights.
+			It is an outrage and the day will come when this community will realize that Margaret
+			Sanger long ago tried to show it the light. I shall continue in my work. After my trial
+			and the final disposition of my case I am going back to my clinic." </p>
+		<p> "They cannot stop me by placing me under arrest. Some time or other I will have regained
+			my liberty. Then Margaret Sanger is going back to violate that law all over again. The
+			charge in the newspapers that I was exhibiting and offering for sale a box of pills is a
+			vicious lie."</p>
+		<p> "I admit we did sell to the <person reg="Whitehurst, Margaret">woman detective</person>.
+			We knew who she was. <person reg="Byrne, Ethel Higgins">Mrs. Byrne</person>, my sister,
+			is a hot-headed Irish girl and she deliberately urged the detective to buy. We framed
+			the two dollar bill and wrote across the bill. 'Received from a spy.' It was laughable
+			to see the woman's face when she returned and saw how she had been tricked." </p>
+		<p>"That woman detective is beyond me. Perhaps she did only her duty, but personally I would
+			rather scrub floors for my bread than earn it by fighting my sisters."</p>
+		<p>
+			<q who="BDE">Mrs. Sanger will talk with her counsel this afternoon and will arrange
+				immediately for bail. She intended to remain in jail until the trial, but the
+				illness of Miss <person reg="Mindell, Fania">Fania Mindell</person>, her assistant,
+				who was arrested with her, has prompted her to abandon that plan and get bail
+				immediately. </q>
+		</p>
+	</docBody>
+</doc>

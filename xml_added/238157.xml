@@ -5,6 +5,7 @@
 		<prepDate>2015-03-06 JC transcribed and encoding</prepDate>
 		<prepDate>2015-03-09 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-17 EK correct proof and update index</prepDate>
+		<prepDate>2015-07-28 CH correct typos in the headnote</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -24,14 +25,20 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is the first edition of <title type="book">Family Limitation</title>; for a slightly
-			different version of the first eduition, see <title type="mf">Margaret Sanger Microfilm,
-				Collected Documents Series</title>, C16:0710; for later editions, see Margaret
-			Sanger Microfilm and Library of Congress Microfilm. For related pamphlets on methods,
-			see <xref from="128063.xml">English Methods of Birth Control</xref>, 1915, <xref
-				from="101920.xml">Dutch Methods of Birth Control</xref>, Mar.-Apr. 1915, and <xref
-				from="129014.xml">Magnetation Methods of Birth Control</xref>, Aug. 1915.
-			Handwritten note by Margaret sanger on ocer pages reads: "First Edition 1914."</p>
+		<p>This is the first edition of <title type="book">Family Limitation</title>. For other
+			versions included in the digital edition, see <xref from="320146.xml">Family
+				Limitation</xref>, 8th edition, 1918, <xref from="320179.xml">Family
+				Limitation</xref>, 9th edition, 1919, <xref from="238150.xml">Family
+				Limitation</xref>, 12th edition, ca. 1922, <xref from="238155.xml">Family
+				Limitation</xref>, 17th edition, ca. 1927, and a draft of revisions for <xref
+				from="129001.xml">Family Limitation</xref>, ca. 1936. For additional editions, see
+			the Margaret Sanger Microfilm, Smith College Collections, Collected Documents Series and
+			Library of Congress Microfilm.</p>
+		<p>For related pamphlets on methods, see <xref from="128063.xml">English Methods of Birth
+				Control</xref>, 1915, <xref from="101920.xml">Dutch Methods of Birth Control</xref>,
+			Mar.-Apr. 1915, and <xref from="129014.xml">Magnetation Methods of Birth Control</xref>,
+			Aug. 1915. Handwritten note by Margaret Sanger on cover page reads: "First Edition
+			1914."</p>
 		<index level1="abortion"/>
 		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="birth control" level2="health benefits and risks"/>
@@ -92,8 +99,8 @@
 				children in the world to fill jails and hospitals, factories and mills, insane
 				asylums and premature graves, and who supply the millions of soldiers and sailors to
 				fight battles for financiers and the ruling classes.</p>
-			<p>The working class can use direct acton by refusing to supply the market with children
-				to be exploited, by refusing to populate the earth with slaves.</p>
+			<p>The working class can use direct action by refusing to supply the market with
+				children to be exploited, by refusing to populate the earth with slaves.</p>
 			<p>It is also the one most direct method for you working women to help yourself <emph
 					rend="italics">today</emph>.</p>
 			<p>Pass on this information to your neighbor and comrade workers. Write out any of the
@@ -216,12 +223,12 @@
 				difficult to obtain. </p>
 			<p>Chinosol is highly recommended as a vaginal douche, as being less injurious to the
 				membranes than bichloride. It can be obtained from Parmele Pharmacal Co., 54 South
-				St., <place reg="New York, NY">New York.</place></p>
+				St., <place reg="New York, NY">New York</place>.</p>
 			<p>Salt solution--Mix four tablespoonsful of table salt in two quarts of warm or cold
 				water and dissolve thoroughly.</p>
-			<p>Vinegar solution--Many peasants in Europe use vinegar as an antiseptic almost
-				exclusively. One glassful to two quarts of water is the strength usually desired.
-				Cider vinegar is preferred. Douche afterward with clear water.</p>
+			<p>Vinegar solution--Many peasants in <place>Europe</place> use vinegar as an antiseptic
+				almost exclusively. One glassful to two quarts of water is the strength usually
+				desired. Cider vinegar is preferred. Douche afterward with clear water.</p>
 			<p>Cold water douche--This will sometimes remove the semen quite effectively without the
 				aid of an antiseptic. But as the semen can hide itself away in the wrinkled lining
 				of the vaginal cavity, the cold water will only impede its progress for a time. As
@@ -326,7 +333,7 @@
 			<p>I recommend the use of the pessary as the most convenient, the cheapest and the
 				safest. Any nurse or doctor will teach one how to adjust it; then women can teach
 				each other.</p>
-			<p>It is not advisable to wear the pessary all the time. Take it out after using, and-->
+			<p>It is not advisable to wear the pessary all the time. Take it out after using, and
 				wear it only when needed. A little experience will teach one that to place it is a
 				simple matter.</p>
 		</div>
@@ -339,8 +346,8 @@
 				sponge, to be soaked in a solution of three per cent carbolic and glycerine, before
 				the act. The male sperm is destroyed by the weakest solution of carbolic acid. Some
 				of the peasants in <place>Europe</place> use the cotton plug soaked in vinegar for
-				the same purpose, and find it satisfactory. In this country a boric acid solution has
-				been used for the same purpose and with satisfactory results. Of course this
+				the same purpose, and find it satisfactory. In this country a boric acid solution
+				has been used for the same purpose and with satisfactory results. Of course this
 				requires a saturated solution, as, for instance, one teaspoonful of the powder to a
 				cup of water stirred until dissolved.</p>
 			<p>Sponges and plugs can be recommended as perfectly safe, if followed by an antiseptic
@@ -410,7 +417,7 @@
 				acid and metaborate of soda compressed into pastilles. Injected into the vagine a
 				few minutes before coitus (the sexual act), the pastille melts into the secretions
 				and forms an antiseptic preventive. Personal advice on any of these is necessary
-				before beginning to use them</p>
+				before beginning to use them.</p>
 		</div>
 	</docBody>
 </doc>

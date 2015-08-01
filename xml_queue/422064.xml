@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+	<mepHeader>
+		<prepDate>2015-05-26 LH encoded and transcribed</prepDate>
+		<prepDate>2015-05-29 CH proof tags</prepDate>
+		<prepDate>2015-06-10 LH edits</prepDate>
+		<prepDate>2015-06-25 CH clean up</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+			<person reg="Vance, Don">Don Vance</person>
+		</docAuthor>
+		<docDate value="1952-12-31">31 Dec 1952</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Tucson Speech on Japan and Population</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422064</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Slee Deplores Japan's Million Abortions Yearly</title>,
+					<title type="journal">Tucson Daily Citizen</title>, Dec. 31, 1952, p. 18</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name reg="TDC">Tucson Daily Citizen</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="Japan" level2="overpopulation"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1952(Japan)"/>
+	</headNote>
+	<docBody>
+		<head>Mrs. Slee Deplores Japan's Million Abortions Yearly</head>
+		<byline> By Don Vance</byline>
+		<p><q who="TDC"><place>Japan</place>, a land of </q> "exquisite courtesy, beauty and charm,"
+				<q who="TDC"> and a land of </q> "shockingly high" <q who="TDC"> infant mortality,
+				of shrines and temples and 1,000,000 abortions yearly--</q></p>
+		<p>
+			<q who="TDC"> This Japan is the subject of Mrs. Margaret Sanger Slee's first report to
+				the friends and sponsors of the <org
+					reg="International Confernce on Planned Parenthood, 3rd">international planned
+					parenthood conference</org>. The report covers the first segment of a two months
+				trip the far cast that ended in <place>India</place> with the first full-circle <org
+					reg="International Planned Parenthood Federation">organization</org> for
+				furtherance of the birth control throughout the world.</q>
+		</p>
+		<p>
+			<q who="TDC"> Mrs. Slee, who became co-director and co-president of the organization,
+				the <org>International Committee on Planned Parenthood</org>, was invited to speak
+				about her work in Japan by the <org reg="Mainichi Press">Mainichi press</org> there.
+				She had been refused admittance during the occupation period.</q>
+		</p>
+		<p>
+			<q who="TDC"> She spent 10 days in conferences, making speeches and observing conditions
+				throughout the Japanese cities and countryside.</q>
+		</p>
+		<p>"Japan," <q who="TDC"> she concluded,</q> "is making a heroic effort to adjust herself to
+			postwar conditions. In 1922 her territory was too small to feed and supply her people
+			and today she has less territory to maintain the increase of 34,000,000. The questions
+			of decreased birthrate, family limitation, population control, birth control and family
+			planning are being discussed everywhere."</p>
+		<p>
+			<q who="TDC"> Mrs. Slee noted that two projects were operating. One sends nurses into
+				three villages to talk to the parents and teach methods of contraception. The second
+				is that of the <org reg="Population Problems Research Council">population problems
+					research group</org> conducted by the Mainichi press.</q>
+		</p>
+		<p>"the need of a contraceptive, simple to adjust, cheap and harmless is almost the greatest
+			need in Japan if she is to save herself from the consequences of an increased
+			population," <q who="TDC">reported Mrs. Slee.</q></p>
+		<p> "Abortions, stillbirths, infant mortality are increasing," <q who="TDC"> continued the
+				birth control expert.</q> "The cruel necessity of these is the only <gap
+				extent="one
+				word" reason="illegible"/> she has to adjust population to arable
+			land."</p>
+		<p> "It is reported that over 1,000,000 abortions took place in 1951. These are legal under
+			the law. It is unfortunate that in the modern contraceptive to immunize the ovum has not
+			been developed to meet the world-wide need. It is perhaps, the only solution to the
+			growing problem of Japan's population."</p>
+		<p>
+			<q who="TDC"> These were her conclusions, but the report also was filled with the beauty
+				of the country, as well as the interest of the people in her project.</q>
+		</p>
+		<p>
+			<q who="TDC"> Mrs. Slee tells, at one point, of traveling through the temples and
+				gardens of the old <place reg="Kyoto City, Japan">Imperial city of Kyoto</place>.
+				Again she describes a trek through the slums of <place reg="Tokyo, Japan"
+					>Tokyo</place> by writing; </q>
+		</p>
+		<p> "People flocked out of their shop and doorways, thousands of them. Children in school
+			yards ran into the street to learn what was going on. 'Sanger is here: She says no
+			abortions... Sanger is here... she says no abortions.'" </p>
+		<p> "It is a sad thing," <q who="TDC"> she observed,</q> "that there are no clinics, no free
+			places for these women. Desire for birth control is surely far ahead of the materials
+			and technique to meet that need."</p>
+	</docBody>
+</doc>

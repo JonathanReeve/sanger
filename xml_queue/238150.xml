@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2015-07-28 CH transcribe and encode--used the proofread copy of the 4th edition
+			and edited for changes.</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1922-00-00">
+			<supplied resp="MSPP">1922</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>Family Limitation, Twelfth Edition</titlePart>
+		</docTitle>
+		<idno>msp238150</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>,
+				S76:978</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="LAT">Latin</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This is a major revision of Sanger's 1914 <xref from="238157.xml">Family
+				Limitation</xref>; likely published in 1922. For other versions included in the
+			digital edition, see <xref from="320146.xml">Family Limitation</xref>, 8th edition,
+			1918, <xref from="320179.xml">Family Limitation</xref>, 9th edition, 1919, and a draft of
+			revisions for <xref from="129001.xml">Family Limitation</xref>, ca. 1936. For additional
+			editions, see the Margaret Sanger Microfilm, Smith College Collections, Collected
+			Documents Series and Library of Congress Microfilm.</p>
+		<index level1="abortion"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="birth control methods"/>
+		<index level1="birth control methods" level2="efficacy of"/>
+		<index level1="birth control methods" level2="condom"/>
+		<index level1="birth control methods" level2="douche"/>
+		<index level1="birth control methods" level2="instructions"/>
+		<index level1="birth control methods" level2="male"/>
+		<index level1="birth control methods" level2="pessaries"/>
+		<index level1="birth control methods" level2="safe period"/>
+		<index level1="birth control methods" level2="sponge"/>
+		<index level1="birth control methods" level2="suppository"/>
+		<index level1="birth control methods" level2="withdrawal"/>
+		<index level1="Family Limitation"/>
+		<index level1="Family Limitation" level2="suppression of"/>
+		<index level1="menstruation"/>
+		<index level1="women and girls" level2="sexuality of"/>
+		<index level1="women and girls" level2="working class"/>
+		<index level1="sex and sexuality" level2="MS on"/>
+		<index level1="sex education" level2="and birth control"/>
+		<index level1="working classes" level2="and birth control"/>
+	</headNote>
+	<docBody>
+		<head> FAMILY LIMITATION</head>
+		<byline>By Margaret Sanger<lb/><emph rend="underline">REVISED</emph> Twelfth
+			Edition</byline>
+		<div type="section">
+			<p>There are three methods of Birth Control:<lb/>Absolute Continence,<lb/>
+				Sterilization,<lb/> The use of appliances that prevent conception.</p>
+		</div>
+		<div type="section">
+			<head type="sub">INTRODUCTION</head>
+			<p>Birth Control or family limitation has been recommended by some of the leading
+				physicians of the United States and of Europe. While the medical profession as a
+				whole has not yet taken a united stand upon the subject, we know that the practice
+				of birth control has already been incorporated into the private moral code of
+				millions of the most intelligent and respected families in every country.</p>
+			<p>There is little doubt but that its general practice among married persons will
+				shortly win full acceptation and sanction by public authorities, who will encourage
+				the practice among the diseased and unfit and help to direct the movement into its
+				proper channels.</p>
+			<p>In cases of women suffering from serious ailments, such as Bright's disease, heart
+				disease, or tuberculosis, the physician usually warns the woman to guard herself
+				against pregnancy. It is an established fact that two-thirds of women who die from
+				the above-named diseases do so because they have become pregnant. Therefore, it is
+				imperative that physicians should not only warn women suffering from these diseases
+				against pregnancy, but they should see that they are properly instructed in methods
+				to prevent conception. Such responsibility on the part of physicians would reduce
+				the maternal mortality of the world tremendously.</p>
+			<p>While the above-named diseases are not considered transmissible from the mother to
+				the child, there are certain other diseases and conditions such as insanity,
+				syphilis, idiocy and feeble-mindedness which are passed to the next generation.</p>
+			<p>When either the man or the woman is afflicted with any one of these diseases, it is
+				absolutely wrong to allow a child to be born. In such cases the man or the woman
+				should be sterilized.</p>
+			<p>The patient should understand that such an operation does not deprive him or her or
+				sexual desire or expression. It simply renders the patient incapable of producing
+				children.</p>
+			<p>To conserve the lives of mothers and to prevent the birth of diseased or defective
+				children are objects for which we need a sound educational campaign for Birth
+				Control. </p>
+			<p>We hold that children should be:<list>
+					<item>1. Conceived in love.</item>
+					<item>2. Born of the mother's conscious desire.</item>
+					<item>3. And only begotten under conditions which render possible the heritage
+						of health.</item>
+				</list></p>
+			<p>We want parents to be conscious of their responsibility to the race in bringing
+				children into the world. Instead of a blind and haphazard consequence of
+				uncontrolled instinct, parenthood must be made the responsible and self-directed
+				means of human expression and regeneration.</p>
+		</div>
+		<div type="section">
+			<head type="sub">TO THE WORKING WOMAN</head>
+			<p>The need for safe practical information of birth control is more urgent today among
+				women that it has ever been before.</p>
+			<p>The working man and woman have begun to realize the difficulty of supporting a family
+				of eight or ten children on a wage scarcely sufficient to decently keep two or
+				three. They have also begun to realize that no increase of wages, obtained through
+				long days of toil or through strikes or lockouts, can keep pace with the increased
+				cost of living or the cost of an ever-increasing family. </p>
+			<p>It is the big battalions of unwanted babies that make life so hard for the wife of
+				the workingman. It is the ever-increasing number of children, coming year after year
+				into her life, that perpetuates poverty and misery and ignorance from generation to
+				generation.</p>
+			<p>The working mother knows through her natural instinct that she should not have more
+				children than her husband's wages can support, yet she does not know what she can do
+				to prevent conception. When she asks her friends or neighbors for advice, she is
+				given remedies, usually unscientific, unauthoritative and unreliable, which her
+				experience or knowledge warns her may be injurious.</p>
+			<p>So she is thrust back upon the possibility of taking drugs for producing abortion, or
+				resigning herself to all the children nature will give her, which can mean from ten
+				to twenty in one woman's house. </p>
+			<p>These women resent the fact that the educated women are able to obtain safe,
+				scientific, harmless information of birth control, while Society condemns its use
+				among the working women. Present day Society is generous in doling out pittances for
+				the unfit and diseased, thus encouraging their multiplication and perpetuation,
+				while it prevents and discourages the use of scientific knowledge which would enable
+				women to avoid bringing into the world children they cannot feed, clothe, or care
+				for. </p>
+			<p>I give herewith the knowledge obtained through study and through more than fourteen
+				years' experience as a trained nurse in the <place reg="United States"
+					>U.S.A.</place></p>
+			<p>My own experience as a mother of three children has modified some of the advice given
+				in books.</p>
+			<p>It is my intention to present the facts to the reader in the simplest language,
+				leaving out dogmas or religious accompaniment.</p>
+			<p>While there are various mechanical instruments often used to prevent conception, I
+				will not give them here, because my experience has taught me that they are likely to
+				cause irritation and trouble to the woman. There is sufficient information given
+				here, which if followed, will prevent a woman from becoming pregnant unless she
+				wishes to do so. It must not be forgotten that the best results can be obtained only
+				when the woman will see that, in every case, she follows directions. She must not
+				get careless, even once, for it needs only one union in twelve months, unprotected,
+				to give a woman a baby each year. Therefore to protect herself from pregnancy the
+				woman must use care constantly.</p>
+			<p>While it may be troublesome to get up to douche, and a nuisance to have to watch the
+				date of the menstrual period, and to some it may seem sordid and inartistic to
+				insert a pessary or a suppository in anticipation of the sexual act, it may be far
+				more sordid and the condition far worse than inartistic a few years later for the
+				mother to find herself burdened down with half a dozen "accidental" children,
+				unwanted, helpless, shoddily clothed, sometimes starved or undernourished, dragging
+				at her skirt, while she becomes a worn out shadow of the woman she once was.</p>
+			<p>It takes but a few years of continued pregnancies to break a woman's health. The
+				drain on the family income is continually increasing and the standard of the whole
+				family is lowered.</p>
+			<p>Mothers--do not be over-sentimental in this important phase of hygiene. Learn the
+				facts of pregnancy. The inevitable face is that, unless you prevent the male sperm
+				from entering the womb, you are liable to become pregnant.</p>
+			<p>Women of the working class should not have more than two children today. The
+				conditions of society do not render possible the proper care of more than this
+				number. The average wage-earner can take care of no more than this in decent
+				fashion.</p>
+			<p>It has been my experience that women desire only the number of children they can
+				properly care for, but that they are compelled to have them from carelessness, or
+				through ignorance of the methods to prevent conception.</p>
+			<p>It is only the workers who are ignorant of the means to prevent bringing children
+				into the world. It is also mainly their children who fill the child labor records,
+				the factories, mills, jails, hospitals, poor houses. It is the workers' children who
+				compete with the parents in the labor market for their daily bread, thereby reducing
+				the wages of the parents--an inevitable consequence when the supply is greater than
+				the demand.</p>
+			<p>Women of the world arise--let us close the gates of our bodies against the diseased,
+				the unfit, and bring to birth only the best, as we know it, which shoold be, at
+				least, a child with a sound body and a sound mind.</p>
+		</div>
+		<div type="section">
+			<head type="sub">IS THERE A SAFE PERIOD?</head>
+			<p>There is current among people an idea that conception can take place at only certain
+				times of the month. For instance: ten days after the menstrual period, and four or
+				five days before the next period. This is not to be relied upon at all, for it has
+				been proven again and again that a woman can conceive at any time in the month. Do
+				not depend upon this belief, for there is not reliable foundation for it. There is
+				also the knowledge that nursing after childbirth prevents the return of the
+				menstrual flow for several months and conception does not take place. It is well not
+				to depend upon this too much, especially after the fifth or sixth month, for often a
+				woman becomes pregnant again without having "seen anything" or without her realizing
+				that she has become pregnant. She thus finds herself with one at the breast and
+				another in the womb. Use some preventive.</p>
+		</div>
+		<div type="section">
+			<head type="sub">COITUS INTERRUPTUS</head>
+			<p>Perhaps the commonest preventive excepting the use of the condom is "<foreign
+					lang="LAT">Coitus Interruptus</foreign>," or withdrawal of the penis from the
+				vagina shortly before the ejection of the semen. No one can doubt that in theory
+				this should be a perfectly safe method; and we also find authorities who claim it is
+				not injurious to the man, but who object to it on the grounds of lack of
+				satisfaction to the woman.</p>
+			<p>The claim is that id she has not completed her desire, she is under a highly nervous
+				tension, her whole being is perhaps on the verge of satisfaction and she is left in
+				this dissatisfied state. This without doubt, does her injury. A mutual and satisfied
+				sexual act is of great benefit to the average woman, the magnetism of it is
+				health-giving. When it is not desired on the part of the woman and she has no
+				response, it should not take place. The submission of her body without love or
+				desire is degrading to the woman's finer sensibility, all the marriage certificates
+				on earth to the contrary notwithstanding.</p>
+			<p>During several years past, however, I have come in contact with thousands of men and
+				women who have given me their confidence and experience along these lines. The
+				consensus of opinion seems to be that there are many men who prefer to practice the
+				method of withdrawal and have been able to control the ejaculation until after the
+				woman's orgasm. If this is done, all objections affecting the woman's satisfaction
+				are of course removed. But the fact remains that even in such cases, with the
+				strongest control on the part of the man, we find that pregnancy does take place.
+				This is often due to some slight disposal on the part of the man to a seminal
+				leakage, in which the spermatozoa escape from the male organs without the man's
+				knowledge and before the ejaculation.</p>
+			<p>A woman's physician examined a vaginal passage and found sperm deposits when
+				absolutely no ejaculation had taken place. The results of these inquiries are
+				sufficient for us to say that the practice of withdrawal cannot always be counted
+				upon as a safe preventive.</p>
+			<p>Again, while in the quest of information regarding this practice, I have had many men
+				say that their nervous system had suffered decidedly bad effects from this method
+				and upon using another, at once an improved condition was felt.</p>
+			<p> Here we see how very individual all methods of birth control really are. What may
+				give happiness and good results to one may prove injurious to another. But coitus
+				interruptus or withdrawal is by no means to be counted upon as either the safest or
+				the best method of preventing conception. There are other methods more to be
+				recommended. </p>
+		</div>
+		<div type="section">
+			<head type="sub">DOUCHE A CLEANSER--NOT A PREVENTIVE</head>
+			<p>Although an antiseptic douche is an important factor in preventing conception, it
+				should not be relied upon as a preventive method in itself. A douche is a cleanser,
+				but it is not of itself to be advised as a reliable method to prevent conception.
+				When one understands how conception takes place, it can be seen at once that it is
+				quite possible for a woman to be in a state of pregnancy before she leaves the bed,
+				or before she can reach a douche, unless the womb has been previously covered with
+				the rubber pessary, or by the ingredients of a suppository.</p>
+			<p>Nevertheless, every woman should learn to cleanse herself thoroughly by means of the
+				vaginal douche. Some women object to the use of the suppository because of its
+				lubricant effect; this can be modified greatly by the use of a warm salt douche,
+				taken just previously to inserting the suppository, cleaning the parts thoroughly of
+				any secretion already there.</p>
+			<p>Every woman should possess a good two quart rubber douche bag, called a fountain
+				syringe. Hang it high enough to secure a good, strong, steady flow.</p>
+			<p>Bulb syringes, such as the whirling spray syringes have been found satisfactory by
+				many women for the purpose, especially where there is no bath room or toilet
+				conveniences, as the bulb syringe can easily be used in the privacy of one's bedroom
+				over a vessel. Directions for use come with each syringe.</p>
+		</div>
+		<div type="section">
+			<head type="sub">HOW TO TAKE A DOUCHE</head>
+			<p>If you have bathing conveniences, go as quickly as possible to the bath room after
+				the sexual act and prepare a douche. Lie down upon the back in the bath tub. Hang
+				the filled douche bag high over the tub, and let the water flow freely into the
+				vagina, to wash out the male sperm which was deposited there during the act.</p>
+			<p>Do not be afraid to assist the cleansing by introducing the first finger with the
+				tube and washing out the semen from the folds of the membrane. One can soon learn to
+				tell by the feeling when it is sufficiently clean. It is said, that the French women
+				are the most thorough douchers in the world, which helps greatly in keeping the
+				organs in a clean and healthy condition, as well as preventing the male sperm from
+				reaching the womb to mate with the ovum.</p>
+			<p>When there are no bath room conveniences--a douche can be taken over the toilet, or
+				when that is impossible, it can be taken over a vessel in a squatting position.</p>
+			<p>Many women have been advised by physicians to use an antiseptic douche as a means to
+				prevent conception. I do not advise any woman who desires to avoid pregnancy, to
+				rely upon a douche for a contraceptive. I wish to emphasize again that a douche used
+				alone is not a contraceptive, because the germ from the male may already have
+				entered the mouth of the womb before a woman can use a douche. Therefore it is
+				absolutely necessary that some method be used to cover the womb. </p>
+			<p>A douche is a cleanser. It is a means of hygiene rather than a preventive. Do not
+				depend on a douche to prevent conception. Some women have been successful in using
+				this for many years and then later on, to their surprise, find that pregnancy has
+				occurred. The explanation is as follows:</p>
+			<p>When the womb is placed high out of the vagina it is not so easy for the germ for the
+				man to reach directly into the womb. In such cases it is possible for a woman to get
+				up and prepare a douche before the germ from the male enters the womb. There are
+				times, however, when a woman has been standing on her feet, washing or ironing or
+				working, and becomes overtired. At such times the womb is pulled or dragged down
+				into the canal of the vagina. At such times if intercourse takes place, it is much
+				easier for the seed from the male to enter directly into the womb, unless there is
+				some protection. It is at such times that a woman who has previously depended upon a
+				douche as a preventive finds it has failed.</p>
+			<p>May advice is--never depend upon a douche alone. It should be used after the use of a
+				suppository or any other preventive.</p>
+			<p>Cold water douches are not advised as there is a tendency to chill and shock the
+				nervous system. A warm or moderate douche is advised.</p>
+			<p>Warm soapsuds as a douche are used by women in <place>France</place> in the rural
+				districts, just plain common soap, as a cleansing douche after the act.</p>
+		</div>
+
+		<div type="section">
+			<head type="sub">SOLUTIONS FOR DOUCHING</head>
+			<p>Following are some of the solutions to be used for the douche which, when carefully
+				used will kill the male sperm or prevent its entering the womb:</p>
+			<p>Lysol--is a brown oily liquid which added to water forms a clear soapy solution.</p>
+			<p>One teaspoonful of lysol to 2 quarts of water (warm) makes a good solution for
+				douching. Mix into a pitcher or vessel before placing it in the bag.</p>
+			<p>Creosol is said to be the equivalent chemically of lysol and is likely to be obtained
+				at a lower cost. Directions are much the same as those for the use of lysol.</p>
+			<p>Potassium Permanganate--This also makes a good solution, especially where there is a
+				vaginal discharge. The special objection to this is that it stains the skin and
+				clothing. This can be purchased in crystal form, and one teaspoonful dissolved in
+				two quarts of water is the proper strength.</p>
+			<p>Salt solution--Mix four tablespoonsful of table salt in two quarts of warm or cold
+				water and dissolve thoroughly. This is good, and cheap.</p>
+			<p>Vinegar solution--Many peasants in <place>Europe</place> use vinegar as an antiseptic
+				almost exclusively. One glassful to two quarts of water is the strength usually
+				desired. Douche afterward with clear water.</p>
+			<p>Acetic acid being the sperm-killing agent in vinegar may also be used and with the
+				certainty of more uniformity than can be depended upon in the various grades of
+				vinegar. A good solution is one and a half teaspoonfuls of 36 per cent acetic acid
+				to two quarts of warm water.</p>
+			<p>Plain water douche-- This will sometimes remove the semen quite effectively without
+				the aid of an antiseptic. But as the semen can hide itself away in the wrinkled
+				lining of the vaginal cavity, the plain water will only impede its progress for a
+				time. Some ingredient which will kill the sperm is to be more relied upon.</p>
+			<p>Some women use the douche before the sexual act as a preventive. It this is done, any
+				astringent such as boric acid, alum, citric acid, hydrochlorate of quinine used in
+				the solution will do. Only a pint of solution is needed for this purpose, following
+				the act a larger douche is used as a cleanser. This can also be done with the
+				regular antiseptic douche. </p>
+		</div>
+
+		<div type="section">
+			<head type="sub">THE USE OF THE CONDOM OR "COTS".</head>
+			<p>These are made of soft tissues which envelope the male organ (penis) completely and
+				serve to catch the semen at the time of the act. In this way the sperm does not
+				enter the vagina nor the womb.</p>
+			<p>The condoms are obtainable at all drug stores at various prices. There are some of
+				skin gut and some of rubber tissue. While the rubber condom is best known, there is
+				found to be the least objection to those made of soft skin gut. The skin condom is
+				made more durable and more agreeable to use, if kept in denatured alcohol. Alcohol
+				sterilizes and toughens the membrane. The condom should be washed before and after
+				putting it into the jar or alcohol and should be kept tightly corked. It is almost
+				impossible to keep skin condoms satisfactorily if they are dried. If properly
+				adjusted they will not break. Fear of breaking is the main objection to their use.
+				If space has not been allowed for expansion of the penis, at the time the semen is
+				expelled, the tissue is likely to split and the sperm finds its way into the uterus.
+				The woman becomes pregnant without being conscious of it. If on the other hand care
+				is given to the adjustment of the condom, not fitting it too close, it will act as
+				one of the best protectors against both conception and venereal disease. Care must
+				be exercised in withdrawing the penis after the act, not to allow the condom to peel
+				off, thereby allowing the semen to pass into the vagina.</p>
+			<p>It is desirable to discard the condom after it has been used once unless with certain
+				precautions. If it has to be used again care must be taken to wash the condom in an
+				antiseptic solution before drying it and placing it away for further use. A weak
+				solution of lysol is excellent for the rubber condom.</p>
+			<p>The condom should be well lubricated with oil before penetration. It should always be
+				tested for holes or breaks before using.</p>
+			<p>The condom is one of the most commonly known preventives in the <place>United
+					States</place>. It has another value quite apart from prevention in decreasing
+				the tendency in the male to arrive at the climax in the sexual act before the
+				female.</p>
+			<p>There are few men and women so perfectly mated that the climax of the act is reached
+				together. It is usual for the male to arrive at this stage earlier than the female,
+				with the consequence that he is further incapacitated to satisfy her desire for some
+				time after. During this time the woman is in a highly nervous condition, and it is
+				the opinion of the best medical authorities that a continuous condition of this
+				unsatisfied state brings on or causes disease of her generative organs, besides
+				giving her a perfect horror and repulsion for the sexual act.</p>
+			<p>Thousands of well-meaning men ask the advice of physicians as to the cause of the
+				sexual coldness and indifference in their wives. Nine times out of ten it is the
+				fault of the man, who through ignorance and selfishness and inconsiderateness, has
+				satisfied his own desire and promptly gone off to sleep. The woman in self defense
+				has learned to protect herself from the long hours of sleepless nights and nervous
+				tension by refusing to become interested.</p>
+			<p>The condom will often help in this difficulty. There are many girls who have had no
+				education on this subject, no idea of the physiology of the act, who upon any
+				contact of the semen have a disgust and repulsion, from which it takes some time to
+				recover. Much depends upon the education of the girl, but more depends upon the
+				attitude of the man toward the relation.</p>
+		</div>
+		<div type="section">
+			<head type="sub">THE PESSARY--RUBBER WOMB CAP</head>
+			<p>Another form of prevention is the pessary or rubber womb cap. These come in various
+				forms and sizes, the Dutch Mensinga with its ten or twelve sizes, the Matrisaulus,
+				used also in <place reg="Netherlands">Holland</place> and <place>Germany</place>,
+				the French cap-shaped, the <person reg="Haire, Norman">Haire</person> pessary used
+				largely in <place>England</place>, and the Mizpah largely used in the U. S. A..
+				While the French pessary (see cut) may be conveniently used in many cases with
+				satisfaction, I fins the Mizpah still better fitting and more convenient for the
+				average use. The fact that the cap can be removed and replaced at a very small cost
+				adds greatly to it preference among working women. There is also an inner lip which
+				prevents its slipping from its hold, when once it is in place. The loose, large
+				detachable cap amkes one size (the medium) practically universal for any woman,
+				whether the woman has had one or ten children. This cannot be said of the French
+				pessary, which comes in three sizes and must be fitted to accommodate every change.
+				If, however, one desires a French pessary, it is best to get the medium size, and
+				the small ones are only for very small boned women and easily get out of place
+				during intercourse. </p>
+			<p>[Figure: Pessary}</p>
+			<p>In my estimation a well-fitted pessary is one of the surest methods of preventing
+				conception. I have known hundreds of women who have used it for years with the most
+				satisfactory results. The trouble is women are afraid of their own bodies, and are
+				of course ignorant of their physical construction. They are silly in thinking the
+				pessary can go up too far, or that it could get lost, etc., etc., and therefore
+				discard it. It can not get into the womb, neither can it get lost. The only thing it
+				can do is to come out. And even that will give warning by the discomfort of the
+				bulky feeling it causes, when it is out of place.</p>
+			<p>Before inserting the pessary inject into the cap a small amount of boric ointment or
+				a small quantity of bicarbonate of soda. This will act as a cement to help seal the
+				mouth of the womb for the time being and thus doubly insures prevention.</p>
+			<p>In inserting the pessary it is well to get into a position which will make the
+				entrance easy. One foot resting on a low chair opens the parts up considerably, also
+				a squatting position brings the uterus lower and makes the fitting of the pessary
+				easier. Do not use vaseline or oils on rubber, they decay it. Glycerine or soap
+				rubbed on its surface makes it smooth enough to slip easily into place.</p>
+			<p>After the pessary has been placed into the vagina deeply, it can be fitted well over
+				the neck of the womb. One can feel it is fitted by pressing the finger around the
+				soft part of the pessary, which should completely cover the mouth of the womb. If it
+				is properly adjusted there will be no discomfort, the man will be unconscious that
+				anything is used, and no germ or semen can enter the womb.</p>
+			<p>[Figure: Finger touching mouth of the womb a-womb; b- mouth of womb.]</p>
+			<p>If you do not feel the head of the womb through the rubber then the pessary is not on
+				right. It should be moved backwards a little or forward until the head can be felt
+				covered. If you still cannot feel it then remove and use some other preventive, or
+				take it to your physician and ask for instructions. The uterus may be turned or
+				tipped back so far that a pessary could not cover the cervix.</p>
+			<p>If it is properly adjusted there will be no discomfort, the man will be unconscious
+				that anything is used, and no germ or semen can enter the womb.</p>
+			<p>It is not always necessary to take a douche until the following morning, but it is
+				always SAFER to douche immediately after the act. Take part or about a quart of an
+				antiseptic douche BEFORE the pessary is removed; after removing it continue the
+				douche and cleanse thoroughly.</p>
+			<p>There are some well-meaning advocates of birth control who have more theories than
+				practical knowledge, who urge or advise that the pessary be left in the body for
+				several days and claim that in this way a douche is not necessary.</p>
+			<p>The theory may work well in women who belong to the class where standing long hours
+				on their feet is not necessary and where a daily bath is a tub od clear water helps
+				to keep the parts clean. But my experience in the nursing field among working women
+				has given evidence that the pessary cannot remain in place long when a woman stands
+				on her feet, as in washing or ironing. The strain pulls the muscles of the womb down
+				into the vagina and the pessary loses its hold and position. Also the constant
+				contact of the rubber with the natural secretions cause an odor to emanate from the
+				parts, which is not pleasant. It is not advisable to wear the pessary all the time.
+				Take it out after using, and wear it only when needed. A little experience will
+				teach one that to place it is a simple matter.</p>
+			<p>Wash the pessary in clear cold water, dry well and play away in the box. One should
+				last two years, if cared for.</p>
+			<p>I consider the use of the pessary as the most convenient, the cheapest and the safest
+				of prevention. Any nurse or doctor will teach one how to adjust it.</p>
+			<p>The use of the pessary has many advantages over other methods of prevention. There
+				are few women whose generative organs are in a healthy, normal condition, who cannot
+				find one of the various kinds of pessaries to fit her convenience.</p>
+			<p>While the pessary can only be used in cases where the womb is in its normal
+				position--the sponge can be used to great advantage even when the womb is tipped
+				back or out of its usual position.</p>
+			<p> The usual sponge used for the purpose of preventing conception has a tape attached
+				to it. These are to be had at nearly all drup stores. They should be soaked in an
+				antiseptic solution for a few minutes before coitus and then introduced into the
+				vagina as far up as they can be placed. Some physicians have recommended the use of
+				the cotton plug, instead of the sponge, to be soaked in a solution of three per cent
+				carbolic and glycerine, before the act. The male sperm is destroyed by the weakest
+				solution of carbolic acid. Some of the peasants in Europe use the cotton plug soaked
+				in vinegar for the same purpose, and find it satisfactory. In this country a boric
+				acid solution has been used for the same purpose and with satisfactory results. Of
+				course this requires a saturated solution, as, for instance, one teaspoonful of the
+				powder to a cup of water stirred until dissolved.</p>
+			<p>Sponges and cotton plugs can be recommended as safe, if followed by an antiseptic
+				douche before the removal of the plug or sponge, thus preventing the sperm from
+				entering the womb. The problem is: to kill the male sperm upon entering the vagina,
+				or to wash it out or to kill it directly afterwards. A weak solution of alum may
+				also be used for cotton plugs and sponges, also carbolated vaseline.</p>
+			<p>Any objection to the use of the small tape sponge can be overcome by the use of a
+				large sponge, divided into parts three or four inches in diameter and a half inch in
+				thickness. Cut into parts while new--boil for ten minutes as the sponge is never
+				considered hygienically clean until boiled. Push one part up into the vagina as far
+				as it will go, pack it tight around the mouth of the womb so that it covers
+				completely. Douche thoroughly after its removal. Always keep these parts in a
+				solution of vinegar half and half of quinine. As soon as one sponge is removed and
+				the vaginal canal cleansed--insert another sponge and leave for a few days. This
+				will not have the same bad effects as the pessary.</p>
+			<p>One of the cheapest methods of birth control is the use of a large sponge.</p>
+		</div>
+		<div type="section">
+			<head type="sub">SUPPOSITORIES OR SOLUABLE PESSARIES</head>
+			<p>These are becoming more generally used than any other method of prevention. There is
+				reason to believe these can be greatly improved upon, and the results obtained far
+				more satisfactory than is at present prevalent in England especially.</p>
+			<p>These may be found at any reliable pharmacy. The majority of them are made from cocoa
+				butter or gelatine, which makes it necessary that they be deposited in the vagina
+				several minutes before the act, in order for them to melt. Special ingredients
+				negate the effect of the male seed.</p>
+			<p>One of the objections to the suppository is the greasy feeling the cocoa butter
+				gives. This can be overcome by douching the parts thoroughly before the suppository
+				is inserted.</p>
+			<p>While some women object to the suppository because of the lubricant effect, other
+				women who have a tendency to a "dry vagina" approve of the suppository because of
+				this tendency and effect.</p>
+			<p>Get your druggist to make up any of the following: <list>
+					<item>Vaginal Suppository (Sufficient for three)</item>
+					<item>Acid, citric, 6 graims</item>
+					<item>2 gr. Quinine Bisulphate.</item>
+					<item>Acid boracic, &half; dram.</item>
+					<item>Cocoa butter, 60 grains.</item>
+				</list></p>
+			<p>Another suppository found reliable is (sufficient for one):</p>
+			<list>
+				<item/>
+				<item>Boric acid, 10 grains</item>
+				<item>Salicylic acid, 2 grains</item>
+				<item>Quinine bisulphate, 3 grains</item>
+				<item>Cocoa butter, 60 grains</item>
+			</list>
+			<p>(For one):</p>
+			<list>
+				<item>Chinosol, 3 gr.</item>
+				<item>Salicyclic acid, 2 gr.</item>
+				<item>Quinine bisulphate, 3 gr.</item>
+				<item>Cocoa butter, 60 gr.</item>
+			</list>
+
+			<p>A simple recipet which anybody can easily make is as follows (for twenty):</p>
+			<list>
+				<item>1 ounce cocoa butter</item>
+				<item>60 grains quinine</item>
+			</list>
+			<p>Melt the cocoa butter, mix the quinine with it, and form into suppositories by
+				letting mixture harden into cake and then cutting it up into pieces.</p>
+			<p>It is advisable, in the use of suppositories, which are always to be injected before
+				the sexual act, that immediately after the completion of the act a mild antiseptic
+				douche be used to cleanse out the secretions. This is a procedure in the use of all
+				suppositories, and while it is true that a douche is troublesome, it is certain to
+				give better results in preventing pregnancy, than to depend upon the suppository
+				alone. </p>
+		</div>
+		<div type="section">
+			<head type="sub">SOME QUESTIONS OFTEN ASKED</head>
+			<p>1. What is the best preventive?</p>
+			<p>There is no one preventive to be recommended for everyone in every case. There are
+				good and harmless preventives, any one of which can be made safe, according to the
+				intelligence applied in using them.</p>
+			<p>I would advise the use of a recommended suppository for the first few months in the
+				case of a bride, until the parts are in a condition where a pessary may be inserted
+				and worn with comfort. Sometimes it is advisable to use suppositories during the
+				early months of marriage, using the pessary only after children have been born.</p>
+			<p>Is a douche necessary after the use of a suppository?</p>
+			<p>To be certain of good results, I would advise a douche as soon as convenient.</p>
+			<p>3. Are any of these methods recommended injurious to the health of the man or
+				woman?</p>
+			<p>The only method which physicians claim may be injurious to one or both is the
+				continued practice of withdrawal. This method is generally not recommended, though
+				it is practiced largely in France and England. </p>
+			<p>4. Which method is safest?</p>
+			<p>All are safe if you use care and intelligence in applying them.</p>
+			<p>5. Which is the least troublesome?</p>
+			<p>The pessary can be recommended as the least troublesome, as after it is inserted it
+				may be left to cover the cervix until the next day. </p>
+			<p>6. Is there a safe period?</p>
+			<p>There is no absolutely safe period between the menstrual periods where intercourse
+				can take place without pregnancy occurring, at least not for all women. Some women
+				claim this period exists in themselves, but unless you know this positively I would
+				not advise a woman to depend upon it.</p>
+			<p>7. How soon after menstruation ceases should intercourse engage?</p>
+			<p>This should be left, as in all cases, to the natural desire of the woman.</p>
+			<p>8. Does nursing a baby prevent pregnancy?</p>
+			<p>It is claimed that pregnancy does not so easily occur during the nursing period,
+				especially during the first three or four months. There are many women, however, who
+				have conceived, immediately giving birth to another baby eleven months after the
+				other. I would not advise depending upon this at all. Use some preventive at once
+				and control intelligently the time for the next baby's arrival, instead of leaving
+				it to chance.</p>
+			<p>9. Does fear or pregnancy affect the child?</p>
+			<p>Fear affects everything. We do not yet know the effect upon the human race which the
+				fear or pregnancy has caused. </p>
+			<p>10. Is it harmful to take drugs during the first few weeks after menstruation has
+				stopped?</p>
+			<p>It is considered extremely harmful, not only to the mother, but to the child in cases
+				where the drugs have not the desired effect. It stands to reason that a drug which
+				is powerful enough to eject a fertilized ovum out of the uterus must have the power
+				to affect other organs. We often find children wetting the bed up to a late age, as
+				well as suffering from other organic weaknesses, which may be traced back to the
+				mother's frantic attempt to "come around." </p>
+			<p>11. Should the woman or the man take the precautions?</p>
+			<p>Either or both, but preferably the woman. The methods to be used by the
+				man--withdrawal and the condom--have their objections for many people. While it is
+				true that the employment of either of these methods lessen the trouble for the
+				woman, they also deprive her of that great sacred closeness or spiritual union which
+				the full play of magnetism gives when not checked by fear, as in withdrawal, or
+				interfered with, as with the use of the condom. Some sensitive men object to the use
+				of these methods, as also do many women. It is for each couple to decide. Many men
+				prefer to use the condom in consideration of the woman, to lessen their trouble in
+				douching.</p>
+			<p>12. Should a woman have joy in the union?</p>
+			<p>Yes.</p>
+			<p>13. Why does she not?</p>
+			<p>Either because her mind is occupied with fear of the results, or because of the
+				awkwardness and ignorance of the man. </p>
+			<p>14. Can this be overcome?</p>
+			<p>Yes; first by using a contraceptive which gives confidence so there shell be freedom
+				from fear of pregnancy; second, by making the husband understand that a greater love
+				and joy is created in the relation when the union is consummated only when the woman
+				desires it naturally.</p>
+			<p>I have given in the foregoing pages the most commonly known means of prevention.
+				Persnally I recommend every poor woman who has at least one child to use a well
+				fitted pessary and learn to adjust it. </p>
+			<p>
+				<supplied resp="MSPP">An advertisement for Sanger's books was not
+					transcribed.</supplied>
+			</p>
+		</div>
+	</docBody>
+</doc>

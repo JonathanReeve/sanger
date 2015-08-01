@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2015-07-27 CH transcribe and encode</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1959-03-18">18 Mar 1959</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Trip to Asia</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422102</idno>
+		<sourceDesc>
+			<bibl><title type="article">Margaret Sanger Tells of Orient</title>, <title
+					type="journal">Arizona Republic</title>, Mar. 18, 1959</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="AR">Arizona Republic</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="India" level2="birth control in"/>
+		<index level1="Japan" level2="birth control in"/>
+	</headNote>
+	<docBody>
+		<head>Margaret Sanger Tells of Orient</head>
+		<byline>by <person reg="Estes, Jane">Jane Estes</person></byline>
+
+		<p>"The <place reg="Asia">Orient</place> is well on its way toward becoming the most eugenic
+			part of the world," <q who="AR">says Mrs. Margaret Sanger Slee, who with Mrs. <person
+					reg="Sternberg, Grace">Grace Sternberg</person> returned Monday from the <org
+					reg="International Conference on Planned Parenthood, 6th">sixth international
+					conference on Planned Parenthood Assn</org>. in <place>New Delhi,
+				India</place>.</q></p>
+		<p><q who="AR">Mrs. Slee feels that in India Prime Minister <person reg="Nehru, Jawaharlal"
+					>Nehru</person> has made the difference in the work of that country. </q> "I
+			consider him the greatest living statesman. He includes every phase of Indian life in
+			his five-year plan. . . economic and agricultural advancement, as well as care for and
+			education of its poorer people. Nehru opened the conference and gave a very fine
+			address. Under his leadership it seemed that all <place>India</place> was there
+			together."</p>
+		<p><q who="AR">From India the ladies went to <place reg="Tokyo, Japan">Tokyo</place> where
+				they learned that 80 Japanese firms, employing thousands of workers, have undertaken
+				educational programs in birth control.</q> "I predict,"<q who="AR"> says Mrs.
+				Slee,</q> "that in two generations Japan will be the leading eugenic nation of the
+			world, more so than the <place>United States</place>. They do not want to produce
+			diseased children, and with the help of the <org reg="Japan Government"
+			>government</org>, are seeing that they don't.</p>
+	</docBody>
+</doc>

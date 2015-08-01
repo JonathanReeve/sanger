@@ -10,15 +10,18 @@
 		<prepDate>2013-04-30 CH fix links</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1912-12-22">22 Dec 1912</docDate>
 		<docTitle>
-			<titlePart>What Every Girl Should Know: Sexual Impulse- Part I</titlePart>
+			<titlePart><supplied resp="MSPP">What Every Girl Should Know, Part VI</supplied></titlePart>
 		</docTitle>
 		<idno>msp304922</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Dec. 22, 1912</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0044</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:0044</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
