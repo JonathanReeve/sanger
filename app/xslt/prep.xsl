@@ -83,7 +83,7 @@
 					<xsl:apply-templates/> <!-- otherwise just get name in person tags --> 
 				</xsl:otherwise>
 			</xsl:choose>
-		</mentionedPerson>> 
+		</mentionedPerson> 
 	</xsl:template> 
 	
 	<xsl:template match="org"> 
@@ -96,7 +96,7 @@
 					<xsl:apply-templates/> <!-- otherwise just get name in org tags --> 
 				</xsl:otherwise>
 			</xsl:choose>
-		</mentionedOrganization>> 
+		</mentionedOrganization> 
 	</xsl:template> 
 
 	<xsl:template match="place"> 
