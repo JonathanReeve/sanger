@@ -80,7 +80,11 @@ function processFile($Files,$filepointer) {
 
 	$type=$xml['type'];
 	$date=$xml->docDate['value'];
-	$journal=$xml->journal[0];
+	if ( $xml->journal instanceof SimpleXMLElement ) { 
+		$journal=strip_tags($xml->journal->asXML()); 
+	} else { 
+		$journal=null; 
+	} 
 	if(strcasecmp($journal,"LCM")==0 || strcasecmp($journal,"MSM")==0 || strcasecmp($journal,"margaret sanger microfilm")==0) {
 		$journal=null;
 	}
@@ -148,6 +152,8 @@ function processFile($Files,$filepointer) {
 			$value=addslashes($value); 
 			$value=preg_replace("/\n/", " ", $value);
 			$value=trim($value);
+			$value=strip_tags($value); 
+			//$value=mysql_real_escape_string($value);
 			} 
 		} 
 		//echo "<br/>new value:"; //debugging  
