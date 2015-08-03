@@ -48,7 +48,7 @@
 			<q who="DP">This opinion of the leader of the <org reg="Progressive Party">Progressive
 					party</org> was expressed by Margaret Sanger, who has come to <place
 					reg="Denver, CO">Denver</place> on her tour of the cities of the country to
-				deliver a lecture on <title type="article">"Birth Control"</title> at <org
+				deliver a lecture on "<title type="article">Birth Control</title>" at <org
 					reg="Marble Hall">Marble hall</org> tomorrow evening.</q>
 		</p>
 		<p>
@@ -78,7 +78,7 @@
 			</p>
 			<p>
 				<q who="DP">To reach the public, Mrs. Sanger started a paper and named it the <title
-						type="journal">Woman Rebel.</title> Deliberately she published statements
+						type="journal" reg="The Woman Rebel">Woman Rebel</title>. Deliberately she published statements
 					which the Comstockian authorities held were a defiance of the federal law
 					pertaining to obscenity.</q>
 			</p>

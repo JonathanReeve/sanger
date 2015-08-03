@@ -4,7 +4,8 @@
 	<mepHeader>
 		<prepDate>2014/04/02 EK</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-07-10 EK update index</prepDate><prepDate>2015-07-22 CH clean up titles, quotes, and correct errors</prepDate>
+		<prepDate>2015-07-10 EK update index</prepDate>
+		<prepDate>2015-07-22 CH clean up titles, quotes, and correct errors</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,7 +31,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Sanger published this pamphlet in <place>England</place> around January 1915. It was
-			preceded by <xref from="301756.xml"><title type="book">Family Limition</title></xref>,
+			preceded by <xref from="301756.xml"><title type="book">Family Limitation</title></xref>,
 			Sept. 1914 and followed by <xref from="101920.xml"><title type="book">Dutch Methods of
 					Birth Control</title></xref>, ca. Mar.-Apr. 1915, and <xref from="129014.xml"
 					><title type="book">Magnetation Methods of Birth Control</title></xref>, ca.
@@ -59,7 +60,7 @@
 		<byline>By MARGARET H. SANGER</byline>
 		<div type="section">
 			<p>This pamphlet is drawn up on lines similar to the leaflet called "<title type="book"
-				>Hygienic Methods of Family Limitation</title>," adopted by the <org>Malthusian
+					>Hygienic Methods of Family Limitation</title>," adopted by the <org>Malthusian
 					League</org> of <place>England</place>.</p>
 			<p>The League sends this leaflet to all persons married or about to be married, who
 				apply for it, in all countries of the world, except to applicants from the <place
@@ -68,11 +69,11 @@
 			<p>The methods printed herein are taken from the League’s leaflet; they are to a great
 				extent a duplication of the methods contained in the preceding pamphlet, "<title
 					type="book">Family Limitation</title>"; but it is my desire to give the
-				subscribers of the <title type="journal">"Woman Rebel"</title> and other applicants
+				subscribers of the <title type="journal" reg="The Woman Rebel">"Woman Rebel"</title> and other applicants
 				for this knowledge, all known methods employed by the different Leagues in the
 				various countries of the world. </p>
-			<p>The Malthusian League had no knowledge of this pamphlet, nor is
-				responsible for its publication in any way.</p>
+			<p>The Malthusian League had no knowledge of this pamphlet, nor is responsible for its
+				publication in any way.</p>
 			<p> M. H. S. </p>
 		</div>
 		<div type="section">
@@ -350,7 +351,7 @@
 				rather than life and happiness from knowledge and prevention. </p>
 			<p> Nearly all authorities today agree that the necessity of abortions could be greatly
 				abolished by knowledge of prevention. One quotation from Havelock Ellis ("<title
-					type="book">Sex and Society</title>") sums it up in a nutshell. "<q who="ELLHA"
+					type="book" reg="Sex in Relation to Society">Sex and Society</title>") sums it up in a nutshell. "<q who="ELLHA"
 					>In order to do away with the need for abortion, and to counteract the
 					propaganda in its favour, our main reliance must be placed, on the one hand, on
 					increased foresight in the determination of conception and increased knowledge

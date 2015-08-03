@@ -12,7 +12,9 @@
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-07 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-03-00">Mar 1914</docDate>
 		<docTitle>
 			<titlePart>The Prevention of Conception</titlePart>
@@ -35,8 +37,8 @@
 		<index level1="women and girls" level2="and birth control"/>
 		<index level1="birth control laws and legislation" level2="MS on"/>
 		<index level1="Woman Rebel, The" level2="articles"/>
-			<index level1="Woman Rebel, The" level2="and birth control"/>
-		
+		<index level1="Woman Rebel, The" level2="and birth control"/>
+
 	</headNote>
 	<docBody>
 		<head>THE PREVENTION OF CONCEPTION</head>
@@ -64,7 +66,7 @@
 			workers. </p>
 		<p>As is well known, a law exists forbidding the imparting of information on this subject,
 			the penalty being several years' imprisonment. Is it not the time to defy this law? And
-			what fitter place could be found than in the pages of the <title type="journal">WOMAN
+			what fitter place could be found than in the pages of the <title type="journal" reg="The Woman Rebel">WOMAN
 				REBEL</title>.</p>
 	</docBody>
 </doc>

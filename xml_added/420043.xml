@@ -10,7 +10,9 @@
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-07 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-03-00">Mar 1914</docDate>
 		<docTitle>
 			<titlePart>The Aim</titlePart>
@@ -28,42 +30,43 @@
 	<headNote>
 		<index level1="sex education"/>
 		<index level1="women and girls" level2="enslavement of"/>
-		<index  level1="women and girls" level2="working class"/>
+		<index level1="women and girls" level2="working class"/>
 		<index level1="women and girls" level2="freedom and rights of"/>
 		<index level1="prostitution"/>
 		<index level1="Woman Rebel, The"/>
 		<index level1="Woman Rebel, The" level2="articles"/>
 		<index level1="prostitution"/>
 		<index level1="birth control" level2="distribution of information"/>
-		
+
 	</headNote>
 	<docBody>
 		<head>THE AIM</head>
 		<p>This paper will not be the champion of any "ism."</p>
 		<p>All rebel women are invited to contribute to its columns.</p>
 		<p>The majority of the papers usually adjust themselves to the ideas of their readers but
-			the <title type="journal">WOMAN REBEL</title> will obstinately refuse to be
+			the <title type="journal" reg="The Woman Rebel">WOMAN REBEL</title> will obstinately refuse to be
 			adjusted.</p>
 		<p>The aim of this paper will be to stimulate working women to think for themselves and to
 			build up a conscious fighting character.</p>
-		<p>An early feature will be a series of articles written by the editor for girls from fourteen to eighteen years of
-			age. In this present chaos of sex atmosphere it is difficult for the girl of this
-			uncertain age to know just what to do or really what constitutes clean living without
-			prudishness. All this slushy talk about white slavery, the man painted and described as
-			a hideous vulture pouncing upon the young, pure and innocent girl, drugging her through
-			the medium of grape juice and lemonade and then dragging her off to his foul den for
-			other men equally as vicious to feed and fatten on her enforced slavery--surely this
-			picture is enough to sicken and disgust every thinking woman and man, who has lived even
-			a few years past the adolescent age. Could any more repulsive and foul conception of sex
-			be given to adolescent girls as a preparation for life than this picture that is being
-			perpetuated by the stupidly ignorant in the name of "sex education"?</p>
-		<p>If it were possible to get the truth from girls who work in prostitution today, I
-			believe most of them would tell you that the first sex experience was with a sweetheart
-			or through the desire for a sweetheart or something impelling within themselves, the
-			nature of which they knew not, neither could they control. Society does not forgive this
-			act when it is based upon the natural impulses and feelings of a young girl. It prefers
-			the other story of the grape juice procurer which makes it easy to shift the blame from
-			its own shoulders, to cast the stone and to evade the unpleasant facts that it alone is
+		<p>An early feature will be a series of articles written by the editor for girls from
+			fourteen to eighteen years of age. In this present chaos of sex atmosphere it is
+			difficult for the girl of this uncertain age to know just what to do or really what
+			constitutes clean living without prudishness. All this slushy talk about white slavery,
+			the man painted and described as a hideous vulture pouncing upon the young, pure and
+			innocent girl, drugging her through the medium of grape juice and lemonade and then
+			dragging her off to his foul den for other men equally as vicious to feed and fatten on
+			her enforced slavery--surely this picture is enough to sicken and disgust every thinking
+			woman and man, who has lived even a few years past the adolescent age. Could any more
+			repulsive and foul conception of sex be given to adolescent girls as a preparation for
+			life than this picture that is being perpetuated by the stupidly ignorant in the name of
+			"sex education"?</p>
+		<p>If it were possible to get the truth from girls who work in prostitution today, I believe
+			most of them would tell you that the first sex experience was with a sweetheart or
+			through the desire for a sweetheart or something impelling within themselves, the nature
+			of which they knew not, neither could they control. Society does not forgive this act
+			when it is based upon the natural impulses and feelings of a young girl. It prefers the
+			other story of the grape juice procurer which makes it easy to shift the blame from its
+			own shoulders, to cast the stone and to evade the unpleasant facts that it alone is
 			responsible for. It sheds sympathetic tears over white slavery, holds the often mythical
 			procurer up as a target, while in reality it is supported by the misery it
 			engenders.</p>
@@ -87,17 +90,17 @@
 			understand herself. She is full of contradictions, whims, emotions. For her emotional
 			nature longs for caresses, to touch, to kiss. She is often as well satisfied to hold
 			hands or to go arm in arm with a girl as in the companionship of a boy.</p>
-		<p>It is these and kindred facts upon which the <title type="journal">WOMAN REBEL</title>
+		<p>It is these and kindred facts upon which the <title type="journal" reg="The Woman Rebel">WOMAN REBEL</title>
 			will dwell from time to time and from which it is hoped the young girl will derive some
 			knowledge of her nature, and conduct her life upon such knowledge.</p>
-		<p>It will also be the aim of the <title type="journal">WOMAN REBEL</title> to advocate the
+		<p>It will also be the aim of the <title type="journal" reg="The Woman Rebel">WOMAN REBEL</title> to advocate the
 			prevention of conception and to impart such knowledge in the columns of this paper.</p>
 		<p>Other subjects, including the slavery through motherhood; through things, the home,
 			public opinion and so forth, will be dealt with.</p>
 		<p>It is also the aim of this paper to circulate among those women who work in prostitution;
 			to voice their wrongs; to expose the police persecution which hovers over them and to
 			give free expression to their thoughts, hopes and opinions.</p>
-		<p>And at all times the <title type="journal">WOMAN REBEL</title> will strenuously advocate
+		<p>And at all times the <title type="journal" reg="The Woman Rebel">WOMAN REBEL</title> will strenuously advocate
 			economic emancipation.</p>
 	</docBody>
 </doc>
