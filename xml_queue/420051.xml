@@ -11,7 +11,9 @@
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-16 EK update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
 			<titlePart>She Should Worry</titlePart>
@@ -48,7 +50,8 @@
 				Manufacturers</org>, as "fire prevention adviser" (!), and has been conducting some
 			perfectly sweet fire drills among the girls in the factories, disagrees with the
 			committee. With an exhibition of brilliant tact that must have brought joy to her
-			employers the manufacturers, she declared, according to the <title type="journal">Tribune</title>:</p>
+			employers the manufacturers, she declared, according to the <title type="journal"
+				reg="New York Herald-Tribune">Tribune</title>:</p>
 		<p>"<q who="CHRSA">They have perhaps decreased a little, but we could have a Triangle fire
 				any day in New York. It isn't the fire; it's the girls, who are well organized in
 				comparatively few factories. They are none too brilliant, and the manufacturers

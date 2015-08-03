@@ -41,7 +41,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Sanger issued this article in response to the Dec. 30, 1930 "<title type="book">Casti
-				Connubi</title>" of Pope Pius XI. For an earlier draft, see a <org
+				Connubii</title>" of Pope Pius XI. For an earlier draft, see a <org
 				rend="Birth Control Clinical Research Bureau">BCCRB</org> press release, Jan. 13,
 			1931 (Margaret Sanger Microfilm S6:399).</p>
 		<p>For a related, more measured response, see <xref from="303569.xml">The Pope's Position on
@@ -82,18 +82,18 @@
 			<p> The steady advance of the birth control movement can only receive fresh impetus from
 				the new interest which has been aroused by the attack of Pope <person
 					reg="Pius XI (Pope)">Pius XI</person>.</p>
-			<p>His encyclical letter, “<title type="book">Of Chaste Marriage</title>,” made public
-				in January, 1931, aims to regulate the conjugal affairs of Catholic men and women,
-				without the benefit of science, and according to theories written by <person
-					reg="Augustine (St.)">St. Augustine</person>, also a bachelor, who died fifteen
-				centuries ago. The Pope makes it perfectly plain that Catholics are expected to give
-				up health, happiness, and life itself while making every other conceivable sacrifice
-				rather than to have dominion over nature’s processes of procreation. His letter
-				denies that any claims of poverty, sickness, or other hindrances to proper rearing
-				of children are valid reasons for the scientific limitation of offspring. As for the
-				breeding of criminal, diseased, feeble-minded, and insane classes, the Pope opposes
-				every method of control except that of suggesting to these unfortunate people to
-				please not do it any more.</p>
+			<p>His encyclical letter, “<title type="book" reg="Casti Connubii">Of Chaste
+					Marriage</title>,” made public in January, 1931, aims to regulate the conjugal
+				affairs of Catholic men and women, without the benefit of science, and according to
+				theories written by <person reg="Augustine (St.)">St. Augustine</person>, also a
+				bachelor, who died fifteen centuries ago. The Pope makes it perfectly plain that
+				Catholics are expected to give up health, happiness, and life itself while making
+				every other conceivable sacrifice rather than to have dominion over nature’s
+				processes of procreation. His letter denies that any claims of poverty, sickness, or
+				other hindrances to proper rearing of children are valid reasons for the scientific
+				limitation of offspring. As for the breeding of criminal, diseased, feeble-minded,
+				and insane classes, the Pope opposes every method of control except that of
+				suggesting to these unfortunate people to please not do it any more.</p>
 			<p>One must deplore the fact that Pope Pius should have chosen this time of the world’s
 				distress from unemployment, poverty, and economic maladjustment to advertise
 				doctrines and advise conduct which can only tend to aggravate that distress. But the
@@ -359,10 +359,11 @@
 					conception of the offspring is prevented. Onan, the son of <person
 						reg="Judah (Biblical)">Juda</person>, did this, and the Lord killed him for
 					it.</q>” It is unfortunate for the Pope that he did not cite a better example,
-				if he had one. Read the story in <title type="article">Genesis XXXVIII</title>, and
-				you will see that God killed Onan because he refused to have a child by the widow of
-				his brother, whom God had also killed. If Onan had tried continence instead of
-				contraception he would have been slain just as promptly.</p>
+				if he had one. Read the story in <title type="article" reg="Bible">Genesis
+					XXXVIII</title>, and you will see that God killed Onan because he refused to
+				have a child by the widow of his brother, whom God had also killed. If Onan had
+				tried continence instead of contraception he would have been slain just as
+				promptly.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Man and Nature</head>
@@ -443,9 +444,9 @@
 				exercised. He does not seem to realize that if he has a complaint on the score of
 				wastage, that complaint should be directed against nature for her habitual and
 				spontaneous methods, regardless of human deliberation.</p>
-			<p>The strange <title type="book">Old Testament</title> legend of Onan does not prove
-				that God disapproved his choice of method. If Onan had chosen continence he would
-				just as completely have defeated God’s wish, according to the story.</p>
+			<p>The strange <title type="book" reg="Bible">Old Testament</title> legend of Onan does
+				not prove that God disapproved his choice of method. If Onan had chosen continence
+				he would just as completely have defeated God’s wish, according to the story.</p>
 			<p>The Pope in permitting continence as the only method of birth control tries to set up
 				a rule that repeated pregnancy is the price which must be paid for the enjoyment of
 				conjugal intimacy, and that the avoidance of pregnancy may be only at the cost of
@@ -590,7 +591,7 @@
 					reg="Brownsville Clinic">first birth control clinic</org> in this country. An
 				account of how the closing of this clinic by the police, with my arrest and
 				imprisonment, led to a trial and a decision favorable to birth control is given in
-				the last chapter of my book “<title type="book">Woman and the New Race.</title>”
+				the last chapter of my book “<title type="book">Woman and the New Race</title>.”
 				Suffice it to say here that the decision of the <org>New York State Court of
 					Appeals</org> in 1918 made it legal for doctors to direct the use of
 				contraceptives for “<q who="CRAFR">the cure or prevention of disease.</q>” In 1923 I
