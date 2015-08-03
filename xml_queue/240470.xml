@@ -17,7 +17,7 @@
 		<idno>msp240470</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S73:33</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S73:33</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="BIB">Bible</name>
@@ -48,7 +48,7 @@
 				purpose is to strengthen love, sympathy and understanding. </item>
 		</list>
 		<p>Biblical text “<q who="BIB">Be fruitful and multiply and replenish the earth</q>”. <title
-				type="book">Genesis</title></p>
+				type="book" reg="Bible">Genesis</title></p>
 		<p> How does the command stand when the earth has become replenished?</p>
 		<p>To whom does the command apply? Everyone-</p>
 		<p>Then why not celibate priests and nuns? The <org reg="Roman Catholic Church">R.C.
@@ -59,11 +59,12 @@
 			injunction. </p>
 		<p>This first command given before the flood and the Lord repented that he had made man and
 			decided to destroy all that he had made. </p>
-		<p>The second time the command was given was after the flood to <person reg="Noah (Biblical)">Noah</person> and
-			his 3 sons and their wives, 4 men and 4 women 8 in all. The earth was empty with the
-			prospect of replenishing it from good stock. </p>
+		<p>The second time the command was given was after the flood to <person
+				reg="Noah (Biblical)">Noah</person> and his 3 sons and their wives, 4 men and 4
+			women 8 in all. The earth was empty with the prospect of replenishing it from good
+			stock. </p>
 		<p>This quotation today with 2000 million people.</p>
-		<p>Another text from <title type="book">Psalms 127</title>.</p>
+		<p>Another text from <title type="book" reg="Bible">Psalms 127</title>.</p>
 		<p>“<q who="BIB">Happy is the man that hath his quiver full of them</q>”.</p>
 		<p><q who="BIB">As arrows in the hand of a mighty man, so are the children of youth.</q>
 			<q who="BIB">Happy is the man that hath his quiver full of them</q>.</p>
@@ -73,7 +74,7 @@
 		<p><q who="BIB">When they speak with their enemies in at the gate</q>.” This suggestion is
 			not of peace but of war. Children are as arrows to be hurled at the enemy. </p>
 		<p>This is the idea of militarists. Breed children to kill other children of the races
-			against this in chapter 16. <title type="book">Ecclesiastes</title>.</p>
+			against this in chapter 16. <title type="book" reg="Bible">Ecclesiastes</title>.</p>
 		<p> “<q who="BIB">Desire not a multitude of unprofitable children, neither delight in
 				ungodly sons, though they multiply, rejoice not in them except the fear of the Lord
 				be with them. Trust not thou in their life, neither respect their multitude, for one

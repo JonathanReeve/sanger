@@ -18,8 +18,8 @@
 		</docTitle>
 		<idno>msp431939</idno>
 		<sourceDesc>
-			<bibl><title type="article">"Mrs. Sanger Here to Spread Gospel of Birth
-					Control,"</title>, <title type="journal">St. Louis Post-Dispatch</title>, May
+			<bibl><title type="article">Mrs. Sanger Here to Spread Gospel of Birth
+					Control</title>, <title type="journal">St. Louis Post-Dispatch</title>, May
 				19, 1916</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -59,7 +59,7 @@
 					birth control clinic for the instruction of women.</q>
 			</p>
 			<p>
-				<q who="STPD"> Mrs. Sanger, was the editor of <title type="journal">the Woman
+				<q who="STPD"> Mrs. Sanger, was the editor of <title type="journal" reg="The Woman Rebel">the Woman
 						Rebel</title>, which was discontinued after seven of the nine issues had
 					been confiscated by the postal authorities, and is the author of pamphlets on
 					family limitation. A Federal indictment charging her with improper use of the
@@ -68,7 +68,7 @@
 			</p>
 			<p>
 				<q who="STPD">Mrs. Sanger, who arrived at the <org>Jefferson Hotel</org> this
-					morning, said to a <title type="journal">Post-Dispatch</title> reporter that she
+					morning, said to a <title type="journal" reg="St. Louis Post-Dispatch">Post-Dispatch</title> reporter that she
 					had no wish to be a martyr but she wanted the case to go to trial, desiring
 					acquittal at the hands of a jury and confidant that she would have been
 					acquitted.</q>
@@ -86,14 +86,14 @@
 			<p>
 				<q who="STPD">Not that her message is to society women, she explained, except as she
 					desires to interest them in the propaganda, which is intended to benefit the
-					women of the laboring classes.</q> "I have no message for wealthy women," <q who="STPD">she
-				said.</q> "They have been taken care of. The woman of Fifth Avenue and Riverside Drive
-				controls her family. It is the woman of the poorer classes who needs
-				enlightenment."</p>
+					women of the laboring classes.</q> "I have no message for wealthy women," <q
+					who="STPD">she said.</q> "They have been taken care of. The woman of Fifth
+				Avenue and Riverside Drive controls her family. It is the woman of the poorer
+				classes who needs enlightenment."</p>
 			<p>"I was prompted by my experience as a nurse and as a mother to take up this
-				propaganda. In my work as a nurse on New York's
-				East Side I saw that there was overbreeding of the least desirable elements, which
-				was not making for a racial improvement.</p>
+				propaganda. In my work as a nurse on New York's East Side I saw that there was
+				overbreeding of the least desirable elements, which was not making for a racial
+				improvement.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Studied Problems Abroad.</head>
@@ -110,9 +110,9 @@
 				been done for 30 years. The result is that Holland has the lowest general death rate
 				in <place>Europe</place>. The infant mortality in <place
 					reg="Amsterdam, Netherlands">Amsterdam </place>and <place
-					reg="The Hague, Netherlands">The Hague</place> is lower than in any other
-				city in the world. There are fewer births, but the babies that are born have a
-				better chance to survive, and the population goes on increasing.</p>
+					reg="The Hague, Netherlands">The Hague</place> is lower than in any other city
+				in the world. There are fewer births, but the babies that are born have a better
+				chance to survive, and the population goes on increasing.</p>
 			<p>"<place>New Zealand</place> has had birth control clinics for 20 years, and the
 				infant mortality in that country is also low. Commercialized vice is almost unknown
 				in both countries."</p>

@@ -71,7 +71,7 @@
 				reg="Besant, Annie">Annie Besant</person>, who had frankly admitted distributing
 			among the English poor thousands upon thousands of copies of the pamphlet of a <place
 				reg="Boston, MA"> Boston</place> physician, Dr. <person reg="Knowlton, Charles">
-				Knowlton</person>, entitled "<title type="book">Fruits of Philosophy</title>,"
+				Knowlton</person>, entitled "<title type="book" reg="The Fruits of Philosophy">Fruits of Philosophy</title>,"
 			originally published in this country in 1833. The Neo-Malthusian League, sponsored by
 			those valiant pioneers, <person reg="Drysdale, Charles R."> Charles</person> and <person
 				reg="Drysdale, George">George Drysdale</person> and Dr. <person reg="Vickery, Alice"
@@ -121,7 +121,7 @@
 				support of the best minds of every country, an object we have achieved even beyond
 				our fondest expectations.</p>
 			<p> The backbone of the Birth Control movement has been from the time Malthus first
-				published his epoch-making "<title type="book">Principles of Population</title>"
+				published his epoch-making "<title type="book" reg="An Essay on the Principle of Population">Principles of Population</title>"
 				essentially Anglo-Saxon. <person reg="Mill, John Stuart">John Stuart Mill</person>,
 					<person reg="Place, Francis">Francis Place</person>, <person
 					reg="Arnold, Matthew">Matthew Arnold</person>, <person
@@ -137,8 +137,8 @@
 					Archer</person>, <person reg="Ellis, Havelock">Havelock Ellis</person>, <person
 					reg="Murray, Gilbert">Gilbert Murray</person>, <person reg="Russell, Bertrand"
 					>Bertrand Russell</person>, <person reg="Keynes, John Maynard">John Maynard
-					Keynes</person> (editor of <title type="journal">Nation and Athenaeum The
-					Nation</title>), and <person reg="Dawson, Bertrand E.">Lord Dawson</person>, one
+						Keynes</person> (editor of <title type="journal" reg="The Nation and Athenaeum">Nation and Athenaeum</title> The
+					Nation), and <person reg="Dawson, Bertrand E.">Lord Dawson</person>, one
 				of the <person reg="George V (England)">King</person>'s physicians, and innumerable
 				others in Great Britain speak openly and valiantly for Birth Control.</p>
 			<p>It is not without significance that since the inauguration of our agitation in 1913

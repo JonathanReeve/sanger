@@ -36,10 +36,10 @@
 	</mepHeader>
 	<headNote>
 		<p>Handwritten note by Sanger reads: "Notes on address when contemplating trial re <title
-				type="journal">Woman Rebel</title> 1916." At the top of the 4th page, Sanger wrote
+				type="journal" reg="The Woman Rebel">Woman Rebel</title> 1916." At the top of the 4th page, Sanger wrote
 			"buck up." Portions of this text were used again in the stump speech she gave on her
-			1916 national tour. For an example see <title type="article"><xref from="128003.xml">Condemnation is
-				Misunderstanding</xref></title>, Apr.-July, 1916.</p>
+			1916 national tour. For an example see <xref from="128003.xml"
+					>Condemnation is Misunderstanding</xref>, Apr.-July, 1916.</p>
 		<index level1="abortion" level2="frequency of"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="class-based"/>
@@ -70,7 +70,7 @@
 		<index level1="working classes" level2="MS on"/>
 		<index level1="working classes" level2="women and girls"/>
 		<index level1="United States Post Office"/>
-		
+
 	</headNote>
 	<docBody>
 		<div>
@@ -126,7 +126,7 @@
 				Woman must undo that crime. She must raise Man's standards in this as she has done
 				in the past to a still higher level and place the function of motherhood and its
 				physiology where it rightly belongs. She can only do this through education. And
-				this paper, the "<title type="journal">Woman Rebel</title>" was a pioneer attempt to
+				this paper, the "<title type="journal" reg="The Woman Rebel">Woman Rebel</title>" was a pioneer attempt to
 				give her that education.</p>
 			<p>It has been said that the issue advocated in this paper is fifty years ahead of the
 				times. But this I deny. Rather is it a few narrow-minded officials who are fifty
@@ -161,7 +161,7 @@
 				literature. What is the meaning <del>obscenity</del> of this word "Obscene"? The
 				average <del>men and wo</del> citizen is not familiar with the definition given in
 				law books but must rely upon the only available source, that is in dictionaries and
-				encyclopedias. I refer you to a standard authority <title type="book">The
+				encyclopedias. I refer you to a standard authority The<title type="book">
 					Encyclopedia Britannica</title> which <del>defines</del> says of
 					"<q>obscenity</q>":-</p>
 			<p>"<q who="EB">The precise meaning of the word is decidedly ambiguous. It has been
@@ -207,7 +207,7 @@
 				cannot afford to pay for. Consequently she must bring forth children who either die
 				in infancy <del>or</del> grow up to fill the reformatories jails and poor-houses,
 					<emph rend="underline">or she must resort to abortions</emph>! Abortions and
-				their horrible consequences are unnecessary. The "<title type="journal">Woman
+				their horrible consequences are unnecessary. The "<title type="journal" reg="The Woman Rebel">Woman
 					Rebel</title>" has said this and the District Attorney has chosen to call it
 					"<q>obscene</q>" <add>indecent</add>.</p>
 			<p>I trust you do not feel that I would have the impertinence to go into a work of this
@@ -236,7 +236,7 @@
 				they would not be wasting your time here to-day and piling up <del>the</del>
 				enormous costs <del>on the people's backs</del> by such proceedings. The intent is
 				the very essence of the character of this paper. It may be defiant; it may be bold;
-				it may be much that you do not approve of but <add><unclear>you do not want to
+				it may be much that you do not approve of but <add><unclear resp="MSPP">you do not want to
 						agree</unclear></add>. <del>the intent is certainly not obscene!</del>
 				<add>The question you are to decide is-- Is it obscene?</add>
 			</p>
@@ -342,14 +342,14 @@
 		</div>
 		<div>
 			<head type="sub">RESULTS OF PUBLICATION.</head>
-			<p>The publication of the "<title type="journal">Woman Rebel</title>" brought me
+			<p>The publication of the "<title type="journal" reg="The Woman Rebel">Woman Rebel</title>" brought me
 					<del>an</del> enthusiastic support from prominent men and women throughout this
 				country. It aroused physicians and educators alike to the necessity of Birth Control
 				as a national issue and has brought to the notice of all social workers the
 				much-neglected question of large families. (Articles have appeared in <title
-					type="journal">Harper's</title>, <title type="journal">The New Republic</title>,
-				<title type="journal">The <place reg="New York">N.Y.</place> American</title> and the <title type="journal"
-					>Tribune</title>). <del>Those</del>
+					type="journal" reg="Harper's Magazine">Harper's</title>, <title type="journal">The New Republic</title>,
+					<title type="journal" reg="New York American">The N.Y. American</title>
+				and the <title type="journal" reg="New York Herald Tribune">Tribune</title>). <del>Those</del>
 				<add>My</add> articles on Birth Control have received the approval and support of
 				the most eminent authorities in <place reg="England">Great Britain</place>
 				<add>as you may see by</add> the following communication signed by <person
@@ -456,7 +456,7 @@
 				all which I lay at the door of the government which has caused me to be insulted,
 				slandered and my name and work tainted with that foul
 						<del><supplied>stigma</supplied></del>
-				<add><unclear>tag</unclear></add> "<q>OBSCENITY"</q>.</p>
+				<add><unclear resp="MSPP">tag</unclear></add> "<q>OBSCENITY"</q>.</p>
 			<p>I have not dwelt on these personal matters because I want you to consider my
 				innocence from a impersonal view, but I cannot refrain from impressing you with the
 				inconvenience and the hardships unless I can leave this room acquitted by you of
@@ -540,7 +540,7 @@
 					they erected statues to those who killed tyrants thinking their deliverers fit
 					companions for their gods.</q></p>
 			<p>Then there is that beautiful book on <gap extent="four words" reason="illegible"/>
-				written by <gap extent="two words" reason="illegible"/> the great <unclear>scholar
+				written by <gap extent="two words" reason="illegible"/> the great <unclear resp="MSPP">scholar
 					and prophet</unclear> of freedom.</p>
 			<p>
 				<person reg="Cicero, Marcus Tullius (Roman)">Cicero</person>, in extolling the
@@ -563,7 +563,7 @@
 			<p>The article I have published, gentlemen, you will observe does not
 					<del>necessarily</del>
 				<add>so emphatically or enthusiastically</add>approve of assassination, as Mr.
-				Roosevelt's <del>quotation</del> does. In the <title type="journal">Woman
+				Roosevelt's <del>quotation</del> does. In the <title type="journal" reg="The Woman Rebel">Woman
 					Rebel</title> the Article deals with the question in an impartial way, viewing
 				it from both the moral and biological standpoints. About a third of the article
 				consists of a quotation from <person reg="Phillips, Wendell">Wendell

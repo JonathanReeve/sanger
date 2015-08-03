@@ -122,7 +122,7 @@
 			<q who="LOGMA">
 				<p>Senator LOGAN. You may do so</p>
 				<p>(The statement of the present law and summary of the State law referred to was
-					marked "Exhibit B"; and the pamphlet entitled "<title type="journal">Federal
+					marked "Exhibit B"; and the pamphlet entitled "<title type="book">Federal
 						Interference with the Administration of State Laws</title>", was marked
 					"Exhibit C"; both of which appear at the close of the statement of this
 					witness.)</p>
@@ -405,9 +405,10 @@
 				mothers themselves receive consideration, and we must trust the mother that she is,
 				going to use that advice, not only for the benefit of her child and her family but
 				for the benefit of the community and the country. I believe that we should consider,
-				under the <title type="article">Constitution</title> of this country, that every woman should have
-				the right of life, liberty, and the pursuit of happiness; and I ask you favorable
-				consideration of this legislation. [Applause]</p>
+				under the <title type="article" reg="United States Constitution"
+					>Constitution</title> of this country, that every woman should have the right of
+				life, liberty, and the pursuit of happiness; and I ask you favorable consideration
+				of this legislation. [Applause]</p>
 			<p>
 				<q who="LOGMA">Senator LOGAN. Thank you, Mrs. Sanger.</q>
 			</p>
@@ -532,8 +533,8 @@
 				which I will refer to later.</p>
 			<p>There are one or two points which I would like to include, among which are the
 				following:</p>
-			<p>Here is a book that has been brought out entitled <title type="book" reg="The Rhythm">Sex
-					Rhythm</title> published with "ecclesiastical approbation" by the <org>Latz
+			<p>Here is a book that has been brought out entitled <title type="book" reg="The Rhythm"
+					>Sex Rhythm</title> published with "ecclesiastical approbation" by the <org>Latz
 					Foundation of Chicago</org>, and under the heading of <q who="LATLE"
 					>"Consequences of contraception"</q> there is this question:</p>
 
@@ -675,8 +676,8 @@
 				family, could secure immediate relief, if able to go to public-health care clinics
 				and secure information to limit the size of the family during this period of
 				depression and unemployment.</p>
-			<p>To quote further from the book <title type="book" reg="The Rhythm">Rhythm</title>, by <person
-					reg="Latz, Leo J.">Dr. Leo Latz</person>, published with "Ecclesiastical
+			<p>To quote further from the book <title type="book" reg="The Rhythm">Rhythm</title>, by
+					<person reg="Latz, Leo J.">Dr. Leo Latz</person>, published with "Ecclesiastical
 				approbation":</p>
 			<p>
 				<q who="LATLE">Burdens that test human endurance to the utmost limit and to which

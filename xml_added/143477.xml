@@ -29,7 +29,7 @@
 		<p>An editorial introduced this article, stating: "Mrs. <person
 				reg="Lawson, Roberta Campbell">Roberta Campbell Lawson</person>, president of the
 				<org>General Federation of Women's Clubs</org>, told what the American women think
-			of Mussolini in May <title type="journal">PLAIN TALK</title>, in response to <foreign
+			of Mussolini in May <title type="journal" reg="Plain Talk">PLAIN TALK</title>, in response to <foreign
 				lang="ITA">Il Duce</foreign>'s own article on the small estate in which he holds the
 			opposite sex."</p>
 		<p>Mrs. Margaret Sanger, best known advocate of scientific birth control, who has been to
@@ -55,7 +55,7 @@
 		<p>Item for item and paragraph for paragraph, <person reg="Mussolini, Benito"
 				>Mussolini</person>’s ideas about women, as set forth in the article “<title
 				type="article">What Mussolini Thinks of Women</title>”, which appeared in the last
-			issue of <title type="journal">PLAIN TALK</title>, are shot through with prejudice.</p>
+			issue of <title type="journal" reg="Plain Talk">PLAIN TALK</title>, are shot through with prejudice.</p>
 		<p>They are a confession of his own limited personal life. His fanatical male egotism is a
 			threat to the development of the women of Italy, to the advancement of all women, and to
 			the peace of the world.</p>
@@ -78,10 +78,10 @@
 		<p>As to women not being creators--shame on Mussolini!</p>
 		<p>Has he forgotten his history? Where are his religious teachings?</p>
 		<p rend="blockquote">
-			<emph rend="italics">Does he not know that the <person reg="Virgin Mary (Biblical)">Virgin Mary</person>, all by
-				herself and without assistance of man (according to legend) created the leader and
-				founder of Christianity. This was an act of creation which has changed our
-				civilization for the past 2000 years.</emph>
+			<emph rend="italics">Does he not know that the <person reg="Virgin Mary (Biblical)"
+					>Virgin Mary</person>, all by herself and without assistance of man (according
+				to legend) created the leader and founder of Christianity. This was an act of
+				creation which has changed our civilization for the past 2000 years.</emph>
 		</p>
 		<p>Is this not enough?</p>
 		<p>What are the mutterings of a vain egotistical war lord compared with this

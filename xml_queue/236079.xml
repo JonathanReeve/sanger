@@ -5,17 +5,19 @@
 		<prepDate>2009/07/08 LL</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-03-17 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-09-00">Sept 1931</docDate>
 		<docTitle>
-			<titlePart>Book Review of PREGNANT WOMAN IN A LEAN
-				AGE</titlePart>
+			<titlePart>Book Review of PREGNANT WOMAN IN A LEAN AGE</titlePart>
 		</docTitle>
 		<idno>msp236079</idno>
 		<sourceDesc>
 			<bibl>
 				<title type="journal">Birth Control Review</title>, Sept. 1931, p. 261</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:228</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S71:228</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,7 +30,7 @@
 	</headNote>
 	<docBody>
 		<head>Book Reviews</head>
-		<p><title type="book">PREGNANT WOMAN IN A LEAN AGE</title> by <person reg="Cheyney, Ralph"
+		<p><title type="book" reg="Pregnant Woman in a Lean Age">PREGNANT WOMAN IN A LEAN AGE</title> by <person reg="Cheyney, Ralph"
 				>Ralph Cheyney</person>, <org rend="italics">William Faro, Inc</org>. <place
 				reg="New York, NY">New York</place>. 1931. $2.00.</p>
 		<p>In the hands of the most enlightened, both science and poetry are invaluable tools in

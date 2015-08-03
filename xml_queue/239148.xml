@@ -11,7 +11,9 @@
 		</docAuthor>
 		<docDate value="1923-09-00"> Sep 1923</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">The Vision of George Drysdale, Part III</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">The Vision of George Drysdale, Part III</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp239148</idno>
 		<sourceDesc>
@@ -123,23 +125,24 @@
 				physical knowledge. We must study the language of the body, a language not confined
 				to an age or a nation, but wide and universal as humanity, in order that we may
 				attain to a higher self-consciousness.</q>"</p>
-		<p>He reverts time after time, in the "<title type="book">Elements of Social
-				Science,</title>" to this necessity of a new psychology. One chapter is entitled
-				"<title type="book">Subjective Medicine,</title>" another "<title>Mental
+		<p>He reverts time after time, in the "<title type="book" reg="The Elements of Social Science">Elements of Social
+				Science</title>," to this necessity of a new psychology. One chapter is entitled
+				"<title type="article">Subjective Medicine</title>," another "<title>Mental
 				Disease</title>," while another chapter on hysteria seems to me to be fundamentally
 			in agreement with the epoch-making study of Freud, published in 1895, the first book of
-			the great Viennese pioneer. In his chapter on "<title>Mental Disease</title>," George
-			Drysdale points out that the mind, exactly like the body, operates according to fixed
-			natural laws. Sorrow in the mind corresponds to pain in the body. In Freud's first book
-					"<title><foreign lang="GER">Studien über Hysterie</foreign></title>" the point
-			was made that "<q who="FRESI">sexuality plays a leading part in the causation of
-				hysteria.</q>" When we recall that <person reg="Charcot, Jean Martin"
-				>Charcot</person> was indifferent to the psychic side of his cases, that he regarded
-			the recognition of a sex element in the causation of disease as degrading, and that
-			Freud and <person reg="Breuer, Josef">Breuer</person> in 1895 first launched the
-			doctrine of sexual suppression, which is now the foundation pier upon which the whole
-			structure of the new psychology rests, we can gain some sense of Drysdale's importance
-			as the true pioneer of the whole modern outlook.</p>
+			the great Viennese pioneer. In his chapter on "<title type="article">Mental
+				Disease</title>," George Drysdale points out that the mind, exactly like the body,
+			operates according to fixed natural laws. Sorrow in the mind corresponds to pain in the
+			body. In Freud's first book "<title type="book" reg="Studien uber Hysterie"><foreign
+					lang="GER">Studien über Hysterie</foreign></title>" the point was made that "<q
+				who="FRESI">sexuality plays a leading part in the causation of hysteria.</q>" When
+			we recall that <person reg="Charcot, Jean Martin">Charcot</person> was indifferent to
+			the psychic side of his cases, that he regarded the recognition of a sex element in the
+			causation of disease as degrading, and that Freud and <person reg="Breuer, Josef"
+				>Breuer</person> in 1895 first launched the doctrine of sexual suppression, which is
+			now the foundation pier upon which the whole structure of the new psychology rests, we
+			can gain some sense of Drysdale's importance as the true pioneer of the whole modern
+			outlook.</p>
 		<p>Verification of this fact is to be strikingly found in his chapter on mental disease and
 			hysteria. He makes the unqualified statement that a morbid sexual state--both physical
 			and mental--lies at the root of hysteria. Compare this with the statement made by Freud

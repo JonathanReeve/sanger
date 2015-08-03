@@ -5,7 +5,8 @@
 		<prepDate>2011/06/28 CE</prepDate>
 		<prepDate>2011/11/30 CH Correct typo</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-30 CH proof and enter</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
+		<prepDate>2015-03-30 CH proof and enter</prepDate>
+		<prepDate>2015-07-22 CH correct titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,7 +19,7 @@
 		<idno>msp236531</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title>Margaret Sanger Microfilm</title> S71:1124</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:1124</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="DIXAR">Dix, Arnold</name>
@@ -36,9 +37,10 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p> Handwritten insertions and emphasis added by Margaret Sanger. For draft versions, see
-			<title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:1064, 1070, 1082, and 1091. For
-			excerpts see Library of Congress Microfilm 130:509 and <title type="mf">Margaret Sanger Microfilm, Smith
-			College Collections</title> S71:1014.</p>
+				<title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+			S71:1064, 1070, 1082, and 1091. For excerpts see Library of Congress Microfilm 130:509
+			and <title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+			S71:1014.</p>
 		<index level1="birth rate" level2="population growth and"/>
 		<index level1="Europe" level2="MS on"/>
 		<index level1="Germany" level2="population policies of"/>
@@ -94,8 +96,9 @@
 				expansion were dominating her every political and economic move.</p>
 		</div>
 		<div type="Section">
-			<p> 1901--"<title type="book" reg="In Conquest and Kultur: Aims of the Germans in Their Own Words">In Conquest and Kultur</title>" by <person
-					reg="Dix, Arthur">Arthur Dix</person>:</p>
+			<p> 1901--"<title type="book"
+					reg="In Conquest and Kultur: Aims of the Germans in Their Own Words">In Conquest
+					and Kultur</title>" by <person reg="Dix, Arthur">Arthur Dix</person>:</p>
 		</div>
 		<div type="Section">
 			<p>"<q who="DIXAR">Because the German people nowadays increase at the rate of 800,000
@@ -165,8 +168,8 @@
 							>underestimate</unclear></add>.</p>
 			</div>
 			<div type="section">
-				<p>"<title type="article" reg="Multiplying Man">MULTIPLYING MAN</title>" by <person reg="Pearl, Raymond"
-					>Pearl</person></p>
+				<p>"<title type="article" reg="Multiplying Man">MULTIPLYING MAN</title>" by <person
+						reg="Pearl, Raymond">Pearl</person></p>
 				<p>"<q who="PEARA">In the last analysis the living of every human being must come
 						out of the earth</q></p>
 				<p>"<q who="PEARA">Each individual now living has available about 16 acres of land,
@@ -548,7 +551,8 @@
 				</p>
 				<p><emph rend="underline">Italy</emph>--quote from <person reg="Thompson, Warren"
 							><emph rend="underline">Warren Thompson</emph></person>, <add><title
-							type="book" reg="Danger Spots in World Population">Danger Spots World and Population</title>, 1925</add>.</p>
+							type="book" reg="Danger Spots in World Population">Danger Spots World
+							and Population</title>, 1925</add>.</p>
 				<p>"<q who="THOWA">It appears then, that Italy has neither the agricultural nor
 						industrial resources to care for the present growth of population for more
 						than a few years</q>.</p>

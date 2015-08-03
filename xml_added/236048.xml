@@ -8,7 +8,9 @@
 		<prepDate>2003/08/14 CH</prepDate>
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1952-01-11">11 Jan 1952</docDate>
 		<docTitle>
 			<titlePart>
@@ -28,8 +30,8 @@
 	</mepHeader>
 	<headNote>
 		<p>While in <place reg="Los Angeles, CA">Los Angeles</place>, Sanger sent this message to be
-			read a a tea for workers of the <org reg="Tucson Mothers' Health Clinic">Tucson Planned Parenthood clinic</org>, that was
-			held at her home.</p>
+			read a a tea for workers of the <org reg="Tucson Mothers' Health Clinic">Tucson Planned
+				Parenthood clinic</org>, that was held at her home.</p>
 		<index level1="Japan" level2="birth control clinics and leagues"/>
 		<index level1="India" level2="birth control clinics and leagues"/>
 	</headNote>
@@ -71,9 +73,9 @@
 			making a trip to Japan in the Spring--</p>
 		<p><place>Singapore</place> has several BC Clinics, the government has given $5000.00 for
 			supplies to the 7 clinics in that locality. All over the world the idea is
-			spreading--and now you will soon receive a <rs
-				reg="Around the World News of Population and Birth Control"><title type="journal"
-					>news Bulletin</title></rs>--with International News. Edited by my friend
+			spreading--and now you will soon receive a 
+			<title type="journal" reg="Around the World News of Population and Birth Control"
+					>news Bulletin</title>--with International News. Edited by my friend
 				<person reg="Brush, Dorothy Hamilton">Mrs Charles F Brush</person> in New York. This
 			is only a four sheet News Bulletin, we hope to have money enough within a year to make
 			it a real magazine-- It's bubbling with news &amp; most encouraging to us all.</p>
@@ -83,8 +85,8 @@
 			possibility of my returning on time for this meeting but here are a few of the
 			Highlights in case I am delayed.</p>
 		<p>
-			<del>You are so welcome to be in my home-- The Tucson Group will continue to do
-				the splendid work begun several years ago--</del>
+			<del>You are so welcome to be in my home-- The Tucson Group will continue to do the
+				splendid work begun several years ago--</del>
 		</p>
 	</docBody>
 </doc>

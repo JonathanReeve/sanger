@@ -10,15 +10,15 @@
 		<prepDate>2014/03/13 EK clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-04-13 EK update index</prepDate>
-		<prepDate>2015-04-15 CH fixed title</prepDate><prepDate>2015-07-17 CH more fixes in header</prepDate>
+		<prepDate>2015-04-15 CH fixed title</prepDate>
+		<prepDate>2015-07-17 CH more fixes in header</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1914-04-00">Apr 1914</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Short Pieces from the April 1914 WOMAN REBEL
-					</supplied>
+				<supplied resp="MSPP">Short Pieces from the April 1914 WOMAN REBEL </supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp420068</idno>
@@ -38,7 +38,7 @@
 	<docBody>
 		<div type="section">
 			<head>THE POST OFFICE BAN</head>
-			<p><title type="journal">THE WOMAN REBEL</title> FEELS PROUD THE <org
+			<p><title type="journal" reg="The Woman Rebel">THE WOMAN REBEL</title> FEELS PROUD THE <org
 					reg="United States Postal Service">POST OFFICE</org> AUTHORITIES DID NOT APPROVE
 				OF HER. </p>
 			<p>SHE SHALL BLUSH WITH SHAME IF EVER SHE BE APPROVED OF BY OFFICIALISM OR

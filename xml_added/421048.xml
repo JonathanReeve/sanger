@@ -203,7 +203,7 @@
 			differs considerably even from the neo-Malthusian movement in <place>England</place>,
 			began after the publication written by a doctor in <place reg="Boston, MA"
 				>Boston</place>, Dr. <person reg="Knowlton, Charles">Knowlton</person>. That
-					<title><rs reg="Fruits of Philosophy">pamphlet</rs></title>, the first one I
+					<title type="book" reg="Fruits of Philosophy">pamphlet</title>, the first one I
 			believe, was published in 1833, went its way around the world for more than 40 years. I
 			don’t quite know what effect the information in that pamphlet had upon the birth rate,
 			but nothing particularly striking happened until 1877, when it found its way into a
@@ -330,7 +330,7 @@
 				reg="New York State Court of Appeals">Court of Appeals</org> stated that a physician
 			actually practicing could give information for the cure or prevention of disease, and he
 			did not take the medical dictionary’s interpretation of the word disease, but <title
-				type="book">Webster’s</title>, so that is rather broad, and we hope that will be
+				type="book" reg="Webster's Dictionary">Webster’s</title>, so that is rather broad, and we hope that will be
 			interpreted in a broader sense in some of the other states, especially the Western
 			states, than it is at this time. </p>
 		<p>Now, as for clinics, the first <org reg="Clinical Research Department">clinic</org> that

@@ -5,8 +5,12 @@
 		<prepDate>2012-04-25 AW Initial Tag</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-04-15 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1929-00-00"><supplied resp="MSPP">1929</supplied></docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1929-00-00">
+			<supplied resp="MSPP">1929</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Early History of Birth Control in England and the United
@@ -16,7 +20,8 @@
 		<idno>msp236446</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S73:67</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S73:67</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -45,7 +50,7 @@
 			improvement since in that knowledge) &amp; was a very big step forward in the practical
 			means of controlling the size of the family as advocated by <person
 				reg="Malthus, Thomas Robert">Malthus</person> nearly fifty years before Knowlton
-			wrote the <title type="book">Fruits of Philosophy</title>. </p>
+			wrote the <title type="book" reg="The Fruits of Philosophy">Fruits of Philosophy</title>. </p>
 		<p>Just about the time <place>Great Britain</place> was discussing the pros &amp; cons of
 			the Besant and Bradlaugh case. </p>
 		<p><org reg="New York Society for the Suppression of Vice">The Purity Society</org> was

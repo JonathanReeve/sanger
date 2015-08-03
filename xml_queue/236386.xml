@@ -81,7 +81,7 @@
 			<p>2 slums, child labor.</p>
 			<p>Charities 8 Billions--</p>
 			<p><add><person reg="Wells, H. G.">Wells</person> statement-- Intelligence slow
-						<unclear>growth</unclear></add>Disease, <supplied resp="MSPP">Defectives.
+						<unclear resp="MSPP">growth</unclear></add>Disease, <supplied resp="MSPP">Defectives.
 					Delinquents. Dependents.</supplied>.</p>
 			<p>Regulation useless-- Infant <supplied resp="MSPP">mortality</supplied> 200,000
 				400,000 parents ignorant} too close, <supplied resp="MSPP">frequent
@@ -103,11 +103,11 @@
 			<list>
 				<item>health certificate</item>
 				<item>wages--table</item>
-				<item><unclear>plans</unclear>--</item>
+				<item><unclear resp="MSPP">plans</unclear>--</item>
 				<item>chimney sweep</item>
 				<item>talent</item>
 				<item>
-					<unclear>carpenter</unclear>
+					<unclear resp="MSPP">carpenter</unclear>
 				</item>
 				<item>genius</item>
 				<item>
@@ -132,7 +132,7 @@
 			<p>
 				<list>
 					<item><person reg="Inge, William Ralph">W. R. Inge</person>, <title type="book"
-							>Outspoken Essays,</title> first and second series.</item>
+							>Outspoken Essays</title>, first and second series.</item>
 					<item><person reg="East, Edward Murray">E. M. East</person>, <title type="book"
 							>Mankind at the Crossroads</title>.</item>
 					<item><person reg="Cox, Harold">Harold Cox</person>, <title type="book">The
@@ -140,8 +140,8 @@
 					<item>H. G. Wells, <title type="article">Introduction</title> to Margaret
 						Sanger's <title type="book">Pivot of Civilization</title>.</item>
 					<item><person reg="Dawson, Bertrand E.">Dawson of Penn</person>, <title
-							type="speech">Married Love. Address to the Bishops at <org>Lambeth
-								Conference</org></title>, published in this country by the
+							type="speech">Married Love</title>. Address to the Bishops at <org>Lambeth
+								Conference</org>, published in this country by the
 							<org>American Birth Control League</org>.</item>
 					<item><person reg="MacDougal, William">William MacDougal</person>, <title
 							type="book">Is America Safe for Democracy?</title>.</item>

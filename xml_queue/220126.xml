@@ -22,9 +22,9 @@
 		<idno>msp220126</idno>
 		<sourceDesc>
 			<bibl>
-				<title>Margaret Sanger Papers, Sophia Smith Collection</title>
+				Margaret Sanger Papers, Sophia Smith Collection
 			</bibl>
-			<bibl><title>Margaret Sanger Microfilm</title> S71:0977</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:0977</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -139,7 +139,7 @@
 				families by 43%. </p>
 			<p>The late <person reg="Sydenstricker, Edgar">Edgar Sydenstricker</person> and <person
 					reg="Perrott, George St. John">G. St. J. Perrott</person> in another study of
-				8,000 families in 8 American cities (<title type="journal">Milbank Mem.
+				8,000 families in 8 American cities (<title type="journal" reg="Milbank Memorial Fund Quarterly">Milbank Mem.
 					Quart.</title> 12 April 1934) found that the birth rate had been highest during
 				the depression in families without employment or with only part time work in 1932.
 				The highest rate was in families who were poor in 1932 and continued poor in 1932.
@@ -151,7 +151,7 @@
 				was largely in families who "<q who="SYDED">could least afford, from any point of
 					view, to assume this responsibility.</q>"</p>
 			<p><person reg="Popenoe, Paul">Popenoe</person> &amp; <person
-					reg="Williams, Ellen Morton">Williams</person>, in an article, "<title>Fecundity
+					reg="Williams, Ellen Morton">Williams</person>, in an article, "<title type="article">Fecundity
 					of Families Dependent on Public Charity</title>",(<title type="journal">American
 					Journal of Sociology</title> 40:214-220, September, 1934) found that in 504
 				families who prior to the depression were dependent on charity in <place
@@ -166,10 +166,11 @@
 			<p><org>The Charity Organization Society in New York</org> in testing 451 representative
 				children under its care found the median I.Q. 86. That of 821 children in <place
 					reg="Indianapolis, IN">Indianapolis</place> was the same, while of 1,500 women
-				admitted as charity obstetrical patients at <org reg="Johns Hopkins University Hospital">Johns Hopkins Hospital</org>,
-					<place reg="Baltimore, MD">Baltimore</place>, 39% o the whites and 70% of the
-				negroes were found to have a mental age of 11 years or less. (Popenoe &amp; Williams
-				p. 220)</p>
+				admitted as charity obstetrical patients at <org
+					reg="Johns Hopkins University Hospital">Johns Hopkins Hospital</org>, <place
+					reg="Baltimore, MD">Baltimore</place>, 39% o the whites and 70% of the negroes
+				were found to have a mental age of 11 years or less. (Popenoe &amp; Williams p.
+				220)</p>
 			<p>Prof. <person reg="Bossard, James H. S.">James H. S. Bossard</person>, of the
 				Department of Sociology, <org>University of Pennsylvania</org>, was quoted in 1935
 					(<title type="journal">New York Times</title>--January 25, 1935) as citing
