@@ -5,7 +5,7 @@
 		<prepDate>2014-03-12 JK initial tags</prepDate>
 		<prepDate>2014-03-14 CH proof tags</prepDate>
 		<prepDate>2014-03-26>JK correct tags</prepDate>
-		<prepDate>2015-03-31 CH proof and enter</prepDate>
+		<prepDate>2015-03-31 CH proof and enter</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -45,7 +45,7 @@
 		<index level1="birth control" level2="definitions of"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="society" level2="responsibility and"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"
+		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"
 		/>
 	</headNote>
 	<docBody>
@@ -120,7 +120,8 @@
 		<div type="section">
 			<head type="sub">Reasons Outlined</head>
 
-			<p><q who="MCA">The slight, red-haired woman who has given 25 years
+			<p>
+				<q who="MCA">The slight, red-haired woman who has given 25 years
 					of her life to her cause, outlined seven reasons for
 					contraception: <list>
 						<item>1. The man or woman capable of transmitting a
@@ -148,11 +149,13 @@
 							small family there is opportunity for parents to
 							train their children, and to have time to improve
 							themselves.</item>
-					</list></q></p>
+					</list></q>
+			</p>
 		</div>
 		<div type="section">
 			<head>Memphians Speak</head>
-			<p><q who="MCA">Mrs. Sanger was introduced by Dr. <person
+			<p>
+				<q who="MCA">Mrs. Sanger was introduced by Dr. <person
 						reg="Pride, William T.">W. T. Pride</person>, who said
 					he hoped the time is not far off when contraceptives will be
 					afforded only through medical prescription, insuring proper
@@ -161,19 +164,22 @@
 						Loaring-Clark</person> of <org>St. John's Episcopal
 						Church</org> and Dr. <person reg="Sibley, Josiah">Josiah
 						Sibley</person>, pastor of <org>Lindsay Memorial
-						Presbyterian Church</org>.</q></p>
+						Presbyterian Church</org>.</q>
+			</p>
 			<p><q who="MCA">"</q><q who="LOAAL">People must be dragged into new
 					eras of thought</q>," Dr. Loaring-Clark said. "<q
 					who="LOAAL">How stupid to shudder at the thoguht of
 					contraception.</q>" Dr. Sibley said he was convinced that
 				the "<q who="SIBJO">truth of birth control is good for
 					humanity."</q></p>
-			<p><q who="MCA">Mrs. Sanger will address a negro audience at 8:30
+			<p>
+				<q who="MCA">Mrs. Sanger will address a negro audience at 8:30
 					o'clock tonight at the <org>Metropolitan Baptist
 						Church</org>. She will return to her <place
 						reg="New York, NY">New York</place> home tomorrow. Her
 					lecture was sponsored by the Birth Control Committee in
-					Memphis.</q></p>
+					Memphis.</q>
+			</p>
 		</div>
 	</docBody>
 </doc>
