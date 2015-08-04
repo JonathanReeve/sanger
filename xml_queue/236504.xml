@@ -29,7 +29,11 @@
 			title was taken from "<title type="article">Birth Control Leader Visits City
 				Overnight</title>," <title type="journal">El Paso Times</title>, Nov. 16, 1941. No
 			final version of the speech has been found.</p>
-		<index level1="xxxx"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="Germany" level2="population policies"/>
+		<index level1="overpopulation" level2="and war"/>
+		<index level1="child welfare"/>
+		<index level1="mortality rates" level2="infant"/>
 	</headNote>
 	<docBody>
 		<dateline>
@@ -48,7 +52,9 @@
 			<person reg="Wells, H. G.">Wells</person>
 			<person reg="Huxley, Julian">Huxley</person>
 			<person reg="Inge, William Ralph">Inge</person>
-			<person reg="Darwin, Charles"><emph rend="underline">Darwin</emph></person>
+			<person reg="Darwin, Charles">
+				<emph rend="underline">Darwin</emph>
+			</person>
 		</p>
 		<p>
 			<emph rend="underline">Definition of Bc</emph>

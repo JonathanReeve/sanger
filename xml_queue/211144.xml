@@ -10,7 +10,9 @@
 		</docAuthor>
 		<docDate value="1923-10-00"> Oct 1932</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">The Vision of George Drysdale, Part IV</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">The Vision of George Drysdale, Part IV</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp211144</idno>
 		<sourceDesc>
@@ -28,7 +30,11 @@
 		<p>This is the final article in a four-part series of the same name. For preceding articles,
 			see <xref from="225187.xml">July 1923</xref>, <xref from="219250.xml">Aug. 1923</xref>,
 			and <xref from="239148.xml">Sept. 1923</xref>.</p>
-		<index level1="xxxx"/>
+		<index level1="Drysdale, George"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="rights of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
 		<head>The Vision of George Drysdale</head>
@@ -245,7 +251,7 @@
 				human industry and of equalizing distribution. But in ignoring the fundamental
 				factor of overpopulation socialism failed to recognize that its aims were foredoomed
 				to inevitable cancellation.</p>
-			<p>In short, the reader of the "<title type="book">Elements of Social Science</title>"
+			<p>In short, the reader of the "<title type="book" reg="The Elements of Social Science">Elements of Social Science</title>"
 				will discover that George Drysdale sought to justify the principle of Birth Control,
 				not merely upon the ground of economics and politics, but essentially as a
 				physiological and psychological necessity of the human race. This phase of his work
