@@ -3,7 +3,8 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2014/07/16 AS encoded</prepDate>
-		<prepDate>2014-08-15 CH proof and edit</prepDate><prepDate>2015-04-16 CH Clean tags and enter</prepDate>
+		<prepDate>2014-08-15 CH proof and edit</prepDate>
+		<prepDate>2015-04-16 CH Clean tags and enter</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1918-05-00">May 1918</docDate>
 		<docTitle>
@@ -24,7 +25,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This unsigned editorial may have been written by Margaret Sanger.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="Birth Control Review, The"/>
 		<index level1="birth control movement" level2="disputes within"/>
 		<index level1="birth control" level2="medical community and"/>
@@ -32,9 +33,8 @@
 		<index level1="birth control clinics and leagues" level2="physicians and"/>
 	</headNote>
 	<docBody>
-		<p>A CONSERVATIVE FRIEND who has often relieved my
-			"neediest cases" with clothing, medical attention or cash, took me to task for endorsing
-			birth control.</p>
+		<p>A CONSERVATIVE FRIEND who has often relieved my "neediest cases" with clothing, medical
+			attention or cash, took me to task for endorsing birth control.</p>
 		<p><q who="UNK">"Why do you have anything to do with the dangerous doctrine?</q>" she
 			inquired.</p>
 		<p>"Because of these letters" And I handed her a sheaf of them. She was quite shaken by the
@@ -56,13 +56,13 @@
 			whose strength and beauty had been conserved for years by contraceptives has been
 			fighting the movement to grant the same protection and privilege to her less fortunate
 			sisters because her physician has misled her, intentionally or otherwise.</p>
-		<p>We will never have voluntary motherhood until we tear away the <unclear resp="MSPP">veil</unclear> of
-			hypocrisy and misrepresentation by which physicians hide the truth from their patients,
-			and especially the smugness of those medical men who inform their overburdened patients
-			that there are no safe and sure contraceptives, while they protect their own wives and,
-			incidentally, their own bank accounts by practising birth control in their private
-			lives. These are the worst offenders against the health and the freedom of American
-			women.</p>
+		<p>We will never have voluntary motherhood until we tear away the <unclear resp="MSPP"
+				>veil</unclear> of hypocrisy and misrepresentation by which physicians hide the
+			truth from their patients, and especially the smugness of those medical men who inform
+			their overburdened patients that there are no safe and sure contraceptives, while they
+			protect their own wives and, incidentally, their own bank accounts by practising birth
+			control in their private lives. These are the worst offenders against the health and the
+			freedom of American women.</p>
 		<p>Birth Control Leagues have been formed in many localities and then allowed to languish or
 			die. But the day is coming when they will be supported by the very women who once drew
 			back their skirts. War is a great awakener of women. It stirs their souls and opens

@@ -25,7 +25,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="Sanger, Margaret" level2="tours” level3=”1916 (U.S.)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
 		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="women and girls" level2="freedom and rights of"/>
 		<index level1="United States" level2="birth rate in"/>
@@ -37,22 +37,28 @@
 			<q who="ODJ">Birth control, or a knowledge of ways and means of contraception, is to be
 				a boon to suffering motherhood, according to <person reg="Sanger, Margaret">Mrs.
 					Margaret Sanger</person> of <place reg="New York, NY">New York,</place> who is
-				in <place reg="Portland, OR">Portland</place> to lecture on the subject.</q></p>
-		<p>	<q who="ODJ">Not only is it to relieve women of the burden of bearing too many children,
+				in <place reg="Portland, OR">Portland</place> to lecture on the subject.</q>
+		</p>
+		<p>
+			<q who="ODJ">Not only is it to relieve women of the burden of bearing too many children,
 				but it is to be a large factor in the fight of the poor for economic justice. By
 				limiting the birth-rate, birth control advocates say, the supply of cheap labor will
 				be diminished and with fewer people, there will be more work and greater
-				opportunity.</q></p>
+				opportunity.</q>
+		</p>
 		<p>"Birth control," <q who="ODJ">said Mrs. Sanger, in her apartment at the <org
-				reg="Portland Hotel">Portland</org> yesterday,</q> "is the keynote in the social
+					reg="Portland Hotel">Portland</org> yesterday,</q> "is the keynote in the social
 			awakening. It challenges the idea that women should not try to keep from having children
 			and advances the idea that the real wrong is in having children that they do not want,
 			and for whom they cannot provide.</p>
-		<p>	<q who="ODJ">Mrs. Sanger says that birth control already is practiced by perhaps
+		<p>
+			<q who="ODJ">Mrs. Sanger says that birth control already is practiced by perhaps
 				one-third of the women in the <place>United States</place> judging from the birth
 				rate.</q>
 		</p>
-		<p>	<q who="ODJ">Mrs. Sanger was formerly a nurse, and she says it was her work among the
-				poor of New York that made her an advocate of birth control.</q></p>
+		<p>
+			<q who="ODJ">Mrs. Sanger was formerly a nurse, and she says it was her work among the
+				poor of New York that made her an advocate of birth control.</q>
+		</p>
 	</docBody>
 </doc>

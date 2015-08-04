@@ -6,7 +6,7 @@
 		<prepDate>2004/06/30 CH</prepDate>
 		<prepDate>2004/07/26 CH</prepDate>
 		<prepDate>2014-03-07 clean regs</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -25,15 +25,17 @@
 			<name id="UNK">Unknown</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>The following is Sanger's contribution to a nineteen page pamphlet of
-			quotes on birth control by famous individuals.</p>
-		<index level1="abortion" level2="birth control vs."/>
+	<headNote resp="MSPP">
+		<p>The following is Sanger's contribution to a nineteen page pamphlet of quotes on birth
+			control by famous individuals.</p>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="abortion" level2="health risks of"/>
 		<index level1="birth control" level2="clinics and leagues"/>
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="birth control" level2="medically controlled"/>
-		<index level1="women" level2="enslavement of"/></headNote>
+		<index level1="women" level2="enslavement of"/>
+	</headNote>
 	<docBody>
 		<head>Margaret Sanger--</head>
 		<p>"Family limitation will always be practiced, as it is now being practiced, either by

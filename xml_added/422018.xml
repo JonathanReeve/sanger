@@ -16,7 +16,7 @@
 		<sourceDesc>
 			<bibl>
 				<title type="article">Scores U.S. Law Which Bars Talk on Birth Control</title>,
-				<title type="journal">Milwaukee Leader</title>, Apr. 27, 1916</bibl>
+					<title type="journal">Milwaukee Leader</title>, Apr. 27, 1916</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -24,7 +24,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="Sanger, Margaret" level2="tours” level3=”1916 (U.S.)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
 		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
 		<index level1="birth control laws and legislation" level2="MS on"/>
@@ -33,16 +33,18 @@
 		<index level1="birth control" level2="morality of"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="mortality rates" level2="infant"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<head>SCORES U.S. LAW WHICH BARS TALK ON BIRTH CONTROL</head>
 		<div type="section">
-			<p><q who="ML">Mrs. Margaret Sanger, of <place reg="New York, NY">New York,</place>
+			<p>
+				<q who="ML">Mrs. Margaret Sanger, of <place reg="New York, NY">New York,</place>
 					persecuted for spreading information in the cause of birth control, told her
 					story to <place reg="Milwaukee, WI">Milwaukee</place> physicians, club women,
 					suffragists and others Thursdsay night, in the gold room of the <org>Hotel
 						Wisconsin</org>. Policemen and plain clothes men were on hand but Mrs.
-					Sanger was not molested.</q></p>
+					Sanger was not molested.</q>
+			</p>
 			<p>"Three hundred thousand babies die every year in the <place>United States</place>
 				from poverty and neglect, while 600,000 parents remain in ignorance of how to
 				prevent the coming of 300,000 more babies to die of poverty and neglect," <q
@@ -57,9 +59,9 @@
 			<p>"Am I to be persecuted, slandered and subjected to all sorts of indignities for
 				helping these poor souls while <person reg="Roosevelt, Theodore">Theodore
 					Roosevelt</person> can go up and down the land shouting and urging them to have
-				larger families? He is not molested--no, he is lauded to the skies. While I, a woman,
-				am arrested for preventing my sisters from producing an unlimited supply of cannon
-				fodder for munition makers and professional jingoes."</p>
+				larger families? He is not molested--no, he is lauded to the skies. While I, a
+				woman, am arrested for preventing my sisters from producing an unlimited supply of
+				cannon fodder for munition makers and professional jingoes."</p>
 			<p>"Every department in life is open to discussion and research excepting birth, and woe
 				unto him who dares explore that forbidden valley! The scientist may go elsewhere at
 				his will and bring back to the public the fruits of his research, but no matter how

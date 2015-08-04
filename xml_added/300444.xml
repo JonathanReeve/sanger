@@ -6,7 +6,7 @@
 		<prepDate>2014/14/03 CH proof tags</prepDate>
 		<prepDate>2014/14/03 VS correct tags</prepDate>
 		<prepDate>2015-03-18 CH recheck tags</prepDate>
-		<prepDate>2015-04-15 CH regularized title</prepDate>
+		<prepDate>2015-04-15 CH regularized title</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -42,7 +42,7 @@
 			and speech she responded to directly. For additional comments made by Sanger, see <xref
 				from="422095.xml">Comments at House Testimony on H. R. 11082</xref>, May 19,
 			1932.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="and marriage"/>
 		<index level1="birth control" level2="distribution of information about"/>

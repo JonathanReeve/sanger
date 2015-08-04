@@ -6,7 +6,7 @@
 		<prepDate>2011/06/28 CE Corrections</prepDate>
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,7 +30,7 @@
 		<p>This may have been a version of the speech Sanger gave at the <org>Birth Control Comes of
 				Age Anniversary Dinner</org>, held in <place reg="Washington, DC">Washington,
 				D.C.</place> on February 12, 1935.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="abortion" level2="frequency of"/>
 		<index level1="abortion" level2="health risks of"/>
 		<index level1="birth control" level2="access to"/>

@@ -5,7 +5,7 @@
 		<prepDate>2014/02/19 VS initial tagging</prepDate>
 		<prepDate>2014/02/28 CH proof tags</prepDate>
 		<prepDate>2014/03/04 VS revise tags</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -41,7 +41,7 @@
 	<headNote resp="MSPP">
 		<p>The following is an excerpt from the hearings, including only Margaret Sanger's testimony
 			and the questions she responded to.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="American Medical Association"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="class-based"/>
@@ -262,9 +262,9 @@
 				inform you that is not true.</p>
 			<p> There is a book that has recently bee published by the <org
 					reg="Berthold Latz Foundation Inc.">Latz Foundation</org> called “<title
-					type="book" reg="The Rhythm">The Rhythm of Sterility and Fertility in Women</title>.” This has
-				been published with “ecclesiastical approval”, and this has been recommended by all
-				of the Catholic societies and Catholic publications.</p>
+					type="book" reg="The Rhythm">The Rhythm of Sterility and Fertility in
+					Women</title>.” This has been published with “ecclesiastical approval”, and this
+				has been recommended by all of the Catholic societies and Catholic publications.</p>
 
 			<p>
 				<q who="HEAAR">Mr. <person reg="Healey, Arthur Daniel">Healey</person>. May I ask
@@ -347,12 +347,12 @@
 				period for all women, as Dr. <person reg="Willson, Prentiss">Willson</person> has
 				suggested to you.</p>
 			<p> Now it comes down to a safe device or a safe period, and that is just about where
-				both sides are now. I can read to you out of this book, “<title type="book" reg="The Rhythm"
-					>Rhythm</title>,” answers to everything that has been said here. Out of this
-				book comes answers, and I will take up your time to read at least some of them. It
-				states here that Catholic doctors are not in agreement as to the serious physical
-				consequences of contraception, and the answer is that they are by no means in
-				agreement on this, and I would want you to understand, they agree that the
+				both sides are now. I can read to you out of this book, “<title type="book"
+					reg="The Rhythm">Rhythm</title>,” answers to everything that has been said here.
+				Out of this book comes answers, and I will take up your time to read at least some
+				of them. It states here that Catholic doctors are not in agreement as to the serious
+				physical consequences of contraception, and the answer is that they are by no means
+				in agreement on this, and I would want you to understand, they agree that the
 				consequence of over-child bearing and the consequences of prolific child-bearing are
 				to a certain extent a greater cause for worry and anxiety than the point of
 				contraception.</p>

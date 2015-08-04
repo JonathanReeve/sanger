@@ -8,7 +8,7 @@
 		<prepDate>2007/08/28 CH Oxygen update; this has a table</prepDate>
 		<prepDate>2011/11/28 CH correct typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-06 CH recheck tags</prepDate>
+		<prepDate>2015-03-06 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,7 +31,7 @@
 		<p>This article was reprinted in the May 1919 <title type="journal">Birth Control
 				Review</title> under the same title. (<title type="mf">Margaret Sanger Microfilm,
 				Smith College Collections</title> S70:821.)</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="abortion" level2="frequency of"/>
 		<index level1="abortion" level2="MS on"/>
 		<index level1="birth control" level2="health benefits and risks"/>
@@ -153,7 +153,8 @@
 			6,000,000 people. Physicians have found that nurses trained for this work by specialists
 			are highly competent to take care of it and it is the almost invariable rule that Birth
 			Control clinics are conducted by such nurses. Dr.<person reg="Rutgers, Johannes"> J.
-				Rutgers</person> of The Hague, secretary of the <org reg="Nieuw Malthusiaansche Bond">Neo-Malthusian League</org>, is the specialist who
+				Rutgers</person> of The Hague, secretary of the <org
+				reg="Nieuw Malthusiaansche Bond">Neo-Malthusian League</org>, is the specialist who
 			trains and instructs the nurses. The general results of the work are best judged by
 			tables, appended to this article, taken from <title type="book">The Annual Summary of
 				Marriages, Births and Deaths in <place>England</place>, <place>Wales</place>,

@@ -3,8 +3,10 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014-06-25 CH proofed </prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1920-00-00">
 			<supplied resp="MSPP">1920</supplied>
 		</docDate>
@@ -27,7 +29,7 @@
 		<p>This is a pamphlet reprint of "Chapter 10--<title type="article">Contraceptives or
 				Abortion?"</title> from <title type="book">Woman and the New Race,</title> pp.
 			118-29.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="abortion" level2="frequency of"/>
 		<index level1="United States" level2="birth control in"/>
 		<index level1="infanticide"/>
