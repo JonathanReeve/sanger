@@ -5,7 +5,9 @@
 		<prepDate>2012-06-18 AW Initial Tag</prepDate>
 		<prepDate>2014-04-17 CH clean regs</prepDate>
 		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1958-12-17">17 Dec 1958</docDate>
 		<docTitle>
 			<titlePart>
@@ -47,8 +49,7 @@
 			the IPPF congratulate all the people of India who have made this progress, and
 			especially those leaders of the <org>Family Planning Association of India</org> who have
 			been in the forefront of the program.</p>
-		<p>It is a matter of much personal gratification to me that one of India’s <person
-				reg="Unknown">leading business men</person> reported in a <place
+		<p>It is a matter of much personal gratification to me that one of India’s leading business men reported in a <place
 				reg="Los Angeles, CA">Los Angeles, California</place>, Newspaper last autumn that,
 				"<q who="UNK">As <person reg="Gandhi, Mohandas K.">Mohandas Ghandi</person> was the
 				leader before independence in India, Margaret Sanger is the leader for India today,

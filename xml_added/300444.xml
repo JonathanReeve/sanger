@@ -7,6 +7,7 @@
 		<prepDate>2014/14/03 VS correct tags</prepDate>
 		<prepDate>2015-03-18 CH recheck tags</prepDate>
 		<prepDate>2015-04-15 CH regularized title</prepDate>
+		<prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -42,7 +43,7 @@
 			and speech she responded to directly. For additional comments made by Sanger, see <xref
 				from="422095.xml">Comments at House Testimony on H. R. 11082</xref>, May 19,
 			1932.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="and marriage"/>
 		<index level1="birth control" level2="distribution of information about"/>
@@ -679,7 +680,7 @@
 				facts from which to substantiate our conclusions.</p>
 			<p> I am going to ask, Mr. Chairman, if I may, to present one case that I took at random
 				as an illustration.</p>
-			<p> An <person reg="Unknown">Italian woman</person>, 29 years old on first visit
+			<p> An Italian woman, 29 years old on first visit
 				(married at 15 years). Diagnosed as “high-grade moron” with husband classified as
 				“mental case.” Three children, youngest an infant; two miscarriages, both due to
 				overwork. Five pregnancies in all. Clinical contraceptive advice now successful for

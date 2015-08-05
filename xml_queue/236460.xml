@@ -5,8 +5,12 @@
 		<prepDate>2012-05-02 AW Initial Tag</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-04-15 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="0000-00-00"><supplied resp="MSPP">n.d.</supplied></docDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="0000-00-00">
+			<supplied resp="MSPP">n.d.</supplied>
+		</docDate>
 		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Intelligence</supplied>
@@ -15,15 +19,17 @@
 		<idno>msp236460</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S73:97</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S73:97</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>No final version was found. This draft may have been part of a longer article.</p>
-		<index level1="xxxx"/>
+	<headNote resp="MSPP">
+		<p>No final version was found. This draft may have been part of a longer article.</p>
+		<index level1="Sanger, Margaret" level2="philosophy"/>
 	</headNote>
 	<docBody>
 		<p>A world in which <person reg="Franklin, Benjamin">Franklin</person>s, <person

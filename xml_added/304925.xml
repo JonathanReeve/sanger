@@ -9,7 +9,7 @@
 		<prepDate>2013-04-30 CH fix links</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<prepDate>2015-03-17 EK update index</prepDate>
+		<prepDate>2015-03-17 EK update index</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -45,7 +45,7 @@
 		<index level1="sex education"/>
 		<index level1="women and girls" level2="sexuality of"/>
 		<index level1="abortion"/>
-		<index level1="abortion, MS on"/>
+		<index level1="abortion" level2="MS on"/>
 		<index level1="women and girls" level2="reproductive choices and decisions"/>
 		<index level1="Sanger, Margaret" level2="books" level3="What Every Girl Should Know"/>
 	</headNote>

@@ -5,6 +5,7 @@
 		<prepDate>2014/24/01 YG initial encoding</prepDate>
 		<prepDate>2014-01-29 CH proof</prepDate>
 		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -29,8 +30,8 @@
 			attendance.</p>
 		<index level1="birth control" level2="religion and"/>
 		<index level1="birth control" level2="morality of"/>
-		<index level1="abortion" level2="birth control vs."/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"/>
 	</headNote>
 	<docBody>
 		<head>600 FOLK ATTEND SANGER LECTURE</head>

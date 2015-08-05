@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-05-27 MC encoded and transcribed</prepDate>
 		<prepDate>2015-06-10 CH proof tags</prepDate>
-		<prepDate>2015-06-24 MC entered corrections</prepDate>
+		<prepDate>2015-06-24 MC entered corrections</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -27,7 +27,7 @@
 	<headNote resp="MSPP">
 		<p>Sanger's speech was not found; newspaper coverage was used instead.</p>
 		<index level1="United States" level2="birth control in"/>
-		<index level1="woman and girls" level2="and birth control"/>
+		<index level1="women and girls" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head> Mrs. Sanger Lectures Here</head>

@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2009/03/20 ch Initial transcribe and encode</prepDate>
 		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<prepDate>2015-08-04 ch clean index</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,8 +32,8 @@
 			Mar. 1920, and as Chapter XVI of <title type="book">Woman and the New Race</title>, (New
 			York: Brentano's, 1920), pp. 198-209.</p>
 		<index level1="birth control" level2="health benefits and risks"/>
-		<index level1="abortion" level2="health risks of"/>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="Australia" level2="birth rates in"/>
 		<index level1="Netherlands, the" level2="birth control in"/>
 		<index level1="mortality rates" level2="infant"/>
@@ -154,8 +155,10 @@
 			Rutgers. As a nurse completes her course of training, she establishes herself in a
 			community and her place of consultation is called a clinic. </p>
 		<p>The general results of this service are best judged by tables included in the <title
-				type="book" reg="Annual Report of the Registrar General of Births, Deaths, and Marriages In England and Wales">Annual Summary of Marriages, Births and Deaths in England,
-			Wales</title>, etc., for 1912.</p>
+				type="book"
+				reg="Annual Report of the Registrar General of Births, Deaths, and Marriages In England and Wales"
+				>Annual Summary of Marriages, Births and Deaths in England, Wales</title>, etc., for
+			1912.</p>
 		<p>In Amsterdam, the birth rate dropped from 37.1 for the period of 1881-'85 to 24.7 for
 			1906, and 23.3 in 1912. During the same periods, the death rate fell from 25.1 to 13.1,
 			and in 1912, to 11.2. Infant mortality for the same period fell from 203 for each

@@ -3,7 +3,7 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2014-06-26 CH transcribe and encode poor photocopy</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -48,7 +48,7 @@
 		<index level1="eugenics" level2="MS on"/>
 		<index level1="overpopulation" level2="MS on"/>
 		<index level1="&quot;unfit&quot; to reproduce" level2="descriptions of"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
+		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"/>
 		<index level1="United States" level2="birth control in"/>
 		<index level1="women" level2="health of"/>
 		<index level1="women" level2="reproductive choices and decisions"/>
@@ -57,7 +57,8 @@
 		<head>Mrs. Sanger Pleads for Sound Mind and Body for Every Child</head>
 
 
-		<p><q who="CL">It was a dramatic moment in the life of Mrs. <person
+		<p>
+			<q who="CL">It was a dramatic moment in the life of Mrs. <person
 					reg="Sanger, Margaret">Margaret Sanger</person> formerly
 				Margaret Higgins <gap extent="few words" reason="illegible"/>
 				city Tuesday evening at the <org>Baron Steuben Hotel</org> for
@@ -66,8 +67,10 @@
 				devoting her life in her <place reg="Corning, NY">home
 					town</place> before former schoolmates and friends of her
 					<gap extent="few words" reason="illegible"/> There were over
-				300 present, crowding the hotel ballroom to capacity.</q></p>
-		<p><q who="CL">While everyone dreams of leaving to their home town and
+				300 present, crowding the hotel ballroom to capacity.</q>
+		</p>
+		<p>
+			<q who="CL">While everyone dreams of leaving to their home town and
 				returning some day rich or famous to dazzle friends but seldom
 				do our dreams reach such an actual fruition as marked Margaret
 				Higgins triumphant return to her own city. Leaving her poor,
@@ -77,7 +80,8 @@
 				concerned, but more importantly, an international figure.
 				Sanger, the recipient of enviable <gap extent="few words"
 					reason="illegible"/> and a speaker of extraordinary poise,
-				charm and ability. </q></p>
+				charm and ability. </q>
+		</p>
 
 		<p><q who="CL">A slender woman whose clearly defined features are
 				crowned by a mass of auburn hair, Mrs. Sanger delivered her
@@ -261,7 +265,8 @@
 		<p>"Why do we refuse to be the dumping ground for <place>Europe</place>
 			and then let these people increase on the inside?"</p>
 
-		<p><q who="CL">Mrs. Sanger described the two danger spots of the world,
+		<p>
+			<q who="CL">Mrs. Sanger described the two danger spots of the world,
 				created by this refusal to allow immigrants.
 					<place>Japan</place> with its 65 million people living in a
 				mountainous country about the size of <place>California</place>
@@ -269,21 +274,27 @@
 				birth rate has increased so that the country has had to do what
 				the chicken does inside the egg--burst its shell. Japan is in
 					<place reg="Manchuria, China">Manchuria</place> and she's
-				there to stay.</q></p>
-		<p><q who="CL">Italy is the second such country, she said. She predicted
-				that with its rapidly increasing birth rate <place>Italy</place>
-				will some day be forced to burst and will reach over and take a
-				section of its neighbor <place>France</place>.</q>
+				there to stay.</q>
 		</p>
-		<p><q who="CL">Mrs. Sanger said that are three method of birth control:
+		<p>
+			<q who="CL">Italy is the second such country, she said. She
+				predicted that with its rapidly increasing birth rate
+					<place>Italy</place> will some day be forced to burst and
+				will reach over and take a section of its neighbor
+					<place>France</place>.</q>
+		</p>
+		<p>
+			<q who="CL">Mrs. Sanger said that are three method of birth control:
 				continence, which is approved by the <org>Roman Catholic
 					Church</org>; sterilization and mechanical or chemical means
-				of contraception.</q></p>
+				of contraception.</q>
+		</p>
 		<p>She urged that the medical profession take over the burden of the
 			third method of birth control and stated that if "the medical
 			profession had done its duty all the agitation about birth control
 			wouldn't be necessary."</p>
-		<p><q who="CL">She gave seven reasons for birth control as follows:<list>
+		<p>
+			<q who="CL">She gave seven reasons for birth control as follows:<list>
 					<item> 1. any man or woman with a transmissible disease
 						should not have children; </item>
 					<item>2. any woman having a disease like tuberculosis by
@@ -301,8 +312,10 @@
 					<item>7. people should make more of marriage, should
 						consider it as something greater than a mere means of
 						propagating the race.</item>
-				</list></q></p>
-		<p><q who="CL">Concerning the seventh reason for birth control, Mrs.
+				</list></q>
+		</p>
+		<p>
+			<q who="CL">Concerning the seventh reason for birth control, Mrs.
 				Sanger said she believed marriage to be the greatest school for
 				soul development; that it had something fundamentally
 				strengthening to offer the two adults who participating in it;
@@ -310,7 +323,8 @@
 				to know and love each other with firmer, stronger ties than
 				existed during courtship and honeymoon before they become
 				parents of children. She advocated a marriage life of two years
-				before the advent of children.</q></p>
+				before the advent of children.</q>
+		</p>
 		<p>"I want the fear of pregnancy eliminated; I want this increased
 			child-bearing of deficient children stopped; I want children to be
 			conceived in love and I want young people to look upon their bodies

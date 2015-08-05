@@ -5,7 +5,7 @@
 		<prepDate>2011/06/13 CE</prepDate>
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2011-11-28 CH correct typo</prepDate>
-		<prepDate>2014-04-01 CH clean regs</prepDate>
+		<prepDate>2014-04-01 CH clean regs</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1937-06-27">27 June 1937</docDate>
 		<docTitle>
@@ -28,7 +28,7 @@
 			"Mrs. Margaret Sanger, who coined the term <emph rend="underline">birth control</emph>
 			and put this vital health movement on the map of the world will speak to you and tell
 			why <emph rend="underline">Birth Control is Needed</emph>.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
 		<index level1="birth control" level2="distribution of information about"/>
@@ -110,9 +110,9 @@
 			legally, as a necessary part of medical practice.</p>
 		<p>Further and significant progress was made when the <org>American Medical
 				Association</org>, which represents organized medicine in this country, unanimously
-			adopted the report of its Committee to Study Contraceptive Practices. This report recommended that
-			birth control be taught in medical schools and that methods and materials be studied and
-			reported on.</p>
+			adopted the report of its Committee to Study Contraceptive Practices. This report
+			recommended that birth control be taught in medical schools and that methods and
+			materials be studied and reported on.</p>
 		<p>Thus the organized medical profession has taken a step to check harmful, unreliable
 			“over-the-counter” methods, and to make clear that birth control, to be reliable, safe,
 			and harmless, must be prescribed <emph>for</emph> the individual woman <emph

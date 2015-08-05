@@ -5,7 +5,7 @@
 		<prepDate>2014-03-12 JK initial tag</prepDate>
 		<prepDate>2014-03-19 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
-		<prepDate>2015-03-27 CH recheck tags</prepDate>
+		<prepDate>2015-03-27 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -45,7 +45,7 @@
 		<index level1="birth control" level2="suppression of"/>
 		<index level1="sex education" level2="birth control and"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
+		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"/>
 		<index level1="transmissible disease"/>
 	</headNote>
 	<docBody>
@@ -71,10 +71,10 @@
 						Control Clinical Research Bureau</org>, she said.</q>
 			</p>
 			<p>“El Paso people are the first in the <place>United States</place>
-				to take advantage of the December 7, <org			
-					>United States Circuit Court of Appeals</org> ruling that
-				physicians might send contraceptives by mail--an act considered
-				hitherto illegal,”<q who="EPT"> Mrs. Sanger said.</q>
+				to take advantage of the December 7, <org>United States Circuit
+					Court of Appeals</org> ruling that physicians might send
+				contraceptives by mail--an act considered hitherto illegal,”<q
+					who="EPT"> Mrs. Sanger said.</q>
 			</p>
 			<p>“Birth Control is conscious means of control that prevents the
 				conception of life, and people who say ‘murderer or killer,’ are

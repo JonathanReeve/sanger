@@ -6,7 +6,7 @@
 		<prepDate>2014/02/11 CH proof tags</prepDate>
 		<prepDate>2014/02/12 VS correct tags</prepDate>
 		<prepDate>2014-11-12 CH clean regs</prepDate>
-		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<prepDate>2015-03-13 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -113,7 +113,7 @@
 		<index level1="Netherlands, the" level2="birth control clinics in"/>
 		<index level1="physically disabled and diseased" level2="birth control and"/>
 		<index level1="physicians" level2="birth control and"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
+		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"/>
 		<index level1="working classes" level2="birth control and"/>
 	</headNote>
 	<docBody>
@@ -203,10 +203,10 @@
 			differs considerably even from the neo-Malthusian movement in <place>England</place>,
 			began after the publication written by a doctor in <place reg="Boston, MA"
 				>Boston</place>, Dr. <person reg="Knowlton, Charles">Knowlton</person>. That <title
-				type="book" reg="The Fruits of Philosophy">pamphlet</title>, the first one I believe,
-			was published in 1833, went its way around the world for more than 40 years. I don’t
-			quite know what effect the information in that pamphlet had upon the birth rate, but
-			nothing particularly striking happened until 1877, when it found its way into a
+				type="book" reg="The Fruits of Philosophy">pamphlet</title>, the first one I
+			believe, was published in 1833, went its way around the world for more than 40 years. I
+			don’t quite know what effect the information in that pamphlet had upon the birth rate,
+			but nothing particularly striking happened until 1877, when it found its way into a
 			bookseller’s shop in England in <place reg="Bristol, England">Bristol</place>, and it
 			came just about the time when there were a few champions of the freedom of the press and
 			freedom of speech, <person reg="Bradlaugh, Charles">Charles Bradlaugh</person> and

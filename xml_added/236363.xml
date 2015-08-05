@@ -3,7 +3,7 @@
 <doc type="Autograph draft speech">
 	<mepHeader>
 		<prepDate>2014-05-07 JK initial tag</prepDate>
-		<prepDate>2015-03-17 CH recheck tags</prepDate>
+		<prepDate>2015-03-17 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -34,7 +34,7 @@
 			level3="1930"/>
 		<index level1="eugenics" level2="MS on"/>
 		<index level1="&quot;unfit&quot; to reproduce" level2="MS on"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
+		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"/>
 		<index level1="United States" level2="birth control in"/>
 		<index level1="Catholic Church" level2="birth control and"/>
 		<index level1="birth rate" level2="efforts to reduce"/>
@@ -112,13 +112,13 @@
 			<org reg="White House Conference on Child Health and Protection">White House Conference,
 				1930</org>
 		</p>
-		<p><unclear>[unclear number]</unclear> million handicapped children in <place
+		<p><unclear resp="MSPP">[unclear number]</unclear> million handicapped children in <place
 				reg="United States">U.S.A.</place></p>
 		<p><gap extent="number" reason="illegible"/> infant deaths. 90% poverty &amp; neglect</p>
 		<p><gap extent="one word" reason="illegible"/> nurseries, milk stations, mental, post natal
 			clinics. </p>
 		<p>nurses &amp; social workers to deal with environment.</p>
-		<p><unclear>[unclear]</unclear> effort to instruct mothers often how to avoid the 11th.</p>
+		<p><unclear resp="MSPP">[unclear]</unclear> effort to instruct mothers often how to avoid the 11th.</p>
 		<p> 200,000 infants 90% poverty &amp; neglect</p>
 		<p>
 			<org reg="United States Children's Bureau">Children's Bureau Dept. of Labor</org>
@@ -134,7 +134,7 @@
 		<p>60% of 12th babies die - waste of vitality</p>
 		<p>Over 250,000 children are being cared for in institutions. Applications for twice that
 			number was then room to care for them.</p>
-		<p>50 years of compulsory care of children, education, <unclear>[unclear]</unclear> offices,
+		<p>50 years of compulsory care of children, education, <unclear resp="MSPP">[unclear]</unclear> offices,
 			juvenile courts,</p>
 		<p> see indications that parents are unequal to the tasks of producing proper guidance for
 			their own uncontrolled fertility.</p>

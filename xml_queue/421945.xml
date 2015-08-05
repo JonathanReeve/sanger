@@ -24,7 +24,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This article posed several questions and invited responses from its readers. Only Sanger's response has been included here.</p>
+		<p>This article posed several questions and invited responses from its readers. Only
+			Sanger's response has been included here.</p>
 		<index level1="race progress"/>
 		<index level1="war" level2="and marriage"/>
 		<index level1="war" level2="MS on"/>
@@ -44,8 +45,7 @@
 					the race shall not lose in perpetuation by their going?</q>
 			</p>
 			<p>
-				<q who="SLT"> This is a big new question hurled into the midst of <place
-						reg="United States">America</place>’s preparation for war, touching most
+				<q who="SLT"> This is a big new question hurled into the midst of America’s preparation for war, touching most
 					intimately the future of every unmarried man sent to the front and beating at
 					the heart strings of every unmarried young woman who watches the troops march
 					away wed.</q>
@@ -95,7 +95,7 @@
 				<q who="SLT"> Forbes is a grandson of <person reg="Emerson, Ralph Waldo">Ralph Waldo
 						Emerson</person>, formerly was head of the financial department of
 						<org>Stone and Webster</org>, a big electrical engineering firm, has been
-					connected in important capacities with probably half a hundred <place>New
+					connected in important capacities with probably half a hundred <place reg="United States, New England">New
 						England</place> corporations and is something of a poet and a writer.</q>
 			</p>
 			<p>

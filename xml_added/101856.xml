@@ -6,7 +6,7 @@
 		<prepDate>2007/09/04 CH Corrections</prepDate>
 		<prepDate>2014/03/05 EK cleanup</prepDate>
 		<prepDate>2015-02-19 CH proof tags and correct</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -37,7 +37,7 @@
 		<index level1="birth control" level2="laws and legislation"
 			level3="Postal Code and Regulations"/>
 		<index level1="physicians"/>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="birth control" level2="movement"/>
 		<index level1="birth control" level2="definitions of"/>
 		<index level1="birth control" level2="socioeconomic benefits of"/>

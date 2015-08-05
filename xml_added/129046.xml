@@ -6,7 +6,7 @@
 		<prepDate>2011/11/28 CH correct types</prepDate>
 		<prepDate>2011/11/30 CH Correct typo</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,7 +30,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Handwritten additions are by Margaret Sanger.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
 		<index level1="birth control" level2="health benefits and risks"/>
@@ -153,10 +153,10 @@
 			to the 20-million class. It is that enormous group of feeble-minded that gives concern
 			to those of us who are socially minded.</p>
 		<p>Many of us remember the two famous families, the <person reg="Kallikak Family"
-				>Kallikaks</person> and the <person reg="Jukes Family">Jukes</person>. The first started by a
-			feeble-minded man marrying a normal woman. We know that two feeble-minded persons have
-			never been known to bring to birth a normal child, but here we started with a normal
-			woman. 470 of their descendants were normal: 143 were feeble-minded: 36 were
+				>Kallikaks</person> and the <person reg="Jukes Family">Jukes</person>. The first
+			started by a feeble-minded man marrying a normal woman. We know that two feeble-minded
+			persons have never been known to bring to birth a normal child, but here we started with
+			a normal woman. 470 of their descendants were normal: 143 were feeble-minded: 36 were
 			illegitimate; three were epileptics: 83 died in infancy: three were criminals and
 			twenty-four died in houses of ill fame.</p>
 		<p>The Jukes family had 1200 descendants; of these 130 were professional paupers; 135 were

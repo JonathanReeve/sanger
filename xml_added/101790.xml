@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-05-07 JK initial tag</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -39,7 +39,7 @@
 			level2="birth control and"/>
 		<index level1="mentally disabled and diseased" level2="fertility of"/>
 		<index level1="poverty" level2="family size and"/>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="motherhood"/>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rates" level2="maternal"/>
@@ -58,9 +58,9 @@
 			children; while people of wealth, leisure and education are having
 			small families.</p>
 		<p>It is generally conceded by sociologists and scientists that a nation
-			cannot go on indefinitely multiplying without eventually reaching the
-			point when population presses upon means of subsistence. While in
-			this country there is perhaps no need for immediate alarm on this
+			cannot go on indefinitely multiplying without eventually reaching
+			the point when population presses upon means of subsistence. While
+			in this country there is perhaps no need for immediate alarm on this
 			account, there are many other reasons for demanding Birth Control.
 			At present for the poor mother there is only one alternative from
 			the necessity of bearing children year after year, regardless of her

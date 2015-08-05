@@ -5,7 +5,7 @@
 		<prepDate>2009/08/04 LL</prepDate>
 		<prepDate>2009/08/06 CH proof and correct</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -37,7 +37,7 @@
 		<index level1="birth control" level2="in marriages"/>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="birth control" level2="religion and"/>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="conception" level2="definition of"/>
 	</headNote>
 	<docBody>

@@ -5,7 +5,7 @@
 		<prepDate>2011/05/24 CE</prepDate>
 		<prepDate>2011/06/21 CE Corrections</prepDate>
 		<prepDate>2014-03-30 CH clean regs</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-08-05 CH clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -46,13 +46,13 @@
 				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
 		<p>For typewritten drafts see Margaret Sanger Microfilm, Smith College Collections S72:368
 			and Library of Congress Microfilm 129:94, 99B and 101.</p>
-		<index level1="African Americans" level2="birth control and"/>
-		<index level1="birth control clinics and leagues" level2="in Europe"/>
-		<index level1="birth control clinics and leagues" level2="in United States"/>
+		<index level1="African-Americans" level2="and birth control"/>
+		<index level1="Europe" level2="birth control clinics"/>
+		<index level1="United States" level2="birth control clinics and leagues"/>
 		<index level1="Connecticut" level2="birth control in"/>
 		<index level1="Massachusetts" level2="birth control in"/>
 		<index level1="Birth Control Federation of America"/>
-		<index level1="birth control" level2="legalization of"/>
+		<index level1="birth control laws and legislation"/>
 		<index level1="birth control" level2="medical community and"/>
 		<index level1="birth control methods" level2="efficacy of"/>
 		<index level1="birth control methods" level2="research on"/>

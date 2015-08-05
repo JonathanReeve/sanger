@@ -7,7 +7,7 @@
 		<prepDate>2004/08/09 CH</prepDate>
 		<prepDate>2007/08/28 CH Oxygen Update</prepDate>
 		<prepDate>2014-03-5 CH clean regs</prepDate>
-		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,7 +15,9 @@
 			<supplied resp="MSPP">23 Aug 1919</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Prudence or Prudery in Sex Matters, Part I</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Prudence or Prudery in Sex Matters, Part I</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp302881</idno>
 		<sourceDesc>
@@ -33,7 +35,7 @@
 					No?</title></xref>," Sept. 20, 1919. Sanger also wrote another article in the
 			series on <xref from="304453.xml">Oct. 4,1919</xref>.</p>
 		<p>The article was introduced by a brief editorial identification of Margaret Sanger.</p>
-		<index level1="abortion" level2="birth control vs."/>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="abortion" level2="frequency of"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="Hirsch, Max"/>

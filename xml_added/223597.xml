@@ -10,6 +10,7 @@
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2014-12-18 CH Proof tags and enter</prepDate>
 		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-08-05 CH clean up index terms</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -32,7 +33,7 @@
 	<headNote resp="MSPP">
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="Netherlands" level2="birth control in"/>
-		<index level1="abortion" level2="health risks of"/>
+		<index level1="abortion" level2="health risks"/>
 		<index level1="client letters"/>
 		<index level1="working classes" level2="birth control and"/>
 		<index level1="women" level2="enslavement of"/>
@@ -53,14 +54,15 @@
 				not injure the health of either the man or the woman.</p>
 			<p>Among these eminent authorities may be included such men as Dr. <person
 					reg="Ellis, Havelock">Havelock Ellis</person>, Dr. <person reg="Treub, Hector"
-					>Hector Treub</person>, Professor <person reg="Forel, Auguste-Henri">Forel</person>,
-				Dr. <person reg="Bloch, Iwan">Iwan Bloch</person>, Dr. <person reg="Nystrom, Anton"
-					>Anton Nystrom</person>, Dr. <person reg="Jacobi, Abraham">A. Jacoby</person>,
-				formerly President of the <org>American Medical Association</org>, and Dr. <person
-					reg="Robinson, William J.">William J. Robinson</person>, who, in his book on the
-					"<title type="book">Limitation of Offspring</title>" challenges any physician or
-				gynecologist to produce "<q who="ROBWI">a single case</q>," in which disease or
-				injury resulted from modern methods of birth control.</p>
+					>Hector Treub</person>, Professor <person reg="Forel, Auguste-Henri"
+					>Forel</person>, Dr. <person reg="Bloch, Iwan">Iwan Bloch</person>, Dr. <person
+					reg="Nystrom, Anton">Anton Nystrom</person>, Dr. <person reg="Jacobi, Abraham"
+					>A. Jacoby</person>, formerly President of the <org>American Medical
+					Association</org>, and Dr. <person reg="Robinson, William J.">William J.
+					Robinson</person>, who, in his book on the "<title type="book">Limitation of
+					Offspring</title>" challenges any physician or gynecologist to produce "<q
+					who="ROBWI">a single case</q>," in which disease or injury resulted from modern
+				methods of birth control.</p>
 			<p>Not only are we fortunate in possessing the opinions of the best known medical
 				authorities, but we are also fortunate in possessing historical facts collected in
 					<place reg="Netherlands">Holland</place> and <place>New Zealand</place>, where

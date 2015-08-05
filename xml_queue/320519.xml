@@ -5,7 +5,7 @@
 		<prepDate>2011-07-22 NC</prepDate>
 		<prepDate>2011/08/18 EK</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
-		<prepDate>2015-04-09 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-09 CH proof tags and enter</prepDate><prepDate>2015-08-05 CH cleanup index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -21,15 +21,15 @@
 	<headNote resp="MSPP">
 		<p>For a draft version see Margaret Sanger Microfilm, Smith College Collections S72:585.</p>
 		<index level1="family planning"/>
-		<index level1="population growth" level2="natural resources and"/>
+		<index level1="population size" level2="natural resources and"/>
 		<index level1="parenthood"/>
-		<index level1="birth control" level2="movement" level3="MS on"/>
+		<index level1="birth control movement" level2="MS on"/>
 		<index level1="Brownsville Clinic"/>
-		<index level1="African-Americans" level2="maternal mortality rates among"/>
-		<index level1="African-Americans" level2="infant mortality rates among"/>
-		<index level1="Puerto Rico" level2="maternal mortality rates in"/>
+		<index level1="mortality rates" level2="maternal" level3="African-American"/>
+		<index level1="mortality rates" level2="infant" level3="African-American"/>
+		<index level1="mortality rates" level2="maternal" level3="Puerto Rico"/>
 		<index level1="birth control" level2="access to"/>
-		<index level1="public health" level2="birth control and"/>
+		<index level1="birth control" level2="and public health"/>
 	</headNote>
 	<docBody>
 		<head>A Question of Privilege</head>

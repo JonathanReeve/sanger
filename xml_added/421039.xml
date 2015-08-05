@@ -6,6 +6,7 @@
 		<prepDate>2014-03-19 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
 		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,35 +32,39 @@
 			<name id="CHIMA">Chinn, May</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p><person reg="Sanger, Margaret">Sanger </person>gave
-			a speech on Oct. 10, 1929 at the <org reg="New York Urban League"
-				>New York Urban League</org>. The complete speech was not found. </p>
-		<index level1="birth control clinics and leagues" level2="in US"/>
-		<index level1="motherhood"/>
+	<headNote resp="MSPP">
+		<p><person reg="Sanger, Margaret">Sanger </person>gave a speech on Oct.
+			10, 1929 at the <org reg="New York Urban League">New York Urban
+				League</org>. The complete speech was not found. </p>
+		<index level1="United States" level2="birth control clinics"/>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rates" level2="maternal"/>
-		<index level1="African-Americans" level2="birth control and"/>
+		<index level1="African-Americans" level2="and birth control"/>
 		<index level1="African-Americans" level2="discrimination of"/>
-		<index level1="African-Americans" level2="infant mortality rates of"/>
-		<index level1="African-Americans" level2="maternal mortality rates of"/>
-		<index level1="birth control" level2="in New York"/>
-		<index level1="birth control" level2="distribution of information about"/>
+		<index level1="mortality rates" level2="infant" level3="African-American"/>
+		<index level1="mortality rates" level2="maternal" level3="African-American"/>
+		<index level1="New York" level2="birth control in"/>
+		<index level1="birth control" level2="distribution of information"/>
 		<index level1="birth control clinics and leagues"/>
 	</headNote>
 	<docBody>
 		<head>Mrs. Margaret Sanger's Move Assures Birth Control Clinic for
 			Harlemites</head>
-		
-		<p><q who="NYAN">Social workers of <place reg="New York, NY">Harlem</place>, in a
-				meeting Thursday evening in the assembly room of the New York
-				Urban League, 202 West 136th Street, endorsed the movement
-				headed by Margaret Sanger, white, to establish a birth control
-				clinic in Harlem.</q> </p>
-		<p><q who="NYAN"> Mrs. Sanger, internationally known authority on birth control,
-				in outlining plans for the establishment of such a clinic in
-				Harlem, spoke first of the need in Harlem for such an
-				institution.</q> </p>
-		
+
+		<p>
+			<q who="NYAN">Social workers of <place reg="New York, NY"
+					>Harlem</place>, in a meeting Thursday evening in the
+				assembly room of the New York Urban League, 202 West 136th
+				Street, endorsed the movement headed by Margaret Sanger, white,
+				to establish a birth control clinic in Harlem.</q>
+		</p>
+		<p>
+			<q who="NYAN"> Mrs. Sanger, internationally known authority on birth
+				control, in outlining plans for the establishment of such a
+				clinic in Harlem, spoke first of the need in Harlem for such an
+				institution.</q>
+		</p>
+
 		<p>“Many mothers,” <q who="NYAN">she said,</q> “complain that the <org
 				reg="Birth Control Clinical Research Bureau">Fifteenth street
 				clinic</org> is too far from their homes to be conveniently

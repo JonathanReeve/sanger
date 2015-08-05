@@ -3,7 +3,7 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2015-01-06 CH transcribed and encoded</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,8 +28,7 @@
 		<p>Sanger delivered this speech during the <org>National Conference of Charities and
 				Correction</org>, held at the <org>Claypool Hotel</org> in <place
 				reg="Indianapolis, IN">Indianapolis</place>. </p>
-		<index level1="abortion" level2="illegal"/>
-		<index level1="birth control" level2="class-based"/>
+				<index level1="birth control" level2="class-based"/>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rate" level2="maternal"/>
 		<index level1="motherhood" level2="MS on"/>
@@ -106,8 +105,8 @@
 				women's morals--but the guarding of women's morals is nothing but an age-old cloak
 				to keep her in bondage. The time has come to stop quibbling. When education for
 				women was first begun it had this same opposition and on the same grounds--but
-				education has not impaired women's moral standards and we would find that a knowledge
-				of birth control would not impair them.</p>
+				education has not impaired women's moral standards and we would find that a
+				knowledge of birth control would not impair them.</p>
 			<p>"The insane asylums and feeble-minded institutes are huge monuments to reckless
 				breeding. It is a fact that a great percentage of prostitutes come from families of
 				eight or nine children, who were unable to care for the children once they had
@@ -153,9 +152,9 @@
 					reg="Lincoln, Abraham">Abraham Lincoln</person>--there was only one of him."</p>
 			<p>
 				<q who="IS">Up rose another opponent and asked how about the passage in the Bible
-					where the <name type="deity">Lord</name> told <person
-						reg="Adam (Biblical)">Adam</person> to go forth and replenish, the
-					reply to this was that Adam had the whole earth to himself.</q>
+					where the <name type="deity">Lord</name> told <person reg="Adam (Biblical)"
+						>Adam</person> to go forth and replenish, the reply to this was that Adam
+					had the whole earth to himself.</q>
 			</p>
 			<p>
 				<q who="IS">Each answer in favor of the birth control brought forth loud and

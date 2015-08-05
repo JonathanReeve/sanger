@@ -9,7 +9,7 @@
 		<prepDate>2014-03-11 CH clearn regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
 		<prepDate>2015-06-16 EK update index</prepDate>
-		<prepDate>2015-07-28 CH clean up attributes and title</prepDate>
+		<prepDate>2015-07-28 CH clean up attributes and title</prepDate><prepDate>2015-08-05 CH clean up names</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -154,12 +154,14 @@
 		<p>"<q who="NIEFR">There is a morality of Master &amp; a Morality of Slaves-- Moral values
 				have been determined either by a race of masters, conscious &amp; proud of the
 				distance that separates them from the ruled race--or by a crowd of subjegated ones,
-				slaves, inferiors of all kinds."</q> page 120 <title type="book" reg="The Gospel Of Superman">Gospel</title>.</p>
+				slaves, inferiors of all kinds."</q> page 120 <title type="book"
+				reg="The Gospel Of Superman">Gospel</title>.</p>
 		<p><q who="NIEFR">Man must retain all the knowledge aptitudes &amp; new strength acquired in
 				the course of his long &amp; painful experience but he must break up the <add>tablet
 					of</add> laws which at present hinder him in his march forward--he must renounce
 				the present historical values, the Christian, democratic, ascetic ideal, &amp;
-				create Master values of his own.</q> page 174 <title type="book" reg="The Gospel Of Superman">Gospel</title>.</p>
+				create Master values of his own.</q> page 174 <title type="book"
+				reg="The Gospel Of Superman">Gospel</title>.</p>
 		<p>Power of laughter (a secret unknown) page 204 -- <q who="NIEFR">"Free dost thou call
 				thyself.</q>"</p>
 		<p>Nietzsche--what he taught the worker</p>
@@ -181,7 +183,7 @@
 		<p>One can scarcely separate a mans personality from his life--neither can we separate it
 			from his teachings.</p>
 		<p>As a Philosopher--the government has always tended to capture &amp; employ the
-			Philosopher of its age, but what State would patronise <person>Plato</person> or
+			Philosopher of its age, but what State would patronise <person reg="Plato (Greek)">Plato</person> or
 			Schopenhauer.</p>
 		<p>When you get to the Library get some of the works on Nietzsche-- You will understand the
 			coming generation and what is in the air today when you have read &amp; grasped his

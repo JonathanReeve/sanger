@@ -9,7 +9,7 @@
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-12 CH cleaning errors/regs</prepDate>
 		<prepDate>2014/05/16 CH added link to news version.</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-08-05 CH cleanup index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,7 +31,7 @@
 	<headNote resp="MSPP">
 		<p>For a news report of the Elizabeth City speech see "<xref from="422004.xml">Speech at the
 				Alkrama Hotel</xref>," Nov. 2, 1919.</p>
-		<index level1="African-Americans" level2="birth control and"/>
+		<index level1="African-Americans" level2="and birth control"/>
 		<index level1="birth control" level2="clinics and leagues" level3="establishment of"/>
 		<index level1="birth control" level2="opposition to"/>
 		<index level1="League of Women Voters" level2="birth control and"/>

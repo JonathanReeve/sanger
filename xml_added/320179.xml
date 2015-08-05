@@ -10,7 +10,7 @@
 		<prepDate>2007/08/28 CH Oxygen update/Has images</prepDate>
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-06 CH recheck tags</prepDate>
+		<prepDate>2015-03-06 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -37,10 +37,10 @@
 				Limitation</xref>, 17th edition, ca. 1927, and a draft of revisions for <xref
 				from="129001.xml">Family Limitation</xref>, ca. 1936. For additional editions, see
 			the Margaret Sanger Microfilm, Smith College Collections, Collected Documents Series and
-			Library of Congress Microfilm.</p><p>Pages 18-19 of this text were missing from the
-			original; the text has been replaced with that of the 2nd English edition, which was
-			based on the American 9th edition.</p>
-		<index level1="abortion" level2="birth control vs."/>
+			Library of Congress Microfilm.</p>
+		<p>Pages 18-19 of this text were missing from the original; the text has been replaced with
+			that of the 2nd English edition, which was based on the American 9th edition.</p>
+		<index level1="abortion" level2="birth control and"/>
 		<index level1="abortion" level2="MS on"/>
 		<index level1="working classes" level2="birth control and"/>
 		<index level1="birth control" level2="health benefits and risks"/>
