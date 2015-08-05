@@ -5,7 +5,8 @@
 		<prepDate>2010/03/02 AC</prepDate>
 		<prepDate>2014-03-11 CH clean regs</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-20 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -24,13 +25,12 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="abortion" level2="in Soviet Union"/>
 		<index level1="birth control" level2="access to"/>
-		<index level1="birth control" level2="clinics and leagues"/>
-		<index level1="birth control" level2="distribution of information about"/>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="birth control" level2="distribution of information"/>
 		<index level1="Russia" level2="abortion in"/>
-		<index level1="birth rate" level2="population growth and"/>
-		<index level1="women" level2="treatment of" level3="in Soviet Union"/>
+		<index level1="birth rate" level2="increase in"/>
+		<index level1="Russia" level2="women in"/>
 	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL IN <place reg="Soviet Union">SOVIET RUSSIA</place></head>

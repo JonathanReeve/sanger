@@ -9,7 +9,8 @@
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2014-12-18 CH Proof tags and enter</prepDate>
-		<prepDate>2015-03-04 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up index terms</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-08-05 CH clean up index terms</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -32,7 +33,7 @@
 	<headNote resp="MSPP">
 		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="Netherlands" level2="birth control in"/>
-		<index level1="abortion" level2="health risk"/>
+		<index level1="abortion" level2="health risks"/>
 		<index level1="client letters"/>
 		<index level1="working classes" level2="birth control and"/>
 		<index level1="women" level2="enslavement of"/>
