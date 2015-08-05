@@ -7,7 +7,8 @@
 		<prepDate>2012-05-30 AW Corrected tags</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-04-13 EK correct proof and update index</prepDate><prepDate>2015-06-09 CH fixed Netherland</prepDate>
+		<prepDate>2015-04-13 EK correct proof and update index</prepDate>
+		<prepDate>2015-06-09 CH fixed Netherland</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -25,7 +26,7 @@
 			<bibl>Library of Congress Microfilm 20:0385</bibl>
 		</sourceDesc>
 		<respStmt>
-			<name id="BERFR">Bernhardi, Friedrich von</name>
+			<name id="BERFR">Von Bernhardi, Friedrich</name>
 			<name id="DIXAR">Dix, Arthur</name>
 			<name id="ALBWI">Wirth, Albrecht</name>
 			<name id="FRYDA">Frymann, Daniel</name>
@@ -133,7 +134,7 @@
 				was put forward by German militarist writers as a justification for war. Their
 				slogan was “<q who="BERFR">biological necessity,</q>” and it was accepted as an
 				article of faith by the German people.</p>
-			<p>General <person reg="Bernhardi, Friedrich von">von Bernhardi</person>, in his book
+			<p>General <person reg="Von Bernhardi, Friedrich">von Bernhardi</person>, in his book
 				entitled "<title type="book">Germany and the Next War</title>," published in 1911,
 				says:</p>
 			<p rend="blockquote">
@@ -165,14 +166,13 @@
 					for territory.</q>
 			</p>
 			<p>The birth rate, in spite of its decline in the last few decades, is still too high in
-				every country of Europe, with the possible exception of <place
-					reg="Netherlands">Holland</place>, to permit of adequate provision for
-				all the newcomers. Consequently the death rates continue high and there is a greater
-				or less proportion of the population in nearly every country in a state of chronic
-				destitution. In eastern nations such as <place>India</place> and
-					<place>China</place>, with their enormous birth rates, the death rates are
-				appalling, indicating a constant state of semi-starvation in the great mass of the
-				people. </p>
+				every country of Europe, with the possible exception of <place reg="Netherlands"
+					>Holland</place>, to permit of adequate provision for all the newcomers.
+				Consequently the death rates continue high and there is a greater or less proportion
+				of the population in nearly every country in a state of chronic destitution. In
+				eastern nations such as <place>India</place> and <place>China</place>, with their
+				enormous birth rates, the death rates are appalling, indicating a constant state of
+				semi-starvation in the great mass of the people. </p>
 			<p>Asia’s population today is estimated at 900,000,000. In the past the evil of
 				over-population was countered by war, misgovernment, pestilence and famine. During
 				the last century, however, most of <place>Asia</place> has come under European
@@ -199,7 +199,7 @@
 			<p>Let the situation develop naturally and the only relief for the overpopulation of the
 				world lies in wars of the strong against the weak for a place in the sun, in
 				pestilence and other great disasters, and in the inevitable increase in the disease
-				rate and the death rate that are <unclear>consequences</unclear> of the degradation
+				rate and the death rate that are <unclear resp="MSPP">consequences</unclear> of the degradation
 				and misery of overpopulation.</p>
 		</div>
 		<div>

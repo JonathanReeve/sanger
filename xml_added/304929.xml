@@ -9,7 +9,7 @@
 		<prepDate>2014-03-05 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-03-18 EK update index</prepDate>
-			<docAuthor>
+		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1913-04-13">13 Apr 1913</docDate>
@@ -37,15 +37,14 @@
 		<head>WITH THE GIRLS IN HAZLETON JAIL</head>
 		<byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
 		<div type="section">
-			<p>When eighteen girls of the <org reg="Duplan Silk Corporation">Duplin Silk Mill</org> of <place reg="Hazleton, PA"
-					>Hazleton, Pa.</place>, were put into a patrol wagon and thrown into filthy
-				cells a week ago last Tuesday morning, we all questioned ourselves closely to think
-				what we had done. We had been on the picket line, walking along quietly, when two
-				mounted policemen called out to us: "<q who="UNK">Stop!</q>" Then they added: "<q
-					who="UNK">We'll take them all in.</q>"</p>
+			<p>When eighteen girls of the <org reg="Duplan Silk Corporation">Duplin Silk Mill</org>
+				of <place reg="Hazleton, PA">Hazleton, Pa.</place>, were put into a patrol wagon and
+				thrown into filthy cells a week ago last Tuesday morning, we all questioned
+				ourselves closely to think what we had done. We had been on the picket line, walking
+				along quietly, when two mounted policemen called out to us: "<q who="UNK">Stop!</q>"
+				Then they added: "<q who="UNK">We'll take them all in.</q>"</p>
 			<p>The <person reg="Heidenreich, Henry">acting Mayor</person> tried the cases, and
-				charged us with "loitering on the streets." The <person reg="Unknown"
-					>officer</person> said we had loitered after he had told us to stop. However, we
+				charged us with "loitering on the streets." The officer said we had loitered after he had told us to stop. However, we
 				all took our time to serve from three to eight days--those walking with me got five
 				days, like myself, while second offenders got eight days. </p>
 			<p>We were placed in filthy cells, two and three together.</p>
@@ -58,7 +57,7 @@
 				or covering of any kind; no comb, brush, soap, towel or anything for the ordinary
 				decency of the prisoner is allowed her. Nor may any food from outside be carried
 				within.</p>
-			<p>Before being tried before the <person reg="Unknown">judge</person>, we were all
+			<p>Before being tried before the judge, we were all
 				thrown together in the cell corridor. The girls pounded on the gates for a drink of
 				water. The keeper gave a pitcher of water to the girls and they all drank it
 				hastily, until one of them spied a large dead roach in the bottom of the pitcher.

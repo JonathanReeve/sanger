@@ -9,15 +9,18 @@
 		<prepDate>2013-04-30 CH fix links</prepDate>
 		<prepDate>2014-07-02 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1913-02-02">2 Feb 1913</docDate>
 		<docTitle>
-			<titlePart>What Every Girl Should Know, Part XI</titlePart>
+			<titlePart>What Every Girl Should Know, Part XI, </titlePart>
 		</docTitle>
 		<idno>msp304927</idno>
 		<sourceDesc>
 			<bibl><title type="journal">New York Call</title>, Feb. 2, 1913, 15</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title> C16:0057</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
+				C16:0057</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -26,19 +29,20 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>This is the eleventh article in an 12-part series. 
-		For Part I, "Introduction" see<xref from="304533.xml">Nov. 17, 1912</xref>,
-		for Part II, "Girlhood, 1," see <xref from="300177.xml">Nov. 24, 1912</xref>,
-		for Part III, "Girlhood, 2" see <xref from="303438.xml">Dec. 1, 1912</xref>, 
-		for Part IV, "Puberty, 1" see<xref from="304920.xml">Dec. 8, 1912</xref>, 
-		for Part V,"Puberty 2" see <xref from="304921.xml">Dec. 15, 1912</xref>, 
-		for Part VI "Sexual Impulse, 1" see <xref from="304922.xml">Dec. 22, 1912,</xref>,
-		for Part VII, "Sexual Impulse, 2" see <xref from="304923.xml">Dec. 29, 1912</xref>, 
-		for Part VIII, "Reproduction, 1," see <xref from="304924.xml">Jan. 2, 1913</xref>,
-		for Part IX, "Reproduction, 2" see <xref from="304925.xml">Jan. 19, 1913</xref>,
-		for Part X, "Some Consequences of Ignorance and Silence, 1," see <xref from="304926.xml">Jan. 26, 1913</xref> 
-		for Part XII, "Some Consequences of Ignorance and Silence, 3" see <xref from="304928.xml">Mar. 2, 1913.</xref></p>
-			<index level1="sex education"/>
+		<p>This is the eleventh article in an 12-part series. For Part I, "Introduction" see<xref
+				from="304533.xml">Nov. 17, 1912</xref>, for Part II, "Girlhood, 1," see <xref
+				from="300177.xml">Nov. 24, 1912</xref>, for Part III, "Girlhood, 2" see <xref
+				from="303438.xml">Dec. 1, 1912</xref>, for Part IV, "Puberty, 1" see<xref
+				from="304920.xml">Dec. 8, 1912</xref>, for Part V,"Puberty 2" see <xref
+				from="304921.xml">Dec. 15, 1912</xref>, for Part VI "Sexual Impulse, 1" see <xref
+				from="304922.xml">Dec. 22, 1912,</xref>, for Part VII, "Sexual Impulse, 2" see <xref
+				from="304923.xml">Dec. 29, 1912</xref>, for Part VIII, "Rreproduction, 1," see <xref
+				from="304924.xml">Jan. 2, 1913</xref>, for Part IX, "Reproduction, 2" see <xref
+				from="304925.xml">Jan. 19, 1913</xref>, for Part X, "Some Consequences of Ignorance
+			and Silence, 1," see <xref from="304926.xml">Jan. 26, 1913</xref> for Part XII, "Some
+			Consequences of Ignorance and Silence, 3" see <xref from="304928.xml">Mar. 2,
+				1913.</xref></p>
+		<index level1="sex education"/>
 		<index level1="physicians"/>
 		<index level1="venereal disease"/>
 		<index level1="adolescence"/>
@@ -139,7 +143,7 @@
 		<p>That both the <place>United States</place> army and navy give out special instructions to
 			the soldiers and sailors to enable them to avoid infection so far as possible is now
 			generally known.</p>
-		<p>A story is told of a young <person reg="Unknown">Irish physician</person>, who, being
+		<p>A story is told of a young Irish physician, who, being
 			asked how he treated gonorrhea, replied most tersely, "<q who="UNK">with contempt</q>."
 			That this was for a time a general feeling is agreed, but with the knowledge that so
 			many persons, especially women, contract the disease under the moral, as well as legal,
