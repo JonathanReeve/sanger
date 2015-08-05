@@ -4,8 +4,10 @@
 	<mepHeader>
 		<prepDate>2011/06/21 CE</prepDate>
 		<prepDate>2014-03-26 Ch clean regs</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-06-05">05 June 1928</docDate>
 		<docTitle>
 			<titlePart>A Program of Contraceptive Research</titlePart>
@@ -18,7 +20,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="abortion" level2="frequency of"/>
-		<index level1="abortion" level2="health risks of"/>
+		<index level1="abortion" level2="health risks"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
 		<index level1="Birth Control Clinical Research Bureau" level2="records of"/>

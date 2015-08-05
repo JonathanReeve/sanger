@@ -29,9 +29,9 @@
 	<headNote resp="MSPP">
 		<p>For an earlier draft titled "<title type="journal">Children of Tomorrow's
 			World.</title>," see Margaret Sanger Microfilm, Smith College Collections S72:380.</p>
-		<index level1="birth control" level2="and war"/>
+		<index level1="war" level2="and birth control"/>
 		<index level1="birth control" level2="population and"/>
-		<index level1="African-Americans" level2="birth control and"/>
+		<index level1="African-Americans" level2="and birth control"/>
 		<index level1="population" level2="war and"/>
 		<index level1="population growth" level2="natural resources and"/>
 		<index level1="population growth" level2="regulation of"/>
@@ -42,7 +42,7 @@
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rates" level2="maternal"/>
 		<index level1="child spacing"/>
-		<index level1="German" level2="pro-natalism in"/>
+		<index level1="Germany" level2="pro-natalism in"/>
 		<index level1="Germany" level2="population policies of"/>
 		<index level1="China" level2="birth rate in"/>
 		<index level1="India" level2="mortality rates" level3="infant"/>
@@ -170,8 +170,9 @@
 			United States.</p>
 		<p>There isn’t much in life for him anyway but work and worry about his family, so why
 			should it be prolonged?</p>
-		<p>Sir <person reg="Megaw, John Wallace">John Megaw</person>, ex-Director General of the <org>Indian
-				Medical Service</org>, has stated with regard to the problem in India:</p>
+		<p>Sir <person reg="Megaw, John Wallace">John Megaw</person>, ex-Director General of the
+				<org>Indian Medical Service</org>, has stated with regard to the problem in
+			India:</p>
 		<p>“<q who="MEGJO">Suppose for a moment the public health services of India were to achieve
 				a complete success in stamping out malaria, cholera, smallpox, tuberculosis and all
 				other great killing diseases of India, and suppose nothing were done to increase the

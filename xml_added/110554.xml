@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2013/11/20 JK encoded</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -24,7 +24,7 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="birth control" level2="international"/>
-		<index level1="abortion" level2="in Soviet Union"/>
+		<index level1="Russia" level2="abortion in"/>
 		<index level1="Russia" level2="Birth Control Policy"/>
 		<index level1="Soviet Union" level2="laws"/>
 	</headNote>

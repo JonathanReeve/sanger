@@ -3,7 +3,8 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2009/03/20 ch Initial transcribe and encode</prepDate>
-		<prepDate>2015-03-13 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
+		<prepDate>2015-03-13 CH recheck tags</prepDate>
+		<prepDate>2015-08-04 ch clean index</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,7 +32,7 @@
 			Mar. 1920, and as Chapter XVI of <title type="book">Woman and the New Race</title>, (New
 			York: Brentano's, 1920), pp. 198-209.</p>
 		<index level1="birth control" level2="health benefits and risks"/>
-		<index level1="abortion" level2="health risks of"/>
+		<index level1="abortion" level2="health risks"/>
 		<index level1="abortion" level2="birth control and"/>
 		<index level1="Australia" level2="birth rates in"/>
 		<index level1="Netherlands, the" level2="birth control in"/>

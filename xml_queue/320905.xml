@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2011-07-27 NC</prepDate>
 		<prepDate>2014-03-25 CH clean regs</prepDate>
-		<prepDate>2015-04-08 CH proof tags again</prepDate>
+		<prepDate>2015-04-08 CH proof tags again</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -26,7 +26,7 @@
 	<headNote resp="MSPP">
 		<p>A summary at the top reads: "Today’s Negro wife need not choose between husband’s love or
 			having a child, says birth control pioneer."</p>
-		<index level1="African-Americans" level2="birth control and"/>
+		<index level1="African-Americans" level2="and birth control"/>
 		<index level1="family planning"/>
 	</headNote>
 	<docBody>
@@ -135,12 +135,12 @@
 				slum conditions under which most city Negros live, encourages the formation of
 				criminal gangs. . . . Negro children brought-up under such conditions have two
 				strikes against them before they come of age.</q>”</p>
-		<p>According to the Rev. <person reg="Robinson, James Harvey">James H. Robinson</person>, pastor
-			of Harlem’s <org>Church of the Master</org>, less than 35 per cent of all children in
-			our overcrowded juvenile courts and orphan homes are really orphans. Most of them have
-			one or both parents living but these parents are quite incapable of or indifferent to
-			providing them with a wholesome home environment. Our children’s courts are filled with
-			the inevitable victims of poor marriages and broken homes.</p>
+		<p>According to the Rev. <person reg="Robinson, James Harvey">James H. Robinson</person>,
+			pastor of Harlem’s <org>Church of the Master</org>, less than 35 per cent of all
+			children in our overcrowded juvenile courts and orphan homes are really orphans. Most of
+			them have one or both parents living but these parents are quite incapable of or
+			indifferent to providing them with a wholesome home environment. Our children’s courts
+			are filled with the inevitable victims of poor marriages and broken homes.</p>
 		<p>For those who argue for a high birth rate at any cost, the birth of these children makes
 			a fine showing--there are thousands and thousands of them and their number is
 			increasing. During the war years both the marriage rate and the birth rate reached all

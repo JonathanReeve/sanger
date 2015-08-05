@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2011-07-20 NC</prepDate>
 		<prepDate>2014-07-10 CH clean regs</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -47,11 +47,11 @@
 				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
 		<p>For a typed draft see Margaret Sanger Microfilm, Smith College Collections S72:372 and
 			375.</p>
-		<index level1="African-Americans" level2="birth control and"/>
+		<index level1="African-Americans" level2="and birth control"/>
 		<index level1="birth control"/>
 		<index level1="birth control" level2="international"/>
-		<index level1="birth control" level2="legalization of"/>
-		<index level1="birth control" level2="clinics and leagues"/>
+		<index level1="birth control laws and legislation"/>
+		<index level1="birth control clinics and leagues"/>
 	</headNote>
 	<docBody>
 		<head>Birth Control.</head>

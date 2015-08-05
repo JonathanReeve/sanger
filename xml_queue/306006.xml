@@ -5,7 +5,7 @@
 		<prepDate>2011/06/21 CE</prepDate>
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,7 +30,7 @@
 				Control Nov.1923</xref>; "<xref from="305275.xml">Birth Control in China and
 				Japan</xref>" Feb. 1924 and<xref from="300368.xml">The Birth Control Movement in
 				1923 April 1924</xref>.</p>
-		<index level1="abortion" level2="health risks of"/>
+		<index level1="abortion" level2="health risks"/>
 		<index level1="American Birth Control League"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="class-based"/>
@@ -72,8 +72,8 @@
 	</headNote>
 	<docBody>
 		<head>Woman and Birth Control</head>
-		<byline>By Margaret Sanger, 104 5th Ave., <place
-				reg="New York, NY">New York City</place></byline>
+		<byline>By Margaret Sanger, 104 5th Ave., <place reg="New York, NY">New York
+			City</place></byline>
 		<p>The Birth Control movement has its roots in the history of subjection. In the past women
 			have been brood animals to the state, to industry, to the church. Whenever they have
 			raised their heads and tried to loosen the chains that bound them, they have met with
@@ -104,13 +104,13 @@
 			that convinced me of the necessity of Birth Control, and led me to jeopardize my liberty
 			in order to place this information in the hands of the women who most need it.</p>
 		<p>My first clear impression of life was that large families and poverty went hand in hand.
-			I was born and brought up in a glass factory town in the western part of <place>New York</place>
-				State. I was one of eleven children--so I had some personal experience of
-			the struggles and hardships that a large family endures. When I was seventeen years old
-			my <person reg="Higgins, Anne Purcell">mother</person> died form overwork and the strain
-			of too-frequent child-bearing. I was left to care for the younger children and share the
-			burdens of all. When I was old enough I entered a hospital to take up the profession of
-			nursing.</p>
+			I was born and brought up in a glass factory town in the western part of <place>New
+				York</place> State. I was one of eleven children--so I had some personal experience
+			of the struggles and hardships that a large family endures. When I was seventeen years
+			old my <person reg="Higgins, Anne Purcell">mother</person> died form overwork and the
+			strain of too-frequent child-bearing. I was left to care for the younger children and
+			share the burdens of all. When I was old enough I entered a hospital to take up the
+			profession of nursing.</p>
 		<p>In the hospital I found that seventy-five per cent of the diseases of men and women are
 			the result of ignorance of their sex functions. I found that every department of life
 			was open to investigation and discussion except that shaded valley of sex. The explorer,
@@ -144,12 +144,13 @@
 			performed in this country every year.</p>
 		<p>For millions of babies whose mothers have not resorted to abortion there is no welcome
 			when they arrive. How often have I stood at the bedside of a woman in childbirth and
-			seen the tears flow in gladness and heard the sigh of “<q who="UNK">Thank <name type="deity">God</name></q>!” when
-			told that her baby was born dead! What can men know of the fear and dread of unwanted
-			pregnancy? What can men know of the agony of carrying beneath one’s heart a little life
-			that tells the mother every instant that there is no room and no chance for it on earth?
-			Even if it should be born alive, the probabilities are that it would perish within a
-			year, after costing its mother untold anguish and suffering.</p>
+			seen the tears flow in gladness and heard the sigh of “<q who="UNK">Thank <name
+					type="deity">God</name></q>!” when told that her baby was born dead! What can
+			men know of the fear and dread of unwanted pregnancy? What can men know of the agony of
+			carrying beneath one’s heart a little life that tells the mother every instant that
+			there is no room and no chance for it on earth? Even if it should be born alive, the
+			probabilities are that it would perish within a year, after costing its mother untold
+			anguish and suffering.</p>
 		<p>Do you know that 200,000 babies under one year of age die in the United States every
 			year, chiefly from poverty, neglect and bad antenatal conditions; while four hundred
 			thousand parents are kept in ignorance of how to prevent two hundred thousand more

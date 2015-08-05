@@ -4,7 +4,8 @@
 	<mepHeader>
 		<prepDate>2011-07-27 NC</prepDate>
 		<prepDate>2014-03-25 CH clean regs</prepDate>
-		<prepDate>2015-04-08 CH proof tags again</prepDate><prepDate>2015-08-03 CH clean up titles</prepDate>
+		<prepDate>2015-04-08 CH proof tags again</prepDate>
+		<prepDate>2015-08-03 CH clean up titles</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -32,9 +33,9 @@
 		<p>No published version found; for another version, see Margaret Sanger Microfilm, Smith
 			College Collections S72:517.</p>
 		<index level1="birth control" level2="international"/>
-		<index level1="birth control" level2="movement" level3="history of"/>
-		<index level1="birth control" level2="American opinion on"/>
-		<index level1="African-Americans" level2="birth control and"/>
+		<index level1="birth control movement" level2="history of"/>
+		<index level1="birth control" level2="American views on"/>
+		<index level1="African-Americans" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>Birth Control--Ten Eventful Years</head>

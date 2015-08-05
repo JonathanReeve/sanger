@@ -5,7 +5,7 @@
 		<prepDate>2012-02-07 EK</prepDate>
 		<prepDate>2012-02-08 CH proof and correct</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
-		<prepDate>2015-04-08 CH proof tags again</prepDate>
+		<prepDate>2015-04-08 CH proof tags again</prepDate><prepDate>2015-08-05 CH clean index</prepDate>
 		<docAuthor>
 			<person reg="Conrad, Earl">Earl Conrad</person>
 		</docAuthor>
@@ -32,8 +32,8 @@
 	</mepHeader>
 	<headNote>
 		<p>This interview was published in the "American Viewpoint" column.</p>
-		<index level1="African-Americans" level2="maternal mortality rates of"/>
-		<index level1="African-Americans" level2="infant mortality rates of"/>
+		<index level1="mortality rates" level2="infant" level3="African-American"/>
+		<index level1="mortality rates" level2="maternal" level3="African-American"/>
 		<index level1="African-Americans" level2="MS on"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="African-Americans" level2="discrimination of"/>
@@ -67,10 +67,10 @@
 					where she is more or less in retirement, and where she awaits the return from
 					the armed service of her two doctor <person reg="Sanger, Stuart">
 						<person reg="Sanger, Grant">sons</person></person>. But she was in New York
-					long enough to see <person reg="Buck, Pearl S.">Pearl Buck</person>, Mrs. <person
-						reg="Roosevelt, Eleanor">Eleanor Roosevelt</person> and other women who have
-					supported her in her fight for planned home life, and I managed to get an hour
-					with her.</q>
+					long enough to see <person reg="Buck, Pearl S.">Pearl Buck</person>, Mrs.
+						<person reg="Roosevelt, Eleanor">Eleanor Roosevelt</person> and other women
+					who have supported her in her fight for planned home life, and I managed to get
+					an hour with her.</q>
 			</p>
 		</div>
 		<div type="section">

@@ -5,7 +5,7 @@
 		<prepDate>2011/06/08 CE</prepDate>
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<prepDate>2015-04-08 CH proof tags again</prepDate>
+		<prepDate>2015-04-08 CH proof tags again</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -43,18 +43,18 @@
 				<xref from="421076.xml"><title type="article">Birth Control, 1956</title></xref>;
 				<xref from="320987.xml"><title type="article">Birth Control, 1957</title></xref>;
 				<xref from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
-		<index level1="African-Americans" level2="birth control and"/>
-		<index level1="birth control" level2="clinics and leagues" level3="in US"/>
+		<index level1="African-Americans" level2="and birth control"/>
+		<index level1="United States" level2="birth control in"/>
 		<index level1="birth control" level2="international"/>
-		<index level1="birth control" level2="methods" level3="research"/>
-		<index level1="birth control" level2="movement" level3="American"/>
+		<index level1="birth control methods" level2="research"/>
+		<index level1="birth control movement" level2="American"/>
 		<index level1="birth control" level2="propaganda and publicity"/>
-		<index level1="birth control" level2="religion and"/>
+		<index level1="religion" level2="and birth control"/>
 		<index level1="Europe" level2="birth control in"/>
 		<index level1="family planning"/>
 		<index level1="Germany" level2="birth rate in"/>
 		<index level1="India" level2="birth control in"/>
-		<index level1="physicians" level2="birth control and"/>
+		<index level1="physicians" level2="and birth control"/>
 		<index level1="Russia" level2="population policies"/>
 		<index level1="United States" level2="government" level3="public health programs"/>
 		<index level1="World War II" level2="population and"/>
@@ -180,25 +180,26 @@
 					<title type="journal">Human Fertility</title> 9:43-48 (June 1944); "<title
 					type="article">Two Billion People</title>," <title type="journal"
 					>Fortune</title> (Feb. 1944); "<title type="article">84.9% Said Yes. Poll on
-					Planned Parenthood</title>," <title type="journal" reg="Fortune Magazine">Fortune</title> (Aug. 1944);
-				National Negro Advisory Council, Statement on Planned Parenthood (1944); <person
-					reg="Wood, L. Foster">L. F. Wood</person> and <person reg="Stone, Abraham">A.
-					Stone</person>, "<title type="book">Marriage Counsel in Relation to Planned
-					Parenthood</title>" (1944); Mary A. Cannon, <title type="book">Outline for a
-					Course in Planned Parenthood</title> (1944); Planned Parenthood Federation of
-				America, Inc., "<title type="book">Planned Parenthood: Its Contribution to Family,
-					Community and Nation</title>" (1944), "<title type="book">To Those Denied a
-					Child; A Guide for Husbands and Wives Seeking Parenthood</title>" (1944) and
-					"<title type="book">Legal Status of Contraception</title>" (1944); "<title
-					type="book">National Negro Leaders Agree: Planned Parenthood Means Better
-					Families</title>" (1944); <person reg="Upham, John H. J.">J. H. J.
-					Upham</person>, "<title type="article">Catholics and Planned
-				Parenthood</title>," <title type="journal">American Mercury</title> (Feb. 1944);
-					<person reg="Keller, Arnold">Arnold Keller</person>, "<title type="article"
-					>Roman Catholicism's Moral Certainties</title>," <name type="journal"
-					reg="Lutheran Church Quarterly">Lutheran Church Quart</name>. 17 (April 1944);
-					<person reg="Chandrasekar, Sripati">S. Chandrasekar</person>, "<title
-					type="article">India's Human Resources</title>," <name type="journal"
+					Planned Parenthood</title>," <title type="journal" reg="Fortune Magazine"
+					>Fortune</title> (Aug. 1944); National Negro Advisory Council, Statement on
+				Planned Parenthood (1944); <person reg="Wood, L. Foster">L. F. Wood</person> and
+					<person reg="Stone, Abraham">A. Stone</person>, "<title type="book">Marriage
+					Counsel in Relation to Planned Parenthood</title>" (1944); Mary A. Cannon,
+					<title type="book">Outline for a Course in Planned Parenthood</title> (1944);
+				Planned Parenthood Federation of America, Inc., "<title type="book">Planned
+					Parenthood: Its Contribution to Family, Community and Nation</title>" (1944),
+					"<title type="book">To Those Denied a Child; A Guide for Husbands and Wives
+					Seeking Parenthood</title>" (1944) and "<title type="book">Legal Status of
+					Contraception</title>" (1944); "<title type="book">National Negro Leaders Agree:
+					Planned Parenthood Means Better Families</title>" (1944); <person
+					reg="Upham, John H. J.">J. H. J. Upham</person>, "<title type="article"
+					>Catholics and Planned Parenthood</title>," <title type="journal">American
+					Mercury</title> (Feb. 1944); <person reg="Keller, Arnold">Arnold
+				Keller</person>, "<title type="article">Roman Catholicism's Moral
+					Certainties</title>," <name type="journal" reg="Lutheran Church Quarterly"
+					>Lutheran Church Quart</name>. 17 (April 1944); <person
+					reg="Chandrasekar, Sripati">S. Chandrasekar</person>, "<title type="article"
+					>India's Human Resources</title>," <name type="journal"
 					reg="Annals of the American Academy of Political and Social Sciences">An. Am.
 					Acad. Polit. and Soc. Sciences</name> (May 1944); <person reg="Chand, Gyan">Gyan
 					Chand</person>, "<title type="article">The Frozen Manpower of India</title>,"

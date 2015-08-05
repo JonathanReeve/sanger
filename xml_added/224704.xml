@@ -5,7 +5,7 @@
 		<prepDate>2014-08-22 KH</prepDate>
 		<prepDate>2014-08-26 CH proof and enter corrections.</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-03-16 EK correct proof and update index</prepDate>
+		<prepDate>2015-03-16 EK correct proof and update index</prepDate><prepDate>2015-08-05 CH clean index entries</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -34,7 +34,7 @@
 			transcribed as written. </p>
 		<index level1="abortion"/>
 		<index level1="abortion" level2="frequency of"/>
-		<index level1="abortion" level2="health risks of"/>
+		<index level1="abortion" level2="health risks"/>
 		<index level1="adolescence"/>
 		<index level1="birth control" level2="medical justifications"/>
 		<index level1="childbirth" level2="health risks"/>
@@ -62,7 +62,7 @@
 		<index level1="women and girls" level2="enslavement of"/>
 		<index level1="women and girls" level2="health of"/>
 		<index level1="women and girls" level2="sexuality of"/>
-		</headNote>
+	</headNote>
 	<docBody>
 		<head>Preparation for Parenthood</head>
 		<dateline>
@@ -85,7 +85,8 @@
 				<item>music, art, literature--</item>
 			</list>
 			<p>
-				<add>birth <unclear>marks</unclear>.</add></p>
+				<add>birth <unclear resp="MSPP">marks</unclear>.</add>
+			</p>
 			<p>physical condition <emph rend="underline">previous</emph> to pregnancy}</p>
 			<list>
 				<item>good health--free from inherited disease</item>
@@ -187,10 +188,10 @@
 			<p>"<q who="FORAU"><del>Love worketh no ill to the beloved</del></q>."</p>
 			<p>4 periods of adult development}</p>
 			<list>
-				<item>adolescent=character <unclear>conserving</unclear></item>
+				<item>adolescent=character <unclear resp="MSPP">conserving</unclear></item>
 				<item>love life=development,</item>
 				<item>magnetize</item>
-				<item> maternal &amp; paternal--<unclear>sympathy</unclear></item>
+				<item> maternal &amp; paternal--<unclear resp="MSPP">sympathy</unclear></item>
 				<item> reflective or spiritualizing</item>
 			</list>
 			<p>adolescent}</p>
@@ -216,12 +217,16 @@
 			</list>
 		</div>
 		<div type="section">
-			<head type="sub"><emph rend="underline">Define</emph></head>
+			<head type="sub">
+				<emph rend="underline">Define</emph>
+			</head>
 			<p>Love is sex attraction plus mutual understanding;</p>
 		</div>
-	<div type="section">
-		<head type="sub"><emph rend="underline">Love act &amp; procreative act</emph></head>
-		<head type="sub">Factors causing failure in marriage</head>
+		<div type="section">
+			<head type="sub">
+				<emph rend="underline">Love act &amp; procreative act</emph>
+			</head>
+			<head type="sub">Factors causing failure in marriage</head>
 			<list>
 				<item>1. <emph rend="underline">Too young--</emph></item>
 				<item>2. <emph rend="underline">children too fast--</emph></item>
@@ -229,7 +234,7 @@
 				<item>4. Fear of pregnancy, birth control</item>
 				<item>5. Crudeness &amp; man's ignorance of women's nature</item>
 			</list>
-		<p>4 periods of adult development}</p>
+			<p>4 periods of adult development}</p>
 			<list>
 				<item>adolescent character, conserving, building</item>
 				<item>love period, magnetize using &amp; strengthening--cementing ties</item>
@@ -242,7 +247,8 @@
 			<list>
 				<item>no business or profession--</item>
 				<item>marriage certificate</item>
-				<item><person reg="Forel, Auguste-Henri">Forel</person> says--young people-- “<q who="FORAU">Love worketh no ill to the beloved</q>”</item>
+				<item><person reg="Forel, Auguste-Henri">Forel</person> says--young people-- “<q
+						who="FORAU">Love worketh no ill to the beloved</q>”</item>
 			</list>
 			<p>Reasons for marriage today</p>
 			<list>
@@ -254,22 +260,28 @@
 			<p>Sex union divided into} love act procreative act</p>
 			<list>
 				<item>1. Too young--physical development, giddy flirting play--<emph
-					rend="underline">can't cheat nature</emph>-- young girl 17 <add>Mrs. Snow</add>--<person reg="Berkman, Alexander">Berkman</person>
-						must finish with adolescent expression--physical &amp; mental balance--to enter love life; age 22-23, boy 23-25.</item>
-				<item>2. Children too fast--pregnancy; nausea--no love life--responsibilities no time to cement union &amp; get acquainted baby 1st year--another--drudge in 10
+						rend="underline">can't cheat nature</emph>-- young girl 17 <add>Mrs.
+						Snow</add>--<person reg="Berkman, Alexander">Berkman</person> must finish
+					with adolescent expression--physical &amp; mental balance--to enter love life;
+					age 22-23, boy 23-25.</item>
+				<item>2. Children too fast--pregnancy; nausea--no love life--responsibilities no
+					time to cement union &amp; get acquainted baby 1st year--another--drudge in 10
 					years (Economic)</item>
-				<item>3. Fear of pregnancy--coldness--natural &amp; pretended abortions--bad health (divorce)</item>
+				<item>3. Fear of pregnancy--coldness--natural &amp; pretended abortions--bad health
+					(divorce)</item>
 				<item>4. disease--venereal--barrenness--operations--quarrelling--nervousness.</item>
-				<item>5. <add>(Widowed women initiate bridegrooms)</add>Crudeness--man's ignorance of womans sex nature--no art in love.</item>
+				<item>5. <add>(Widowed women initiate bridegrooms)</add>Crudeness--man's ignorance
+					of womans sex nature--no art in love.</item>
 			</list>
 			<p>wave--in months--</p>
 			<p>two creative periods lasting 3 to five days each.</p>
-			<p>Explain sex curve <note resp="MSPP">Sanger drew a rough chart showing a cycle peaking at 3 days for men  9 days for women</note></p>
+			<p>Explain sex curve <note resp="MSPP">Sanger drew a rough chart showing a cycle peaking
+					at 3 days for men 9 days for women</note></p>
 			<p>Flattens out sex desire--abuse--calling on or stimulating urge bad</p>
 			<p>Women's nature affectionate-- <add>chart</add> not passionate.</p>
-			<p>Value of sleep-- Mutual adjustment to each nature. Woman's <emph rend="underline">pretense</emph> &amp;
-				deceit a <emph rend="underline">protection</emph>. She has been a passive instrument
-				for man's use.</p>
+			<p>Value of sleep-- Mutual adjustment to each nature. Woman's <emph rend="underline"
+					>pretense</emph> &amp; deceit a <emph rend="underline">protection</emph>. She
+				has been a passive instrument for man's use.</p>
 			<p>Two people must adjust sex problems before creative work can be done--or children--or
 					<emph rend="underline">separate</emph>--</p>
 			<p>Cannot make one love--cultivate &amp; nourish it--plant</p>
@@ -277,12 +289,16 @@
 				development of love life.</p>
 			<p>Jealousy does not strengthen love.</p>
 			<p>Two lives can be fused together with knowledge &amp; reverence. Happy marriage
-				comradeship--love &amp; <gap extent="one word illegible"></gap></p>
-		<p><person reg="Carpenter, Edward">Carpenter</person></p>
-		<p>“<q who="CARED">How intoxicating indeed, how penetrating like a most precious
-					wine--is that love--which is the sexual transformed into the emotional &amp; spiritual! And what a loss on the merest grounds of prudence
-					&amp; economy of pleasure is its unbridled waste along physical channels! So, nothing is so much to be dreaded between lovers as just this--the vulgarization
-					of love. This is the rock upon which marriage so often splits.</q>”</p>
+				comradeship--love &amp; <gap extent="one word illegible"/></p>
+			<p>
+				<person reg="Carpenter, Edward">Carpenter</person>
+			</p>
+			<p>“<q who="CARED">How intoxicating indeed, how penetrating like a most precious
+					wine--is that love--which is the sexual transformed into the emotional &amp;
+					spiritual! And what a loss on the merest grounds of prudence &amp; economy of
+					pleasure is its unbridled waste along physical channels! So, nothing is so much
+					to be dreaded between lovers as just this--the vulgarization of love. This is
+					the rock upon which marriage so often splits.</q>”</p>
 			<p>“<q who="CARED">Knowledge is power</q>” <emph rend="underline">passion is
 					poetry</emph></p>
 			<p>“<q who="CARED">It is the woman in you &amp; not the <emph rend="underline"

@@ -7,7 +7,7 @@
 		<prepDate>2002-08-15 KH</prepDate>
 		<prepDate>2003/08/08 CH</prepDate>
 		<prepDate>2014-03-07 CH clean regs</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -33,8 +33,7 @@
 			for <xref from="128190.xml"><person reg="Lovejoy, Owen">Owen Lovejoy</person></xref> and
 				<xref from="128197.xml"><person reg="Fairchild, Henry Pratt">Henry Pratt
 					Fairchild</person></xref>. Additions made by hand by Margaret Sanger.</p>
-		<index level1="academics" level2="birth control and"/>
-		<index level1="Hankins, Frank"/>
+		<index level1="birth control movement" level2="American"/>
 	</headNote>
 	<docBody>
 		<p>One of the most encouraging aspects of this movement is to witness the rise of a new
