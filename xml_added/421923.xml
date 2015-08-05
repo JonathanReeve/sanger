@@ -5,6 +5,7 @@
 		<prepDate>2014-04-15 JK initial tag</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-08-05 CH clean up index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -38,7 +39,7 @@
 				to<place> India</place>. Text has been taken from three different articles.</p>
 		<index level1="Birth Control International Information Centre"/>
 		<index level1="India" level2="birth control clinics and leagues in"/>
-		<index level1="All India Women's Conference"/>
+		<index level1="All-India Women's Conference"/>
 		<index level1="conferences" level2="All India Women's Conference" level3="1935-36 (10th)"/>
 		<index level1="motherhood"/>
 		<index level1="family size" level2="MS on"/>
@@ -68,8 +69,8 @@
 			</p>
 			<p>
 				<q who="DM"> This is the view of Mrs. Margaret Sanger, president of the Birth
-						Control International Information Centre, who would like every engaged
-					couple to be told the “facts of life.”</q>
+					Control International Information Centre, who would like every engaged couple to
+					be told the “facts of life.”</q>
 			</p>
 
 			<p>“In <place reg="New York, NY">New York</place>,” <q who="DM">she told me,</q> “50,000
@@ -118,8 +119,7 @@
 				<q who="NC">This is a conviction expressed to me by Mrs. Margaret Sanger, inventor
 					of the phrase “birth control,” founder of the <org
 						reg="American Birth Control League">first birth control organization in
-							America</org> where she is one of the
-					best-known women.</q>
+						America</org> where she is one of the best-known women.</q>
 			</p>
 
 			<p>“It is all important that the newly married should get acquainted and become adjusted
@@ -127,9 +127,9 @@
 				marriage,” she said to me. </p>
 
 			<p>
-				<q who="NC">Figures in the United States show that when children are
-					“postponed” on account of the wife continuing to work there has been a reduction
-					of the divorce total, according to Mrs. Sanger.</q>
+				<q who="NC">Figures in the United States show that when children are “postponed” on
+					account of the wife continuing to work there has been a reduction of the divorce
+					total, according to Mrs. Sanger.</q>
 			</p>
 			<p>
 				<q who="NC">The ideal marriage, she went on, would be between a man of 23 and a

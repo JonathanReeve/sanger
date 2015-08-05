@@ -65,9 +65,11 @@
 			<p>"<q>We agree with the advocates of birth control that no world peace is possible
 					without a reduction of the birth rate and immediate action toward its
 					international accomplishment.</q>"</p>
-			<p><q who="MCI">A bill legalizing dissemination of birth control information will be
+			<p>
+				<q who="MCI">A bill legalizing dissemination of birth control information will be
 					introduced at the next session of the <org reg="New York State Legislature"
-						>legislature</org>.</q></p>
+						>legislature</org>.</q>
+			</p>
 		</div>
 		<div type="section">
 			<head>ADVOCATES OF BIRTH CONTROL OPEN FIGHT FOR CHANGE IN LAW</head>
@@ -81,7 +83,7 @@
 			<p>"<q>I understood,</q>" <q who="BDE">she said,</q> "<q>that a scientific contraceptive
 					has been invented in <place>Germany</place> which would solve the problem for
 					all time. I did not find it, but I got in touch with scientists in
-						<place>Germany</place>, <place reg="Netherlands, the">Holland</place> and
+						<place>Germany</place>, <place reg="Netherlands">Holland</place> and
 						<place>England</place>, and owing to communications established between
 					these countries I believe such an ideal thing will be here, possibly within the
 					year, for our benefit.</q>"</p>

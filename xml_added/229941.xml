@@ -11,7 +11,8 @@
 		<docDate value="1931-00-00">1931</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Introduction to the PROCEEDINGS OF THE SEVENTH INTERNATIONAL BIRTH CONTROL CONFERENCE</supplied>
+				<supplied resp="MSPP">Introduction to the PROCEEDINGS OF THE SEVENTH INTERNATIONAL
+					BIRTH CONTROL CONFERENCE</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp229941</idno>
@@ -163,7 +164,7 @@
 				>international federation of Neo-Malthusian leagues</org>, and Dr. <person
 				reg="Drysdale, Charles R.">C. R. Drysdale</person> was elected president of this
 			organization. A <org reg="International Neo-Malthusian Conference, 2nd">second
-				international conference</org> was called in <place>Li&eacute;ge, Belgium</place>,
+				international conference</org> was called in <place reg="Liege, Belgium">Li&eacute;ge, Belgium</place>,
 			in 1905. Records of this meeting indicate the swing of interest away from technical
 			aspects of contraception to the problems of propaganda and popularization. At the
 			Li&eacute;ge meeting the Neo-Malthusians came into sharp conflict with the Marxians, who

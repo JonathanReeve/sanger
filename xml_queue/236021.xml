@@ -8,13 +8,15 @@
 		<prepDate>2014-05-06 CH corrected title and others</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-07-20 EK index updates</prepDate>
-		<prepDate>2015-07-22 EK correct proof</prepDate>
+		<prepDate>2015-07-22 EK correct proof</prepDate><prepDate>2015-08-05 CH clean up place</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-02-11">11 Feb 1923</docDate>
 		<docTitle>
-			<titlePart><supplied>The Need for Birth Control In America</supplied></titlePart>
+			<titlePart>
+				<supplied>The Need for Birth Control In America</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236021</idno>
 		<sourceDesc>
@@ -28,10 +30,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This speech was given at a mass meeting at Parsons' Theater in <place>Hartford,
-				CT</place>, organized by the <org>Connecticut Birth Control League</org>, and
-			chaired by <person reg="Porritt, Annie Goordrich">Annie G. Porritt.</person> Handwritten
-			corrections probably by Margaret Sanger.For a draft version without Sanger's handwritten
+		<p>This speech was given at a mass meeting at Parsons' Theater in Hartford, organized by the
+				<org>Connecticut Birth Control League</org>, and chaired by <person
+				reg="Porritt, Annie Goordrich">Annie G. Porritt.</person> Handwritten corrections
+			probably by Margaret Sanger.For a draft version without Sanger's handwritten
 			corrections, see Sanger Papers Library of Congress Microfilm, 130:0436. The speech was
 			also published in <person reg="Meyer, Adolf">Adolf Meyer</person>, <title type="book"
 				>Birth Control Facts and Responsibilities</title>, (Baltimore, 1925), pp. 11-49.</p>
@@ -80,7 +82,7 @@
 		<index level1="Netherlands, the" level2="birth control in"/>
 		<index level1="Netherlands, the" level2="population policies"/>
 		<index level1="Netherlands, the" level2="birth control clinics"/>
-			<index level1="population growth" level2="impact of"/>
+		<index level1="population growth" level2="impact of"/>
 		<index level1="pregnancy" level2="health risks"/>
 		<index level1="pregnancy" level2="tuberculosis and"/>
 		<index level1="prostitution" level2="and birth control"/>
@@ -98,8 +100,10 @@
 		<head>ADDRESS</head>
 		<byline><person reg="Sanger, Margaret">MARGARET SANGER,</person> President, <org>American
 				Birth Control League</org>, Inc.</byline>
-		<p><dateline><place>Hartford, Conn.</place>, Sunday afternoon, <date>February 11, 1923 at
-					3:00 P.M.</date></dateline></p>
+		<p>
+			<dateline><place reg="Hartford, CT">Hartford, Conn.</place>, Sunday afternoon, <date>February 11, 1923 at
+					3:00 P.M.</date></dateline>
+		</p>
 		<p><person reg="Porritt, Annie Goodrich">Madam Chairman</person> and Ladies and
 			Gentlemen:</p>
 		<p>Birth Control is the keynote of a new social awakening. It is not only a health and
@@ -373,15 +377,19 @@
 			two of them to show you the nature of the letters, 1,200 of which we receive practically
 			every week. That means more than 50,000 of these letters every year. The first one
 			is:</p>
-		<p rend="blockquote"><q who="UNK">I was married when I was a girl of only 17. There were 13
-				children of us. My father always drank and we had to go to work very young, myself
-				when I was 11 years old, caring for the boarders in a large boarding house.</q></p>
+		<p rend="blockquote">
+			<q who="UNK">I was married when I was a girl of only 17. There were 13 children of us.
+				My father always drank and we had to go to work very young, myself when I was 11
+				years old, caring for the boarders in a large boarding house.</q>
+		</p>
 
-		<p rend="blockquote"><q who="UNK">I have been married eight years. My first child was only a
-				six months baby. She only lived three days. She was born in July and about January
-				the first a miscarriage. The next January a little girl was born; in about four
-				months another miscarriage; and then the next January 27 another girl; 21 months and
-				a boy, who is now two years old; and I have had two miscarriages since then.</q></p>
+		<p rend="blockquote">
+			<q who="UNK">I have been married eight years. My first child was only a six months baby.
+				She only lived three days. She was born in July and about January the first a
+				miscarriage. The next January a little girl was born; in about four months another
+				miscarriage; and then the next January 27 another girl; 21 months and a boy, who is
+				now two years old; and I have had two miscarriages since then.</q>
+		</p>
 
 		<p rend="blockquote">
 			<q who="UNK">I have never had a chance to regain my real strength. When my second child
@@ -537,11 +545,11 @@
 			has increased.</p>
 		<p>And certainly we have three very good examples of what Birth-Control, when nationally
 			applied and controlled, can do to disprove the argument of race suicide in such
-			countries as Holland and New Zealand and Australia for, in <place reg="Netherlands, the"
-				>Holland</place>, for instance, in 35 years her birth-rate has decreased; her infant
-			mortality in <place reg="Amsterdam, Netherlands, the">Amsterdam</place>, <place
-				reg="Rotterdam, Netherlands, the">Rotterdam</place> and the <place
-				reg="the Hague, Netherlands, the">Hague</place> is lowest of any <del>states</del>
+			countries as Holland and New Zealand and Australia for, in Holland, for instance, in 35
+			years her birth-rate has decreased; her infant mortality in <place
+				reg="Amsterdam, Netherlands">Amsterdam</place>, <place reg="Rotterdam, Netherlands"
+				>Rotterdam</place> and the <place reg="The Hague, Netherlands">Hague</place> is
+			lowest of any <del>states</del>
 			<add>cities</add> in the world, and this is particularly so since Birth Control has been
 			established there <del>in cities</del>. Holland has the fastest increasing population of
 			any country in Europe. <del>She also has a very queer thing that has developed there
@@ -679,10 +687,10 @@
 				He is never home; he is always out on the corner with <del>one</del>
 				<add>some</add> of the loafers.</q>" And she said, "<q who="UNK">It is your fault;
 				something that you said to him; and he has not been the same with me. I would rather
-				have a child every year and have the love of my husband, than the kind of
-				man you have made.</q>" This social worker was very much disturbed; she went to one
-			of the physicians in charge and asked him about this case, and he said, "<q who="UNK"
-				>That is perfectly right; that is just exactly what would happen.</q>" This man
+				have a child every year and have the love of my husband, than the kind of man you
+				have made.</q>" This social worker was very much disturbed; she went to one of the
+			physicians in charge and asked him about this case, and he said, "<q who="UNK">That is
+				perfectly right; that is just exactly what would happen.</q>" This man
 				<del>who</del> was a primitive sort of man was <del>simply</del> thrust out of one
 			state of his evolution and put into another. It was suppression, <del>which was
 				something in</del>
@@ -703,7 +711,8 @@
 			<add>womans case</add>. We want to raise this subject of Birth Control from the gutter
 			where it has been placed by our laws. We want to raise it to the same plane with other
 			scientific measures. There are three methods: <add>continence: sterilization and means
-				that prevent conception</add> one method is continence or celibacy, perhaps the <del>best</del>
+				that prevent conception</add> one method is continence or celibacy, perhaps the
+				<del>best</del>
 			<add>safest</add> we have ever <del>heard of</del>
 			<add>known</add>. <del>Do you know that in your state that is a crime--to live a
 				celibate today? Because your law says that you cannot use methods of Birth Control,
@@ -749,18 +758,18 @@
 				reg="Murray, Gilbert">Gilbert Murray</person> of Oxford, <person
 				reg="Russell, Bertrand">Bertrand Russell</person>, <person reg="Cox, Harold">Harold
 				Cox</person>. You have some of the finest thinking men in England; and <person
-				reg="Keynes, John Maynard">John Maynard <supplied>Keynes</supplied></person> is also standing for Birth Control.
-			He told me in <place reg="London, England">London </place> that this subject of Birth
-			Control was a most important subject on the political horizon and he said unless we are
-			going to recognize the population question, we may as well throw all our peace treaties
-			and our agreements between nations in the waste paper basket; they can never come to
-			anything until the population question is recognized. This is not only an individual
-			problem, it is not only a national problem, it is a race, it is a world problem. I agree
-			with H. G. Wells, who says in his last book that the whole world is crammed with
-			meaningless lives, hordes of people who are born, who live, who die, and have done
-			nothing to move the race forward one iota. There have been repetitions, all that has
-			been said has been said before; all that they have done better before. They come and use
-			up the energies and the resources of the earth.</p>
+				reg="Keynes, John Maynard">John Maynard <supplied>Keynes</supplied></person> is also
+			standing for Birth Control. He told me in <place reg="London, England">London </place>
+			that this subject of Birth Control was a most important subject on the political horizon
+			and he said unless we are going to recognize the population question, we may as well
+			throw all our peace treaties and our agreements between nations in the waste paper
+			basket; they can never come to anything until the population question is recognized.
+			This is not only an individual problem, it is not only a national problem, it is a race,
+			it is a world problem. I agree with H. G. Wells, who says in his last book that the
+			whole world is crammed with meaningless lives, hordes of people who are born, who live,
+			who die, and have done nothing to move the race forward one iota. There have been
+			repetitions, all that has been said has been said before; all that they have done better
+			before. They come and use up the energies and the resources of the earth.</p>
 		<p>Now on the other hand, what we are trying to do is to make for a better world, and we
 			maintain that the greatness of a country cannot be measured by the size of its
 			population. You have got to ask yourself, "<q who="UNK">Is your country breeding great

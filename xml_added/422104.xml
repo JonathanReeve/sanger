@@ -2,14 +2,15 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published statement">
 	<mepHeader>
-		<prepDate>2015-07-27 CH transcribe and encode</prepDate>
+		<prepDate>2015-07-27 CH transcribe and encode</prepDate><prepDate>2015-08-05 CH clean up place</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1951-09-29">29 Sep 1951</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on Government Subsidies for
-				Babies</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Government Subsidies for Babies</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp422104</idno>
 		<sourceDesc>
@@ -36,9 +37,11 @@
 				<q who="NOTW">of having babies was placed on a mercenary basis by Government
 				Subsidies. She has just returned from a <place reg="London, England">London</place>
 				meeting of the <org>International Committee on Planned Parenthood</org>.</q></p>
-		<p><q who="NOTW">Presumably referring to the allowance of 5s. a week for each child after
+		<p>
+			<q who="NOTW">Presumably referring to the allowance of 5s. a week for each child after
 				the first, she complained that the subsidizing of large families was hampering the
-				objectives of the planned parenthood movement.</q></p>
+				objectives of the planned parenthood movement.</q>
+		</p>
 		<p>"While I heartily agree that food should be provided for babies and small children," <q
 				who="NOTW">she said,</q> "I think it is humiliating to parents to put parenthood on
 			a mercenary basis of subsidies.</p>
@@ -46,12 +49,14 @@
 			undesirable parents who have more children to get the miserably low subsidy money which
 			they invariably squander."</p>
 		<p>"It is certainly a sad commentary if the parents can't earn money any other way."</p>
-		<p><q who="NOTW">Mrs. Sanger, who is honorary chairman of the <org>Planned Parenthood
+		<p>
+			<q who="NOTW">Mrs. Sanger, who is honorary chairman of the <org>Planned Parenthood
 					Federation of America</org>, complained that though food shortages have made
 				British parents more conscious of family problems, they had not produced any
-				increased demand for birth control information.</q></p>
+				increased demand for birth control information.</q>
+		</p>
 		<p>"I think the <org reg="United Kingdom Government">Government</org> is short-sighted when
-			it does not stop to consider that <place reg="Great Britian">Britain</place> is already
+			it does not stop to consider that <place reg="Great Britain">Britain</place> is already
 			overpopulated by some 20,000,000 people and that in five or 10 years the children of
 			today will be competing with the adults for meat and eggs,"<q who="NOTW"> she
 			added.</q></p>

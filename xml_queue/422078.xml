@@ -6,12 +6,12 @@
 		<prepDate>2015--05-29 CH proof tags</prepDate>
 		<prepDate>2015-06-09 LH edits</prepDate>
 		<prepDate>2015-06-25 CH check entry</prepDate>
-		<prepDate>2015-07-02 EK correct proof and update index</prepDate>
+		<prepDate>2015-07-02 EK correct proof and update index</prepDate><prepDate>2015-08-05 CH correct errors</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1921-01-29">19 Jan 1921</docDate>
-				<docTitle>
+		<docTitle>
 			<titlePart>
 				<supplied resp="MSPP">Is Modern Marriage Conducive to Happiness?</supplied>
 			</titlePart>
@@ -51,7 +51,7 @@
 		<p>
 			<q who="BDE">Young women who swarmed the hall in a seething mass of humanity besieged
 				Mrs. Sanger with questions as to how birth control may be effected. Her answer was
-				that several years ago she maintained "open house" in the <place reg="Brookyln, NY"
+				that several years ago she maintained "open house" in the <place reg="Brooklyn, NY"
 					>Brownsville</place> section for the express purpose of making birth control a
 				tenet in the creed of every housewife and business girl in the community, only to
 				find herself in jail as the outcome.</q>
