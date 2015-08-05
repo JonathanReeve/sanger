@@ -32,17 +32,14 @@
   </div>
 </div>
    <p>&nbsp;</p>
-    <p>&nbsp;</p>
- <div align="right">
+     <div align="right">
 	  <div id="researchsidebar">
-              <a href="https://sangerpapers.wordpress.com" title="Research"><img src="file:///C|/Users/Esther%20Katz/Pictures/Documents/GitHub/sanger/app/images/Research.png"></a>
-    </div>
-	<br> 
+        <a href="https://sangerpapers.wordpress.com" title="Research" ><img src="../../../../../../Sanger%20Web/Research-2.jpg" width="161" height="26" /></a> </div>
+	
   <div align="right">
-	<p><a href="http://www.nyu.edu/projects/sanger/newsletter" title="Newsletter">"<img src="../../../../../../Sanger%20Web/Images/Newsletter.png" /></a>
+   <p><a href="http://www.nyu.edu/projects/sanger/newsletter" title="Newsletter">"<img src="../../../../../../Sanger%20Web/Newsletter.jpg" width="230" height="45" /></a> </div>
 </p>
-	<p>&nbsp;</p>
-  </div>
+	</div>
 </div>
 </div>	
 
@@ -91,9 +88,8 @@ editing.org/wordpress/">Association for Documentary Editing</a></p>
    </div>			  
   </div> 
 	<br /></div>
-
-
-	<p style="margin-top: 0px; margin-bottom: 0px;">
+	
+	<p align="center" style="margin-top: 0px; margin-bottom: 0px;">
 		<a href="http://www.nyu.edu/projects/sanger/search/aboutmspp.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c1','','../images/sanger_foot_r1_c1_f2.gif',1);"><img id="sanger_foot_r1_c1" src="../images/sanger_foot_r1_c1.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/search/abouted.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c2','','../images/sanger_foot_r1_c2_f2.gif',1);"><img id="sanger_foot_r1_c2" src="../images/sanger_foot_r1_c2.gif" width="104" height="20" alt="" /></a><a href="search.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c3','','../images/sanger_foot_r1_c3_f2.gif',1);"><img id="sanger_foot_r1_c3" src="../images/sanger_foot_r1_c3.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c4','','../images/sanger_foot_r1_c4_f2.gif',1);"><img id="sanger_foot_r1_c4" src="../images/sanger_foot_r1_c4.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/search/contact.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c5','','../images/sanger_foot_r1_c5_f2.gif',1);"><img id="sanger_foot_r1_c5" src="../images/sanger_foot_r1_c5.gif" width="104" height="20" alt="" /></a><img id="sanger_foot_r1_c6" src="../images/sanger_foot_r1_c6.jpg" width="105" height="20" alt="" />
 	</p>		  
 </div>
