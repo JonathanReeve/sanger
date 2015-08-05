@@ -41,7 +41,7 @@
 			</xsl:apply-templates>
 		</ul>
 		<p>
-		 Copyright 2003. Margaret Sanger Project
+		 Copyright, Margaret Sanger Project
         </p>
 	</xsl:template>
 	
