@@ -5,6 +5,7 @@
 		<prepDate>2014/06/1947 YG</prepDate>
 		<prepDate>2015-04-08 CH check tags again</prepDate>
 		<prepDate>2015-05-28 CH added new text to bottom</prepDate>
+		<prepDate>2015-08-06 CH fix typo and swapped out document for more detailed one</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -26,21 +27,25 @@
 					<title type="journal">Evening Independent</title>, July 2, 1947</bibl>
 			<bibl><title type="article">London Condemns No-Baby Plan of Margaret Sanger</title>,
 					<title type="journal">Neosho Daily-News</title>, July 2, 1947, p. 4. </bibl>
-
+			<bibl><title type="article">10-Year Holiday On Babies Urged for Hungry
+				Countries</title>, <title type="journal">Anniston Star</title>, July 2, 1947, p.
+				1</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name id="NYDN">New York Daily News</name>
 			<name id="NYT">New York Times</name>
 			<name id="EI">Evening Independent</name>
+			<name id="AS">Anniston Star</name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger's statements to the press on leaving for <place>England</place>were picked up by
-			newspapers in both the <place>United States</place> and England. Sanger's handwritten
-			statement was likely written on arriving in <place reg="London, England">London</place>.
-			Other quotes were taken from newspaper coverage. Other portions of the articles were
-			omitted by the editors.</p>
+		<p>No complete version of Sanger's statements to the press on leaving for
+				<place>England</place> have been found. The story was reported in newspapers in both
+			the <place>United States</place> and England, with different portions of the statement
+			featured in different papers. Sanger's handwritten statement was likely written while en
+			route to <place reg="London, England">London</place>. Other quotes were taken from
+			newspaper coverage. Duplicated portions of the articles were omitted by the editors.</p>
 		<index level1="Europe" level2="birth control in"/>
 		<index level1="birth control" level2="and war"/>
 		<index level1="birth control" level2="civilization and"/>
@@ -108,25 +113,39 @@
 					and told the press:</q> "It’s pretty certain that the world won’t be able to
 				produce enough food to support any more babies for at least 10 years."<q who="EI"
 					>So, she said, women should stop having babies for 10 years--in Britain,
-					especially. She wanted the <org>United Nations</org>to recommend baby quotas for
-					all countries.</q></p>
+					especially. She wanted the <org>United Nations</org> to recommend baby quotas
+					for all countries.</q></p>
 
 		</div>
 		<div type="section">
-			<head>10-Yr Moratorium On Babies Proposed</head>
-			<p><q who="NDN">Say Miss Sanger:</q> "If we went 10 years without children we would have
-				fewer with malnutrition and more with a semblance of adjustment."</p>
-			<p><q who="NDN">And she goes on</q> "you don't want to be swamped with babies while this
-				uncertainty regarding the future exists."</p>
+			<head>10-Year Holiday On Babies Urged for Hungry Countries</head>
+			<p><q who="AS">Margaret Sanger, prominent advocate of planned parenthood, proposed today
+					that the United Nations sponsor a 10-year moratorium on babies in the world's
+					hungry countries.</q></p>
+			<p><q who="AS">It would be much better for women who already had children to be able to
+					feed them adequately than to bring them into a world of </q>"living death,"<q
+					who="AS">she said.</q></p>
 			<p>
-				<q who="NDN">Mrs. Sanger arrived in England to organize an international conference
-					on population and family problems. She says the Catholic Church is the greatest
-					single obstacle to her proposal because of its diametric opposition to birth
-					control.</q>
-			</p>
-			<p><q who="NDN">She says she's making public her ideas because she'd like to know what
-					mothers in England think of it. And, she adds,</q> "I am prepared for attacks on
-				it."</p>
+				<q who="AS">Miss Sanger, a native of Corning, N. Y., came to England this week to
+					organize an international conference on population and family problems next
+					year.</q></p>
+			<p>The United Nations should call off the dogs and not encourage people to have
+					children,"<q who="AS">she said.</q> "It's a fallacy to strive for a population
+				goal beyond the earth's capacity. You can call it birth control, contraception, or
+				spacing. It's all the same. . . there are thousands of mothers in the world who are
+				starving yet they continue to have children."</p>
+			<p><q who="AS">Miss Sanger said such a moratorium would be a job for the medical
+					authorities and the United Nations.</q></p>
+			<p>"The United Nations has a very large department which is interested in public and
+				world health," <q who="AS">she said.</q></p>
+			<p><q who="AS">She said the Catholic church was </q>"the greatest obstacle to such a
+				proposal because of its diametric opposition to birth control."</p>
+			<p>"If we went 10 years without children we would have fewer with malnutrition and more
+				with a semblance of adjustment,"<q who="AS">Miss Sanger added.</q> "You don't want
+				to be swamped with babies while this uncertainty regarding the future with no homes
+				and certain malnutrition exists."</p>
+			<p>"I would like to know what mothers in England think of my plan," <q who="AS">she
+					said.</q> "I am prepared for attacks on it."</p>
 		</div>
 	</docBody>
 </doc>
