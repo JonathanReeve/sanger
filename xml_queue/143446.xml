@@ -8,6 +8,7 @@
 		<prepDate>2012-05-30 AW Corrected Tags</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2015-07-22 CH correct titles</prepDate>
+		<prepDate>2015-08/06 EK correct proof and update index</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1923-00-00">
 			<supplied resp="MSPP">1923</supplied>
@@ -18,7 +19,7 @@
 		<idno>msp143446</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 131:82</bibl>
+			<bibl>Library of Congress Microfilm 131:0082</bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="JAMWI">James, William</name>
@@ -26,17 +27,21 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This article was likely written in 1923. It bears a "<org reg="Brant and Kirkpatrick"
+		<p>This article was likely written in 1923. It bears a "<org reg="Brandt and Kirkpatrick"
 				>Brandt &amp; Kirkpatrick</org>" stamp, a literary agency that represented Sanger
-			from 1921. It changed its name to <org reg="Brandt and Brandt">Brandt &amp; Brandt</org>
-			in 1924.</p>
-		<p>Additions were made by hand by Margaret Sanger.</p>
-		<index level1="motherhood"/>
-		<index level1="mortality rates" level2="infant"/>
-		<index level1="mortality rates" level2="maternal"/>
-		<index level1="United States Children's Bureau"/>
+			starting in 1921. It changed its name to <org reg="Brandt and Brandt">Brandt &amp;
+				Brandt</org> in 1924. Handwritten additions were made by hand by Margaret
+			Sanger.</p>
+		<index level1="child welfare"/>
+		<index level1="feminism and feminists" level2="MS on"/>
+		<index level1="motherhood" level2="MS on"/>
+		<index level1="motherhood" level2="responsibilities of"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="mortality rates" level2="maternal" level3="American"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="responsibilities of"/>
 		<index level1="woman suffrage"/>
-		<index level1="women" level2="freedom and rights of"/>
 		<index level1="working classes"/>
 	</headNote>
 	<docBody>
@@ -54,7 +59,7 @@
 		<p>But let us not make the mistake of thinking that we can protect American motherhood by a
 			bath of pathos, a debauch of sentimentality. Today, as a nation, we are too prone to
 			worship catchwords and catchphrases. We <add>only</add> pretend to hold motherhood
-			sacred. “Motherlove” presented on the stage or the screen is always “sure fire stuff”.
+			sacred. “Mother love” presented on the stage or the screen is always "sure fire stuff."
 			Yet our intelligence cannot, or does not, keep pace with our emotions. The pitiless
 			statistics of the <org reg="United States Children's Bureau">Children’s Bureau</org> of
 			the <org reg="United States Department of Labor">Department of Labor</org> reveal the
@@ -96,8 +101,8 @@
 			<add>but</add> only by awakening in them a sense of their own responsibility and by
 			liberating their intelligence. We can protect American motherhood only by permitting it
 			to protect itself. When American women come to the realization of this profound yet
-			simple truth--<emph rend="underline">the great unity of Motherhood</emph>--they
-			shall have taken the first great step in self-education and freedom. </p>
+			simple truth--<emph rend="underline">the great unity of Motherhood</emph>--they shall
+			have taken the first great step in self-education and freedom. </p>
 		<p>Then and then only can the enfranchisement of woman assume any importance in the
 			political development of our country. For then the votes of women will become the
 			expression of a great creative power. This is the power of Motherhood, a free and
@@ -106,10 +111,10 @@
 			women are not called upon to break with the great traditions of America. The word
 			“Americanization” means something quite different from that supposed by its noisiest
 			adherents. </p>
-		<p>If it means anything worth while, it can only mean the expression of the pioneer spirit.
-			Our whole history has been the dream of an endless conflict--the inspiring drama of
+		<p>If it means anything worthwhile, it can only mean the expression of the pioneer spirit.
+			Our whole history has been the drama of an endless conflict--the inspiring drama of
 			frontiers. Our pioneers have pushed undaunted onward, from coast to coast, crossing
-			mountains, plains and deserts, forward always into the unknown, confront<add>ing</add>
+			mountains, plains and deserts, forward always into the unknown, confronting
 			courageously, bitter uncompromising realities, surmounting formidable hardships,
 			performing daily acts of heroism that were not recorded only because they were so
 			unconsciously and so unflinchingly <del>performed</del>
@@ -119,18 +124,18 @@
 			of our present national strength and hardihood. But with the advent of prosperity and
 			sophistication, our women have, it seems to me, been <del>related</del>
 			<add>relegated</add> to a secondary role. There is a tendency today, among our advanced
-			feminists, to stress the limitations of our pioneer “foremothers”. We hear that they
+			feminists, to stress the limitations of our pioneer “foremothers.” We hear that they
 			were crude, uneducated, limited, religious bigots, lacking in all the <del>finer
 				susceptibilities and graces</del>
-			<add>modern ability to organize and agitate</add>. They were “unawakened.” They had
-			never heard of “Woman’s rights”. they did not vote and they did not even want to vote. </p>
+			<add>modern ability to organize &amp; agitate</add>. They were “unawakened.” They had
+			never heard of “Woman’s rights.” They did not vote and they did not even want to vote. </p>
 		<p>Perhaps this is, in the narrow sense, the truth. But let us never forget that they were
 			facing sterner realities and greater hardships than the great majority of American women
 			face today. They lived on another level; they were simpler, more primitive, yet with a
 			keener instinctive sense of their great and inalienable function. So closely and so
-			completely were they the comrades and companions of their men -- because comradeship and
-			equality were the stern necessities of the frontier -- that the insistence upon petty
-				<add>(personal)</add> ethical rights, or such luxuries as “The vote” simply never
+			completely were they the comrades and companions of their men--because comradeship and
+			equality were the stern necessities of the frontier--that the insistence upon petty
+				<add>(personal),</add> ethical rights, or such luxuries as “The vote” simply never
 			entered their heads. </p>
 		<p>Am I too idealistic, too eulogistic, in this tribute to the pioneer mother? Upon what
 			evidence, it may be asked, am I so certain of their greatness? By what test, except that
@@ -138,15 +143,15 @@
 		<p>These questions may well be asked. The answer seems to me irrefutable. It is that these
 			women became the mothers of strong men. <person reg="Hanks, Nancy">Nancy Hanks</person>,
 			the mother of <person reg="Lincoln, Abraham">Abraham Lincoln</person>, is perhaps the
-			classic instance. Today we have passed the stage of defaming this great mother -- great
+			classic instance. Today we have passed the stage of defaming this great mother--great
 			in spite of her lack of “education” and culture. Look into the lives of the great
-			majority of great Americans and you will find an exceptional mothers. Abraham Lincoln
+			majority of great Americans and you will find an exceptional mother. Abraham Lincoln
 			was the son of a “pioneer” mother. <person reg="Twain, Mark">Mark Twain</person> was the
 			son of <person reg="Clemens, Jane">another</person>. Only the strong could survive the
 			hardships of frontier life. And there can be no doubt that it was these very hardships
 			that brought out all that men and women possessed of indomitable courage and bravery,
 			and that human strength was thus enabled to perpetuate itself. </p>
-		<p>They, indeed, were the lucky ones, in spite of their crudity, their lack of
+		<p>They, indeed, were the lucky ones, in spite of their crudity their lack of
 			sophistication and social refinement. We American women of today are less fortunate in
 			that our national prosperity does not call into play all that we possess of latent
 			strength and courage. </p>
@@ -156,7 +161,7 @@
 			external and living advertisement of the husband’s prosperity. American mothers, who
 			under the rough and ready conditions of pioneer life, were veritable towers of strength,
 			have <add>almost</add> succumbed to the insidious disease of comfort and luxury. </p>
-		<p>Prosperity is a great test of character. And it is the American woman<del>hood</del>,
+		<p>Prosperity is a great test of character. And it is <del>the</del> American woman<del>hood</del>,
 			rather than American man<del>hood</del>, who <add>today</add> bears the great burden of
 			national prosperity. The <del>great</del> pressing problem is: shall we lie back in
 			comfort and luxury, and, taking a detached sentimental interest in the less fortunate
@@ -177,17 +182,16 @@
 			upon the child. Yet these attempts to lessen the hideous rate of infant mortality have
 			shown themselves to be wasted effort, unless they take into consideration also the
 			inspection and supervision of expectant mothers and provide pre-natal care for the
-			children. But even this, as any intelligent person my see, is not enough. As long as the
+			children. But even this, as any intelligent person may see, is not enough. As long as the
 			potential motherhood of the country is being drained and wasted in the most ignominious
 			industries, as long as the life blood of the mothers of the future and the creators of
 			the America of tomorrow is being stitched into ready-made clothes, wrought into cheap
 			embroideries and laces, into feathers and hideous artificial flowers, into sham furs and
 			all sorts of tawdry fineries with which more “prosperous” women bedeck themselves, all
-			these superficial attempts at “Child welfare” will be in vain. </p>
+			these superficial attempts at “Child welfare” will be in vain.</p>
 		<p>As long as these working women and mothers, in seeking to escape the monotonous slavery
-			of such industries, are thrust into the “industry” of motherhood--but
-				<del>motherhood</del>
-			<add>a maternity</add> no less monotonous and unrelieved, because it is a matter of
+			of such industries, are thrust into the “industry” of motherhood--but <del>motherhood</del>
+			<add>a maternity</add> no less monotonous and unrelieved because it is a matter of
 			blind instinct--we shall discover, if we have not already discovered, that all efforts
 			to establish maternity centers and milk stations, all efforts to decrease the casualties
 			among these battalions of babies cannot touch the real <del>cause</del>
@@ -200,11 +204,12 @@
 			themselves; but in the working out of the various schemes <del>at</del>
 			<add>for</add> amelioration of mothers and children, what efforts are being made to
 			awaken among poor victimized mothers the sense of responsibility and power, of
-			self-reliance and self-respect? Social workers are fond of repeating that “<q
-				who="FRABE">an ounce of prevention is worth a pound of cure</q>”. But to prevent we
+			self-reliance and self-respect?</p>
+		<p>Social workers are fond of repeating that “<q who="FRABE">an ounce of prevention is worth a pound of cure.”</q> But to prevent we
 			must strike at the very roots of social evils. And to find these roots, we must
-			understand the factors in the situation <add>that</add> confront us. A great mathematician has said that no less important than
-			the solution of a problem is the statement of the factors comprising it. </p>
+			understand the factors in the situation <add>that</add> confront us. A great
+			mathematician has said that no less important than the solution of a problem is the
+			statement of the factors comprising it.</p>
 		<p>Applying this to the great problem of American motherhood, upon which our whole future as
 			a world power and leader depends, we very soon must come to the conclusion that our most
 			pressing need today is a great revaluation of motherhood.</p>
@@ -236,10 +241,10 @@
 			up with the future of all American children. For if our American stock, <del>our</del>
 			<add>the</add> boys and girls <add>of any of us</add>
 			<del>are</del>
-			<add>is</add> to be “marked down”, permitted to deteriorate, such a degradation will
+			<add>is</add> to be “marked down,” permitted to deteriorate, such a degradation will
 			affect the whole community. </p>
 		<p>Thus the <emph rend="underline">unity of motherhood</emph> is the great ideal. Upon this
-			basis the intelligent woman may befriend the less fortunate, approaching <del>her</del>
+			basis the intelligent woman may befriend the less <del>un</del>fortunate, approaching <del>her</del>
 			<add>them</add> with reverence and respect, teaching <del>her</del>
 			<add>them</add> and without condescension, <add>influencing <del>her</del> them</add>,
 				<del>but with the</del>
