@@ -3,12 +3,14 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2017-07-27 CH transcribe and encode</prepDate>
+		<prepDate>2015-08-07 CH enter proofread corrections</prepDate>
+		<prepDate>2015-08-07 CH proof tags</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-05-15">15 May 1916</docDate>
 		<docTitle>
-			<titlePart>Birth Control</titlePart>
+			<titlePart><supplied resp="MSPP">Birth Control</supplied></titlePart>
 		</docTitle>
 		<idno>msp422108</idno>
 		<sourceDesc>
@@ -42,28 +44,28 @@
 					reg="United States District Court for the Southern District of New York">Federal
 					Court</org> for advocating birth control. She was released and has since
 				addressed many prominent audiences on the subject.</p>
-			<p>The address of Mrs. Sanger probably has created more interest in advance among
+			<p>The address of Mrs. Sanger probably has created more interest in advance among the
 				delegates to the convention and those here who are attending the sessions than any
 				previous talk, because of the daring of her subject, her recent trial, and the fight
 				she has been making all over the country for birth control, and predictions are that
-				the assembly room will be filled to overflowing.</p>
+				the assembly room will be filled to over-flowing.</p>
 		</div>
 		<div type="section">
 			<head type="sub">Sees Much Quackery.</head>
 			<p>Mrs. Sanger says that during her fourteen-years' experience as a trained nurse she
 				found that quackery was thriving and that thousands of illegal operations were being
-				performed every year. These, she says, were principally on the women of the working
+				performed every year. These, she says, were principally on women of the working
 				class, and since the law deters reliable physicians from performing these operations
-				the working class have always been thrown into the hands of incompetent quacks with
+				the working women have always been thrown into the hands of incompetent quacks with
 				fatal results.</p>
-			<p>"I found that physicians and nurses were dealing with the symptoms rather than the
-					causes,"<q> says Mrs. Sanger.</q> Consequently, I decided to help remove the
+			<p>"I found that physicians and nurses were dealing with these symptoms rather than the
+					causes,"<q> says Mrs. Sanger.</q> "Consequently, I decided to help remove the
 				chief causes by imparting knowledge to prevent this system of things. I did this in
-				defiance of existing laws and their extreme penalty through the publication of the
-					<title type="journal">Woman Rebel</title>. The first issue of this magazine was
-				suppressed, as were seven of the first nine.</p>
+				defiance of existing laws and their extreme penalty through the publication of 
+					<title type="journal">The Woman Rebel</title>. The first issue of this magazine was
+				suppressed, as were seven out of the first nine.</p>
 			<p>"After my word had gone broadcast the Federal Grand Jury in New York city indicted me
-				on three counts. These indictments were based on articles in the <title
+				on three counts. These indictments were based on articles in three of the issues of the <title
 					type="journal">Woman Rebel</title>, which were branded as 'obscene.' The
 				authorities were anxious to forestall the distribution of this knowledge and knew
 				that this could only by done by imprisoning me. </p>
@@ -71,19 +73,21 @@
 		<div type="section">
 			<head type="sub">Published 100,000 Copies.</head>
 			<p>"I decided to avoid imprisonment, at least until I had given out the information I
-				wanted, so I published 100,000 copies of a pamphlet on "<title type="book">Family
-					Limitation</title>." After this I sailed to <place>England</place> and made a
+				wanted, so I published 100,000 copies of a pamphlet on '<title type="book">Family
+					Limitation</title>.' After this I sailed to <place>England</place> and made a
 				study of conditions in England, <place reg="Netherlands">Holland</place>,
 					<place>France</place> and <place>Spain</place>. I then returned to this country
-				and found the case that the government had brought against me. <person
+				and fought the case that the government had brought against me. <person
 					reg="Clayton, Henry DeLamar">Federal Judge Dayton</person> acquitted me.
 				Hundreds of requests have been made to me to renew '<title type="journal"
-					reg="Woman Rebel">The Woman Rebel</title>,' but I feel it has already
+					reg="The Woman Rebel">The Woman Rebel</title>,' but I feel it has already
 				accomplished its purpose to arouse interest. Now more constructive work is needed,
 				in meeting the people directly and interesting them in establishing free clinics in
 				these sections where women are overburdened with large families."</p>
-			<p><supplied resp="MSPP">The remainder of the article, which describes other speakers,
-					has not been included.</supplied></p>
+			<p>
+				<supplied resp="MSPP">The remainder of the article, which describes other speakers,
+					has not been included.</supplied>
+			</p>
 		</div>
 
 	</docBody>
