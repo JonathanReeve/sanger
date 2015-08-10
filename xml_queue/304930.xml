@@ -11,13 +11,13 @@
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
 		<prepDate>2015-03-31 EK update index</prepDate>
 		<prepDate>2015-07-17 CH removed extraneous title from doc title because it wasn't showing in
-			results. </prepDate>
+			results. </prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1913-10-05">5 Oct 1913</docDate>
 		<docTitle>
-			<titlePart>Review of THE EUGENIC MOTHER AND BABY</titlePart>
+			<titlePart>THE EUGENIC MOTHER AND BABY Book Review</titlePart>
 		</docTitle>
 		<idno>msp304930</idno>
 		<sourceDesc>

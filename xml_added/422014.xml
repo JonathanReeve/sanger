@@ -6,14 +6,14 @@
 		<prepDate>2015-01-08 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-07-10 EK correct proof and update index</prepDate>
-		<prepDate>2015-07-08 MC transcribed and encoded</prepDate>
+		<prepDate>2015-07-08 MC transcribed and encoded</prepDate><prepDate>2015-08-10 CH reg doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-01-26">26 Jan 1923</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Excerpts from Speech to the Hagerstown Woman's Club</supplied>
+				<supplied resp="MSPP">Hagerstown Woman's Club Speech (Excerpts)</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422014</idno>
@@ -49,8 +49,7 @@
 		<p>"Don't let prejudice and ignorance wipe out civilization," <q who="HMH">was the plea made
 				by Margaret Sanger, <place reg="New York, NY">New York</place>, President of the
 					<org>American Birth Control League</org>, speaking to one thousand and 68 men
-				and women who packed Stouffer's Academy
-				last night to hear her speak.</q></p>
+				and women who packed Stouffer's Academy last night to hear her speak.</q></p>
 		<p>
 			<q who="HMH">The "special officers" who <person reg="Bowman, Charles">Mayor
 					Bowman</person> said he would have placed in the audience to safeguard the
@@ -128,16 +127,15 @@
 			</p>
 			<p>
 				<q who="HMH">During the speech there was strict attention and hearty applause.
-					People sat in the benches which line the walls of the Stouffer's
-						Academy, they crowded into the tiny balcony where Prof. <person
-						reg="Stouffer, Frank B.">Stouffer</person> keeps pianos and old records and
-					victrolas, they stood in the back of the hall and sat on the steps.
-						Prof. Stouffer, who offered his dancing academy after the
-						<org reg="Young Women's Christian Association">Y.W.C.A.</org> had refused to
-					allow Mrs. Sanger to speak, said that there had been exactly 1068 admission. The
-					crowd lined the street before the First Hose Company building long before the
-					doors were open, and in the audience were representative men and women of the
-					cultured, intelligent type.</q>
+					People sat in the benches which line the walls of the Stouffer's Academy, they
+					crowded into the tiny balcony where Prof. <person reg="Stouffer, Frank B."
+						>Stouffer</person> keeps pianos and old records and victrolas, they stood in
+					the back of the hall and sat on the steps. Prof. Stouffer, who offered his
+					dancing academy after the <org reg="Young Women's Christian Association"
+						>Y.W.C.A.</org> had refused to allow Mrs. Sanger to speak, said that there
+					had been exactly 1068 admission. The crowd lined the street before the First
+					Hose Company building long before the doors were open, and in the audience were
+					representative men and women of the cultured, intelligent type.</q>
 			</p>
 		</div>
 		<div>

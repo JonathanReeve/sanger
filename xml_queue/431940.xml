@@ -3,7 +3,7 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2015-03-27 JC transcribed and encoded</prepDate>
-		<prepDate>2015-03-30 CH proof and enter tags</prepDate>
+		<prepDate>2015-03-30 CH proof and enter tags</prepDate><prepDate>2015-08-10 CH reg doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -11,7 +11,10 @@
 			<supplied resp="MSPP">1929</supplied>
 		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Foreword to LAWS CONCERNING BIRTH CONTROL IN THE UNITED STATES</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">LAWS CONCERNING BIRTH CONTROL IN THE UNITED
+					STATES Foreword</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp431940</idno>
 		<sourceDesc>

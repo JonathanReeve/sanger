@@ -6,14 +6,15 @@
 		<prepDate>2011/06/07 CE</prepDate>
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2014-04-02 CH clean regs</prepDate>
-		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH reg doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1936-11-24">24 Nov 1936</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Excerpts From The Case for Birth
-				Control</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">The Case for Birth Control (Excerpts)</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp101908</idno>
 		<sourceDesc>

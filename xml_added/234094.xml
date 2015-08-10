@@ -8,7 +8,7 @@
 		<prepDate>2004/08/09 CH</prepDate>
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing the doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,14 +17,15 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Opening Address for Birth Control Clinical Research Bureau
-					Dinner</supplied>
+				<supplied resp="MSPP">Birth Control Clinical Research Bureau
+					Dinner Opening Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp234094</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title> S71:153</bibl>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S71:153</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>

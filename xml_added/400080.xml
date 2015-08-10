@@ -6,15 +6,15 @@
 		<prepDate>2014-04-08 CH clean regs</prepDate>
 		<prepDate>2015-01-18 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-05-20 EK correct proof and update index</prepDate>
+		<prepDate>2015-05-20 EK correct proof and update index</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-07-13">13 July 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech at Public meeting during Fifth International
-					Neo-Malthusian and Birth Control Conference</supplied>
+				<supplied resp="MSPP">Fifth International
+					Neo-Malthusian and Birth Control Conference Public Meeting Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp400080</idno>
@@ -258,11 +258,11 @@
 			to bear on this subject. They do not intend to duplicate our errors. They do not intend
 			that the birth rate and the increase of population shall be among the unfit and the
 			diseased. They intend to direct the force of their organization and of this movement
-			against anything in that direction. This organization has for its president a sociologist, a <person reg="Abe, Isoo">professor in one of
-				the universities</person>, and also a member of the medical
-				profession. They have also a Labor leader
-			and a very well-known social worker, so that all branches
-			of their social and intellectual life are represented in the Birth Control League.</p>
+			against anything in that direction. This organization has for its president a
+			sociologist, a <person reg="Abe, Isoo">professor in one of the universities</person>,
+			and also a member of the medical profession. They have also a Labor leader and a very
+			well-known social worker, so that all branches of their social and intellectual life are
+			represented in the Birth Control League.</p>
 		<p>I think it is safe to say that Japan is keenly alive to the subject of Birth Control.
 			Just how long this will last none of us can predict, but if we were able to send our
 			missionaries there as the Church has done, I think we should go a very long way towards
@@ -279,18 +279,19 @@
 			the very near future.</p>
 		<p>Then we went to China, where we had not at first intended to go, as my original plan was
 			only to go to Japan and return home. The interest in China was just as great. I was able
-			to speak to 2,500 young students at the <org>National University</org>. The Chancellor himself and the Professors of the University
-			formed the first <org>Birth Control League of China</org>. There also they got busy at
-			once. This group met after dinner and organized the League. They took the practical
-			leaflet "<title type="book">Family Limitation</title>," translated it that night into
-			Chinese, and it was on the press next morning ready for printing. Five thousand of these
-			pamphlets were distributed later on in a few days, so that China took practically at
-			once to the subject, and especially to the practical side of it. They were, when I left
-				<place reg="Peking, China">Pekin</place>, looking for a physician to open a clinic,
-			especially in their poor sections, for the women. The <org>Rockefeller Institute</org>,
-			especially the nurses, were very keen on knowing something of the practical methods, and
-			they got up a meeting which I had the pleasure of addressing, and we were able to
-			discuss the practical side of carrying on the work in China.</p>
+			to speak to 2,500 young students at the <org>National University</org>. The Chancellor
+			himself and the Professors of the University formed the first <org>Birth Control League
+				of China</org>. There also they got busy at once. This group met after dinner and
+			organized the League. They took the practical leaflet "<title type="book">Family
+				Limitation</title>," translated it that night into Chinese, and it was on the press
+			next morning ready for printing. Five thousand of these pamphlets were distributed later
+			on in a few days, so that China took practically at once to the subject, and especially
+			to the practical side of it. They were, when I left <place reg="Peking, China"
+				>Pekin</place>, looking for a physician to open a clinic, especially in their poor
+			sections, for the women. The <org>Rockefeller Institute</org>, especially the nurses,
+			were very keen on knowing something of the practical methods, and they got up a meeting
+			which I had the pleasure of addressing, and we were able to discuss the practical side
+			of carrying on the work in China.</p>
 		<p>In Shanghai it was very interesting, although there was not the same interest shown,
 			perhaps, in the groups I was able to speak before. There was one group, however, the
 				<org>Family Reformation Society</org>, which has for its rules that you cannot

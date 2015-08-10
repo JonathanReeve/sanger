@@ -7,14 +7,14 @@
 		<prepDate>2007-09-05 CH correct doctype</prepDate>
 		<prepDate>2011-11-21 CH add index entries.</prepDate>
 		<prepDate>2014-03-30 CH clean regs</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-08-10 CH reg doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1920-12-08">8 Dec 1920</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Excerpts from Hotel Commodore Luncheon Address</supplied>
+				<supplied resp="MSPP">Hotel Commodore Luncheon Address (Excerpts)</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp128168</idno>

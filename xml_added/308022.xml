@@ -5,13 +5,15 @@
 		<prepDate>2010/03/10 AC</prepDate>
 		<prepDate>2010/03/18 CH proof</prepDate>
 		<prepDate>2014-03-11 CH clean regs and other errors</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH reg doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1934-00-00">1934</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Foreword to FOR LEGALIZED BIRTH CONTROL</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">FOR LEGALIZED BIRTH CONTROL Foreword</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp308022</idno>
 		<sourceDesc>

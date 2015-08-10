@@ -3,14 +3,15 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2014-06-26 CH transcribe and encode poor photocopy</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-08-04 ch clean index</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1932-01-19">19 Jan 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech at Corning, New York</supplied>
+				<supplied resp="MSPP">Corning New York Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421906</idno>
@@ -48,7 +49,8 @@
 		<index level1="eugenics" level2="MS on"/>
 		<index level1="overpopulation" level2="MS on"/>
 		<index level1="&quot;unfit&quot; to reproduce" level2="descriptions of"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"/>
+		<index level1="&quot;unfit&quot; to reproduce"
+			level2="as social burdens"/>
 		<index level1="United States" level2="birth control in"/>
 		<index level1="women" level2="health of"/>
 		<index level1="women" level2="reproductive choices and decisions"/>
