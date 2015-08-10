@@ -3,7 +3,7 @@
 <doc type="Published Interview">
 	<mepHeader>
 		<prepDate>2014-08-13 CH proof tags</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		<docDate value="1916-05-27">27 May 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Denver Post</supplied>
+				<supplied resp="MSPP">Denver Post Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422040</idno>
@@ -78,9 +78,9 @@
 			</p>
 			<p>
 				<q who="DP">To reach the public, Mrs. Sanger started a paper and named it the <title
-						type="journal" reg="The Woman Rebel">Woman Rebel</title>. Deliberately she published statements
-					which the Comstockian authorities held were a defiance of the federal law
-					pertaining to obscenity.</q>
+						type="journal" reg="The Woman Rebel">Woman Rebel</title>. Deliberately she
+					published statements which the Comstockian authorities held were a defiance of
+					the federal law pertaining to obscenity.</q>
 			</p>
 			<p>
 				<q who="DP">Returning from a trip to <place>England</place>, Margaret Sanger was

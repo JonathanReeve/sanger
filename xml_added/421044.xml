@@ -3,14 +3,14 @@
 <doc type="Published Speech">
 	<mepHeader>
 		<prepDate>2014-04-09 JK initial tags</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1932-01-19">19 Jan 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with Corning Leader</supplied>
+				<supplied resp="MSPP">Corning Leader Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421044</idno>
@@ -41,7 +41,7 @@
 	</headNote>
 	<docBody>
 		<head>Would Like to See Clinic in Corning</head>
-				<p>"I was quite moved; in fact, it seemed as though I was seeing faces
+		<p>"I was quite moved; in fact, it seemed as though I was seeing faces
 			of dear, remembered friends in a dream and I wanted to blink back
 			the tears." <q who="CL">answered Mrs. Margaret Sanger Slee, when
 				asked how she felt about the reception given at her public
@@ -55,15 +55,16 @@
 				control”</q>
 			<q who="CL">was the next question.</q>
 		</p>
-		<p>“First of all we are working for repeal of the <name reg="United States Criminal Code, Section 211">Comstock Federal law</name>
-			confusing birth control with obscene literature. Then we have at
-			present over 100 birth control clinics in the <place>United
-				States</place>. However I can not even direct a woman where she
-			may find one of these clinics in a letter sent though mail. Such an
-			act would be punishable by five years imprisonment and $5,000 fine.
-			The birth control clinics we have are established in accordance with
-			state laws.” </p>
-	
+		<p>“First of all we are working for repeal of the <name
+				reg="United States Criminal Code, Section 211">Comstock Federal
+				law</name> confusing birth control with obscene literature. Then
+			we have at present over 100 birth control clinics in the
+				<place>United States</place>. However I can not even direct a
+			woman where she may find one of these clinics in a letter sent
+			though mail. Such an act would be punishable by five years
+			imprisonment and $5,000 fine. The birth control clinics we have are
+			established in accordance with state laws.” </p>
+
 		<p>
 			<q who="UNK">“Is there anything you would like to see Corning do to
 				help your project.”</q>

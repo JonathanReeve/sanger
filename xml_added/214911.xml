@@ -4,13 +4,13 @@
 	<mepHeader>
 		<prepDate>2014/04/11 YG</prepDate>
 		<prepDate>2014/04/16 CH proof tags</prepDate>
-		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate>
+		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1938-10-22">22 Oct 1938</docDate>
 		<docTitle>
-			<titlePart>Interview with The Memphis Commercial Appeal</titlePart>
+			<titlePart>Memphis Commercial Appeal Interview</titlePart>
 		</docTitle>
 		<idno>msp214911</idno>
 		<sourceDesc>

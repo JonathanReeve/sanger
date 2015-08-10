@@ -2,8 +2,9 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published interview">
 	<mepHeader>
-		<prepDate>2015-05-15 JC transcribed and encodingk</prepDate>
+		<prepDate>2015-05-15 JC transcribed and encoding</prepDate>
 		<prepDate>2015-05-27 CH proof and enter tags</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +14,7 @@
 		<docDate value="1961-05-13">13 May 1961</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Associated Press</supplied>
+				<supplied resp="MSPP">Associated Press Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422066</idno>
@@ -66,10 +67,10 @@
 				<q who="MILJO">Then, humor getting the upper hand, she recalls:</q>
 			</p>
 			<p>"When I started out, I had to be very careful what words I used. The whole subject
-				was taboo. Even my <person reg="Higgins, Michael Hennessey">father</person>--and outspoken
-				Irishman who brought me up to do my own thinking--said to me one day: <q who="HIGMI"
-					>Margaret, can't you find some other subject in the world to talk about but the
-					bedroom?"</q> And he whispered when he said 'bedroom'."</p>
+				was taboo. Even my <person reg="Higgins, Michael Hennessey">father</person>--and
+				outspoken Irishman who brought me up to do my own thinking--said to me one day: <q
+					who="HIGMI">Margaret, can't you find some other subject in the world to talk
+					about but the bedroom?"</q> And he whispered when he said 'bedroom'."</p>
 			<p>
 				<q who="MILJO">But times have changed. The dignified little woman who was jailed at
 					least nine times and had her first clinic raided by police as a public nuisance

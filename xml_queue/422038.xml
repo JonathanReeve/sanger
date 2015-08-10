@@ -5,15 +5,15 @@
 		<prepDate>2014/07/15 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and enter</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-04-30 Correct proof and update index</prepDate><prepDate>2015-05-27 CH fix title, remove tags</prepDate>
+		<prepDate>2015-04-30 Correct proof and update index</prepDate>
+		<prepDate>2015-05-27 CH fix title, remove tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-04-20">28 Apr 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Chicago
-						Herald</supplied>
+				<supplied resp="MSPP">Chicago Herald Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422038</idno>

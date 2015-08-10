@@ -6,21 +6,20 @@
 		<prepDate>2014-12-19 CH proof tags and enter</prepDate>
 		<prepDate>2015-01-28 EK divide</prepDate>
 		<prepDate>2015/02/10 EK correct proof and index</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-05-19">19 May 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the St. Louis Post Dispatch</supplied>
+				<supplied resp="MSPP">St. Louis Post Dispatch Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp431939</idno>
 		<sourceDesc>
-			<bibl><title type="article">Mrs. Sanger Here to Spread Gospel of Birth
-					Control</title>, <title type="journal">St. Louis Post-Dispatch</title>, May
-				19, 1916</bibl>
+			<bibl><title type="article">Mrs. Sanger Here to Spread Gospel of Birth Control</title>,
+					<title type="journal">St. Louis Post-Dispatch</title>, May 19, 1916</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -59,19 +58,20 @@
 					birth control clinic for the instruction of women.</q>
 			</p>
 			<p>
-				<q who="STPD"> Mrs. Sanger, was the editor of <title type="journal" reg="The Woman Rebel">the Woman
-						Rebel</title>, which was discontinued after seven of the nine issues had
-					been confiscated by the postal authorities, and is the author of pamphlets on
-					family limitation. A Federal indictment charging her with improper use of the
-					mails was dismissed in February on the eve of her trial in New York. The reason
-					given was that it was desired to avoid making a martyr of her.</q>
+				<q who="STPD"> Mrs. Sanger, was the editor of <title type="journal"
+						reg="The Woman Rebel">the Woman Rebel</title>, which was discontinued after
+					seven of the nine issues had been confiscated by the postal authorities, and is
+					the author of pamphlets on family limitation. A Federal indictment charging her
+					with improper use of the mails was dismissed in February on the eve of her trial
+					in New York. The reason given was that it was desired to avoid making a martyr
+					of her.</q>
 			</p>
 			<p>
 				<q who="STPD">Mrs. Sanger, who arrived at the <org>Jefferson Hotel</org> this
-					morning, said to a <title type="journal" reg="St. Louis Post-Dispatch">Post-Dispatch</title> reporter that she
-					had no wish to be a martyr but she wanted the case to go to trial, desiring
-					acquittal at the hands of a jury and confidant that she would have been
-					acquitted.</q>
+					morning, said to a <title type="journal" reg="St. Louis Post-Dispatch"
+						>Post-Dispatch</title> reporter that she had no wish to be a martyr but she
+					wanted the case to go to trial, desiring acquittal at the hands of a jury and
+					confidant that she would have been acquitted.</q>
 			</p>
 		</div>
 		<div type="section">

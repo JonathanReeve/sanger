@@ -5,14 +5,14 @@
 		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
 		<prepDate>2015-06-10 CH proof tags</prepDate>
 		<prepDate>2015-06-29 CH enter corrected tags</prepDate>
-		<prepDate>2015-08-07 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-08-07 CH enter proofreading corrections</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-09-05">5 Sept 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the International News Service</supplied>
+				<supplied resp="MSPP">International News Service Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422070</idno>

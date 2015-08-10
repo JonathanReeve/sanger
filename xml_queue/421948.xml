@@ -3,14 +3,15 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2014-05-07 JK initial tag</prepDate>
-		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<prepDate>2015-04-02 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1940-02-19">19 Feb 1940</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Phoenix Mothers Health
-					Clinic</supplied>
+				<supplied resp="MSPP">Phoenix Mothers Health
+					Clinic Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421948</idno>
@@ -36,7 +37,8 @@
 	<docBody>
 		<head>Fight on Larger Battleground Forecast By Margaret Sanger </head>
 
-		<p><q who="AR">The fight of the <org
+		<p>
+			<q who="AR">The fight of the <org
 					reg="Birth Control Federation of America">National Birth
 					Control Federation</org> now has won as much as it can win
 				while supported only by individual capital; therefore it is
@@ -46,7 +48,8 @@
 				100 <place reg="Phoenix, AZ">Phoenix </place>women yesterday
 				afternoon.</q>
 		</p>
-		<p><q who="AR">Much important work has been done in the past years and
+		<p>
+			<q who="AR">Much important work has been done in the past years and
 				is being done by the federation, Mrs. Sanger said.</q>
 		</p>
 
@@ -92,17 +95,17 @@
 			overpopulated, amazing as this may seem.” <q who="AR"
 				>Overpopulation, she explained, means that the country will not
 				be able to support itself with its own resources. This is a
-				problem she continued, which has troubled the <place reg="Europe">Old
-					World</place> for many years. </q></p>
+				problem she continued, which has troubled the <place
+					reg="Europe">Old World</place> for many years. </q></p>
 		<p><q who="AR">Mrs. Sanger expressed her belief that the current
 				condition in Europe is the result of</q> “the breeding of
 			generations past.”</p>
 		<p>“We have been seeing for 10 years that <place>Germany</place>,
 				<place>Italy</place> and <place>Japan</place> were the three
-			danger spots,”<q who="AR"> she said;</q> “now this is proving correct; and they will
-			continue to be danger spots until some of these problems are talked
-			about and settled intelligently. The problem of population can be
-			solved. </p>
+			danger spots,”<q who="AR"> she said;</q> “now this is proving
+			correct; and they will continue to be danger spots until some of
+			these problems are talked about and settled intelligently. The
+			problem of population can be solved. </p>
 		<p>“I believe that birth control--which is control, not interference
 			with life, not destruction--means the ruling of intelligence. The
 			source of a great number of troubles today is that intelligence is

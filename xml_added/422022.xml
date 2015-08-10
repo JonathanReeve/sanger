@@ -5,14 +5,14 @@
 		<prepDate>2014/05/21 CH initial transcription</prepDate>
 		<prepDate>2014-05-21 MM encode</prepDate>
 		<prepDate>2014-12-18 CH proof and enter tags</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-10-22">22 Oct 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview on the Brownsville Clinic</supplied>
+				<supplied resp="MSPP">Brownsville Clinic Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422022</idno>
@@ -80,8 +80,8 @@
 			<p>"Do the women like it? Say, you ought to go down in the neighborhood we have
 				canvassed with secret circulars in the last 48 hours. The women have been coming in
 				by the dozens. You can hear them calling from house to house in the congested
-				districts: <q who="UNK">'Oh, <person reg="Rosenbaum, Mrs.">Mrs. Rosenbaum</person>, you ought to see this, this is
-					something fine.'</q>"</p>
+				districts: <q who="UNK">'Oh, <person reg="Rosenbaum, Mrs.">Mrs. Rosenbaum</person>,
+					you ought to see this, this is something fine.'</q>"</p>
 			<p>"Within two years every man and woman in this country will know how many children
 				they can afford to have. And when they know that, I predict that two generations of
 				birth control will wipe out all the slums, eliminate the birth of mental defectives,

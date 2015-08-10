@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014-06-25 CH proofed </prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-07-10 EK correct proof and update index</prepDate>
+		<prepDate>2015-07-10 EK correct proof and update index</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-03-01">1 Mar 1923</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the North Harlem Community Forum</supplied>
+				<supplied resp="MSPP">North Harlem Community Forum Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422012</idno>
@@ -57,8 +57,8 @@
 			</p>
 			<p>"<q>The women of <place>China</place> and <place>Japan</place> are very keen for
 					their emancipation,</q>" <q who="NYAN">she said,</q> "<q>much more so than
-					American women. I am deeply disappointed in the women of
-					<place reg="United States">America</place>,"</q>
+					American women. I am deeply disappointed in the women of <place
+						reg="United States">America</place>,"</q>
 				<q who="NYAN">she said,</q> "<q>they have the vote but have accomplished almost
 					nothing toward their emancipation.</q>"</p>
 		</div>
@@ -90,12 +90,12 @@
 				rich."</q></p>
 			<p>"<q>Mankind has always practiced birth control. Infanticide and foeticide dates back
 					to the earliest ages. In ancient <place>Greece</place>, <place>Egypt</place>,
-					and <place>Sparta</place> unwelcome babies were exposed for
-						<unclear resp="MSPP">48</unclear> hours and if they survived were permitted to live. In
-					China today girl babies are thrown into the canals. The modern system of birth
-					control aims to restrict excessive populations in a more humane way. It also
-					saves the strength and energy of the mother for her other duties, and for the
-					care of such children she may already have.</q>"</p>
+					and <place>Sparta</place> unwelcome babies were exposed for <unclear resp="MSPP"
+						>48</unclear> hours and if they survived were permitted to live. In China
+					today girl babies are thrown into the canals. The modern system of birth control
+					aims to restrict excessive populations in a more humane way. It also saves the
+					strength and energy of the mother for her other duties, and for the care of such
+					children she may already have.</q>"</p>
 
 			<p>
 				<q who="NYAN">Several policemen were on hand to see that Mrs. Sanger issued no birth

@@ -5,13 +5,13 @@
 		<prepDate>2011-08-05 NC</prepDate>
 		<prepDate>2013-04-30 CH proof tags</prepDate>
 		<prepDate>2014-07-03 CH clean regs</prepDate>
-		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1954-04-15">15 Apr 1954</docDate>
 		<docTitle>
-			<titlePart>Speech to the Japanese House of Councillors</titlePart>
+			<titlePart><supplied resp="MSPP">Japan House of Councillors Address</supplied></titlePart>
 		</docTitle>
 		<idno>msp305393</idno>
 		<sourceDesc>
@@ -165,8 +165,8 @@
 			effort is intended to satisfy people who earn a low income and whose number is actually
 			very large and urgently want the birth control. In relation to the present public health
 			and welfare program, in order to overcome the above mentioned difficulty, the Ministry
-			of Health and Welfare of Japan under the leadership of the Minister of Health and Welfare is very interested in the above mentioned
-			effort.</p>
+			of Health and Welfare of Japan under the leadership of the Minister of Health and
+			Welfare is very interested in the above mentioned effort.</p>
 		<p> In addition, it is known that Dr. <person reg="Koya, Yoshio">Koya</person> at the <org
 				reg="Japan Institute of Public Health">Institute of Public Health</org> has done an
 			excellent job in the above mentioned matter. According to Dr. Koya’s talk on the above

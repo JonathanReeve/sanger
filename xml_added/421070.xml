@@ -5,14 +5,14 @@
 		<prepDate>2014-03-05 JK initial tags</prepDate>
 		<prepDate>2014-03-13 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1933-11-23">23 Nov 1933</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Oklahoma Junior League</supplied>
+				<supplied resp="MSPP">Oklahoma Junior League Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421070</idno>

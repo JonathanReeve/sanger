@@ -3,14 +3,14 @@
 <doc type="Published interview">
 	<mepHeader>
 		<prepDate>2014-04-02 JK initial tag</prepDate>
-		<prepDate>2015-04-09 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-09 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1950-02-01">01 Feb 1950</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Chicago Daily Tribune</supplied>
+				<supplied resp="MSPP">Chicago Daily Tribune Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421930</idno>
@@ -24,15 +24,17 @@
 			<name id="CDT">Chicago Daily Tribune</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave a press interview at the <org>Drake Hotel</org> in <place
-				reg="Chicago, IL">Chicago</place>. For her later speech to <org
+	<headNote resp="MSPP">
+		<p>Sanger gave a press interview at the <org>Drake Hotel</org> in <place reg="Chicago, IL"
+				>Chicago</place>. For her later speech to <org
 				reg="Planned Parenthood Association, Chicago Area">Planned Parenthood of the Chicago
 				Area</org>, see <xref from="227217.xml">Pioneers of Progress</xref>, Feb. 2, 1950. </p>
 		<index level1="birth control" level2="in Chicago"/>
 		<index level1="planned parenthood"/>
 		<index level1="overpopulation" level2="MS on"/>
 		<index level1="population" level2="war and"/>
-		<index level1="war" level2="overpopulation and"/></headNote>
+		<index level1="war" level2="overpopulation and"/>
+	</headNote>
 	<docBody>
 		<head>MRS. SANGER URGERS BIRTH RATE CUT IF U.S. IS 'OUT FOR WAR'</head>
 

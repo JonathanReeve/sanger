@@ -5,7 +5,8 @@
 		<prepDate>2014/05/28 MM</prepDate>
 		<prepDate>2014-12-19 CH proof tags and enter</prepDate>
 		<prepDate>2015-02-12 EK correct proof and index</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-10 CH reg doc title</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH reg doc title</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,7 +16,7 @@
 		<docDate value="1916-05-20">20 May 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview for St. Louis Post-Dispatch (Excerpts)</supplied>
+				<supplied resp="MSPP">St. Louis Post-Dispatch Interview (Excerpts)</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422019</idno>

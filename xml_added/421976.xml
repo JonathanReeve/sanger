@@ -4,13 +4,13 @@
 	<mepHeader>
 		<prepDate>2014-06-26 MM</prepDate>
 		<prepDate>2015-01-05 CH proof tags, enter corrections</prepDate>
-		<prepDate>2015-01-28 EK correct proof</prepDate>
+		<prepDate>2015-01-28 EK correct proof</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-04-25">25 Apr 1916</docDate>
 		<docTitle>
-			<titlePart>Interview with the Chicago Daily News</titlePart>
+			<titlePart>Chicago Daily News Interview</titlePart>
 		</docTitle>
 		<idno>msp421976</idno>
 		<sourceDesc>
@@ -54,10 +54,10 @@
 				which forbids sending through the mails elleged objectionable matter having to do
 				with birth control" <q who="CDN">she declared, calmly.</q> "In that connection I
 				should like to emphasize this--that I believe the <org
-					reg="United States Postal Service">post office department</org> is overriding its
-				functions in becoming an ethical and moral institution, instead of remaining what it
-				should be--a public servant. I feel that it is becoming a great menace to the
-				liberties of the people.</p>
+					reg="United States Postal Service">post office department</org> is overriding
+				its functions in becoming an ethical and moral institution, instead of remaining
+				what it should be--a public servant. I feel that it is becoming a great menace to
+				the liberties of the people.</p>
 			<p>"My message to Chicago chiefly is this: I am desirous of establishing a free clinic
 				in your stockyards district. Once begun, it would be self-supporting, and that
 				district needs it. Knowledge of birth control is so important that it must be in the

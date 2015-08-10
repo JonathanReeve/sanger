@@ -3,7 +3,7 @@
 <doc type="Published Interview">
 	<mepHeader>
 		<prepDate>2014/06/11 AS encoded</prepDate>
-		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
+		<prepDate>2015-01-22 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -12,7 +12,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview Aboard the S.S. President Wilson</supplied>
+				<supplied resp="MSPP">S.S. President Wilson Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421963</idno>
@@ -99,8 +99,9 @@
 			<head type="sub">INDIAN SUPPORT</head>
 
 			<p>
-				<q who="HOUVE">The step which the <org reg="India Government">Indian government</org> took in supporting a
-					birth control program helped remove prejudice,</q>
+				<q who="HOUVE">The step which the <org reg="India Government">Indian
+						government</org> took in supporting a birth control program helped remove
+					prejudice,</q>
 				<q who="HSB"> she added.</q>
 			</p>
 			<p>

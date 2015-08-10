@@ -6,13 +6,14 @@
 		<prepDate>2015-02-13 EK proof index</prepDate>
 		<prepDate>2015-02-23 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-02-20">20 Feb 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech at the Bandbox Theatre on WOMAN REBEL Case</supplied>
+				<supplied resp="MSPP">Bandbox Theatre Speech on the WOMAN REBEL Case</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421997</idno>

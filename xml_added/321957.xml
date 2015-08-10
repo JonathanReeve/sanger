@@ -3,14 +3,16 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2015-01-06 CH transcribed and encoded</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up index</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-05 CH clean up index</prepDate><prepDate>2015-08-10 CH regularize doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-05-16">16 May 1926</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Women of Indianapolis</supplied>
+				<supplied resp="MSPP">National Conference of Charities and Correction
+					Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321957</idno>
@@ -28,7 +30,7 @@
 		<p>Sanger delivered this speech during the <org>National Conference of Charities and
 				Correction</org>, held at the <org>Claypool Hotel</org> in <place
 				reg="Indianapolis, IN">Indianapolis</place>. </p>
-				<index level1="birth control" level2="class-based"/>
+		<index level1="birth control" level2="class-based"/>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rate" level2="maternal"/>
 		<index level1="motherhood" level2="MS on"/>

@@ -5,15 +5,15 @@
 		<prepDate>2014/03/14 YG</prepDate>
 		<prepDate>2014-04-15 CH prrof tags</prepDate>
 		<prepDate>2014-05-02 JK correct tags</prepDate>
-		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-12-31">31 Dec 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the All-India Women's
-					Conference</supplied>
+				<supplied resp="MSPP">All-India Women's
+					Conference Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421905</idno>
@@ -274,9 +274,10 @@
 				to make demands beyond human nature and beyond human powers to
 				endure."</p>
 			<p>
-				<q who="TH">The name of the book was "<title type="book" reg="The Rhythm">Rhythm
-						babies when parents are ready</title>" by <person
-						reg="Latz, Leo J.">Leo J. Latz</person>.</q>
+				<q who="TH">The name of the book was "<title type="book"
+						reg="The Rhythm">Rhythm babies when parents are
+						ready</title>" by <person reg="Latz, Leo J.">Leo J.
+						Latz</person>.</q>
 			</p>
 			<p>
 				<q who="TH">The resolution was put to vote and carried by 82 to

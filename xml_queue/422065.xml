@@ -3,7 +3,7 @@
 <doc type="Published interview">
 	<mepHeader>
 		<prepDate>2015-05-15 JC transcribed and encoding</prepDate>
-		<prepDate>2015-05-27 CH proof tags and enter</prepDate>
+		<prepDate>2015-05-27 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,7 +15,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the United Press</supplied>
+				<supplied resp="MSPP">United Press Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422065</idno>

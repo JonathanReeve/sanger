@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2013/12/11 JK encoded</prepDate>
 		<prepDate>2014-09-10 CH clean up</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the United Press</supplied>
+				<supplied resp="MSPP">United Press Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421059</idno>

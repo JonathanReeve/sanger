@@ -5,7 +5,7 @@
 		<prepDate>2014-04-15 JK initial tag</prepDate>
 		<prepDate>2014-04-14 CH proof/enter tags</prepDate>
 		<prepDate>2014-04-23 JK correct tags</prepDate>
-		<prepDate>2015-03-27 CH recheck tags</prepDate>
+		<prepDate>2015-03-27 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		<docDate value="1937-02-17">17 Feb 1937</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the United Press</supplied>
+				<supplied resp="MSPP">United Press Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421921</idno>
@@ -49,9 +49,9 @@
 		<p>“We shall close our <place reg="Washington, DC">Washington</place> lobby, which has been
 			maintained for several years, about March 1,” <q who="HEIEJ">she said.</q> “We believe
 			it no longer is necessary to attempt to change the law in view of the recent <org
-				reg="United States Circuit Court of Appeals">Circuit Court of
-				Appeals</org> decision which held birth control appliances and information may be
-			sent through the mails or in interstate commerce.”</p>
+				reg="United States Circuit Court of Appeals">Circuit Court of Appeals</org> decision
+			which held birth control appliances and information may be sent through the mails or in
+			interstate commerce.”</p>
 		<p>
 			<q who="HEIEJ">At the same time, Mrs. Sanger predicted, the number of birth control
 				clinics in the <place>United States</place> would be doubled by the end of 1937 as

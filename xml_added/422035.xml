@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/07/08 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-04-08">08 Apr 1923</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the New York World</supplied>
+				<supplied resp="MSPP">New York World Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422035</idno>
@@ -46,13 +46,13 @@
 			<q who="NYW">WHEN <person reg="Sanger, Margaret">Margaret Sanger</person> attempted to
 				establish the <org reg="Brownsville Clinic">first Birth Control clinic</org> in
 					<place reg="United States">America</place> a few years ago, the <org
-					reg="New York City Police Department">New York police</org> came down on her with a
-				heavy hand. Mrs. Sanger and her assistants were arrested and lengthy legal battles
-				ensued. Undaunted and undiscouraged, Margaret Sanger set out to change current
-				opinion. From the Brownsville district in <place reg="Brooklyn, NY">Brooklyn</place>
-				she has carried her message of fewer but better babies completely around the world,
-				and finally into the legislative halls of <place reg="Albany, NY"
-				>Albany.</place></q>
+					reg="New York City Police Department">New York police</org> came down on her
+				with a heavy hand. Mrs. Sanger and her assistants were arrested and lengthy legal
+				battles ensued. Undaunted and undiscouraged, Margaret Sanger set out to change
+				current opinion. From the Brownsville district in <place reg="Brooklyn, NY"
+					>Brooklyn</place> she has carried her message of fewer but better babies
+				completely around the world, and finally into the legislative halls of <place
+					reg="Albany, NY">Albany.</place></q>
 		</p>
 		<p>
 			<q who="NYW">Next week, April 10, there will be a hearing in the <org

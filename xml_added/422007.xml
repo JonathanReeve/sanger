@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2014/07/01 CH proof tags</prepDate>
 		<prepDate>2014-08-15 CH proof and enter</prepDate>
-		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-13 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -16,7 +16,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview at the Pacific Club</supplied>
+				<supplied resp="MSPP">Pacific Club Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422007</idno>
@@ -59,9 +59,9 @@
 					Conference on Planned Parenthood</org> and Overpopulation.</q>
 		</p>
 
-		<p>"We've seen the three countries which are overpopulated--<place>Italy</place>, 
-			<place>Germany</place>, and Japan," <q who="HSB">Mrs. Sanger said at an interview at the
-					<org>Pacific Club</org>, where a luncheon was given for her by the <org>Watumull
+		<p>"We've seen the three countries which are overpopulated--<place>Italy</place>,
+				<place>Germany</place>, and Japan," <q who="HSB">Mrs. Sanger said at an interview at
+				the <org>Pacific Club</org>, where a luncheon was given for her by the <org>Watumull
 					Foundation</org>.</q></p>
 		<p>"They had to branch out to other countries and finally move on to war.</p>
 		<p>"With the terrible lesson of war fresh in their minds, the peoples of these countries are

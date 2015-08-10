@@ -3,14 +3,15 @@
 <doc type="Published article">
 	<mepHeader>
 		<prepDate>2014/04/23 VS initial tags</prepDate>
-		<prepDate>2015-04-08 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-08 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1944-10-30">30 Oct 1944</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Speech to El Paso Mother's Health
-				Clinic</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">El Paso Mother's Health Clinic Speech</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421954</idno>
 		<sourceDesc>
@@ -35,10 +36,12 @@
 				today.</q>
 		</p>
 
-		<p><q who="EPHP"> While the war has increased the number of small families with the result
+		<p>
+			<q who="EPHP"> While the war has increased the number of small families with the result
 				that the <place>United States</place> had one million more babies last year than in
 				pre-war times, it has cut down on the number of children per family, Mrs. Sanger
-				said.</q></p>
+				said.</q>
+		</p>
 
 		<p> “War babies” <q who="EPHP">have a good future, because their parents are younger and
 				have better health and stamina to give them and because in most instances the babies
@@ -48,7 +51,8 @@
 			well as the number of children in orphanages, has increased. That is a bad result, along
 			with the good, of the war.”</p>
 
-		<p><q who="EPHP"> Mrs. Sanger believes world-wide control of population growth, as well as
+		<p>
+			<q who="EPHP"> Mrs. Sanger believes world-wide control of population growth, as well as
 				natural resources, must be considered at the peace table conference.</q>
 		</p>
 

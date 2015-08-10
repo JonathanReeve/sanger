@@ -6,14 +6,15 @@
 		<prepDate>2014/02/27 CH proof</prepDate>
 		<prepDate>2014/03/07 YG correct</prepDate>
 		<prepDate>2015/02/12 EK correct proof and index</prepDate>
-		<prepDate>2015-03-04 CH recheck tags</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-07-22 CH correct titles</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1917-03-06">6 Mar 1917</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Remarks on Release From Prison</supplied>
+				<supplied resp="MSPP">Queens County Penitentiary Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421007</idno>

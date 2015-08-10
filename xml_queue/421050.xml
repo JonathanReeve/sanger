@@ -4,15 +4,17 @@
 	<mepHeader>
 		<prepDate>2013/11/20 JK encoded</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1931-04-14">
 			<supplied resp="MSPP">14 Apr 1931</supplied>
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Remarks at the American Women's Association
-					Clubhouse</supplied>
+				<supplied resp="MSPP">American Women's Association
+					Clubhouse Remarks</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421050</idno>

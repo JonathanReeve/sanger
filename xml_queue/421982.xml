@@ -3,13 +3,18 @@
 <doc type="Published interview">
 	<mepHeader>
 		<prepDate>2014-06-24 MM </prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docAuthor><person reg="Kaizawa, Tomi"/></docAuthor>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docAuthor>
+			<person reg="Kaizawa, Tomi"/>
+		</docAuthor>
 		<docDate value="1959-03-06">6 Mar 1959</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the Honolulu
-				Bulletin</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Honolulu Bulletin Interview</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421982</idno>
 		<sourceDesc>
@@ -33,9 +38,11 @@
 		<p><q who="HSB">Margaret Sanger, birth control crusader, today accused the</q> "powers that
 			be" <q who="HSB">of the Catholic Church of</q> "short-sighted, political not religious
 			thinking" <q who="HSB">regarding planning parenthood.</q></p>
-		<p><q who="HSB">She asserted in an interview in her <org>Reef Hotel</org> penthouse suite
+		<p>
+			<q who="HSB">She asserted in an interview in her <org>Reef Hotel</org> penthouse suite
 				that "the <org reg="Roman Catholic Church">Catholic Church</org> is the only one
-				against us. All the other churches are definitely in favor of our program.</q></p>
+				against us. All the other churches are definitely in favor of our program.</q>
+		</p>
 		<p>"The Catholics' reasons are politically, not religiously, motivated."</p>
 		<p>"And members of the church are expected to follow blindly."</p>
 		<p>"But not all of them do," <q who="HSB">she asserted and claimed there are</q> "just as
@@ -44,13 +51,16 @@
 		<p><q who="HSB">She noted </q>"mothers--Catholic or otherwise--are all the same. They want
 			to be healthy and have healthy children. Fathers, too, are all the same. They want their
 			wives alive and healthy."</p>
-		<p><q who="HSB">She said it is widely used in the <place reg="United States">U.S.</place> today with</q> "very few side
-			effects. Occasionally I have heard of a woman getting a headache from it."</p>
+		<p><q who="HSB">She said it is widely used in the <place reg="United States">U.S.</place>
+				today with</q> "very few side effects. Occasionally I have heard of a woman getting
+			a headache from it."</p>
 		<p>"Like all contraceptives, the pill is 100 per cent effective if it's used, not forgotten
 			on the shelf,"<q who="HSB"> she stated.</q></p>
-		<p><q who="HSB">Mrs. Sanger, who has been championing the cause of birth control for over 40
-				of her 70-plus years, sees the need for more research in getting an even easier
-				contraceptive.</q></p>
+		<p>
+			<q who="HSB">Mrs. Sanger, who has been championing the cause of birth control for over
+				40 of her 70-plus years, sees the need for more research in getting an even easier
+				contraceptive.</q>
+		</p>
 		<p><q who="HSB">Mrs. Sanger said her interest in birth control was sparked when as a nurse
 				she was</q> "in touch with all the misery unplanned parenthood brought." </p>
 		<p>"The problem is most pressing in the <place reg="Asia">Orient</place>" <q who="HSB">she

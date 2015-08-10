@@ -7,15 +7,15 @@
 		<prepDate>2014-03-05 JK corrected tag</prepDate>
 		<prepDate>2014-11-14 CH clean regs</prepDate>
 		<prepDate>2015-03-02 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-22-12">Dec 22 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech at the Taj Mahal Hotel
-					Luncheon</supplied>
+				<supplied resp="MSPP">Taj Mahal Hotel
+					Luncheon Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421064</idno>

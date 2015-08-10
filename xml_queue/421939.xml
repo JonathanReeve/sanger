@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014-04-14 CH transcribe and encode</prepDate>
 		<prepDate>2014-04-18 EK correct proof</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-04-27">27 Apr 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview in Chicago</supplied>
+				<supplied resp="MSPP">Day Book Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421939</idno>

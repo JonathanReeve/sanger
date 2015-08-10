@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2011-08-05 NC</prepDate>
 		<prepDate>2014-03-26 CH clean regs</prepDate>
-		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,8 +13,8 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Message to the Planned Parenthood Association Chicago
-					Area</supplied>
+				<supplied resp="MSPP">Planned Parenthood Association Chicago
+					Area Congratulations</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp228448</idno>

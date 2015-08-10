@@ -6,13 +6,13 @@
 		<prepDate>2014/02/07 CH proof</prepDate>
 		<prepDate>2014/02/07 YG correct</prepDate>
 		<prepDate>2014-11-11 CH clean regs</prepDate>
-		<prepDate>2015-03-22 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-22 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1936-02-06">06 Feb 1936</docDate>
 		<docTitle>
-			<titlePart>Interview with the Rangoon Gazette</titlePart>
+			<titlePart>Rangoon Gazette Interview</titlePart>
 		</docTitle>
 		<idno>msp421092</idno>
 		<sourceDesc>
@@ -25,14 +25,16 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This is the second of two interviews published in the <title
-				type="journal">Rangoon Gazette</title> on Sanger's arrival in <place>Burma</place>.
-			For the first interview see <xref from="421091.xml">Feb. 5, 1936</xref>.</p>
+	<headNote resp="MSPP">
+		<p>This is the second of two interviews published in the <title type="journal">Rangoon
+				Gazette</title> on Sanger's arrival in <place>Burma</place>. For the first interview
+			see <xref from="421091.xml">Feb. 5, 1936</xref>.</p>
 		<index level1="birth control" level2="access to" level3="international"/>
 		<index level1="Italy" level2="pro-natalism in"/>
 		<index level1="Japan" level2="population policies of"/>
 		<index level1="overpopulation" level2="colonialism and"/>
-		<index level1="overpopulation" level2="threat to peace as"/></headNote>
+		<index level1="overpopulation" level2="threat to peace as"/>
+	</headNote>
 	<docBody>
 		<head>Surplus Population</head>
 		<head type="sub">Dr. Margaret Sanger's Remedy</head>
@@ -74,10 +76,12 @@
 				inevitable as the population increased that she would begin to clamor of an overseas
 				home- a colony.”</p>
 
-			<p><q who="RG">Is Italy's large surplus population due to Mussolini? Dr. Sanger seems to
-					think so. It is her opinion that the people would have been quite content to
+			<p>
+				<q who="RG">Is Italy's large surplus population due to Mussolini? Dr. Sanger seems
+					to think so. It is her opinion that the people would have been quite content to
 					limit the number of their families had not Mussolini's greed for power and more
-					land led him to encourage a more prolific birth-rate.</q></p>
+					land led him to encourage a more prolific birth-rate.</q>
+			</p>
 
 			<p>“I was in Italy a few years ago,” <q who="RG">Dr. Sanger said, </q>“and people from
 				villages close to where I stayed pleaded with me to divulge ways of limiting their

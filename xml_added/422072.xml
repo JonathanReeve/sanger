@@ -5,14 +5,14 @@
 		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
 		<prepDate>2015-06-10 CH proof tags</prepDate>
 		<prepDate>2015-06-29 CH enter corrected tags</prepDate>
-		<prepDate>2015-07-15 Ek correct proof and update index</prepDate>
+		<prepDate>2015-07-15 Ek correct proof and update index</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-08-02">2 Aug 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the International News Service</supplied>
+				<supplied resp="MSPP">International News Service Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422072</idno>
@@ -89,8 +89,10 @@
 				because the laws of England do not forbid such discussion. Anyway it is notable that
 				even the women who take part in an English discussion are fundamentally puritanical
 				in their expression."</p>
-			<p><q who="WOLCL">"And what about the attitude of the English men towards the free
-					discussion of sex questions?"</q></p>
+			<p>
+				<q who="WOLCL">"And what about the attitude of the English men towards the free
+					discussion of sex questions?"</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub">English Men Ahead</head>

@@ -4,15 +4,15 @@
 	<mepHeader>
 		<prepDate>2015-05-26 LH encoded and transcribed </prepDate>
 		<prepDate>2015-05-26 CH proof tags</prepDate>
-		<prepDate>2015-05-27 LH correct tags</prepDate>
+		<prepDate>2015-05-27 LH correct tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1950-11-04">4 Nov 1950</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Message to the Planned Parenthood Federation of
-					America</supplied>
+				<supplied resp="MSPP">Planned Parenthood Federation of
+					America Luncheon Message</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422061</idno>

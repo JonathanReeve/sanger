@@ -6,20 +6,20 @@
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2009-07-20 CH correct format on docDate value </prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1931-10-23">23 Oct 23 1931</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech for H. G. Wells Tribute Dinner</supplied>
+				<supplied resp="MSPP">H. G. Wells Tribute Dinner Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp143458</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl type="mf">Library of Congress Microfilm 131:0128</bibl>
+			<bibl><title type="mf">Library of Congress Microfilm 131:0128</title></bibl>
 		</sourceDesc>
 		<respStmt>
 			<name id="WELHG">Wells, H. G.</name>

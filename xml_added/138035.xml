@@ -6,13 +6,16 @@
 		<prepDate>2014/03/10 EK clean regs</prepDate>
 		<prepDate>2014-03-11 CH clean regs</prepDate>
 		<prepDate>2015-02-18 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularize document title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1933-09-28">28 Sept 1933</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Speech to the Women's Arts and Industries Exposition</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Women's Arts and Industries
+					Exposition Address</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp138035</idno>
 		<sourceDesc>

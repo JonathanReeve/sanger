@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2015-02-04 VV Transcribe and encode</prepDate>
 		<prepDate>2015-02-04 CH proof tags and enter</prepDate>
-		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-13 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1954-10-05">05 Oct 1954</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with The Daily Collegian</supplied>
+				<supplied resp="MSPP">Daily Collegian Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp431937</idno>
@@ -53,13 +53,13 @@
 				patients each year.</q>
 		</p>
 		<p>
-			<q who="DC">Mrs. Sanger said that her first publication, "<title type="journal"
-				>The Woman Rebel</title>" was published for the express purpose of exposing the
-					<name type="law" reg="United States Criminal Code, Section 211">Comstock
-					Law</name>. It lasted almost a year, but each copy was suppressed almost
-				immediately after printing. Today the organization publishes the scientific "<title
-					type="journal">Journal of Fertility</title>" and the "<title type="journal"
-					>Birth Control News</title>," which is distributed to its members.</q>
+			<q who="DC">Mrs. Sanger said that her first publication, "<title type="journal">The
+					Woman Rebel</title>" was published for the express purpose of exposing the <name
+					type="law" reg="United States Criminal Code, Section 211">Comstock Law</name>.
+				It lasted almost a year, but each copy was suppressed almost immediately after
+				printing. Today the organization publishes the scientific "<title type="journal"
+					>Journal of Fertility</title>" and the "<title type="journal">Birth Control
+					News</title>," which is distributed to its members.</q>
 		</p>
 		<p>
 			<q who="DC">When asked about other hindrances that faced her and the organization, she

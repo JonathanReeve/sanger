@@ -3,14 +3,14 @@
 <doc type="Published interview">
 	<mepHeader>
 		<prepDate>2015-05-15 JC transcribe and encoding</prepDate>
-		<prepDate>2015-05-27 CH proof and enter tags</prepDate>
+		<prepDate>2015-05-27 CH proof and enter tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1934-05-24">24 May 1934</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Associated Press</supplied>
+				<supplied resp="MSPP">Associated Press Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422044</idno>
@@ -26,9 +26,9 @@
 			<name id="UNK">Unknown</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>The event discussed was likely the <org>American Conference on Birth
-				Control and National Recovery</org>, held in Washington in January 1934, and hosted
-			by Lelia Dryden.</p>
+	<headNote resp="MSPP">
+		<p>The event discussed was likely the <org>American Conference on Birth Control and National
+				Recovery</org>, held in Washington in January 1934, and hosted by Lelia Dryden.</p>
 		<index level1="Sachs, Sadie"/>
 		<index level1="Sanger, Margaret" level2="awards and tributes"/>
 		<index level1="birth control clinics and leagues" level2="need for"/>

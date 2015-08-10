@@ -5,7 +5,7 @@
 		<prepDate>2013-11-13 JK encoded</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
 		<prepDate>2015-02-12 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,8 +15,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to Connecticut Birth Control League, Hartford
-					Branch</supplied>
+				<supplied resp="MSPP">Connecticut Birth Control League Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421046</idno>
@@ -53,7 +52,8 @@
 						York</place> presented the case for birth control at a lecture held under
 					the auspices of the <org reg="Connecticut Birth Control League, Hartford Branch"
 						>Hartford Branch</org> of the <org>Connecticut Birth Control League</org> in
-					the parish house of <org reg="St. John's Episcopal Church">St. John’s Church</org>, Saturday afternoon.</q>
+					the parish house of <org reg="St. John's Episcopal Church">St. John’s
+						Church</org>, Saturday afternoon.</q>
 			</p>
 			<p>
 				<q who="HC"> The lecture was attended by nearly 500 persons, many of whom signed

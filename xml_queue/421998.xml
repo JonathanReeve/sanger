@@ -5,14 +5,14 @@
 		<prepDate>2014-06-25 CH proofed </prepDate>
 		<prepDate>2015-02-05 Proof tags and enter.</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-07-16 EK update indexes</prepDate>
+		<prepDate>2015-07-16 EK update indexes</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-01-10">10 Jan 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview on Woman Rebel Case</supplied>
+				<supplied resp="MSPP">Woman Rebel Case Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421998</idno>
@@ -78,11 +78,11 @@
 		<div type="section">
 			<head type="sub">Her Publication Suppressed.</head>
 			<p>"I was astonished at this and it was then that I began to publish the <title
-					type="journal" reg="The Woman Rebel">Woman Rebel</title> to call attention to the conditions, and
-				addressed to the working women of America. The publication seemed innocuous to me,
-				but the postal authorities suppressed the first edition and seven editions out of
-				nine were suppressed and confiscated because they discussed the most innocent side
-				of the subject.</p>
+					type="journal" reg="The Woman Rebel">Woman Rebel</title> to call attention to
+				the conditions, and addressed to the working women of America. The publication
+				seemed innocuous to me, but the postal authorities suppressed the first edition and
+				seven editions out of nine were suppressed and confiscated because they discussed
+				the most innocent side of the subject.</p>
 			<p>"My question was whether working women can afford to keep large families and whether
 				they are willing to hear discussion on the subject. I was not allowed to give the
 				message to the working women. I insisted then and now that a discussion of this was

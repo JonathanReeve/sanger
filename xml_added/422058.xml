@@ -5,14 +5,14 @@
 		<prepDate>2015-05-26 LH encoded and transcribed</prepDate>
 		<prepDate>2015-05-29</prepDate>
 		<prepDate>2015-06-10 LH edits</prepDate>
-		<prepDate>2015-06-25 CH clean up </prepDate>
+		<prepDate>2015-06-25 CH clean up </prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1938-02-21">21 Feb 1938</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Message to the El Paso Mothers Health Center</supplied>
+				<supplied resp="MSPP">El Paso Mothers Health Center Message</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422058</idno>

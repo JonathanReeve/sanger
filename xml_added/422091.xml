@@ -5,6 +5,7 @@
 		<prepDate>2015-05-27 EK initial encoding and transcription</prepDate>
 		<prepDate>2015-05-27 research and index EK</prepDate>
 		<prepDate>2015-07-02 correct proofs and update index</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -56,15 +57,16 @@
 		<p>Infanticide}</p>
 		<list>
 			<item><person reg="Plato (Greek)">Plato</person> exposure elements condemned
-					<add>children <unclear>depravity</unclear></add>.</item>
+					<add>children <unclear resp="MSPP">depravity</unclear></add>.</item>
 			<item><person reg="Aristotle (Greek)">Aristotle</person> State fix no. of
 				children.</item>
-			<item><person reg="Seneca, Lucius Annaeus (Roman)">Seneca</person> "we <unclear>drowned</unclear> or
-				destroy weakly deformed <unclear>children."</unclear></item>
+			<item><person reg="Seneca, Lucius Annaeus (Roman)">Seneca</person> "we <unclear
+					resp="MSPP">drowned</unclear> or destroy weakly deformed <unclear resp="MSPP"
+					>children."</unclear></item>
 			<item><place reg="Rome, Italy">Rome</place> reared only healthy children.</item>
 		</list>
 		<p>Infanticide greatest &amp; most common crime of <emph rend="underline"><place>Western
-					Europe</place></emph> middle ages <unclear>down</unclear>
+					Europe</place></emph> middle ages <unclear resp="MSPP">down</unclear>
 			<add>end</add> 18 century. <place><emph rend="underline">Germany</emph></place> 20,000
 			women.</p>
 		<p>Threats of hell, torture, punishments did not avail to reduce crime of infanticide. It
@@ -72,7 +74,8 @@
 		<p>So will <emph rend="underline">abortions</emph> cease when B.C. becomes generally
 			practiced.</p>
 		<p>Definition} BC conscious control birth rate means for B.C. key to greatest human problems
-			reconciling <unclear>humanitarian</unclear> to race <unclear>improvement</unclear></p>
+			reconciling <unclear resp="MSPP">humanitarian</unclear> to race <unclear resp="MSPP"
+				>improvement</unclear></p>
 		<p>Today without B.C. these <del>are</del>
 			<add>not only</add> injurious but dangerous to civilization. Charity today is a crime
 			against future generations.</p>
