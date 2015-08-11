@@ -8,6 +8,8 @@
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
 		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<prepDate>2015-08-11 EK update index</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -29,10 +31,10 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Margaret Sanger was interviewed while in <place reg="Chicago, IL">Chicago</place> on her 1916 American tour. For related
-			speeches from this tour see "<xref from="128003.xml">Birth Control</xref>," Apr. 25,
-			1916 and "<xref from="236132.xml">Birth Control (Chicago Address to Women)</xref>," Apr.
-			25-May 7, 1916.</p>
+		<p>Margaret Sanger was interviewed while in <place reg="Chicago, IL">Chicago</place> on her
+			1916 American tour. For related speeches from this tour see "<xref from="128003.xml"
+				>Birth Control</xref>," Apr. 25, 1916 and "<xref from="236132.xml">Birth Control
+				(Chicago Address to Women)</xref>," Apr. 25-May 7, 1916.</p>
 		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="birth rate" level2="differential"/>
@@ -47,29 +49,16 @@
 	</headNote>
 	<docBody>
 		<head>Mrs. Sanger Explains Where Most Chicago Babies Come From</head>
-		<p><q who="TDB">What makes <place reg="Chicago, IL">Chicago</place> grow? Where do the babies
-				come from? From what districts do the increase of business customers, the increase
-				of population, that cause rising land values, come from?</q></p>
+		<p><q who="TDB">What makes <place reg="Chicago, IL">Chicago</place> grow? Where do the
+				babies come from? From what districts do the increase of business customers, the
+				increase of population, that cause rising land values, come from?</q></p>
 		<p><q who="TDB">Margaret Sanger, birth control advocate answers. She says working class
 				women, pro rata, woman for woman, breed and bring to the daylight of Chicago three
 				times as many babies as the women of the rich and well-to-do class.</q></p>
-			<p>"I am getting the figures on Chicago," <q who="DB">said Mrs. Sanger to a <title
+		<p>"I am getting the figures on Chicago," <q who="DB">said Mrs. Sanger to a <title
 					type="journal">Day Book</title> reporter at <org>Congress Hotel</org> today.</q>
-			"And I am sure that the showing in Chicago will be much the same as that of <place
-				reg="Paris, France">Paris</place> and of <place reg="Berlin, Germany"
-			>Berlin</place>.</p>
-		<p>"The women on the fashionable Lake Shore drive have the money to pay physicians to tell
-			the growing daughters, young married women, how to take care of themselves. They know
-			how to stop babies from coming when babies are not wanted. Skilled physicians give these
-			women this knowledge on how to stop the babies from coming."</p>
-		<p>"In the stockyards district, or any other swarming working class district, babies and
-			babies come and these babies are not welcome. They arrive because the mothers don't have
-			the same knowledge as the women on the Lake Shore drive."</p>
-		<p>"A survey in Paris showed 32 births per 1,000 among women in a residential district of
-			rich. In a poor working class district, a typical one, the birth rate was 116 per
-			1,000."</p>
-		<p>"In <place reg="Berlin, Germany">Berlin</place> the rate was 47 per 1,000 among the well-to-do women and 157 per 1,000 among
-			the poor."</p>
+			"And I am sure the showing Chicago will be much the same as <place reg="Paris, France"
+				>Paris</place> and of <place reg="Berlin, Germany">Berlin</place>.</p>
 		<p>
 			<q who="TDB">Mrs. Sanger lectures Sunday night in <org reg="Little Theater of Chicago"
 					>Little theater</org>, <org reg="Fine Arts Building">Fine Arts bldg</org>. Her
@@ -88,13 +77,12 @@
 				personally served mothers in several thousand births. She is herself the mother of
 				two superb children, and has won her way against terrific opposition by force of an
 				unusual personality.</q></p>
-		<p>"Of course, it is not pleasant for some girls to face the facts of birth control," <q who="TDB">she
-			said. </q>"But I would urge upon any wife of an underpaid <supplied>man chance?</supplied>
-			that it is far more unpleasant for her to find herself burdened down with half a dozen
-			children she never wished for, helpless, starved, shoddily clothed children dragging at
-			her skirts and she only a dragged-out shadow of the woman she once was."</p>
-
-
+		<p>"Of course, it is not pleasant for some girls to face the facts of birth control," <q
+				who="TDB">she said.</q> "But I would urge upon any wife of an underpaid
+				<supplied>man chance?</supplied> that it is far more unpleasant for her to find
+			herself burdened down with half a dozen children she never wished for, helpless,
+			starved, shoddily clothed children dragging at her skirts and she only a dragged-out
+			shadow of the woman she once was."</p>
 		<p>"Women of the working class, especially wage workers, should not have more than two
 			children at the most. The average workingman can support no more and the average working
 			woman can take care of no more in decent fashion."</p>

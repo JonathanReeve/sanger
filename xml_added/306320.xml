@@ -10,6 +10,7 @@
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-06 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,17 +29,20 @@
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="Woman Rebel, The " level2="birth control and"/>
-		<index level1="Woman Rebel, the" level2="suppression of"/>
-		<index level1="Woman Rebel, The" level2="legal case and"/>
-		<index level1="working classes " level2="women and girls"/>
-		<index level1="birth control laws and legislation" level2="Comstock Law"/>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="laws and legislation"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="Sanger, Margaret" level2="arrests"/>
-		<index level1="obscenity"/>
-		<index level1="Sanger, William" level2="arrest"/>
-		<index level1="Sanger, William" level2="trial and imprisonment"/>
-	</headNote>
+		<index level1="censorship"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
+		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="Woman Rebel, The" level2="birth control and"/>
+		<index level1="working classes" level2="and birth control"/>
+		<index level1="birth control laws and legislation" level2="Comstock Law"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
+		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
+		<index level1="Sanger, William" level2="arrests, trial and imprisonment"/>
+		</headNote>
 	<docBody>
 		<head>"<title type="journal">The Woman Rebel</title>" and The Fight for Birth Control</head>
 		<p>During fourteen years experience as a trained nurse, I found that a great percentage of
