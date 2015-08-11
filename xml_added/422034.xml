@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-07-02 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and edit</prepDate>
-		<prepDate>2015-04-08 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-08 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Daily Collegian</supplied>
+				<supplied resp="MSPP">Daily Collegian Interview</supplied>
 			</titlePart>
 
 		</docTitle>

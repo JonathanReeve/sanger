@@ -12,12 +12,13 @@
 		<prepDate>2015-03-31 EK update index</prepDate>
 		<prepDate>2015-07-17 CH removed extraneous title from doc title because it wasn't showing in
 			results. </prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate><prepDate>2015-08-11 CH fixed a typo</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1913-10-05">5 Oct 1913</docDate>
 		<docTitle>
-			<titlePart>Review of THE EUGENIC MOTHER AND BABY</titlePart>
+			<titlePart>THE EUGENIC MOTHER AND BABY Book Review</titlePart>
 		</docTitle>
 		<idno>msp304930</idno>
 		<sourceDesc>
@@ -27,7 +28,7 @@
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name id="HAGW">Hague, W. Grant</name>
+			<name id="HAGWG">Hague, W. Grant</name>
 		</respStmt>
 	</mepHeader>
 	<headNote>
@@ -134,7 +135,7 @@
 			children about which Dr. Hague has not given his best effort to inform us, and as a
 			nurse, I should delight in every mother, both young and old, possessing a copy and
 			keeping it close beside her (on the parlor table if necessary, instead of the
-				<title>Bible</title>). But, as a woman, I must protest against Parts V and VI, and I
+				<title type="book">Bible</title>). But, as a woman, I must protest against Parts V and VI, and I
 			should like to remove these two parts from the book and add them to the rubbish heap, or
 			tenderly place them upon the shelves of a museum, where all fossilized relics lie. </p>
 		<p>Part V is: Advice to Young Wives. </p>

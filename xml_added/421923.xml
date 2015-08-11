@@ -5,15 +5,14 @@
 		<prepDate>2014-04-15 JK initial tag</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-20 CH recheck tags</prepDate>
-		<prepDate>2015-08-05 CH clean up index</prepDate>
+		<prepDate>2015-08-05 CH clean up index</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-10-31 ">31 Oct 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interviews with the London Daily Express, Daily Mirror, and
-					News Chronicle</supplied>
+				<supplied resp="MSPP">Interview with London Press</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421923</idno>

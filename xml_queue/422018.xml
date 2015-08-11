@@ -4,13 +4,13 @@
 	<mepHeader>
 		<prepDate>2014/06/17 AS</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-04-28 EK correct proof and update index and </prepDate>
+		<prepDate>2015-04-28 EK correct proof and update index and </prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-04-27">27 April 1916</docDate>
 		<docTitle>
-			<titlePart>Speech at the Hotel Wisconsin</titlePart>
+			<titlePart>Hotel Wisconsin Speech</titlePart>
 		</docTitle>
 		<idno>msp422018</idno>
 		<sourceDesc>

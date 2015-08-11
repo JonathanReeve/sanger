@@ -7,14 +7,14 @@
 		<prepDate>2014-03-26 JK correct tags</prepDate>
 		<prepDate>2015-03-13 CH recheck tags</prepDate>
 		<prepDate>2015-08-05 CH clean up index</prepDate>
+		<prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1929-10-16">16 Oct 1929</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the New York Urban
-					League</supplied>
+				<supplied resp="MSPP">New York Urban League Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421039</idno>
@@ -41,8 +41,10 @@
 		<index level1="mortality rates" level2="maternal"/>
 		<index level1="African-Americans" level2="and birth control"/>
 		<index level1="African-Americans" level2="discrimination of"/>
-		<index level1="mortality rates" level2="infant" level3="African-American"/>
-		<index level1="mortality rates" level2="maternal" level3="African-American"/>
+		<index level1="mortality rates" level2="infant"
+			level3="African-American"/>
+		<index level1="mortality rates" level2="maternal"
+			level3="African-American"/>
 		<index level1="New York" level2="birth control in"/>
 		<index level1="birth control" level2="distribution of information"/>
 		<index level1="birth control clinics and leagues"/>

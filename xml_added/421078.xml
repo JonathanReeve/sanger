@@ -4,15 +4,15 @@
 	<mepHeader>
 		<prepDate>2014/04/09 VS initial tagging</prepDate>
 		<prepDate>2015-02-19 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1934-07-10">10 Jul 1934</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the <foreign lang="SWE">Dagens
-						Nyheter</foreign></supplied>
+				<supplied resp="MSPP">Dagens
+					Nyheter Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421078</idno>
@@ -59,7 +59,8 @@
 				of many years for a change in this vital problem was stopped for the time being. But
 				next year it will go through.”</p>
 
-			<p><q who="DAGEN"> Mrs. Sanger, who is traveling in <place>Europe</place> with the
+			<p>
+				<q who="DAGEN"> Mrs. Sanger, who is traveling in <place>Europe</place> with the
 					intention of starting an international movement for organized Birth Control, and
 					has now arrived in Stockholm, is a lady with a gallant and tumultuous past. And
 					that she did little on her own part to avoid the storms one can see immediately
@@ -109,7 +110,8 @@
 
 			<p>
 				<q who="DAGEN">Wednesday, at one o’clock at Moseback there will be a meeting between
-					Mrs. Sanger and Swedish doctors and others who are interested.</q></p>
+					Mrs. Sanger and Swedish doctors and others who are interested.</q>
+			</p>
 
 		</div>
 	</docBody>

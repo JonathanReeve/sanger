@@ -4,14 +4,15 @@
 	<mepHeader>
 		<prepDate>2012-06-18 AW Initial Tag</prepDate>
 		<prepDate>2014-04-17 CH clean regs</prepDate>
-		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-13 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH reg doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1955-10-00">Oct 1955</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Foreword to PROCEEDINGS OF THE FIFTH INTERNATIONAL CONFERENCE ON PLANNED PARENTHOOD</supplied>
+				<supplied resp="MSPP">PROCEEDINGS OF THE FIFTH INTERNATIONAL CONFERENCE
+					ON PLANNED PARENTHOOD Foreword</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp223799</idno>

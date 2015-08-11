@@ -6,14 +6,17 @@
 		<prepDate>2014-12-19 CH proof tags and enter</prepDate>
 		<prepDate>2015-02-12 EK correct proof and index</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH reg doc title</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docAuthor><person reg="Martyn, Marguerite">Marguerite Martyn</person></docAuthor>
+		<docAuthor>
+			<person reg="Martyn, Marguerite">Marguerite Martyn</person>
+		</docAuthor>
 		<docDate value="1916-05-20">20 May 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Excerpts from Interview for St. Louis Post-Dispatch</supplied>
+				<supplied resp="MSPP">St. Louis Post-Dispatch Interview (Excerpts)</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422019</idno>
@@ -25,7 +28,7 @@
 		<respStmt>
 			<resp/>
 			<name id="SLPD">St. Louis Post-Dispatch</name>
-					</respStmt>
+		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>On her arrival in <place reg="St. Louis, MO">St. Louis</place>, Sanger gave several

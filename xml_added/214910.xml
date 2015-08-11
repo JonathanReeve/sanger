@@ -3,14 +3,15 @@
 <doc type="Published interview">
 	<mepHeader>
 		<prepDate>2014-04-09 JK initial tag</prepDate>
-		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret
-			Sanger</person></docAuthor>
+		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1938-11-12 ">12 Nov 1938</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the International News
-					Service</supplied>
+				<supplied resp="MSPP">International News
+					Service Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp214910</idno>
@@ -41,13 +42,17 @@
 				12,</date>--(INS)</dateline>
 
 		<div type="section">
-			<p><q who="SFE">Two radical proposals to check “human erosion” in
+			<p>
+				<q who="SFE">Two radical proposals to check “human erosion” in
 					the nation were urged upon the government tonight by Mrs.
 					Margaret Sanger, birth control advocate, in an interview
-					here.</q></p>
+					here.</q>
+			</p>
 			<p>
-				<q who="SFE">Mrs. Sanger recommended:</q></p>
-			<p><q who="SFE">
+				<q who="SFE">Mrs. Sanger recommended:</q>
+			</p>
+			<p>
+				<q who="SFE">
 					<list>
 						<item>1- Pensions for persons of child-bearing age with
 							transmissible or hereditary diseases who will agree
@@ -57,7 +62,8 @@
 							who would welcome children, to tide them over the
 							trying early years of married life until they can
 							become self-supporting.</item>
-					</list></q>
+					</list>
+				</q>
 			</p>
 		</div>
 		<div type="section">
@@ -94,16 +100,20 @@
 					country in 1937, 1,100,000 were born to parents on relief or
 					with incomes of less than $18 a week.</q>
 			</p>
-			<p><q who="SFE">Mrs. Sanger, director of the Birth Control Clinical
+			<p>
+				<q who="SFE">Mrs. Sanger, director of the Birth Control Clinical
 					Research Bureau here and author of "Margaret Sanger: an
 					Autobiography," just returned from a trip south, where she
 					said she found a great demand for birth control information
 					among officials and others doing social work in "blighted"
-					areas.</q></p>
+					areas.</q>
+			</p>
 		</div>
 		<div type="section">
 			<head type="sub">Aid to Marriage</head>
-			<p><q who="SFE">Of her two proposals Mrs. Sanger said:</q></p>
+			<p>
+				<q who="SFE">Of her two proposals Mrs. Sanger said:</q>
+			</p>
 			<p>"The cost of maintaining our derelict population is nothing
 				compared to the loss of creative effort which might be utilized
 				in other channels. Why should our benevolent Federal Government

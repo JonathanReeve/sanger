@@ -8,16 +8,18 @@
 		</docAuthor>
 		<docDate value="YYYY-MM-DD">Add date in standard format</docDate>
 		<docTitle>
-			<titlePart>Title of the document</titlePart>
+			<titlePart><supplied resp="MSPP">Title of the document</supplied></titlePart>
 		</docTitle>
 		<idno>mspxxxxxx</idno>
 		<sourceDesc>
 			<bibl><title>Journal if published</title> or archival collection if not</bibl>
-			<bibl><title>Margaret Sanger Microfilm</title> or Library of Congress Microfilm reel:frame</bibl>
+			<bibl><title>Margaret Sanger Microfilm</title> or Library of Congress Microfilm
+				reel:frame</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
-			<name/>
+			<name id="ELLHA">Ellis, Havelock</name>
+			<name id="SAE"></name>
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -28,5 +30,6 @@
 		<head>Title if it appears in doc.</head>
 		<byline>Add if needed</byline>
 		<dateline>Add if needed, using <date value="YYYY-MM-DD"/>and <place/></dateline>
-		<p> add</p> </docBody>
+		<p> <q who="ELLHA">add</q></p>
+	</docBody>
 </doc>

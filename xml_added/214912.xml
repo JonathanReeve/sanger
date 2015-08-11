@@ -5,15 +5,16 @@
 		<prepDate>2014-03-12 JK initial tag</prepDate>
 		<prepDate>2014-03-19 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
-		<prepDate>2015-03-27 CH recheck tags</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
+		<prepDate>2015-03-27 CH recheck tags</prepDate>
+		<prepDate>2015-08-04 ch clean index</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1937-02-24">24 Feb 1937</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech on Opening a Birth Control Clinic
-					in El Paso</supplied>
+				<supplied resp="MSPP">El Paso Speech on Opening a Birth Control Clinic
+</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp214912</idno>
@@ -45,7 +46,8 @@
 		<index level1="birth control" level2="suppression of"/>
 		<index level1="sex education" level2="birth control and"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"/>
+		<index level1="&quot;unfit&quot; to reproduce"
+			level2="as social burdens"/>
 		<index level1="transmissible disease"/>
 	</headNote>
 	<docBody>

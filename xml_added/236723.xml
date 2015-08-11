@@ -5,14 +5,16 @@
 		<prepDate>2014/06/11 MM</prepDate>
 		<prepDate>2014/11/21 EK clean regs and correct proof</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<prepDate>2015-04-2 EK update index</prepDate>
+		<prepDate>2015-04-2 EK update index</prepDate><prepDate>2015-08-10 CH reg doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1914-00-00">1914</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Foreword to THE WOMAN REBEL SUPPRESSED OBSCENE ARTICLES
-					</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">THE WOMAN REBEL SUPPRESSED OBSCENE ARTICLES Foreword
+				</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236723</idno>
 		<sourceDesc>

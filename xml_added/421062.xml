@@ -6,15 +6,15 @@
 		<prepDate>2014-02-28 CH proof tags</prepDate>
 		<prepDate>2014-11-13 CH clean regs</prepDate>
 		<prepDate>2015-02-17 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1933-05-17">17 May 1933</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Richmond News
-					Leader</supplied>
+				<supplied resp="MSPP">Richmond News
+					Leader Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421062</idno>
@@ -66,9 +66,10 @@
 			and which has accomplished a remarkable achievement in increasing
 			her birthrate while decreasing the death rate, will undoubtedly I
 			believe shortly establish birth control clinics in her borders.” </p>
-		<p><q who="RNL">Only one state in the Union, <place>Mississippi</place>, will not legally allow a physician to
-				give out information on the subject, she declared.</q> “All the
-			other states have some leeway in the matter.” </p>
+		<p><q who="RNL">Only one state in the Union, <place>Mississippi</place>,
+				will not legally allow a physician to give out information on
+				the subject, she declared.</q> “All the other states have some
+			leeway in the matter.” </p>
 		<p>"The great need is for the federal birth control laws to be so
 			amended that information may be sent through the mails or sent by
 			public carriers,” she declared.</p>

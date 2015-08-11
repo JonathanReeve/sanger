@@ -6,6 +6,7 @@
 		<prepDate>2014-04-14 CH Clean regs and proof codes</prepDate>
 		<prepDate>2014-04-18 EK correct proof</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-11 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -32,15 +33,21 @@
 				Address to Women)</xref>". For an interview given at the same time, see "<xref
 				from="421939.xml">Interview on Chicago</xref>," Apr. 25, 1916.</p>
 		<index level1="abortion" level2="frequency of"/>
+		<index level1="abortion" level2="laws and legislation"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control clinics and leagues"/>
+		<index level1="birth control laws and legislation" level2="Postal Codes"/>
 		<index level1="censorship" level2="in United States"/>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="mentally diseased or disabled" level2="fertility of"/>
 		<index level1="prostitution"/>
+		<index level1="sex education"/>
 		<index level1="working classes"/>
-		<index level1="Sanger, Margaret" level2="speaking tours" level3="1916 (U.S.)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
 	</headNote>
 	<docBody>
 		<head>Birth Control Way to Welfare--Mrs. Sanger</head>
 		<div>
-
 			<p>
 				<q who="CDT">Mrs. Margaret Sanger lectured last night at the west side auditorium on
 					"Birth Control" to an audience of 1,200 people. So crowded was the hall, so
@@ -56,11 +63,10 @@
 			<p>
 				<q who="CDT">Mrs. Sanger, who has been fourteen years a trained nurse in obstetric
 					cases in <place reg="New York, NY">New York</place>, has devoted the last three
-					years to studying birth control here and in European countrieses. She says that
+					years to studying birth control here and in European countries. She says that
 					75 per cent of all the diseases of men and women in this country are due to
 					ignorance of sex life.</q>
 			</p>
-
 		</div>
 		<div>
 			<head type="sub">Nation of Abortions.</head>
@@ -80,7 +86,7 @@
 				defectives. And do you know that the fertility of a defective parent is four times
 				greater than that of a normal parent?"</p>
 			<p>"Has the state a better right to decide when a woman shall have a child than the
-				woman herself? They call me immoral. Who is more immortal–-I, going around trying to
+				woman herself? They call me immoral. Who is more immoral–-I, going around trying to
 				help women to bring up their one or two offspring in comparative health, security,
 				and mental perfection, or Mr. <person reg="Roosevelt, Theodore">Roosevelt</person>,
 				who goes up and down the country urging women whose husbands get $10 a week, who may

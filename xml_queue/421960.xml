@@ -3,12 +3,14 @@
 <doc type="Published Speech">
 	<mepHeader>
 		<prepDate>2014/06/26 CH proof tags</prepDate>
-		<prepDate>2015-04-02 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-04-02 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1939-03-01">1 Mar 1939</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the El Paso Kiwanis Club</supplied>
+				<supplied resp="MSPP">El Paso Kiwanis Club Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421960</idno>
@@ -50,16 +52,20 @@
 	<docBody>
 		<head>State Birth Control Instruction Is Proposed By Margaret Sanger</head>
 		<div type="section">
-			<p><q who="HP"> Birth control instruction in the public health programs of the states
+			<p>
+				<q who="HP"> Birth control instruction in the public health programs of the states
 					and the <org reg="United States Government">Federal Government</org> is the goal
 					of the <org>Birth Control Federation of America</org>, the federation’s honorary
 					president, Mrs. Margaret Sanger, said in <place reg="El Paso, TX">El
-						Paso</place> today.</q></p>
-			<p><q who="HP"> Mrs. Sanger, youthful and brimming with health and enthusiasm, arrived
+						Paso</place> today.</q>
+			</p>
+			<p>
+				<q who="HP"> Mrs. Sanger, youthful and brimming with health and enthusiasm, arrived
 					today from <place reg="Tucson, AZ">Tucson</place> to pay an official visit to
 					the <org reg="El Paso Mothers' Health Center">El Paso Mother’s Health
 						Center</org>. She spoke today at the Kiwanis Club at Hotel Cortez and at the
-					Health Center to mothers and to the board of directors.</q></p>
+					Health Center to mothers and to the board of directors.</q>
+			</p>
 
 			<p><q who="HP">Citing the increase of the national birth rate of </q>"over a million a
 					year<q who="HP">,” she said she refused to weep crocodile tears over our falling
@@ -75,7 +81,8 @@
 				<q who="HP">The Birth Control Federation of America now incorporates all the birth
 					control activities and clinics in the <place>United States</place> under its
 					direction, Mrs. Sanger said. She told of the increase, by 125, of the privately
-					directed clinics, now 480 in the past two years.</q></p>
+					directed clinics, now 480 in the past two years.</q>
+			</p>
 
 			<p> “The total of 480 clinics does not include clinics operated by civic organizations
 				in communities,” <q who="HP">Mrs. Sanger said.</q> “<place reg="North Carolina"
@@ -91,8 +98,10 @@
 			<head type="sub"> South Sees Need</head>
 			<p> “The South sees the need in her own confines,” <q who="HP">she said.</q></p>
 
-			<p><q who="HP"> Birth control is not only a national but an international need, the
-					internationally known woman said.</q></p>
+			<p>
+				<q who="HP"> Birth control is not only a national but an international need, the
+					internationally known woman said.</q>
+			</p>
 
 		</div>
 		<div type="section">
@@ -107,7 +116,8 @@
 			<p>
 				<q who="HP">She emphasized that Germany’s population in 1935 was 67,000,000, only
 					one million less than it was in 1914, after which there was a loss of 10 million
-					in the World War and 27,000 square miles in territory.</q></p>
+					in the World War and 27,000 square miles in territory.</q>
+			</p>
 
 		</div>
 		<div type="section">
@@ -118,8 +128,10 @@
 				has got to be an equalization of birth rates as well as of territory if we will have
 				peace.”</p>
 
-			<p><q who="HP"> Mrs. Sanger defined birth control for the Kiwanians today. She pointed
-					out that birth control does not interfere with life.</q></p>
+			<p>
+				<q who="HP"> Mrs. Sanger defined birth control for the Kiwanians today. She pointed
+					out that birth control does not interfere with life.</q>
+			</p>
 
 			<p> “It is a conscious control of the birth rate by means that prevent conception,” <q
 					who="HP">she said.</q> “It does not kill, does not interfere with life. It is
@@ -128,8 +140,10 @@
 		<div type="section">
 			<head type="sub"> 150,000 Useless Deaths</head>
 
-			<p><q who="HP"> The United States has not reduced its maternity mortality rate in 20
-					years, Mrs. Sanger said.</q></p>
+			<p>
+				<q who="HP"> The United States has not reduced its maternity mortality rate in 20
+					years, Mrs. Sanger said.</q>
+			</p>
 
 			<p> “A total of 150,000 mothers and infants died in 1937,” <q who="HP">she said.</q>
 				“More than one-half of them could have been saved through scientific knowledge if it

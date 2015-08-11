@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014-06-25 CH proofed </prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-07-10 EK correct proof and update index</prepDate>
+		<prepDate>2015-07-10 EK correct proof and update index</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-03-01">1 Mar 1923</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the North Harlem Community Forum</supplied>
+				<supplied resp="MSPP">North Harlem Community Forum Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422012</idno>
@@ -27,8 +27,8 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger spoke to the <org>North Harlem Community Forum</org> at the 135 Street branch of the <org>New
-				York Public Library</org> on March 1.</p>
+		<p>Sanger spoke to the <org>North Harlem Community Forum</org> at the 135 Street branch of
+			the <org>New York Public Library</org> on March 1.</p>
 		<index level1="abortion"/>
 		<index level1="infanticide"/>
 		<index level1="women and girls" level2="freedom and rights of"/>
@@ -51,25 +51,28 @@
 				<q who="NYAN">Mrs. Margaret Sanger, whose activities for birth control has brought
 					her world wide attention, spoke last Thursday to a large audience in a meeting
 					held by the <org>North Harlem Community Forum</org>, at the <place
-						reg="New York, NY">135th St. Branch Public Library.</place> She spoke on her
+						reg="New York, NY">135th St. Branch Public Library</place>. She spoke on her
 					recent trip to the <place reg="Asia">Orient</place> and told of her work in
 					general.</q>
 			</p>
-			<p>"<q>The women of <place>China</place> and <place>Japan</place> are very
-				keen for their emancipation,</q>" <q who="NYAN">she said,</q> "<q>much more so than American women.
-					I am deeply disappointed in the women of <place>America</place>,"</q> <q who="NYAN">she said,</q> "<q>they
-				have the vote but have accomplished almost nothing toward their emancipation.</q>"</p>
+			<p>"<q>The women of <place>China</place> and <place>Japan</place> are very keen for
+					their emancipation,</q>" <q who="NYAN">she said,</q> "<q>much more so than
+					American women. I am deeply disappointed in the women of <place
+						reg="United States">America</place>,"</q>
+				<q who="NYAN">she said,</q> "<q>they have the vote but have accomplished almost
+					nothing toward their emancipation.</q>"</p>
 		</div>
 		<div type="section">
 			<head type="sub">Too Many Children.</head>
-			<p>"<q>The women of the Orient are retarded by having too many babies,</q>" <q who="NYAN">she
-					said,</q> "<q>and they are beginning to understand this. They are eager for birth
-				control. When I landed in <place reg="Yokohama, Japan">Yokohoma</place> a delegation
-				of Japanese women came to see me and their spokesman said, <q who="UNK">'When your
-					message came it was the light that we had long sought in vain.'</q> Even the
-				rickshaw man welcomed my message. Out of 105 leading newspapers 81 carried front page
-				articles about birth control. Of course, the <org reg="Japan Government">Japanese
-					Government</org> is opposed to it.</q>"</p>
+			<p>"<q>The women of the Orient are retarded by having too many babies,</q>" <q
+					who="NYAN">she said,</q> "<q>and they are beginning to understand this. They are
+					eager for birth control. When I landed in <place reg="Yokohama, Japan"
+						>Yokohama</place> a delegation of Japanese women came to see me and their
+					spokesman said, <q who="UNK">'When your message came it was the light that we
+						had long sought in vain.'</q> Even the rickshaw man welcomed my message. Out
+					of 105 leading newspapers 81 carried front page articles about birth control. Of
+					course, the <org reg="Japan Government">Japanese Government</org> is opposed to
+					it.</q>"</p>
 
 			<p>
 				<q who="NYAN">She told of pathetic instances of American mothers who had applied to
@@ -81,21 +84,22 @@
 		<div type="section">
 			<head type="sub">Rich Have Birth Control.</head>
 			<p>"<q>American women are divided into two classes,</q>" <q who="NYAN">said the speaker,
-				</q> "<q>those who have birth control and those who have not. Rich women can get all the
-				knowledge on this subject they want, and if it is good for them it is also good for
-				the poor, who cannot afford to rear large families, like the rich."</q></p>
-			<p>"<q>Mankind has always practiced birth control. Infanticide and foeticide dates back to
-				the earliest ages. In ancient <place>Greece</place>,
-				<place>Egypt</place>, and <place>Sparta</place> unwelcome babies were exposed for <unclear>48</unclear>
-				hours and if they survived were permitted to live. In China today girl babies are
-				thrown into the canals. The modern system of birth control aims to restrict
-				excessive populations in a more humane way. It also saves the strength and energy of
-				the mother for her other duties, and for the care of such children she may already
-				have.</q>"</p>
+				</q> "<q>those who have birth control and those who have not. Rich women can get all
+					the knowledge on this subject they want, and if it is good for them it is also
+					good for the poor, who cannot afford to rear large families, like the
+				rich."</q></p>
+			<p>"<q>Mankind has always practiced birth control. Infanticide and foeticide dates back
+					to the earliest ages. In ancient <place>Greece</place>, <place>Egypt</place>,
+					and <place>Sparta</place> unwelcome babies were exposed for <unclear resp="MSPP"
+						>48</unclear> hours and if they survived were permitted to live. In China
+					today girl babies are thrown into the canals. The modern system of birth control
+					aims to restrict excessive populations in a more humane way. It also saves the
+					strength and energy of the mother for her other duties, and for the care of such
+					children she may already have.</q>"</p>
 
 			<p>
-				<q who="NYAN">Several policemen were on hand to see that Mrs. Sanger issued no
-					birth control information.</q>
+				<q who="NYAN">Several policemen were on hand to see that Mrs. Sanger issued no birth
+					control information.</q>
 			</p>
 			<p/>
 		</div>

@@ -5,7 +5,7 @@
 		<prepDate>2013/12/18 JK encoded</prepDate>
 		<prepDate>2014-11-10 CH clean regs</prepDate>
 		<prepDate>2014-12-15 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2015-03-04 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,7 +14,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Remarks from the Raymond St. Jail</supplied>
+				<supplied resp="MSPP">Raymond St. Jail Remarks</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421006</idno>

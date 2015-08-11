@@ -3,14 +3,14 @@
 <doc type="Published Statement">
 	<mepHeader>
 		<prepDate>2014/06/10 AS Encoded</prepDate>
-		<prepDate>2015-04-13 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-13 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1955-10-24">24 Oct 1955</docDate>
 		<docTitle>
-			<titlePart>Press Statement on the Fifth International Conference on Planned
-				Parenthood</titlePart>
+			<titlePart>Fifth International Conference on Planned
+				Parenthood Statement</titlePart>
 		</docTitle>
 		<idno>msp421965</idno>
 		<sourceDesc>
@@ -50,9 +50,9 @@
 			</p>
 			<p>
 				<q who="REUT">Highlights of the conference is expected Friday when an American
-					scientist, <person reg="Pincus, Gregory Goodwin">Gregory Pincus</person>, will submit a
-					report on a small oral contraceptive named progesterone, which can be eaten like
-					candy.</q>
+					scientist, <person reg="Pincus, Gregory Goodwin">Gregory Pincus</person>, will
+					submit a report on a small oral contraceptive named progesterone, which can be
+					eaten like candy.</q>
 			</p>
 		</div>
 		<div type="section">

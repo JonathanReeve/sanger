@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-08-13 CH proof tags</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-04-29 Ek correct proof and update index</prepDate>
+		<prepDate>2015-04-29 Ek correct proof and update index</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,7 +14,7 @@
 		<docDate value="1916-04-20">20 Apr. 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Pittsburgh Press</supplied>
+				<supplied resp="MSPP">Pittsburgh Press Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422037</idno>

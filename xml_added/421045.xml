@@ -5,15 +5,15 @@
 		<prepDate>2014/02/26 JK initial tags</prepDate>
 		<prepDate>2014-03-13 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1932-01-21 ">21 Jan 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Rochester Council of Jewish
-					Women</supplied>
+				<supplied resp="MSPP">Rochester Council of Jewish
+					Women Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421045</idno>
@@ -28,7 +28,8 @@
 			<name id="RDC">Rochester Democrats Chronicle</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger delivered an address to the <org
+	<headNote resp="MSPP">
+		<p>Sanger delivered an address to the <org
 				reg="Rochester Council of Jewish Women"> Council of Jewish
 				Women</org> at the <org>Temple of B'rith Kodesh</org> on Jan. 20
 			1932 in <place reg="Rochester, NY">Rochester NY</place>. </p>
@@ -44,13 +45,15 @@
 		<head> Scientific Information on Birth Control Advocated by Mrs.
 			Sanger</head>
 
-		<p><q who="RDC">A plea to give the women compelled to use the public
+		<p>
+			<q who="RDC">A plea to give the women compelled to use the public
 				clinic the scientific information available to her more
 				fortunate sister who can afford to consult the private physician
 				was made yesterday by Mrs. Margaret Sanger, internationally
 				known advocate of birth control.</q>
 		</p>
-		<p><q who="RDC">Mrs. Sanger spoke to a capacity audience of several
+		<p>
+			<q who="RDC">Mrs. Sanger spoke to a capacity audience of several
 				hundred women in Temple B'rith Kodesh Temple under the
 				sponsorship of the Council of Jewish Women. Three men braved the
 				feminine audience to hear Mrs. Sanger, and a stenographer made a
@@ -68,7 +71,8 @@
 			The crimes of abortions are at our door for not permitting these
 			women to have scientific information.” </p>
 
-		<p><q who="RDC">Mrs. Sanger declared that the absence of knowledge had
+		<p>
+			<q who="RDC">Mrs. Sanger declared that the absence of knowledge had
 				been responsible for the high mortality rate among mothers,
 				especially where such disorders as heart or kidney disease, or
 				tuberculosis made child bearing equivalent to a death sentence
@@ -79,9 +83,11 @@
 				adjustments can be made so that the older children do not have
 				to go out at 14 years of age to support the young brood.</q>
 		</p>
-		<p><q who="RDC">Population also has its relation to war, Mrs. Sanger
+		<p>
+			<q who="RDC">Population also has its relation to war, Mrs. Sanger
 				pointed out, indicating <place>Japan</place> and
-					<place>Italy</place> as evidences of this. </q></p>
+					<place>Italy</place> as evidences of this. </q>
+		</p>
 
 		<p> “Japan has a population of sixty-five million in an area no larger
 			than <place>California</place>,”<q who="RDC"> she said.</q> “The
@@ -98,7 +104,8 @@
 			animals. The Italian population will undoubtedly overflow the
 			national frontiers into <place>France</place>.” </p>
 
-		<p><q who="RDC"> Mrs. Sanger challenged her audience to lead the fight
+		<p>
+			<q who="RDC"> Mrs. Sanger challenged her audience to lead the fight
 				to amend the federal laws regarding birth control and permit the
 				dissemination of information under the direction of physicians,
 				both in public lectures clinics, and through the mails.</q>
@@ -114,12 +121,14 @@
 				where unusually healthy parents desire two children to be closer
 				in age.</q>
 		</p>
-		<p><q who="RDC">It may be all right to marry in adolescence but it is
+		<p>
+			<q who="RDC">It may be all right to marry in adolescence but it is
 				better to put off parenthood until that period is over, Mrs.
 				Sanger believes. Economic reasons should enter into the
 				consideration of when to have children, she believes. Wise young
 				people wait for a period of at least two years after marriage
-				before having children, she said. </q></p>
+				before having children, she said. </q>
+		</p>
 
 	</docBody>
 </doc>

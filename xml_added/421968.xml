@@ -3,14 +3,14 @@
 <doc type="Published interview">
 	<mepHeader>
 		<prepDate>2014/06/26 MM</prepDate>
-		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1953-01-04">4 Jan 1953</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Arizona Daily Star</supplied>
+				<supplied resp="MSPP">Arizona Daily Star Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>421968</idno>

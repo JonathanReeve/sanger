@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/05/02 YG</prepDate>
 		<prepDate>2015-02-26 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-05-17">17 May 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Idaho Statesman</supplied>
+				<supplied resp="MSPP">Idaho Statesman Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421943</idno>
@@ -55,10 +55,10 @@
 		<p>
 			<q who="IS">Mrs. Sanger opened the <org reg="Brownsville Clinic">first clinic</org> in
 				the <place>United States</place>for the dissemination of birth control knowledge in
-					<place reg="New York, NY">New York City</place>. She was arrested, served 30 days in jail, and took
-				her case to the highest court, where she won. At the present <place>New York</place>
-				State, she says, is the only states in which doctors have the right to give this
-				knowledge.</q>
+					<place reg="New York, NY">New York City</place>. She was arrested, served 30
+				days in jail, and took her case to the highest court, where she won. At the present
+					<place>New York</place> State, she says, is the only states in which doctors
+				have the right to give this knowledge.</q>
 		</p>
 		<p>"I find my strongest advocates among the social service workers," <q who="IS">added Mrs.
 				Sanger,</q> and when you realize that with 4,000,000 families on relief, there were

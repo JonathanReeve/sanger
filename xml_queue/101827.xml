@@ -7,12 +7,14 @@
 		<prepDate>2008/01/08 CH correct !doctype line</prepDate>
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014/03/12 EK clean regs</prepDate>
-		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-10 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1926-01-03">3 Jan 1926</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied source="MSPP">Speech to the Baltimore Open Forum</supplied>
+				<supplied source="MSPP">Baltimore Open Forum Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno rend="">msp101827</idno>
@@ -25,8 +27,9 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This speech was delivered at the Baltimore Open Forum on January 3,
-			1926. This version may have been a press release.</p>
+	<headNote resp="MSPP">
+		<p>This speech was delivered at the Baltimore Open Forum on January 3, 1926. This version
+			may have been a press release.</p>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="birth control" level2="American opinion on"/>
 		<index level1="birth control" level2="clinics and leagues"/>

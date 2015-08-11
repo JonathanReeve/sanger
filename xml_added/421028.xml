@@ -6,14 +6,14 @@
 		<prepDate>2014-12-16 CH encode</prepDate>
 		<prepDate>2015-01-07 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-03-19 EK correct proof and update index</prepDate>
+		<prepDate>2015-03-19 EK correct proof and update index</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1921-02-03">3 Feb 1921</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Philadelphia Woman's Economic Club</supplied>
+				<supplied resp="MSPP">Philadelphia Woman's Economic Club Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421028</idno>
@@ -60,10 +60,12 @@
 				treaties of peace, but as long as women continue to breed an explosive population
 				they will transform these agreements into scraps of paper. You cannot reconstruct
 				the world and make a universal peace without reckoning with women."</p>
-			<p><q who="PI">Mrs. Sanger strongly urged that the women of this country unite to demand
-					the repeal of the Federal and State laws forbidding the dissemination of birth
-					control knowledge, declaring that in this respect <place>Germany</place> and
-					other countries are far ahead.</q></p>
+			<p>
+				<q who="PI">Mrs. Sanger strongly urged that the women of this country unite to
+					demand the repeal of the Federal and State laws forbidding the dissemination of
+					birth control knowledge, declaring that in this respect <place>Germany</place>
+					and other countries are far ahead.</q>
+			</p>
 			<p>"We are the only civilized nation in the world," <q who="PI">she asserted,</q> "that
 				classes the subject with obscenity and relegates it to the gutter."</p>
 		</div>
@@ -88,7 +90,8 @@
 		</div>
 		<div type="section">
 			<head type="sub">To Appeal to League of Nations</head>
-			<p><q who="PI">Mrs. sanger has recently returned from a lecture tour through
+			<p>
+				<q who="PI">Mrs. sanger has recently returned from a lecture tour through
 						<place>England</place>, <place>Scotland</place>, <place>Ireland</place>,
 						<place>Germany</place>, and <place>Austria</place>, where she found people
 					ready to enter into an international movement tending toward the solving of the
@@ -100,7 +103,8 @@
 					birth rate has already taken a tremendius drop, but the influx of foreigners to
 					this country and their steady increase presents the danger that the american
 					race will become extinct unless the balance is restored by a decrease of the
-					foreign population.</q></p>
+					foreign population.</q>
+			</p>
 		</div>
 	</docBody>
 </doc>

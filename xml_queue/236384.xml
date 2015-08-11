@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-08-19 KH</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH reg doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -12,8 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Notes for Speech to the University of Chicago Liberal
-					Club</supplied>
+				<supplied resp="MSPP">University of Chicago Liberal Club Speech Notes</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236384</idno>
@@ -80,14 +80,15 @@
 			famine, pestilence then operated to settle the question.</p>
 		<p>Barbarianism, savages, Early civilization-infanticide, abandonment, foeticide </p>
 		<p><person reg="Plato (Greek)">Plato</person>, <person reg="Aristotle (Greek)"
-			>Aristotle</person>, <person reg="Seneca, Lucius Annaeus (Roman)"
+				>Aristotle</person>, <person reg="Seneca, Lucius Annaeus (Roman)"
 			>Seneca</person>-(infanticide-foeticide)</p>
 		<p><place reg="Central Europe">Middle Western Europe</place> Middle Ages to End of 18th
 			Century infanticide prevalent</p>
-		<p>B.C. will wipe out practice of foeticide &amp; infanticide as <unclear/>,infanticide</p>
+		<p>B.C. will wipe out practice of foeticide &amp; infanticide as <unclear resp="MSPP"
+				>,infanticide</unclear>.</p>
 		<p>Values methods cannot operate. </p>
-		<p>Consequently civilization is <unclear>Measured</unclear> by here increasing hordes of
-			diseased unfit.</p>
+		<p>Consequently civilization is <unclear resp="MSPP">Measured</unclear> by here increasing
+			hordes of diseased unfit.</p>
 		<p>Prof<person reg="Meyer, Adolf">Meyers</person>
 			<unclear resp="MSPP">Statement</unclear> 105-85</p>
 		<p>Two groups-large family + small</p>

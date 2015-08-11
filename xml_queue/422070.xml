@@ -5,21 +5,21 @@
 		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
 		<prepDate>2015-06-10 CH proof tags</prepDate>
 		<prepDate>2015-06-29 CH enter corrected tags</prepDate>
+		<prepDate>2015-08-07 CH enter proofreading corrections</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
-			<person reg="Watson, Thomas C.">Thomas C. Watson</person>
 		</docAuthor>
-		<docDate value="1922-09-05">5 Sep 1922</docDate>
+		<docDate value="1922-09-05">5 Sept 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the International News Service</supplied>
+				<supplied resp="MSPP">International News Service Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422070</idno>
 		<sourceDesc>
 			<bibl><title type="article">Japs Talk Nothing But War, Says Mrs. Margaret Sanger, After Long Tour
 					In Behalf of Birth Control</title>, <title type="journal">Santa Cruz Evening News</title>,
-				Sep. 7 1922, p.6</bibl>
+				Sept. 7 1922, p. 6</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -42,7 +42,7 @@
 	<docBody>
 		<head>JAPS TALK NOTHING BUT WAR, SAYS MRS. MARGARET SANGER, AFTER LONG TOUR IN BEHALF OF BIRTH
 			CONTROL</head>
-		<byline> by THOMAS C. WATSON, <org>International News Service</org>
+		<byline> By THOMAS C. WATSON, <org>International News Service</org>
 			<lb/>Staff Correspondent</byline>
 		<dateline><place reg="London, England">LONDON</place>, <date value="1922-09-05">Sept.
 			5</date>.--</dateline>
@@ -59,10 +59,10 @@
 			<p>
 				<q who="SCEN">Mrs. Sanger traversed the East propagating an unknown and very delicate subject
 					and was accompanied only by her <person reg="Sanger, Grant">twelve-year-old son</person>.
-					She returns to Western civilization proud and happy with her accomplishments</q>
+					She returns to Western civilization proud and happy with her accomplishments.</q>
 			</p>
 			<p>
-				<q who="SCEN">None of the old pioneers has been beset with the difficulties that have hampered
+				<q who="SCEN">None of the old pioneers had been beset with the difficulties that have hampered
 					the progress of Mrs. Sanger. In the first place the <org reg="Japan Consulate">Japanese
 						Consul</org> at <place reg="San Francisco, CA">San Francisco</place>, acting under
 					instructions from <place reg="Tokyo, Japan">Tokyo</place>, declined to grant Mrs. Sanger
@@ -78,7 +78,7 @@
 					Japan from the <org reg="Washington Naval Conference"><place reg="Washington, DC"
 							>Washington</place> conference</org>. To <person reg="Kato, Keikichi"> Baron
 						Kato</person>, chief of the delegation, she made her complaint, and the latter, after
-					consulting with <person reg="Hanihara, Masanao">M. Hani Harf</person>, decided to listen
+					consulting with <person reg="Hanihara, Masanao">M. Hani Hari</person>, decided to listen
 					to a speech from the plucky little American lady on the extremely delicate subject which
 					she intended to propagate among the people of the East.</q>
 			</p>
@@ -97,33 +97,33 @@
 			</p>
 		</div>
 		<div type="section">
-			<head type="sub">WARNED BY THE AUTHORITIES</head>
+			<head type="sub">WARNED BY AUTHORITIES</head>
 			<p>
-				<q who="SCEN"> On arrival she was again warned by the authorities that she would be debarred
+				<q who="SCEN">On arrival she was again warned by the authorities that she would be debarred
 					from addressing a public meeting. Yet immediately she was asked by scores of independent
 					societies to address their members on the subject. Naturally she complied. She was also
 					obliged to bar the topic of birth control, but she circumvented that by renaming her
-					subject, "Population and War."</q>
+					subject "Population and War."</q>
 			</p>
-			<p>"Every one of my speeches had to stand up before a Japanese audience that my great difficulty
-				was over, but I discovered it had just begun," <q who="SCEN"> said Mrs. Sanger.</q></p>
-			<p>"every one of my speeches had to be interpreted item by item, and in Japanese it takes exactly
+			<p>"I thought when I was able to stand up before a Japanese audience that my greatest difficulty
+				was over, but I discovered it has just begun," <q who="SCEN">said Mrs. Sanger.</q></p>
+			<p>"Every one of my speeches had to be interpreted item by item, and in Japanese it takes exactly
 				four times as long as in English. Therefore a speech in English lasting exactly one hour took
 				four hours to transpose into Japanese, and I had to stand throughout the whole translation, as
 				it would have been discourteous had I sat down. So at the end of every lecture I was in a
 				state of complete exhaustion."</p>
 		</div>
 		<div type="section">
-			<head type="sub">FIND JAPS INTERESTED</head>
+			<head type="sub">FINDS JAPS INTERESTED</head>
 			<p>"I found them most interested in the subject. At first they were skeptical. I had to grope my
 				way to find what angle of the situation most appealed to them. It was different from the
 				American."</p>
-			<p> "You know in American the American husband is just a big baby where the health of his wife is
+			<p> "You know in America the American husband is just a big baby where the health of his wife is
 				concerned, and therefore it was easy to get the sympathy of every American when it was pointed
 				out to them that the health of their wives was impaired if they bore over three babies."</p>
 			<p>"That angle was lost on the Japs. The health of their wives was nothing to them. They were
 				listless when I played on that point. They still have the old Eastern idea that the women are
-				merely created for their partners and the reproduction of their species." </p>
+				merely created for their pleasure and the reproduction of their species." </p>
 			<p>"But on the question of economics they were all agog. It is just as expensive to rear and
 				educate a large family in Japan as it is in New York, and the matter of cost aroused the
 				Oriental conscience to a great degree."</p>
@@ -132,7 +132,7 @@
 			<head type="sub">ASKED MANY QUESTIONS</head>
 			<p> "Then they became most interested in the subject. They questioned me on all angles of the
 				problem. The most delicate points they wanted discussed to the most academic degree. With me
-				they were very frank, but never objectionable, and afterward when I convinced the that our
+				they were very frank, but never objectionable, and afterward when I convinced them that our
 				methods neither meant the taking of life nor demanded husbandly restraint they were with me to
 				a man."</p>
 			<p>"The result was that before I left Japan we had formed an <org reg="Japan Birth Control League"
@@ -140,17 +140,17 @@
 				before I left. In addition, I addressed a meeting of the <org reg="Peers' Club">Peers
 					club</org>. All who attended were from the aristocracy, and they displayed the greatest
 				interest in the subject. Count <person reg="Kawamura, Tetsutaro">Kara Tara</person> presided,
-				and at glowing terms. That was the most enjoyable lecture I delivered, because it was in
-				English."</p>
+				and at glowing terms. That was the most enjoyable lecture I delivered, because they all
+				understood English."</p>
 			<p>"The only opposition I encountered was from the high military castes, for they still look upon
 				the common population as so much cannon fodder, and the more Japanese bred the more lives they
-				have to play with in securing military advantages."</p>
+				have to play with in the securing of military advantages."</p>
 		</div>
 		<div type="section">
 			<head type="sub">EVERYBODY TALKS WAR</head>
 			<p>"Everybody talks war in Japan, and everybody regards it as inevitable. The poor people hope to
 				avoid it, but the rich and the manufacturing classes look forward to it."</p>
-			<p>"My own impression is that was cannot be avoided; the Japanese population is too crowded, and
+			<p>"My own impression is that war cannot be avoided; the Japanese population is too crowded, and
 				they must have an outlet. Adequate outlet at the moment is not available, and hundreds are
 				starving through overcrowding."</p>
 		</div>
@@ -164,9 +164,9 @@
 				at all events they will have disposed of a good deal of their surplus population."</p>
 			<p>"Whether it can be avoided is doubtful. In the days gone by we sent out our Christian
 				missionaries to preach the Gospel of good will, but it would have been a much more efficacious
-				step toward peace had we sent birth control missioners, who would have convinced these
-				Easterners that an overcrowded population means war and then to have taught them our remedy
-				against over-population." </p>
+				step toward peace had we a couple of generations ago sent birth control missioners, who would
+				have convinced these Easterners that an overcrowded population means war and then to have
+				taught them our remedy against over-population." </p>
 		</div>
 	</docBody>
 </doc>

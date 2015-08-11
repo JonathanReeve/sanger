@@ -6,13 +6,14 @@
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1927-00-00">1927</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Preface to the PROCEEDINGS OF THE WORLD POPULATION CONFERENCE
+				<supplied resp="MSPP">PROCEEDINGS OF THE WORLD POPULATION CONFERENCE Preface
 				</supplied>
 			</titlePart>
 		</docTitle>

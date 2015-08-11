@@ -6,6 +6,7 @@
 		<prepDate>2011/11/14 CH entered corrections on headnote</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-08-07 CH enter proofreading corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -21,12 +22,12 @@
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is the second of a six part series. Only five articles have been located. For the
-			first, see <xref from="306641.xml">Highlights in the History of Birth Control</xref>,
-			Oct. 1923; for the third article see <xref from="306006.xml">Woman and Birth
-				Control</xref>, Dec. 1923; for articles that followed see <xref from="305275.xml"/>,
-			Feb. 1924 and <xref from="300368.xml">The Birth Control Movement in 1923</xref>, Apr.
-			1924.</p>
+		<p>This is the second of a six part series. Only five of six articles have been located. For
+			the first, see "<xref from="306641.xml">Highlights in the History of Birth
+				Control</xref>," Oct. 1923; for the third article see "<xref from="306006.xml">Woman
+				and Birth Control</xref>," Dec. 1923; for articles that followed see "<xref
+				from="305275.xml">Birth Control and China and Japan</xref>," Feb. 1924 and "<xref
+				from="300368.xml">The Birth Control Movement in 1923</xref>," Apr. 1924.</p>
 		<index level1="abortion"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="economic benefits and risks of"/>
@@ -56,9 +57,9 @@
 		<index level1="working classes" level2="fertility of"/>
 	</headNote>
 	<docBody>
-		<head>A Better Race Through Birth Control</head>
-		<byline>By Margaret Sanger, 104 5th Ave., <place
-				reg="New York, NY">New York City</place></byline>
+		<head>A BETTER RACE THROUGH BIRTH CONTROL</head>
+		<byline>By Margaret Sanger, 104 5th Ave., <place reg="New York, NY">New York
+			City</place></byline>
 		<p>The most important problem, barring none, that confronts humanity today is that of race
 			culture. It has often been said, and never with more truth than at the present time,
 			that man breeds his cattle with more intelligence and care than he breeds his own kind.
@@ -94,7 +95,7 @@
 			and in the control of venereal diseases. Syphilis is the most destructive racial poison
 			known to man; gonorrhea is unmatched in its operation as a sterilizing agency. Any
 			factor which tends to diminish the demand for illicit sex relationship tends equally to
-			repress venereal disease. Unmarried men and men who are married but are debarred from
+			repress venereal disease. Unmarried men and men who are married but who are debarred from
 			their wives constitute the principal patronage of prostitutes. Upon the money which
 			these men are willing and able to pay for illicit sexual gratification depends the whole
 			business of prostitution. At the present time the choice for most young unmarried men
@@ -127,11 +128,11 @@
 			and impure mental associations with the idea of sex, and the truth will appear that love
 			is the greatest of all forces for good in the world and that its full expression through
 			marriage is ethically sound. Such expression, however, is only possible through Birth
-			Control which will, when we have learned its lessons, be the best bulwark of marriage
+			Control, which will, when we have learned its lessons, be the best bulwark of marriage
 			and the most efficient guardian of happiness within the family that mankind has yet
 			known.</p>
 		<p>Birth Control means liberation for women and for men. It means freedom and happiness. It
-			means gifts and blessing for the family and the nation.</p>
+			means gifts and blessings for the family and the nation.</p>
 		<p>It will give the mother the right and power to have children only when she feels that her
 			health and strength will allow her to give them the care and attention that they need
 			and ought to have.</p>

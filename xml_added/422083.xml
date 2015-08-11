@@ -5,14 +5,14 @@
 		<prepDate>2015-11-13 MC transcribed and encoded</prepDate>
 		<prepDate>2015-06-25 CH proof tags</prepDate>
 		<prepDate>2015-06-30 MC enter corrections</prepDate>
-		<prepDate>2015-07-02 EK correct proof and update index</prepDate>
+		<prepDate>2015-07-02 EK correct proof and update index</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-11-13">13 Nov 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Brooklyn Daily Eagle</supplied>
+				<supplied resp="MSPP">Brooklyn Daily Eagle Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422083</idno>
@@ -58,10 +58,10 @@
 				specified whether she is under arrest on a charge of violating Section 1142 of the
 				Penal law or not. The failure to do so before <person reg="Steers, Alfred"
 					>Magistrate Steers</person> in the <org reg="Kings County Tenth District Court"
-					>New Jersey avenue court</org>, and later in the Adams street court, resulted
-				in several bitter arguments between <person reg="Kellogg, Herbert"> Assistant
-					District Attorney Kellogg</person> and <person reg="Goldstein, Jonah J.">Jonah
-					J. Goldstein</person>, her counsel. As yet the section violated has not been
+					>New Jersey avenue court</org>, and later in the Adams street court, resulted in
+				several bitter arguments between <person reg="Kellogg, Herbert"> Assistant District
+					Attorney Kellogg</person> and <person reg="Goldstein, Jonah J.">Jonah J.
+					Goldstein</person>, her counsel. As yet the section violated has not been
 				specified and she is held simply on information.</q>
 		</p>
 

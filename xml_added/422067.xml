@@ -5,6 +5,7 @@
 		<prepDate>2015-05-26 MC encoded and transcribed</prepDate>
 		<prepDate>2015-05-29 CH proof tags</prepDate>
 		<prepDate>2015-06-25 CH enter corrections</prepDate>
+		<prepDate>2015-08-07 CH enter proofreading corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -27,12 +28,12 @@
 		<index level1="Japan" level2="population policies"/>
 	</headNote>
 	<docBody>
-		<head>Intelligence, Not Numbers, U.S. Need</head>
-		<byline>by Margaret Sanger</byline>
-		<p>If the population of the <place>United States</place> increases during the past century
-			we shall have a population in 2033 of 1,000,000,000, of half as much as the earth's
-			present population.</p>
-		<p>If the population of earth increases in like proportion, it would run up to more than
+		<head>INTELLIGENCE, NOT NUMBERS, U.S. NEED</head>
+		<byline>By MARGARET SANGER</byline>
+		<p>If the population of the <place>United States</place> increases during the next 100 years
+			as it has during the past century we shall have a population in 2023 of 1,000,000,000,
+			or half as much as the earth's present population.</p>
+		<p>If the population of the earth increases in like proportion, it would run up to more than
 			10,000,000,000. It is doubtful whether a food supply to feed such masses could be
 			produced.</p>
 		<p>The population of such countries as <place>Japan</place> and the United States have been
@@ -40,7 +41,7 @@
 			standing still. And in certain portions of <place>Europe</place> it is receding. Hence
 			it is difficult to forecast for the whole world with accuracy.</p>
 		<div>
-			<head type="sub">Danger Recognized</head>
+			<head type="sub">Danger Recognized.</head>
 			<p>The increase of population in the United States has been 110 per cent in forty years,
 				the result of flooded immigration. The dangers of the rapid increase have been
 				recognized and now we have selected immigration.</p>
@@ -54,11 +55,11 @@
 				population, but not a flooded increase.</p>
 			<p>Every grown person in our country would have the intelligence of present day
 				university graduates. Each, for instance, would be able to understand and enjoy
-					<person reg="Wells, H. G.">Wells</person>' "<title type="book">Outline of
-					History</title>."</p>
+					<person reg="Wells, H. G.">Wells</person>' "<title type="book"
+					reg="The Outline of History">Outline of History</title>."</p>
 		</div>
 		<div>
-			<head type="sub">Quantity or Quality</head>
+			<head type="sub">Quantity or Quality.</head>
 			<p>The standards of intelligence throughout the world could likewise be raised by
 				selective breeding. The burning question for the United States and world during the
 				coming century will be, "Do we want quantity or quality?"</p>
@@ -68,11 +69,11 @@
 			<p>Massed against them is the militarist-commercial group, which wants vastly increased
 				populations, increased territory and the wars that accompany them.</p>
 			<p>This group includes the majority of the men who make up most of the governments of
-				the earth. They are self-centered, backward-looking people whose social
+				the earth. They are the self-centered, backward-looking people whose social
 				consciousness and vision are undeveloped. </p>
 		</div>
 		<div>
-			<head type="sub">Japan as Example</head>
+			<head type="sub">Japan as Example.</head>
 			<p>Japan at present offers perhaps the best example of this battle. The military party
 				there wants to build up the present population of 67,000,000 to 100,000,000. Then
 				they believe they can demand more territory from the world and get it. Without war,
@@ -84,8 +85,7 @@
 			<p>Man is supposed to reach fullness of development at twenty-five. Really, he achieves
 				only physical development at that age. There are two other factors in human
 				development, the mental and the psychic. By 2023 man could be so improved that he
-				would present a harmonious, full development of the three functions.</p>
-
+				would present a harmonious, full development of the three factors.</p>
 		</div>
 	</docBody>
 </doc>

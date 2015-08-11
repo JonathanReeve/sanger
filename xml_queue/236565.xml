@@ -4,15 +4,15 @@
 	<mepHeader>
 		<prepDate>2015-05-27 MC encoded and transcribed</prepDate>
 		<prepDate>2015-06-24 CH proof tags</prepDate>
-		<prepDate>2015-06-30 MC enter corrections</prepDate>
+		<prepDate>2015-06-30 MC enter corrections</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1941-10-01">1 Oct 1941</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Ulster County Planned Parenthood
-					League</supplied>
+				<supplied resp="MSPP">Ulster County Planned Parenthood
+					League Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236565</idno>

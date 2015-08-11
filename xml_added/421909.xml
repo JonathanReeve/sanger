@@ -3,15 +3,15 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2014-03-12 JK initial tag</prepDate>
-		<prepDate>2015-03-30 CH proof and enter</prepDate>
+		<prepDate>2015-03-30 CH proof and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1938-10-05">05 Oct 1938</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Mothers' Health Association of the District of
-					Columbia</supplied>
+				<supplied resp="MSPP">District of
+					Columbia Mothers' Health Association Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421909</idno>

@@ -5,14 +5,14 @@
 		<prepDate>2014/02/07 YG</prepDate>
 		<prepDate>2014/02/11 CH proof tags</prepDate>
 		<prepDate>2014-11-11 CH clean regs</prepDate>
-		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1936-05-04">4 May 1936</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the New York Times</supplied>
+				<supplied resp="MSPP">New York Times Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421083</idno>

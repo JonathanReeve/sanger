@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2013/12/11 JK encoded</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Los Angeles Times</supplied>
+				<supplied resp="MSPP">Los Angeles Times Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421055</idno>
@@ -34,7 +34,7 @@
 	</headNote>
 	<docBody>
 		<head>Birth Control Progress Told</head>
-			<p>
+		<p>
 			<q who="LAT">In spite of the storm of opposition which has raged around the subject of
 				birth control, remarkable progress is being made in the matter of education,
 				according to Mrs. Margaret Sanger.</q> “Prejudices are being broken down rapidly,”

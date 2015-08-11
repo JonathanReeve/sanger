@@ -5,12 +5,14 @@
 		<prepDate>2012-03-23 AW</prepDate>
 		<prepDate>2012-03-27 AW</prepDate>
 		<prepDate>2014-04-04 CH clean regs</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1957-03-02">2 Mar 1957</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Message of Thanks for Humanist of the Year Award</supplied>
+				<supplied resp="MSPP">Humanist of the Year Award Acknowledgement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp309258</idno>
@@ -37,7 +39,9 @@
 		<head>
 			<add>Humanist award to MS. Woman of the year--</add>
 		</head>
-		<dateline><date value="1957-03-02">Mch 2/57</date></dateline>
+		<dateline>
+			<date value="1957-03-02">Mch 2/57</date>
+		</dateline>
 		<p> I am sending this message of thanks from <org reg="Reef Hotel">The Reef</org>. No--I
 			have not been shipwrecked on a desert island. I am resting at The Reef, which is a hotel
 			overlooking the beach at <place reg="Waikiki, HI">Waikiki</place>. Much as I regret

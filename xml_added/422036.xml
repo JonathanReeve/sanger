@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/07/15 AS encoded</prepDate>
 		<prepDate>2014-08-15 CH proof and enter</prepDate>
-		<prepDate>2015-02-05 CH proof tags and enter</prepDate>
+		<prepDate>2015-02-05 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-06-14">14 Jun 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the California Civic League</supplied>
+				<supplied resp="MSPP">California Civic League Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422036</idno>

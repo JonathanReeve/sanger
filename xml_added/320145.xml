@@ -6,7 +6,7 @@
 		<prepDate>2012-02-08 CH proof and correct</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-04-08 CH proof tags again</prepDate>
-		<prepDate>2015-08-05 CH clean index</prepDate>
+		<prepDate>2015-08-05 CH clean index</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Conrad, Earl">Earl Conrad</person>
 		</docAuthor>
@@ -16,7 +16,7 @@
 		<docDate value="1945-09-22">22 Sept 1945</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Chicago Defender</supplied>
+				<supplied resp="MSPP">Chicago Defender Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp320145</idno>
@@ -149,11 +149,10 @@
 					own special sphere.</q>
 			</p>
 			<p>“From the very beginning of birth control, there was the problem of approaching the
-				Negro. Soon after I launched the campaign, a Harlem Methodist
-					leader, who was most intelligent, questioned me about birth control. He
-				was a brilliant speaker, and he had been thinking about it. Later a man named
-					<person reg="Harrison, Hubert">Harrison</person> of the <org>Urban League</org>
-				took up our idea.”</p>
+				Negro. Soon after I launched the campaign, a Harlem Methodist leader, who was most
+				intelligent, questioned me about birth control. He was a brilliant speaker, and he
+				had been thinking about it. Later a man named <person reg="Harrison, Hubert"
+					>Harrison</person> of the <org>Urban League</org> took up our idea.”</p>
 			<p>“<q who="CONEA">Have you seen any change in the Negro-white situation generally since
 					the times of your pioneer days?” I wanted to know.</q></p>
 			<p>“I think things have changed for the better. There is a changed attitude among
@@ -166,11 +165,10 @@
 				less of a problem in reaching Harlem physicians with planned parenthood. I think
 				this shows how things have advanced.</p>
 			<p>“Here is another example of how attitudes have changed. When we first started out an
-					anti-Negro white man offered me $10,000 if I
-				started in Harlem first. His idea was simply to cut down the number of Negroes. ‘<q
-					who="UNK">Spread it as far as you can among them,</q>’ he said. That is, of
-				course, not our idea. I turned him down. But that is an example of how vicious some
-				people can be about this thing.</p>
+				anti-Negro white man offered me $10,000 if I started in Harlem first. His idea was
+				simply to cut down the number of Negroes. ‘<q who="UNK">Spread it as far as you can
+					among them,</q>’ he said. That is, of course, not our idea. I turned him down.
+				But that is an example of how vicious some people can be about this thing.</p>
 			<p>“It is our experience, as it was our aim, that as a result of child-spacing and
 				adequate care of mothers, death rates would be reduced. It is now a fact that as a
 				result of birth control, the survival rate among mothers and children is higher.

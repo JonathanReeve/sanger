@@ -3,7 +3,7 @@
 <doc type="Published Interview">
 	<mepHeader>
 		<prepDate>2014/07/01 CH proof tags</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,8 +13,8 @@
 		<docDate value="1958-09-13">13 Sept 1958</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview on the New York City Hospital Ban on Birth
-					Control</supplied>
+				<supplied resp="MSPP">New York City Hospital Ban on Birth
+					Control Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421988</idno>

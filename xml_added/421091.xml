@@ -6,14 +6,14 @@
 		<prepDate>2014/02/07 CH proof tags</prepDate>
 		<prepDate>2014/02/07 YG correct tags</prepDate>
 		<prepDate>2014-11-10 CH clean regs</prepDate>
-		<prepDate>2015-03-22 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-22 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1936-02-05">05 Feb 1936</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Rangoon Gazette</supplied>
+				<supplied resp="MSPP">Rangoon Gazette Interview</supplied>
 			</titlePart>
 		</docTitle>
 
@@ -109,25 +109,25 @@
 			<p>
 				<q who="RG">The American fight for birth control was launched by Margaret Sanger in
 					1914 when she invented the phrase "birth control," launched the "<title
-						type="journal" reg="The Woman Rebel">Woman Rebel</title>" magazine, and founded <org
-						reg="Birth Control League of America">the first birth control organization
-						in America</org>.</q>
+						type="journal" reg="The Woman Rebel">Woman Rebel</title>" magazine, and
+					founded <org reg="Birth Control League of America">the first birth control
+						organization in America</org>.</q>
 			</p>
 			<p>
-				<q who="RG">The "<title type="journal" reg="The Woman Rebel">Woman Rebel</title>" was suppressed, and Mrs.
-					Sanger was indicted by the <org reg="United States Government">Federal
-						Government</org>. Between her indictment and appearance for trial, she
-					studied in <place reg="England">England</place> and <place reg="Netherlands"
-						>Holland</place>, grounding herself in the social and economic aspects of
-					the question and learning methods in the birth control clinics of Holland. In
-					England her case aroused such sympathy that a letter in her behalf was addressed
-					to <person reg="Wilson, Woodrow">President Wilson</person>President Wilson by
-						<person reg="Bennett, Arnold">Arnold Bennett</person>, <person
-						reg="Murray, Gilbert">Gilbert Murray</person>, <person reg="Wells, H. G."
-						>H.G. Wells</person>, and other prominent people. When she returned home for
-					trial, protests poured in to the <person reg="Clayton, Henry Delamar"
-						>judge</person> and to the President, and in the face of this support, the
-					case was dropped.</q>
+				<q who="RG">The "<title type="journal" reg="The Woman Rebel">Woman Rebel</title>"
+					was suppressed, and Mrs. Sanger was indicted by the <org
+						reg="United States Government">Federal Government</org>. Between her
+					indictment and appearance for trial, she studied in <place reg="England"
+						>England</place> and <place reg="Netherlands">Holland</place>, grounding
+					herself in the social and economic aspects of the question and learning methods
+					in the birth control clinics of Holland. In England her case aroused such
+					sympathy that a letter in her behalf was addressed to <person
+						reg="Wilson, Woodrow">President Wilson</person>President Wilson by <person
+						reg="Bennett, Arnold">Arnold Bennett</person>, <person reg="Murray, Gilbert"
+						>Gilbert Murray</person>, <person reg="Wells, H. G.">H.G. Wells</person>,
+					and other prominent people. When she returned home for trial, protests poured in
+					to the <person reg="Clayton, Henry Delamar">judge</person> and to the President,
+					and in the face of this support, the case was dropped.</q>
 			</p>
 		</div>
 		<div type="section">

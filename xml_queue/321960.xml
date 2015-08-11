@@ -10,7 +10,9 @@
 		</docAuthor>
 		<docDate value="1917-01-29">29 Jan 1917</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Carnegie Hall Address</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Carnegie Hall Address</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp321960</idno>
 		<sourceDesc>
@@ -25,13 +27,14 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Sanger spoke before three thousand at <org>Carnegie Hall</org> on the eve of her
-			sentencing for opening the <org>Brownsville Clinic</org>. The only version of the speech
-			located comes from newspaper reports. The <title type="journal">New York Times</title>
-			reported that, "<q who="NYT">Mrs. Sanger departed from the prepared copy of her speech
-				in that she was not so severe on the judiciary as she had intended to be. She had
-				evidently prepared her speech in the conviction that she was to be found guilty
-				yesterday afternoon.</q>" Portions of the article that do not describe Sanger's
-			speech have been omitted.</p>
+			sentencing for opening the <org>Brownsville Clinic</org>. For a draft of a portion of
+			the speech, see <xref from="143430.xml">Carnegie Hall Speech Notes</xref>, Jan. 29,
+			1917. This portion of the speech was taken from newspaper coverage. The <title
+				type="journal">New York Times</title> reported: "<q who="NYT">Mrs. Sanger departed
+				from the prepared copy of her speech in that she was not so severe on the judiciary
+				as she had intended to be. She had evidently prepared her speech in the conviction
+				that she was to be found guilty yesterday afternoon.</q>" Portions of the article
+			that do not describe Sanger's speech have been omitted.</p>
 		<index level1="birth control" level2="socio-economic benefits of"/>
 		<index level1="birth control" level2="laws and legislation"/>
 		<index level1="Brownsville Clinic" level2="arrests and trial"/>

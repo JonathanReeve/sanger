@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2011-09-12 KG</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing the doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Notes on Sexuality and Feminism</supplied>
+				<supplied resp="MSPP">Sexuality and Feminism Notes</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236168</idno>

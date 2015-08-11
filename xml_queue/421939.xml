@@ -5,13 +5,16 @@
 		<prepDate>2014-04-14 CH transcribe and encode</prepDate>
 		<prepDate>2014-04-18 EK correct proof</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<prepDate>2015-08-11 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-04-27">27 Apr 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview in Chicago</supplied>
+				<supplied resp="MSPP">Day Book Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421939</idno>
@@ -26,34 +29,31 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Margaret Sanger was interviewed while in Chicago on her 1916 American tour. For related
+		<p>Margaret Sanger was interviewed while in <place reg="Chicago, IL">Chicago</place> on her 1916 American tour. For related
 			speeches from this tour see "<xref from="128003.xml">Birth Control</xref>," Apr. 25,
 			1916 and "<xref from="236132.xml">Birth Control (Chicago Address to Women)</xref>," Apr.
 			25-May 7, 1916.</p>
 		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="birth control" level2="lack of knowledge of"
-			level3="negative consequences of"/>
-		<index level1="birth rate"/>
+		<index level1="birth rate" level2="differential"/>
+		<index level1="France" level2="birth rate in"/>
+		<index level1="Germany" level2="birth rate in"/>
 		<index level1="child labor"/>
-		<index level1="women" level2="employment of"/>
-		<index level1="working classes" level2="birth control and"/>
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="women and girls" level2="employment of"/>
+		<index level1="working classes" level2="and birth control"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
 	</headNote>
 	<docBody>
 		<head>Mrs. Sanger Explains Where Most Chicago Babies Come From</head>
-
-		<p>
-			<q who="TDB">What makes <place reg="Chicago, IL">Chicago</place> grow? Where do
-				thebabies come from? From what districts do the increase of business customers, the
-				increase of population, that cause rising land values, come from?</q>
-		</p>
-		<p>
-			<q who="TDB">Margaret Sanger, birth control advocate answers. She says working class
+		<p><q who="TDB">What makes <place reg="Chicago, IL">Chicago</place> grow? Where do the babies
+				come from? From what districts do the increase of business customers, the increase
+				of population, that cause rising land values, come from?</q></p>
+		<p><q who="TDB">Margaret Sanger, birth control advocate answers. She says working class
 				women, pro rata, woman for woman, breed and bring to the daylight of Chicago three
-				times as many babies as the women of the rich and well-to-do class.</q>
-		</p>
-
-		<p>"I am getting the figures on Chicago," <q who="DB">said Mrs. Sanger to a <title
+				times as many babies as the women of the rich and well-to-do class.</q></p>
+			<p>"I am getting the figures on Chicago," <q who="DB">said Mrs. Sanger to a <title
 					type="journal">Day Book</title> reporter at <org>Congress Hotel</org> today.</q>
 			"And I am sure that the showing in Chicago will be much the same as that of <place
 				reg="Paris, France">Paris</place> and of <place reg="Berlin, Germany"
@@ -68,9 +68,8 @@
 		<p>"A survey in Paris showed 32 births per 1,000 among women in a residential district of
 			rich. In a poor working class district, a typical one, the birth rate was 116 per
 			1,000."</p>
-		<p>"In Berlin the rate was 47 per 1,000 among the well-to-do women and 157 per 1,000 among
+		<p>"In <place reg="Berlin, Germany">Berlin</place> the rate was 47 per 1,000 among the well-to-do women and 157 per 1,000 among
 			the poor."</p>
-
 		<p>
 			<q who="TDB">Mrs. Sanger lectures Sunday night in <org reg="Little Theater of Chicago"
 					>Little theater</org>, <org reg="Fine Arts Building">Fine Arts bldg</org>. Her
@@ -88,15 +87,14 @@
 			<q who="TDB">The Sanger woman was a trained nurse 14 years in obstetric cases and
 				personally served mothers in several thousand births. She is herself the mother of
 				two superb children, and has won her way against terrific opposition by force of an
-				unusual personality.</q>
-		</p>
+				unusual personality.</q></p>
+		<p>"Of course, it is not pleasant for some girls to face the facts of birth control," <q who="TDB">she
+			said. </q>"But I would urge upon any wife of an underpaid <supplied>man chance?</supplied>
+			that it is far more unpleasant for her to find herself burdened down with half a dozen
+			children she never wished for, helpless, starved, shoddily clothed children dragging at
+			her skirts and she only a dragged-out shadow of the woman she once was."</p>
 
-		<p>"Of course, it is not pleasant for some girls to face the facts of birth control," <q
-				who="TDB">she said. </q>"But I would urge upon any wife of an underpaid
-				<supplied>man chance?</supplied> that it is far more unpleasant for her to find
-			herself burdened down with half a dozen children she never wished for, helpless,
-			starved, shoddily clothed children dragging at her skirts and she only a dragged-out
-			shadow of the woman she once was."</p>
+
 		<p>"Women of the working class, especially wage workers, should not have more than two
 			children at the most. The average workingman can support no more and the average working
 			woman can take care of no more in decent fashion."</p>

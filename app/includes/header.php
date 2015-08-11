@@ -6,6 +6,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 	<link href="../documents/styles.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="../documents/global.js"></script> 
+<?php include_once("../documents/analytics.php") ?>
 </head>
 <body onload="MM_preloadImages('../images/header_r2_c1_f2.gif','../images/header_r2_c2_f2.gif','../images/header_r2_c3_f2.gif','../images/header_r2_c4_f2.gif','../images/header_r2_c5_f2.gif');">
 <div id="container" style="width: 626px; margin: 0px auto;"> 

@@ -3,14 +3,15 @@
 <doc type="Published Interview">
 	<mepHeader>
 		<prepDate>2014/04/23 initial tags</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1941-09-06">6 Sept 1941</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Interview with the New York Herald
-				Tribune</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">New York Herald Tribune Interview</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421952</idno>
 		<sourceDesc>
@@ -50,18 +51,21 @@
 		<p> “You are going to see it more and more,” <q who="NYHT">she asserted,</q> “closing up our
 			clinics, stopping our meetings and banishing our exhibits.”</p>
 
-		<p><q who="NYHT"> The fifty-seven-year-old leader of the movement, which on Oct. 16 will
+		<p>
+			<q who="NYHT"> The fifty-seven-year-old leader of the movement, which on Oct. 16 will
 				celebrate the twenty-fifth anniversary of the opening of the <org
 					reg="Brownsville Clinic">first birth control clinic</org>, in the United States,
-				said that she was frankly alarmed at the situation.</q></p>
+				said that she was frankly alarmed at the situation.</q>
+		</p>
 
-		<p><q who="NYHT">Sitting in the library of the <org reg="Margaret Sanger Research Bureau"
+		<p>
+			<q who="NYHT">Sitting in the library of the <org reg="Margaret Sanger Research Bureau"
 					>Margaret Sanger Bureau</org>, 17 West Sixteenth Street, she said that she was
 				not yet prepared to offer concrete evidence of her charge that the latest action
 				against her movement was the result of subversive influence from abroad. The only
 				way to fight it, she asserted, was for birth-control advocates to redouble their
-				efforts to make birth-control advice part of the regular public health
-			system.</q></p>
+				efforts to make birth-control advice part of the regular public health system.</q>
+		</p>
 
 		<p>
 			<q who="NYHT">Asked what interest the totalitarian countries would have in interfering
@@ -71,11 +75,13 @@
 			abound in this country and only in countries where such conditions exist can a
 			dictatorship take hold.”</p>
 
-		<p><q who="NYHT"> The birth-control pioneer was particularly bitter at the action of
+		<p>
+			<q who="NYHT"> The birth-control pioneer was particularly bitter at the action of
 				Lieutenant Governor <person reg="Poletti, Charles">Charles Poletti</person> who, as
 				Acting Governor, issued the ruling which resulted in the barring of the exhibit at
 				the New York State Fair and indirectly in the taking of similar action at the
-				Mineola Fair, which will be open from Sept. 9 to Sept. 13.</q></p>
+				Mineola Fair, which will be open from Sept. 9 to Sept. 13.</q>
+		</p>
 		<p>
 			<q who="NYHT">Characterizing Mr. Poletti’s ruling that the birth-control advocates seek
 				to contravene state law as</q> “the most stupid interference with the movement in
@@ -85,18 +91,21 @@
 			<q who="NYHT">As a result, she stated, what was planned as a celebration on the
 				forthcoming twenty-fifth anniversary will take the form of a nation-wide protest.
 				Everywhere where there are groups affiliated with the Birth Control Federation of
-				America there will be protests on the anniversary date, she announced.</q></p>
-		<p><q who="NYHT"> Mrs. Sanger recalled the opening of the first birth-control clinic on Oct.
-				16 1916, at 46 Amboy Street, in the Brownsville section of <place reg="Brooklyn, NY"
-					>Brooklyn</place>. In the four days that it remained open before the police
-				closed it, she said, she, her sister, Mrs. <person reg="Byrne, Ethel Higgins">Ethel
-					Byrne</person>, both of whom were nurses, and a <person reg="Mindell, Fania"
-						><person reg="Stuyvesant, Elizabeth">few associates</person></person> spoke
-				to 480 women who flocked to the little clinic for advice. Somewhat wistfully, Mrs.
-				Sanger recalled that she and her sister “did” thirty days in the <org
-					reg="Queens County Penitentiary">Queens County jail</org> when they lost the
-				test case which grew out of their arrest at the clinic. Now, she reported, there are
-				619 clinics throughout the country.</q></p>
+				America there will be protests on the anniversary date, she announced.</q>
+		</p>
+		<p>
+			<q who="NYHT"> Mrs. Sanger recalled the opening of the first birth-control clinic on
+				Oct. 16 1916, at 46 Amboy Street, in the Brownsville section of <place
+					reg="Brooklyn, NY">Brooklyn</place>. In the four days that it remained open
+				before the police closed it, she said, she, her sister, Mrs. <person
+					reg="Byrne, Ethel Higgins">Ethel Byrne</person>, both of whom were nurses, and a
+					<person reg="Mindell, Fania"><person reg="Stuyvesant, Elizabeth">few
+						associates</person></person> spoke to 480 women who flocked to the little
+				clinic for advice. Somewhat wistfully, Mrs. Sanger recalled that she and her sister
+				“did” thirty days in the <org reg="Queens County Penitentiary">Queens County
+					jail</org> when they lost the test case which grew out of their arrest at the
+				clinic. Now, she reported, there are 619 clinics throughout the country.</q>
+		</p>
 
 	</docBody>
 </doc>

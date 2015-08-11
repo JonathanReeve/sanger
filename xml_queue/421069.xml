@@ -5,7 +5,7 @@
 		<prepDate>2013/12/11 JK encoded</prepDate>
 		<prepDate>2014/04/10 EK</prepDate>
 		<prepDate>2015-02-18 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,8 +14,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Daily
-						Oklahoman</supplied>
+				<supplied resp="MSPP">Daily Oklahoman Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421069</idno>

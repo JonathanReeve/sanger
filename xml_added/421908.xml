@@ -5,7 +5,8 @@
 		<prepDate>2014-03-12 JK initial tags</prepDate>
 		<prepDate>2014-03-14 CH proof tags</prepDate>
 		<prepDate>2014-03-26>JK correct tags</prepDate>
-		<prepDate>2015-03-31 CH proof and enter</prepDate><prepDate>2015-08-04 ch clean index</prepDate>
+		<prepDate>2015-03-31 CH proof and enter</prepDate>
+		<prepDate>2015-08-04 ch clean index</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,8 +14,8 @@
 		<docDate value="1938-10-20">20 Oct 1938</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Memphis Birth Control
-					Committee</supplied>
+				<supplied resp="MSPP">Memphis Birth Control
+					Committee Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421908</idno>
@@ -45,8 +46,8 @@
 		<index level1="birth control" level2="definitions of"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="society" level2="responsibility and"/>
-		<index level1="&quot;unfit&quot; to reproduce" level2="as social burdens"
-		/>
+		<index level1="&quot;unfit&quot; to reproduce"
+			level2="as social burdens"/>
 	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL SEEN AS BENEFIT TO NATION</head>

@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2011-07-27 NC</prepDate>
 		<prepDate>2014-03-25 CH clean regs</prepDate>
-		<prepDate>2015-04-08 CH check tags again</prepDate>
+		<prepDate>2015-04-08 CH check tags again</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1948-00-00">1948</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Preface to ONE HUNDRED FIFTY YEARS OF BIRTH CONTROL</supplied>
+				<supplied resp="MSPP">ONE HUNDRED FIFTY YEARS OF BIRTH CONTROL Preface</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp301841</idno>

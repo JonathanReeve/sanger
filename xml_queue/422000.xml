@@ -5,7 +5,7 @@
 		<prepDate>2014/06/17 AS</prepDate>
 		<prepDate>2015-02-03 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-03-19 EK cprrect proof and update index</prepDate>
+		<prepDate>2015-03-19 EK correct proof and update index</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,7 +14,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Friday Morning Club</supplied>
+				<supplied resp="MSPP">Friday Morning Club Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422000</idno>

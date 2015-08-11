@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2014/05/02 YG</prepDate>
 		<prepDate>2015-02-19 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Arizona Daily Star</supplied>
+				<supplied resp="MSPP">Arizona Daily Star Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421057</idno>

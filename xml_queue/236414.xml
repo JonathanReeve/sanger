@@ -4,11 +4,17 @@
 	<mepHeader>
 		<prepDate>2014-08-19 KH</prepDate>
 		<prepDate>2014-08-20 CH proof tags</prepDate>
-		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
-		<docDate value="1938-00-00"><supplied resp="MSPP">1938</supplied></docDate>
+		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate><prepDate>2015-08-10 CH regularizing the doc title</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1938-00-00">
+			<supplied resp="MSPP">1938</supplied>
+		</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Notes on Controlling the Unfit</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control and Controlling the Unfit Notes</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp236414</idno>
 		<sourceDesc>

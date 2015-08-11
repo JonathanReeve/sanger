@@ -5,6 +5,7 @@
 		<prepDate>2014-06-25 AS encoded</prepDate>
 		<prepDate>2014-06-26 CH proofed and entered</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-8-07 CH enter proofreading corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -40,13 +41,11 @@
 		<head>Birth Control to be Nation's Salvation?</head>
 		<byline>By <person reg="Van de Grift, Josephine">JOSEPHINE VAN de GRIFT</person></byline>
 		<dateline>
-			<date value="1923/12/11">Dec. 11</date>
-			<place reg="New York, NY">New York</place>
-		</dateline>
+			<place reg="New York, NY">New York</place>, <date value="1923/12/11">Dec. 11</date>.--</dateline>
 		<div type="section">
 			<p>"Within ten years birth control clinics will excite no more comment than school
 				houses; charitable institutions will largely have disappeared; and the little short
-				word <foreign lang="FRE">finis</foreign> will have been written over the tragedy of
+				word '<foreign lang="FRE">finis</foreign>' will have been written over the tragedy of
 				the unwanted child."</p>
 
 			<p>
@@ -77,9 +76,9 @@
 			</p>
 			<p>"And its results answer conclusively," <q who="HN">she maintains,</q> "the claims of
 				our opponents that the giving of contraceptive information would increase
-				immortality, that the poor didn't want it, that others wouldn't tolerate it.</p>
-			<p>"I have no knowledge of a woman of loose morals ever applying at the clinic.</p>
-			<p>"The 900 women who were given information were all married. Of these, 73 per cent
+				immorality, that the poor didn't want it, that others wouldn't tolerate it."</p>
+			<p>"I have no knowledge of a woman of loose morals ever applying at the clinic."</p>
+			<p>"The 900 women who were given information were all married. Of these 73 per cent
 				wanted the information because their families were already larger than they could
 				care for and 27 per cent needed it for health reasons."</p>
 		</div>
@@ -90,14 +89,14 @@
 				<q who="HN">Mrs. Sanger does not fear the interference of the law in her present
 					project.</q>
 			</p>
-			<p>"I do not see how the legality of the clinic can be questioned," she asys, "as we
-				have followed the letter of the law in every respect.</p>
+			<p>"I do not see how the legality of the clinic can be questioned," she says, "as we
+				have followed the letter of the law in every respect."</p>
 			<p>"Already our workers are planning to open similar clinics in <place reg="Chicago, IL"
 					>Chicago</place> and <place reg="Milwaukee, WI">Milwaukee</place> and within a
 				few years I expect to see them in every city and town of the <place>United
-					States</place>.</p>
+					States</place>."</p>
 			<p>"It isn't only the club women who want it. The women of the lower classes are
-				clamoring for it, as our 65,000 pathetic, generally poorly spelled letters show.</p>
+				clamoring for it, as our 65,000 pathetic, generally poorly spelled letters show."</p>
 			<p>"It has got to come, else the <place>United States</place> will be like
 					<place>China</place>. We may not feed our surplus children to the crocodiles but
 				disease and vice are even worse monsters."</p>

@@ -6,14 +6,14 @@
 		<prepDate>2011/06/20 CE</prepDate>
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
-		<prepDate>2015-03-27 CH recheck tags</prepDate>
+		<prepDate>2015-03-27 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1937-05-17">17 May 1937</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Bermuda House of Assembly</supplied>
+				<supplied resp="MSPP">Bermuda House of Assembly Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp320908</idno>

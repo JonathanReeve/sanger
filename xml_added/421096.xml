@@ -5,7 +5,7 @@
 		<prepDate>2014-03-12 JK initial tag</prepDate>
 		<prepDate>2014-03-19 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
-		<prepDate>2015-03-22 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-22 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,7 +14,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the Madras Mail</supplied>
+				<supplied resp="MSPP">Madras Mail Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421096</idno>

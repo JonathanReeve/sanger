@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/02/19 JK initial tags</prepDate>
 		<prepDate>2014-03-13 CH proof tags</prepDate>
-		<prepDate>2015-03-22 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-22 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH regularizing title </prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1936-02-19">19 Feb 1936</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview Aboard the S.S. Corfu</supplied>
+				<supplied resp="MSPP">S.S. Corfu Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421088</idno>

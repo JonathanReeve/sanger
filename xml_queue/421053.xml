@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2013/12/04 JK encoded</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1932-10-31 ">31 Oct 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the New Jersey Birth Control League</supplied>
+				<supplied resp="MSPP">New Jersey Birth Control League Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421053</idno>

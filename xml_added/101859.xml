@@ -14,6 +14,7 @@
 		<prepDate>2014-04-22 CH correcting headnote</prepDate>
 		<prepDate>2012-04-22 CH changed to a speech</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-11 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -26,7 +27,7 @@
 		<idno>msp101859</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 128:456</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers, Library of Congress Microfilm 128:0456</title></bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -39,14 +40,23 @@
 				Address to Women)</xref>," "<xref from="128002.xml">Woman and Birth Control</xref>,"
 			Apr.-June, 1916, and "<xref from="128003.xml">Condemnation is Misunderstanding</xref>,
 			all Apr-July, 1916."</p>
-		<index level1="divorce" level2="in U.S."/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control laws and legislation" level2="MS on"/>
+		<index level1="divorce"/>
+		<index level1="race progress"/>
+		<index level1="United States" level2="birth control in"/>
 		<index level1="prostitution"/>
 		<index level1="insane asylums"/>
-		<index level1="Netherlands, the" level2="conditions in"/>
-		<index level1="New Zealand" level2="conditions in"/>
-		<index level1="birth control" level2="morality of"/>
+		<index level1="mentally diseased or disabled" level2="fertility of"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
+		<index level1="New Zealand" level2="birth control in"/>
+		<index level1="working classes" level2="and birth control"/>
 		<index level1="birth control laws and legislation" level2="federal"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
+	
+		
 	</headNote>
 	<docBody>
 		<head>Birth Control and Society</head>

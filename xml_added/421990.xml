@@ -3,7 +3,7 @@
 <doc type="Published interview">
 	<mepHeader>
 		<prepDate>2014/07/03 MM</prepDate>
-		<prepDate>2015-04-13 CH proof, clean tags and enter</prepDate>
+		<prepDate>2015-04-13 CH proof, clean tags and enter</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -12,7 +12,7 @@
 		</docAuthor>
 		<docDate value="1956-03-13">Mar 13 1956</docDate>
 		<docTitle>
-			<titlePart>Interview at the Reef Hotel, Honolulu</titlePart>
+			<titlePart><supplied resp="MSPP">Reef Hotel, Honolulu Interview</supplied></titlePart>
 		</docTitle>
 		<idno>msp421990</idno>
 		<sourceDesc>
@@ -85,7 +85,8 @@
 			the population.</p>
 		<p>"In America, which has as many new babies as India, we haven't touched the lower strata
 			of society for whom the movement was started. The women are so family-bound that they
-			are unable to visit one of the 600 clinics of the <org reg="Planned Parenthood Federation of America">Planned Parenthood</org> League
+			are unable to visit one of the 600 clinics of the <org
+				reg="Planned Parenthood Federation of America">Planned Parenthood</org> League
 			throughout America. </p>
 		<p>"The public health officials are also the sinners; they make no effort and have no policy
 			for teaching birth control.</p>

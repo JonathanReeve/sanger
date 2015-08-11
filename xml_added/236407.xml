@@ -5,15 +5,14 @@
 		<prepDate>2014/12/05 SC encode</prepDate>
 		<prepDate>2014-12-19 CH proof tags</prepDate>
 		<prepDate>2015-01-22 CH enter tag corrections</prepDate>
-		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1924-01-10">10 Jan 1924</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to the Second Meeting of the American Birth Control
-					League notes</supplied>
+				<supplied resp="MSPP">American Birth Control League Meeting Speech Notes</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp236407</idno>

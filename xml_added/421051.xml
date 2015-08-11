@@ -3,15 +3,14 @@
 <doc type="Published speech">
 	<mepHeader>
 		<prepDate>2014-04-09 JK initial tags</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1931-11-09 ">09 Nov 1931</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Interview with the San Antonio
-					Light</supplied>
+				<supplied resp="MSPP">San Antonio Light Interview</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421051</idno>
@@ -43,8 +42,9 @@
 				avenue to a solution of problems that have been ignored by
 				puritanical older people, was made by Margaret Sanger, birth
 				control crusader, who will lecture on the subject before the
-						<place reg="San Antonio, TX">San Antonio</place>
-				<org reg="San Antonio Open Forum">Open Forum</org> Monday night.</q>
+					<place reg="San Antonio, TX">San Antonio</place>
+				<org reg="San Antonio Open Forum">Open Forum</org> Monday
+				night.</q>
 		</p>
 		<p>
 			<q who="SAL"> Mrs. Sanger, in her suite at the <org

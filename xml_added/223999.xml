@@ -5,7 +5,7 @@
 		<prepDate>2012-03-26 AW</prepDate>
 		<prepDate>2012-03-28 CH proofed tags</prepDate>
 		<prepDate>2014-04-02 CH clean regs</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,8 +14,8 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Opening Address to the Sixth International Conference in
-					Planned Parenthood</supplied>
+				<supplied resp="MSPP">Sixth International Conference on
+					Planned Parenthood Opening Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp223999</idno>
@@ -46,7 +46,7 @@
 		<p>Mr. <person reg="Nehru, Jawaharlal">Nehru</person>, Lady <person
 				reg="Rama Rau, Dhanvanthi">Rama Rau</person>, Distinguished Friends and <org
 				reg="International Planned Parenthood Federation, Governing Body">Governing
-			Body</org>, Ladies and Gentlemen, Friends and Co-workers:</p>
+				Body</org>, Ladies and Gentlemen, Friends and Co-workers:</p>
 		<p>This is one of the greatest days of joy of my life to have traveled from <place
 				reg="Arizona">Arizona</place> through <place reg="California">California</place> and
 				<place reg="Hawaii">Hawaii</place> and to come here to <place>India</place>, and to

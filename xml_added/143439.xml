@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2011/07/13 NC</prepDate>
 		<prepDate>2014-03-25 CH clean regs</prepDate>
-		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1924-12-06">6 Dec 1924</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Opening Remarks at Carnegie Hall Meeting</supplied>
+				<supplied resp="MSPP">Carnegie Hall Meeting Opening Remarks</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp143439</idno>

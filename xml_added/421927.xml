@@ -5,7 +5,7 @@
 		<prepDate>2014-03-12 JK initial tag</prepDate>
 		<prepDate>2014-03-19 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK corrected tags</prepDate>
-		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate><prepDate>2015-08-10 CH clean up docs title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,7 +14,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Speech to Colgate University</supplied>
+				<supplied resp="MSPP">Colgate University Speech</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421927</idno>
@@ -30,7 +30,8 @@
 			<name id="HIMNO">Himes, Norman</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger spoke at <org>Colgate University</org>'s <org
+	<headNote resp="MSPP">
+		<p>Sanger spoke at <org>Colgate University</org>'s <org
 				reg="Colgate University Christian Fellowship">Christian Association</org>,
 			introduced by Norman Himes.</p>
 		<index level1="marriage age" level2="men"/>
