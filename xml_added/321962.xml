@@ -6,7 +6,8 @@
 		<prepDate>2015-03-13 CH proof tags</prepDate>
 		<prepDate>2015-03-20 CH recheck tags</prepDate>
 		<prepDate>2015-03-27 JC corrections made</prepDate>
-		<prepDate>2015-03-30 CH proof and enter tags</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
+		<prepDate>2015-03-30 CH proof and enter tags</prepDate>
+		<prepDate>2015-07-22 CH correct titles</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,13 +19,12 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on American Women's Association Award</supplied>
+				<supplied resp="MSPP">American Women's Association Award Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321962</idno>
 		<sourceDesc>
-			<bibl>
-				"<title type="article">Results Worth the Fight, Margaret Sanger Says After Her
+			<bibl> "<title type="article">Results Worth the Fight, Margaret Sanger Says After Her
 					21-Year 'Birth Control' Campaign</title>," <title type="journal">Washington
 					Post</title>, Feb 9, 1935, p. 14</bibl>
 		</sourceDesc>
@@ -121,9 +121,9 @@
 					who="MILHO">(Was she thinking of the eight times she had been arrested? Her
 					sentence to a penitentiary? The numerous times when halls engaged for her
 					lectures were closed against her at the last minute? Her encounter with the
-					postal authorities relative to her publications, "<title type="journal" reg="Woman Rebel">The
-						Rebel Woman"</title> and "The <title type="journal">Birth Control
-						Review</title>"?)</q></p>
+					postal authorities relative to her publications, "<title type="journal"
+						reg="Woman Rebel">The Rebel Woman"</title> and "The <title type="journal"
+						>Birth Control Review</title>"?)</q></p>
 		</div>
 
 		<div type="section">

@@ -3,15 +3,14 @@
 <doc type="Published Statement">
 	<mepHeader>
 		<prepDate>2014-04-07 JK initial tag</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-08-11 CH regularize the doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1941-08-29">29 Aug 1941</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Banned Birth Control Exhibits in New
-					York</supplied>
+				<supplied resp="MSPP">New York Banned Birth Control Exhibit Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421944</idno>

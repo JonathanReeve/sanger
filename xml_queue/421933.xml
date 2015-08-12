@@ -10,8 +10,10 @@
 		</docAuthor>
 		<docDate value="1916-04-01">01 Apr 1916</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement Before United States
-					Speaking Tour</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">United States Speaking
+					Tour Announcement</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421933</idno>
 		<sourceDesc>
@@ -26,14 +28,16 @@
 			<name id="TDB">The Day Book</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave this statement in <place
-				reg="New York, NY">New York</place>, before traveling to <place
-				reg="Chicago, IL">Chicago</place>.</p>
+	<headNote resp="MSPP">
+		<p>Sanger gave this statement in <place reg="New York, NY">New
+				York</place>, before traveling to <place reg="Chicago, IL"
+				>Chicago</place>.</p>
 		<index level1="birth control" level2="propaganda and publicity"/>
 		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
 		<index level1="Illinois" level2="Chicago” level3=birth control in"/>
 		<index level1="New York" level2="birth control laws"/>
-		<index level1="birth control clinics and leagues" level2="establishment of"/>
+		<index level1="birth control clinics and leagues"
+			level2="establishment of"/>
 		<index level1="Woman Rebel The" level2="legal case"/>
 	</headNote>
 	<docBody>
@@ -58,10 +62,12 @@
 				Sanger will travel west to the coast cities and then east again
 				by another route. </q>
 		</p>
-		<p><q who="TDB">Mrs. Sanger hopes, by stirring up the interest of
+		<p>
+			<q who="TDB">Mrs. Sanger hopes, by stirring up the interest of
 				American wives and mothers, to make their influence cause the
 				repeal of state and federal laws prohibiting the dissemination
-				of birth control information.</q></p>
+				of birth control information.</q>
+		</p>
 		<p>
 			<q who="TDB"> In cities where there are no restrictions of this kind
 				Mrs. Sanger hopes to establish clinics, similar to birth control

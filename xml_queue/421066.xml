@@ -4,15 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/11/04 YG</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate><prepDate>2015-08-11 CH regularize doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-08-20">20 Aug 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Archbishop John Gregory Murray's
-					Dictate</supplied>
+				<supplied resp="MSPP">Archbishop John Gregory Murray Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421066</idno>
@@ -29,7 +28,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p> For related statements, see Statements on Archbishop John Gregory Murray, <xref
+		<p> For related statements, see Archbishop John Gregory Murray Statements, <xref
 				from="421928.xml">Aug. 19, 1935</xref> and <xref from="421067.xml">Oct.
 			1935</xref>.</p>
 		<index level1="Catholic Church"/>

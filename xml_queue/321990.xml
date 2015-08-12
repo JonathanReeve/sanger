@@ -7,14 +7,14 @@
 		<prepDate>2014-03-19 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK clean tags</prepDate>
 		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<prepDate>2015-07-22 CH correct titles</prepDate>
+		<prepDate>2015-07-22 CH correct titles</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1928-11-25">25 Nov 1928</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement at the Biltmore Hotel, Los Angeles</supplied>
+				<supplied resp="MSPP">California Speaking Tour Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321990</idno>

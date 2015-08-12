@@ -3,15 +3,15 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/04/09 VS initial tagging</prepDate>
-		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1936-12-29">29 Dec 1936</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement at the Conference on Contraceptive Research and
-					Clinical Practice</supplied>
+				<supplied resp="MSPP">Conference on Contraceptive Research and
+					Clinical Practice Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421101</idno>

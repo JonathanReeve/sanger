@@ -5,15 +5,15 @@
 		<prepDate>2015-05-27 LH encoded and transcribed</prepDate>
 		<prepDate>2015-06-10 CH proofread tags</prepDate>
 		<prepDate>2015-06029 CH enter corrected tags</prepDate>
-		<prepDate>2015-07-14 EK correct proof and update index</prepDate>
+		<prepDate>2015-07-14 EK correct proof and update index</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-07-11">11 Jul 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement from Fifth International Neo-Malthusian and Birth
-					Control Conference</supplied>
+				<supplied resp="MSPP">Fifth International Neo-Malthusian and Birth
+					Control Conference Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422073</idno>
@@ -31,14 +31,15 @@
 				from="213557.xml">"Individual and Family Aspects of Birth Control"</xref>, July 11,
 			1922 and <xref from="400080.xml">"Speech to the Fifth International Neo-Malthusian and
 				Birth Control Conference"</xref>, July 13, 1922.</p>
-		<index level1="conferences" level2="International Neo-Malthusian and Birth Control Conference" level3="1922 (5th)"/>
+		<index level1="conferences"
+			level2="International Neo-Malthusian and Birth Control Conference" level3="1922 (5th)"/>
 		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
 		<index level1="family size" level2="MS on"/>
 		<index level1="Japan" level2="politics in"/>
 		<index level1="Japan" level2="overpopulation"/>
 		<index level1="overpopulation" level2="and war"/>
 		<index level1="birth control" level2="health benefits and risks"/>
-	
+
 	</headNote>
 	<docBody>
 		<head>AMERICAN MALES BAD INFLUENCES</head>

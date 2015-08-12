@@ -5,14 +5,14 @@
 		<prepDate>2013/11/20 JK encoded</prepDate>
 		<prepDate>2014-08-21 CH clean regs</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-10-00">Oct 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Archbishop John Gregory Murray</supplied>
+				<supplied resp="MSPP">Archbishop John Gregory Murray Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421067</idno>
@@ -27,7 +27,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For two similar statements, see Statements on Archbishop John Gregory Murray, <xref
+		<p>For two similar statements, see Archbishop John Gregory Murray Statements, <xref
 				from="421928.xml">Aug. 16, 1935</xref> and <xref from="421066.xml">Aug. 20,
 				1935</xref>.</p>
 		<index level1="Catholic Church" level2="birth control and"/>
@@ -51,21 +51,22 @@
 		<p> “Follow Archbishop Murray’s orders to their logical conclusion, and what have we?</p>
 		<p>“Every Catholic physician who is a member of the <org
 				reg="American Gynecological and Obstetrical Society">American Gynecological
-				Society</org>, the <org reg="American Neurological Association">American Neurological Society</org> and the Obstetrical
-			Section of the <org>American Medical Association</org> will have to sever his connection
-			with these professional groups, for they endorse the principles of birth control. In the
-			field of social work, every Catholic member of the <org>New Jersey State Conference of
-				Social Work</org>, of the <org reg="North Carolina Conference of Social Work">North
-				Carolina Conference</org>, and the <org reg="Vermont Conference of Social Work"
-				>Vermont</org> and <org reg="Arkansas Conference of Social Work">Arkansas
-				Conference</org>s will have to withdraw and forfeit the benefits that come from
-			contact with co-workers. And all Catholic social workers in these states, presumable,
-			will give up their positions. Any Catholic who belongs to the <org>California Parent
-				Teacher Association</org> must resign; likewise Catholic parents and teachers of the
-				<org reg="Indianapolis Parent Teacher Association">Indianapolis P.T.A.</org>
-			Catholic members of the <org reg="Virginia State Federation of Labor">Virginia</org> and
-				<org reg="Utah State Federation of Labor">Utah State Federations of Labour</org>
-			must walk out, and among business men, who see so clearly the value of fellowship, the
+				Society</org>, the <org reg="American Neurological Association">American
+				Neurological Society</org> and the Obstetrical Section of the <org>American Medical
+				Association</org> will have to sever his connection with these professional groups,
+			for they endorse the principles of birth control. In the field of social work, every
+			Catholic member of the <org>New Jersey State Conference of Social Work</org>, of the
+				<org reg="North Carolina Conference of Social Work">North Carolina Conference</org>,
+			and the <org reg="Vermont Conference of Social Work">Vermont</org> and <org
+				reg="Arkansas Conference of Social Work">Arkansas Conference</org>s will have to
+			withdraw and forfeit the benefits that come from contact with co-workers. And all
+			Catholic social workers in these states, presumable, will give up their positions. Any
+			Catholic who belongs to the <org>California Parent Teacher Association</org> must
+			resign; likewise Catholic parents and teachers of the <org
+				reg="Indianapolis Parent Teacher Association">Indianapolis P.T.A.</org> Catholic
+			members of the <org reg="Virginia State Federation of Labor">Virginia</org> and <org
+				reg="Utah State Federation of Labor">Utah State Federations of Labour</org> must
+			walk out, and among business men, who see so clearly the value of fellowship, the
 			Catholic members of the <org reg="Tacoma Rotary Club">Rotary Club of Tacoma,
 				Washington</org>, to cite one example, must ask to have their names removed from the
 			roster. Six state groups of Business and Professional Women--<org

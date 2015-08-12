@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014-04-02 JK initial tags</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-07-16 EK update index</prepDate>
+		<prepDate>2015-07-16 EK update index</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-01-13">13 Jan 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement before the WOMAN REBEL Trial</supplied>
+				<supplied resp="MSPP">WOMAN REBEL Trial Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421934</idno>

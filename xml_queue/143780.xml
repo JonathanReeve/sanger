@@ -5,14 +5,14 @@
 		<prepDate>2010/04/28 AC</prepDate>
 		<prepDate>2010/04/29 CH proof and correct</prepDate>
 		<prepDate>2014-03-11 CH correct errors</prepDate>
-		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate>
+		<prepDate>2015-03-31 CH Proof and recheck tags</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1938-11-12">12 Nov 1938</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement After Tour of Southern States</supplied>
+				<supplied resp="MSPP">Southern States Tour Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp143780</idno>

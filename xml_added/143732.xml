@@ -7,14 +7,15 @@
 		<prepDate>2014-04-08 EK clean regs</prepDate>
 		<prepDate>2015-03-02 CH proof taga and enter</prepDate>
 		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-10-30">30 Oct 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement Before Birth Control Campaign in
-					East</supplied>
+				<supplied resp="MSPP">Birth Control Campaign in East
+					Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp143732</idno>

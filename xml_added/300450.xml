@@ -6,14 +6,15 @@
 		<prepDate>2014/03/20 CH proof tags</prepDate>
 		<prepDate>2014/03/26 VS correct tags</prepDate>
 		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-03-08">8 Mar 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement before United States House of Representatives on
-					H.R. 5370</supplied>
+				<supplied resp="MSPP">United States House of Representatives Testimony on H.R.
+					5370</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp300450</idno>
@@ -96,8 +97,8 @@
 				have been unable to teach contraception in their medical schools, as Dr. <person
 					reg="Willson, Prentiss">Willson</person> will tell you, because this law has
 				been operating for the past 62 years. It has been said that the <org
-					reg="United States Postal Service">Post Office Department</org> does not intend to
-				investigate honorable high-minded members of the profession; some people say, no,
+					reg="United States Postal Service">Post Office Department</org> does not intend
+				to investigate honorable high-minded members of the profession; some people say, no,
 				they are not going to trouble them. Of course, any law-abiding doctor does not want
 				to do anything to cause loss of life directly or indirectly, but due to these laws
 				that you are asking to have amended to make them more vicious and dangerous, the

@@ -4,15 +4,15 @@
 	<mepHeader>
 		<prepDate>2012-06-18 AW Initial Tag</prepDate>
 		<prepDate>2014-04-17 CH clean regs</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1958-12-17">17 Dec 1958</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement for Sixth International Conference on Planned
-					Parenthood Souvenir</supplied>
+				<supplied resp="MSPP">Sixth International Conference on Planned
+					Parenthood Souvenir Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp231341</idno>
@@ -49,15 +49,16 @@
 			the IPPF congratulate all the people of India who have made this progress, and
 			especially those leaders of the <org>Family Planning Association of India</org> who have
 			been in the forefront of the program.</p>
-		<p>It is a matter of much personal gratification to me that one of India’s leading business men reported in a <place
-				reg="Los Angeles, CA">Los Angeles, California</place>, Newspaper last autumn that,
-				"<q who="UNK">As <person reg="Gandhi, Mohandas K.">Mohandas Ghandi</person> was the
-				leader before independence in India, Margaret Sanger is the leader for India today,
-				meaning that our Nation can progress faster if its people practice birth control as
-				expounded by Mrs. Sanger for many years</q>.” Although this praise must be accepted
-			for our cause rather than for me as an individual, it is good to find that progressive
-			business men of India now are taking this position in favor of birth control, which I
-			knew your scientists and doctors had taken for a long while. </p>
+		<p>It is a matter of much personal gratification to me that one of India’s leading business
+			men reported in a <place reg="Los Angeles, CA">Los Angeles, California</place>,
+			Newspaper last autumn that, "<q who="UNK">As <person reg="Gandhi, Mohandas K.">Mohandas
+					Ghandi</person> was the leader before independence in India, Margaret Sanger is
+				the leader for India today, meaning that our Nation can progress faster if its
+				people practice birth control as expounded by Mrs. Sanger for many years</q>.”
+			Although this praise must be accepted for our cause rather than for me as an individual,
+			it is good to find that progressive business men of India now are taking this position
+			in favor of birth control, which I knew your scientists and doctors had taken for a long
+			while. </p>
 		<p>The full cooperation of the <org reg="India Government">Government of India</org> in the
 			preparation of this Conference is a most welcome approval of the importance of our
 			goals, as is the increasing place given to the planned parenthood services in the

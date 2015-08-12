@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-09-21 MC transcribed and encoded</prepDate>
 		<prepDate>2015-06-25 CH proof tags</prepDate>
-		<prepDate>2015-06-30 MC enter corrections</prepDate>
+		<prepDate>2015-06-30 MC enter corrections</prepDate><prepDate>2015-08-11 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person>Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Activities in Italy</supplied>
+				<supplied resp="MSPP">Return from Italy Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422085</idno>
