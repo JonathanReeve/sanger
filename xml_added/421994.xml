@@ -3,7 +3,8 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/07/08 MM</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-05-27 CH clean up citation</prepDate>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
+		<prepDate>2015-05-27 CH clean up citation</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +14,7 @@
 		<docDate value="1961-10-02">2 Oct 1961</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Episcopal Church Decision on Birth
+				<supplied resp="MSPP">Episcopal Church Endorsement of Birth
 					Control</supplied>
 			</titlePart>
 		</docTitle>

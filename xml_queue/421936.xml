@@ -3,14 +3,14 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014-04-02 JK initial tags</prepDate>
-		<prepDate>2015-04-08 CH check tags again</prepDate>
+		<prepDate>2015-04-08 CH check tags again</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1948-11-02 ">02 Nov 1948</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Overpopulation</supplied>
+				<supplied resp="MSPP">Overpopulation</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421936</idno>
@@ -39,14 +39,14 @@
 	<docBody>
 		<head>Too Many People, Says Founder of Planned Parenthood</head>
 		<div type="section">
-			<p><q who="EPHP">Mrs. Margaret Sanger, founder of now worldwide <org reg="International Planned Parenthood Federation">Planned
-						Parenthood</org>, said that starvation will face the <place>United
-						States</place> as well as the rest of the world within 10 years if
-					populations are not controlled. She said that food conservation programs are not
-					enough to solve the problem because there are too many people in the world in
-					relation to its food-producing capacity.</q> “It has been estimated that the
-				standard of living in the United States started to decline about 1940,”<q who="EPHP"
-					> Mrs. Sanger said.</q>
+			<p><q who="EPHP">Mrs. Margaret Sanger, founder of now worldwide <org
+						reg="International Planned Parenthood Federation">Planned Parenthood</org>,
+					said that starvation will face the <place>United States</place> as well as the
+					rest of the world within 10 years if populations are not controlled. She said
+					that food conservation programs are not enough to solve the problem because
+					there are too many people in the world in relation to its food-producing
+					capacity.</q> “It has been estimated that the standard of living in the United
+				States started to decline about 1940,”<q who="EPHP"> Mrs. Sanger said.</q>
 			</p>
 		</div>
 

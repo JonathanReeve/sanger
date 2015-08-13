@@ -4,15 +4,15 @@
 	<mepHeader>
 		<prepDate>2013/11/13 JK encoded</prepDate>
 		<prepDate>2014/04/13 EK clean regs</prepDate>
-		<prepDate>2015-03-17 CH recheck tags</prepDate>
+		<prepDate>2015-03-17 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1931-03-23">23 Mar 1931</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Endorsement of Federal Churches of Christ in
-					America</supplied>
+				<supplied resp="MSPP">Federal Churches of Christ in
+					America Endorsement of Birth Control</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321963</idno>
@@ -57,9 +57,9 @@
 			influence. They are to be congratulated on their recognition of birth control as a moral
 			and a valid idea and for their clear and direct presentation of the findings of the
 			committee. The statement inspires me with a wholesome respect for a group with influence
-			such as that of the <org reg="Federal Council of Churches of Christ in America"
-				>Federal Council of Churches</org> for its honesty and straight-forward thinking.
-			They have not evaded--they have not hedged--they have met the issue fairly. </p>
+			such as that of the <org reg="Federal Council of Churches of Christ in America">Federal
+				Council of Churches</org> for its honesty and straight-forward thinking. They have
+			not evaded--they have not hedged--they have met the issue fairly. </p>
 		<p>Indeed, this is the largest step in the progress of the birth control movement. But the
 			task before us is not over by any means. Encouraged and inspired by the action of the
 			Federal Council of the Churches of Christ in America, we can now regard many of the

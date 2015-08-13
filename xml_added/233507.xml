@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2011-07-29 NC</prepDate>
 		<prepDate>2014-04-08 CH clean regs</prepDate>
-		<prepDate>2015-04-09 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-09 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Visiting Japan</supplied>
+				<supplied resp="MSPP">Barred From Visiting Japan</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp233507</idno>

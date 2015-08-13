@@ -6,13 +6,14 @@
 		<prepDate>2014-12-11 CH proof tags</prepDate>
 		<prepDate>2014-12-11 CH enter corrections</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-05-21 EK correct proof and update index</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person>
+		<prepDate>2015-05-21 EK correct proof and update index</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-12-26">26 Dec 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Engagement Rights</supplied>
+				<supplied resp="MSPP">Engagement Rights</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421175</idno>
@@ -38,16 +39,17 @@
 	<docBody>
 		<head>BREAKING OF ENGAGEMENTS IS DEFENDED</head>
 		<byline>by <person reg="Bahn, Chester D.">CHESTER D. BAIN</person></byline>
-		<p><dateline><place reg="Syracuse, NY">Syracuse, N.Y.</place>, <date>Dec.
-				26--</date></dateline></p>
+		<p>
+			<dateline><place reg="Syracuse, NY">Syracuse, N.Y.</place>, <date>Dec.
+				26--</date></dateline>
+		</p>
 		<p>“Women have claimed and won equality with men before the law. They should grant men the
 			same privilege of breaking the engagement that they have claimed and used.”</p>
 		<p>
-			<q who="BND">That is the way Mrs. Margaret
-					Sanger, birth control advocate, answered <person reg="Bowen, Marjorie"
-					>Marjorie Bowen</person>, famous British novelist, who recently declared that
-				men should be required to keep marriage engagements and women should retain the
-				right, under law, to sue for breach of promise damages.</q>
+			<q who="BND">That is the way Mrs. Margaret Sanger, birth control advocate, answered
+					<person reg="Bowen, Marjorie">Marjorie Bowen</person>, famous British novelist,
+				who recently declared that men should be required to keep marriage engagements and
+				women should retain the right, under law, to sue for breach of promise damages.</q>
 		</p>
 		<p>
 			<q who="BND">Mrs. Sanger fired her answering broadside at the British writer while here

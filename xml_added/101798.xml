@@ -4,15 +4,15 @@
 	<mepHeader>
 		<prepDate>2011/06/01 CE</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
-		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1936-12-29">29 Dec 1936</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Welcoming Address to the Conference on Contraceptive Research
-					and Clinical Practice notes</supplied>
+				<supplied resp="MSPP">Conference on Contraceptive Research
+					and Clinical Practice Welcoming Speech Notes</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp101798</idno>
@@ -30,8 +30,8 @@
 			December 29 and 30, 1936. It was attended by over fifty representatives from birth
 			control clinics around the country. No final version of Sanger's welcome has been found.
 			For additional quotes from this event see <xref from="421101.xml">Statement from the
-				Conference on Contraceptive Research and Clinical Practice</xref>, Dec. 29,
-			1936 and <xref from="308175.xml">The Future of Contraception</xref>, Dec. 29, 1936.</p>
+				Conference on Contraceptive Research and Clinical Practice</xref>, Dec. 29, 1936 and
+				<xref from="308175.xml">The Future of Contraception</xref>, Dec. 29, 1936.</p>
 		<p>For earlier drafts see the Library of Congress Microfilm 128:264, 131:62B, 72, and 76,
 			and Margaret Sanger Microfilm, Smith College Collections S71:865 and 870.</p>
 		<index level1="eugenics" level2="MS on"/>

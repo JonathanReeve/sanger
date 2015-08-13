@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2014-07-03 MM</prepDate>
 		<prepDate>2015-03-02 CH recheck tags</prepDate>
-		<prepDate>2015-03-18 EK correct proof and update index</prepDate>
+		<prepDate>2015-03-18 EK correct proof and update index</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,13 +13,13 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on WOMAN REBEL Case</supplied>
+				<supplied resp="MSPP">WOMAN REBEL Case</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422005</idno>
 		<sourceDesc>
-			<bibl><title type="journal">New York Evening Journal</title>, 
-				<supplied resp="MSPP">April 11, 1914</supplied>, p. 1</bibl>
+			<bibl><title type="journal">New York Evening Journal</title>, <supplied resp="MSPP"
+					>April 11, 1914</supplied>, p. 1</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>

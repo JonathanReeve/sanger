@@ -4,15 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/04/11 VS initial tagging</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1928-05-12">12 May 1928</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Birth Control for Healthy, Happy
-					Mothers</supplied>
+				<supplied resp="MSPP">Birth Control for Healthy, Happy Mothers</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321978</idno>

@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-06-09 HD transcribed and encoded</prepDate>
 		<prepDate>2015-06-25 CH proof tags</prepDate>
-		<prepDate>2015-06-30 HD correct tags</prepDate>
+		<prepDate>2015-06-30 HD correct tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on the Rhythm Method</supplied>
+				<supplied resp="MSPP">Rhythm Method and the Catholic Church</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422099</idno>

@@ -5,15 +5,15 @@
 		<prepDate>2015-02-23 JC transcribed and encoding</prepDate>
 		<prepDate>2015-02-24 CH proof tags and enter</prepDate>
 		<prepDate>2013-03-02 JC correct tags</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1934-01-15">15 Jan 1934</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Welcoming Address to the American Conference on Birth Control
-					and National Recovery</supplied>
+				<supplied resp="MSPP">American Conference on Birth Control
+					and National Recovery Welcoming Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp157134</idno>

@@ -3,7 +3,7 @@
 	<mepHeader>
 		<prepDate>2013/12/18 JK encoded</prepDate>
 		<prepDate>2014-01-22 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -12,7 +12,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Overpopulation in Europe</supplied>
+				<supplied resp="MSPP">Overpopulation in Europe</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321977</idno>
@@ -43,9 +43,9 @@
 		</p>
 		<p>“The over-populated condition of Europe is fast becoming acute,” Mrs. Sanger said
 			yesterday, “especially because of our restrictions on immigration.<place> Italy</place>,
-			<place>Germany</place>, <place>Poland</place> and some other countries are particularly
-			cross at us because of the immigration ban. Italy, the greatest foe of birth control in
-			all Europe, is overpopulated.” </p>
+				<place>Germany</place>, <place>Poland</place> and some other countries are
+			particularly cross at us because of the immigration ban. Italy, the greatest foe of
+			birth control in all Europe, is overpopulated.” </p>
 		<p>
 			<q who="NYT">Because she traveled under her second <person reg="Slee, J. Noah H."
 					>husband</person>’s name. Mrs. M. S. Slee, Mrs. Sanger was not found by ship

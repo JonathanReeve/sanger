@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2003-11-24 ML</prepDate>
 		<prepDate>2014-03-04 CH correct regs</prepDate>
-		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,8 +13,8 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Welcomeing Address to the Sixth International Neo-Malthusian and
-					Birth Control Conference</supplied>
+				<supplied resp="MSPP">Sixth International Neo-Malthusian
+					and Birth Control Conference Welcoming Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp305432</idno>

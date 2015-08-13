@@ -3,14 +3,14 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014-04-15 JK initial tag</prepDate>
-		<prepDate>2015-03-30 CH proof and enter tags</prepDate>
+		<prepDate>2015-03-30 CH proof and enter tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1937-07-19">19 Jul 1937</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on National Committee on Federal
+				<supplied resp="MSPP">National Committee on Federal
 					Legislation for Birth Control Report</supplied>
 			</titlePart>
 		</docTitle>
@@ -60,26 +60,26 @@
 				<q who="NYT">Mrs. Sanger recommends also that visiting nurses
 					should be sent into isolated homes remote from medical
 					service to teach birth-control measures. The committee
-					making the report recently was dissolved after the <org>United
-					States Circuit Court of Appeals</org> upheld birth control under
-					medical direction. The executive committee comprises <person
-						reg="Timme, Ida Haar">Mrs. Walter Timme</person>,
-						<person reg="Hepburn, Katharine Houghton">Mrs. Thomas N.
+					making the report recently was dissolved after the
+						<org>United States Circuit Court of Appeals</org> upheld
+					birth control under medical direction. The executive
+					committee comprises <person reg="Timme, Ida Haar">Mrs.
+						Walter Timme</person>, <person
+						reg="Hepburn, Katharine Houghton">Mrs. Thomas N.
 						Hepburn</person>, <person reg="Barker, Marion B.">Mrs.
 						Alexander C. Barker</person>, and <person
 						reg="Brush, Dorothy Hamilton">Mrs. Alexander C.
 						Dick</person>.</q>
 			</p>
 			<p>“This decision,” <q who="NYT">wrote Mrs. Sanger, referring to the
-						Circuit Court ruling,
-				</q>“has opened the way to a far more fundamental goal--the
-				inclusion of birth control in public health programs and the
-				carrying of contraceptive information to neglected mothers in
-				isolated regions. We must help the mothers who as yet are not
-				reached through public health channels. We urge caravans of
-				education and help for mountain women, farm women, mothers in
-				distant homesteads, mothers in all districts, city and country,
-				who are neglected.</p>
+					Circuit Court ruling, </q>“has opened the way to a far more
+				fundamental goal--the inclusion of birth control in public
+				health programs and the carrying of contraceptive information to
+				neglected mothers in isolated regions. We must help the mothers
+				who as yet are not reached through public health channels. We
+				urge caravans of education and help for mountain women, farm
+				women, mothers in distant homesteads, mothers in all districts,
+				city and country, who are neglected.</p>
 			<p> “We should send an organization of birth-control-instructing
 				nurses to visit the homes of these underprivileged mothers. Just
 				as members of the <org

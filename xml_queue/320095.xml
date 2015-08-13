@@ -8,12 +8,12 @@
 		<prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
 		<prepDate>2014-03-05 CH correct regs</prepDate>
 		<prepDate>2015-01-06 CH proof tags and enter</prepDate>
-		<prepDate>2015-07-14 EK update index</prepDate>
+		<prepDate>2015-07-14 EK update index</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1912-05-20">20 May 1912</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP"> Statement on Ettor and Giovannitti Trial </supplied>
+				<supplied resp="MSPP">Ettor and Giovannitti Trial</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp320095</idno>
@@ -58,9 +58,9 @@
 		<p>If ever there was a travesty on justice it was there. There sat a judicial monster, who
 			by his position had a strangle-hold on thousands of textile workers and from whose
 			decision there is no appeal.</p>
-		<p>Socialists of <place reg="United States, New England">New England</place> can well ponder over these facts, for they have
-			in their midst as mean a rodent of the law as ever sat under the canopy of the so-called
-			Commonwealth of <place>Massachusetts</place>.</p>
+		<p>Socialists of <place reg="United States, New England">New England</place> can well ponder
+			over these facts, for they have in their midst as mean a rodent of the law as ever sat
+			under the canopy of the so-called Commonwealth of <place>Massachusetts</place>.</p>
 		<p>His very evident bias in charging the jury spelled a conviction for Bruno before the
 			talesmen adjourned to deliberate.</p>
 		<p>We are loud in our protest against the man who runs amuck with dynamite, but what about

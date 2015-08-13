@@ -5,12 +5,14 @@
 		<prepDate>2013/11/13 JK encoded</prepDate>
 		<prepDate>2014-04-13 EK clean regs</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-04-24">24 Apr 1928</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Parents' Exposition</supplied>
+				<supplied resp="MSPP">Censorship at the Parents' Exposition</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321993</idno>
@@ -33,7 +35,7 @@
 	</headNote>
 	<docBody>
 		<head>Mrs. Sanger Calls Catholics Bigots</head>
-				<div type="section">
+		<div type="section">
 			<p><q who="NYT">The <org>American Birth Control League</org>, whose contract for a booth
 					was cancelled by the <org>Parents' Exposition</org> at the <org>Grand Central
 						Palace</org> at the insistence of the <org

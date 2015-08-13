@@ -6,14 +6,14 @@
 		<prepDate>2012-10-25 CH Proof tags</prepDate>
 		<prepDate>2014-04-14 EK clean regs></prepDate>
 		<prepDate>2014-04-16 EK correct proof </prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-05-18">18 May 1916</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Emma Goldman</supplied>
+				<supplied resp="MSPP">National Conference of Charities and Corrections Statement</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321959</idno>

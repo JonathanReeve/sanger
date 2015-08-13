@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2013/11/20 JK encoded</prepDate>
 		<prepDate>2014-06-01 EK clean regs</prepDate>
-		<prepDate>2015-03-18 CH recheck tags</prepDate>
+		<prepDate>2015-03-18 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1932-10-09 ">09 Oct 1932</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Birth Control in Puerto Rico Statement</supplied>
+				<supplied resp="MSPP">Birth Control in Puerto Rico</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421049</idno>

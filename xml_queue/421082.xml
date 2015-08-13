@@ -5,14 +5,14 @@
 		<prepDate>2014/03/07 YG initial tags</prepDate>
 		<prepDate>2014-03-14 CH proof tags</prepDate>
 		<prepDate>2014-03-26 JK correct tags</prepDate>
-		<prepDate>2015-03-24 CH proof tags and enter</prepDate>
+		<prepDate>2015-03-24 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1936-05-14">14 May 1936</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on the American Medical Association</supplied>
+				<supplied resp="MSPP">American Medical Association</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421082</idno>
@@ -39,8 +39,8 @@
 		<head>REGULATION OF FAMILIES SEEN AS POSSIBILITY</head>
 		<head type="sub">Margaret Sanger, Birth Control Advocate, Reports Discovery That Will
 			Simplify Problem</head>
-		<dateline>WASHINGTON, <date value="1936-05-14">May 14</date>-- (<org
-				reg="United Press">UP</org>) </dateline>
+		<dateline>WASHINGTON, <date value="1936-05-14">May 14</date>-- (<org reg="United Press"
+				>UP</org>) </dateline>
 		<div type="section">
 			<p>
 				<q who="JCPT">Mrs. Margaret Sanger returned from a tour of <place>Asia</place> today

@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/04/11 VS initial tagging</prepDate>
 		<prepDate>2015-02-27 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-20 CH recheck tags</prepDate>
+		<prepDate>2015-03-20 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1935-09-17">17 Sep 1935</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Population and War</supplied>
+				<supplied resp="MSPP">Population and War</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421065</idno>
@@ -36,9 +36,9 @@
 		<head>DICTATORS SEEN AS NEARSIGHTED BY MRS. SANGER</head>
 		<div>
 			<p> “Dictators have no use for birth control because they are near-sighted,” <q
-					who="NYWT">said Margaret Sanger today,
-					shaking her roan colored hair.</q> “They seem to realize that constantly
-				increasing populations are potentially the strongest cause of war.” </p>
+					who="NYWT">said Margaret Sanger today, shaking her roan colored hair.</q> “They
+				seem to realize that constantly increasing populations are potentially the strongest
+				cause of war.” </p>
 			<p>
 				<q who="NYWT">Mrs. Sanger, vivacious and good-humored after 21 years of fighting for
 					the spreading of knowledge about birth control, today accepted an invitation

@@ -4,12 +4,14 @@
 	<mepHeader>
 		<prepDate>2014/04/11 VS initial tagging</prepDate>
 		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-11 CH recheck tags</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-03-11 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1928-09-14">14 Sept 1928</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Maternal Mortality</supplied>
+				<supplied resp="MSPP">Maternal Mortality</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321979</idno>
@@ -33,12 +35,14 @@
 		<head>NEW YORK WOMAN HOPES TO CURB MORTALITY AMONG MOTHERS</head>
 
 		<dateline><place reg="New York, NY">New York</place>.--</dateline>
-		<p><q who="PH">An intensive study of methods of reducing the morality among mothers as a
+		<p>
+			<q who="PH">An intensive study of methods of reducing the morality among mothers as a
 				result of childbirth will be undertaken by Mrs. Margaret Sanger, founder and
 				president of the <org>American Birth Control League</org> and one of the foremost
 				advocates of scientifically applied birth control in the world. Maternal mortality
 				is greater in <place reg="United States">this country</place>, Mrs. Sanger said,
-				than any other country in the civilized world, except <place>Chile</place>.</q></p>
+				than any other country in the civilized world, except <place>Chile</place>.</q>
+		</p>
 
 		<p> “Statistics on the subject of maternal mortality are of doubtful values,” <q who="PH"
 				>Mrs. Sanger declared in a statement given out last night,</q> “but the record shows

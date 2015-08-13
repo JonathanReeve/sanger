@@ -2,14 +2,15 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published statement">
 	<mepHeader>
-		<prepDate>2015-07-27 CH transcribe and encode</prepDate><prepDate>2015-08-05 CH clean up place</prepDate>
+		<prepDate>2015-07-27 CH transcribe and encode</prepDate>
+		<prepDate>2015-08-05 CH clean up place</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1951-09-29">29 Sep 1951</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Government Subsidies for Babies</supplied>
+				<supplied resp="MSPP">Government Subsidies for Babies</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422104</idno>

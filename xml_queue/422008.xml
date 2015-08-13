@@ -3,13 +3,13 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/07/08 MM</prepDate>
-		<prepDate>2015-04-10 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-10 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1953-09-28">28 Sept 1953</docDate>
 		<docTitle>
-			<titlePart>Statement on Her Swedish Trip</titlePart>
+			<titlePart>Return From Sweden</titlePart>
 		</docTitle>
 		<idno>msp422008</idno>
 		<sourceDesc>
@@ -47,10 +47,9 @@
 			<head type="sub">Outstanding Advocate</head>
 			<p>
 				<q who="ADS">The world's outstanding advocate of planned parenthood declared that
-						<org reg="Riksforbundet fur Sexuell Upplysning">Sweden planned
-						parenthood organization</org> has more than 100,000 members, and is
-					subscribed to financially by the <person reg="Gustaf VI Adolf (Sweden)"
-						>king</person>.</q>
+						<org reg="Riksforbundet fur Sexuell Upplysning">Sweden planned parenthood
+						organization</org> has more than 100,000 members, and is subscribed to
+					financially by the <person reg="Gustaf VI Adolf (Sweden)">king</person>.</q>
 			</p>
 			<p>
 				<q who="ADS">She said the Swedish nation has backed the organization for many years

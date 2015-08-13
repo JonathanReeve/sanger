@@ -5,14 +5,14 @@
 		<prepDate>2015-05-26 MC encoded and transcribed</prepDate>
 		<prepDate>2015-05-29 CH proof tags</prepDate>
 		<prepDate>2015-06-09 MC enter corrections</prepDate>
-		<prepDate>2015-08-07 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-08-07 CH enter proofreading corrections</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-10-11">11 Oct 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Return to the United States</supplied>
+				<supplied resp="MSPP">Return from World Tour</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422069</idno>
@@ -47,12 +47,12 @@
 				>Honolulu</place>."</p>
 		<p>"The difficulty I had in entering Japan was due to the fact that the Government had an
 			idea I was sent by the <place>United States</place> to reduce Japan's birth rate and so
-			weaken her army. The present population of Japan is 57,000,000 and the military party wants a
-			population of 100,000,000. However, when I made it clear that my own Government took the
-			same attitude towards me and that my object was to reduce the birth rate in every
-			country in the world, they let me in. My meetings were called under the auspices of the
-			best educated and most cultivated Japanese and through an interpreter I lectured on the
-			population in Japan and all nations.</p>
+			weaken her army. The present population of Japan is 57,000,000 and the military party
+			wants a population of 100,000,000. However, when I made it clear that my own Government
+			took the same attitude towards me and that my object was to reduce the birth rate in
+			every country in the world, they let me in. My meetings were called under the auspices
+			of the best educated and most cultivated Japanese and through an interpreter I lectured
+			on the population in Japan and all nations.</p>
 		<p>"In <place reg="London, England">London</place> I acted as president of the general
 			section of the <org reg="International Neo-Malthusian and Birth Control Conference, 5th"
 				>International Conference on Birth Control</org>, where delegates from all countries

@@ -3,14 +3,16 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/07/08 MM</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1942-04-30">30 Apr 1942</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on Infant Mortality in
-					the Southwest United States</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Infant Mortality in the
+					Southwest United States</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421996</idno>
 		<sourceDesc>
@@ -22,15 +24,16 @@
 			<name id="LNEWS">Llano News</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>This article was published in other newspapers,
-			including the <title type="journal">Port Neches Chronicle</title>,
-			May 1, 1942, and the <title type="journal">Bronte
-			Enterprise</title>, May 15, 1942. </p>
+	<headNote resp="MSPP">
+		<p>This article was published in other newspapers, including the <title
+				type="journal">Port Neches Chronicle</title>, May 1, 1942, and
+			the <title type="journal">Bronte Enterprise</title>, May 15, 1942. </p>
 		<index level1="United States" level2="southern region"/>
 		<index level1="United States" level2="western region"/>
 		<index level1="birth control" level2="lack of knowledge of"
 			level3="negative consequences of"/>
-		<index level1="mortality rates" level2="infant"/></headNote>
+		<index level1="mortality rates" level2="infant"/>
+	</headNote>
 	<docBody>
 		<head>HERE ARE THE FACTS</head>
 
@@ -71,7 +74,8 @@
 			women, just as it is available to women who can afford to pay for
 			the advice of a private physician," <q who="LNEWS">Mrs. Sanger
 				said.</q></p>
-		<p><q who="LNEWS">Mrs. Sanger, for many years a winter resident of the
+		<p>
+			<q who="LNEWS">Mrs. Sanger, for many years a winter resident of the
 				Southwest, is honorary chairman of the <org>Planned Parenthood
 					Federation of America</org>. Recognized as the founder of
 				the birth control movement in the United States, she established
@@ -83,7 +87,8 @@
 				religious, health, medical, and civic organizations. A recent
 					<org>Gallup</org> poll indicated that 77% of the people of
 				the United States favor the spread of birth control
-				knowledge.</q></p>
+				knowledge.</q>
+		</p>
 
 	</docBody>
 </doc>

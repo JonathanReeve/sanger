@@ -5,7 +5,7 @@
 		<prepDate>2014-06-24 MM </prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-04-22 EK update index</prepDate>
-		<prepDate>2015-05-13 EK correct proof</prepDate>
+		<prepDate>2015-05-13 EK correct proof</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,7 +14,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Japanese Visa</supplied>
+				<supplied resp="MSPP">Japanese Visa Refusal</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422011</idno>
@@ -56,8 +56,8 @@
 			<p>Mrs. Sanger will carry out her original intention, she said, and sail for Japan
 				aboard the <org reg="Toyo Kisen Kaisha">T.K.K.</org> liner <name type="ship">Taiyo
 					Maru</name> tomorrow. She will be the guest of <person
-					reg="Kato, Shidzue Ishimoto">Baroness Ishimoto</person>, leader of the
-				birth control movement in Japan, while in Toyko.</p>
+					reg="Kato, Shidzue Ishimoto">Baroness Ishimoto</person>, leader of the birth
+				control movement in Japan, while in Toyko.</p>
 		</div>
 		<div>
 			<head type="sub">OVERPOPULATION BIG PROBLEM</head>

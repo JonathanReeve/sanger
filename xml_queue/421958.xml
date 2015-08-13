@@ -3,14 +3,14 @@
 <doc type="Published Statement">
 	<mepHeader>
 		<prepDate>2014/04/25 YG</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1943-07-20">20 Jul 1943</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Japan</supplied>
+				<supplied resp="MSPP">Japan</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp421958</idno>

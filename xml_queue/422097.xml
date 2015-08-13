@@ -3,14 +3,14 @@
 <doc type="Published Statement">
 	<mepHeader>
 		<prepDate>2015-06-09 LH encoded and transcribed</prepDate>
-		<prepDate>2015-06-25 CH proofread tags and entered corrections</prepDate>
+		<prepDate>2015-06-25 CH proofread tags and entered corrections</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1934-06-02"><supplied resp="MSPP"/>2 June 1934</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on the United States Birth Rate</supplied>
+				<supplied resp="MSPP">United States Birth Rate</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422097</idno>

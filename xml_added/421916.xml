@@ -3,14 +3,14 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/11/04 YG</prepDate>
-		<prepDate>2015-03-30 CH proof and enter tags</prepDate>
+		<prepDate>2015-03-30 CH proof and enter tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1937-07-19">19 Jul 1937</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on the National Committee on Federal Legislation for
+				<supplied resp="MSPP">National Committee on Federal Legislation for
 					Birth Control</supplied>
 			</titlePart>
 		</docTitle>
@@ -51,8 +51,7 @@
 		</p>
 		<p>“Whereas the purposes of the National Committee on Federal Legislation for Birth Control,
 			Inc., have been accomplished, in the light of the recent decision by the <org
-				reg="United States Circuit Court of Appeals">Circuit Court of
-				Appeals</org>,</p>
+				reg="United States Circuit Court of Appeals">Circuit Court of Appeals</org>,</p>
 		<p>“Be it Resolved that the National Committee on Federal Legislation for Birth Control,
 			Inc., be dissolved...” </p>
 		<p>

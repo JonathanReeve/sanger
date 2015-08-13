@@ -5,14 +5,14 @@
 		<prepDate>2013-10-23 EK Initial Tag</prepDate>
 		<prepDate>2014/03/30 EK clean regs + proof corrections </prepDate>
 		<prepDate>2015-01-07 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-31 EK update index</prepDate>
+		<prepDate>2015-03-31 EK update index</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1913-12-00">Dec 1913</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Women and Capitalism</supplied>
+				<supplied resp="MSPP">Women and Capitalism</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp321986</idno>

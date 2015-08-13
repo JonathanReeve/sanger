@@ -3,14 +3,15 @@
 <doc type="Published Statement">
 	<mepHeader>
 		<prepDate>2014/05/02 YG</prepDate>
-		<prepDate>2015-04-07 CH proof tags and enter</prepDate>
+		<prepDate>2015-04-07 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-01-23">23 Jan 1923 </docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on Pronatalist
-				Dictatorships</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Pronatalist Dictatorships</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421956</idno>
 		<sourceDesc>
@@ -25,7 +26,8 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Portions of this article, dealing with <org
+	<headNote resp="MSPP">
+		<p>Portions of this article, dealing with <org
 				reg="Planned Parenthood Federation of America">Planned Parenthood</org>'s activities
 			in 1942, have not been transcribed. This article was published in the "Activities of
 			Women's National Organizations," by <person reg="Taylor, Rebecca Stiles">Rebecca Stiles
@@ -38,8 +40,10 @@
 
 	<docBody>
 		<head>PLANNED PARENTHOOD FEDERATION REPORTS A SUCCESSFUL YEAR.</head>
-		<p><q who="TAYRE">How do you fit ‘Birth Control’ into a world in which dictators are
-				clamoring for more and more and yet more people?</q></p>
+		<p>
+			<q who="TAYRE">How do you fit ‘Birth Control’ into a world in which dictators are
+				clamoring for more and more and yet more people?</q>
+		</p>
 		<p><q who="TAYRE">In answer to this question, Margaret Sanger, pioneer of ‘birth control,’
 				replied:</q> "I can only answer momentum must now derive its power from some other
 			source than arousing sympathy. The present insensitivity is due to a horror of hovering

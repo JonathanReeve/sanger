@@ -3,12 +3,15 @@
 <doc type="Published statement">
 	<mepHeader>
 		<prepDate>2014/07/03 MM</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1960-07-16">16 Jul 1960</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement on the Election of John. F.
-					Kennedy</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Election of John. F. Kennedy</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421987</idno>
 		<sourceDesc>
@@ -38,18 +41,24 @@
 			another place to live" <q who="MJ">if Senator <person reg="Kennedy, John F.">John F.
 					Kennedy</person> becomes president.</q>
 		</p>
-		<p><q who="MJ">Mrs. Sanger said she was opposed to Kennedy because of his religion.</q></p>
+		<p>
+			<q who="MJ">Mrs. Sanger said she was opposed to Kennedy because of his religion.</q>
+		</p>
 		<p>"In my estimation a Roman Catholic is neither Democrat nor Republican."</p>
 		<p>"Nor American, nor Chinese; he is a Roman Catholic," <q who="MJ">Mrs. Sanger
 			said.</q></p>
-		<p><q who="MJ">Mrs. Sanger is here on a vacation from her <place reg="Tucson, AZ">Tucson
-					(Ariz.)</place> home.</q></p>
+		<p>
+			<q who="MJ">Mrs. Sanger is here on a vacation from her <place reg="Tucson, AZ">Tucson
+					(Ariz.)</place> home.</q>
+		</p>
 		<p><q who="MJ">She told a reported that a Roman Catholic at the head of the country
 				would</q> "make impossible America's most important contribution to world peace--the
 			dissemination of birth control information."</p>
-		<p><q who="MJ">She is the founder and president emeritus of the <org
+		<p>
+			<q who="MJ">She is the founder and president emeritus of the <org
 					reg="Planned Parenthood Federation of America">Planned Parenthood
-					federation</org>.</q></p>
+					federation</org>.</q>
+		</p>
 
 	</docBody>
 </doc>

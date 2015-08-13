@@ -2,14 +2,14 @@
 <!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published statement">
 	<mepHeader>
-		<prepDate>2015-07-27 CH transcribe and encode</prepDate>
+		<prepDate>2015-07-27 CH transcribe and encode</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1959-03-18">18 Mar 1959</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Trip to Asia</supplied>
+				<supplied resp="MSPP">Trip to India and Japan</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422102</idno>

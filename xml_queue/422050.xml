@@ -5,7 +5,7 @@
 		<prepDate>2015-05-21 LH encoded and transcribed</prepDate>
 		<prepDate>2015-05-26 CH proof tags</prepDate>
 		<prepDate> 2015-05-27 LH correct tags</prepDate>
-		<prepDate>2015-05-29 CH clean up tags</prepDate>
+		<prepDate>2015-05-29 CH clean up tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 			<person reg="Othman, Frederick C.">Frederick C. Othman</person>
@@ -13,7 +13,7 @@
 		<docDate value="1929-04-30">30 Apr 1929</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on New Birth Control Formula</supplied>
+				<supplied resp="MSPP">New Birth Control Formula</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422050</idno>
