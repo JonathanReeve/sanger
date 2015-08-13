@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-05-26 MC encoded and transcribed</prepDate>
 		<prepDate>2015-05-26 CH proof tags</prepDate>
-		<prepDate>2015-05-27 CH entered corrections</prepDate>
+		<prepDate>2015-05-27 CH entered corrections</prepDate><prepDate>2015-08-13 CH reg doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -13,7 +13,7 @@
 		</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Japanese Trip</supplied>
+				<supplied resp="MSPP">Japanese Trip</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422063</idno>
@@ -67,9 +67,9 @@
 		</p>
 		<p>After that there will be more speeches and lectures in <place>Singapore</place>, on the
 			island of <place>Formosa</place>, in <place reg="Manila, Philippines">Manila</place> and
-				<place reg="Thailand">Siam</place>, ending in <place>Bombay, India</place>, in time for the world
-			conference there on planned parenthood and population which will last from Nov. 24 to
-			Dec. 1.</p>
+				<place reg="Thailand">Siam</place>, ending in <place>Bombay, India</place>, in time
+			for the world conference there on planned parenthood and population which will last from
+			Nov. 24 to Dec. 1.</p>
 		<p><q who="TCD">As director of the American division of this<org
 					reg="Planned Parenthood Federation of America"> world organization</org>, Mrs.
 				Slee indicated she planned to stay in <place>India</place> for some time after the

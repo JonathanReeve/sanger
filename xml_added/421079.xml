@@ -3,19 +3,21 @@
 <doc type="Published Article">
 	<mepHeader>
 		<prepDate>2014/04/04 YG</prepDate>
-		<prepDate>2015-03-19 CH recheck tags</prepDate>
+		<prepDate>2015-03-19 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularize doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1934-07-10">10 July 1934</docDate>
 		<docTitle>
-			<titlePart>Statement on Birth Control and Law in the United
+			<titlePart>Birth Control and Law in the United
 				States</titlePart>
 		</docTitle>
 		<idno>msp421079</idno>
 		<sourceDesc>
 			<bibl>
-				<title><foreign lang="SWE">Svenska Dagbladet</foreign></title>
+				<title>
+					<foreign lang="SWE">Svenska Dagbladet</foreign>
+				</title>
 			</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -25,12 +27,12 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><p>Sanger gave a press conference in <place
-				reg="Stockholm, Sweden">Stockholm</place>on July 10, 1934. The
-			comments were published in <title type="journal"><foreign lang="SWE"
-					>Svenska Dagbladet</foreign></title>, a conservative
-			newspaper. Text comes from a translation made by Margaret Sanger's
-			staff.</p>
+	<headNote resp="MSPP">
+		<p>Sanger gave a press conference in <place reg="Stockholm, Sweden"
+				>Stockholm</place>on July 10, 1934. The comments were published
+			in <title type="journal"><foreign lang="SWE">Svenska
+					Dagbladet</foreign></title>, a conservative newspaper. Text
+			comes from a translation made by Margaret Sanger's staff.</p>
 		<index level1="birth control laws and legislation" level2="MS on"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
 	</headNote>
@@ -138,9 +140,10 @@
 					imitation of it.</q>
 			</p>
 			<p>
-				<q who="SD"><org reg="Stockholm Women's Club">The Women's Club</org> in Stockholm has planned a
-					luncheon at <place reg="Moseback, Sweden">Moseback</place>
-					on Wednesday for the American visitor. </q>
+				<q who="SD"><org reg="Stockholm Women's Club">The Women's
+						Club</org> in Stockholm has planned a luncheon at <place
+						reg="Moseback, Sweden">Moseback</place> on Wednesday for
+					the American visitor. </q>
 			</p>
 
 		</div>

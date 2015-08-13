@@ -4,14 +4,14 @@
 	<mepHeader>
 		<prepDate>2015-05-27 MC encoded and transcribed</prepDate>
 		<prepDate>2015-05-29 CH proof tags</prepDate>
-		<prepDate>2015-06-09 LH enter corrections</prepDate>
+		<prepDate>2015-06-09 LH enter corrections</prepDate><prepDate>2015-08-13 CH reg doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1922-02-18">18 Feb 1922</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Statement on Japanese Population Increase</supplied>
+				<supplied resp="MSPP">Japanese Population Increase</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422074</idno>

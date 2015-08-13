@@ -3,12 +3,15 @@
 <doc type="Published Statement">
 	<mepHeader>
 		<prepDate>2014/07/01 CH proof tags</prepDate>
-		<prepDate>2015-04-14 CH proof tags and enter</prepDate>
-		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<prepDate>2015-04-14 CH proof tags and enter</prepDate><prepDate>2015-08-13 CH reg doc titles</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
 		<docDate value="1957-05-26">26 May 1957</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Statement Aboard the S.S. President
-				Wilson</supplied></titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Aboard the S.S. President Wilson</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp421992</idno>
 		<sourceDesc>
@@ -21,7 +24,8 @@
 			<name id="HA">Honolulu Advertiser</name>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP"><index level1="slums"/>
+	<headNote resp="MSPP">
+		<index level1="slums"/>
 		<index level1="birth control" level2="distribution of information about"/>
 		<index level1="birth control" level2="American opinion on"/>
 		<index level1="birth control" level2="lack of knowledge of"
@@ -35,15 +39,21 @@
 					Organization,</org> warned yesterday that <place reg="United States"
 					>America</place> will become</q> "the slum of the world" <q who="HA">unless it
 				does something about birth control.</q></p>
-		<p><q who="HA">The outspoken 76-year-old champion of controlled population, was a passenger
-				aboard the <name type="ship">President Wilson</name>.</q></p>
-		<p><q who="HA">The <org>American President Lines</org> vessel sailed at 10 last night for
-				the <place reg="Asia">Orient</place>.</q></p>
+		<p>
+			<q who="HA">The outspoken 76-year-old champion of controlled population, was a passenger
+				aboard the <name type="ship">President Wilson</name>.</q>
+		</p>
+		<p>
+			<q who="HA">The <org>American President Lines</org> vessel sailed at 10 last night for
+				the <place reg="Asia">Orient</place>.</q>
+		</p>
 		<p>"If we the United States keep on breeding from the lowest, lowest strata of our
 			population," <q who="HA">Dr. Sanger said,</q> "we're going to be the slums of the world
 			in two generations."</p>
-		<p><q who="HA">Dr. Sanger blamed the <org reg="United States Public Health Service">U.S.
-					Public Health Service</org> for the problem.</q></p>
+		<p>
+			<q who="HA">Dr. Sanger blamed the <org reg="United States Public Health Service">U.S.
+					Public Health Service</org> for the problem.</q>
+		</p>
 		<p>"They go into homes and should instruct the parents in the use of contraceptives,"<q
 				who="HA"> she said.</q></p>
 		<p>"Religion is the base of it all. And the <org reg="United States Government"
@@ -51,14 +61,20 @@
 			population."</p>
 		<p>"<person reg="Nehru, Jawaharlal">Nehru</person> wasn't afraid," <q who="HA">she
 			said.</q></p>
-		<p><q who="HA">Dr. Sanger is en route to <place>Japan</place> to confer with Planned
-				Parenthood leaders there.</q></p>
-		<p><q who="HA">However, her immediate concern is to see that her two granddaughters, <person
-					reg="Marston, Margaret Sanger">Margaret</person> and <person reg="Sanger, Nancy"
-					>Nancy Sanger,</person> learn to know Japan.</q></p>
-		<p><q who="HA">Also accompanying them were two teenagers. <person
+		<p>
+			<q who="HA">Dr. Sanger is en route to <place>Japan</place> to confer with Planned
+				Parenthood leaders there.</q>
+		</p>
+		<p>
+			<q who="HA">However, her immediate concern is to see that her two granddaughters,
+					<person reg="Marston, Margaret Sanger">Margaret</person> and <person
+					reg="Sanger, Nancy">Nancy Sanger,</person> learn to know Japan.</q>
+		</p>
+		<p>
+			<q who="HA">Also accompanying them were two teenagers. <person
 					reg="Schneiderman, Barbara">Barbara Schneiderman</person> and <person
 					reg="Chambers, Susan">Susan Chambers</person> of <place reg="Tucson, AZ">Tucson,
-					Ariz.</place></q></p>
+					Ariz.</place></q>
+		</p>
 	</docBody>
 </doc>
