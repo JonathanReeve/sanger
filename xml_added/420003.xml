@@ -4,7 +4,7 @@
 	<mepHeader>
 		<prepDate>2001-11-19 CN</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-04-30 EK update index</prepDate>
+		<prepDate>2015-04-30 EK update index</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -14,8 +14,7 @@
 		</docTitle>
 		<idno>msp420003</idno>
 		<sourceDesc>
-			<bibl><title type="journal">The Woman Rebel</title>, June 1914, p.
-				28</bibl>
+			<bibl><title type="journal">The Woman Rebel</title>, June 1914, p. 28</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
 				C16:0542</bibl>
 		</sourceDesc>
