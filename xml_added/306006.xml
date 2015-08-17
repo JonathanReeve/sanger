@@ -6,6 +6,7 @@
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-08-17 CH enter proofreading corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -24,12 +25,12 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is the third of a six-article series, but only five have been found. For other
-			articles in the series, see <xref from="306641.xml">Highlights in the History of Birth
-				Control Oct. 1923</xref>; <xref from="306638.xml">A Better Race Through Birth
-				Control Nov.1923</xref>; "<xref from="305275.xml">Birth Control in China and
-				Japan</xref>" Feb. 1924 and<xref from="300368.xml">The Birth Control Movement in
-				1923 April 1924</xref>.</p>
+		<p>This is the third of a six-article series, only five of which have been found. For other
+			articles in the series, see "<xref from="306641.xml">Highlights in the History of Birth
+				Control Oct. 1923</xref>;" "<xref from="306638.xml">A Better Race Through Birth
+				Control Nov.1923</xref>;" "<xref from="305275.xml">Birth Control in China and
+				Japan</xref>" Feb. 1924 and "<xref from="300368.xml">The Birth Control Movement in
+					1923</xref>," April 1924.</p>
 		<index level1="abortion" level2="health risks"/>
 		<index level1="American Birth Control League"/>
 		<index level1="birth control" level2="access to"/>
@@ -71,7 +72,7 @@
 		<index level1="working classes" level2="women and girls"/>
 	</headNote>
 	<docBody>
-		<head>Woman and Birth Control</head>
+		<head>WOMAN AND BIRTH CONTROL</head>
 		<byline>By Margaret Sanger, 104 5th Ave., <place reg="New York, NY">New York
 			City</place></byline>
 		<p>The Birth Control movement has its roots in the history of subjection. In the past women
@@ -81,7 +82,7 @@
 			spiritual well-being, and efforts have been made to keep them in servitude in the sphere
 			that men marked out for them. Today, however, women are rising, even though slowly, in
 			fundamental revolt. Their efforts at superficial reforms are steps in that direction.
-			but more essential is their demand for the right to voluntary motherhood. They are
+			But more essential is their demand for the right to voluntary motherhood. They are
 			determined to decide for themselves whether they shall become mothers, under what
 			conditions, and when. They are beginning to ask the purposes for which their children
 			will be used; whether as slaves or freemen. This is a fundamental question. This is a
@@ -134,7 +135,7 @@
 			abortion than give birth to little ones they could not feed or care for.</p>
 		<p>I found that the laws against imparting this knowledge force thousands of poor women into
 			the hands of the filthiest midwives and quack abortionists, with the consequence that,
-			while abortion is practised among all classes of women, the deaths from abortion are
+			while abortion is practiced among all classes of women, the deaths from abortion are
 			almost entirely among the poor.</p>
 		<p>No other country in the world has so large a number of abortions, nor so large a number
 			of women dying therefrom as the <place reg="United States">United States of
@@ -156,8 +157,8 @@
 			thousand parents are kept in ignorance of how to prevent two hundred thousand more
 			babies from coming into the world next year, again to die because they ought never to
 			have been born?</p>
-		<p>I found from records concerning women of the under-world that eighty-five per cent of
-			them come from parents averaging nine living children. And that fifty per cent of them
+		<p>I found from records concerning women of the under-world that eighty-five percent of
+			them come from parents averaging nine living children. And that fifty percent of them
 			are mentally defective.</p>
 		<p>We know that the birth rate of mentally defective parents is about four times as great as
 			that of normal parents. Is not this a cause for alarm? And yet there are people who
@@ -178,11 +179,11 @@
 			fight for higher education for women which met with the same kind of opposition only a
 			few years ago.</p>
 		<p>We now know that education has not done the dreadful things to women and women’s morals
-			that were predicted as certain to result from it. and so we shall find that knowledge to
+			that were predicted as certain to result from it. And so we shall find that knowledge to
 			control birth, which has been in the hands of the more fortunate women of wealth for the
 			past twenty-five years, will not tend to lower woman’s standard of morals, but rather to
-			make a woman a more responsible human being.</p>
-		<p>Statistics show us that the birth rate of any give quarter is in inverse ratio to its
+			make of woman a more responsible human being.</p>
+		<p>Statistics show us that the birth rate of any given quarter is in inverse ratio to its
 			wealth, and direct ratio to over-crowdedness and poverty. The figures show that in large
 			cities the birth rate of the rich districts is a third of that of the poor districts. In
 				<place reg="Paris, France">Paris</place> for every 1,000 women between the ages of
@@ -191,7 +192,7 @@
 			approximately the same. For every 1,000 women between the ages of 15 and 50, the poor
 			districts yielded 157 births, while the rich yielded 47. The same proportion is found in
 			practically all the large cities of the Western world.</p>
-		<p>It may be inferred form these figures that women of wealth use means to prevent
+		<p>It may be inferred from these figures that women of wealth use means to prevent
 			conception which it is not permitted to teach to the poor. But the menace of our
 			civilization, which constitutes the population problem of today, is not so much the
 			stationary birth rate among the upper classes as the tremendous increase among the poor,
@@ -201,7 +202,7 @@
 			her own development? Man cannot travel to his goal alone. And until woman has knowledge
 			to control birth she cannot get the time to think and to develop. Until she has the time
 			to think, neither the labor question nor any other social question will interest her.
-			she cannot learn to use aright the vote which woman suffrage has put into her hands. She
+			She cannot learn to use a right the vote which woman suffrage has put into her hands. She
 			will merely use it to strengthen the forces of reaction and ignorance; while she herself
 			will remain the drudge she is, and her husband the slave he is, putting their whole
 			strength and energy into continuing to supply the market with cheap labor.</p>
@@ -215,7 +216,7 @@
 			hands knowledge that will save her from giving birth to any more babies doomed to
 			certain poverty and misery and perhaps to disease and death?</p>
 		<p>It is to make such knowledge legally and medically accessible to the oppressed mothers of
-			our land that in November 1921 we formed the <org>American Birth Control League</org>--a
+			our land, that in November 1921 we formed the <org>American Birth Control League</org>--a
 			League that is growing and extending itself across this continent and even reaching into
 				<place>Mexico</place>, <place>Canada</place>, <place>Japan</place>,
 				<place>China</place> and <place>India</place>.</p>
