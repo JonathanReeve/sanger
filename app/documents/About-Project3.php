@@ -87,7 +87,11 @@ include("../includes/header.php");
 		<div id="footer"></div>
 	<p align="center"><hr />All contents copyright &copy; The Margaret Sanger Papers. All rights reserved.
 	&nbsp;
-	Support for this project was provided by the <a href="http://www.archives.gov/nhprc/"><img src="http://sangerpapers.org/sanger/app/images/nhprc-logo-m.jpg" /></a></p>
+	Support for this project was provided by the:<lb />
+	 <a href="http://www.archives.gov/nhprc/"><img src="http://sangerpapers.org/sanger/app/images/nhprc-logo-m.jpg" /></a>
+	 <a href="http://www.neh.gov"><img src="http://sangerpapers.org/sanger/app/images/neh_logo_stacked_rgb.jpg" /></a>
+	 <a href="http://www.nyu.edu"><img src="http://sangerpapers.org/sanger/app/images/logo-NyuTorch.gif" /></a>
+	 </p>
 
 		
 
