@@ -84,7 +84,8 @@ include("../includes/header.php");
 </div>
 </div>
 	<p>&nbsp;	</p> //-->
-		<div id="footer"></div>
+		<div id="footer"><a href="http://www.neh.gov/"><img href="http://sangerpapers.org/sanger/app/images/neh_logo.png" width="252" height="62" /></a>   
+<a href="http://www.archives.gov/nhprc"><img href="http://sangerpapers.org/sanger/app/images/nhprc.png" width="255" height="80" /></a></div>
 	<p align="center">All contents copyright &copy; The Margaret Sanger Papers. All rights reserved. </p>
 
 		
