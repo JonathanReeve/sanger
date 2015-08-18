@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-08-18 CH transcribe and encode</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-11-12">12 Nov 1921</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Introduction for Harold Cox </supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422111</idno>
+		<sourceDesc>
+			<bibl><title type="book">Birth Control: What It Is, How it Works, What it Will Do:
+					Proceedings of the American Birth Control Conference Held at the Hotel Plaza,
+					New York, November 11, 12, 1921</title> (New York: 1921), p. 111</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp>
+				<name/>
+			</resp>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger introduced Harold Cox, who spoke on "War and Population" during the third session
+			of the <org reg="American Conference on Birth Control, 1st">First American Birth Control
+				Conference</org>.</p>
+		<p>For other speeches and comments made at this conference, see "<xref from="229953.xml"
+				>Opening Address</xref>," "<xref from="422109.xml">Summary of the Second
+				Session</xref>,""<xref from="229952.xml">The Use of the Pessary</xref>," "<xref
+				from="422111.xml">Comments</xref>," "<xref from="238254.xml">The Morality of Birth
+				Control</xref>," and "<xref from="231277.xml">Closing Remarks</xref>"</p>
+		<index level1="Cox, Harold"/>
+		<index level1="conference" level2="American Birth Control Conference" level3="1921 (1st)"/>
+	</headNote>
+	<docBody>
+
+		<p>When we were planning for this conference, we recognized that it was vastly important to
+			bring to this conference some one who would guide our activities for the future. The
+			work that we have been able to do so far in the <place>United States</place> has been to
+			propagate the idea of Birth Control in its relation to health, to individual economics,
+			to woman's freedom, also the historical and legal aspects of the Birth Control movement.
+			But today, with the great international crisis upon us, it seemed to us necessary to
+			have some one who could tell us how we should conduct our work in relation to the
+			international problem of the work, so I went out to seek the man whom I consider the
+			greatest authority on population, and that is Mr. <person reg="Cox, Harold">Harold
+				Cox</person>, whom I take pleasure, and have the honor to introduce.</p>
+	</docBody>
+</doc>

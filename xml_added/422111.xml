@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-08-18 CH transcribe and encode</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-11-12">12 Nov 1921</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">First American Birth Control Conference
+					Comments</supplied></titlePart>
+		</docTitle>
+		<idno>msp422111</idno>
+		<sourceDesc>
+			<bibl><title type="book">Birth Control: What It Is, How it Works, What it Will Do:
+					Proceedings of the American Birth Control Conference Held at the Hotel Plaza,
+					New York, November 11, 12, 1921</title> (New York: 1921), p. 121</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp>
+				<name id="TODHE">Todd, Helen</name></resp>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>Sanger's comments were made during the discussion after the third
+			session of the <org reg="American Conference on Birth Control, 1st">First American Birth
+				Control Conference</org>, comprised of papers by <person reg="Stoddard, Lothrop"
+				>Lothrop Stoddard</person> on the population of Asia, <person reg="Maurer, James"
+				>James Maurer</person> on birth control and infant mortality, and <person
+				reg="Cox, Harold">Harold Cox</person> on war and population. Sanger responded
+			specifically to a comment by <person reg="Todd, Helen">Helen Todd</person> which argued
+			that based on government figures, working men and women would not be able to afford even
+			one child, making woman "<q who="TODHE">simply an instrument of sex pleasure. She could
+				not even have one child under our present system.</q>" </p>
+		<p>For other speeches and comments made at this conference, see "<xref from="229953.xml"
+				>Opening Address</xref>," "<xref from="422109.xml">Summary of the Second
+				Session</xref>,""<xref from="229952.xml">The Use of the Pessary</xref>," "<xref
+				from="422110.xml">Introduction for Harold Cox</xref>," "<xref from="238254.xml">The
+				Morality of Birth Control</xref>," and "<xref from="231277.xml">Closing
+				Remarks</xref>"</p>
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="unfit to reproduce" level2="MS on"/>
+		<index level1="women and girls" level2="enslavement of"/>
+	</headNote>
+	<docBody>
+
+		<p>I would say in answer to Miss Todd, and I appreciate her question, that she would like to
+			have every woman have the expression of motherhood and be allowed to have it, and that
+			today the economic conditions make it impossible for a great many women to have that
+			expression. It seems to me that our problem of Birth Control, and where we have to
+			differ in making our first step from all other ideals that we would like to bring about
+			is, that our first step in this work is to stop the propagation of the unfit and the
+			diseased and those who are carrying on the race. What will evolve out of this movement
+			when children have become scarcer, when motherhood has been more dignified, is another
+			problem that we will reach later. I think that is a question not of the present but of
+			the future, and it seems to me that Birth Control today is not confronted with that
+			problem as much as it is with the many millions of mothers who already have too many
+			children. </p>
+	</docBody>
+</doc>

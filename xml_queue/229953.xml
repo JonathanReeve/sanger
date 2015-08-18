@@ -7,15 +7,16 @@
 		<prepDate>2011/11/28 CH correct typos</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
-		<prepDate>2015-04-22 EK index update</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<prepDate>2015-04-22 EK index update</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1921-11-11">11 Nov 1921</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">First American Birth Control
-					Conference Opening Address</supplied>
+				<supplied resp="MSPP">First American Birth Control Conference Opening
+					Address</supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp229953</idno>
@@ -37,11 +38,17 @@
 				reg="New York, NY">New York City</place>. Sanger was introduced by <person
 				reg="Hooker, Edith Houghton">Edith Houghton Hooker,</person> Chairman of the
 			Sessions.</p>
-		<p>For a partial draft version see the Library of Congress Microfilm, LCM 129:0698. For
-			Sanger's other conference statements, see "<xref from="229952.xml">The Use of the
-				Pessary</xref>," Nov. 11, 1921, and "<xref from="231277.xml">Closing Remarks</xref>,
-			Nov. 18, 1921. For a transcript of the entire session see <title type="mf">Margaret
-				Sanger Microfilm, Smith College Collections</title> S67:0881.</p>
+		<p>For a partial draft version see the Library of Congress Microfilm, LCM 129:0698; for a
+			slightly different published copy see <title type="book">Birth Control: What It Is, How
+				it Works, What it Will Do: Proceedings of the American Birth Control Conference Held
+				at the Hotel Plaza, New York, November 11, 12, 1921</title> (New York: 1921), pp.
+			14-18. For other speeches and comments made at this conference, see "<xref
+				from="422109.xml">Summary of the Second Session</xref>," "<xref from="229952.xml"
+				>The Use of the Pessary</xref>," "<xref from="422111.xml">Comments</xref>," "<xref
+				from="422110.xml">Introduction for Harold Cox</xref>," "<xref from="238254.xml">The
+				Morality of Birth Control</xref>," and "<xref from="231277.xml">Closing
+				Remarks</xref>." For a transcript of the entire session see <title type="mf"
+				>Margaret Sanger Microfilm, Smith College Collections</title> S67:0881.</p>
 		<index level1="conference" level2="American Birth Control Conference" level3="1921 (1st)"/>
 		<index level1="birth control laws and legislation" level2="doctors-only laws"/>
 		<index level1="birth control" level2="history of"/>
@@ -102,8 +109,8 @@
 			(applause)</p>
 		<p>The question that confronts us is, is it desirable that man shall control this instinct.
 			Is it desirable that this instinct may be satisfied without increasing the population of
-			the world? Is mankind to be benefitted by obtaining control over this instinct? And is
-			it desirable that in satisfying it we shall say whether offspring shall be the result of
+			the world? Is mankind to be benefited by obtaining control over this instinct? And is it
+			desirable that in satisfying it we shall say whether offspring shall be the result of
 			this or not. The question we will try to answer today is, is it desirable to obtain
 			control over this instinct? Is it desirable that the unhealthy, the unfit, the feeble
 			members of the community shall propagate their kind and fill the world with their
