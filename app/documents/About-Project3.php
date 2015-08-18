@@ -25,6 +25,10 @@ function MM_swapImgRestore() { //v3.0
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+<?php
+include("../includes/header.php");
+?>
+
 <body>
   <div id="top" align="left">
  <div style="width: 1000px;">
