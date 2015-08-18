@@ -72,7 +72,7 @@ function MM_swapImgRestore() { //v3.0
 		<div align="center">
 <a href="http://www.neh.gov/"><img href="http://sangerpapers.org/sanger/app/images/neh_logo.png" width="252" height="62" /></a>   
 <a href="http://www.archives.gov/nhprc"><img href="http://sangerpapers.org/sanger/app/images/nhprc.png" width="255" height="80" /></a>
-			<img src="http://sangerpapers.org/sanger/app/images/spacer.gif" width="545" height="1" alt="" /><a href="http://validator.w3.org/check/referer">
+			<img src="http://sangerpapers.org/sanger/app/images/spacer.gif" width="545" height="1" alt="" />
 		    <img href="http://sangerpapers.org/sanger/app/images/xhtml11.gif" alt="valid" width="80" height="15" /></a>
 	</p>
 </div>
