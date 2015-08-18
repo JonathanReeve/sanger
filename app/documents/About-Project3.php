@@ -29,7 +29,7 @@ function MM_swapImgRestore() { //v3.0
 include("../includes/header.php");
 ?>
 
-<body>
+<!-- <body>
   <div id="top" align="left">
  <div style="width: 1000px;">
 <img href="http://sangerpapers.org/sanger/app/images/nyu_short_white.png" width="82" height="26" style="float: left;" />
@@ -38,7 +38,7 @@ include("../includes/header.php");
 <a href="https://www.facebook.com/pages/Friends-of-the-Margaret-Sanger-Papers/53274104181" title="Facebook"><img src="../../../../../../Sanger%20Web/twitter.png" width="25" height="50" style="float: right;" /></a> <a href="https://twitter.com/sangerpapers" title="Twitter"><img src="../../../../../../Sanger%20Web/facebook.png" width="25" height="50" style="float: right;"></a>
  </div>
 </div>
-<p ><a href="https://sangerpapers.wordpress.com" title="Research"><img href="http://sangerpapers.org/sanger/app/images/Research-2.jpg" width="161" height="26" / style="float": left;"/></a><a href="http://www.nyu.edu/projects/sanger/newsletter" title="Newsletter"><img href="http://sangerpapers.org/sanger/app/images/Newsletter.jpg" width="230" height="45" style="float: right;" /></a></p>
+<p ><a href="https://sangerpapers.wordpress.com" title="Research"><img href="http://sangerpapers.org/sanger/app/images/Research-2.jpg" width="161" height="26" / style="float": left;"/></a><a href="http://www.nyu.edu/projects/sanger/newsletter" title="Newsletter"><img href="http://sangerpapers.org/sanger/app/images/Newsletter.jpg" width="230" height="45" style="float: right;" /></a></p>//-->
 
  
 <body
