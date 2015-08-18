@@ -86,12 +86,11 @@ include("../includes/header.php");
 	<p>&nbsp;	</p> //-->
 		<div id="footer"></div>
 	<p align="center"><hr />All contents copyright &copy; The Margaret Sanger Papers. All rights reserved.
-	&nbsp;
-	Support for this project was provided by the:
-	&nbsp;
-	 <a href="http://www.archives.gov/nhprc/"><img src="http://sangerpapers.org/sanger/app/images/nhprc-logo.jpg" /></a>
-	 <a href="http://www.neh.gov"><img src="http://sangerpapers.org/sanger/app/images/neh-logo.jpg" /></a>
-	 <a href="http://www.nyu.edu"><img src="http://sangerpapers.org/sanger/app/images/nyu-logo.gif" /></a>
+	Support for this project was provided by the:</p>
+<p>
+	 <a href="http://www.archives.gov/nhprc/"><img src="http://sangerpapers.org/sanger/app/images/nhprc-logo.jpg" height="50" /></a>
+	 <a href="http://www.neh.gov"><img src="http://sangerpapers.org/sanger/app/images/neh-logo.jpg" height="50" /></a>
+	 <a href="http://www.nyu.edu"><img src="http://sangerpapers.org/sanger/app/images/nyu-logo.gif" height="50" /></a>
 	 </p>
 
 		
