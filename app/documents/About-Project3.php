@@ -85,7 +85,9 @@ include("../includes/header.php");
 </div>
 	<p>&nbsp;	</p> //-->
 		<div id="footer"></div>
-	<p align="center"><hr />All contents copyright &copy; The Margaret Sanger Papers. All rights reserved. </p>
+	<p align="center"><hr />All contents copyright &copy; The Margaret Sanger Papers. All rights reserved.
+	&nbsp;
+	Support for this project was provided by the <a href="http://www.archives.gov/nhprc/"><img src="http://sangerpapers.org/sanger/app/images/nhprc-logo-m.jpg"></a></p>
 
 		
 
