@@ -54,7 +54,7 @@ include("../includes/header.php");
 	<div class="inBox">
 <h1 align="center">	About the Project</h1>
 <p align="center">&nbsp;</p>
-<p><a href="http://www.nyu.edu/projects/sanger/project/index.php">Margaret Sanger Papers Project</a> (MSPP) is an historical editing project sponsored by the New York University’s <a href="http://library.nyu.edu/">Division of Libraries</a>. Formed by Dr. Esther Katz in 1987 to locate, arrange, edit, research, and publish the papers of the noted birth control pioneer, it was until 2014, sponsored by  NYU’s <a href="http://history.as.nyu.edu/page/projects">Department of History</a>. For more on the Project see <a href="https://www.nyu.edu/projects/sanger/project/index.php">Margaret Sanger Papers Project</a></p>
+<p>The <a href="http://www.nyu.edu/projects/sanger/project/index.php">Margaret Sanger Papers Project</a> (MSPP) is an historical editing project sponsored by the New York University’s <a href="http://library.nyu.edu/">Division of Libraries</a>. Formed by Dr. Esther Katz in 1987 to locate, arrange, edit, research, and publish the papers of the noted birth control pioneer, it was, until 2014, sponsored by  NYU’s <a href="http://history.as.nyu.edu/page/projects">Department of History</a>. For more on the Project see <a href="https://www.nyu.edu/projects/sanger/project/index.php">Margaret Sanger Papers Project</a>.</p>
 <p>&nbsp;</p>
 <h2 align="center">Publications</h2>
 <h3><u>Microfilm</u></h3>
@@ -67,7 +67,7 @@ include("../includes/header.php");
 
 		
 		
-		<p align="center" style="margin-top: 0px; margin-bottom: 0px;">
+<!--		<p align="center" style="margin-top: 0px; margin-bottom: 0px;">
 		<a href="http://www.nyu.edu/projects/sanger/search/aboutmspp.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c1','','http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c1.gif',1)"><img id="sanger_foot_r1_c1" href="http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c1.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/search/abouted.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c2','','http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c2_f2.gif',1)"><img id="sanger_foot_r1_c2" href="http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c2.gif" width="104" height="20" alt="" /></a><a href="/http://sangerpapers.org/search.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c3','','http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c3_f2.gif',1)"><img id="sanger_foot_r1_c3" href="http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c3.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c4','','http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c4_f2.gif',1)"><img id="sanger/app/images/sanger_foot_r1_c4" shref="http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c4.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/search/contact.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sanger_foot_r1_c5','','http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c5_f2.gif',1)"><img id="sanger_foot_r1_c5" href="http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c5.gif" width="104" height="20" alt="" /></a><img id="sanger_foot_r1_c6" href="http://sangerpapers.org/sanger/app/images/sanger_foot_r1_c6.jpg" width="105" height="20" alt="" />
 </p>
 		<p align="center" style="margin-top: 0px; margin-bottom: 0px;">&nbsp;</p>
@@ -82,7 +82,7 @@ include("../includes/header.php");
 	</p>
 </div>
 </div>
-	<p>&nbsp;	</p>
+	<p>&nbsp;	</p> //-->
 		<div id="footer"></div>
 	<p align="center">All contents copyright &copy; The Margaret Sanger Papers. All rights reserved. </p>
 
