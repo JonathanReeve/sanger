@@ -1,4 +1,4 @@
-<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
         "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html>
 <center>
@@ -17,13 +17,6 @@ function MM_swapImgRestore() { //v3.0
 </head>
 
 <div id="fb-root"></div>
-
-//-->
-<?php
-include("../includes/header.php");
-?>
-
-<!-- 
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -32,7 +25,11 @@ include("../includes/header.php");
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<body>
+<?php
+include("../includes/header.php");
+?>
+
+<!-- <body>
   <div id="top" align="left">
  <div style="width: 1000px;">
 <img href="http://sangerpapers.org/sanger/app/images/nyu_short_white.png" width="82" height="26" style="float: left;" />
