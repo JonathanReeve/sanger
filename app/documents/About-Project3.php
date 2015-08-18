@@ -65,7 +65,8 @@ include("../includes/header.php");
 <p>The MSPP is completing the final volume of its four-volume book edition, <a href="file:///C|/Users/Esther%20Katz/Downloads/Book.php"><em>The Selected Papers of Margaret Sanger</em></a>, published by the <a href="http://www.press.uillinois.edu/books/catalog/74xsd6pe9780252074608.html">University of Illinois Press</a>.</p>
 <p>&nbsp;</p>
 
-<p>Follow the Project on Twitter <a href="https://twitter.com/sangerpapers" title="Twitter">@sangerpapers</a>, Like our <a href="https://www.facebook.com/pages/Friends-of-the-Margaret-Sanger-Papers/53274104181">Facebook page</a>, and read our <a href="https://sangerpapers.wordpress.com" title="Research">Research Blog</a></p>
+<p><a href="https://twitter.com/sangerpapers" class="twitter-follow-button" data-show-count="false">Follow @sangerpapers</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>, Like our <a href="https://www.facebook.com/pages/Friends-of-the-Margaret-Sanger-Papers/53274104181">Facebook page</a>, and read our <a href="https://sangerpapers.wordpress.com" title="Research">Research Blog</a></p>
 		
 		
 <!--		<p align="center" style="margin-top: 0px; margin-bottom: 0px;">
