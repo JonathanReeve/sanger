@@ -32,13 +32,14 @@ rel="stylesheet" type="text/css" />
  <a href="//www.nyu.edu" title="New York University"><img src="file:///C|/Users/Esther%20Katz/Pictures/Documents/GitHub/sanger/app/images/nyu_short_white.png" width="82" height="26" style="float: left;"></a>
  </div>
  <div id="top" align="right">
-<a href="https://www.facebook.com/pages/Friends-of-the-Margaret-Sanger-Papers/53274104181" title="Facebook"><img src="../../../../../../Sanger%20Web/twitter.png" width="25" height="50" style="float: right;" /></a> <a href="https://twitter.com/sangerpapers" title="Twitter"><img src="http://sangerpapers.org/app/images/Facebook-blue-64.png" width="25" height="50" style="float: right;"></a>
+<a href="https://www.facebook.com/pages/Friends-of-the-Margaret-Sanger-Papers/53274104181" title="Facebook"><img src="../../../../../../Sanger%20Web/twitter.png" width="25" height="50" style="float: right;" /></a> <a href="https://twitter.com/sangerpapers" title="Twitter"><img src="../../../../../../Sanger%20Web/facebook.png" width="25" height="50" style="float: right;"></a>
  </div>
 </div>
-<p ><a href="https://sangerpapers.wordpress.com" title="Research"><img src="file:///C|/Users/Esther%20Katz/Pictures/Documents/GitHub/sanger/app/images/Research-2.jpg" width="161" height="26" / style="float": left;"/></a><a href="http://www.nyu.edu/projects/sanger/newsletter" title="Newsletter"><img src="file:///C|/Users/Esther%20Katz/Pictures/Documents/GitHub/sanger/app/images/Newsletter.jpg" width="230" height="45" style="float: right;" /></a></p>
+<p align="left"><a href="https://sangerpapers.wordpress.com" title="Research"><img src="file:///C|/Users/Esther%20Katz/Pictures/Documents/GitHub/sanger/app/images/Research-2.jpg" width="161" height="26" / style="float": left;"/></a></p>
+<p align="right"><a href="http://www.nyu.edu/projects/sanger/newsletter" title="Newsletter"><img src="file:///C|/Users/Esther%20Katz/Pictures/Documents/GitHub/sanger/app/images/Newsletter.jpg" width="230" height="45" style="float: right;" /></a></p>
 
- 
-<body
+<p align="center"> 
+ <body
  onload="MM_preloadImages('../images/header_r2_c1_f2.gif','../images/header_r2_c2_f2.gif','../images/header_r2_c3_f2.gif','../images/header_r2_c4_f2.gif','../images/header_r2_c5_f2.gif');">
 <div id="container" style="width: 626px; margin: 0px auto;"> 
 <p align="center"><img id="header_r1_c1" src="file:///C|/Users/Esther%20Katz/Pictures/Documents/GitHub/sanger/app/images/header_r1_c1.gif" width="625" height="95" alt="" /><img src="C:\Users\Esther Katz\Pictures\Documents\GitHub\sanger\app\images\spacer.gif" width="1" height="95" alt="" /></p>
@@ -47,10 +48,10 @@ rel="stylesheet" type="text/css" />
 </p>
 
 <div class="outBox">
+
 	<div class="inBox">
 <h1 align="center">	About the Project</h1>
-<p align="center">&nbsp;</p>
-<p><a href="http://www.nyu.edu/projects/sanger/project/index.php">Margaret Sanger Papers Project</a> (MSPP) is an historical editing project sponsored by the New York University’s <a href="http://library.nyu.edu/">Division of Libraries</a>. Formed by Dr. Esther Katz in 1987 to locate, arrange, edit, research, and publish the papers of the noted birth control pioneer, it was until 2014, sponsored by  NYU’s <a href="http://history.as.nyu.edu/page/projects">Department of History</a>. For more on the Project see <a href="https://www.nyu.edu/projects/sanger/project/index.php">Margaret Sanger Papers Project</a></p>
+<p align="center"><a href="http://www.nyu.edu/projects/sanger/project/index.php">Margaret Sanger Papers Project</a> (MSPP) is an historical editing project sponsored by the New York University’s <a href="http://library.nyu.edu/">Division of Libraries</a>. Formed by Dr. Esther Katz in 1987 to locate, arrange, edit, research, and publish the papers of the noted birth control pioneer, it was until 2014, sponsored by  NYU’s <a href="http://history.as.nyu.edu/page/projects">Department of History</a>. For more on the Project see <a href="https://www.nyu.edu/projects/sanger/project/index.php">Margaret Sanger Papers Project</a></p>
 <p>&nbsp;</p>
 <h2 align="center">Publications</h2>
 <h3><u>Microfilm</u></h3>
