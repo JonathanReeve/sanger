@@ -89,9 +89,9 @@ include("../includes/header.php");
 	&nbsp;
 	Support for this project was provided by the:
 	&nbsp;
-	 <a href="http://www.archives.gov/nhprc/"><img src="http://sangerpapers.org/sanger/app/images/nhprc-logo-m.jpg" /></a>
-	 <a href="http://www.neh.gov"><img src="http://sangerpapers.org/sanger/app/images/neh_logo_stacked_rgb.jpg" /></a>
-	 <a href="http://www.nyu.edu"><img src="http://sangerpapers.org/sanger/app/images/logo-NyuTorch.gif" /></a>
+	 <a href="http://www.archives.gov/nhprc/"><img src="http://sangerpapers.org/sanger/app/images/nhprc-logo.jpg" /></a>
+	 <a href="http://www.neh.gov"><img src="http://sangerpapers.org/sanger/app/images/neh-logo.jpg" /></a>
+	 <a href="http://www.nyu.edu"><img src="http://sangerpapers.org/sanger/app/images/nyu-logo.gif" /></a>
 	 </p>
 
 		
