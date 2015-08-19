@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2015-08-19 CH encoded and transcribed</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-11-15">15 Nov 1921</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Letter to the Editor of the New York
+				Times</supplied></titlePart>
+		</docTitle>
+		<idno>msp422076</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger's Opinion</title>, <title type="journal">New
+					York Times</title>, Nov. 19, 1921, p 12</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>Sanger's letter was written in response to an editorial note published
+			in the <title type="journal">New York Times</title>, which likened the behavior of birth
+			control supporters at Town Hall to "a crowd of anarchists," who "started a riot--not a
+			very fierce riot," and "gave the police justification for making against them the
+			technical charge of disorderly conduct." (See <title type="article">Topics of the
+				Times</title>, <title type="journal">New York Times</title>, Nov. 15, 1921, p. 15.) </p>
+		<index level1="birth control" level2="arrests, trials and imprisonments"/>
+		<index level1="Birth Control Clinical Research Bureau"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials, and imprisonments"/>
+		<index level1="Town Hall raid"/>
+		<index level1="law breaking and direct action" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>Mrs. Sanger's Opinion</head>
+		<p rend="italics">To the Editor of the <title type="journal">New York Times</title></p>
+		<p>In your editorial this morning, Nov. 15, you criticize the action of the birth control
+			advocates who were arrested Sunday night at <org>Town Hall</org> for not obeying the
+			police when they told them to leave the hall. You further state that there is a logical
+			way to adjust these matters, and that one has redress in the courts.</p>
+		<p>Do you realize in making such statements that they are inconsistent with the facts of the
+			case? Do you realize that the <person reg="Donohue, Thomas">officer</person> who placed
+			me under arrest had absolutely no right or reason to enter that hall and to prohibit my
+			addressing an audience? This was verified by the dismissal of the case before the
+				<person reg="Corrigan, Joseph E.">Judge</person> the following morning.</p>
+		<p>Had I left the hall in obedience to the deputy command, I would have had nothing upon
+			which to go into the courts for a decision. It was necessary for the deputy to make an
+			arrest in order to get a right interpretation of the law in this case.</p>
+		<p>I think your criticism of our meeting was very unjust and does not stand up at all for
+			the principle of right which is the essential thing that this <org
+				reg="United States Government">Government</org> is based upon. </p>
+		<closer>MARGARET SANGER.<dateline><lb/><place reg="New York, NY">New York</place>,
+					<date value="1921-11-15">Nov. 15, 1921</date>.</dateline></closer>
+	</docBody>
+</doc>
