@@ -8,6 +8,7 @@
 		<prepDate>2014-03-10 CH clean regs</prepDate>
 		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,7 +29,7 @@
 		</respStmt>
 	</mepHeader>
 	<headNote>
-		<p>This article was fifth in a six-part series. For the preceding articles see "<xref
+		<p>This article was fifth in a six-part series. For the preceding articles see <xref
 				from="306641.xml">Highlights in the History of Birth Control</xref>, Oct. 1923;
 				<xref from="306638.xml">A Better Race Through Birth Control</xref>, Nov. 1923; <xref
 				from="306006.xml">Woman and Birth Control</xref>, Dec. 1924. For the next article
@@ -49,8 +50,9 @@
 		<index level1="China" level2="birth control in"/>
 	</headNote>
 	<docBody>
-		<head>Birth Control and China and Japan</head>
+		<head>BIRTH CONTROL AND CHINA AND JAPAN</head>
 		<byline>by Margaret Sanger</byline>
+		<dateline><place reg="New York, NY">104 Fifth Ave., New York City</place></dateline>
 		<p><supplied resp="MSPP">It </supplied>is not only in the <place>United States</place>
 			<supplied resp="MSPP">that</supplied> there is need for Birth Control. On the contrary,
 			there are countries which need it far more than we do, countries where overcrowding and
@@ -65,11 +67,12 @@
 			to go to Japan and deliver lectures on Birth Control. The invitation came from a group
 			of progressive thinkers, known as the <org>Kaizo</org> group, and in February, 1922, I
 			left <place reg="New York, NY">New York</place> for <place reg="San Francisco, CA">San
-				Francisco</place>, however, I found that there were difficulties in the way.
-			Applying to the <person reg="Yada, Shichitaro">Japanese Consul General</person> there
-			for a vise to my passport I was surprised to learn that the <org reg="Japan Government"
-				>Japanese Government</org> had issued orders that my passport should not be vised,
-			and that I could not lecture on Birth Control in Japan.</p>
+				Francisco</place> with the intention of sailing thence to Japan. On reaching San
+			Francisco, however, I found that there were difficulties in the way. Applying to the
+				<person reg="Yada, Shichitaro">Japanese Consul General</person> there for a vise to
+			my passport I was surprised to learn that the <org reg="Japan Government">Japanese
+				Government</org> had issued orders that my passport should not be vised, and that I
+			could not lecture on Birth Control in Japan.</p>
 		<p>It is not easy to surprise anyone who has worked for long in the Birth Control movement.
 			We get accustomed to unexpected obstacles and difficulties. In this case, however, my
 			surprise was real; because I was led to believe by Japanese in the United States that
@@ -90,8 +93,8 @@
 			special departments they are powerless against the more conservative statesmen. </p>
 		<p>I was desirous to get at the root of the objection to my presence in Japan; but it was
 			not until I reached <place reg="Yokohama, Japan">Yokohama</place> Harbor that I knew
-			whether I should be permitted to land or not. While the <name type="ship">Taiyo
-				Maru</name> was at sea, a vigorous correspondence had gone between the <org
+			whether I should be permitted to land or not. While the "<name type="ship">Taiyo
+				Maru</name>" was at sea, a vigorous correspondence had gone between the <org
 				reg="Japan Home Office">Home Office</org> and the <org reg="Japan Foreign Office"
 				>Foreign Office</org> of the Japanese Government. The Vice Minister of the Foreign
 			Office, <person reg="Hanihara, Masanao">Masanao Hanihara,</person> who had attended the
@@ -105,20 +108,20 @@
 				child’s play. She will remain here for some time and hopes to have an opportunity of
 				discussing with doctors, at least, her theories on Birth Control. But she has
 				promised the police that she will ‘be good’ and make no attempt to deliver any
-				public addresses on the subject</q></p>
-		<p>The following day I called upon the Chief of Police. It
-			was amusing to find that everyone from the hall porter to the interpreter knew that I
-			was coming. We were ushered into a pleasant room and tea was served, although it was
-			only ten o’clock in the morning. One of the attendants spoke to me about my book "<title
-				type="book">Woman and the New Race</title>," which he said he had read with great
-			interest and much pleasure. He then presented me with a Japanese translation, much to my
-			surprise, for until I saw it there at the <org reg="Yokohama Police Department">Police
-				Office</org>, I had not known that it had been translated or published in Japan.</p>
+				public addresses on the subject.</q>"</p>
+		<p>The following day I called upon the Chief of Police. It was amusing to find that everyone
+			from the hall porter to the interpreter knew that I was coming. We were ushered into a
+			pleasant room and tea was served, although it was only ten o’clock in the morning. One
+			of the attendants spoke to me about my book "<title type="book">Woman and the New
+				Race</title>," which he said he had read with great interest and much pleasure. He
+			then presented me with a Japanese translation, much to my surprise, for until I saw it
+			there at the <org reg="Yokohama Police Department">Police Office</org>, I had not known
+			that it had been translated or published in Japan.</p>
 		<p>The interview lasted about half an hour, and ended by my receiving permission to speak in
 			private, or under private auspices on Birth Control. I was told that it was not possible
 			to discuss the subject in public meetings, although I might speak publicly on any other
-			subject. Before I left the room we were photographed and interviewed by reporters from a
-			number of Japanese papers. I never saw anything like the passion of the Japanese press
+			subject. Before I left the room we were photographed and interviewed by reporters, from
+			a number of Japanese papers. I never saw anything like the passion of the Japanese press
 			for photographs. Everywhere I went I was interviewed and photographed, and at the
 			meetings where I spoke there were flashlights--sometimes as many as twenty being taken
 			before the meeting started.</p>
@@ -129,7 +132,7 @@
 			expressed the greatest interest was the <org>Peers' Club</org>, organized by <person
 				reg="Karamura, Sumiyoshi,">Count Cowamura</person>. At no time in my life have I
 			given a more intimate address. I can say also that it was received with the finest
-			spirit of respect and understanding and desire to know more. it was one of the most
+			spirit of respect and understanding and desire to know more. It was one of the most
 			encouraging events of my stay in Japan. The fact that men of high station came eagerly
 			to hear a woman speak is considered by the women here a victorious event in a land where
 			the position of women is subordinate and where the men do not seem to take the woman’s
@@ -148,13 +151,13 @@
 				reg="Ishimoto, Keikichi">Ishimoto</person>, my host while in Japan, and I felt that
 			this was the most important and successful meeting held while I was there. </p>
 		<p>The doctors of <place reg="Tokyo, Japan">Tokyo</place> asked me to give an address on
-			practical methods. The interpreter, a young doctor recently returned from United States,
-			was not very good, and I felt at a great disadvantage. At <place reg="Kyoto, Japan"
-				>Kyoto</place> the <org reg="Kyoto Medical Association">medical association</org>
-			turned out four hundred strong at a few hours notice, and filled the <org
-				reg="Kyoto Congregational Church">Congregational Church</org> to its fullest
-			capacity. The minister of the church interpreted and did
-			it remarkable well, making this meeting a full success. </p>
+			practical methods. The interpreter, a young doctor recently returned from <place
+				reg="United States">America</place>, was not very good, and I felt at a great
+			disadvantage. At <place reg="Kyoto, Japan">Kyoto</place> the <org
+				reg="Kyoto Medical Association">medical association</org> turned out four hundred
+			strong at a few hours notice, and filled the <org reg="Kyoto Congregational Church"
+				>Congregational Church</org> to its fullest capacity. The minister of the church
+			interpreted and did it remarkably well, making this meeting a full success. </p>
 		<p>All the organizations which invited me to speak were represented by prominent and
 			distinguished people. They were all, except the <org reg="Shin Fujin Kyokai">New Woman’s
 				Organization</org>, composed of the so-called well-to-do. This organization is the
@@ -206,7 +209,7 @@
 			like a plague. To contribute to famine funds and to the support of missions in China is
 			like trying to sweep back the sea with a broom. But as long as the American public
 			prefers sentimentality to science this waste of money, thrown into the bottomless pit of
-			charities, with continue. China does not need our missions. The Chinese need our
+			charities, will continue. China does not need our missions. The Chinese need our
 			sanitation, our hygiene, our Birth Control. (To Be Continued) </p>
 	</docBody>
 </doc>

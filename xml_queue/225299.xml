@@ -6,10 +6,11 @@
 		<prepDate>2014-04-17 EK clean regs</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1924-02-29">Apr 1924</docDate>
+		<docDate value="1924-02-29">29 Feb 1924</docDate>
 		<docTitle>
 			<titlePart type="article">The Meaning of Radio Birth Control</titlePart>
 		</docTitle>
@@ -17,7 +18,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Apr. 1924, pp. 110-11</bibl>
 			<bibl><title>Margaret Sanger Microfilm, Smith College Collection</title>,
-				S70:1041.</bibl>
+				S70:1041</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -25,10 +26,9 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger gave this speech on Feb. 29, 1924 at the <org>New York State Birth Control
-				Conference</org> in <place reg="Syracuse, NY">Syracuse, New York</place>. That
-			version has not been found. It was broadcast over local Syracuse radio station
-				<org>WFAB</org>.</p>
+		<p>Sanger gave this speech at the <org>New York State Birth Control Conference</org> in
+			Syracuse, New York. That version has not been found. It was broadcast over local
+			Syracuse radio station <org>WFAB</org>.</p>
 		<index level1="birth control" level2="eugenic justifications"/>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="poverty" level2="family size and"/>
@@ -41,6 +41,8 @@
 	<docBody>
 		<head>The Meaning of Radio Birth Control</head>
 		<byline>By Margaret Sanger</byline>
+		<dateline>Radio WFAB <place reg="Syracuse, NY">Syracuse</place>, <date value="1929-02-29"
+			>February 29, 1924</date></dateline>
 		<p>Every step forward in our history, from those remote days when our prehistoric ancestors
 			first discovered fire, tilled the soil, and domesticated the animals, has been gained
 			through control over some force of NATURE. One by one these great wild powers, each one
@@ -95,7 +97,7 @@
 				overcrowded or choked by weeds. To grow into maturity, to bud, to blossom, to
 				produce beautiful sturdy flowers in its own season, each plant must have constant
 				attention, incessant care and tender devotion.</p>
-			<p>If plants, and live stock as well, require space and air, sunlight and love, children
+			<p>If plants, and livestock as well, require space and air, sunlight and love, children
 				need them even more. The only real wealth of our country lies in the men and women
 				of the next generation. A farmer would rather produce a thousand thoroughbreds than
 				a million runts.</p>

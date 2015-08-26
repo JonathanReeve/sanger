@@ -5,6 +5,7 @@
 		<prepDate>2015-01-08 CH transcribe and encode</prepDate>
 		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,7 +18,7 @@
 		</docTitle>
 		<idno>msp421033</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, Feb. 1924, p. 43</bibl>
+			<bibl><title type="journal">Birth Control Review</title>, Feb. 1924, p. 45-47</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -40,7 +41,7 @@
 		<index level1="population growth" level2="natural resources and"/>
 	</headNote>
 	<docBody>
-		<head>Margaret Sanger's Own Corner</head>
+		<head>MARGARET SANGER'S OWN CORNER</head>
 		<div type="section">
 			<p rend="italics">
 				<q who="BCR">This time we give in full the letter of our correspondent along with
@@ -49,19 +50,18 @@
 		</div>
 		<div type="section">
 			<q who="MARMJ">
-				<salute>Dear Madam,</salute>
+				<salute>Dear Madam</salute>
 			</q>
 			<p>
 				<q who="MARMJ">Pardon me for trespassing on your time but I feel so strongly in the
-					matter of birth control that it is impressed deeply into my heart and soul. * *
-					*</q>
+					matter of birth control that it is impressed deeply into my heart and soul.</q>
 			</p>
 			<p>
 				<q who="MARMJ">In one of your circulars, it is stated that the present social
 					condition is carried on by beginning at the wrong end, that is, we are taking
 					care of the unfortunates when we ought to prevent such unfortunates from coming
 					into the world. You claim that we are forced to go to vast expense for all kinds
-					of eleemosynary and penal institutions for those who ought never to have been
+					of elecmosynary and penal institutions for those who ought never to have been
 					allowed to come into being. It appears to me that the advocates of birth control
 					are the ones who are working from the wrong end.</q>
 			</p>
@@ -77,10 +77,10 @@
 			</p>
 			<p>
 				<q who="MARMJ">Further than this, look at the vast sums of money spent in
-					foolishness, sin and crime-- Candy, chewing gum, tobacco and alcohol. Then we
+					foolishness, sin and crime--candy, chewing gum, tobacco and alcohol. Then we
 					ought to consider the wasted money in the great banquets and balls of the elite
-					in all the large cities. Also we may observe the fabulous sums spent for basket
-					ball, base ball, and foot ball.</q>
+					in all the large cities. Also we may observe the fabulous sums spent for
+					basketball, baseball, and football.</q>
 			</p>
 			<p>
 				<q who="MARMJ">Most of the above enumerations will be upheld by many good people but
@@ -110,7 +110,7 @@
 					be a great sin to prevent the coming into existence of a soul destined to
 					everlasting life. The Father above gave man this wonderful power of peopling
 					heaven and it appears to me that any tampering with this incomprehensible gift
-					will be fraught with unknown dangers and poignant sorry.</q>
+					will be fraught with unknown dangers and poignant sorrow.</q>
 			</p>
 			<p>
 				<q who="MARMJ">The veiled object of the control of births is to allow perfect
@@ -127,65 +127,66 @@
 					simply a very brief essay for all who are studying this extremely serious
 					subject. I am nearing the close of a somewhat long and eventful life, and I do
 					not wish to say or do anything to cause grief or unrest, but if possible, I want
-					to assist my fellow travelers to find that straight and narrow path, and point
+					to assist my fellow travelers to find the straight and narrow path, and point
 					them to the <person reg="Jesus Christ">Man of Galilee</person> and show them
 					that belief in Him as <name type="deity">God</name> manifest in the flesh
 					constitutes the only Door opening into the glory-land where we may see the
 					Saviour face to face.</q>
 			</p>
 			<q who="MARMJ">
-				<signed>M J MARTIN</signed>
+				<signed>M. J. MARTIN</signed>
 			</q>
 		</div>
 		<div type="section">
-			<p>In his letter Dr Martin summarizes the objections commonly brought against Birth
+			<p>In his letter Dr. Martin summarizes the objections commonly brought against Birth
 				Control. It can hardly be said, however, that he fairly meets a single one of the
 				many arguments that can be brought in its support.</p>
-			<p>1 In his second paragraph he hints that the resources of the world are equal to any
+			<p>1. In his second paragraph he hints that the resources of the world are equal to any
 				increase of population. In reply, we can quote <person reg="East, Edward Murray"
 					>Professor East</person>, the best authority on food production and agricultural
-				possibilities in the world. In "<title type="book" reg="Mankind at the Crossroads">Mankind at the Crossways</title>" (p
-				153) Professor East attributes to "an editorial in the <title type="journal" reg="New York Herald Tribune">N Y
+				possibilities in the world. In "<title type="book" reg="Mankind at the Crossroads"
+					>Mankind at the Crossways</title>" (p. 153) Professor East attributes to "an
+				editorial in the <title type="journal" reg="New York Herald Tribune">N.Y.
 					Tribune</title>" the remark quoted by Dr Martin concerning Texas, and adds "It
 				is extraordinary, it is even somewhat amusing, that there should be persons without
 				the slightest knowledge of the trend of population or the possibilities of
 				agriculture, who will write thus, but it is also serious." It is serious when a man
-				so earnest and sincere as Dr Martin is taken in by such assertions. Professor East
+				so earnest and sincere as Dr. Martin is taken in by such assertions. Professor East
 				sets a maximum population of 5,200 millions as the limit of the world's capacity to
 				feed, and adds that at the present rate of increase, this limit would be reached in
-				little over a century. Surely it is time to consider the population questions
+				just a little over a century. Surely it is time to consider the population question
 				seriously when children now being born may live to see the world so crowded that
 				there will be room for no further expansion. </p>
-			<p>2 The vast sums of money spent on foolish or unnecessary things, such as chewing gum
+			<p>2. The vast sums of money spent on foolish or unnecessary things, such as chewing gum
 				or candy cannot greatly affect the problems of population. They represent part of
-				the energy of people, but chewing gum and candy are not inheritable diseases, and
-				the habits do not affect the coming generation. As for basket ball, base ball and
+				the energy of the people, but chewing gum and candy are not inheritable diseases,
+				and the habits do not affect the coming generation. As for basketball, baseball and
 				other games, these should be considered as part of the health activities of our
 				young people. They certainly do contribute to the welfare of the nation, and the
 				building up of clean and healthy bodies and minds in the manhood of the country.</p>
-			<p>Dr Martin is distressed at the waste of war, but does not realize that it is now
+			<p>Dr. Martin is distressed at the waste of war, but does not realize that it is now
 				pretty generally agreed that there is no more potent cause of war than the pressure
 				of over-population.</p>
 			<p>The old objection that knowledge must be kept from the people lest they abuse it for
-				evil purposes, applied equally to the knowledge of reading and writing, as it does
+				evil purposes, applies equally to the knowledge of reading and writing, as it does
 				to a knowledge of the functioning of sex, and of methods of encouraging or checking
 				reproduction. <place reg="United States">America</place> settled that point when the
 				nation accepted universal education as the groundwork of her existence. </p>
-			<p>Is it a sin to prevent the coming into existence of a soul destined for eternal life?
-				Our opponents have never answered that question. If they assert that it is a sin,
+			<p>Is it a sin to prevent the coming into existence of a soul destined to eternal life?
+				Our opponents have never answered this question. If they assert that it is a sin,
 				they should condemn celibacy, for any cause whatever, they should also condemn
 				abstinence, and they should approve--or consistently should approve, illegitimacy,
-				polygamy or any other sexual conduct that would result in more births. Does Dr
+				polygamy or any other sexual conduct that would result in more births. Does Dr.
 				Martin really believe that it is a sin and accept the consequences of such a belief?
 				If not, how has he the right to decide that the soul may be prevented from being
 				born by celibacy but not by Birth Control, especially as in many cases Birth Control
 				may be inspired by higher and more unselfish motives than actuate the bachelor.</p>
 			<p>The objects of the Birth Control movement are not veiled. We desire to remove fear of
-				consequences as a motive for what is falsely called a "moral" conduct. True morality
+				consequences as a motive for what is falsely called "moral" conduct. True morality
 				was never the result of fear. We assert this openly and with pride. Why should our
-				sex powers, the powers wherein man comes nearest to the Divine, be denominated in
-				our "animal nature." Please explain. </p>
-			<closer>M S</closer>
+				sex powers, the powers wherein man comes nearly to the Divine, be denominated our
+				"animal nature." Please explain. </p>
+			<closer>M. S.</closer>
 		</div>
 	</docBody>
 </doc>
