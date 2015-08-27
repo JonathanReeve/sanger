@@ -15,17 +15,18 @@
 		<prepDate>2014-04-22 CH added contextual headnote</prepDate>
 		<prepDate>2014/12/9 EK Correct proof + update index</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-26 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
-		<docDate value="1916-04-00"> Apr-July 1916</docDate>
+		<docDate value="1916-04-00">Apr-July 1916</docDate>
 		<docTitle>
 			<titlePart>Birth Control</titlePart>
 		</docTitle>
 		<idno>msp128002</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 129:12</bibl>
+			<bibl>Library of Congress Microfilm 129:0012</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -42,39 +43,50 @@
 				from="128003.xml">Condemnation is Misunderstanding</xref>," Apr.-Jun. 1916. No final
 			version was found.</p>
 		<p>Emendations to the text were made by hand by Margaret Sanger. Entire paragraphs struck
-			out, most likely for shortening the speech have not been deleted from this version.</p>
+			out, most likely for shortening the speech, have not been deleted from this version.</p>
 		<p>Sanger added a note reading: "<q>Original speech given by MS in 1916--this was the first
 				public utterance on the whole subject &amp; was delivered 119 times in one
 				year--</q>"</p>
-		<index level1="Sanger, Margaret" level2="speaking tours, 1916 (United States)"/>
 		<index level1="abortion"/>
-		<index level1="child labor"/>
-		<index level1="mentally disabled and diseased"/>
+		<index level1="abortion" level2="frequency of"/>
+		<index level1="abortion" level2="MS on"/>
+		<index level1="birth control" level2="history of"/>
+		<index level1="birth control" level2="propaganda and publicity"/>
 		<index level1="birth control" level2="morality of"/>
 		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="birth control clinics and leagues"/>
-		<index level1="physicians" level2="birth control and"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+		<index level1="censorship"/>
+		<index level1="child labor"/>
+		<index level1="England" level2="birth control in"/>
+		<index level1="France" level2="birth control in"/>
+		<index level1="France" level2="birth rate in"/>
+		<index level1="Germany" level2="birth rate in"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
+		<index level1="Sachs, Sadie"/>
+		<index level1="mentally diseased or disabled" level2="fertility of"/>
+		<index level1="mentally diseased or disabled" level2="as social burdens"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="mortality rates" level2="maternal" level3="American"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
+		<index level1="Scotland" level2="MS in"/>
+		<index level1="Spain" level2="MS on"/>
+		<index level1="working classes" level2="and birth control"/>
+		<index level1="working classes" level2="and family size"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
 		<index level1="Woman Rebel, The"/>
 		<index level1="women" level2="freedom and rights of"/>
 		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="France" level2="birth control in"/>
-		<index level1="Netherlands, the" level2="birth control in"/>
-		<index level1="Scotland" level2="birth control in"/>
-		<index level1="censorship"/>
-		<index level1="Roosevelt, Theodore"/>
-		<index level1="race suicide"/>
-		<index level1="Sachs, Sadie"/>
 		<index level1="neo-Malthusianism"/>
-		<index level1="Malthusian League (Dutch)"/>
-		<index level1="Malthusian League (English)"/>
-		<index level1="Knowlton, Charles"/>
-		<index level1="Besant, Annie"/>
-		<index level1="Knowlton, Charles"/>
-		<index level1="Wilson, Woodrow"/>
-		<index level1="Jacobs, Aletta"/>
-		<index level1="Rutgers, Johannes"/>
-	</headNote>
+		<index level1="Malthusian League"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+			</headNote>
 	<docBody>
 		<head>
 			<add>Birth Control</add>
@@ -312,7 +324,7 @@
 			<add>my</add> persecution <del>where this knowledge was concerned</del> and insisted
 			that we are the only civilized country in the word whose laws make it a crime to spread
 			this knowledge. This letter was signed by such prominent men as <person
-				reg="Wells, H. G.">H.G. Wells</person>, <person reg="Bennett, Arnold">Arnold
+				reg="Wells, H. G.">H. G. Wells</person>, <person reg="Bennett, Arnold">Arnold
 				Bennett</person>, <person reg="Murray, Gilbert">Gilbert Murray</person>, <person
 				reg="Maude, Aylmer">Elmer Maude</person>, <person reg="Carpenter, Edward">Edward
 				Carpenter</person> and many others, and a great deal of interest was also shown in

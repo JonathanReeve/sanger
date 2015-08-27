@@ -6,15 +6,22 @@
 		<prepDate>2012-10-25 CH Proof tags</prepDate>
 		<prepDate>2014-04-14 EK clean regs></prepDate>
 		<prepDate>2014-04-16 EK correct proof </prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-13 CH regularizing doc titles</prepDate>
+		<prepDate>2015-08-26 EK update indexes</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-13 CH regularizing doc titles</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-05-18">18 May 1916</docDate>
 		<docTitle>
 			<titlePart>
+			<supplied resp="MSPP">National Conference of Charities and Corrections
+					Statement</supplied>
 				<supplied resp="MSPP">National Conference of Charities and Corrections Statement</supplied>
-			</titlePart>
+>			</titlePart>
 		</docTitle>
 		<idno>msp321959</idno>
 		<sourceDesc>
@@ -27,18 +34,21 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Margaret Sanger visited Indianapolis from May 15-18, 1916, speaking on birth control to
-			the National Conference of Charities and Corrections at the <org>Claypool Hotel</org>.
-			She made two more speeches at the <org>Hotel English</org> and the <org>Murat
-				Theater</org>. These remarks may have been drawn from one of these events, or from a
-			statement to the press.</p>
-		<index level1="Netherlands, the" level2="clinics and leagues"/>
-		<index level1="Goldman, Emma" level2="MS on"/>
-		<index level1="poverty"/>
-		<index level1="poverty" level2="family size and"/>
-		<index level1="birth rate" level2="differential"/>
-		<index level1="birth control" level2="laws and legislation" level3="Indiana"/>
-		<index level1="Sanger, Margaret" level2="speaking tour" level3="1916 (U.S.)"/>
+		<p>Margaret Sanger visited <place reg="Indianapolis, IN">Indianapolis</place> from May
+			15-18, 1916, speaking on birth control to the <org>National Conference of Charities and
+				Corrections</org> at the <org>Claypool Hotel</org>. She made two more speeches at
+			the <org>Hotel English</org> and the <org>Murat Theater</org>. These remarks may have
+			been drawn from one of these events, or from a statement to the press.</p>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="birth control laws and legislation" level2="state"/>
+		<index level1="Sanger, Margaret" level2="descriptions of"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
+		<index level1="Goldman, Emma"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
 	</headNote>
 	<docBody>
 		<head>Discusses her Favorite Topic</head>

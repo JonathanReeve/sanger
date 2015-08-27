@@ -8,7 +8,8 @@
 		<prepDate>2015-01-28 EK correct proof</prepDate>
 		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<prepDate>2015-08-11 EK update index</prepDate>
-		<prepDate>2015-01-28 EK correct proof</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<prepDate>2015-01-28 EK correct proof</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc title</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -93,7 +94,6 @@
 			<p>Mrs. Sanger will speak tonight at the <org reg="West Side Auditorium">West Side
 					auditorium</org>, Taylor street and Racine avenue, and next Sunday evening at
 				the <org reg="Little Theater of Chicago">Little theater</org>.</p>
-			<p/>
-		</div>
+			</div>
 	</docBody>
 </doc>
