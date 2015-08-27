@@ -6,9 +6,8 @@
 		<prepDate>2014-04-17 EK clean regs</prepDate>
 		<prepDate>2015-01-19 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<docAuthor>
-			<person reg="Sanger, Margaret">Margaret Sanger</person>
-		</docAuthor>
+		<prepDate>2015-08-27 CH enter proofreading corrections</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1924-02-00">Feb 1924</docDate>
 		<docTitle>
 			<titlePart>A Personal Glimpse of Havelock Ellis</titlePart>
@@ -24,13 +23,14 @@
 			<name/>
 		</respStmt>
 	</mepHeader>
-	<headNote resp="MSPP">
+	<headNote resp="MSPP"><p>This is one of Sanger's annual February birthday tributes to Havelock
+			Ellis.</p>
 		<index level1="Ellis, Havelock"/>
 		<index level1="Ellis, Havock" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>A Personal Glimpse of Havelock Ellis</head>
-		<byline>By Margaret Sanger</byline>
+		<byline>By MARGARET SANGER</byline>
 		<p>I can never think of <person reg="Ellis, Havelock">Havelock Ellis</person> except as one
 			of the outstanding heroes of contemporary civilization. His heroism is not of the
 			spectacular, melodramatic type so easily recognized and rewarded by the world at large,
@@ -40,15 +40,16 @@
 			Ellis is the type of hero who is serenely and calmly indifferent to rewards. The world
 			has beaten a path to his door; but it has not forced an entrance into the inner
 			sanctuary. A man heroic enough to endure years of misunderstanding and even attack, a
-			man who early in life of self-reliance, who, resolutely and without compromise,
-			undertook, carried through and completed a task, Herculean in its immensity--surely such
-			a man cannot now be vastly impressed with the empty applause which our English-speaking
-			world heaps indiscriminately and with equal enthusiasm upon the memory of a great
-			life-giver like <person reg="Pasteur, Louis">Pasteur</person>, or upon any of the
-			blundering destructive strategists of the World War.</p>
+			man who early in life discovered within himself an inexhaustible reservoir of
+			self-reliance, who, resolutely and without compromise, undertook, carried through and
+			completed a task, Herculean in its immensity--surely such a man cannot now be vastly
+			impressed with the empty applause which our English-speaking world heaps
+			indiscriminately and with equal enthusiasm upon the memory of a great life-giver like
+				<person reg="Pasteur, Louis">Pasteur</person>, or upon any of the blundering
+			destructive strategists of the World War.</p>
 		<p>Silhouetted like a saint against the horizon of the dawning day, the great figure of
 			Havelock Ellis assumes benignly gigantic proportions in comparison with our lesser
-			prophets and teachers-- noisy busy men stridently shouting doctrines and propaganda into
+			prophets and teachers--noisy busy men stridently shouting doctrines and propaganda into
 			our ears. For, in his quiet, never insistent, never emphatic, yet never halting fashion,
 			Havelock Ellis has, more than any other voice in contemporary life, changed our whole
 			mode of seeing, of thinking, of living. Long before the advent of the newer schools of
@@ -67,13 +68,13 @@
 			artist. When we write "<emph rend="italics">creative</emph>," we mean that actually for
 			an ever increasing number of men and women he has created newer and truer values of
 			life. He has taught us how to think and feel; he has taught us how to live. In this
-			respect he is comparable to a great novelist of poet, except that his influence has been
+			respect he is comparable to a great novelist or poet, except that his influence has been
 			more direct and more profound in bringing light and love into our actual lives. If in
 			this sense Havelock Ellis is a great imaginative and creative artist, he is no less a
-			scientist-- a scientist in his respect for the truth, in his refusal to evade or to
+			scientist--a scientist in his respect for the truth, in his refusal to evade or to
 			conceal or to shirk those facts about which it has become the cowardly tradition to
 			enforce a polite silence.</p>
-		<p>Beautiful in its growth and fruition as some majestic tress, his life is the living proof
+		<p>Beautiful in its growth and fruition as some majestic tree, his life is the living proof
 			that true greatness is not a quality that exists in watertight compartments. Little men
 			cannot write great books. Greatness--beauty, truth and love,--suffuse this life, radiate
 			not merely on the reader of his books, but on those he has honored with his friendship.
@@ -94,7 +95,7 @@
 			plague the doubtful pleasures of a public dinner given in his honor--it was once
 			suggested and as promptly vetoed--but he is a skilled epicure in the art of the cuisine
 			and a connoisseur of fine wines.</p>
-		<p>In the humbler field of everyday life, I mean to suggest; Havelock Ellis exhibits an
+		<p>In the humbler field of everyday life, I mean to suggest,Havelock Ellis exhibits an
 			all-embracing sympathy and discrimination. In short, he is an artist in life,--the very
 			artist we would expect of the thinker and teacher who can so skillfully vitalize for us
 			the ancient and undying truths of the Chinese sage, <person reg="Laozi"
@@ -103,7 +104,7 @@
 			intellect was exhibited earlier in his career when so justly so discriminatingly and yet
 			so sympathetically, he interpreted such diametrically opposed prophets as <person
 				reg="Francis of Assisi (St.)">St. Francis of Assisi</person> and the <person
-				reg="Nietzsche, Friedrich">author</person> of <title type="book"
+				reg="Nietzsche, Friedrich">author</person> of "<title type="book"
 				reg="Thus Spake Zarathrustra">Zarathrustra</title>."</p>
 		<p>No single factor contributes more to our courage or proves a more unfailing source of
 			strength to us who, with the weapon of Birth Control, are seeking to liberate the

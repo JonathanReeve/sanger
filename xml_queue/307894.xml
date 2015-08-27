@@ -5,7 +5,9 @@
 		<prepDate>2003/07/04 SR</prepDate>
 		<prepDate>5/09/2012 AW</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
-		<prepDate>2015-03-10 CH recheck tags</prepDate><prepDate>2015-07-22 CH correct titles</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-07-22 CH correct titles</prepDate>
+		<prepDate>2015-08-27 CH enter proofreading changes</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -32,19 +34,19 @@
 		<p>For typed drafts, see Library of Congress Microfilm 129:637, 647 and 695. Excerpts of the
 			article were published in the Sept. 1924 <title type="journal">Birth Control
 				Review</title> as "<title type="article">The Fight Against Birth Control</title>,"
-			245-248, 269. </p>
+			pp. 245-248, and 269. </p>
 		<index level1="birth control" level2="opposition to"/>
 		<index level1="Comstock, Anthony"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
 		<index level1="Catholic Church" level2="birth control and"/>
 	</headNote>
 	<docBody>
-		<head>THE FIGHT AGAINST BIRTH CONTROL</head>
+		<head>THE WAR AGAINST BIRTH CONTROL</head>
 		<byline>BY MARGARET SANGER</byline>
 		<epigraph>
-			<p><q who="BLAWI"> ...and priests in black gowns were walking their rounds, and binding
-					with briars my joys and desires.</q> --<person reg="Blake, William">William
-					Blake</person>.</p>
+			<p><q who="BLAWI">. . .and priests in black gowns were walking their rounds, <lb/>and
+					binding with briars my joys and desires.</q><lb/> --<person reg="Blake, William"
+					>William Blake</person>.</p>
 		</epigraph>
 		<p>"<q who="HUXAL">Strange</q>," exclaims a character in <person reg="Huxley, Aldous">Aldous
 				Huxley's</person> "<title type="book">Antic Hay</title>," "<q>how long it has taken
@@ -153,11 +155,11 @@
 				have been impossible to a regiment of press-agents.</p>
 			<p>The Birth Control movement in America has had the good luck to incur the wrath of two
 				distinct schools of censors. At first the Comstockians focused their attention on
-				us. But with te passing of that patriarch any experienced observer must have noted
+				us. But with the passing of that patriarch any experienced observer must have noted
 				the rapid decline of the Comstockian school. It has now become almost senile. No
 				longer is it actuated by the stupendous frenzy of its founder. The grandiose
 				gestures of the Golden Age are now things of the past. The neo-Comstocks are making,
-				it is true, occasional spurts of activity, successful mainly because of te
+				it is true, occasional spurts of activity, successful mainly because of the
 				feebleness of the literary challenges to Mr. <person reg="Sumner, John S.">John S.
 					Sumner</person>. But I venture to predict that, in a future not too distant,
 				there will be a gradual disintegration of the whole school. Times are changing. We
@@ -184,27 +186,27 @@
 			<p>The Catholic scheme of ethics, on the contrary, demands strict obedience to the laws
 				and prohibitions that have been codified by authority. That authority declares in no
 				uncertain terms that "<q who="UNK">all positive methods of this nature
-					[contraception] are immoral and forbidden.</q>" In a Christmas pastoral
+					{contraception} are immoral and forbidden.</q>" In a Christmas pastoral
 				Archbishop (now Cardinal) <person reg="Hayes, Patrick J.">Patrick J. Hayes</person>
 				ventured so far as to assert that</p>
 			<p rend="blockquote"><q who="HAYPA">even though some little angels in the flesh, through
 					the moral or physical deformities of their parents, may appear to human eyes
-					hideous, misshapen, a blot on civilized society, we must no lose sight of this
+					hideous, misshapen, a blot on civilized society, we must not lose sight of this
 					Christian thought: that under and within such visible malformations lives an
 					immortal soul to be saved and glorified for all eternity among the blessed in
 					Heaven</q>.</p>
 			<p>From exponents of the philosophy represented by this utterance the early advocates of
 				Birth Control were prepared for the bitterest opposition. As a matter of fact, we
 				welcomed such opposition, hoping only that the battle might be carried on according
-				to the rules of decency and honesty. Neither the theory nor the practice of Birth
-				Control has ever been thrust upon women unwilling to accept it, least of all upon
-				Catholics. We have conceded to Catholic and all other clergymen the full right to
-				preach their own doctrines, both of theology and of morals. When, however, the
-				Catholic clergy attempt to force their ideas upon non-Catholic sections of the
-				American public and transform them into legislative acts, we believe we are well
-				within our rights as American citizens when we voice our protest. The
-				unsportsmanlike tactics and strategy of these opponents to Birth Control may be
-				illustrated by two examples of attempted suppression.</p>
+				to the rules of decency and honesty.</p>
+			<p> Neither the theory nor the practice of Birth Control has ever been thrust upon women
+				unwilling to accept it, least of all upon Catholics. We have conceded to Catholic
+				and all other clergymen the full right to preach their own doctrines, both of
+				theology and of morals. When, however, the Catholic clergy attempt to force their
+				ideas upon non-Catholic sections of the American public and transform them into
+				legislative acts, we believe we are well within our rights as American citizens when
+				we voice our protest. The unsportsmanlike tactics and strategy of these opponents to
+				Birth Control may be illustrated by two examples of attempted suppression.</p>
 			<p>Three years ago, as a fitting conclusion to the <org
 					reg="American Birth Control Conference, 1st">First American Birth Control
 					Conference</org>, a public meeting was arranged at the Town Hall in New York
@@ -271,7 +273,7 @@
 			<head type="sub">IV</head>
 			<p>I do not wish to convey the impression that my ten years of experience have driven me
 				to the conclusion that suppression is an unmixed blessing. It is true that the idea
-				of Birth Control has been made thrive by these ill-advised attempts to extirpate it
+				of Birth Control has been made to thrive by these ill-advised attempts to extirpate it
 				from the American mind. But its vitality is not merely the chance result of such
 				clumsy, clownish antics. If we had not been determined, with all the courage and
 				stamina at our command, constantly, promptly and unflinchingly to challenge the
@@ -288,7 +290,7 @@
 				condemns in the <org>Ku Klux Klan</org>. Today American "purity" is protected by an
 				interlocking directorate of professional meddlers, a bloodless but bloodthirsty
 				tribe, scanning the horizon for any and every outbreak of human passion, galloping
-				post haste to the scene of every such <foreign lang="GER">verboten</foreign>
+				post haste to the scene of every such <foreign lang="GER" rend="italics">verboten</foreign>
 				manifestation like a tribe of Indians descending upon a pioneer's wagon. Any <person
 					reg="Dogberry (fictional)">Dogberry</person> clothed in brief authority, any
 				psychopathic person with an "obscenity" complex may inaugurate the hunt. I have run
@@ -322,7 +324,7 @@
 				something has been suppressed, but such activities contribute exactly nothing toward
 				a cure for our national disease. If the American public is ever to be brought safely
 				out of the mental coma into which it has fallen, something more than persistent
-				criticism of the professional meddler is imperative. an ounce of courage is worth a
+				criticism of the professional meddler is imperative. An ounce of courage is worth a
 				ton of criticism.</p>
 		</div>
 	</docBody>
