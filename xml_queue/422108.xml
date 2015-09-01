@@ -5,6 +5,7 @@
 		<prepDate>2017-07-27 CH transcribe and encode</prepDate>
 		<prepDate>2015-08-07 CH enter proofread corrections</prepDate>
 		<prepDate>2015-08-07 CH proof tags</prepDate>
+		<prepDate>2015-09-01 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -16,7 +17,6 @@
 		<sourceDesc>
 			<bibl><title type="article">Conference Hears Birth Talk Today</title>, <title
 					type="journal">Indianapolis Star</title>, May 15, 1916, p. 1</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -32,15 +32,20 @@
 				Control</xref>," Apr-July 1916, and "<xref from="128003.xml">Condemnation is
 				Misunderstanding</xref>," Apr.-Jun. 1916.</p>
 		<p>Portions of this article not dealing with Sanger's speech have not been included.</p>
+		<index level1="quacks and quackery"/>
+		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
 		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="birth control" level2="class-based"/>
 	</headNote>
 	<docBody>
 		<head>CONFERENCE HEARS BIRTH TALK TODAY</head>
 		<div type="section">
-			<p>"Birth Control" will be discussed by Mrs. Margaret Sanger of New York city at the
+			<p>"Birth Control" will be discussed by Mrs. Margaret Sanger of <place reg="New york, NY">New York city</place> at the
 				assembly room, <org>Claypool Hotel</org>, at 2:30 o'clock today. Mrs. Sanger is the
-				woman who was tried last January in New York by Judge Dayton in the <org
+				woman who was tried last January in New York by <person reg="Dayton, Alston G.">Judge Dayton</person> in the <org
 					reg="United States District Court for the Southern District of New York">Federal
 					Court</org> for advocating birth control. She was released and has since
 				addressed many prominent audiences on the subject.</p>
@@ -78,7 +83,7 @@
 				study of conditions in England, <place reg="Netherlands">Holland</place>,
 					<place>France</place> and <place>Spain</place>. I then returned to this country
 				and fought the case that the government had brought against me. <person
-					reg="Clayton, Henry DeLamar">Federal Judge Dayton</person> acquitted me.
+					reg="Dayton, Alston G.">Federal Judge Dayton</person> acquitted me.
 				Hundreds of requests have been made to me to renew '<title type="journal"
 					reg="The Woman Rebel">The Woman Rebel</title>,' but I feel it has already
 				accomplished its purpose to arouse interest. Now more constructive work is needed,

@@ -7,6 +7,7 @@
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<prepDate>2015-08-17 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-09-01 EK update index3</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,8 +31,20 @@
 	<headNote resp="MSPP">
 		<p>For another version of the speech, see "<xref from="233034.xml">Breaking into the
 				South</xref>," Dec. 1919.</p>
+		<index level1="abortion" level2="frequency of"/>
+		<index level1="African-Americans" level2="family size"/>
+		<index level1="African-Americans" level2="MS on"/>
 		<index level1="birth control laws and legislation"/>
-		<index level1="Southern States"/>
+		<index level1="family size" level2="MS on"/>
+		<index level1="marriage" level2="age at"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="North Carolina" level2="birth control laws"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
+		<index level1="Sanger, Margaret" level2="descriptions of"/>
+		<index level1="Southern states"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="responsibilities of"/>
 	</headNote>
 	<docBody>
 		<head>MRS. SANGER TOLD THE WOMEN A THING OR TWO</head>
@@ -43,7 +56,7 @@
 					arguments for family limitation or scientific birth control advanced by Mrs.
 					Margaret Sanger, of <place reg="New York, NY">New York City</place>, in an
 					address to a mixed audience of 800 or more persons at the <org>Alkrama
-						Theater</org> in this city Sunday afternoon.</q></p>
+						Theater</org> in this <place reg="Elizabeth City, NC">city</place> Sunday afternoon.</q></p>
 			<p><q who="ECI">It was the first public meeting for the discussion of the subject of
 					birth control ever held in the south. The audience that greeted Mrs. Sanger was
 					recruited from every walk of life and many came from miles away, braving
@@ -59,9 +72,9 @@
 					supplemented by her researches in the clinics of several European countries,
 					Mrs. Sanger told the women what they wanted to know. A more astounding, a more
 					revolutionary thing probably never occurred in the staid, conservative old state
-					of North Carolina.</q></p>
+					of <place>North Carolina</place>.</q></p>
 			<p><q who="ECI">No, the police did not interfere with Mrs. Sanger. They couldn't. There
-					is no law on the statute books of <place>North Carolina</place> to prevent the
+					is no law on the statute books of North Carolina to prevent the
 					dissemination of birth control information by word of mouth. Doctors and lawyers
 					have made the people believe that such laws existed in this state, but North
 					Carolina is one of five states in the union in which the old time law makers
