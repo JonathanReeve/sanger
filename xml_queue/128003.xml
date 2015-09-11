@@ -9,6 +9,7 @@
 		<prepDate>2011-11-30 CH typos</prepDate>
 		<prepDate>2014/12-10 EK clean regs, correct proof</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-09-11 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -23,7 +24,7 @@
 		<idno>msp128003</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 129:32</bibl>
+			<bibl><title type="mf">Library of Congress Microfilm</title>, 129:32</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp id="MSPP">MSPP</resp>
@@ -32,41 +33,41 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>This draft was used by <person reg="Sanger, Margaret">Sanger</person> in her <place
-				reg="United States">U.S. </place>national speaking tour in 1916. Emendations to the
-			text were made by handwritten by Margaret Sanger. Entire paragraphs struck out, most
-			likely for shortening the speech have not been deleted from this version. For a similar
+				reg="United States">U.S.</place> national speaking tour in 1916. Handwritten emendations to the
+			text made by by Margaret Sanger. Entire paragraphs struck out, most
+			likely for shortening the speech, have been deleted from this version. For a similar
 			speeches see <xref from="128002">Birth Control</xref>, 1916, and <xref from="236132.xml"
 				>Birth Control (Chicago Address to Women)</xref>, Apr.-May 1916.</p>
 		<p>A handwritten note added by MS at the bottom of document reads: "Notes of first lecture
 			tattered &amp; torn but delivered to many thousands."</p>
-		<index level1="Sanger, Margaret" level2="biography"/>
-		<index level1="Sanger, Margaret" level2="speaking tours, 1916 (United States)"/>
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="Sanger, Margaret" level2="tours, 1916 (United States)"/>
 		<index level1="Sachs, Sadie"/>
 		<index level1="abortion" level2="MS on"/>
 		<index level1="birth control" level2="class-based"/>
 		<index level1="birth control" level2="morality of"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
-		<index level1="birth control clinics and leagues" level2="in the Netherlands"/>
-		<index level1="Sanger, William" level2="arrest and trial of"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
+		<index level1="Sanger, William" level2="arrest,trial and imprisonment"/>
 		<index level1="Woman Rebel, The" level2="legal case"/>
 		<index level1="Family Limitation"/>
 		<index level1="censorship"/>
-		<index level1="labor movement" level2="birth control and"/>
+		<index level1="labor movement" level2="and birth control"/>
 		<index level1="labor movement" level2="strikes"/>
-		<index level1="mentally diseased and challenged" level2="birth control and"/>
-		<index level1="mentally diseased and challenged" level2="fertility of"/>
-		<index level1="mortality rates" level2="infant" level3="in France"/>
+		<index level1="mentally diseased or challenged" level2="and birth control"/>
+		<index level1="mentally diseased or challenged" level2="fertility of"/>
+		<index level1="mortality rates" level2="infant" level3="France"/>
 		<index level1="England" level2="birth control in"/>
 		<index level1="Europe" level2="birth control in"/>
 		<index level1="France" level2="birth control in"/>
 		<index level1="free speech and free press"/>
 		<index level1="Germany" level2="birth control in"/>
 		<index level1="Netherlands, the" level2="birth control in"/>
-		<index level1="physicians" level2="birth control and"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="working classes" level2="women and girls"/>
+		<index level1="physicians" level2="and birth control"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="working class"/>
 		<index level1="United States Post Office"/>
 	</headNote>
 	<docBody>

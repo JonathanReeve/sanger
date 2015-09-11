@@ -7,6 +7,7 @@
 		<prepDate>2015-01-19 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-08-27 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-09-11 EK update index</prepDate>
 		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
 		<docDate value="1924-02-00">Feb 1924</docDate>
 		<docTitle>
@@ -26,7 +27,7 @@
 	<headNote resp="MSPP"><p>This is one of Sanger's annual February birthday tributes to Havelock
 			Ellis.</p>
 		<index level1="Ellis, Havelock"/>
-		<index level1="Ellis, Havock" level2="and birth control"/>
+		<index level1="Ellis, Havock" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<head>A Personal Glimpse of Havelock Ellis</head>
@@ -95,7 +96,7 @@
 			plague the doubtful pleasures of a public dinner given in his honor--it was once
 			suggested and as promptly vetoed--but he is a skilled epicure in the art of the cuisine
 			and a connoisseur of fine wines.</p>
-		<p>In the humbler field of everyday life, I mean to suggest,Havelock Ellis exhibits an
+		<p>In the humbler field of everyday life, I mean to suggest, Havelock Ellis exhibits an
 			all-embracing sympathy and discrimination. In short, he is an artist in life,--the very
 			artist we would expect of the thinker and teacher who can so skillfully vitalize for us
 			the ancient and undying truths of the Chinese sage, <person reg="Laozi"

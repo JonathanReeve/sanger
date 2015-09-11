@@ -7,6 +7,7 @@
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate><prepDate>2015-08-27 CH enter proofreading changes</prepDate>
+		<prepDate>2015-09-11 Ek update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -27,9 +28,9 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="Rutgers, Johannes"/>
-		<index level1="Jacobs, Aletta"/>
-		<index level1="Netherlands" level2="birth control in"/>
-		<index level1="Netherlands" level2="clinics in"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
+		<index level1="Netherlands, the" level2="clinics in"/>
+		<index level1="neo-Malthusianism"/>
 		<index level1="birth control movement" level2="history of"/>
 	</headNote>
 	<docBody>

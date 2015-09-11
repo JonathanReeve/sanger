@@ -6,8 +6,8 @@
 		<prepDate>05/09/2012 AW</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-10 CH recheck tags</prepDate>
-		<prepDate>2015-08-27 CH enter proofreading changes</prepDate>
+		<prepDate>2015-03-10 CH recheck tags</prepDate><prepDate>2015-08-27 CH enter proofreading changes</prepDate>
+		<prepDate>2015-09-11 Ek update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,9 +28,9 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="Rutgers, Johannes"/>
-		<index level1="Jacobs, Aletta"/>
-		<index level1="Netherlands" level2="birth control in"/>
-		<index level1="Netherlands" level2="clinics in"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
+		<index level1="Netherlands, the" level2="clinics in"/>
+		<index level1="neo-Malthusianism"/>
 		<index level1="birth control movement" level2="history of"/>
 	</headNote>
 	<docBody>
@@ -94,17 +94,17 @@
 			countries have been taught the importance of the clinic as a true instrument of eugenic
 			education. My enthusiasm for Dr. Rutgers' clinic has led others to visit The Hague and
 			to investigate his results for themselves. So that his example in the near future may
-			have widespread influence, not only in the <place reg="Western World">Occident</place>
-			but in the <place reg="Asia">Far East</place> as well.</p>
+			have widespread influence, not only in the <place reg="Western World">Occident</place> but in the <place
+				reg="Asia">Far East</place> as well.</p>
 		<p>How much the contemporary Birth Control movement owes to the example of Holland, the
 			pioneer nation in this field, we all realize. How much Holland owes to the fine and
 			unflinching idealism of Dr. Rutgers, it is too early to say. His is an influence the
 			benefits of which cannot be determined in a single generation nor in two. When we point
-			to Holland as an outstanding example of what can be accomplished and what <emph
-				rend="italics">has</emph> been attained in the quality of breeding as opposed to the
-			blind and indiscriminate reproduction of mere numbers, we should not forget that this
-			practical national demonstration of our conviction is the outcome of the tireless
-			patience and indefatigable idealism of a single man-–Dr. J. Rutgers.</p>
+			to Holland as an outstanding example of what can be accomplished and what <emph rend="italics">has</emph> been
+			attained in the quality of breeding as opposed to the blind and indiscriminate
+			reproduction of mere numbers, we should not forget that this practical national
+			demonstration of our conviction is the outcome of the tireless patience and
+			indefatigable idealism of a single man-–Dr. J. Rutgers.</p>
 		<p>Let us honor his memory as that of one of the true heroes fighting for the liberation of
 			humanity through the Birth Control movement.</p>
 	</docBody>
