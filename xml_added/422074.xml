@@ -7,6 +7,7 @@
 		<prepDate>2015-06-09 LH enter corrections</prepDate>
 		<prepDate>2015-08-13 CH reg doc titles</prepDate>
 		<prepDate>2015-08-17 CH enter proofread corrections</prepDate>
+		<prepDate>2015-09-11 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,7 +19,7 @@
 		</docTitle>
 		<idno>msp422074</idno>
 		<sourceDesc>
-			<bibl><title type="article">Birth Control or War, Claim</title>, <title type="journal"
+			<bibl><title type="article">"Birth Control or War, Claim"</title>, <title type="journal"
 					>Oshkosh (Wisc.) Daily Northwestern</title>, Feb. 18, 1922, p. 2</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -29,17 +30,18 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>No complete version of the statement was found; newspaper coverage was used instead.</p>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="Japan" level2="government"/>
+		<index level1="Japan" level2="overpopulation"/>
 		<index level1="Japan" level2="birth control in"/>
 		<index level1="Japan" level2="politics in"/>
 	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL OR WAR, CLAIM</head>
-		<byline>(By Robert A. Donaldson, United Press Staff Correspondent.)</byline>
 		<dateline><place reg="San Francisco, CA">San Francisco</place>--</dateline>
 		<p>"If <place>Japan</place> continues its present increase in population and does not resort
 			to birth control, there will be but one result--war."</p>
-		<p>
-			<q who="ODN">This was the declaration today of Mrs. Margaret Sanger, president of the
+		<p>			<q who="ODN">This was the declaration today of Mrs. Margaret Sanger, president of the
 					<org reg="American Birth Control League">American birth control league</org>,
 				who has been refused a passport visa by the <org reg="Japan Consulate">Japanese
 					consulate</org> here on orders from <place reg="Tokyo, Japan">Tokyo</place>.</q>

@@ -5,7 +5,9 @@
 		<prepDate>2003/07/02 SB</prepDate>
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2015-01-14 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-08-17 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-08-17 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-09-11 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,17 +19,17 @@
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Apr. 1923, p. 84</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm Edition, Smith College
-					Collections</title> S70:998</bibl>
+					Collections</title> S70:0998</bibl>
 		</sourceDesc>
-		<respStmt>
-			<resp/>
-			<name/>
-		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="England" level2="birth control in"/>
-		<index level1="Drysdale family, MS on"/>
+		<index level1="Drysdale, Charles Vickery"/>
+		<index level1="Drysdale, George"/>
+		<index level1="Drysdale family"/>
+		<index level1="neo-Malthusianism"/>
 		<index level1="Malthusian League"/>
+		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
 	</headNote>
 	<docBody>
 		<head>Hail! Not Farewell!</head>
@@ -42,14 +44,13 @@
 			our cause has been kept alive and not allowed to die out–-a torch burning more brightly
 			now than ever before. From the early 'Fifties, when <person reg="Drysdale, George"
 				>George Drysdale</person> first published his epoch-making gospel of Birth Control,
-				"<title type="book">The Elements of Social <supplied resp="MSPP"
-				>Science</supplied></title>," throughout the Victorian era, through the tempestuous
+				<title type="book">"The Elements of Social <supplied resp="MSPP"
+				>Science"</supplied></title>," throughout the Victorian era, through the tempestuous
 			days of the Great War, down to these chaotic days when the whole world has been
 			desperately driven to a realization of the fundamental need for conscious control of
 			populations, it has been these brave self-sacrificing Drysdales who have kept alive the
 			idea. It has been a noble tradition of the Drysdale family–-this quiet unceasing
 			service, this loyalty to the idea.</p>
-
 		<p>George Drysdale, the valiant author of the "<title type="book">Elements of Social
 					<supplied resp="MSPP">Science</supplied></title>" was the greatest nineteenth
 			century prophet of Birth Control. The founder of the <org reg="Malthusian League"
@@ -67,7 +68,6 @@
 			professional loss and even ostracism. The Drysdales did not hesitate. Today they would
 			see the seed they so courageously planted and cultivated bearing healthy fruits and
 			grown into a world movement.</p>
-
 		<p>The retiring president of the New Generation League is the son of Dr. Charles Drysdale, a
 			nephew of George Drysdale. He has nobly carried on the Drysdale tradition, as has his
 			wife Bessie Drysdale. The latter has indeed worked so hard as administrative director of
@@ -84,7 +84,6 @@
 			Birth Control, regardless of whether the victim was intellectually in agreement with
 			their personal opinions, whether he was Socialist or Anarchist, Democrat or
 			Catholic.</p>
-
 		<p>The Drysdale school of thought stems directly from <person reg="Malthus, Thomas Robert"
 				>Malthus</person> and the individualist <place reg="Manchester, England"
 				>Manchester</place> school of economics. It is a sturdy, rational, self-respecting

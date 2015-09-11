@@ -8,6 +8,7 @@
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
 		<prepDate>2015-08-17 CH entering proofreading corrections</prepDate>
+		<prepDate>2015-09-11 EK update index </prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,12 +32,16 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<p>Sanger spoke to the press before her talk at the Denver Women's Club luncheon on August
-			6, 1923. That speech was not found.</p>
-		<index level1="American Birth Control League"/>
-		<index level1="Japan"/>
-		<index level1="Japan" level2="censorship in"/>
+			6, 1923. The original speech was not found.</p>
+		<index level1="Japan" level2="censorship"/>
+		<index level1="Japan" level2="MS on"/>
 		<index level1="Japan" level2="government of"/>
-		<index level1="Denver Woman's Club"/>
+		<index level1="Sanger, Margaret" level2="descriptions of"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Korea)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (China)"/>
 		<index level1="war" level2="overpopulation and"/>
 	</headNote>
 
@@ -46,16 +51,14 @@
 		<byline>(By FRANCES WAYNE.)</byline>
 		<p>
 			<q who="DP">To keep young and to remain beautiful, one should acquire a great purpose in
-				life, and establish in the heart a great faith.</q>
-		</p>
+				life, and establish in the heart a great faith.</q></p>
 		<p>
 			<q who="DP">This recipe sprang into mind Monday when, after seven years’ absence, Mrs.
 				Margaret Sanger, leader of the <org reg="American Birth Control League">National
 					League for Birth Control</org>, came into view younger and lovelier than on her
 				first visit to <place reg="Denver, CO">Denver</place>.</q>
 		</p>
-		<p>
-			<q who="DP">Since her last visit in 1916, Mrs. Sanger has suffered imprisonment many
+		<p><q who="DP">Since her last visit in 1916, Mrs. Sanger has suffered imprisonment many
 				times to prove the faith she holds. She has through sincerity and persistence drawn
 				a velvet glove on the iron hand of the law in many states; she has, in spite of the
 				refusal of the <org reg="United States Government">United States government</org> to
@@ -66,8 +69,7 @@
 		</p>
 		<p>
 			<q who="DP">And now, via <place>Alaska</place>, she has come to <place>Colorado</place>
-				for a real vacation and rest.</q>
-		</p>
+				for a real vacation and rest.</q></p>
 		<p>
 			<q who="DP">Before mentioning the cause near her heart, Mrs. Sanger said she did not
 				wonder that <person reg="Harding, Warren G.">President Harding</person> succumbed to
@@ -78,13 +80,11 @@
 			is a wonderful country, but no place to go for a rest, for there at this time of the
 			year is perpetual daylight. It is daylight and that gets behind the eyes into the brain
 			and plays havoc with one’s nerves, making sleep impossible to the stranger.”</p>
-
 		<p>
 			<q who="DP">Mrs. Sanger insists she sees daylight ahead for her cause. The sort of
 				daylight that does not play havoc with the brain, but sets it to work for the good
 				of humanity.</q>
 		</p>
-
 		<p>“When I went to Japan,” <q who="DP">she said,</q> “I chose the <name type="ship"
 				reg="Taiyo Maru">boat</name> on which the Japanese delegates to the <org
 				reg="Washington Naval Conference">armament congress</org> were returning. I had been
@@ -101,7 +101,6 @@
 		<p>“The thoughtful people of Japan realize that it is as foolish to glut the market with a
 			human output as to glut it with an over supply of other produce. Hence their interest in
 			and enthusiasm for the message I carried.”</p>
-
 		<p>
 			<q who="DP">The same cordial reception was granted Mrs. Sanger in <place>China</place>
 				and <place>Korea</place>.</q>
@@ -137,6 +136,5 @@
 					Paul</person>, vice president of the <org reg="National Woman's Party">National
 					Woman’s party</org>.</q>
 		</p>
-
 	</docBody>
 </doc>

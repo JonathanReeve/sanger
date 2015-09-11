@@ -8,19 +8,20 @@
 		<prepDate>2014-03-04 CH correct regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-08-17 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-09-11 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1923-04-00">Apr 1923</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Review of Havelock Ellis' LITTLE ESSAYS OF LOVE AND
-					VIRTUE</supplied></titlePart>
+			<titlePart><supplied resp="MSPP">Review of Havelock Ellis' <title type="book">LITTLE ESSAYS OF LOVE AND
+				VIRTUE</title></supplied></titlePart>
 		</docTitle>
 		<idno>msp305537</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control Review</title>, Apr. 1923, p. 95</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>,
-				C16:200</bibl>
+				C16:0200</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -29,7 +30,10 @@
 	</mepHeader>
 	<headNote resp="MSPP">
 		<index level1="Ellis, Havelock"/>
-		<index level1="love" level2="concept of"/>
+		<index level1="book reviews"/>
+		<index level1="love" level2="concept of"/>]
+		<index level1="sex and sexuality" level2="and love"/>
+		<index level1="sex education"/>
 	</headNote>
 	<docBody>
 		<head rend="italics">A Review by Margaret Sanger</head>

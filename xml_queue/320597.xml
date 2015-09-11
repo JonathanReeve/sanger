@@ -32,14 +32,20 @@
 	<headNote resp="MSPP">
 		<p>This article was reprinted in an <org>American Birth Control League</org> flyer, along
 			with other articles as "<title type="article">Real Facts about Birth Control</title>,"
-			Apr. 1923 (LCM 129:579). This article included a photo of <person reg="Besant, Annie"
-				>Annie Besant</person> with the caption: "<q who="ABCL">Annie Besant was to England
-				in 1877 what <person reg="Sanger, Margaret">Margaret Sanger</person> is now to
-				America.</q>"</p>
+			Apr. 1923 <title type="mf">Sanger Papers, Library of Congress microfim,</title> LCM
+			129:0579. This article included a photo of <person reg="Besant, Annie">Annie
+				Besant</person> with the caption: "<q who="ABCL">Annie Besant was to England in 1877
+				what <person reg="Sanger, Margaret">Margaret Sanger</person> is now to
+			America.</q>"</p>
 		<index level1="England" level2="birth control in"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="birth control laws and legislation" level2="doctors-only laws"/>
+		<index level1="New York" level2="birth control laws"/>
 		<index level1="birth control movement" level2="history of"/>
 		<index level1="United States" level2="birth control in"/>
 		<index level1="United States" level2="overpopulation in"/>
+		<index level1="censorship"/>
+		<index level1="women and girls" level2="enslavement of"/>
 	</headNote>
 	<docBody>
 		<head>High Lights in the History of Birth Control</head>
@@ -64,7 +70,6 @@
 				>United States</place>--<person reg="Jefferson, Thomas">Thomas Jefferson</person>
 			and <person reg="Madison, James">James Madison</person>--were ardent champions of
 			Malthus.</p>
-
 		<p><person reg="Owen, Robert Dale">Robert Dale Owen</person>, a United States Senator and
 			later Ambassador to <place>France</place>, wrote a book entitled "<title type="book"
 				>Moral Physiology</title>," which gave birth control information and led to the
@@ -126,35 +131,29 @@
 			serious consideration. We can no longer ostrich-like bury our heads in the sands of
 			sentimentality. Not merely in New York but in every metropolis of the United States and
 			of the world we must face the problems of population. </p>
-
 		<p>What are these problems?</p>
-
 		<p>Go out into the streets. Our cities are overcrowded. We make desperate attempts to cope
 			with the traffic problem. Everywhere there are congested districts. The higher the
 			rents, the more paradoxically do people flock to the cities. All efforts to relieve
 			congestion, seemingly, increase it. Despite all the efforts of city planners and
 			engineers, modern civilization seems unable to keep even one step ahead of the growth of
 			the populations.</p>
-
 		<p>We have become a nation of crowds--crowds in the theaters, crowds in the subways, crowds
 			in motor cars waiting hours to cross in ferryboats or seeking to escape, for at least
 			one day in the country, the eternal gregariousness of city life. And yet the ceaseless
 			drift to the cities continues.</p>
-
 		<p>At first glance this problem might seem to be one of city planning alone. But if we
 			investigate it more closely, if we summon the courage to look ahead for two or three
 			generations and try to envisage the results of this continuous and uncontrolled growth
 			of population in our urban centers, we shall see that if, as a nation, we are merely
 			interested in an endless multiplication of numbers we are doomed to sacrifice the finer
 			interests of American civilization.</p>
-
-		<p>We cannot deny, for instance, that the schools of New York City are lamentably
-			overcrowded; our school buildings are inadequate to the needs of the thousands of
-			children who crowd into them. Individual attention is impossible. Little children are
-			forced to play in city streets. Small wonder, then, that juvenile delinquency is always
-			increasing and precocious lawbreakers are sent away to reform schools and such
-			institutions--an added expense to the community.</p>
-
+		<p>We cannot deny, for instance, that the schools of <place reg="New York, NY">New York
+				City</place> are lamentably overcrowded; our school buildings are inadequate to the
+			needs of the thousands of children who crowd into them. Individual attention is
+			impossible. Little children are forced to play in city streets. Small wonder, then, that
+			juvenile delinquency is always increasing and precocious lawbreakers are sent away to
+			reform schools and such institutions--an added expense to the community.</p>
 		<p>Until we are prepared to give each and every child a fair start in life we have only
 			ourselves to blame for the evils of juvenile crime and delinquency and the shame of
 			child labor. As <person reg="Hoover, Herbert">Herbert Hoover</person> pointed out not
@@ -163,18 +162,15 @@
 				life. If we could grapple with the whole child situation for one generation our
 				public health, our economic efficiency, the moral character, sanity and stability of
 				our people would advance three generations in one.</q>"</p>
-
 		<p>The bill introduced in the <org reg="New York State Assembly">Assembly at Albany</org>
 			did not aim to force the practice of birth control upon unwilling parents. It did not
 			aim to destroy the teaching of any one's church or religion. It aimed at the alleviation
 			of what we may legitimately term the conscription of motherhood.</p>
-
 		<p>Birth control aims to introduce into the creation of the next generation of American
 			citizens those sound and scientific principles observed by the gardener and the
 			agriculturist. We must cultivate the human garden by proper spacing, by improving the
 				<emph rend="italics">quality</emph> of our precious crop of children by methods of
 			intensive cultivation and not by the production of mere number.</p>
-
 		<p>We are not, I must repeat, trying to force this doctrine upon the American public. Every
 			day thousands of poor mothers are begging us for help, fully conscious that their sacred
 			duty to the children they have already brought into the world demands that they shall
@@ -182,7 +178,6 @@
 			answer to these unfortunate and conscripted mothers that legislation authorizing duly
 			registered physicians to administer the necessary hygienic and scientific advice has
 			been asked.</p>
-
 		<p>Its enactment would make possible the establishment of bureaus and clinics where the
 			women of the poor might receive the first lesson in racial responsibilities and hygienic
 			education. It is our conviction that such instruction would do far more toward the
