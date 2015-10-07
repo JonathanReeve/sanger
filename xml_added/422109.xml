@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-0818 CH transcribe and encode</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-10-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -19,12 +20,10 @@
 			<bibl><title type="book">Birth Control: What It Is, How it Works, What it Will Do:
 					Proceedings of the American Birth Control Conference Held at the Hotel Plaza,
 					New York, November 11, 12, 1921</title> (New York: 1921), pp. 90-92</bibl>
-
 		</sourceDesc>
 		<respStmt>
 			<resp/>
 			<name/>
-
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
@@ -46,8 +45,10 @@
 				from="231277.xml">Closing Remarks</xref>"</p>
 		<index level1="conference" level2="American Birth Control Conference" level3="1921 (1st)"/>
 		<index level1="Sanger, Margaret" level2="philosophy"/>
+		<index level1="birth control" level2="history of"/>
+		<index level1="birth control" level2="propaganda and publicity"/>
 		<index level1="birth control movement" level2="goals and strategies"/>
-		<index level1="birth control movement" level2="American"/>
+		<index level1="birth control laws and legislation" level2="MS on"/>
 		<index level1="physicians" level2="and birth control"/>
 	</headNote>
 	<docBody>

@@ -7,6 +7,7 @@
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-08-17 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-10-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,46 +32,33 @@
 				Control Nov.1923</xref>;" "<xref from="305275.xml">Birth Control in China and
 				Japan</xref>" Feb. 1924 and "<xref from="300368.xml">The Birth Control Movement in
 					1923</xref>," April 1924.</p>
-		<index level1="abortion" level2="health risks"/>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="frequency of"/>
 		<index level1="American Birth Control League"/>
+		<index level1="abortion" level2="health risks"/>
 		<index level1="birth control" level2="access to"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="birth control" level2="distribution of information about"/>
-		<index level1="birth control" level2="health benefits and risks"/>
-		<index level1="birth control" level2="in marriages"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="birth control" level2="opposition to"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
-		<index level1="birth control" level2="suppression of"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control laws and legislation" level2="MS on"/>
 		<index level1="children" level2="unwanted"/>
-		<index level1="Europe" level2="MS on"/>
+		<index level1="censorship"/>
+		<index level1="family size" level2="and poverty"/>
 		<index level1="family size" level2="class-based"/>
 		<index level1="France" level2="birth rate in"/>
 		<index level1="Germany" level2="birth rate in"/>
-		<index level1="labor movement," level2="birth control and"/>
-		<index level1="mentally disabled and diseased" level2="birth control and"/>
-		<index level1="motherhood" level2="conscripted"/>
-		<index level1="mortality rates" level2="infant"/>
-		<index level1="mortality rates" level2="maternal"/>
-		<index level1="physicians" level2="birth control and"/>
-		<index level1="poverty" level2="family size and"/>
-		<index level1="pregnancy" level2="fears of"/>
-		<index level1="quackery"/>
-		<index level1="Sanger, Margaret" level2="biography"/>
-		<index level1="Sanger, Margaret" level2="nursing and"/>
+		<index level1="mentally diseased or disabled" level2="and family size"/>
+		<index level1="mortality rates" level2="infant" level3="American"/> 
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="population size" level2="and birth control"/>
+		<index level1="physicians" level2="and birth control"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
+		<index level1="sex education"/>
 		<index level1="Spain" level2="MS on"/>
-		<index level1="upper classes" level2="birth control and"/>
-		<index level1="women" level2="birth control and"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="women" level2="health of"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="working classes" level2="birth control and"/>
-		<index level1="working classes" level2="children"/>
-		<index level1="working classes" level2="fertility of"/>
-		<index level1="working classes" level2="living conditions of"/>
-		<index level1="working classes" level2="women and girls"/>
-	</headNote>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		</headNote>
 	<docBody>
 		<head>WOMAN AND BIRTH CONTROL</head>
 		<byline>By Margaret Sanger, 104 5th Ave., <place reg="New York, NY">New York
