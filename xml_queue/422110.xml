@@ -4,13 +4,14 @@
 	<mepHeader>
 		<prepDate>2015-08-18 CH transcribe and encode</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-10-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1921-11-12">12 Nov 1921</docDate>
 		<docTitle>
 			<titlePart>
-				<supplied resp="MSPP">Introduction to "War and Population" by Harold Cox</supplied>
+				<supplied resp="MSPP">Introduction to <title type="article">"War and Population"</title> by <person reg="Cox, Harold">Harold Cox</person></supplied>
 			</titlePart>
 		</docTitle>
 		<idno>msp422111</idno>
@@ -34,11 +35,11 @@
 				Session</xref>,""<xref from="229952.xml">The Use of the Pessary</xref>," "<xref
 				from="422111.xml">Comments</xref>," "<xref from="238254.xml">The Morality of Birth
 				Control</xref>," and "<xref from="231277.xml">Closing Remarks</xref>"</p>
+		<index level1="birth control" level2="international"/>
 		<index level1="Cox, Harold"/>
 		<index level1="conference" level2="American Birth Control Conference" level3="1921 (1st)"/>
-	</headNote>
+		</headNote>
 	<docBody>
-
 		<p>When we were planning for this conference, we recognized that it was vastly important to
 			bring to this conference some one who would guide our activities for the future. The
 			work that we have been able to do so far in the <place>United States</place> has been to

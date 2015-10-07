@@ -6,6 +6,7 @@
 		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-10-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -28,9 +29,10 @@
 				1924</xref>, <xref from="421009.xml">May 1924</xref>, and <xref from="421010.xml"
 				>June 1924</xref>.</p>
 		<index level1="client letters"/>
-		<index level1="birth control clinics and leagues" level2="legal status of"/>
+		<index level1="birth control clinics and leagues"/>
 		<index level1="child spacing"/>
-	</headNote>
+		<index level1="birth control laws and legislation" level2="state"/>
+	</headNote>`
 	<docBody>
 		<head>Margaret Sanger's Own Corner</head>
 		<div type="section">

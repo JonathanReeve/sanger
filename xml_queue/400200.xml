@@ -8,6 +8,7 @@
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-09 CH recheck tags</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-10-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,10 +32,11 @@
 						><person reg="Sanger, Grant">two fine boys</person></person> now in college
 				and a home life such as we like to think of as typical of the best in America</q>. </p>
 		<index level1="child labor"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="labor movement"/>
-		<index level1="women" level2="maternal feelings"/>
-	</headNote>
+		<index level1="women and girls" level2="maternal feelings"/>
+		<index level1="motherhood" level2="MS on"/>
+		</headNote>
 	<docBody>
 		<head>Modern Motherhood and Child Slavery</head>
 		<byline>By <person reg="Sanger, Margaret">MARGARET SANGER</person></byline>

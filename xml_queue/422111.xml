@@ -4,6 +4,7 @@
 	<mepHeader>
 		<prepDate>2015-08-18 CH transcribe and encode</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-01-07 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -39,12 +40,14 @@
 				from="422110.xml">Introduction for Harold Cox</xref>," "<xref from="238254.xml">The
 				Morality of Birth Control</xref>," and "<xref from="231277.xml">Closing
 				Remarks</xref>"</p>
+		<index level1="conference" level2="American Birth Control Conference" level3="1921 (1st)"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="birth control movement" level2="MS on"/>
 		<index level1="unfit to reproduce" level2="MS on"/>
 		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="overpopulation"/>
 	</headNote>
 	<docBody>
-
 		<p>I would say in answer to Miss Todd, and I appreciate her question, that she would like to
 			have every woman have the expression of motherhood and be allowed to have it, and that
 			today the economic conditions make it impossible for a great many women to have that
