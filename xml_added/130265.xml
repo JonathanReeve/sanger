@@ -5,16 +5,18 @@
 		<prepDate>2014/06/11 MM encode</prepDate>
 		<prepDate>2014-12-19 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-10-08 EK Update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-08-00">Aug 1916</docDate>
 		<docTitle>
-			<titlePart>Where the Blame Rests</titlePart>
+			<titlePart><title type="article">Where the Blame Rests</title></titlePart>
 		</docTitle>
 		<idno>msp130265</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control News</title>, Aug. 1916</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers, Library of Congress microfilm,</title> LCM 135:0215</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,10 +29,11 @@
 			likely taken from one of her appearances there. For another statement published in the
 			same journal see <xref from="130264.xml">Is Sex Discussion Obscene?</xref>, Aug.
 			1916.</p>
-		<index level1="abortion" level2="laws and legislation"/>
+		<index level1="abortion" level2="frequency of"/>
 		<index level1="abortion" level2="health risks"/>
-		<index level1="birth control" level2="lack of knowledge of"
-			level3="negative consequences of"/>
+		<index level1="abortion" level2="laws and legislation"/>
+		<index level1="birth control" level2="lack of knowledge of"/>
+		>/index>
 	</headNote>
 	<docBody>
 		<head>WHERE THE BLAME RESTS</head>

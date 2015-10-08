@@ -4,13 +4,15 @@
 	<mepHeader>
 		<prepDate>2014-06-10 CH transcribe</prepDate>
 		<prepDate>2014-12-18 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-05 CH clean up names</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-05 CH clean up names</prepDate>
+		<prepDate>2015-10-09 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1916-10-00">Oct 1916</docDate>
 		<docTitle>
-			<titlePart>Schools and Teachers</titlePart>
+			<titlePart><title type="article">Schools and Teachers</title></titlePart>
 		</docTitle>
 		<idno>msp320326</idno>
 		<sourceDesc>
@@ -30,12 +32,12 @@
 				1917</xref>, and <xref from="320090.xml">Feb. 1917</xref>. For an additional series
 			in the <title type="journal">Modern School</title>, see "<xref from="320328.xml">Modern
 				Schools in Spain</xref>," June 1918.</p>
+		<index level1="Spain" level2="Catholic Church in"/>
 		<index level1="Spain" level2="education in"/>
 		<index level1="Spain" level2="politics"/>
-		<index level1="Spain"/>
 		<index level1="Modern School Movement"/>
 		<index level1="Portet, Lorenzo"/>
-		<index level1="Ferrer, Francisco" level2="MS on"/>
+		<index level1="Ferrer, Francisco"/>
 		<index level1="Catholic Church" level2="MS on"/>
 		<index level1="children" level2="education of"/>
 	</headNote>

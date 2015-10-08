@@ -5,7 +5,9 @@
 		<prepDate>2014/05/21 CH initial transcription</prepDate>
 		<prepDate>2014-05-21 MM encode</prepDate>
 		<prepDate>2014-12-18 CH proof and enter tags</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<prepDate>2015-10-09 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -33,10 +35,18 @@
 			including: "<title type="article">Mrs. Sanger Says Moss Is Growing in the Birth
 				Law</title>," in <title type="journal">Wilkes-Barre Times</title>, Oct. 21, 1916, p.
 			1.</p>
-		<index level1="Brownsville Clinic" level2="raid and trials"/>
-		<index level1="Brownsville Clinic"/>
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="Brownsville Clinic" level2="publicity"/>
+		<index level1="Brownsville Clinic" level2="raid"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+		<index level1="birth control laws and legislation" level2="Federal"/>
 		<index level1="birth control" level2="morality of"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="birth control" level2="distribution of information"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="prostitution" level2="and birth control"/>
+		<index level1="New York" level2="birth control laws"/>
+		<index level1="Sanger, Margaret" level2="descriptions of"/>
 	</headNote>
 	<docBody>
 		<head>SPREAD BIRTH CONTROL</head>

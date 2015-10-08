@@ -5,6 +5,7 @@
 		<prepDate>2014/06/19 MM encode</prepDate>
 		<prepDate>2014-12-19 CH proof and enter tags</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-1009 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -15,7 +16,7 @@
 		<idno>msp130264</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control News</title>, Aug. 1916, p. 8</bibl>
-			<bibl>Library of Congress Microfilm 135:216A</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers, Library of Congress Microfilm,</title> 135:216A</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
