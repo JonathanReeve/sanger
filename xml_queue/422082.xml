@@ -6,6 +6,7 @@
 		<prepDate>2015-05-29 CH proof tags</prepDate>
 		<prepDate>2015-06-10 LH edits></prepDate>
 		<prepDate>2015-06-24 MC correct transcript</prepDate>
+		<prepDate>2015-10-15 EK enter corrections and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -26,8 +27,13 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
+		<index level1="birth control laws and legislation" level2="state" level3="NYS Criminal Code, Section 1142"/>
 		<index level1="Brownsville Clinic" level2="raid"/>
-		<index level1="Sanger, Margaret" level2="arrests, trials, and imprisonment"/>
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="Brownsville Clinic" level2="publicity"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+		<index level1="Sanger, Margaret" level2="on jails and prisons"/>
+		<index level1="law breaking and direct action" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<head>Mrs. Sanger, After Night in Jail, Has New Worries</head>
@@ -36,9 +42,9 @@
 				fight against rats and vermin in the <org>Raymond Street Jail</org>, Mrs. Margaret
 				Sanger, the birth-control advocate whose <org reg="Brownsville Clinic">clinic</org>
 				at 46 Amboy street was raided yesterday and who was placed under arrest for
-				violating section 1-142 of the <name type="law">Penal Laws,</name> today voiced her
-				defiance of the police and her somewhat uncomplimentary opinion of Mrs. Margaret
-				Whitehurst, the detective who placed her under arrest.</q>
+				violating section 1142 of the <name type="law">Penal Laws,</name> today voiced her
+				defiance of the police and her somewhat uncomplimentary opinion of Mrs. <person reg="Whitehurst, Margaret">Margaret
+				Whitehurst,</person> the detective who placed her under arrest.</q>
 		</p>
 		<p>
 			<q who="BDE"> Mrs. Sanger has just begun to fight, she says. As soon as the present
@@ -50,8 +56,8 @@
 				cell is located. She is in cell No. 1.</q>
 		</p>
 		<p>"I'm glad you came," <q who="BDE"> she said,</q> "but before we begin to discuss my
-			arrest I wish to tell you something. Please- for my sake and for the sakes of the other
-			women detained here- let me describe the horrible conditions of this jail. I do not see
+			arrest I wish to tell you something. Please--for my sake and for the sakes of the other
+			women detained here--let me describe the horrible conditions of this jail. I do not see
 			how the people of <place reg="Brooklyn, NY"> Kings County</place> can tolerate such
 			conditions. The blanket which covers my iron cot is dirty. Creatures of all manners and
 			kinds invaded my cell. They came in vast numbers. There is no soap with which to wash my
@@ -73,7 +79,7 @@
 		<p>"That woman detective is beyond me. Perhaps she did only her duty, but personally I would
 			rather scrub floors for my bread than earn it by fighting my sisters."</p>
 		<p>
-			<q who="BDE">Mrs. Sanger will talk with her counsel this afternoon and will arrange
+			<q who="BDE">Mrs. Sanger will talk with her <person reg="Goldstein, Jonah J.">counsel</person> this afternoon and will arrange
 				immediately for bail. She intended to remain in jail until the trial, but the
 				illness of Miss <person reg="Mindell, Fania">Fania Mindell</person>, her assistant,
 				who was arrested with her, has prompted her to abandon that plan and get bail

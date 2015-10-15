@@ -9,6 +9,7 @@
 		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-12 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-10-15 EK corrections and update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,20 +31,26 @@
 				reg="Drysdale, Bessie Ingham">Bessie Drysdale</person> was published as an article,
 			with a brief introduction by the <person reg="Kerr, Robert B.">editor</person> of the
 				<title type="journal">Malthusian</title>.</p>
-		<index level1="Family Limitation" level2="censorship of"/>
-		<index level1="Allison, Van Kleeck"/>
-		<index level1="birth control" level2="clinics and leagues" level3="formation of"/>
-		<index level1="birth control" level2="movememt"/>
-		<index level1="birth control" level2="opposition to"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="Sanger, Margaret" level2="arrests, trials and imprisonment"/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
 		<index level1="censorship"/>
-		<index level1="Michigan" level2="birth control in"/> equi <index level1="middle classes"
-			level2="birth control and"/>
-		<index level1="Missouri" level2="birth control in"/>
-		<index level1="Ohio" level2="birth control in"/>
+		<index level1="radicals and radicalism" level2="suppression of"/>
+		<index level1="free speech and free press"/>
+		<index level1="Sanger, Margaret" level2="speaking bans"/>
+		<index level1="Family Limitation"/>
+		<index level1="Family Limitation" level2="suppression of"/>
+		<index level1="birth control" level2="arrests, trials and imprisonment"/>
 		<index level1="Oregon" level2="birth control in"/>
-		<index level1="Sanger, Margaret " level2="speaking tours" level3="1916 (U.S.)"/>
-		<index level1="Wisconsin" level2="birth control in"/>
-	</headNote>
+		<index level1="Ohio" level2="birth control in"/>
+		<index level1="Massachusetts" level2="birth control in"/>
+		<index level1="Minnesota" level2="birth control in"/>
+		<index level1="Michigan" level2="birth control in"/>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="client letters"/>
+		<index level1="Catholic Church" level2="MS on"/>
+		</headNote>
 	<docBody>
 		<head>A "Birth Control" Lecture Tour.</head>
 		<byline>(EXTRACTS FROM A LETTER FROM MRS. MARGARET SANGER.)</byline>
@@ -201,7 +208,7 @@
 			was very earnest.</p>
 		<p>On my arrival in New York I found to my dismay another meeting before me. A young man
 			named <person reg="Allison, Van Kleeck">Van Kleick Allison</person>, of <place
-				reg="Boston, MA">Boston</place> Mass., had been arrested and just received a three
+				reg="Boston, MA">Boston,</place> Mass., had been arrested and just received a three
 			year sentence in the House of Correction for giving a detective a leaflet on Birth
 			Control. I wired him to have the case appealed. He did so. Then they had a protest
 			meeting in one of the theatres there, and I went to offer up my wee voice in that. It
