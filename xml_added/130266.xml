@@ -11,6 +11,7 @@
 		<prepDate>2007/06/25 CH Oxygen update</prepDate>
 		<prepDate>2014-03-07 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015=10-20 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -23,14 +24,21 @@
 		<idno>msp130266</idno>
 		<sourceDesc>
 			<bibl><title type="journal">Birth Control News</title>, July 1916, p. 3</bibl>
-			<bibl>Library of Congress Microfilm 135:213B</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers, Library of Congress Microfilm</title> LCM 135:0213B</bibl>
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="Spain" level2="MS on"/>
+		<index level1="birth control" level2="lack of knowledge of"/>
 		<index level1="birth control" level2="morality of"/>
-		<index level1="mortality rates" level2="infant"/>
-		<index level1="working classes" level2="women and girls"/>
+		<index level1="birth control" level2="rights associated with"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="women and girls" level2="working class"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
 		<index level1="birth control" level2="opposition to"/>
+		<index level1="sex education" level2="and birth control"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
 	</headNote>
 	<docBody>
 		<head>THE FIGHT FOR BIRTH CONTROL</head>

@@ -9,6 +9,7 @@
 		<prepDate>2011-03-11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014/03/13 EK clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-10-20 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,13 +31,15 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This is the second article in a three part series. For preceding article see "<xref
+		<p>This is the second article in a three-part series. For preceding article see "<xref
 				from="320329.xml">Modern Schools in Spain</xref>," May 1916; for following article
 			see "<xref from="320327.xml">Schools and Education in Spain</xref>," August 1916. For
 			draft version see LCM 130:126. </p>
+		<index level1="racial/ethnic references"/>
 		<index level1="Spain" level2="MS on"/>
-		<index level1="racial and ethnic references" level2="to Spaniards"/>
 		<index level1="Spain" level2="education in"/>
+		<index level1="Spain" level2="government"/>
+		<index level1="Modern School Movement"/>
 	</headNote>
 	<docBody>
 		<head>MODERN SCHOOLS IN SPAIN.</head>
