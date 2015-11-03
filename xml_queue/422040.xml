@@ -3,7 +3,9 @@
 <doc type="Published Interview">
 	<mepHeader>
 		<prepDate>2014-08-13 CH proof tags</prepDate>
-		<prepDate>2015-03-03 CH recheck tags</prepDate><prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-08-10 CH regularizing doc titles</prepDate>
+		<prepDate>2015-11-03 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -18,8 +20,8 @@
 		</docTitle>
 		<idno>msp422040</idno>
 		<sourceDesc>
-			<bibl><title type="article">Woman Rebel Scores Roosevelt as Enslaver of Mothers in
-					USA</title>, <title type="journal">Denver Post</title>, May 27, 1916</bibl>
+			<bibl><title type="article">Woman Rebel Scores <person reg="Roosevelt, Theodore">Roosevelt</person> as Enslaver of Mothers in
+				<place reg="United States">USA</place></title>, <title type="journal">Denver Post</title>, May 27, 1916, p. 4.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -28,14 +30,18 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>Sanger was interviewed at the Shirley Hotel before her lecture on "Birth Control" at the
-			Marble Hall.</p>
+		<p>Sanger was interviewed at the <org>Shirley Hotel</org> in <place>Denver, CO</place> at <org>Marble Hall</org>.</p>
+		<index level1="Roosevelt, Theodore"/>
 		<index level1="Woman Rebel, The"/>
+		<index level1="Woman Rebel The" level2="legal case"/>
+		<index level1="birth control laws and legislation" level2="Comstock  Laws"/>
 		<index level1="eugenics"/>
-		<index level1="Goldman, Emma"/>
+		<index level1="mentally diseased or disabled" level2="as social burdens"/>
 		<index level1="obscenity"/>
-		<index level1="overpopulation"/>
-		<index level1="poverty" level2="family size and"/>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="Sanger, Margaret" level2="descriptions of"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
 	</headNote>
 	<docBody>
 		<head>WOMAN REBEL SCORES ROOSEVELT AS ENSLAVER OF MOTHERS IN U.S.</head>
@@ -46,14 +52,12 @@
 			organization in the country has done."</p>
 		<p>
 			<q who="DP">This opinion of the leader of the <org reg="Progressive Party">Progressive
-					party</org> was expressed by Margaret Sanger, who has come to <place
-					reg="Denver, CO">Denver</place> on her tour of the cities of the country to
-				deliver a lecture on "<title type="article">Birth Control</title>" at <org
-					reg="Marble Hall">Marble hall</org> tomorrow evening.</q>
+					party</org> was expressed by Margaret Sanger, who has come to Denver on her tour of the cities of the country to
+				deliver a lecture on "Birth Control" at Marble hall tomorrow evening.</q>
 		</p>
 		<p>
 			<q who="DP">"The "woman rebel," as Mrs. Sanger is called and known, sat in a high-backed
-				chair in her room at the <org>Shirley hotel</org> this morning, looking like a
+				chair in her room at the Shirley hotel this morning, looking like a
 				picture of a demure, ultra-feminine gentlewoman more interested in darning socks
 				than defying the government.</q>
 		</p>
@@ -64,7 +68,7 @@
 		</p>
 		<p>
 			<q who="DP">When she left the usual path in which the women of her class are ordained to
-				walk by custom and tradition, Margaret Sanger chose the work of a nurse-a nurse to
+				walk by custom and tradition, Margaret Sanger chose the work of a nurse--a nurse to
 				the pitiful women of the slums of <place reg="New York, NY">New York</place> who
 				year by year add one more to the city's mass of hopeless human beings who are heirs
 				of poverty.</q>

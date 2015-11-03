@@ -11,6 +11,7 @@
 		<prepDate>2014-04-09 EK entered proofreading corrections</prepDate>
 		<prepDate>2014-02-22 CH added references to other 1916 speeches in the headnote.</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-11-03 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -25,7 +26,7 @@
 		<idno>msp236132</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collection</title>
 				S70:759</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -36,39 +37,49 @@
 		<p>During her <place>United States</place> tour, Margaret Sanger spoke three times in <place
 				reg="Chicago, IL">Chicago</place>, giving a speech called "Birth Control," at the
 				<org>West Side Auditorium</org> on April 25 and May 7, and at the <org>Little
-				Theater of Chicago</org> on Apr. 30. She was scheduled to appear before the Chicago
-			Woman's Club on Apr. 11, but the event was canceled because Sanger was perceived as too
+				Theater</org> of Chicago on April 30. She was scheduled to appear before the <org>Chicago
+					Woman's Club</org> on April 11, but the event was canceled because Sanger was perceived as too
 			controversial. For a newspaper report of Sanger's April 25 speech, see "<xref
 				from="321958.xml">Birth Control</xref>."</p>
 		<p>Sanger made many handwritten changes to the document which may have been the base text
 			for several of her appearances. In an effort to offer the most complete version
-			possible, the editors have opted to include all the text, even those paragraphs she may
+			possible, the editors have opted to include all the text, including those paragraphs she may
 			have omitted for some of appearances.</p>
 		<p>For other speeches given on that tour, see "<xref from="128002.xml">Woman and Birth
 				Control</xref>," "<xref from="101859.xml">Birth Control and Society</xref>,"
 			Apr.-June, 1916, and "<xref from="128003.xml">Condemnation is Misunderstanding</xref>,"
 			Apr.-Jun. 1916.</p>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="frequency of"/>
 		<index level1="abortion" level2="health risks"/>
-		<index level1="birth control" level2="access to"/>
+		<index level1="birth control" level2="rights associated with"/>
 		<index level1="birth control" level2="class-based"/>
-		<index level1="birth control" level2="health benefits and risks of"/>
+		<index level1="birth control" level2="health benefits and risks"/>
 		<index level1="birth control" level2="lack of knowledge of"/>
+		<index level1="birth control" level2="morality of"/>
 		<index level1="birth control" level2="natural law and"/>
+		<index level1="birth control laws and legislation" level2="MS on"/>
+		<index level1="birth control methods"/>
 		<index level1="birth control methods" level2="douche"/>
-		<index level1="birth control methods" level2="efficacy of"/>
+		<index level1="birth control methods" level2="pessaries"/>
 		<index level1="birth control methods" level2="safe period"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
-		<index level1="censorship"/>
+		<index level1="birth control methods" level2="withdrawal"/>	
+		<index level1="childbirth" level2="health risks"/>
 		<index level1="Christianity"/>
-		<index level1="men" level2="sexuality and"/>
+		<index level1="family size" level2="and poverty"/>	
+		<index level1="marriage" level2="age at"/>
+		<index level1="men and boys" level2="sex and sexuality"/>
 		<index level1="mortality rates" level2="infant"/>
-		<index level1="physicians" level2="birth control and"/>
+		<index level1="physicians" level2="and birth control"/>
 		<index level1="physicians" level2="MS on"/>
-		<index level1="sex education"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="working classes"/>
-	</headNote>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="sex and sexuality" level2="MS on"/>
+		<index level1="voluntary motherhood"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="sexuality of"/>
+		<index level1="working classes" level2="and family size"/>
+		</headNote>
 	<docBody>
 		<head rend="underline">Chicago Address to Women.</head>
 		<p>We are regimented by conventions. Habits and customs control us. We are ever afraid of
@@ -95,7 +106,7 @@
 			of <place reg="Athens, Greece">Athens</place>, his countrymen, recognized the INJUSTICE
 			of his sentence, and executed <emph rend="underline">his</emph> accuser. Socrates
 			thereby became a demi-god.</p>
-		<p><person>Jesus Christ</person> was crucified because he attempted to SUPERCEDE the ritual
+		<p><person reg="Jesus Christ (deity)">Jesus Christ</person> was crucified because he attempted to SUPERCEDE the ritual
 			of <person reg="Moses (Biblical)">Moses</person>. As time rolled on the opinions of men
 			CHANGED until Christianity became an established dogma which it meant DEATH to dispute.
 			Though he who does dispute it may be imprisoned, slandered and persecuted, if he has
@@ -119,7 +130,7 @@
 			time to be a mother or not as she sees fit. And women of today REBEL against spending
 			the whole of their adult lives in bringing children into the world. Out of this
 			rebellion, out of this impulse, out of this desire <add>for voluntary motherhood</add>
-			has risen the Birth Control movement in the United States.</p>
+			has risen the Birth Control movement in the <place>United States</place>.</p>
 		<p> I believe that this is the <del><emph rend="underline">first</emph> great movement since
 				the Civil War,<add>most revolutionary movement of the day</add> and THE MOST
 				IMPORTANT ISSUE of the Twentieth Century. Its advocates <add>too</add> have been

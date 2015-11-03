@@ -7,16 +7,20 @@
 		<prepDate>05/09/2012 AW Corrected Tags</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
+		<prepDate>2015-10-22 EK/GG proof transcription</prepDate>
+		<prepDate>2015-11-03 EK correct transcription + update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
 		<docDate value="1924-12-00">Dec 1924</docDate>
 		<docTitle>
-			<titlePart>Editorial</titlePart>
+			<titlePart>
+				<supplied resp="MSPP">Editorial on Birth Control in England</supplied>
+			</titlePart>
 		</docTitle>
 		<idno>msp226797</idno>
 		<sourceDesc>
-			<bibl><title type="journal">Birth Control Review</title>, Dec. 1924, pp. 339-40</bibl>
+			<bibl><title type="article">"Editorial</title>, <title type="journal">Birth Control Review</title>, Dec. 1924, pp. 339-40</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
 				S70:1056</bibl>
 		</sourceDesc>
@@ -26,13 +30,16 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="England" level2="MS on"/>
+		<index level1="England" level2="birth control clinics"/>
 		<index level1="England" level2="birth control in"/>
-		<index level1="England" level2="clinics in"/>
-		<index level1="birth control" level2="support for"/>
+		<index level1="England" level2="MS on"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>
+		<index level1="birth control laws and legislation" level2="Comstock  Laws"/>
+		<index level1="birth control" level2="rights associated with"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
 	</headNote>
 	<docBody>
-		<head>Editorial</head>
+		<head>EDITORIAL</head>
 		<p>To revisit <place reg="London, England">London</place>, after an absence of two years, is
 			nothing less than an inspiration. From an intellectual and spiritual point of view,
 			London to me seems almost like a fountain of youth. One's flagging enthusiasms are
@@ -53,8 +60,7 @@
 			convenient. She then awaits her turn for advice. Due to the fact that the instruction
 			and ensuing benefits may be shared by all, the physicians in charge are not compelled to
 			undertake a general health examination and to find a special or exceptional cause to
-			undertake the instruction. For this reason, there is no invasion of personal freedom and
-			reason, there is no invasion of personal freedom and the sense of parental
+			undertake the instruction. For this reason, there is no invasion of personal freedom and the sense of parental
 			responsibility is encouraged instead of discouraged. It is the mother herself, awakened
 			to this need of self-mastery and self-reliance, who makes the decision. The Walworth
 			Clinic, so splendidly organized and carried on, stands ready to serve these mothers and
@@ -73,7 +79,7 @@
 			having proved its value and its practical importance, other clinics are now in the
 			course of being organized. For the success of the Walworth Center, the committee in
 			charge is mainly responsible for its splendid management and organization. This
-			committee consists of Mrs. <person reg="Fuller, Margaret">Fuller</person>, Hon. Mrs.
+			committee consists of Mrs. <person reg="Fuller, Evelyn">Fuller</person>, Hon. Mrs.
 				<person reg="Murray, Evelyn Graham">Graham Murray</person>, Lord <person
 				reg="Westley, Gerald">Gerald Westley</person> and our friend <person
 				reg="Cox, Harold">Harold Cox</person>. Mr. <person reg="Sumner, John S."

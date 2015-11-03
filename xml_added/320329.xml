@@ -10,14 +10,15 @@
 		<prepDate>2011-03-11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014/03/13 EK clean regs</prepDate>
 		<prepDate>2015-01-29 EK correct proofs</prepDate>
+		<prepDate>2015-11-03 EK update index</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1916-05-00">May 1916</docDate>
 		<docTitle>
-			<titlePart><supplied resp="MSPP">Modern Schools in Spain, Part I</supplied></titlePart>
+			<titlePart>Modern Schools in Spain, Part I</titlePart>
 		</docTitle>
 		<idno>msp320329</idno>
 		<sourceDesc>
-			<bibl><title>Modern School</title>, May 1916, pp. 5-9.</bibl>
+	<bibl><title type="article">Modern Schools in Spain, Part I</title>, <title type="journal">Modern School</title>, May 1916, pp. 5-9.</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -27,18 +28,20 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>This article was the first of a three-part series. For following articles see "<xref
+		<p>This article was the first of a three-part series. For next two articles see "<xref
 				from="320328.xml">Modern Schools in Spain</xref>," June 1916 and "<xref
 				from="320327.xml">Schools and Education in Spain</xref>," Aug. 1916. For draft
 			version see Library of Congress Microfilm 130:126.</p>
-		<index level1="Spain" level2="MS on"/>
-		<index level1="Ferrer, Francisco"/>
-		<index level1="Spain" level2="Catholic Church in"/>
-		<index level1="Modern School Movement" level2="in Spain"/>
-		<index level1="Spain" level2="MS on"/>
-		<index level1="racial and ethnic references" level2="to Jews"/>
+		<index level1="Catholic Church" level2="MS on"/>
+		<index level1="Catholic Church" level2="political influence of"/>
 		<index level1="Spain" level2="education in"/>
-		<index level1="Spain" level2="government of"/>
+		<index level1="Spain" level2="MS on"/>
+		<index level1="Spain" level2="Catholic Church in"/>
+		<index level1="Spain" level2="government"/>
+		<index level1="Ferrer, Francisco"/>
+		<index level1="Modern School Movement"/>
+		<index level1="racial and ethnic references" level2="to Jews"/>
+				
 	</headNote>
 	<docBody>
 		<head>MODERN SCHOOLS IN SPAIN.</head>

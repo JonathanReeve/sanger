@@ -10,6 +10,7 @@
 		<prepDate>2011-11-30 CH correct typo</prepDate>
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-11=03 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -27,13 +28,23 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>THis is the second article in a two-part series. For the first article see <xref
-				from="320267.xml">Tell Girls Things They Should Know</xref>, June 9, 1916.</p>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="birth control" level2="morality and"/>
+		<p>This is the second in a two-part series. For the first article see <xref
+			from="320267.xml"><title type="article">Tell Girls Things They Should Know</title></xref>, June 9, 1916.</p>
+		<index level1="abortion" level2="frequency of"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1916 (U.S.)"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="birth control" level2="lack of knowledge of"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control laws and legislation" level2="MS on"/>
 		<index level1="family size"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
-		<index level1="morality" level2="infant"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="mortality rates" level2="maternal" level3="American"/>
+		<index level1="motherhood"  level2="MS on"/>
+		<index level1="race progress"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="enslavement of"/>
 	</headNote>
 	<docBody>
 		<head>PROLIFIC CHILD-BREEDING SCORED BY MRS. SANGER</head>

@@ -4,7 +4,9 @@
 	<mepHeader>
 		<prepDate>2015-01-06 CH transcribed and encoded</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
-		<prepDate>2015-08-05 CH clean up index</prepDate><prepDate>2015-08-10 CH regularize doc title</prepDate>
+		<prepDate>2015-08-05 CH clean up index</prepDate>
+		<prepDate>2015-08-10 CH regularize doc title</prepDate>
+		<prepDate>2015-11-03 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -17,7 +19,7 @@
 		</docTitle>
 		<idno>msp321957</idno>
 		<sourceDesc>
-			<bibl><title type="article">Birth Control Expounded Here</title><title type="journal"
+			<bibl><title type="article">Birth Control Expounded Here,</title> <title type="journal"
 					>Indianapolis Star</title>, May 16, 1916, p. 5.</bibl>
 		</sourceDesc>
 		<respStmt>
@@ -30,37 +32,43 @@
 		<p>Sanger delivered this speech during the <org>National Conference of Charities and
 				Correction</org>, held at the <org>Claypool Hotel</org> in <place
 				reg="Indianapolis, IN">Indianapolis</place>. </p>
+		<index level1="abortion" level2="laws and legislation"/>
+		<index level1="abortion" level2="MS on"/>
 		<index level1="birth control" level2="class-based"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control clinics and leagues" level2="educational benefits"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="birth rate" level2="differential"/>
+		<index level1="family size" level2="and poverty"/>
 		<index level1="mortality rates" level2="infant"/>
 		<index level1="mortality rate" level2="maternal"/>
 		<index level1="motherhood" level2="MS on"/>
-		<index level1="poverty" level2="family size and"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
+		<index level1="New Zealand" level2="birth control in"/>
+		<index level1="physicians" level2="and birth control"/>
 		<index level1="prostitution"/>
 		<index level1="race suicide"/>
-		<index level1="Sanger, Margaret" level2="speaking tour, 1916 (U.S.)"/>
-		<index level1="women" level2="employment of"/>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="women" level2="health of"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="working classes" level2="birth control and"/>
+		<index level1="Sanger, Margaret" level2="tours, 1916 (U.S.)"/>
+		<index level1="women and girls" level2="employment of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="health of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="working classes" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>Birth Control Expounded Here</head>
 		<head type="sub">Indianapolis Women Flock to Hear Mrs. Margaret Sanger and Hiss Opponents to
 			Practice at End of Meeting</head>
 		<div type="section">
-
 			<p>
 				<q who="IS">It would seem that many Indianapolis women are in favor of birth
 					control, as advocated by Mrs. Margaret Sanger, of <place reg="New York, NY">New
 						York</place>, judging from the way they hooted, hissed and ridiculed with
 					penetrating feminine giggles the efforts of a few scattered "antis" who
 					endeavored to make themselves heard at the close of Mrs. Sanger's lecture
-					yesterday afternoon.</q>
-			</p>
-			<p>
-				<q who="IS">It was a vast crowd of women, with a few men scattered here and there,
-					that thronged into the assembly room at the Claypool Hotel to hear Mrs. Sanger.
+					yesterday afternoon.</q>			</p>
+			<p><q who="IS">It was a vast crowd of women, with a few men scattered here and there,
+					that thronged into the assembly room at the <org>Claypool Hotel</org> to hear Mrs. Sanger.
 					They filled every seat and all the aisles; they rested on window sills and on
 					tables and sat on the floor. Some of them may have been there merely out of
 					curiosity to hear Mrs. Sanger, who has been arrested for spreading her
@@ -71,11 +79,9 @@
 					movement, and of what it would mean to the working women, especially if the law
 					would consent to their becoming possessed of necessary information.</q>
 			</p>
-
 		</div>
 		<div type="section">
 			<head type="sub">Distinct from Conference</head>
-
 			<p>
 				<q who="IS">The address of Mrs. Sanger was not under the auspices of the National
 					Conference of Charities and Correction, and was not on the official program of
@@ -114,7 +120,7 @@
 				eight or nine children, who were unable to care for the children once they had
 				brought them into the world In the large cities the birth rate of the wealthy
 				districts is about one-third of that of the poorer districts, and my experience has
-				been taht a women living on a wage of $10 a week does not desire a large family;
+				been that a women living on a wage of $10 a week does not desire a large family;
 				when she has three or four children, she is in constant terror that another may
 				come, and when the laws forbid her to be given knowledge on how to prevent this, she
 				is forced into the hands of quacks and midwives. When the practice of performing
