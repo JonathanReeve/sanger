@@ -7,7 +7,9 @@
 		<prepDate>05/08/2012 AW Corrected Tags</prepDate>
 		<prepDate>2014-04-09 CH clean regs</prepDate>
 		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
-		<prepDate>2015-03-09 CH recheck tags</prepDate><prepDate>2015-08-13 CH regularizing doc titles</prepDate>
+		<prepDate>2015-03-09 CH recheck tags</prepDate>
+		<prepDate>2015-08-13 CH regularizing doc titles</prepDate>
+		<prepDate>2015-11-03 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -21,7 +23,7 @@
 		<idno>msp143237</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 122:9</bibl>
+			<bibl>Library of Congress Microfilm LCM122:0009</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -33,18 +35,38 @@
 	<headNote resp="MSPP">
 		<p>With this address, Sanger opened the <org>Middle Western States Birth Control
 				Conference</org>, held in <place reg="Chicago, IL">Chicago</place> at the <org>Drake
-				Hotel</org>. Additions were made by Margaret Sanger by hand. The chair of the
-			meeting was <person reg="Bridges, Horace">Horace Bridges</person>.</p>
-		<index level1="Sanger, Margaret" level2="biography"/>
-		<index level1="Sanger, Margaret" level2="speaking tour, 1922 (Japan)"/>
+				Hotel</org>. Handwritten additions by Sanger. The chair of the meeting was <person reg="Bridges, Horace">Horace Bridges</person>.</p>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="Sanger, Margaret" level2="biographical details"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (China)"/>
+		<index level1="Sanger, Margaret" level2="tours, 1922 (Japan)"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
+		<index level1="Sanger, Margaret" level2="family of"/>
+		<index level1="Sanger, Margaret" level2="exile, 1914-15"/>
+		<index level1="conferences" level2="International Neo-Malthusian and Birth Control Conference" level3="1922 (5th)"/>
+		<index level1="family size" level2="and poverty"/>
+		<index level1="family size" level2="class-based"/>
+		<index level1="family size" level2="MS on"/>
+		<index level1="neo-Malthusianism"/>
 		<index level1="birth control movement" level2="history of"/>
 		<index level1="birth control movement" level2="goals and strategies"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="birth control" level2="as a term"/>
+		<index level1="birth control" level2="history of"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="child labor"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
 		<index level1="Woman Rebel, The"/>
 		<index level1="birth control laws and legislation" level2="Comstock  Laws"/>
+		<index level1="Japan" level2="MS in"/>
+		<index level1="Japan" level2="birth control in"/>
 		<index level1="Brownsville Clinic"/>
-		<index level1="birth control clinics and leagues"/>
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="birth control clinics and leagues" level2="need for"/>/>
+		<index level1="birth control clinics and leagues" level2="establishment of"/>
+		<index level1="physicians" level2="and birth control"/>
+		<index level1="client letters"/>
+		<index level1="race progress"/>
 	</headNote>
 	<docBody>
 		<head>Address of Welcome</head>
@@ -296,7 +318,7 @@
 			I went to <place>Europe</place>, I went to England, to France, to Holland, to
 				<place>Spain</place>, and I studied in the <org>British Museum</org> from the time
 			the gates opened, which was 9:00 o'clock, until 7:00 o'clock at night, for more than
-			eight hours. I went to Holland and took a course of instruction. I went to Spain to see
+			eight hours. I went to Holland and took a course of instruction. I went to <place>Spain</place> to see
 			what they were doing there. I went to France, and studied this subject from away back to
 			the time of <person reg="Bonaparte, Napoleon">Napoleon</person>.</p>
 		<p>So I came back equipped, not only with information but also with such distinguished men
@@ -377,7 +399,7 @@
 		<p>So those first years, with agitation, it meant imprisonment, jail, hunger strikes, it
 			meant meetings being stopped, it meant everything that was disagreeable, most
 			disagreeable. And then we began, from 1917 to 1922, a course of education. We had been
-			able to have some books and pamphlets reprinted. We established a magazine to carry
+			able to have some books and pamphlets reprinted. We established a <title reg="Birth Control Review">magazine</title> to carry
 			forth this message, and it jumped from 2,000 the first year to 10,000 within two years.
 			This has conveyed the message for our association or our league. We have since that time
 			created practically a literature in the United States. I do not mean that we personally
@@ -385,7 +407,7 @@
 			an entirely new literature which was not in existence when we began in 1914.</p>
 		<p>From 1922 to 1925 is to be a special time for organization. Just a few years ago, after
 			that first little league had broken up on account of the war, we again formed another
-			league, which <del>was</del>
+			<org reg="American Birth Control League">league</org>, which <del>was</del>
 			<add>is</add> a national league with its headquarters in New York City. From that we
 			have gone out and organized similar leagues all over the world. We have a branch league
 			in <place>Canada</place>, another in <place>Mexico</place>, another in <place
@@ -410,7 +432,7 @@
 				Francisco</place>. When I reached San Francisco and applied for a visa to my
 			passport, I was told most courteously by the <org reg="Japan Consulate">Japanese
 				Counsel</org> that that morning he had received a cable from his home office saying
-			that if Mrs. Sanger, the birth control advocate, applied for a passage to Japan, that it
+			that if Mrs. Sanger, the birth control advocate, applied for a passage to <place>Japan</place>, that it
 			was to be refused her. So then I asked if it were possible to go without delivering the
 			lectures, and he cabled back, and back again came the world "<q who="UNK">No.</q>" So it
 			seemed for a time as if it were impossible to get into Japan.</p>
@@ -466,7 +488,7 @@
 			<add>quickly</add>
 			<del>act</del>
 			<add>acted</add> upon <del>it so quickly</del>.</p>
-		<p>From China I went to London to attend the <org
+		<p>From China I went to <place reg="London, England">London</place> to attend the <org
 				reg="International Neo-Malthusian and Birth Control Conference, 5th">International
 				Conference</org>, and there it was indeed a most inspiring occasion, because there
 			were delegates there from every country in Europe. There were such men as Lord Dawson

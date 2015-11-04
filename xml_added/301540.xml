@@ -6,7 +6,7 @@
 		<prepDate>21014-04-16 EK clean regs</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
-
+		<prepDate>2015-11-04 EK index update</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -27,23 +27,24 @@
 		</respStmt>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<p>For a reprint by the American Birth Control League in 1925, see <title type="book"
+		<p>For a 1925 reprint by the American Birth Control League, see <title type="mf"
 				>Margaret Sanger Microfilm: Collected Documents</title>, C16:273.</p>
 		<index level1="abortion"/>
-		<index level1="American Birth Control League"/>
+		<index level1="abortion" level2="frequency of"/>
 		<index level1="birth control" level2="and marriage"/>
 		<index level1="birth control" level2="medically controlled"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
 		<index level1="child spacing"/>
 		<index level1="child welfare"/>
-		<index level1="eugenics"/>
+		<index level1="population size" level2="and food supply"/>
 		<index level1="marriage" level2="MS on"/>
-		<index level1="&quot;feeble-minded&quot; persons" level2="allowed to reproduce"/>
-		<index level1="poverty" level2="family size and"/>
-		<index level1="population growth"/>
+		<index level1="marriage" level2="age at"/>
+		<index level1="mentally diseased or disabled" level2="unfit to reproduce"/>
+		<index level1="family size" level2="and poverty"/>
 		<index level1="pregnancy" level2="health risks"/>
-		<index level1="sex education" level2="birth control and"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="venereal disease"/>
 	</headNote>
 	<docBody>
 		<head>The Case for Birth Control</head>
