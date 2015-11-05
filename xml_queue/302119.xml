@@ -9,6 +9,7 @@
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-03 CH recheck tags</prepDate>
+		<prepDate>2015-11-05 EK index updates</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -20,7 +21,7 @@
 		<sourceDesc>
 			<bibl><title type="journal">The Modern School</title>, Nov.-Dec. 1916, 136-149</bibl>
 			<bibl><title type="mf">Margaret Sanger Microfilm, Collected Documents Series</title>
-				C16:93</bibl>
+				C16:0093</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -32,17 +33,16 @@
 		<p>This is the first of a three-part series. For remaining articles see "Portet and Ferrer,"
 				<xref from="302120.xml">Jan. 1917</xref> and <xref from="302090.xml">Feb.
 				1917</xref>. For a draft version, see Library of Congress Microfilm 130:366.</p>
-		<index level1="anarchism and anarchists" level2="MS on"/>
-		<index level1="anarchism and anarchists" level2="in Spain"/>
+		<index level1="anarchism and anarchists"/>
 		<index level1="censorship"/>
-		<index level1="Cuba" level2="political conditions in"/>
 		<index level1="Ferrer, Francisco"/>
 		<index level1="free speech and free press"/>
-		<index level1="Modern School movement" level2="in Spain"/>
+		<index level1="Modern School Movement"/>
 		<index level1="Portet, Lorenzo"/>
-		<index level1="Spain" level2="political conditions in"/>
-		<index level1="Spain" level2="anticlericalism in"/>
-		<index level1="education" level2="in Spain"/>
+		<index level1="Spain" level2="education in"/>
+		<index level1="Spain" level2="government"/>
+		<index level1="Spain" level2="MS on"/>
+		<index level1="Spain" level2="politics"/>
 	</headNote>
 	<docBody>
 		<head>PORTET AND FERRER.</head>
