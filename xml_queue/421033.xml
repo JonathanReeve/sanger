@@ -6,6 +6,7 @@
 		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-11-05 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -37,7 +38,7 @@
 		<index level1="birth control” level2=”opposition to"/>
 		<index level1="birth control" level2="neo-Malthusian arguments for"/>
 		<index level1="birth control" level2="religion and"/>
-		<index level1="food supply"/>
+		<index level1="population growth" level2="and food supply"/>
 		<index level1="population growth" level2="natural resources and"/>
 	</headNote>
 	<docBody>

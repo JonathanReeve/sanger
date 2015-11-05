@@ -9,6 +9,7 @@
 		<prepDate>2015-01-21 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
+		<prepDate>2015-11-05 EK  update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -35,25 +36,24 @@
 				from="306006.xml">Woman and Birth Control</xref>, Dec. 1924. For the next article
 			see <xref from="300368.xml">The Birth Control Movement in 1923</xref>, Apr. 1924; the
 			fourth article was not found.</p>
-		<index level1="poverty"/>
-		<index level1="population" level2="birth control and"/>
-		<index level1="birth control" level2="movement" level3="history of"/>
-		<index level1="birth control" level2="laws and legislation" level3="Japan"/>
-		<index level1="birth control" level2="opposition to"/>
-		<index level1="Japan" level2="birth control in"/>
-		<index level1="women" level2="gender roles and"/>
-		<index level1="physicians"/>
-		<index level1="birth control" level2="methods" level3="instructions"/>
-		<index level1="Japan" level2="women in"/>
-		<index level1="labor movement," level2="birth control and"/>
-		<index level1="birth control" level2="clinics and leagues"/>
 		<index level1="China" level2="birth control in"/>
+		<index level1="China" level2="birth control clinics"/>
+		<index level1="China" level2="MS in"/>
+		<index level1="China" level2="MS on"/>
+		<index level1="Japan" level2="MS in"/>
+		<index level1="Japan" level2="politics in"/>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="Japan" level2="women in"/>
+		<index level1="Korea" level2="MS in"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (China)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Japan)"/>
+		<index level1="Sanger, Margaret" level2="tours" level3="1922 (Korea)"/>
 	</headNote>
 	<docBody>
 		<head>BIRTH CONTROL AND CHINA AND JAPAN</head>
 		<byline>by Margaret Sanger</byline>
 		<dateline><place reg="New York, NY">104 Fifth Ave., New York City</place></dateline>
-		<p><supplied resp="MSPP">It </supplied>is not only in the <place>United States</place>
+		<p><supplied resp="MSPP">It</supplied> is not only in the <place>United States</place>
 			<supplied resp="MSPP">that</supplied> there is need for Birth Control. On the contrary,
 			there are countries which need it far more than we do, countries where overcrowding and
 			poverty sweep millions of babies out of existence, and where life is a bare struggle for
