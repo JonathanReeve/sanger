@@ -93,3 +93,8 @@ Links may be made to our site (though we wish to be notified), but under no circ
 <p>We are using a subset of XML created for Humanities text, called <a href="http://www.tei-c.org/index.xml">(TEI)">TEI</a>; within that we are using a subset created documentary electronic editions, called <a href="http://wyatt.elasticbeanstalk.com/mep/editors.html">MEP</a>, the Standardized General Markup Language <a href="https://en.wikipedia.org/wiki/XML">(XML)</a>. We used <a href="http://www.oxygenxml.com/doc/versions/17.1/ug-editor/index.html#introduction.html#introduction">Oxygen</a> as our tagging software. 
 </body>
 </html>
+
+</div>
+</div>
+
+<hr>
