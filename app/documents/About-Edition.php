@@ -5,7 +5,7 @@
 <head>
 	<title>The Public Writings of Margaret Sanger: Web Edition</title> 
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-		<link href="styles.css" rel="stylesheet" type="text/css" />
+		<link href="http://sangerpapers.org/sanger/app/documents/styles.css" rel="stylesheet" type="text/css" />
 		<script language="JavaScript" type="text/JavaScript">
 
 <!--
@@ -26,31 +26,32 @@ ga('send', 'pageview');
 
 </script>
 </head>
+<body onload="MM_preloadImages('../images/header_r2_c1_f2.gif','../images/header_r2_c2_f2.gif','../images/header_r2_c3_f2.gif','../images/header_r2_c4_f2.gif','../images/header_r2_c5_f2.gif')">
+<div id="container" style="width: 626px; margin: 0px auto;">
+<p align="center" style="margin top: 0px; margin-bottom: 0px;">
+<img id="header_r1_c1" src="../../../../Pictures/Documents/GitHub/sanger/header_r1_c1.gif" width="625" height="95" alt="" /><img src="http://sangerpapers.org/sanger/app/images/spacer.gif" width="1" height="95 alt="" />
+</p>
+<p align="center" style="margin-top: 0px; /*\*/margin-top: -3px;/**/"></p>
 
-	<body
-onload="MM_preloadImages('../images/header_r2_c1_f2.gif','../images/header_r2_c2_f2.gif','../images/header_r2_c3_f2.gif','../images/header_r2_c4_f2.gif','../images/header_r2_c5_f2.gif')">
-<div id="container" style="width: 626px; margin: 0px auto;"> 
-<p align="center" style="margin-top: 0px; margin-bottom: 0px;">
-  <img id="header_r1_c1" src="http://sangerpapers.org/sanger/app/images/header_r1_c1.gif" width="625" height="95" /><img src="http://sangerpapers.org/sanger/app/images/spacer.gif" width="1" height="95" alt="" /></p>
-<p align="center" style="margin-top: 0px; /*\*/margin-top: -3px;/**/">
-	<a href="http//sangerpapers.org/sanger/app/documents/aboutproject.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c1','','http://sangerpapers.org/sanger/app/images/header_r1_c1.gif/images/header_r2_c1_f2.gif',1)">
-	<img id="header_r2_c1" src="http://sangerpapers.org/sanger/app/images/header_r2_c1.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/documents/electroniced.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c2','','http://sangerpapers.org/sanger/app/images/header_r2_c2_f2.gif',1)">
-	<img id="header_r2_c2" src="http://sangerpapers.org/sanger/app/images/header_r2_c2.gif" width="104" height="20" alt="" /></a><a href="http://sangerpapers.org/sanger/documents/search.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c3','','../images/header_r2_c3_f2.gif',1)">
-	<img id="header_r2_c3" src="http://sangerpapers.org/sanger/app/images/header_r2_c3.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c4','','../images/header_r2_c4_f2.gif',1)">
-	<img id="header_r2_c4" src="http://sangerpapers.org/sanger/app/images/header_r2_c4.gif" width="104" height="20" alt="" /></a><a href="http//sangerpapers.org/sanger/docuemnts/contactus/index.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c5','','../images/header_r2_c5_f2.gif',1)">
-	<img id="header_r2_c5" src="http://sangerpapers.org/sanger/app/images/header_r2_c5.gif" width="104" height="20" alt="" /></a>
-	<img id="header_r2_c6" src="http://sangerpapers.org/sanger/app/images/header_r2_c6.jpg" width="105" height="20" alt="" /><img src="http://sangerpapers.org/sanger/app/images/spacer.gif" width="1" height="20" alt="" /> 
+	<p align="center" style="margin top: /*\*/margin-top: -3px;/**/"> <a href="http//sangerpapers.org/sanger/app/documents/aboutproject.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c1','','http://sangerpapers.org/sanger/app/images/header_r1_c1.gif/images/header_r2_c1_f2.gif',1)">
+	<img id="header_r2_c1" src="../../../../Pictures/Documents/GitHub/sanger/header_r2_c1_f2.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/documents/electroniced.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c2','','http://sangerpapers.org/sanger/app/images/header_r2_c2_f2.gif',1)">
+	<img id="header_r2_c2" src="../../../../Pictures/Documents/GitHub/sanger/header_r2_c2.gif" width="104" height="20" alt="" /></a><a href="http://sangerpapers.org/sanger/documents/search.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c3','','../images/header_r2_c3_f2.gif',1)">
+	<img id="header_r2_c3" src="../../../../Pictures/Documents/GitHub/sanger/header_r2_c3.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c4','','../images/header_r2_c4_f2.gif',1)">
+	<img id="header_r2_c5" src="../../../../Pictures/Documents/GitHub/sanger/header_r2_c5.gif" width="104" height="20" alt="" /></a>
+	<img id="header_r2_c6" src="../../../../Pictures/Documents/GitHub/sanger/spacer.gif" width="1" height="1" alt="" /><img src="http://sangerpapers.org/sanger/app/images/spacer.gif" width="1" height="20" alt="" /> 
 </p>
 <div class="outBox">
-	<div class="inBox">
+	<div class="docBox">
 <body>
 </p>
+<div align="center"></div>
+</div>
 
 <!-- content goes in here //-->
 
 <div class="inBox">
 	<div class="inBox">
-<h1 align="center">About the Edition</h1>
+        <h1 align="center">About the Edition</h1>
 <h2>The Collection</h2>
 <body>
 <p><em>The Speeches and Articles of Margaret Sanger (1911-1959)</em>, is a web-based edition of Sanger’s  writings, including articles, pamphlets, speeches, stories, and interviews, 
