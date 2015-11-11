@@ -25,13 +25,23 @@ ga('create', 'UA-66075818-1', 'auto');
 ga('send', 'pageview');
 
 </script>
-</head>
+<style type="text/css">
+<!--
+body,td,th {
+	color: #000000;
+}
+body {
+	background-color: #990000;
+	background-image: url(../../../../Pictures/Documents/GitHub/sanger/docbg.jpg);
+}
+-->
+</style></head>
 <body onload="MM_preloadImages('../images/header_r2_c1_f2.gif','../images/header_r2_c2_f2.gif','../images/header_r2_c3_f2.gif','../images/header_r2_c4_f2.gif','../images/header_r2_c5_f2.gif')">
 <div id="container" style="width: 626px; margin: 0px auto;">
 <p align="center" style="margin top: 0px; margin-bottom: 0px;">
 <img id="header_r1_c1" src="../../../../Pictures/Documents/GitHub/sanger/header_r1_c1.gif" width="625" height="95" alt="" /><img src="http://sangerpapers.org/sanger/app/images/spacer.gif" width="1" height="95 alt="" />
 </p>
-<p align="center" style="margin-top: 0px; /*\*/margin-top: -3px;/**/"></p>
+<p align="left" style="margin-top: 0px; /*\*/margin-top: -3px;/**/"></p>
 
 	<p align="center" style="margin top: /*\*/margin-top: -3px;/**/"> <a href="http//sangerpapers.org/sanger/app/documents/aboutproject.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c1','','http://sangerpapers.org/sanger/app/images/header_r1_c1.gif/images/header_r2_c1_f2.gif',1)">
 	<img id="header_r2_c1" src="../../../../Pictures/Documents/GitHub/sanger/header_r2_c1_f2.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/documents/electroniced.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c2','','http://sangerpapers.org/sanger/app/images/header_r2_c2_f2.gif',1)">
@@ -80,6 +90,6 @@ follows: LCM (Library of Congress microfilm), MSM (“S” for Smith College Collect
 <p>Please note: These transcriptions have been mounted for research purposes only and the Sanger Project requests that Sanger Project URL be used when referring to any of these materials. 
 Links may be made to our site (though we wish to be notified), but under no circumstances are the transcriptions to be copied and mounted onto another server without express permission.</p>
 <h2>Encoding</h2>
-<p></p>
+<p>We are using a subset of XML created for Humanities text, called <a href="http://www.tei-c.org/index.xml">(TEI)">TEI</a>; within that we are using a subset created documentary electronic editions, called <a href="http://wyatt.elasticbeanstalk.com/mep/editors.html">MEP</a>, the Standardized General Markup Language <a href="https://en.wikipedia.org/wiki/XML">(XML)</a>. We used <a href="http://www.oxygenxml.com/doc/versions/17.1/ug-editor/index.html#introduction.html#introduction">Oxygen</a> as our tagging software. 
 </body>
 </html>
