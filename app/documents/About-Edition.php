@@ -36,7 +36,9 @@ body {
 	background-image: url(../../../../Pictures/Documents/GitHub/sanger/docbg.jpg);
 }
 -->
-</style></head>
+</style>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
 <body onload="MM_preloadImages('../images/header_r2_c1_f2.gif','../images/header_r2_c2_f2.gif','../images/header_r2_c3_f2.gif','../images/header_r2_c4_f2.gif','../images/header_r2_c5_f2.gif')">
 <div id="container" style="width: 626px; margin: 0px auto;">
 <p align="center" style="margin top: 0px; margin-bottom: 0px;">
@@ -53,7 +55,8 @@ body {
 </p>
 <div class="outBox">
 	<div class="docBox">
-<body>
+
+
 </p>
 <div align="center"></div>
 </div>
