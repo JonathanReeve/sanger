@@ -7,6 +7,7 @@
 		<prepDate>2012-02-23 JC corrections made</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-08-27 CH enter proofreading changes</prepDate>
+		<prepDate>2016-01-05 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -30,6 +31,7 @@
 				from="421033.xml">Feb. 1924</xref>, <xref from="301463.xml">Mar. 1924</xref>, and
 				<xref from="421034.xml">Apr. 1924</xref>, and <xref from="421009.xml">May
 				1924</xref>.</p>
+		<index level1="client letters"/>
 		<index level1="abortion" level2="birth control and"/>
 		<index level1="abortion" level2="health risks"/>
 		<index level1="abortion" level2="MS on"/>

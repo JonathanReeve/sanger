@@ -12,6 +12,7 @@
 		<prepDate>2014-04-01 CH clean regs</prepDate>
 		<prepDate>2015-01-14 EK correct proof</prepDate>
 		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2016-01-05 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -22,7 +23,7 @@
 		<idno>msp143450</idno>
 		<sourceDesc>
 			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
-			<bibl>Library of Congress Microfilm 131:104</bibl>
+			<bibl><title>Library of Congress Microfilm</title> LCM 131:104</bibl>
 		</sourceDesc>
 		<respStmt>
 			<resp/>
@@ -32,24 +33,26 @@
 		<p>This was published as a flyer by the <org>National Birth Control League</org>. For a
 			partial draft version, see "Address from Prison," Margaret Sanger Microfilm, Smith
 			College Collections S70:775.</p>
-		<index level1="quacks and quackery"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="women" level2="and war"/>
-		<index level1="abortion" level2="MS on"/>
-		<index level1="birth control laws and legislation" level2="MS on"/>
-		<index level1="birth control" level2="socio-economic benefits of"/>
-		<index level1="Sanger, Margaret " level2="arrests and trials"/>
-		<index level1="Sanger, Margaret" level2="and nursing"/>
-		<index level1="United States" level2="charity in"/>
+		<index level1="birth control" level2="definitions of"/>
+		<index level1="women and girls" level2="and birth control"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="freedom and rights of"/>
+		<index level1="women and girls" level2="reproductive choices and decisions"/>
+		<index level1="World War I" level2="MS on"/>
+		<index level1="motherhood" level2="MS on"/>
 		<index level1="poverty"/>
-		<index level1="women" level2="freedom and rights of"/>
-		<index level1="physicians" level2="birth control and"/>
-		<index level1="Brownsville Clinic"/>
-		<index level1="Brownsville Clinic" level2="arrests and imprisionment"/>
-		<index level1="World War I"/>
-		<index level1="war" level2="and birth control"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="abortion" level2="MS on"/>
+		<index level1="physicians" level2="and birth control"/>
+		<index level1="physicians" level2="MS on"/>
+		<index level1="birth control" level2="suppression of"/>
+		<index level1="Brownsville Clinic" level2="arrests, trials and imprisonment"/>
+		<index level1="mortality rates" level2="infant" level3="American"/>
+		<index level1="Sanger, Margaret" level2="as a nurse"/>
+		<index level1="quacks and quackery"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
 		<index level1="children" level2="unwanted"/>
-	</headNote>
+		</headNote>
 	<docBody>
 		<head>VOLUNTARY MOTHERHOOD</head>
 		<byline>By MARGARET SANGER</byline>
