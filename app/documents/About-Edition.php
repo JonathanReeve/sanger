@@ -16,6 +16,7 @@ function MM_swapImgRestore() { //v3.0
         </script> 
 <script type="text/javascript" src="http://sangerpapers.org/sanger/app/documents/global.js"></script> 
 <script>
+
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -31,11 +32,13 @@ body,td,th {
 	color: #000000;
 }
 body {
-	background-color: #990000;
+	background-color: #B0AFAF;
 	background-image: url(../../../../Pictures/Documents/GitHub/sanger/docbg.jpg);
 }
 -->
-</style></head>
+</style>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
 <body onload="MM_preloadImages('../images/header_r2_c1_f2.gif','../images/header_r2_c2_f2.gif','../images/header_r2_c3_f2.gif','../images/header_r2_c4_f2.gif','../images/header_r2_c5_f2.gif')">
 <div id="container" style="width: 626px; margin: 0px auto;">
 <p align="center" style="margin top: 0px; margin-bottom: 0px;">
@@ -43,7 +46,7 @@ body {
 </p>
 <p align="left" style="margin-top: 0px; /*\*/margin-top: -3px;/**/"></p>
 
-	<p align="center" style="margin top: /*\*/margin-top: -3px;/**/"> <a href="http//sangerpapers.org/sanger/app/documents/aboutproject.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c1','','http://sangerpapers.org/sanger/app/images/header_r1_c1.gif/images/header_r2_c1_f2.gif',1)">
+	<p align="center" style="margin top: /*\*/margin-top: -3px;/**/"> <a href="http://sangerpapers.org/sanger/app/documents/aboutproject.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c1','','http://sangerpapers.org/sanger/app/images/header_r1_c1.gif/images/header_r2_c1_f2.gif',1)">
 	<img id="header_r2_c1" src="../../../../Pictures/Documents/GitHub/sanger/header_r2_c1_f2.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/documents/electroniced.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c2','','http://sangerpapers.org/sanger/app/images/header_r2_c2_f2.gif',1)">
 	<img id="header_r2_c2" src="../../../../Pictures/Documents/GitHub/sanger/header_r2_c2.gif" width="104" height="20" alt="" /></a><a href="http://sangerpapers.org/sanger/documents/search.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c3','','../images/header_r2_c3_f2.gif',1)">
 	<img id="header_r2_c3" src="../../../../Pictures/Documents/GitHub/sanger/header_r2_c3.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c4','','../images/header_r2_c4_f2.gif',1)">
@@ -52,7 +55,8 @@ body {
 </p>
 <div class="outBox">
 	<div class="docBox">
-<body>
+
+
 </p>
 <div align="center"></div>
 </div>

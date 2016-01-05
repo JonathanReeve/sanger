@@ -6,6 +6,7 @@
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-08-27 CH enter proofreading changes</prepDate>
+		<prepDate>2016-01-05 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -29,18 +30,16 @@
 				from="421033.xml">Feb. 1924</xref>, <xref from="301463.xml">Mar. 1924</xref>, <xref
 				from="421009.xml">May 1924</xref>, and <xref from="421010.xml">June 1924</xref>.</p>
 		<index level1="client letters"/>
-		<index level1="working classes" level2="birth control and"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
-		<index level1="men" level2="birth control and"/>
-	</headNote>
+		<index level1="child spacing"/>
+		<index level1="birth control" level2="socio-economic benefits"/>
+		<index level1="sex education"/>
+			</headNote>
 	<docBody>
 		<head>MARGARET SANGER'S OWN CORNER</head>
 		<div type="section">
-
 			<salute>Dear Mrs. Sanger</salute>
-
 			<p>
-				<q who="UNK">I have intended for some time to write to you, and thank you for the
+			<q who="UNK">I have intended for some time to write to you, and thank you for the
 					freedom I feel I owe you. I now enjoy motherhood fuller and better because I
 					know, with just an ordinarily amount of common sense applied, you can control
 					it, and that takes away the “can’t help yourself” feeling. Oh! it is so good to
@@ -83,7 +82,6 @@
 			<q who="UNK">
 				<signed>B. M. McM., <place>Louisiana</place></signed>
 			</q>
-
 		</div>
 		<div>
 			<p>Every day we receive hundreds of letters full of pain and sorrow and difficulties. It
@@ -104,7 +102,6 @@
 					other. Or how would you suggest? But if those able to have them won’t, then
 					where is the country going to?</q>
 			</p>
-
 		</div>
 		<div><p><supplied resp="MSPP">Dear Sir</supplied></p>
 			<p> Two years is rather short as an interval between babies. Few women are able to
@@ -112,7 +109,7 @@
 				children, and no mother should be called upon to bear another child until she has
 				fully regained her health from her last pregnancy and childbirth. Also in planning
 				for your family–which, according to your estimate, might consist of from eight to
-				ten children–economic conditions must be taken into consideration. Will you be able
+				ten children–-economic conditions must be taken into consideration. Will you be able
 				to educate and to start in life all these children? Will each one, both boy and
 				girl, be able to find opportunity for a start in life? I take it that your wife will
 				be in full accord with you as regards the number of children, for childbirth is a
@@ -120,7 +117,6 @@
 				unwillingly. Perhaps after you have had the third or fourth you will both decide
 				that you have done your duty. </p>
 			<p> M.S.</p>
-
 		</div>
 	</docBody>
 </doc>

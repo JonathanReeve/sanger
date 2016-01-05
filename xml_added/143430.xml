@@ -7,6 +7,8 @@
 		<prepDate>2012-05-16 AW Corrected Tags</prepDate>
 		<prepDate>2014-04-10 CH clean regs</prepDate>
 		<prepDate>2014-05-02 EK correct proofs</prepDate>
+		<prepDate>2015-05-15 CH clean regs</prepDate>
+		<prepDate>2016-01-05 update index</prepDate>
 		<docAuthor>Margaret Sanger</docAuthor>
 		<docDate value="1917-01-29">
 			<supplied>29 Jan. 1917</supplied>
@@ -33,9 +35,11 @@
 				Sanger</person> wrote: "Part of speech at Carnegie Hall. Judges furious at reading.
 			Perhaps for <title type="journal">BC Review</title> on conscripts."</p>
 		<index level1="birth control movement"/>
-		<index level1="birth control" level2="war and"/>
 		<index level1="motherhood"/>
-		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="women and girkls" level2="reproductive choices and decisions"/>
+		<index level1="women and girls" level2="health of"/>
+		<index level1="women and girls" level2="maternal feelings"/>
+		<index level1="war" level2="MS on"/>
 	</headNote>
 	<docBody>
 		<byline>Mrs. SANGER <add>Radio</add></byline>

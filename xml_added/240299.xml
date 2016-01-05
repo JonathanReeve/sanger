@@ -11,6 +11,7 @@
 		<prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
 		<prepDate>2014-03-18 CH clean regs</prepDate>
 		<prepDate>2015-03-04 CH recheck tags</prepDate>
+		<prepDate>2016-01-05</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -26,14 +27,14 @@
 		</sourceDesc>
 	</mepHeader>
 	<headNote resp="MSPP">
-		<index level1="World War I" level2="women and"/>
+		<index level1="World War I" level2="causes"/>
 		<index level1="World War I" level2="MS on"/>
-		<index level1="working classes" level2="birth control and"/>
-		<index level1="birth control" level2="lack of knowledge of"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="birth control" level2="reproductive choices and decisions"/>
-		<index level1="working classes" level2="war and"/>
-		<index level1="birth control" level2="class-based"/>
+		<index level1="motherhood" level2="MS on"/>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="women and girls" level2="and gender roles"/>
+		<index level1="women and girls" level2="and birth control"/>
+		<index level1="World War I" level2="anti-war efforts"/>		
+		<index level1="working classes" level2="and war"/>
 	</headNote>
 	<docBody>
 		<head>Woman and War</head>

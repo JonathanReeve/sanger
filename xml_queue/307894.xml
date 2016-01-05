@@ -8,6 +8,7 @@
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-07-22 CH correct titles</prepDate>
 		<prepDate>2015-08-27 CH enter proofreading changes</prepDate>
+		<prepDate>2016-01-05 EK update index</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -35,10 +36,19 @@
 			article were published in the Sept. 1924 <title type="journal">Birth Control
 				Review</title> as "<title type="article">The Fight Against Birth Control</title>,"
 			pp. 245-248, and 269. </p>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control" level2="and sexuality"/>
 		<index level1="birth control" level2="opposition to"/>
-		<index level1="Comstock, Anthony"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
 		<index level1="birth control laws and legislation" level2="Federal"/>
-		<index level1="Catholic Church" level2="birth control and"/>
+		<index level1="birth control laws and legislation" level2="MS on"/>
+		<index level1="birth control movement" level2="goals and strategies"/>
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="Comstock, Anthony"/>	
+		<index level1="censorship" level2="in United States"/>
+		<index level1="obscenity"/>
+		<index level1="Catholic Church" level2="and birth control"/>
 	</headNote>
 	<docBody>
 		<head>THE WAR AGAINST BIRTH CONTROL</head>
