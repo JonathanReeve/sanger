@@ -7,6 +7,7 @@
 		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
 		<prepDate>2015-03-10 CH recheck tags</prepDate>
 		<prepDate>2015-08-26 CH enter proofreading corrections</prepDate>
+		<prepDate>2016-01-06 EK index updates</prepDate>
 		<docAuthor>
 			<person reg="Sanger, Margaret">Margaret Sanger</person>
 		</docAuthor>
@@ -31,13 +32,12 @@
 			Syracuse radio station <org>WFAB</org>.</p>
 		<index level1="birth control" level2="eugenic justifications"/>
 		<index level1="birth control" level2="morality of"/>
-		<index level1="poverty" level2="family size and"/>
+		<index level1="children" level2="rights of"/>
+		<index level1="family size" level2="and poverty"/>
 		<index level1="child spacing"/>
-		<index level1="conferences" level2="New York State Birth Control Conference" level3="1924"/>
-		<index level1="progress"/>
-		<index level1="women" level2="enslavement of"/>
-		<index level1="mortality rates" level2="infant"/>
-	</headNote>
+		<index level1="women and girls" level2="enslavement of"/>
+		<index level1="conferences" level2="New York State Conference on Birth Control" level3="1924"/>
+		</headNote>
 	<docBody>
 		<head>The Meaning of Radio Birth Control</head>
 		<byline>By Margaret Sanger</byline>
